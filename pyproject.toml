@@ -12,6 +12,9 @@ scikit-learn = "^1.6.0"
 pandas = "^2.2.3"
 transformers = "^4.48.1"
 torch = "^2.5.1"
+accelerate = "^1.5.1"
+datasets = "^3.3.2"
+notebook = "^7.4.0"
 
 
 [build-system]
