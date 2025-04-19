@@ -2,7 +2,7 @@
 from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling
 from torch.utils.data import Dataset
 
-def finetune_model(model, tokenizer, input_data, output_dir):
+def finetune_model(model, tokenizer, encodings, output_dir, save_steps, save_limit, epochs):
     class CustomDataset(Dataset):
         def __init__(self, encodings):
             self.encodings = encodings
@@ -14,15 +14,6 @@ def finetune_model(model, tokenizer, input_data, output_dir):
             return {
                 key: val[idx] for key, val in self.encodings.items()
             }
-        
-    input_encodings = tokenizer(input_data['input'].tolist(), return_tensors="pt", padding=True, truncation=True)
-    label_encodings = tokenizer(input_data['output'].tolist(), return_tensors="pt", padding=True, truncation=True)
-
-    encodings = {
-        "input_ids": input_encodings["input_ids"],
-        "attention_mask": input_encodings["attention_mask"],
-        "labels": label_encodings["input_ids"],
-    }
 
     dataset = CustomDataset(encodings)
 
@@ -30,9 +21,9 @@ def finetune_model(model, tokenizer, input_data, output_dir):
         output_dir=output_dir,
         overwrite_output_dir=True,
         per_device_train_batch_size=8,
-        num_train_epochs=3,
-        save_steps=500,
-        save_total_limit=2,
+        num_train_epochs=epochs,
+        save_steps=save_steps,
+        save_total_limit=save_limit,
         logging_steps=100,
     )
 

@@ -5,6 +5,7 @@ from loguru import logger
 from sklearn.model_selection import train_test_split
 import os
 from datetime import datetime
+import torch
 from transformers.tokenization_utils_base import BatchEncoding
 
 
@@ -13,14 +14,10 @@ class Data():
     """Class to creat and administer datasets"""
     files: dict[str, pd.DataFrame] = {}
     split_data: dict[str, pd.DataFrame] = {}
-
-    def __init__(self, data_path: str) -> None:
-        self.data_path = data_path
-        self.collect_data()
     
-    def collect_data(self) -> None:
+    def collect_data(self, data_path: str) -> None:
         """Reads all JSON files, extracts the 'examples' key, stores them as DataFrames in self.files and creates an path-enum"""
-        pathlist = Path(self.data_path).glob('**/*.json')
+        pathlist = Path(data_path).glob('**/*.json')
         for path in pathlist:
             try:
                 with open(path, 'r', encoding='utf-8') as file:
@@ -76,7 +73,7 @@ class Data():
         os.makedirs(target_dir, exist_ok=True)
 
         if not self.split_data:
-            logger.warning("No split data found. Did you call .split() first?")
+            logger.warning("No split data found. Did you call .split() or .load_split() first?")
             return
 
         for path, split in self.split_data.items():
@@ -95,13 +92,86 @@ class Data():
 
                 except Exception as e:
                     logger.error(f"Failed to save {split_name} set for {path}: {e}")
+    
+    def load_split(self, directory: str) -> None:
+        split_data = {}
 
-    def get_tokenised_train_split(self, tokenizer) -> dict[str, tuple[BatchEncoding, BatchEncoding]]:
+        try:
+  
+            for filename in os.listdir(directory):
+                if filename.endswith(".json"):
+ 
+                    path = os.path.join(directory, filename)
+                    base_name = "_".join(filename.split("_")[:-1]) + ".json"
+                    split_type = filename.split("_")[-1].replace(".json", "")
+
+                    with open(path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+
+                    df = pd.DataFrame(data)
+
+                    if base_name not in split_data:
+                        split_data[base_name] = {}
+
+                    split_data[base_name][split_type] = df
+
+                    logger.info(f"loaded: {base_name}")
+
+        except Exception as e:
+            logger.error(f"Error while loading splits: {e}")
+
+        self.split_data = split_data
+
+
+    def get_tokenised_dict(self, tokenizer) -> dict:
         tokenised_dict = {}
-        for df_key in self.split_data:
-            input_train_encodings = tokenizer(self.split_data[df_key]['train']['input'].astype(str).tolist(), return_tensors="pt", padding=True, truncation=True)
-            label_train_encodings = tokenizer(self.split_data[df_key]['train']['output'].astype(str).tolist(), return_tensors="pt", padding=True, truncation=True)
 
-            tokenised_dict[df_key] = (input_train_encodings, label_train_encodings)
+        for key in self.split_data:
+            inputs = self.split_data[key]['train']['input'].astype(str).tolist()
+            outputs = self.split_data[key]['train']['output'].astype(str).tolist()
+            combined_texts = [inp + tokenizer.eos_token + out for inp, out in zip(inputs, outputs)]
+            input_lens = [len(tokenizer(inp + tokenizer.eos_token)["input_ids"]) for inp in inputs]
+            encodings = tokenizer(combined_texts, return_tensors="pt", padding=True, truncation=True)
 
+            input_ids = encodings["input_ids"]
+            attention_mask = encodings["attention_mask"]
+
+            labels = input_ids.clone()
+            for i, input_len in enumerate(input_lens):
+                labels[i, :input_len] = -100
+
+            tokenised_dict[key] = {
+                "input_ids": input_ids,
+                "attention_mask": attention_mask,
+                "labels": labels
+            }
+        
         return tokenised_dict
+    
+
+    def merge_tokenised_dict(self, tokenised_dict, tokenizer) -> dict:
+
+        def pad_to_max_length(tensors, pad_token_id=-100):
+            max_len = max(t.size(1) for t in tensors)
+            padded = []
+            for t in tensors:
+                pad_len = max_len - t.size(1)
+                if pad_len > 0:
+                    padding = torch.full((t.size(0), pad_len), pad_token_id, dtype=t.dtype)
+                    t = torch.cat([t, padding], dim=1)
+                padded.append(t)
+            return padded
+
+        input_ids = [v["input_ids"] for v in tokenised_dict.values()]
+        attention_masks = [v["attention_mask"] for v in tokenised_dict.values()]
+        labels = [v["labels"] for v in tokenised_dict.values()]
+
+        input_ids = pad_to_max_length(input_ids, tokenizer.pad_token_id)
+        attention_masks = pad_to_max_length(attention_masks, 0)
+        labels = pad_to_max_length(labels, -100)
+
+        return {
+            "input_ids": torch.cat(input_ids, dim=0),
+            "attention_mask": torch.cat(attention_masks, dim=0),
+            "labels": torch.cat(labels, dim=0),
+        }
