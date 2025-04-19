@@ -1,8 +1,12 @@
 import csv
 import os
+import re
+from transformers import GPT2LMHeadModel
+import outlines
 
 
-def test_model(model, tokenizer, test_data, output_dir, file_name, max_new_tokens, char):
+def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_tokens, char, device):
+    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
     for index, row in test_data.iterrows():
         input = row["input"] + tokenizer.eos_token
 
@@ -38,10 +42,21 @@ def test_model(model, tokenizer, test_data, output_dir, file_name, max_new_token
         with open(csv_path, mode="a", newline="", encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
             if not file_exists:
-                writer.writerow(["Input", "Expected", "Predicted"])
-            writer.writerow([row["input"], row["output"], output_text])
+                writer.writerow(["Input", "Options", "Expected", "Predicted"])
+            writer.writerow([row["input"],row["options"], row["output"], output_text])
 
-def test_model_outlines(model, tokenizer, test_data, output_dir, file_name):
+def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name, device):
+    model = outlines.models.transformers(model_name).to(device)
     for index, row in test_data.iterrows():
         input = row["input"] + tokenizer.eos_token
-        print(row['metadata'])
+        options = row["options"]
+        generator = outlines.generate.choice(model, options)
+        output_text = generator(input)
+        os.makedirs(output_dir, exist_ok=True)
+        csv_path = os.path.join(output_dir, f'{file_name}.csv')
+        file_exists = os.path.isfile(csv_path)
+        with open(csv_path, mode="a", newline="", encoding="utf-8") as csvfile:
+            writer = csv.writer(csvfile)
+            if not file_exists:
+                writer.writerow(["Input", "Options", "Expected", "Predicted",])
+            writer.writerow([row["input"], row["options"], row["output"], output_text])

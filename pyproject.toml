@@ -6,16 +6,24 @@ authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
 loguru = "^0.7.3"
 scikit-learn = "^1.6.0"
 pandas = "^2.2.3"
 transformers = "^4.48.1"
-torch = "^2.5.1"
 accelerate = "^1.5.1"
 datasets = "^3.3.2"
 notebook = "^7.4.0"
+outlines = "^0.2.3"
+sentencepiece = "^0.2.0"
+torch = {version = "^2.6.0", source = "pytorch-gpu"}
+torchvision = {version = "^0.21.0", source = "pytorch-gpu"}
+torchaudio = {version = "^2.6.0", source = "pytorch-gpu"}
 
+[[tool.poetry.source]]
+name = "pytorch-gpu"
+url = "https://download.pytorch.org/whl/cu118"
+priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]

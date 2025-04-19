@@ -28,7 +28,8 @@ class Data():
                     
                     data = [{
                         "input": example['input'].replace('\n', ' '),
-                        "output": example['metadata'].get('answer', None)
+                        "output": example['metadata'].get('answer', None),
+                        "options": self.extract_choices(example['metadata'])
                     }
                     for example in examples.values()]
 
@@ -43,6 +44,31 @@ class Data():
                 logger.error(f"Error decoding JSON in {path}: {e}")
             except Exception as e:
                 logger.error(f"Unexpected error with {path}: {e}")
+
+
+    def extract_choices(self, metadata):
+        if "n1" in metadata and "n2" in metadata:
+            return [str(metadata["n1"]), str(metadata["n2"])]
+        
+        elif "word1" in metadata and "word2" in metadata:
+            return [metadata["word1"], metadata["word2"]]
+        
+        elif "answer" in metadata and "distractor" in metadata:
+            return [metadata["answer"], metadata["distractor"]]
+        
+        elif "answer" in metadata and "distractors" in metadata:
+            return [metadata["answer"]] + metadata["distractors"]
+        
+        elif "sentence" in metadata and "answer" in metadata:
+            words = metadata["sentence"].split()
+            if metadata["answer"] in words:
+                return words 
+        
+        elif "word" in metadata and "answer" in metadata:
+            return list(metadata["word"])
+
+        logger.warning(f"No valid choice found!")
+        return []
 
     def split(self, train_size: float) -> None:
         """Method to split the Data in train and test. The train_size parameter determines the percentage of samples used for traing"""
@@ -175,3 +201,4 @@ class Data():
             "attention_mask": torch.cat(attention_masks, dim=0),
             "labels": torch.cat(labels, dim=0),
         }
+    
