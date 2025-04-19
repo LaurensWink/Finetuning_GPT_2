@@ -17,7 +17,7 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         truncation=True,
         max_length=200,
         return_attention_mask=True
-        )
+        ).to(device)
         
         outputs = model.generate(
         input_ids=inputs['input_ids'],
@@ -45,13 +45,15 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
                 writer.writerow(["Input", "Options", "Expected", "Predicted"])
             writer.writerow([row["input"],row["options"], row["output"], output_text])
 
-def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name, device):
-    model = outlines.models.transformers(model_name).to(device)
+def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name, char):
+    model = outlines.models.transformers(model_name)
     for index, row in test_data.iterrows():
         input = row["input"] + tokenizer.eos_token
         options = row["options"]
         generator = outlines.generate.choice(model, options)
         output_text = generator(input)
+        if char:
+            output_text = output_text.replace(" ", "")
         os.makedirs(output_dir, exist_ok=True)
         csv_path = os.path.join(output_dir, f'{file_name}.csv')
         file_exists = os.path.isfile(csv_path)

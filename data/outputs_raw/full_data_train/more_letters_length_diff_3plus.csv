@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: Which word is longer, ""throw"" or ""oh""? A:","['throw', 'oh']",throw,throw? a:
+"Q: Which word is longer, ""during"" or ""on""? A:","['during', 'on']",during,during? a:
+"Q: Which word is longer, ""playground"" or ""why""? A:","['playground', 'why']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""empty"" or ""an""? A:","['empty', 'an']",empty,"and""? a:"
+"Q: Of the words ""be"" and ""money"" which one has more letters? A:","['be', 'money']",money,"be"" and ""be""? a:"
+"Q: Which word is longer, ""of"" or ""print""? A:","['of', 'print']",print,of? a:
+"Q: Which word is longer, ""cover"" or ""playground""? A:","['cover', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""cold"" and ""skating"" which one has more letters? A:","['cold', 'skating']",skating,skating? a:
+"Q: Which word has more letters, ""playground"" or ""gas""? A:","['playground', 'gas']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""playground"" and ""also"" which one has more letters? A:","['playground', 'also']",playground,playground? a:
+"Q: Of the words ""yard"" and ""postcard"" which one has more letters? A:","['yard', 'postcard']",postcard,postcard? a:
+"Q: Which word has more letters, ""anymore"" or ""on""? A:","['anymore', 'on']",anymore,"anymore""? a:"
+"Q: Which word has more letters, ""singular"" or ""disco""? A:","['singular', 'disco']",singular,singular? a:
+"Q: Which word is longer, ""surfing"" or ""hour""? A:","['surfing', 'hour']",surfing,surfing? a:
+"Q: Of the words ""own"" and ""minute"" which one has more letters? A:","['own', 'minute']",minute,own? a:
+"Q: Which word has more letters, ""head"" or ""discount""? A:","['head', 'discount']",discount,discount? a:
+"Q: Which word is longer, ""turn"" or ""mistake""? A:","['turn', 'mistake']",mistake,"mistake""? a:"
+"Q: Which word has more letters, ""go"" or ""worst""? A:","['go', 'worst']",worst,"go"" or ""worst""? a:"
+"Q: Of the words ""nature"" and ""cry"" which one has more letters? A:","['nature', 'cry']",nature,nature? a:
+"Q: Of the words ""my"" and ""around"" which one has more letters? A:","['my', 'around']",around,"my"" and ""my""? a:"
+"Q: Which word has more letters, ""boyfriend"" or ""worst""? A:","['boyfriend', 'worst']",boyfriend,"worst""? a:"
+"Q: Which word has more letters, ""drawing"" or ""nice""? A:","['drawing', 'nice']",drawing,"drawing""? a:"
+"Q: Which word has more letters, ""an"" or ""snack""? A:","['an', 'snack']",snack,snack? a:
+"Q: Of the words ""modern"" and ""playground"" which one has more letters? A:","['modern', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""itself"" or ""we""? A:","['itself', 'we']",itself,"we""? a:"
+"Q: Of the words ""be"" and ""playground"" which one has more letters? A:","['be', 'playground']",playground,playground? a:
+"Q: Of the words ""playground"" and ""heat"" which one has more letters? A:","['playground', 'heat']",playground,playground? a:
+"Q: Which word is longer, ""past"" or ""something""? A:","['past', 'something']",something,"something"" or ""something"""
+"Q: Which word has more letters, ""playground"" or ""low""? A:","['playground', 'low']",playground,"playground""? a:"
+"Q: Which word is longer, ""include"" or ""bag""? A:","['include', 'bag']",include,bag? a:
+"Q: Which word is longer, ""they"" or ""wonderful""? A:","['they', 'wonderful']",wonderful,"they"" or ""wonderful""? a:"
+"Q: Which word is longer, ""new"" or ""myself""? A:","['new', 'myself']",myself,"myself""? a:"
+"Q: Which word has more letters, ""surfing"" or ""arm""? A:","['surfing', 'arm']",surfing,surfing? a:
+"Q: Of the words ""listen"" and ""an"" which one has more letters? A:","['listen', 'an']",listen,"listen""? a:"
+"Q: Which word has more letters, ""fashion"" or ""gym""? A:","['fashion', 'gym']",fashion,gym? a:
+"Q: Which word has more letters, ""cloudy"" or ""try""? A:","['cloudy', 'try']",cloudy,"try""? a:"
+"Q: Of the words ""buy"" and ""software"" which one has more letters? A:","['buy', 'software']",software,"buy"" or ""software""? a:"
+"Q: Which word has more letters, ""big"" or ""details""? A:","['big', 'details']",details,"big"" or ""big""? a:"
+"Q: Which word has more letters, ""something"" or ""dream""? A:","['something', 'dream']",something,"dream""? a:"
+"Q: Which word is longer, ""something"" or ""dream""? A:","['something', 'dream']",something,"dream""? a:"
+"Q: Which word has more letters, ""dirty"" or ""oh""? A:","['dirty', 'oh']",dirty,"oh, oh, oh, oh, oh, oh, o"
+"Q: Which word has more letters, ""ad"" or ""money""? A:","['ad', 'money']",money,money? ad? a:
+"Q: Which word has more letters, ""your"" or ""various""? A:","['your', 'various']",various,"your"" or ""your""? a:"
+"Q: Which word has more letters, ""mix"" or ""friendly""? A:","['mix', 'friendly']",friendly,"friendly"" or ""mix""? a:"
+"Q: Which word is longer, ""suit"" or ""blanket""? A:","['suit', 'blanket']",blanket,blanket? a:
+"Q: Which word is longer, ""enough"" or ""for""? A:","['enough', 'for']",enough,enough?
+"Q: Of the words ""site"" and ""musical"" which one has more letters? A:","['site', 'musical']",musical,"site""? a:"
+"Q: Which word has more letters, ""oh"" or ""playground""? A:","['oh', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""sofa"" and ""lunchtime"" which one has more letters? A:","['sofa', 'lunchtime']",lunchtime,lunchtime? a:
+"Q: Which word is longer, ""bother"" or ""set""? A:","['bother', 'set']",bother,"bother"" or ""set""? a:"
+"Q: Which word is longer, ""water"" or ""so""? A:","['water', 'so']",water,"water""? a:"
+"Q: Of the words ""sea"" and ""cousin"" which one has more letters? A:","['sea', 'cousin']",cousin,sea?
+"Q: Which word has more letters, ""my"" or ""smoke""? A:","['my', 'smoke']",smoke,"smoke""? a:"
+"Q: Of the words ""worse"" and ""platform"" which one has more letters? A:","['worse', 'platform']",platform,platform? a:
+"Q: Which word has more letters, ""might"" or ""platform""? A:","['might', 'platform']",platform,"platform"" or ""platform""? "
+"Q: Of the words ""like"" and ""camping"" which one has more letters? A:","['like', 'camping']",camping,"like, ""camping""? a:"
+"Q: Which word is longer, ""hi"" or ""mouse""? A:","['hi', 'mouse']",mouse,"hi"" or ""hi""? a:"
+"Q: Which word has more letters, ""job"" or ""single""? A:","['job', 'single']",single,"single""? a:"
+"Q: Of the words ""far"" and ""bother"" which one has more letters? A:","['far', 'bother']",bother,"bother""? a:"
+"Q: Which word is longer, ""playground"" or ""pray""? A:","['playground', 'pray']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""policeman"" or ""have""? A:","['policeman', 'have']",policeman,policeman? a:
+"Q: Which word has more letters, ""child"" or ""by""? A:","['child', 'by']",child,"bye""? a:"
+"Q: Which word has more letters, ""favorite"" or ""about""? A:","['favorite', 'about']",favorite,"about"" or ""favorite""? a:"
+"Q: Which word has more letters, ""century"" or ""lose""? A:","['century', 'lose']",century,century? a:
+"Q: Which word has more letters, ""playground"" or ""menu""? A:","['playground', 'menu']",playground,"playground""? a:"
+"Q: Which word is longer, ""something"" or ""best""? A:","['something', 'best']",something,best? a:
+"Q: Which word is longer, ""long"" or ""playground""? A:","['long', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""smoking"" or ""page""? A:","['smoking', 'page']",smoking,smoking? a:
+"Q: Which word is longer, ""scarf"" or ""computer""? A:","['scarf', 'computer']",computer,computer? a:
+"Q: Which word has more letters, ""home"" or ""daughter""? A:","['home', 'daughter']",daughter,"daughter""? a:"
+"Q: Which word is longer, ""path"" or ""special""? A:","['path', 'special']",special,"special""? a:"
+"Q: Of the words ""walking"" and ""city"" which one has more letters? A:","['walking', 'city']",walking,"walking"" and ""walking""? a"
+"Q: Of the words ""castle"" and ""wet"" which one has more letters? A:","['castle', 'wet']",castle,wet?
+"Q: Which word is longer, ""platform"" or ""new""? A:","['platform', 'new']",platform,"platform"" or ""new""? a:"
+"Q: Which word has more letters, ""curtain"" or ""fat""? A:","['curtain', 'fat']",curtain,curtain? a:
+"Q: Which word has more letters, ""neighbor"" or ""him""? A:","['neighbor', 'him']",neighbor,him? a:
+"Q: Of the words ""various"" and ""desk"" which one has more letters? A:","['various', 'desk']",various,various? a:
+"Q: Of the words ""playground"" and ""air"" which one has more letters? A:","['playground', 'air']",playground,playground? a:
+"Q: Of the words ""mosque"" and ""he"" which one has more letters? A:","['mosque', 'he']",mosque,mosque? a:
+"Q: Of the words ""himself"" and ""playground"" which one has more letters? A:","['himself', 'playground']",playground,playground? a:
+"Q: Which word is longer, ""favorite"" or ""about""? A:","['favorite', 'about']",favorite,"about"" or ""favorite""? a:"
+"Q: Which word is longer, ""pay"" or ""parent""? A:","['pay', 'parent']",parent,"parent""? a:"
+"Q: Which word has more letters, ""upset"" or ""policeman""? A:","['upset', 'policeman']",policeman,"policeman""? a:"
+"Q: Which word is longer, ""box"" or ""strong""? A:","['box', 'strong']",strong,box? a:
+"Q: Of the words ""playground"" and ""pray"" which one has more letters? A:","['playground', 'pray']",playground,playground? a:
+"Q: Which word has more letters, ""buy"" or ""software""? A:","['buy', 'software']",software,"buy"" or ""software""? a:"
+"Q: Of the words ""problem"" and ""like"" which one has more letters? A:","['problem', 'like']",problem,problem? a:
+"Q: Which word is longer, ""question"" or ""west""? A:","['question', 'west']",question,question? a:
+"Q: Of the words ""chemistry"" and ""he"" which one has more letters? A:","['chemistry', 'he']",chemistry,"he, he, he, he, he, he, h"
+"Q: Of the words ""set"" and ""special"" which one has more letters? A:","['set', 'special']",special,set? a:
+"Q: Which word has more letters, ""cousin"" or ""hey""? A:","['cousin', 'hey']",cousin,"hey, cousin""? a:"
+"Q: Which word is longer, ""come"" or ""playground""? A:","['come', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""star"" and ""quickly"" which one has more letters? A:","['star', 'quickly']",quickly,"star"" and ""star""? a:"
+"Q: Which word is longer, ""playground"" or ""careful""? A:","['playground', 'careful']",playground,"playground"" or ""careful""?"
+"Q: Which word is longer, ""playground"" or ""mad""? A:","['playground', 'mad']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""mug"" or ""silver""? A:","['mug', 'silver']",silver,mug? a:
+"Q: Of the words ""something"" and ""news"" which one has more letters? A:","['something', 'news']",something,"something"" and ""news""? a:"
+"Q: Of the words ""fashion"" and ""gym"" which one has more letters? A:","['fashion', 'gym']",fashion,gym? a:
+"Q: Which word has more letters, ""customer"" or ""left""? A:","['customer', 'left']",customer,"left""? a:"
+"Q: Which word is longer, ""blanket"" or ""playground""? A:","['blanket', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""itself"" and ""jam"" which one has more letters? A:","['itself', 'jam']",itself,"itself""? a:"
+"Q: Which word has more letters, ""wonderful"" or ""windy""? A:","['wonderful', 'windy']",wonderful,"windy"" or ""windy""? a:"
+"Q: Which word has more letters, ""low"" or ""daughter""? A:","['low', 'daughter']",daughter,"daughter""? a:"
+"Q: Which word is longer, ""question"" or ""hot""? A:","['question', 'hot']",question,question? a:
+"Q: Which word is longer, ""with"" or ""discount""? A:","['with', 'discount']",discount,discount? a:
+"Q: Which word has more letters, ""white"" or ""postcard""? A:","['white', 'postcard']",postcard,postcard? a:
+"Q: Which word is longer, ""way"" or ""should""? A:","['way', 'should']",should,"should""? a:"
+"Q: Which word has more letters, ""improve"" or ""the""? A:","['improve', 'the']",improve,"the""? a:"
+"Q: Which word has more letters, ""cut"" or ""wonderful""? A:","['cut', 'wonderful']",wonderful,"wonderful""? a:"
+"Q: Which word is longer, ""fast"" or ""playground""? A:","['fast', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""sad"" and ""dinosaur"" which one has more letters? A:","['sad', 'dinosaur']",dinosaur,dinosaur? a:
+"Q: Which word has more letters, ""of"" or ""towel""? A:","['of', 'towel']",towel,towel?
+"Q: Of the words ""next"" and ""dangerous"" which one has more letters? A:","['next', 'dangerous']",dangerous,"dangerous""? a:"
+"Q: Of the words ""wonderful"" and ""windy"" which one has more letters? A:","['wonderful', 'windy']",wonderful,windy? a:
+"Q: Which word has more letters, ""boyfriend"" or ""kid""? A:","['boyfriend', 'kid']",boyfriend,"boyfriend""? a:"
+"Q: Of the words ""walk"" and ""policeman"" which one has more letters? A:","['walk', 'policeman']",policeman,policeman? a:
+"Q: Which word has more letters, ""honey"" or ""to""? A:","['honey', 'to']",honey,"to"" or ""to""? a:"
+"Q: Which word has more letters, ""ring"" or ""policeman""? A:","['ring', 'policeman']",policeman,"policeman""? a:"
+"Q: Which word is longer, ""mosque"" or ""he""? A:","['mosque', 'he']",mosque,"he""? a:"
+"Q: Which word is longer, ""playground"" or ""fine""? A:","['playground', 'fine']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""on"" and ""grape"" which one has more letters? A:","['on', 'grape']",grape,"one"" or ""grape""? a:"
+"Q: Which word is longer, ""playground"" or ""once""? A:","['playground', 'once']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""picture"" or ""sit""? A:","['picture', 'sit']",picture,picture? a:
+"Q: Which word is longer, ""case"" or ""singular""? A:","['case', 'singular']",singular,case? a:
+"Q: Which word is longer, ""exam"" or ""document""? A:","['exam', 'document']",document,document? a:
+"Q: Of the words ""customer"" and ""left"" which one has more letters? A:","['customer', 'left']",customer,"left""? a:"
+"Q: Which word is longer, ""so"" or ""course""? A:","['so', 'course']",course,"course"" or ""course""? a:"
+"Q: Which word has more letters, ""flight"" or ""set""? A:","['flight', 'set']",flight,set? a:
+"Q: Which word has more letters, ""something"" or ""talk""? A:","['something', 'talk']",something,"something""? a:"
+"Q: Which word has more letters, ""keyboard"" or ""climb""? A:","['keyboard', 'climb']",keyboard,"keyboard"" or ""climb""? a:"
+"Q: Of the words ""large"" and ""be"" which one has more letters? A:","['large', 'be']",large,"be"" or ""be""? a:"
+"Q: Which word is longer, ""how"" or ""century""? A:","['how', 'century']",century,"how does the word ""centur"
+"Q: Which word is longer, ""low"" or ""broken""? A:","['low', 'broken']",broken,"broken"" or ""broken""? a:"
+"Q: Which word is longer, ""do"" or ""beach""? A:","['do', 'beach']",beach,"beach"" or ""beach""? a:"
+"Q: Which word has more letters, ""do"" or ""group""? A:","['do', 'group']",group,"do"" or ""group""? a:"
+"Q: Which word has more letters, ""enough"" or ""wet""? A:","['enough', 'wet']",enough,enough? a:
+"Q: Which word has more letters, ""pocket"" or ""fun""? A:","['pocket', 'fun']",pocket,pocket? a:
+"Q: Which word is longer, ""grow"" or ""playground""? A:","['grow', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""boyfriend"" or ""shop""? A:","['boyfriend', 'shop']",boyfriend,boyfriend? a:
+"Q: Of the words ""lunchtime"" and ""worse"" which one has more letters? A:","['lunchtime', 'worse']",lunchtime,worse?
+"Q: Of the words ""fashion"" and ""hard"" which one has more letters? A:","['fashion', 'hard']",fashion,fashion? a:
+"Q: Which word is longer, ""fog"" or ""something""? A:","['fog', 'something']",something,fog?
+"Q: Of the words ""bother"" and ""say"" which one has more letters? A:","['bother', 'say']",bother,"bother""? a:"
+"Q: Of the words ""company"" and ""pink"" which one has more letters? A:","['company', 'pink']",company,pink? a:
+"Q: Of the words ""up"" and ""video"" which one has more letters? A:","['up', 'video']",video,up? a:
+"Q: Which word has more letters, ""west"" or ""policeman""? A:","['west', 'policeman']",policeman,"policeman""? a:"
+"Q: Of the words ""we"" and ""could"" which one has more letters? A:","['we', 'could']",could,"we"" and ""we""? a:"
+"Q: Of the words ""playground"" and ""pig"" which one has more letters? A:","['playground', 'pig']",playground,playground? a:
+"Q: Of the words ""wrong"" and ""my"" which one has more letters? A:","['wrong', 'my']",wrong,wrong? a:
+"Q: Which word has more letters, ""long"" or ""playground""? A:","['long', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""him"" or ""dangerous""? A:","['him', 'dangerous']",dangerous,"dangerous"" or ""him""? a:"
+"Q: Of the words ""star"" and ""reading"" which one has more letters? A:","['star', 'reading']",reading,reading? a:
+"Q: Which word has more letters, ""cup"" or ""lunchtime""? A:","['cup', 'lunchtime']",lunchtime,cup? a:
+"Q: Of the words ""course"" and ""ear"" which one has more letters? A:","['course', 'ear']",course,course? a:
+"Q: Which word has more letters, ""explain"" or ""grow""? A:","['explain', 'grow']",explain,"grow""? a:"
+"Q: Which word is longer, ""playground"" or ""storm""? A:","['playground', 'storm']",playground,"playground"" or ""storm""? a"
+"Q: Which word has more letters, ""up"" or ""since""? A:","['up', 'since']",since,up? a:
+"Q: Of the words ""take"" and ""sandwich"" which one has more letters? A:","['take', 'sandwich']",sandwich,sandwich? a:
+"Q: Which word is longer, ""dangerous"" or ""my""? A:","['dangerous', 'my']",dangerous,"dangerous""? a:"
+"Q: Of the words ""be"" and ""quick"" which one has more letters? A:","['be', 'quick']",quick,"be"" and ""quick""? a:"
+"Q: Which word is longer, ""paint"" or ""me""? A:","['paint', 'me']",paint,"painter""? a:"
+"Q: Which word is longer, ""lend"" or ""walking""? A:","['lend', 'walking']",walking,lending? a:
+"Q: Which word has more letters, ""poster"" or ""ask""? A:","['poster', 'ask']",poster,"ask""? a:"
+"Q: Which word has more letters, ""so"" or ""stadium""? A:","['so', 'stadium']",stadium,"something""? a:"
+"Q: Which word is longer, ""thanks"" or ""bad""? A:","['thanks', 'bad']",thanks,"bad"" or ""bad""? a:"
+"Q: Which word is longer, ""lunchtime"" or ""right""? A:","['lunchtime', 'right']",lunchtime,lunchtime? a:
+"Q: Which word has more letters, ""birthday"" or ""word""? A:","['birthday', 'word']",birthday,"word is shorter, ""story"" "
+"Q: Of the words ""he"" and ""maybe"" which one has more letters? A:","['he', 'maybe']",maybe,"he"" and ""maybe""? a:"
+"Q: Of the words ""another"" and ""some"" which one has more letters? A:","['another', 'some']",another,"another""? a:"
+"Q: Which word has more letters, ""bridge"" or ""go""? A:","['bridge', 'go']",bridge,"go"" or ""bridge""? a:"
+"Q: Of the words ""explain"" and ""like"" which one has more letters? A:","['explain', 'like']",explain,"like, ""explain""? a:"
+"Q: Of the words ""band"" and ""favorite"" which one has more letters? A:","['band', 'favorite']",favorite,"band"" or ""boyfriend""? a:"
+"Q: Which word is longer, ""eat"" or ""camping""? A:","['eat', 'camping']",camping,camping? a:
+"Q: Which word has more letters, ""ear"" or ""wonderful""? A:","['ear', 'wonderful']",wonderful,"wonderful""? a:"
+"Q: Of the words ""thanks"" and ""bad"" which one has more letters? A:","['thanks', 'bad']",thanks,"bad""? a:"
+"Q: Which word is longer, ""mark"" or ""playground""? A:","['mark', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""singular"" and ""night"" which one has more letters? A:","['singular', 'night']",singular,"night"" is a word most com"
+"Q: Which word is longer, ""policeman"" or ""warm""? A:","['policeman', 'warm']",policeman,"policeman"" or ""policeman"""
+"Q: Which word has more letters, ""husband"" or ""try""? A:","['husband', 'try']",husband,"try""? a:"
+"Q: Which word is longer, ""surfing"" or ""arm""? A:","['surfing', 'arm']",surfing,surfing? a:
+"Q: Which word has more letters, ""playground"" or ""cap""? A:","['playground', 'cap']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""black"" and ""playground"" which one has more letters? A:","['black', 'playground']",playground,playground? a:
+"Q: Which word is longer, ""sandwich"" or ""towel""? A:","['sandwich', 'towel']",sandwich,sandwich? a:
+"Q: Of the words ""white"" and ""postcard"" which one has more letters? A:","['white', 'postcard']",postcard,postcard? a:
+"Q: Which word has more letters, ""playground"" or ""kind""? A:","['playground', 'kind']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""take"" or ""hospital""? A:","['take', 'hospital']",hospital,"take"" or ""hospital""? a:"
+"Q: Which word has more letters, ""question"" or ""my""? A:","['question', 'my']",question,"my"" or ""question""? a:"
+"Q: Of the words ""playground"" and ""part"" which one has more letters? A:","['playground', 'part']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""playground"" or ""fail""? A:","['playground', 'fail']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""me"" or ""break""? A:","['me', 'break']",break,"me"" or ""break""? a:"
+"Q: Which word has more letters, ""life"" or ""friendly""? A:","['life', 'friendly']",friendly,"life""? a:"
+"Q: Which word is longer, ""star"" or ""cabinet""? A:","['star', 'cabinet']",cabinet,cabinet? a:
+"Q: Which word is longer, ""platform"" or ""hurt""? A:","['platform', 'hurt']",platform,"platform"" or ""platform""? "
+"Q: Which word has more letters, ""picture"" or ""oh""? A:","['picture', 'oh']",picture,"oh, oh, oh, oh, oh, oh, o"
+"Q: Which word is longer, ""wonderful"" or ""know""? A:","['wonderful', 'know']",wonderful,know? a:
+"Q: Of the words ""way"" and ""playground"" which one has more letters? A:","['way', 'playground']",playground,playgrounds? a:
+"Q: Which word has more letters, ""chair"" or ""discount""? A:","['chair', 'discount']",discount,"chair"" or ""chair""? a:"
+"Q: Of the words ""golf"" and ""question"" which one has more letters? A:","['golf', 'question']",question,golf? a:
+"Q: Which word has more letters, ""include"" or ""king""? A:","['include', 'king']",include,include? a:
+"Q: Which word has more letters, ""earn"" or ""question""? A:","['earn', 'question']",question,"earn""? a:"
+"Q: Which word is longer, ""bad"" or ""myself""? A:","['bad', 'myself']",myself,"myself""? a:"
+"Q: Which word is longer, ""crowd"" or ""dangerous""? A:","['crowd', 'dangerous']",dangerous,"dangerous""? a:"
+"Q: Which word has more letters, ""mark"" or ""playground""? A:","['mark', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""store"" and ""at"" which one has more letters? A:","['store', 'at']",store,store? a:
+"Q: Which word is longer, ""certainly"" or ""almost""? A:","['certainly', 'almost']",certainly,"almost"" or ""certainly""? a"
+"Q: Which word is longer, ""clean"" or ""us""? A:","['clean', 'us']",clean,clean? a:
+"Q: Of the words ""toy"" and ""square"" which one has more letters? A:","['toy', 'square']",square,square? a:
+"Q: Of the words ""at"" and ""quiet"" which one has more letters? A:","['at', 'quiet']",quiet,"at"" and ""quiet""? a:"
+"Q: Which word has more letters, ""sofa"" or ""lunchtime""? A:","['sofa', 'lunchtime']",lunchtime,"sofa""? a:"
+"Q: Of the words ""playground"" and ""key"" which one has more letters? A:","['playground', 'key']",playground,playground? a:
+"Q: Of the words ""cut"" and ""wonderful"" which one has more letters? A:","['cut', 'wonderful']",wonderful,"wonderful""? a:"
+"Q: Which word is longer, ""monkey"" or ""fun""? A:","['monkey', 'fun']",monkey,monkey? a:
+"Q: Which word is longer, ""camp"" or ""husband""? A:","['camp', 'husband']",husband,"husband"" or ""camp""? a:"
+"Q: Of the words ""playground"" and ""machine"" which one has more letters? A:","['playground', 'machine']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""do"" or ""beach""? A:","['do', 'beach']",beach,"beach""? a:"
+"Q: Which word has more letters, ""read"" or ""playground""? A:","['read', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""playground"" or ""yard""? A:","['playground', 'yard']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""star"" or ""quickly""? A:","['star', 'quickly']",quickly,"star"" or ""star""? a:"
+"Q: Which word is longer, ""rice"" or ""boyfriend""? A:","['rice', 'boyfriend']",boyfriend,"boyfriend"" or ""boyfriend"""
+"Q: Of the words ""of"" and ""cloud"" which one has more letters? A:","['of', 'cloud']",cloud,of? a:
+"Q: Which word is longer, ""cousin"" or ""hey""? A:","['cousin', 'hey']",cousin,"hey, cousin""? a:"
+"Q: Which word is longer, ""sofa"" or ""lunchtime""? A:","['sofa', 'lunchtime']",lunchtime,"sofa"" or ""sofa""? a:"
+"Q: Which word has more letters, ""bag"" or ""dinosaur""? A:","['bag', 'dinosaur']",dinosaur,bag? a:
+"Q: Of the words ""so"" and ""course"" which one has more letters? A:","['so', 'course']",course,"course"" and ""so""? a:"
+"Q: Which word is longer, ""per"" or ""enough""? A:","['per', 'enough']",enough,"per"" or ""per""? a:"
+"Q: Which word has more letters, ""drawing"" or ""arm""? A:","['drawing', 'arm']",drawing,drawing? a:
+"Q: Which word has more letters, ""gas"" or ""certainly""? A:","['gas', 'certainly']",certainly,"certainly""? a:"
+"Q: Of the words ""smoking"" and ""soul"" which one has more letters? A:","['smoking', 'soul']",smoking,soul? a:
+"Q: Which word is longer, ""dream"" or ""oh""? A:","['dream', 'oh']",dream,"oh, dream? a:"
+"Q: Which word has more letters, ""file"" or ""problem""? A:","['file', 'problem']",problem,"problem""? a:"
+"Q: Which word is longer, ""stomach"" or ""slim""? A:","['stomach', 'slim']",stomach,slim? a:
+"Q: Which word is longer, ""player"" or ""age""? A:","['player', 'age']",player,"player"" or ""player""? a:"
+"Q: Of the words ""painter"" and ""day"" which one has more letters? A:","['painter', 'day']",painter,painter? a:
+"Q: Which word has more letters, ""yard"" or ""postcard""? A:","['yard', 'postcard']",postcard,postcard? a:
+"Q: Which word has more letters, ""she"" or ""blouse""? A:","['she', 'blouse']",blouse,"she"" or ""she""? a:"
+"Q: Which word is longer, ""boyfriend"" or ""worst""? A:","['boyfriend', 'worst']",boyfriend,"worst""? a:"
+"Q: Which word has more letters, ""stomach"" or ""stay""? A:","['stomach', 'stay']",stomach,"stomach"" or ""stomach""? a:"
+"Q: Which word is longer, ""something"" or ""wait""? A:","['something', 'wait']",something,"something""? a:"
+"Q: Of the words ""neighbor"" and ""mug"" which one has more letters? A:","['neighbor', 'mug']",neighbor,"mug""? a:"
+"Q: Which word has more letters, ""hi"" or ""dance""? A:","['hi', 'dance']",dance,"dance""? a:"
+"Q: Of the words ""go"" and ""worst"" which one has more letters? A:","['go', 'worst']",worst,"go"" and ""worst""? a:"
+"Q: Which word has more letters, ""playground"" or ""why""? A:","['playground', 'why']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""rap"" and ""shower"" which one has more letters? A:","['rap', 'shower']",shower,rap? a:
+"Q: Which word is longer, ""open"" or ""platform""? A:","['open', 'platform']",platform,"open"" or ""playground""? a:"
+"Q: Which word has more letters, ""month"" or ""do""? A:","['month', 'do']",month,"month""? a:"
+"Q: Which word has more letters, ""mistake"" or ""put""? A:","['mistake', 'put']",mistake,"put"" or ""put""? a:"
+"Q: Which word is longer, ""customer"" or ""left""? A:","['customer', 'left']",customer,"left""? a:"
+"Q: Which word has more letters, ""playground"" or ""party""? A:","['playground', 'party']",playground,"playground"" or ""party""? a"
+"Q: Which word has more letters, ""set"" or ""special""? A:","['set', 'special']",special,"special""? a:"
+"Q: Of the words ""cow"" and ""project"" which one has more letters? A:","['cow', 'project']",project,project?
+"Q: Which word is longer, ""hi"" or ""awful""? A:","['hi', 'awful']",awful,"awful""? a:"
+"Q: Which word is longer, ""guy"" or ""father""? A:","['guy', 'father']",father,"father"" or ""father""? a:"
+"Q: Which word has more letters, ""itself"" or ""jam""? A:","['itself', 'jam']",itself,"itself""? a:"
+"Q: Which word is longer, ""playground"" or ""song""? A:","['playground', 'song']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""word"" and ""chemistry"" which one has more letters? A:","['word', 'chemistry']",chemistry,"words ""chemistry""? a:"
+"Q: Of the words ""certainly"" and ""much"" which one has more letters? A:","['certainly', 'much']",certainly,"certainly""? a:"
+"Q: Which word is longer, ""favorite"" or ""ask""? A:","['favorite', 'ask']",favorite,ask? ask? a:
+"Q: Of the words ""computer"" and ""ear"" which one has more letters? A:","['computer', 'ear']",computer,computer?
+"Q: Of the words ""mother"" and ""say"" which one has more letters? A:","['mother', 'say']",mother,"mother"" and ""mother""? a:"
+"Q: Of the words ""drawing"" and ""mail"" which one has more letters? A:","['drawing', 'mail']",drawing,"drawing""? a:"
+"Q: Which word is longer, ""holiday"" or ""menu""? A:","['holiday', 'menu']",holiday,"holiday"" or ""holiday""? a:"
+"Q: Which word is longer, ""dish"" or ""wonderful""? A:","['dish', 'wonderful']",wonderful,dish? a:
+"Q: Which word has more letters, ""itself"" or ""rap""? A:","['itself', 'rap']",itself,rap? a:
+"Q: Which word is longer, ""guitar"" or ""an""? A:","['guitar', 'an']",guitar,and which word is longer?
+"Q: Which word has more letters, ""question"" or ""opera""? A:","['question', 'opera']",question,question? a:
+"Q: Of the words ""during"" and ""on"" which one has more letters? A:","['during', 'on']",during,during? a:
+"Q: Of the words ""playground"" and ""him"" which one has more letters? A:","['playground', 'him']",playground,playground? a:
+"Q: Of the words ""friendly"" and ""then"" which one has more letters? A:","['friendly', 'then']",friendly,"then, which one has more "
+"Q: Of the words ""boyfriend"" and ""tea"" which one has more letters? A:","['boyfriend', 'tea']",boyfriend,tea?
+"Q: Which word has more letters, ""notice"" or ""eat""? A:","['notice', 'eat']",notice,"notice""? a:"
+"Q: Which word is longer, ""on"" or ""grape""? A:","['on', 'grape']",grape,"on"" or ""grape""? a:"
+"Q: Which word is longer, ""mistake"" or ""playground""? A:","['mistake', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""fog"" and ""something"" which one has more letters? A:","['fog', 'something']",something,fog?
+"Q: Which word has more letters, ""milk"" or ""anymore""? A:","['milk', 'anymore']",anymore,"milk"" or ""milk""? a:"
+"Q: Which word is longer, ""chemistry"" or ""shut""? A:","['chemistry', 'shut']",chemistry,chemistry? a:
+"Q: Which word is longer, ""player"" or ""playground""? A:","['player', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""keyboard"" and ""climb"" which one has more letters? A:","['keyboard', 'climb']",keyboard,"keyboard"" or ""climb""? a:"
+"Q: Which word is longer, ""playground"" or ""machine""? A:","['playground', 'machine']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""pair"" or ""stadium""? A:","['pair', 'stadium']",stadium,"stadium"" or ""stadium""? a:"
+"Q: Which word has more letters, ""up"" or ""brown""? A:","['up', 'brown']",brown,brown? a:
+"Q: Which word is longer, ""bath"" or ""discount""? A:","['bath', 'discount']",discount,bath+room workers are ver
+"Q: Which word has more letters, ""way"" or ""should""? A:","['way', 'should']",should,"way"" or ""way""? a:"
+"Q: Which word has more letters, ""fish"" or ""computer""? A:","['fish', 'computer']",computer,computer? a:
+"Q: Which word has more letters, ""beard"" or ""my""? A:","['beard', 'my']",beard,"my"" or ""beard""? a:"
+"Q: Which word has more letters, ""us"" or ""white""? A:","['us', 'white']",white,white? a:
+"Q: Which word is longer, ""he"" or ""learn""? A:","['he', 'learn']",learn,"hearn"" or ""hearn""? a:"
+"Q: Which word has more letters, ""rap"" or ""shower""? A:","['rap', 'shower']",shower,rap? a:
+"Q: Of the words ""certainly"" and ""run"" which one has more letters? A:","['certainly', 'run']",certainly,run?
+"Q: Which word has more letters, ""in"" or ""sound""? A:","['in', 'sound']",sound,indian sound? a:
+"Q: Which word has more letters, ""subject"" or ""pet""? A:","['subject', 'pet']",subject,pet? a:
+"Q: Of the words ""blond"" and ""lunchtime"" which one has more letters? A:","['blond', 'lunchtime']",lunchtime,"blond"" or ""blond""? a:"
+"Q: Of the words ""gas"" and ""mosque"" which one has more letters? A:","['gas', 'mosque']",mosque,gas?
+"Q: Which word is longer, ""your"" or ""various""? A:","['your', 'various']",various,various? a:
+"Q: Which word is longer, ""question"" or ""same""? A:","['question', 'same']",question,"question""? a:"
+"Q: Which word is longer, ""do"" or ""group""? A:","['do', 'group']",group,"do"" or ""do""? a:"
+"Q: Of the words ""customer"" and ""child"" which one has more letters? A:","['customer', 'child']",customer,"child""? a:"
+"Q: Which word has more letters, ""noisy"" or ""policeman""? A:","['noisy', 'policeman']",policeman,"policeman""? a:"
+"Q: Of the words ""album"" and ""so"" which one has more letters? A:","['album', 'so']",album,"something""? a:"
+"Q: Of the words ""we"" and ""sport"" which one has more letters? A:","['we', 'sport']",sport,"sport""? a:"
+"Q: Which word has more letters, ""yours"" or ""wonderful""? A:","['yours', 'wonderful']",wonderful,"wonderful""? a:"
+"Q: Which word has more letters, ""slice"" or ""of""? A:","['slice', 'of']",slice,of? a:
+"Q: Which word is longer, ""toy"" or ""square""? A:","['toy', 'square']",square,square? a:
+"Q: Which word has more letters, ""turn"" or ""mistake""? A:","['turn', 'mistake']",mistake,"mistake""? a:"
+"Q: Which word is longer, ""favorite"" or ""sign""? A:","['favorite', 'sign']",favorite,"sign""? a:"
+"Q: Of the words ""red"" and ""playground"" which one has more letters? A:","['red', 'playground']",playground,playground? a:
+"Q: Which word has more letters, ""keyboard"" or ""awful""? A:","['keyboard', 'awful']",keyboard,"keyboard"" or ""awful""? a:"
+"Q: Which word is longer, ""customer"" or ""be""? A:","['customer', 'be']",customer,"be"" is a word most relate"
+"Q: Which word is longer, ""it"" or ""shout""? A:","['it', 'shout']",shout,"shout""? a:"
+"Q: Which word is longer, ""playground"" or ""person""? A:","['playground', 'person']",playground,"playground"" or ""person""? "
+"Q: Which word has more letters, ""yourself"" or ""gray""? A:","['yourself', 'gray']",yourself,"gray""? a:"
+"Q: Which word has more letters, ""various"" or ""desk""? A:","['various', 'desk']",various,"various"" or ""various""? a:"
+"Q: Which word is longer, ""line"" or ""dangerous""? A:","['line', 'dangerous']",dangerous,"dangerous""? a:"
+"Q: Which word has more letters, ""crazy"" or ""ad""? A:","['crazy', 'ad']",crazy,"ad"" is a word most relate"
+"Q: Of the words ""it"" and ""ocean"" which one has more letters? A:","['it', 'ocean']",ocean,ocean?
+"Q: Which word is longer, ""milk"" or ""anymore""? A:","['milk', 'anymore']",anymore,"milk"" or ""milk""? a:"
+"Q: Of the words ""spring"" and ""hey"" which one has more letters? A:","['spring', 'hey']",spring,"spring""? a:"
+"Q: Which word has more letters, ""beard"" or ""at""? A:","['beard', 'at']",beard,"at"" or ""beard""? a:"
+"Q: Of the words ""postcard"" and ""stage"" which one has more letters? A:","['postcard', 'stage']",postcard,"stage""? a:"
+"Q: Which word is longer, ""policeman"" or ""thin""? A:","['policeman', 'thin']",policeman,"thin"" or ""policeman""? a:"
+"Q: Which word is longer, ""playground"" or ""sit""? A:","['playground', 'sit']",playground,playground? a:
+"Q: Which word is longer, ""itself"" or ""rap""? A:","['itself', 'rap']",itself,rap? a:
+"Q: Which word has more letters, ""shout"" or ""to""? A:","['shout', 'to']",shout,"shout""? a:"
+"Q: Of the words ""almost"" and ""in"" which one has more letters? A:","['almost', 'in']",almost,"almost""? a:"
+"Q: Of the words ""mug"" and ""policeman"" which one has more letters? A:","['mug', 'policeman']",policeman,"policeman"" which one has "
+"Q: Which word is longer, ""something"" or ""play""? A:","['something', 'play']",something,"play"" or ""play""? a:"
+"Q: Which word is longer, ""love"" or ""instead""? A:","['love', 'instead']",instead,"instead of ""instead""? a:"
+"Q: Which word has more letters, ""husband"" or ""out""? A:","['husband', 'out']",husband,"out"" or ""out""? a:"
+"Q: Of the words ""playground"" and ""kind"" which one has more letters? A:","['playground', 'kind']",playground,playground? a:
+"Q: Of the words ""name"" and ""factory"" which one has more letters? A:","['name', 'factory']",factory,factory?
+"Q: Of the words ""policeman"" and ""you"" which one has more letters? A:","['policeman', 'you']",policeman,policeman? a:
+"Q: Which word has more letters, ""playground"" or ""speak""? A:","['playground', 'speak']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""near"" or ""playground""? A:","['near', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""lunchtime"" or ""plate""? A:","['lunchtime', 'plate']",lunchtime,"plate"" or ""plate""? a:"
+"Q: Which word is longer, ""cloudy"" or ""per""? A:","['cloudy', 'per']",cloudy,"per"" or ""cloudy""? a:"
+"Q: Which word is longer, ""curtain"" or ""fat""? A:","['curtain', 'fat']",curtain,curtain? a:
+"Q: Of the words ""special"" and ""war"" which one has more letters? A:","['special', 'war']",special,war? a:
+"Q: Of the words ""question"" and ""west"" which one has more letters? A:","['question', 'west']",question,question? a:
+"Q: Which word is longer, ""not"" or ""project""? A:","['not', 'project']",project,project?
+"Q: Of the words ""playground"" and ""once"" which one has more letters? A:","['playground', 'once']",playground,playground? a:
+"Q: Which word is longer, ""explain"" or ""playground""? A:","['explain', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""hockey"" and ""dog"" which one has more letters? A:","['hockey', 'dog']",hockey,"dog""? a:"
+"Q: Which word has more letters, ""die"" or ""favorite""? A:","['die', 'favorite']",favorite,"die"" or ""die""? a:"
+"Q: Which word is longer, ""dance"" or ""my""? A:","['dance', 'my']",dance,"dance""? a:"
+"Q: Of the words ""postcard"" and ""pray"" which one has more letters? A:","['postcard', 'pray']",postcard,postcard? a:
+"Q: Which word has more letters, ""square"" or ""mad""? A:","['square', 'mad']",square,"square""? a:"
+"Q: Which word is longer, ""per"" or ""pocket""? A:","['per', 'pocket']",pocket,"per"" or ""pocket""? a:"
+"Q: Of the words ""throw"" and ""we"" which one has more letters? A:","['throw', 'we']",throw,"we"" which one has more le"
+"Q: Which word has more letters, ""child"" or ""playground""? A:","['child', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""square"" or ""mad""? A:","['square', 'mad']",square,"square""? a:"
+"Q: Which word has more letters, ""cover"" or ""playground""? A:","['cover', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""stop"" or ""sandwich""? A:","['stop', 'sandwich']",sandwich,sandwich? a:
+"Q: Of the words ""chain"" and ""chemistry"" which one has more letters? A:","['chain', 'chemistry']",chemistry,chemistry? a:
+"Q: Which word has more letters, ""type"" or ""kitchen""? A:","['type', 'kitchen']",kitchen,"kitchen""? a:"
+"Q: Of the words ""dream"" and ""oh"" which one has more letters? A:","['dream', 'oh']",dream,dream? a:
+"Q: Of the words ""paint"" and ""me"" which one has more letters? A:","['paint', 'me']",paint,"painters""? a:"
+"Q: Which word has more letters, ""reading"" or ""pet""? A:","['reading', 'pet']",reading,pet? a:
+"Q: Of the words ""policeman"" and ""have"" which one has more letters? A:","['policeman', 'have']",policeman,policeman? a:
+"Q: Which word has more letters, ""him"" or ""dangerous""? A:","['him', 'dangerous']",dangerous,"dangerous""? a:"
+"Q: Of the words ""certainly"" and ""king"" which one has more letters? A:","['certainly', 'king']",certainly,king? a:
+"Q: Which word is longer, ""things"" or ""bus""? A:","['things', 'bus']",things,bus? a:
+"Q: Of the words ""one"" and ""playground"" which one has more letters? A:","['one', 'playground']",playground,playground? a:
+"Q: Of the words ""yourself"" and ""jam"" which one has more letters? A:","['yourself', 'jam']",yourself,jam? a:
+"Q: Which word is longer, ""something"" or ""more""? A:","['something', 'more']",something,"something""? a:"
+"Q: Which word has more letters, ""my"" or ""uncle""? A:","['my', 'uncle']",uncle,"uncle""? a:"
+"Q: Which word has more letters, ""foreign"" or ""part""? A:","['foreign', 'part']",foreign,"part""? a:"
+"Q: Which word has more letters, ""painter"" or ""playground""? A:","['painter', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""just"" or ""chemistry""? A:","['just', 'chemistry']",chemistry,"just""? a:"
+"Q: Which word is longer, ""lunchtime"" or ""only""? A:","['lunchtime', 'only']",lunchtime,lunchtime? a:
+"Q: Which word is longer, ""old"" or ""quickly""? A:","['old', 'quickly']",quickly,"quickly""? a:"
+"Q: Of the words ""gold"" and ""include"" which one has more letters? A:","['gold', 'include']",include,gold? a:
+"Q: Which word has more letters, ""sit"" or ""policeman""? A:","['sit', 'policeman']",policeman,"policeman""? a:"
+"Q: Which word has more letters, ""cow"" or ""project""? A:","['cow', 'project']",project,project?
+"Q: Which word is longer, ""castle"" or ""wet""? A:","['castle', 'wet']",castle,wet? a:
+"Q: Which word is longer, ""own"" or ""minute""? A:","['own', 'minute']",minute,"minute""? a:"
+"Q: Which word has more letters, ""cover"" or ""postcard""? A:","['cover', 'postcard']",postcard,postcard? a:
+"Q: Which word is longer, ""since"" or ""no""? A:","['since', 'no']",since,no? a:
+"Q: Which word is longer, ""model"" or ""playground""? A:","['model', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""right"" or ""us""? A:","['right', 'us']",right,"right""? a:"
+"Q: Which word has more letters, ""daily"" or ""it""? A:","['daily', 'it']",daily,"daily""? a:"
+"Q: Which word is longer, ""way"" or ""playground""? A:","['way', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""we"" or ""shirt""? A:","['we', 'shirt']",shirt,shirt?
+"Q: Of the words ""field"" and ""in"" which one has more letters? A:","['field', 'in']",field,"in, ""field""? a:"
+"Q: Which word has more letters, ""something"" or ""write""? A:","['something', 'write']",something,"something""? a:"
+"Q: Which word has more letters, ""bed"" or ""postcard""? A:","['bed', 'postcard']",postcard,postcard? a:
+"Q: Which word has more letters, ""on"" or ""actor""? A:","['on', 'actor']",actor,"actor""? a:"
+"Q: Of the words ""ad"" and ""large"" which one has more letters? A:","['ad', 'large']",large,"large""? a:"
+"Q: Which word is longer, ""life"" or ""friendly""? A:","['life', 'friendly']",friendly,"life""? a:"
+"Q: Which word has more letters, ""careful"" or ""into""? A:","['careful', 'into']",careful,"into""? a:"
+"Q: Which word has more letters, ""myself"" or ""playground""? A:","['myself', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""take"" or ""hospital""? A:","['take', 'hospital']",hospital,"take"" or ""hospital""? a:"
+"Q: Of the words ""yourself"" and ""fish"" which one has more letters? A:","['yourself', 'fish']",yourself,"fish""? a:"
+"Q: Which word is longer, ""dinosaur"" or ""candy""? A:","['dinosaur', 'candy']",dinosaur,candy? a:
+"Q: Which word is longer, ""sandwich"" or ""each""? A:","['sandwich', 'each']",sandwich,sandwich? a:
+"Q: Which word is longer, ""quickly"" or ""late""? A:","['quickly', 'late']",quickly,"late""? a:"
+"Q: Of the words ""bowl"" and ""wonderful"" which one has more letters? A:","['bowl', 'wonderful']",wonderful,"wonderful"" or ""wonderful"""
+"Q: Which word is longer, ""of"" or ""opera""? A:","['of', 'opera']",opera,opera? a:
+"Q: Which word has more letters, ""sound"" or ""of""? A:","['sound', 'of']",sound,of? a:
+"Q: Which word has more letters, ""certainly"" or ""pen""? A:","['certainly', 'pen']",certainly,pen? a:
+"Q: Which word has more letters, ""from"" or ""fashion""? A:","['from', 'fashion']",fashion,"fashion""? a:"
+"Q: Of the words ""fat"" and ""walking"" which one has more letters? A:","['fat', 'walking']",walking,"fat"" and ""fat""? a:"
+"Q: Which word has more letters, ""paint"" or ""no""? A:","['paint', 'no']",paint,no? a:
+"Q: Of the words ""year"" and ""platform"" which one has more letters? A:","['year', 'platform']",platform,"platform"" and ""play""? a:"
+"Q: Which word is longer, ""no"" or ""later""? A:","['no', 'later']",later,"later""? a:"
+"Q: Of the words ""something"" and ""year"" which one has more letters? A:","['something', 'year']",something,"something"" and ""year""? a:"
+"Q: Of the words ""fact"" and ""playground"" which one has more letters? A:","['fact', 'playground']",playground,playground? a:
+"Q: Which word is longer, ""yes"" or ""normal""? A:","['yes', 'normal']",normal,"yes"" or ""normal""? a:"
+"Q: Which word has more letters, ""fit"" or ""shower""? A:","['fit', 'shower']",shower,"fit""? a:"
+"Q: Of the words ""something"" and ""play"" which one has more letters? A:","['something', 'play']",something,play? a:
+"Q: Which word has more letters, ""dangerous"" or ""dish""? A:","['dangerous', 'dish']",dangerous,"dangerous""? a:"
+"Q: Of the words ""low"" and ""playground"" which one has more letters? A:","['low', 'playground']",playground,playground? a:
+"Q: Which word is longer, ""he"" or ""maybe""? A:","['he', 'maybe']",maybe,"he"" or ""maybe""? a:"
+"Q: Which word has more letters, ""gate"" or ""certainly""? A:","['gate', 'certainly']",certainly,"certainly""? a:"
+"Q: Which word is longer, ""fish"" or ""history""? A:","['fish', 'history']",history,"fish"" or ""fish""? a:"
+"Q: Which word has more letters, ""hi"" or ""month""? A:","['hi', 'month']",month,"hi"" or ""hi""? a:"
+"Q: Which word has more letters, ""outside"" or ""coat""? A:","['outside', 'coat']",outside,"outside""? a:"
+"Q: Which word is longer, ""oh"" or ""yours""? A:","['oh', 'yours']",yours,yours? a:
+"Q: Which word is longer, ""cabinet"" or ""rice""? A:","['cabinet', 'rice']",cabinet,cabinet? a:
+"Q: Which word has more letters, ""sea"" or ""cousin""? A:","['sea', 'cousin']",cousin,"cousin""? a:"
+"Q: Which word is longer, ""playground"" or ""sport""? A:","['playground', 'sport']",playground,playground? a:
+"Q: Which word has more letters, ""go"" or ""lemon""? A:","['go', 'lemon']",lemon,"go"" or ""lemon""? a:"
+"Q: Which word has more letters, ""platform"" or ""shoe""? A:","['platform', 'shoe']",platform,platform? a:
+"Q: Of the words ""skate"" and ""favorite"" which one has more letters? A:","['skate', 'favorite']",favorite,favorite? a:
+"Q: Which word is longer, ""playground"" or ""part""? A:","['playground', 'part']",playground,"playground"" or ""part""? a:"
+"Q: Which word is longer, ""read"" or ""playground""? A:","['read', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""be"" or ""quick""? A:","['be', 'quick']",quick,"be""? a:"
+"Q: Which word has more letters, ""date"" or ""discount""? A:","['date', 'discount']",discount,date?
+"Q: Which word has more letters, ""birth"" or ""an""? A:","['birth', 'an']",birth,"and"" or ""birth""? a:"
+"Q: Which word has more letters, ""hi"" or ""angry""? A:","['hi', 'angry']",angry,angry? a:
+"Q: Which word has more letters, ""reading"" or ""be""? A:","['reading', 'be']",reading,"bearded"" or ""bearded""? a:"
+"Q: Which word has more letters, ""so"" or ""train""? A:","['so', 'train']",train,so? a:
+"Q: Of the words ""per"" and ""pocket"" which one has more letters? A:","['per', 'pocket']",pocket,"per"" and ""pocket""? a:"
+"Q: Which word has more letters, ""poster"" or ""pay""? A:","['poster', 'pay']",poster,"poster"" or ""poster""? a:"
+"Q: Of the words ""enjoy"" and ""dangerous"" which one has more letters? A:","['enjoy', 'dangerous']",dangerous,"dangerous""? a:"
+"Q: Which word is longer, ""question"" or ""my""? A:","['question', 'my']",question,question? a:
+"Q: Which word is longer, ""smoking"" or ""soul""? A:","['smoking', 'soul']",smoking,soul? a:
+"Q: Which word is longer, ""playground"" or ""them""? A:","['playground', 'them']",playground,"playground""? a:"
+"Q: Which word is longer, ""oh"" or ""money""? A:","['oh', 'money']",money,money? a:
+"Q: Which word is longer, ""project"" or ""some""? A:","['project', 'some']",project,project?
+"Q: Of the words ""boy"" and ""modern"" which one has more letters? A:","['boy', 'modern']",modern,"boy""? a:"
+"Q: Which word has more letters, ""hope"" or ""strange""? A:","['hope', 'strange']",strange,"strange""? a:"
+"Q: Which word has more letters, ""back"" or ""playground""? A:","['back', 'playground']",playground,"playground"" or ""back""? a:"
+"Q: Which word is longer, ""lion"" or ""playground""? A:","['lion', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""century"" and ""fly"" which one has more letters? A:","['century', 'fly']",century,fly? a:
+"Q: Which word is longer, ""customer"" or ""child""? A:","['customer', 'child']",customer,"child""? a:"
+"Q: Of the words ""earn"" and ""question"" which one has more letters? A:","['earn', 'question']",question,earn? a:
+"Q: Which word has more letters, ""yourself"" or ""jam""? A:","['yourself', 'jam']",yourself,jam? a:
+"Q: Of the words ""project"" and ""wild"" which one has more letters? A:","['project', 'wild']",project,project?
+"Q: Of the words ""something"" and ""write"" which one has more letters? A:","['something', 'write']",something,"something"" and ""something"
+"Q: Which word has more letters, ""mug"" or ""policeman""? A:","['mug', 'policeman']",policeman,"policeman""? a:"
+"Q: Of the words ""no"" and ""software"" which one has more letters? A:","['no', 'software']",software,"no, no, no, no, no, no, n"
+"Q: Of the words ""strong"" and ""our"" which one has more letters? A:","['strong', 'our']",strong,"our"" which one has more l"
+"Q: Which word is longer, ""knife"" or ""we""? A:","['knife', 'we']",knife,knife? a:
+"Q: Of the words ""break"" and ""an"" which one has more letters? A:","['break', 'an']",break,"and ""break""? a:"
+"Q: Which word is longer, ""my"" or ""music""? A:","['my', 'music']",music,"my"" or ""my""? a:"
+"Q: Which word is longer, ""playground"" or ""easy""? A:","['playground', 'easy']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""down"" or ""hospital""? A:","['down', 'hospital']",hospital,"down"" or ""down""? a:"
+"Q: Which word is longer, ""playground"" or ""town""? A:","['playground', 'town']",playground,"playground""? a:"
+"Q: Which word has more letters, ""drawing"" or ""he""? A:","['drawing', 'he']",drawing,drawing? a:
+"Q: Which word has more letters, ""birth"" or ""software""? A:","['birth', 'software']",software,"birthday"" or ""software""? "
+"Q: Which word has more letters, ""wonderful"" or ""horse""? A:","['wonderful', 'horse']",wonderful,"wonderful"" or ""wonderful"""
+"Q: Which word is longer, ""large"" or ""be""? A:","['large', 'be']",large,"be""? a:"
+"Q: Which word has more letters, ""playground"" or ""line""? A:","['playground', 'line']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""so"" or ""grade""? A:","['so', 'grade']",grade,"grade""? a:"
+"Q: Which word has more letters, ""playground"" or ""kite""? A:","['playground', 'kite']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""big"" or ""details""? A:","['big', 'details']",details,"big"" or ""big""? a:"
+"Q: Which word is longer, ""mix"" or ""camping""? A:","['mix', 'camping']",camping,camping? a:
+"Q: Which word has more letters, ""band"" or ""favorite""? A:","['band', 'favorite']",favorite,"band"" or ""band""? a:"
+"Q: Which word has more letters, ""movie"" or ""ad""? A:","['movie', 'ad']",movie,"movie""? a:"
+"Q: Which word has more letters, ""singular"" or ""just""? A:","['singular', 'just']",singular,"just""? a:"
+"Q: Of the words ""go"" and ""change"" which one has more letters? A:","['go', 'change']",change,"go"" and ""change""? a:"
+"Q: Which word has more letters, ""famous"" or ""any""? A:","['famous', 'any']",famous,"any"" or ""famous""? a:"
+"Q: Of the words ""we"" and ""north"" which one has more letters? A:","['we', 'north']",north,"north, ""north""? a:"
+"Q: Of the words ""spend"" and ""he"" which one has more letters? A:","['spend', 'he']",spend,spend? a:
+"Q: Which word has more letters, ""phone"" or ""at""? A:","['phone', 'at']",phone,"at"" or ""phone""? a:"
+"Q: Of the words ""singular"" and ""disco"" which one has more letters? A:","['singular', 'disco']",singular,"disco, disco, disco, disc"
+"Q: Of the words ""child"" and ""playground"" which one has more letters? A:","['child', 'playground']",playground,playground? a:
+"Q: Of the words ""stomach"" and ""slim"" which one has more letters? A:","['stomach', 'slim']",stomach,slim? a:
+"Q: Of the words ""by"" and ""brain"" which one has more letters? A:","['by', 'brain']",brain,"bye-bye""? a:"
+"Q: Which word is longer, ""block"" or ""playground""? A:","['block', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""do"" or ""below""? A:","['do', 'below']",below,below?
+"Q: Of the words ""of"" and ""behind"" which one has more letters? A:","['of', 'behind']",behind,"behind"" or ""behind""? a:"
+"Q: Which word has more letters, ""lift"" or ""explain""? A:","['lift', 'explain']",explain,"lift""? a:"
+"Q: Which word is longer, ""soup"" or ""walking""? A:","['soup', 'walking']",walking,soup?
+"Q: Of the words ""instead"" and ""for"" which one has more letters? A:","['instead', 'for']",instead,"instead of ""for""? a:"
+"Q: Of the words ""line"" and ""dangerous"" which one has more letters? A:","['line', 'dangerous']",dangerous,"dangerous""? a:"
+"Q: Of the words ""of"" and ""black"" which one has more letters? A:","['of', 'black']",black,of? a:
+"Q: Of the words ""awful"" and ""boyfriend"" which one has more letters? A:","['awful', 'boyfriend']",boyfriend,boyfriend? a:
+"Q: Of the words ""hospital"" and ""page"" which one has more letters? A:","['hospital', 'page']",hospital,page? a:
+"Q: Which word has more letters, ""playground"" or ""town""? A:","['playground', 'town']",playground,"playground""? a:"
+"Q: Of the words ""hope"" and ""strange"" which one has more letters? A:","['hope', 'strange']",strange,"strange""? a:"
+"Q: Which word has more letters, ""player"" or ""age""? A:","['player', 'age']",player,"player"" or ""player""? a:"
+"Q: Which word is longer, ""parent"" or ""his""? A:","['parent', 'his']",parent,"parent""? a:"
+"Q: Of the words ""do"" and ""group"" which one has more letters? A:","['do', 'group']",group,"do"" and ""do""? a:"
+"Q: Of the words ""pants"" and ""something"" which one has more letters? A:","['pants', 'something']",something,pants? a:
+"Q: Which word is longer, ""stage"" or ""favorite""? A:","['stage', 'favorite']",favorite,stage? a:
+"Q: Which word has more letters, ""uniform"" or ""rest""? A:","['uniform', 'rest']",uniform,rest? a:
+"Q: Which word has more letters, ""fashion"" or ""hard""? A:","['fashion', 'hard']",fashion,"hard""? a:"
+"Q: Of the words ""brush"" and ""boyfriend"" which one has more letters? A:","['brush', 'boyfriend']",boyfriend,"boyfriend"" or ""boyfriend"""
+"Q: Which word has more letters, ""purse"" or ""so""? A:","['purse', 'so']",purse,purse? a:
+"Q: Of the words ""flower"" and ""man"" which one has more letters? A:","['flower', 'man']",flower,"flower"" or ""flower""? a:"
+"Q: Which word is longer, ""take"" or ""sandwich""? A:","['take', 'sandwich']",sandwich,sandwich? a:
+"Q: Which word has more letters, ""to"" or ""radio""? A:","['to', 'radio']",radio,"to"" or ""to""? a:"
+"Q: Which word has more letters, ""certainly"" or ""almost""? A:","['certainly', 'almost']",certainly,"almost""? a:"
+"Q: Of the words ""heavy"" and ""something"" which one has more letters? A:","['heavy', 'something']",something,"something"" or ""something"""
+"Q: Which word has more letters, ""block"" or ""do""? A:","['block', 'do']",block,block? a:
+"Q: Which word is longer, ""give"" or ""kilogram""? A:","['give', 'kilogram']",kilogram,"give"" or ""give""? a:"
+"Q: Of the words ""cover"" and ""playground"" which one has more letters? A:","['cover', 'playground']",playground,playground? a:
+"Q: Which word is longer, ""discount"" or ""slice""? A:","['discount', 'slice']",discount,slice? a:
+"Q: Of the words ""birthday"" and ""find"" which one has more letters? A:","['birthday', 'find']",birthday,birthday? a:
+"Q: Which word has more letters, ""neighbor"" or ""soap""? A:","['neighbor', 'soap']",neighbor,"neighbor"" or ""soap""? a:"
+"Q: Of the words ""so"" and ""stadium"" which one has more letters? A:","['so', 'stadium']",stadium,so?
+"Q: Which word has more letters, ""sofa"" or ""daughter""? A:","['sofa', 'daughter']",daughter,"sofa""? a:"
+"Q: Which word has more letters, ""set"" or ""police""? A:","['set', 'police']",police,policeman? a:
+"Q: Which word is longer, ""so"" or ""child""? A:","['so', 'child']",child,"child""? a:"
+"Q: Which word has more letters, ""late"" or ""customer""? A:","['late', 'customer']",customer,"late""? a:"
+"Q: Of the words ""could"" and ""yourself"" which one has more letters? A:","['could', 'yourself']",yourself,"yourself""? a:"
+"Q: Which word has more letters, ""postcard"" or ""stage""? A:","['postcard', 'stage']",postcard,"stage""? a:"
+"Q: Which word has more letters, ""large"" or ""in""? A:","['large', 'in']",large,"in""? a:"
+"Q: Which word is longer, ""left"" or ""something""? A:","['left', 'something']",something,"left"" or ""left""? a:"
+"Q: Which word is longer, ""snake"" or ""on""? A:","['snake', 'on']",snake,"on""? a:"
+"Q: Which word has more letters, ""mosque"" or ""he""? A:","['mosque', 'he']",mosque,"he"" is a small word that "
+"Q: Which word has more letters, ""another"" or ""why""? A:","['another', 'why']",another,"another"" or ""why""? a:"
+"Q: Which word is longer, ""west"" or ""yourself""? A:","['west', 'yourself']",yourself,west? a:
+"Q: Which word has more letters, ""special"" or ""war""? A:","['special', 'war']",special,"special""? a:"
+"Q: Which word has more letters, ""during"" or ""mug""? A:","['during', 'mug']",during,"during""? a:"
+"Q: Which word is longer, ""in"" or ""young""? A:","['in', 'young']",young,"young"" or ""young""? a:"
+"Q: Of the words ""side"" and ""sandwich"" which one has more letters? A:","['side', 'sandwich']",sandwich,sandwich? a:
+"Q: Of the words ""curtain"" and ""move"" which one has more letters? A:","['curtain', 'move']",curtain,"curtain""? a:"
+"Q: Which word is longer, ""an"" or ""snack""? A:","['an', 'snack']",snack,snack? a:
+"Q: Of the words ""whole"" and ""us"" which one has more letters? A:","['whole', 'us']",whole,whole?
+"Q: Of the words ""be"" and ""subject"" which one has more letters? A:","['be', 'subject']",subject,be? a:
+"Q: Which word is longer, ""dear"" or ""exactly""? A:","['dear', 'exactly']",exactly,"dear""? a:"
+"Q: Which word is longer, ""subject"" or ""chef""? A:","['subject', 'chef']",subject,chef?
+"Q: Of the words ""cup"" and ""myself"" which one has more letters? A:","['cup', 'myself']",myself,"myself""? a:"
+"Q: Which word has more letters, ""guy"" or ""playground""? A:","['guy', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Of the words ""musical"" and ""him"" which one has more letters? A:","['musical', 'him']",musical,"him"" which one has more l"
+"Q: Which word is longer, ""certainly"" or ""so""? A:","['certainly', 'so']",certainly,"certainly""? a:"
+"Q: Of the words ""light"" and ""it"" which one has more letters? A:","['light', 'it']",light,it has more letters? a:
+"Q: Which word is longer, ""get"" or ""playground""? A:","['get', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""bright"" or ""gas""? A:","['bright', 'gas']",bright,"bright"" or ""bright""? a:"
+"Q: Of the words ""yet"" and ""boyfriend"" which one has more letters? A:","['yet', 'boyfriend']",boyfriend,yet?
+"Q: Which word is longer, ""nature"" or ""cry""? A:","['nature', 'cry']",nature,"cry""? a:"
+"Q: Which word has more letters, ""something"" or ""clear""? A:","['something', 'clear']",something,"something""? a:"
+"Q: Of the words ""playground"" and ""minus"" which one has more letters? A:","['playground', 'minus']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""car"" or ""birthday""? A:","['car', 'birthday']",birthday,birthday? a:
+"Q: Which word is longer, ""dinosaur"" or ""teach""? A:","['dinosaur', 'teach']",dinosaur,"teach""? a:"
+"Q: Which word has more letters, ""things"" or ""bus""? A:","['things', 'bus']",things,things? a:
+"Q: Of the words ""worst"" and ""we"" which one has more letters? A:","['worst', 'we']",worst,"we"" which one has more le"
+"Q: Of the words ""scarf"" and ""hi"" which one has more letters? A:","['scarf', 'hi']",scarf,scarf? a:
+"Q: Which word has more letters, ""boyfriend"" or ""bath""? A:","['boyfriend', 'bath']",boyfriend,"bath"" or ""boyfriend""? a:"
+"Q: Which word is longer, ""special"" or ""war""? A:","['special', 'war']",special,"special""? a:"
+"Q: Of the words ""playground"" and ""view"" which one has more letters? A:","['playground', 'view']",playground,playground? a:
+"Q: Which word has more letters, ""tie"" or ""family""? A:","['tie', 'family']",family,tie? a:
+"Q: Which word is longer, ""bag"" or ""answer""? A:","['bag', 'answer']",answer,bag?
+"Q: Which word has more letters, ""playground"" or ""them""? A:","['playground', 'them']",playground,"playground""? a:"
+"Q: Of the words ""something"" and ""rice"" which one has more letters? A:","['something', 'rice']",something,rice?
+"Q: Which word has more letters, ""way"" or ""playground""? A:","['way', 'playground']",playground,"playground"" or ""way""? a:"
+"Q: Which word has more letters, ""something"" or ""snack""? A:","['something', 'snack']",something,snack? a:
+"Q: Which word has more letters, ""sing"" or ""something""? A:","['sing', 'something']",something,"something""? a:"
+"Q: Which word has more letters, ""bright"" or ""do""? A:","['bright', 'do']",bright,"bright""? a:"
+"Q: Of the words ""bye"" and ""nature"" which one has more letters? A:","['bye', 'nature']",nature,"bye""? a:"
+"Q: Of the words ""take"" and ""hospital"" which one has more letters? A:","['take', 'hospital']",hospital,take? a:
+"Q: Of the words ""red"" and ""guitar"" which one has more letters? A:","['red', 'guitar']",guitar,"guitar"" or ""guitar""? a:"
+"Q: Which word has more letters, ""thank"" or ""on""? A:","['thank', 'on']",thank,"on""? a:"
+"Q: Which word has more letters, ""explain"" or ""playground""? A:","['explain', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""musical"" or ""trip""? A:","['musical', 'trip']",musical,trip? a:
+"Q: Which word is longer, ""water"" or ""something""? A:","['water', 'something']",something,something? a:
+"Q: Which word has more letters, ""far"" or ""bother""? A:","['far', 'bother']",bother,far? a:
+"Q: Which word is longer, ""hey"" or ""something""? A:","['hey', 'something']",something,"hey, hey, hey, hey, hey, "
+"Q: Of the words ""explain"" and ""playground"" which one has more letters? A:","['explain', 'playground']",playground,playground? a:
+"Q: Which word has more letters, ""me"" or ""break""? A:","['me', 'break']",break,"me"" or ""break""? a:"
+"Q: Which word has more letters, ""playground"" or ""chef""? A:","['playground', 'chef']",playground,"playground""? a:"
+"Q: Of the words ""car"" and ""birthday"" which one has more letters? A:","['car', 'birthday']",birthday,birthday? a:
+"Q: Which word is longer, ""playground"" or ""sun""? A:","['playground', 'sun']",playground,playground? a:
+"Q: Of the words ""hi"" and ""month"" which one has more letters? A:","['hi', 'month']",month,"hi"" and ""hi""? a:"
+"Q: Which word has more letters, ""my"" or ""train""? A:","['my', 'train']",train,"my"" or ""train""? a:"
+"Q: Which word has more letters, ""dish"" or ""wonderful""? A:","['dish', 'wonderful']",wonderful,"wonderful""? a:"
+"Q: Which word has more letters, ""do"" or ""ready""? A:","['do', 'ready']",ready,"do"" or ""ready""? a:"
+"Q: Which word is longer, ""we"" or ""north""? A:","['we', 'north']",north,"north, ""north""? a:"
+"Q: Which word has more letters, ""playground"" or ""actor""? A:","['playground', 'actor']",playground,"playground""? a:"
+"Q: Which word has more letters, ""their"" or ""my""? A:","['their', 'my']",their,"my"" or ""their""? a:"
+"Q: Which word has more letters, ""with"" or ""discount""? A:","['with', 'discount']",discount,"without""? a:"
+"Q: Of the words ""me"" and ""house"" which one has more letters? A:","['me', 'house']",house,"me""? a:"
+"Q: Of the words ""lend"" and ""walking"" which one has more letters? A:","['lend', 'walking']",walking,walking? a:
+"Q: Which word has more letters, ""almost"" or ""in""? A:","['almost', 'in']",almost,"almost""? a:"
+"Q: Which word is longer, ""platform"" or ""bake""? A:","['platform', 'bake']",platform,"platform"" or ""playground"""
+"Q: Of the words ""no"" and ""later"" which one has more letters? A:","['no', 'later']",later,"later"" and ""later""? a:"
+"Q: Which word is longer, ""on"" or ""knife""? A:","['on', 'knife']",knife,knife? a:
+"Q: Which word has more letters, ""software"" or ""fly""? A:","['software', 'fly']",software,"fly""? a:"
+"Q: Which word is longer, ""boyfriend"" or ""from""? A:","['boyfriend', 'from']",boyfriend,from?
+"Q: Of the words ""cloudy"" and ""try"" which one has more letters? A:","['cloudy', 'try']",cloudy,try? a:
+"Q: Of the words ""lunchtime"" and ""mine"" which one has more letters? A:","['lunchtime', 'mine']",lunchtime,lunchtime? a:
+"Q: Of the words ""platform"" and ""bake"" which one has more letters? A:","['platform', 'bake']",platform,platform? a:
+"Q: Which word is longer, ""path"" or ""playground""? A:","['path', 'playground']",playground,"playground"" or ""playgroun"
+"Q: Which word is longer, ""playground"" or ""view""? A:","['playground', 'view']",playground,"playground""? a:"
+"Q: Which word has more letters, ""platform"" or ""band""? A:","['platform', 'band']",platform,platform? a:
+"Q: Of the words ""playground"" and ""kite"" which one has more letters? A:","['playground', 'kite']",playground,"playground"" or ""playgroun"
+"Q: Which word has more letters, ""singular"" or ""actor""? A:","['singular', 'actor']",singular,singular?
+"Q: Which word is longer, ""garlic"" or ""fun""? A:","['garlic', 'fun']",garlic,fun? a:
+"Q: Which word is longer, ""bother"" or ""say""? A:","['bother', 'say']",bother,"bother""? a:"

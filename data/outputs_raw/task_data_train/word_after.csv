@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: In the sentence ""I broke those twigs and branches apart"", which word immediately succeeds the word ""and""? A:","['I', 'broke', 'those', 'twigs', 'and', 'branches', 'apart']",branches,branches apart? apart.
+"Q: In the sentence ""I might eat deep fried muffins"", which word immediately succeeds the word ""deep""? A:","['I', 'might', 'eat', 'deep', 'fried', 'muffins']",fried,muffins are muffins thare
+"Q: In the sentence ""Jason was killed"", which word immediately succeeds the word ""was""? A:","['Jason', 'was', 'killed']",killed,killed?
+"Q: In the sentence ""The tigers hunt prey at night"", which word comes right after the word ""The""? A:","['The', 'tigers', 'hunt', 'prey', 'at', 'night']",tigers,"hunt prey at night""? a:"
+"Q: Which word comes right after ""Susan"" in the sentence ""Susan bought some flowers for her mother""? A:","['Susan', 'bought', 'some', 'flowers', 'for', 'her', 'mother']",bought,flowers for her mother?
+"Q: In the sentence ""Lucy sent Jane a letter"", which word immediately succeeds the word ""Lucy""? A:","['Lucy', 'sent', 'Jane', 'a', 'letter']",sent,"lucy sent jane a letter""?"
+"Q: In the sentence ""I want him to eat asparagus"", which word immediately succeeds the word ""eat""? A:","['I', 'want', 'him', 'to', 'eat', 'asparagus']",asparagus,eat?
+"Q: Which word comes right after ""butter"" in the sentence ""The king loved peanut butter cookies""? A:","['The', 'king', 'loved', 'peanut', 'butter', 'cookies']",cookies,loved peanut butter cooki
+"Q: In the sentence ""Dogs like Kim"", which word comes right after the word ""Dogs""? A:","['Dogs', 'like', 'Kim']",like,kim is a dog who likes ki
+"Q: Which word comes right after ""halfway"" in the sentence ""I sent the package halfway around the world""? A:","['I', 'sent', 'the', 'package', 'halfway', 'around', 'the', 'world']",around,package halfway around?
+"Q: Which word comes right after ""Ellen"" in the sentence ""Ellen talked with Helen about the problem""? A:","['Ellen', 'talked', 'with', 'Helen', 'about', 'the', 'problem']",talked,problem?
+"Q: In the sentence ""The barber shaved my chin"", which word comes right after the word ""barber""? A:","['The', 'barber', 'shaved', 'my', 'chin']",shaved,shaved my chin? a:
+"Q: In the sentence ""Fred threw the ball behind the tree"", which word comes right after the word ""ball""? A:","['Fred', 'threw', 'the', 'ball', 'behind', 'the', 'tree']",behind,ball behind the treee? a:
+"Q: In the sentence ""Susan rode a bright blue train from New York"", which word immediately succeeds the word ""Susan""? A:","['Susan', 'rode', 'a', 'bright', 'blue', 'train', 'from', 'New', 'York']",rode,bright bluededefrode trod
+"Q: Which word comes right after ""large"" in the sentence ""A large dog chased a small cat""? A:","['A', 'large', 'dog', 'chased', 'a', 'small', 'cat']",dog,dog chased a small cat ch
+"Q: In the sentence ""I went to the store and bought some whisky"", which word comes right after the word ""I""? A:","['I', 'went', 'to', 'the', 'store', 'and', 'bought', 'some', 'whisky']",went,whisky?
+"Q: In the sentence ""Nora sent the book"", which word immediately succeeds the word ""the""? A:","['Nora', 'sent', 'the', 'book']",book,book? a:
+"Q: In the sentence ""It is obvious to everybody that Tasha likes Misha"", which word comes right after the word ""to""? A:","['It', 'is', 'obvious', 'to', 'everybody', 'that', 'Tasha', 'likes', 'Misha']",everybody,likes mishavery?
+"Q: Which word comes right after ""John"" in the sentence ""John believes Sally to be polite""? A:","['John', 'believes', 'Sally', 'to', 'be', 'polite']",believes,politeness?
+"Q: Which word comes right after ""the"" in the sentence ""A large ship appeared on the horizon""? A:","['A', 'large', 'ship', 'appeared', 'on', 'the', 'horizon']",horizon,ship appeared on the hori
+"Q: In the sentence ""Everyone thinks he is smart"", which word comes right after the word ""is""? A:","['Everyone', 'thinks', 'he', 'is', 'smart']",smart,smart? a:
+"Q: In the sentence ""Dana longs for a sunny day"", which word comes right after the word ""sunny""? A:","['Dana', 'longs', 'for', 'a', 'sunny', 'day']",day,dana longs for a sunny da
+"Q: In the sentence ""That whole wheat flour bakes wonderful bread"", which word comes right after the word ""flour""? A:","['That', 'whole', 'wheat', 'flour', 'bakes', 'wonderful', 'bread']",bakes,flour bakes wonderfloulou
+"Q: Which word comes right after ""package"" in the sentence ""The package weighed ten pounds""? A:","['The', 'package', 'weighed', 'ten', 'pounds']",weighed,package weighed ten pound
+"Q: In the sentence ""The storm arrived while we ate lunch"", which word immediately succeeds the word ""ate""? A:","['The', 'storm', 'arrived', 'while', 'we', 'ate', 'lunch']",lunch,"ate""? a:"
+"Q: Which word comes right after ""a"" in the sentence ""It is a problem that he is here""? A:","['It', 'is', 'a', 'problem', 'that', 'he', 'is', 'here']",problem,problem that he is here? 
+"Q: Which word comes right after ""The"" in the sentence ""The son took care of his parents""? A:","['The', 'son', 'took', 'care', 'of', 'his', 'parents']",son,parents took care of his 
+"Q: In the sentence ""There remained just a few problems to be solved"", which word immediately succeeds the word ""few""? A:","['There', 'remained', 'just', 'a', 'few', 'problems', 'to', 'be', 'solved']",problems,solved?
+"Q: In the sentence ""Jason expected Medea to be treated by the doctor"", which word comes right after the word ""Jason""? A:","['Jason', 'expected', 'Medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",expected,expected tofor tor trexpe
+"Q: In the sentence ""No one could remove the blood on the wall"", which word immediately succeeds the word ""one""? A:","['No', 'one', 'could', 'remove', 'the', 'blood', 'on', 'the', 'wall']",could,"blood on the wal"", wal wa"
+"Q: In the sentence ""I would like for John to win"", which word immediately succeeds the word ""for""? A:","['I', 'would', 'like', 'for', 'John', 'to', 'win']",John,win? a:
+"Q: In the sentence ""It seems to be easy to fool Ben"", which word immediately succeeds the word ""be""? A:","['It', 'seems', 'to', 'be', 'easy', 'to', 'fool', 'Ben']",easy,easy to fool ben is easy 
+"Q: In the sentence ""John wants to leave"", which word comes right after the word ""to""? A:","['John', 'wants', 'to', 'leave']",leave,"wants to leave""? a:"
+"Q: Which word comes right after ""to"" in the sentence ""Mary has always preferred lemons to limes""? A:","['Mary', 'has', 'always', 'preferred', 'lemons', 'to', 'limes']",limes,lemons to limes?
+"Q: In the sentence ""Margaret cut the string"", which word comes right after the word ""the""? A:","['Margaret', 'cut', 'the', 'string']",string,string word comes right a
+"Q: In the sentence ""The old and new carts banged together"", which word comes right after the word ""The""? A:","['The', 'old', 'and', 'new', 'carts', 'banged', 'together']",old,carts banged togetherorin
+"Q: Which word comes right after ""David"" in the sentence ""David constructed the house""? A:","['David', 'constructed', 'the', 'house']",constructed,constructed the house? a:
+"Q: In the sentence ""The press conjectured that Smith would be the appointee"", which word comes right after the word ""press""? A:","['The', 'press', 'conjectured', 'that', 'Smith', 'would', 'be', 'the', 'appointee']",conjectured,pressedededededededededed
+"Q: In the sentence ""He looks more formidable than he is"", which word comes right after the word ""more""? A:","['He', 'looks', 'more', 'formidable', 'than', 'he', 'is']",formidable,formidable than he isequi
+"Q: In the sentence ""He looks more formidable than he is"", which word immediately succeeds the word ""more""? A:","['He', 'looks', 'more', 'formidable', 'than', 'he', 'is']",formidable,"formidable""? a:"
+"Q: In the sentence ""They saw Bill leave"", which word comes right after the word ""They""? A:","['They', 'saw', 'Bill', 'leave']",saw,saw bill leave? a:
+"Q: In the sentence ""He treats John very nicely"", which word comes right after the word ""He""? A:","['He', 'treats', 'John', 'very', 'nicely']",treats,treats john very nicely? 
+"Q: In the sentence ""I was hunting in the woods"", which word comes right after the word ""the""? A:","['I', 'was', 'hunting', 'in', 'the', 'woods']",woods,woods word comes right af
+"Q: In the sentence ""A chair was broken"", which word comes right after the word ""A""? A:","['A', 'chair', 'was', 'broken']",chair,chair was broken? a:
+"Q: In the sentence ""I love her so much"", which word immediately succeeds the word ""so""? A:","['I', 'love', 'her', 'so', 'much']",much,"love her so much""? a:"
+"Q: In the sentence ""Nora sent the book to London"", which word immediately succeeds the word ""to""? A:","['Nora', 'sent', 'the', 'book', 'to', 'London']",London,"london"" is a word that wo"
+"Q: Which word comes right after ""This"" in the sentence ""This book is easy to read""? A:","['This', 'book', 'is', 'easy', 'to', 'read']",book,"book comes right after ""t"
+"Q: In the sentence ""Sandy removed her ballet shoes"", which word comes right after the word ""her""? A:","['Sandy', 'removed', 'her', 'ballet', 'shoes']",ballet,ballet shoes?
+"Q: Which word comes right after ""The"" in the sentence ""The truck spread salt""? A:","['The', 'truck', 'spread', 'salt']",truck,spread salt? a:
+"Q: In the sentence ""she will win the race"", which word immediately succeeds the word ""the""? A:","['she', 'will', 'win', 'the', 'race']",race,winner of the race is a s
+"Q: In the sentence ""The package weighed ten pounds"", which word immediately succeeds the word ""The""? A:","['The', 'package', 'weighed', 'ten', 'pounds']",package,package weighed ten pound
+"Q: Which word comes right after ""Philippa"" in the sentence ""Philippa cried herself to sleep""? A:","['Philippa', 'cried', 'herself', 'to', 'sleep']",cried,cried herself to sleep? a
+"Q: In the sentence ""The bucket was kicked by Pat"", which word comes right after the word ""The""? A:","['The', 'bucket', 'was', 'kicked', 'by', 'Pat']",bucket,bucket was kicked by pat 
+"Q: Which word comes right after ""was"" in the sentence ""John was wondering whether to leave""? A:","['John', 'was', 'wondering', 'whether', 'to', 'leave']",wondering,wondering whether to leav
+"Q: In the sentence ""Fanny regretted talking to Mary"", which word comes right after the word ""Fanny""? A:","['Fanny', 'regretted', 'talking', 'to', 'Mary']",regretted,regretted talking to mary
+"Q: Which word comes right after ""Helen"" in the sentence ""Ellen and Helen conferred""? A:","['Ellen', 'and', 'Helen', 'conferred']",conferred,"conferred after ""helen""? "
+"Q: In the sentence ""The tigers hunt prey at night"", which word immediately succeeds the word ""hunt""? A:","['The', 'tigers', 'hunt', 'prey', 'at', 'night']",prey,"hunt prey at night""? a:"
+"Q: In the sentence ""I like Mary and she likes me"", which word comes right after the word ""like""? A:","['I', 'like', 'Mary', 'and', 'she', 'likes', 'me']",Mary,like mary and she likes m
+"Q: Which word comes right after ""You"" in the sentence ""You may pick any flower""? A:","['You', 'may', 'pick', 'any', 'flower']",may,flowers are picked up by 
+"Q: In the sentence ""little information was provided"", which word immediately succeeds the word ""little""? A:","['little', 'information', 'was', 'provided']",information,provided what?
+"Q: In the sentence ""Sonatas are easy to play on this violin"", which word comes right after the word ""this""? A:","['Sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",violin,violin word comes rigiori
+"Q: In the sentence ""Everyone hoped that she would sing"", which word comes right after the word ""she""? A:","['Everyone', 'hoped', 'that', 'she', 'would', 'sing']",would,single word comes right a
+"Q: In the sentence ""She put the pictures of Bill on your desk"", which word comes right after the word ""your""? A:","['She', 'put', 'the', 'pictures', 'of', 'Bill', 'on', 'your', 'desk']",desk,pictures of billllockirar
+"Q: In the sentence ""I ate the sugar"", which word comes right after the word ""the""? A:","['I', 'ate', 'the', 'sugar']",sugar,sugar? ate the sugar? a:
+"Q: In the sentence ""The river runs from the lake to the sea"", which word comes right after the word ""river""? A:","['The', 'river', 'runs', 'from', 'the', 'lake', 'to', 'the', 'sea']",runs,"lake to the sea""? a:"
+"Q: In the sentence ""The concert started when the bell rang"", which word immediately succeeds the word ""bell""? A:","['The', 'concert', 'started', 'when', 'the', 'bell', 'rang']",rang,concert started whenorano
+"Q: In the sentence ""John considers Bill to be silly"", which word immediately succeeds the word ""John""? A:","['John', 'considers', 'Bill', 'to', 'be', 'silly']",considers,"bill to be silly""? a:"
+"Q: In the sentence ""Some people consider the dogs in my neighborhood dangerous"", which word immediately succeeds the word ""my""? A:","['Some', 'people', 'consider', 'the', 'dogs', 'in', 'my', 'neighborhood', 'dangerous']",neighborhood,dangsinoudathohoooooohooo
+"Q: In the sentence ""John immediately learned French perfectly"", which word immediately succeeds the word ""immediately""? A:","['John', 'immediately', 'learned', 'French', 'perfectly']",learned,learnedlylylylylylylylyly
+"Q: In the sentence ""John told Mary to kiss him"", which word comes right after the word ""John""? A:","['John', 'told', 'Mary', 'to', 'kiss', 'him']",told,kiss him? a:
+"Q: In the sentence ""He blew out the candle"", which word immediately succeeds the word ""He""? A:","['He', 'blew', 'out', 'the', 'candle']",blew,candle? a:
+"Q: Which word comes right after ""lawyer"" in the sentence ""Almost any lawyer could answer that question""? A:","['Almost', 'any', 'lawyer', 'could', 'answer', 'that', 'question']",could,lawyer could answer thad 
+"Q: Which word comes right after ""surprise"" in the sentence ""I sent a surprise present to John""? A:","['I', 'sent', 'a', 'surprise', 'present', 'to', 'John']",present,present to john and john 
+"Q: In the sentence ""Sue was given the book by Bill"", which word immediately succeeds the word ""was""? A:","['Sue', 'was', 'given', 'the', 'book', 'by', 'Bill']",given,book? a:
+"Q: In the sentence ""John tried to leave"", which word comes right after the word ""to""? A:","['John', 'tried', 'to', 'leave']",leave,"leave""? a:"
+"Q: In the sentence ""Robert is eager to do his homework"", which word comes right after the word ""his""? A:","['Robert', 'is', 'eager', 'to', 'do', 'his', 'homework']",homework,homework? a:
+"Q: Which word comes right after ""be"" in the sentence ""John promised us to be gentle""? A:","['John', 'promised', 'us', 'to', 'be', 'gentle']",gentle,promised us to be gentle 
+"Q: Which word comes right after ""to"" in the sentence ""Philippa cried herself to sleep""? A:","['Philippa', 'cried', 'herself', 'to', 'sleep']",sleep,sleeping beauty?
+"Q: Which word comes right after ""not"" in the sentence ""The men would not enjoy that""? A:","['The', 'men', 'would', 'not', 'enjoy', 'that']",enjoy,enjoy that?
+"Q: Which word comes right after ""like"" in the sentence ""John did not like Mary""? A:","['John', 'did', 'not', 'like', 'Mary']",Mary,like mary did not like ma
+"Q: In the sentence ""She put the pictures of Bill on your desk"", which word immediately succeeds the word ""your""? A:","['She', 'put', 'the', 'pictures', 'of', 'Bill', 'on', 'your', 'desk']",desk,pictures of billlllllllll
+"Q: In the sentence ""She always wore purple dresses"", which word immediately succeeds the word ""wore""? A:","['She', 'always', 'wore', 'purple', 'dresses']",purple,purple dresses?
+"Q: In the sentence ""Sally eats caviar more than I had expected"", which word comes right after the word ""eats""? A:","['Sally', 'eats', 'caviar', 'more', 'than', 'I', 'had', 'expected']",caviar,eats caviar morethathathe
+"Q: In the sentence ""Dracula thought that he was the Prince of Darkness"", which word immediately succeeds the word ""the""? A:","['Dracula', 'thought', 'that', 'he', 'was', 'the', 'Prince', 'of', 'Darkness']",Prince,princedaraculathoshouprid
+"Q: Which word comes right after ""little"" in the sentence ""little information was provided""? A:","['little', 'information', 'was', 'provided']",information,"provided ""little"" informa"
+"Q: In the sentence ""David constructed the house"", which word comes right after the word ""David""? A:","['David', 'constructed', 'the', 'house']",constructed,constructed the house?
+"Q: Which word comes right after ""be"" in the sentence ""They want to be kind to her""? A:","['They', 'want', 'to', 'be', 'kind', 'to', 'her']",kind,kind of her?
+"Q: In the sentence ""His expectations are always lower than mine"", which word immediately succeeds the word ""His""? A:","['His', 'expectations', 'are', 'always', 'lower', 'than', 'mine']",expectations,expectations arexpecatata
+"Q: Which word comes right after ""Ron"" in the sentence ""Ron certainly will buy a dog""? A:","['Ron', 'certainly', 'will', 'buy', 'a', 'dog']",certainly,dog will buy a dog with a
+"Q: Which word comes right after ""of"" in the sentence ""She put the pictures of Bill on your desk""? A:","['She', 'put', 'the', 'pictures', 'of', 'Bill', 'on', 'your', 'desk']",Bill,pictures of bill on your 
+"Q: In the sentence ""The gardener grew an oak tree from that acorn"", which word comes right after the word ""oak""? A:","['The', 'gardener', 'grew', 'an', 'oak', 'tree', 'from', 'that', 'acorn']",tree,gardener grewatreeeeeeeee
+"Q: In the sentence ""Bill broke the bathtub"", which word immediately succeeds the word ""Bill""? A:","['Bill', 'broke', 'the', 'bathtub']",broke,bill broke the bathtub? a
+"Q: Which word comes right after ""the"" in the sentence ""He blew out the candle""? A:","['He', 'blew', 'out', 'the', 'candle']",candle,candle blew out the candl
+"Q: In the sentence ""I gave Jack a picture of myself"", which word immediately succeeds the word ""a""? A:","['I', 'gave', 'Jack', 'a', 'picture', 'of', 'myself']",picture,jack a picture of myself?
+"Q: In the sentence ""John believes Sally to be polite"", which word immediately succeeds the word ""believes""? A:","['John', 'believes', 'Sally', 'to', 'be', 'polite']",Sally,"politely""? a:"
+"Q: In the sentence ""Bill cooked the rice"", which word comes right after the word ""Bill""? A:","['Bill', 'cooked', 'the', 'rice']",cooked,cooked the rice? a:
+"Q: Which word comes right after ""Margaret"" in the sentence ""Margaret cut Bill on the arm""? A:","['Margaret', 'cut', 'Bill', 'on', 'the', 'arm']",cut,bill cut bill on the arm?
+"Q: Which word comes right after ""the"" in the sentence ""Margaret cut the string""? A:","['Margaret', 'cut', 'the', 'string']",string,string beans?
+"Q: In the sentence ""Sue knows the answer"", which word comes right after the word ""the""? A:","['Sue', 'knows', 'the', 'answer']",answer,"answer""? a:"
+"Q: In the sentence ""The scientist made her a robot"", which word immediately succeeds the word ""a""? A:","['The', 'scientist', 'made', 'her', 'a', 'robot']",robot,robot made her a robot a 
+"Q: Which word comes right after ""the"" in the sentence ""Oil spread over the sea shore""? A:","['Oil', 'spread', 'over', 'the', 'sea', 'shore']",sea,spread over the sea shore
+"Q: In the sentence ""The child clung to her mother"", which word comes right after the word ""her""? A:","['The', 'child', 'clung', 'to', 'her', 'mother']",mother,clung to her mother? a:
+"Q: In the sentence ""Carla slid those books across the table"", which word comes right after the word ""Carla""? A:","['Carla', 'slid', 'those', 'books', 'across', 'the', 'table']",slid,slid those books acros th
+"Q: In the sentence ""Amanda drove the package from Boston"", which word immediately succeeds the word ""Amanda""? A:","['Amanda', 'drove', 'the', 'package', 'from', 'Boston']",drove,"drove the package frola""?"
+"Q: In the sentence ""An ancient treasure trove was found in this cave"", which word immediately succeeds the word ""treasure""? A:","['An', 'ancient', 'treasure', 'trove', 'was', 'found', 'in', 'this', 'cave']",trove,"treasuredenena""? wastrent"
+"Q: In the sentence ""I told the story to Daniel"", which word comes right after the word ""I""? A:","['I', 'told', 'the', 'story', 'to', 'Daniel']",told,daniel told the story to 
+"Q: In the sentence ""Mary always prefers lemons to limes"", which word immediately succeeds the word ""Mary""? A:","['Mary', 'always', 'prefers', 'lemons', 'to', 'limes']",always,lemons to limes? a:
+"Q: In the sentence ""John seems to sleep all day"", which word comes right after the word ""all""? A:","['John', 'seems', 'to', 'sleep', 'all', 'day']",day,"seems to sleep all day""? "
+"Q: In the sentence ""That picture of Susan offended her"", which word comes right after the word ""of""? A:","['That', 'picture', 'of', 'Susan', 'offended', 'her']",Susan,susan offended her? a:
+"Q: In the sentence ""Linda taped the picture onto the wall"", which word immediately succeeds the word ""Linda""? A:","['Linda', 'taped', 'the', 'picture', 'onto', 'the', 'wall']",taped,taped the picture ontabok
+"Q: Which word comes right after ""chisel"" in the sentence ""That chisel carved the statue""? A:","['That', 'chisel', 'carved', 'the', 'statue']",carved,"carved the statue""? a:"
+"Q: In the sentence ""John seems to like pictures of himself"", which word comes right after the word ""to""? A:","['John', 'seems', 'to', 'like', 'pictures', 'of', 'himself']",like,pictures of himself? a:
+"Q: Which word comes right after ""They"" in the sentence ""They made him president""? A:","['They', 'made', 'him', 'president']",made,president who made him pr
+"Q: Which word comes right after ""her"" in the sentence ""The child clung to her mother""? A:","['The', 'child', 'clung', 'to', 'her', 'mother']",mother,clung to her mother?
+"Q: In the sentence ""Yesterday Lydia eloped with Wickham"", which word comes right after the word ""Lydia""? A:","['Yesterday', 'Lydia', 'eloped', 'with', 'Wickham']",eloped,eloped with ickham? a:
+"Q: Which word comes right after ""to"" in the sentence ""Fanny regretted having talked to Mary""? A:","['Fanny', 'regretted', 'having', 'talked', 'to', 'Mary']",Mary,regretted having talked t
+"Q: In the sentence ""We were glad it was over"", which word comes right after the word ""were""? A:","['We', 'were', 'glad', 'it', 'was', 'over']",glad,glad it was over? a:
+"Q: In the sentence ""Jason expected Medea to be treated by the doctor"", which word comes right after the word ""be""? A:","['Jason', 'expected', 'Medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",treated,"expected to be""? a:"
+"Q: In the sentence ""The men would not enjoy that"", which word immediately succeeds the word ""not""? A:","['The', 'men', 'would', 'not', 'enjoy', 'that']",enjoy,"enjoy that word ""not""? a:"
+"Q: In the sentence ""I know the people that voted in the election"", which word immediately succeeds the word ""that""? A:","['I', 'know', 'the', 'people', 'that', 'voted', 'in', 'the', 'election']",voted,elections werdsenthacofof
+"Q: Which word comes right after ""We"" in the sentence ""We pulled free""? A:","['We', 'pulled', 'free']",pulled,free?
+"Q: In the sentence ""It would be difficult to please John"", which word immediately succeeds the word ""please""? A:","['It', 'would', 'be', 'difficult', 'to', 'please', 'John']",John,please john?
+"Q: In the sentence ""I saw people playing there on the beach"", which word comes right after the word ""people""? A:","['I', 'saw', 'people', 'playing', 'there', 'on', 'the', 'beach']",playing,people playing thereonono
+"Q: In the sentence ""Most boys did not laugh"", which word immediately succeeds the word ""Most""? A:","['Most', 'boys', 'did', 'not', 'laugh']",boys,laugh? a:
+"Q: In the sentence ""His friend kicked a ball"", which word immediately succeeds the word ""His""? A:","['His', 'friend', 'kicked', 'a', 'ball']",friend,kicked a ball ball? a:
+"Q: Which word comes right after ""the"" in the sentence ""Sue knows the answer""? A:","['Sue', 'knows', 'the', 'answer']",answer,knows the answer?
+"Q: In the sentence ""I discovered an old English poem"", which word immediately succeeds the word ""an""? A:","['I', 'discovered', 'an', 'old', 'English', 'poem']",old,old english poem? a:
+"Q: In the sentence ""Almost no lawyer could answer that question"", which word comes right after the word ""that""? A:","['Almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",question,lawyer could an'? a:
+"Q: In the sentence ""Lilly should buy salmon and Mary should too"", which word comes right after the word ""buy""? A:","['Lilly', 'should', 'buy', 'salmon', 'and', 'Mary', 'should', 'too']",salmon,"mary should buy""? a:"
+"Q: In the sentence ""The intense cold killed the climbers"", which word comes right after the word ""cold""? A:","['The', 'intense', 'cold', 'killed', 'the', 'climbers']",killed,cold killed the climbers 
+"Q: Which word comes right after ""is"" in the sentence ""there is nothing to do""? A:","['there', 'is', 'nothing', 'to', 'do']",nothing,nothing to do? a:
+"Q: In the sentence ""I want him to eat asparagus"", which word immediately succeeds the word ""to""? A:","['I', 'want', 'him', 'to', 'eat', 'asparagus']",eat,eat asparagus? a:
+"Q: In the sentence ""Bill gave Sue the book"", which word immediately succeeds the word ""the""? A:","['Bill', 'gave', 'Sue', 'the', 'book']",book,book? a:
+"Q: In the sentence ""The bed which Tom slept on was hard"", which word immediately succeeds the word ""was""? A:","['The', 'bed', 'which', 'Tom', 'slept', 'on', 'was', 'hard']",hard,bed which tom slept oniat
+"Q: In the sentence ""John is touching the wall"", which word comes right after the word ""the""? A:","['John', 'is', 'touching', 'the', 'wall']",wall,wall wall wall wall wall 
+"Q: In the sentence ""It seems to be easy to fool Ben"", which word comes right after the word ""It""? A:","['It', 'seems', 'to', 'be', 'easy', 'to', 'fool', 'Ben']",seems,easy to fool ben? a:
+"Q: In the sentence ""The drooling dog kissed the big boy"", which word comes right after the word ""drooling""? A:","['The', 'drooling', 'dog', 'kissed', 'the', 'big', 'boy']",dog,drooling dog kissedog? og
+"Q: In the sentence ""The jury seemed ready to leave"", which word immediately succeeds the word ""to""? A:","['The', 'jury', 'seemed', 'ready', 'to', 'leave']",leave,jury seemed ready to leav
+"Q: In the sentence ""The peanut butter has got moldy"", which word immediately succeeds the word ""has""? A:","['The', 'peanut', 'butter', 'has', 'got', 'moldy']",got,moldy has got moldy buter
+"Q: Which word comes right after ""Car"" in the sentence ""Car sales have surprised the stockbrokers""? A:","['Car', 'sales', 'have', 'surprised', 'the', 'stockbrokers']",sales,stockbrokers have surpris
+"Q: Which word comes right after ""Oil"" in the sentence ""Oil spread over the sea shore""? A:","['Oil', 'spread', 'over', 'the', 'sea', 'shore']",spread,spread over the sea shore
+"Q: In the sentence ""Several people are sick"", which word immediately succeeds the word ""are""? A:","['Several', 'people', 'are', 'sick']",sick,"sick""? a:"
+"Q: Which word comes right after ""was"" in the sentence ""Kim sang and was accompanied by Sandy""? A:","['Kim', 'sang', 'and', 'was', 'accompanied', 'by', 'Sandy']",accompanied,sandy sang and was accomp
+"Q: Which word comes right after ""The"" in the sentence ""The bell rang""? A:","['The', 'bell', 'rang']",bell,bell rang? a:
+"Q: Which word comes right after ""who"" in the sentence ""Mary sang for anyone who wanted to hear her""? A:","['Mary', 'sang', 'for', 'anyone', 'who', 'wanted', 'to', 'hear', 'her']",wanted,wanted to hear her sang f
+"Q: In the sentence ""I compared Ginger to Fred"", which word comes right after the word ""compared""? A:","['I', 'compared', 'Ginger', 'to', 'Fred']",Ginger,ginger to fred? a:
+"Q: Which word comes right after ""who"" in the sentence ""It was Tom who spilled beer on this couch""? A:","['It', 'was', 'Tom', 'who', 'spilled', 'beer', 'on', 'this', 'couch']",spilled,beer on this couch? a:
+"Q: Which word comes right after ""was"" in the sentence ""She was sent to Seoul""? A:","['She', 'was', 'sent', 'to', 'Seoul']",sent,sentence was released in 
+"Q: Which word comes right after ""New"" in the sentence ""Amanda carried the package from Boston to New York""? A:","['Amanda', 'carried', 'the', 'package', 'from', 'Boston', 'to', 'New', 'York']",York,"boston to new york""? a:"
+"Q: In the sentence ""John considers Bill to be silly"", which word comes right after the word ""John""? A:","['John', 'considers', 'Bill', 'to', 'be', 'silly']",considers,"bill to be silly""? a:"
+"Q: In the sentence ""John knows whether she will come back"", which word immediately succeeds the word ""will""? A:","['John', 'knows', 'whether', 'she', 'will', 'come', 'back']",come,knows whether she willl c
+"Q: Which word comes right after ""the"" in the sentence ""John shot the ball perfectly""? A:","['John', 'shot', 'the', 'ball', 'perfectly']",ball,perfectly perfectly perfe
+"Q: In the sentence ""Rory eats muffins"", which word comes right after the word ""eats""? A:","['Rory', 'eats', 'muffins']",muffins,muffins? a:
+"Q: Which word comes right after ""I"" in the sentence ""I gave a book to Bill to read""? A:","['I', 'gave', 'a', 'book', 'to', 'Bill', 'to', 'read']",gave,book to bill to read? a:
+"Q: In the sentence ""No one believes that he is a fool"", which word comes right after the word ""a""? A:","['No', 'one', 'believes', 'that', 'he', 'is', 'a', 'fool']",fool,"fool""? a:"
+"Q: In the sentence ""Mary talks to any student"", which word immediately succeeds the word ""Mary""? A:","['Mary', 'talks', 'to', 'any', 'student']",talks,"student""? a:"
+"Q: In the sentence ""The thief smashed the window with a hammer"", which word comes right after the word ""a""? A:","['The', 'thief', 'smashed', 'the', 'window', 'with', 'a', 'hammer']",hammer,hammer window withasasmas
+"Q: Which word comes right after ""sprayed"" in the sentence ""Jessica sprayed paint under the table""? A:","['Jessica', 'sprayed', 'paint', 'under', 'the', 'table']",paint,painted under the table? 
+"Q: In the sentence ""These dogs barked"", which word immediately succeeds the word ""These""? A:","['These', 'dogs', 'barked']",dogs,dogs barked? a:
+"Q: Which word comes right after ""to"" in the sentence ""John spoke intimately to Mary""? A:","['John', 'spoke', 'intimately', 'to', 'Mary']",Mary,spoken to mary?
+"Q: In the sentence ""John is eager to please Kim"", which word immediately succeeds the word ""to""? A:","['John', 'is', 'eager', 'to', 'please', 'Kim']",please,please kim? a:
+"Q: In the sentence ""Mira blamed Terry for the accident"", which word immediately succeeds the word ""blamed""? A:","['Mira', 'blamed', 'Terry', 'for', 'the', 'accident']",Terry,blamed terry for terry fo
+"Q: In the sentence ""Henri wants to buy these books about cooking"", which word comes right after the word ""Henri""? A:","['Henri', 'wants', 'to', 'buy', 'these', 'books', 'about', 'cooking']",wants,books about cookiningoooo
+"Q: In the sentence ""That girl was given my binoculars by him"", which word comes right after the word ""my""? A:","['That', 'girl', 'was', 'given', 'my', 'binoculars', 'by', 'him']",binoculars,girl was given my binocul
+"Q: In the sentence ""The model resembles Kim in nearly every detail"", which word immediately succeeds the word ""in""? A:","['The', 'model', 'resembles', 'Kim', 'in', 'nearly', 'every', 'detail']",nearly,every detaioreseseseseses
+"Q: In the sentence ""No one expected him to to win"", which word immediately succeeds the word ""one""? A:","['No', 'one', 'expected', 'him', 'to', 'to', 'win']",expected,expected win? a:
+"Q: In the sentence ""John has been chosen for the position"", which word comes right after the word ""been""? A:","['John', 'has', 'been', 'chosen', 'for', 'the', 'position']",chosen,"position""? a:"
+"Q: Which word comes right after ""did"" in the sentence ""Mary regretted that she did anything to help him""? A:","['Mary', 'regretted', 'that', 'she', 'did', 'anything', 'to', 'help', 'him']",anything,regretted that she dididi
+"Q: Which word comes right after ""the"" in the sentence ""John put his gold under the bathtub""? A:","['John', 'put', 'his', 'gold', 'under', 'the', 'bathtub']",bathtub,gold under the bathtub? a
+"Q: In the sentence ""Many fish are in the sea"", which word comes right after the word ""Many""? A:","['Many', 'fish', 'are', 'in', 'the', 'sea']",fish,fish are in the sea? a:
+"Q: Which word comes right after ""He"" in the sentence ""He talked with a girl about swimming""? A:","['He', 'talked', 'with', 'a', 'girl', 'about', 'swimming']",talked,swimming?
+"Q: Which word comes right after ""she"" in the sentence ""That was why she looked so nice""? A:","['That', 'was', 'why', 'she', 'looked', 'so', 'nice']",looked,looked so nice?
+"Q: In the sentence ""John is happy about the outcome"", which word immediately succeeds the word ""the""? A:","['John', 'is', 'happy', 'about', 'the', 'outcome']",outcome,outcome?
+"Q: In the sentence ""There exists a solution to this problem"", which word comes right after the word ""this""? A:","['There', 'exists', 'a', 'solution', 'to', 'this', 'problem']",problem,problem?
+"Q: Which word comes right after ""in"" in the sentence ""The model resembles Kim in nearly every detail""? A:","['The', 'model', 'resembles', 'Kim', 'in', 'nearly', 'every', 'detail']",nearly,resembles kim in nearly e
+"Q: In the sentence ""I have six more of them"", which word immediately succeeds the word ""have""? A:","['I', 'have', 'six', 'more', 'of', 'them']",six,six more of them? a:
+"Q: Which word comes right after ""The"" in the sentence ""The muffins were eaten""? A:","['The', 'muffins', 'were', 'eaten']",muffins,eaten by the muffins were
+"Q: In the sentence ""John promised Mary that he would leave"", which word immediately succeeds the word ""promised""? A:","['John', 'promised', 'Mary', 'that', 'he', 'would', 'leave']",Mary,"leave""? a:"
+"Q: In the sentence ""The model resembles Kim in nearly every detail"", which word comes right after the word ""model""? A:","['The', 'model', 'resembles', 'Kim', 'in', 'nearly', 'every', 'detail']",resembles,every detaio resesesesese
+"Q: In the sentence ""John wants to leave"", which word immediately succeeds the word ""to""? A:","['John', 'wants', 'to', 'leave']",leave,"leave""? a:"
+"Q: In the sentence ""He planted the garden with roses last November"", which word comes right after the word ""roses""? A:","['He', 'planted', 'the', 'garden', 'with', 'roses', 'last', 'November']",last,planted withaseaswitheasa
+"Q: Which word comes right after ""more"" in the sentence ""I am more angry than sad""? A:","['I', 'am', 'more', 'angry', 'than', 'sad']",angry,sad?
+"Q: In the sentence ""The boy swims"", which word immediately succeeds the word ""boy""? A:","['The', 'boy', 'swims']",swims,swims swim swimming pools
+"Q: Which word comes right after ""I"" in the sentence ""I told the story to Daniel""? A:","['I', 'told', 'the', 'story', 'to', 'Daniel']",told,daniel told the story to 
+"Q: In the sentence ""Felicia kicked the ball off the bench"", which word comes right after the word ""Felicia""? A:","['Felicia', 'kicked', 'the', 'ball', 'off', 'the', 'bench']",kicked,kicked the balll ofora oo
+"Q: In the sentence ""I know a taller man than John"", which word comes right after the word ""taller""? A:","['I', 'know', 'a', 'taller', 'man', 'than', 'John']",man,john is the tallest man i
+"Q: In the sentence ""Almost no lawyer could answer that question"", which word comes right after the word ""lawyer""? A:","['Almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",could,lawyer could anananananan
+"Q: Which word comes right after ""winds"" in the sentence ""The strong winds cleared the skies""? A:","['The', 'strong', 'winds', 'cleared', 'the', 'skies']",cleared,strong winds cleared the 
+"Q: In the sentence ""The force of the wind broke the window"", which word immediately succeeds the word ""wind""? A:","['The', 'force', 'of', 'the', 'wind', 'broke', 'the', 'window']",broke,window window windowindow
+"Q: In the sentence ""Susan wanted Jane to study German"", which word immediately succeeds the word ""to""? A:","['Susan', 'wanted', 'Jane', 'to', 'study', 'German']",study,study german?
+"Q: In the sentence ""He was arrested by the police"", which word comes right after the word ""was""? A:","['He', 'was', 'arrested', 'by', 'the', 'police']",arrested,police?
+"Q: In the sentence ""Kim is easy to please"", which word immediately succeeds the word ""to""? A:","['Kim', 'is', 'easy', 'to', 'please']",please,"please please please""? a:"
+"Q: In the sentence ""Elizabeth regretted that she had met Wickham"", which word immediately succeeds the word ""Elizabeth""? A:","['Elizabeth', 'regretted', 'that', 'she', 'had', 'met', 'Wickham']",regretted,met icamet rthathathathat
+"Q: In the sentence ""He has not eaten yet today"", which word comes right after the word ""eaten""? A:","['He', 'has', 'not', 'eaten', 'yet', 'today']",yet,"eaten yet today""? a:"
+"Q: In the sentence ""The librarian likes books"", which word immediately succeeds the word ""The""? A:","['The', 'librarian', 'likes', 'books']",librarian,librarian likes books? a:
+"Q: Which word comes right after ""beer"" in the sentence ""I forgot how good beer tastes""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",tastes,beer tastes good beer tas
+"Q: In the sentence ""The teacher is proud of his students"", which word comes right after the word ""The""? A:","['The', 'teacher', 'is', 'proud', 'of', 'his', 'students']",teacher,students are proud ofhis 
+"Q: Which word comes right after ""high"" in the sentence ""Hard work resulted in high grades""? A:","['Hard', 'work', 'resulted', 'in', 'high', 'grades']",grades,grades resulted in high g
+"Q: In the sentence ""The bandits murdered innocent victims"", which word comes right after the word ""innocent""? A:","['The', 'bandits', 'murdered', 'innocent', 'victims']",victims,victims murderedicacamurd
+"Q: In the sentence ""John talked to any politician who is powerful"", which word comes right after the word ""John""? A:","['John', 'talked', 'to', 'any', 'politician', 'who', 'is', 'powerful']",talked,powerful?
+"Q: In the sentence ""The eggs mixed with the cream"", which word immediately succeeds the word ""eggs""? A:","['The', 'eggs', 'mixed', 'with', 'the', 'cream']",mixed,mixed with the cream mixe
+"Q: In the sentence ""Tom placed it under the table"", which word immediately succeeds the word ""the""? A:","['Tom', 'placed', 'it', 'under', 'the', 'table']",table,placed it under the table
+"Q: In the sentence ""I have six more of them"", which word comes right after the word ""have""? A:","['I', 'have', 'six', 'more', 'of', 'them']",six,six more of them? a:
+"Q: Which word comes right after ""promised"" in the sentence ""John promised Bill to leave""? A:","['John', 'promised', 'Bill', 'to', 'leave']",Bill,promised bill to leave? a
+"Q: In the sentence ""I saw only the student"", which word immediately succeeds the word ""I""? A:","['I', 'saw', 'only', 'the', 'student']",saw,"student""? a:"
+"Q: In the sentence ""Henri will paint the floor for an hour"", which word immediately succeeds the word ""the""? A:","['Henri', 'will', 'paint', 'the', 'floor', 'for', 'an', 'hour']",floor,floor for an houranururur
+"Q: Which word comes right after ""to"" in the sentence ""Amanda carried the package from Boston to New York""? A:","['Amanda', 'carried', 'the', 'package', 'from', 'Boston', 'to', 'New', 'York']",New,"boston to new york""? a:"
+"Q: Which word comes right after ""bandits"" in the sentence ""The bandits murdered innocent victims""? A:","['The', 'bandits', 'murdered', 'innocent', 'victims']",murdered,bandits murdered innocent
+"Q: In the sentence ""The truck spread salt"", which word comes right after the word ""The""? A:","['The', 'truck', 'spread', 'salt']",truck,spread salt? a:
+"Q: Which word comes right after ""man"" in the sentence ""A man kicked that ball""? A:","['A', 'man', 'kicked', 'that', 'ball']",kicked,kicked that ball back to 
+"Q: Which word comes right after ""of"" in the sentence ""That picture of Susan offended her""? A:","['That', 'picture', 'of', 'Susan', 'offended', 'her']",Susan,susan offended her?
+"Q: In the sentence ""Ellen and Helen talked together"", which word immediately succeeds the word ""and""? A:","['Ellen', 'and', 'Helen', 'talked', 'together']",Helen,and which word immediatly
+"Q: In the sentence ""They ignored the suggestion that Lee made"", which word immediately succeeds the word ""They""? A:","['They', 'ignored', 'the', 'suggestion', 'that', 'Lee', 'made']",ignored,made what?
+"Q: Which word comes right after ""not"" in the sentence ""The brave are not afraid to die""? A:","['The', 'brave', 'are', 'not', 'afraid', 'to', 'die']",afraid,brave are not afraid to d
+"Q: In the sentence ""The bed which Tom slept on was hard"", which word comes right after the word ""was""? A:","['The', 'bed', 'which', 'Tom', 'slept', 'on', 'was', 'hard']",hard,bed which tom slept onoma
+"Q: In the sentence ""Jackie chased after the thief"", which word comes right after the word ""Jackie""? A:","['Jackie', 'chased', 'after', 'the', 'thief']",chased,chased after the thief? a
+"Q: In the sentence ""The bird sings"", which word comes right after the word ""bird""? A:","['The', 'bird', 'sings']",sings,"sings ""bird""? a:"
+"Q: In the sentence ""He blew out the candle"", which word comes right after the word ""the""? A:","['He', 'blew', 'out', 'the', 'candle']",candle,candle? a:
+"Q: In the sentence ""Doug cleared the table"", which word immediately succeeds the word ""Doug""? A:","['Doug', 'cleared', 'the', 'table']",cleared,cleared the table? a:
+"Q: Which word comes right after ""had"" in the sentence ""Never had Sir Thomas been so offended""? A:","['Never', 'had', 'Sir', 'Thomas', 'been', 'so', 'offended']",Sir,sir thomas been so offend
+"Q: In the sentence ""The gardener grew an oak tree from that acorn"", which word immediately succeeds the word ""oak""? A:","['The', 'gardener', 'grew', 'an', 'oak', 'tree', 'from', 'that', 'acorn']",tree,gardener grewhadereeeeeee
+"Q: In the sentence ""The truck spread salt"", which word immediately succeeds the word ""The""? A:","['The', 'truck', 'spread', 'salt']",truck,spread salt? a:
+"Q: In the sentence ""We ate at a really fancy restaurant"", which word comes right after the word ""really""? A:","['We', 'ate', 'at', 'a', 'really', 'fancy', 'restaurant']",fancy,really fancy restaurant? 
+"Q: Which word comes right after ""an"" in the sentence ""I discovered an old English poem""? A:","['I', 'discovered', 'an', 'old', 'English', 'poem']",old,old english poem? a:
+"Q: In the sentence ""I know the person whose mother died"", which word immediately succeeds the word ""I""? A:","['I', 'know', 'the', 'person', 'whose', 'mother', 'died']",know,"mother died?"" asked thena"
+"Q: In the sentence ""Martha carved the baby a toy out of wood"", which word comes right after the word ""Martha""? A:","['Martha', 'carved', 'the', 'baby', 'a', 'toy', 'out', 'of', 'wood']",carved,carved toy out of woood a
+"Q: In the sentence ""We reminded him of the agreement"", which word comes right after the word ""the""? A:","['We', 'reminded', 'him', 'of', 'the', 'agreement']",agreement,agreement?
+"Q: Which word comes right after ""Kris"" in the sentence ""Kris donated a book to the library""? A:","['Kris', 'donated', 'a', 'book', 'to', 'the', 'library']",donated,book to the library?
+"Q: In the sentence ""Bill wants Susan to leave"", which word immediately succeeds the word ""Bill""? A:","['Bill', 'wants', 'Susan', 'to', 'leave']",wants,leave?
+"Q: In the sentence ""She might be pregnant"", which word comes right after the word ""be""? A:","['She', 'might', 'be', 'pregnant']",pregnant,pregnant?
+"Q: In the sentence ""The table was wiped clean by John"", which word immediately succeeds the word ""by""? A:","['The', 'table', 'was', 'wiped', 'clean', 'by', 'John']",John,"wiped clean by john""? a:"
+"Q: In the sentence ""I wonder what John bought"", which word immediately succeeds the word ""what""? A:","['I', 'wonder', 'what', 'John', 'bought']",John,bought by john bought by 
+"Q: Which word comes right after ""will"" in the sentence ""I wonder if you will come back tomorrow""? A:","['I', 'wonder', 'if', 'you', 'will', 'come', 'back', 'tomorrow']",come,wonder if you will come b
+"Q: In the sentence ""Ellen talked with Helen about the problem"", which word comes right after the word ""Ellen""? A:","['Ellen', 'talked', 'with', 'Helen', 'about', 'the', 'problem']",talked,problem?
+"Q: In the sentence ""John deposited some money in the bank"", which word comes right after the word ""John""? A:","['John', 'deposited', 'some', 'money', 'in', 'the', 'bank']",deposited,deposited some money in t
+"Q: In the sentence ""Everyone thinks he is smart"", which word immediately succeeds the word ""is""? A:","['Everyone', 'thinks', 'he', 'is', 'smart']",smart,smart? a:
+"Q: In the sentence ""Mary talks to any student"", which word comes right after the word ""any""? A:","['Mary', 'talks', 'to', 'any', 'student']",student,"student""? a:"
+"Q: In the sentence ""He gave my binoculars to that girl"", which word immediately succeeds the word ""my""? A:","['He', 'gave', 'my', 'binoculars', 'to', 'that', 'girl']",binoculars,girl gave my binoculars t
+"Q: Which word comes right after ""eats"" in the sentence ""He always eats deep fried muffins""? A:","['He', 'always', 'eats', 'deep', 'fried', 'muffins']",deep,muffins?
+"Q: In the sentence ""John promised Mary to cut the grass"", which word comes right after the word ""promised""? A:","['John', 'promised', 'Mary', 'to', 'cut', 'the', 'grass']",Mary,"cut the grass""? a:"
+"Q: Which word comes right after ""to"" in the sentence ""It is obvious to everybody that Tasha likes Misha""? A:","['It', 'is', 'obvious', 'to', 'everybody', 'that', 'Tasha', 'likes', 'Misha']",everybody,misha likes misha ta? a:
+"Q: In the sentence ""Jason was killed"", which word comes right after the word ""was""? A:","['Jason', 'was', 'killed']",killed,killed?
+"Q: Which word comes right after ""against"" in the sentence ""Ellen warned against skating on thin ice""? A:","['Ellen', 'warned', 'against', 'skating', 'on', 'thin', 'ice']",skating,skating on thin ice cream
+"Q: In the sentence ""I know the person whose mother died"", which word immediately succeeds the word ""the""? A:","['I', 'know', 'the', 'person', 'whose', 'mother', 'died']",person,mother died in the suceee
+"Q: In the sentence ""I saw these dancers and those musicians smoking something"", which word comes right after the word ""those""? A:","['I', 'saw', 'these', 'dancers', 'and', 'those', 'musicians', 'smoking', 'something']",musicians,dancersomusomusomusomusom
+"Q: In the sentence ""even the student left"", which word comes right after the word ""student""? A:","['even', 'the', 'student', 'left']",left,"left after the word ""left"
+"Q: In the sentence ""Sue knows the answer"", which word immediately succeeds the word ""the""? A:","['Sue', 'knows', 'the', 'answer']",answer,knows the answer to the w
+"Q: In the sentence ""A dog lay in the corner"", which word comes right after the word ""A""? A:","['A', 'dog', 'lay', 'in', 'the', 'corner']",dog,corner?
+"Q: In the sentence ""She put the pictures of Bill on your desk"", which word comes right after the word ""of""? A:","['She', 'put', 'the', 'pictures', 'of', 'Bill', 'on', 'your', 'desk']",Bill,bill on your desk? a:
+"Q: Which word comes right after ""any"" in the sentence ""John talked to any politician who is powerful""? A:","['John', 'talked', 'to', 'any', 'politician', 'who', 'is', 'powerful']",politician,powerful?
+"Q: In the sentence ""John believes Sally to be polite"", which word immediately succeeds the word ""be""? A:","['John', 'believes', 'Sally', 'to', 'be', 'polite']",polite,politely succeeds the wor
+"Q: In the sentence ""I shipped the package halfway around the world"", which word immediately succeeds the word ""halfway""? A:","['I', 'shipped', 'the', 'package', 'halfway', 'around', 'the', 'world']",around,packaged? aroufwonatharou
+"Q: In the sentence ""Oil spread over the sea shore"", which word comes right after the word ""the""? A:","['Oil', 'spread', 'over', 'the', 'sea', 'shore']",sea,spread over the sea shore
+"Q: In the sentence ""I wonder if you will come back tomorrow"", which word immediately succeeds the word ""back""? A:","['I', 'wonder', 'if', 'you', 'will', 'come', 'back', 'tomorrow']",tomorrow,wonder if you wondel tomo
+"Q: Which word comes right after ""the"" in the sentence ""They gave the bicycle to me""? A:","['They', 'gave', 'the', 'bicycle', 'to', 'me']",bicycle,gave the bicycle to me?
+"Q: Which word comes right after ""I"" in the sentence ""I believe there to be no way out""? A:","['I', 'believe', 'there', 'to', 'be', 'no', 'way', 'out']",believe,believe there to be no wa
+"Q: In the sentence ""The agency classified the documents"", which word immediately succeeds the word ""agency""? A:","['The', 'agency', 'classified', 'the', 'documents']",classified,documents?
+"Q: Which word comes right after ""sent"" in the sentence ""Ayala sent back the diamond necklace""? A:","['Ayala', 'sent', 'back', 'the', 'diamond', 'necklace']",back,necklace?
+"Q: Which word comes right after ""the"" in the sentence ""Mickey slips up all the time""? A:","['Mickey', 'slips', 'up', 'all', 'the', 'time']",time,slips up all the time? a:
+"Q: Which word comes right after ""army"" in the sentence ""The army destroyed the palace""? A:","['The', 'army', 'destroyed', 'the', 'palace']",destroyed,palace?
+"Q: In the sentence ""Carla mopped the floor under the furniture"", which word immediately succeeds the word ""Carla""? A:","['Carla', 'mopped', 'the', 'floor', 'under', 'the', 'furniture']",mopped,mopped the florurupededed
+"Q: In the sentence ""My car was stolen"", which word immediately succeeds the word ""was""? A:","['My', 'car', 'was', 'stolen']",stolen,stolen?
+"Q: In the sentence ""There is a bench for you to sit on"", which word comes right after the word ""to""? A:","['There', 'is', 'a', 'bench', 'for', 'you', 'to', 'sit', 'on']",sit,"bench for you to sit on""?"
+"Q: In the sentence ""Ellen warned Helen about the traffic jam"", which word immediately succeeds the word ""the""? A:","['Ellen', 'warned', 'Helen', 'about', 'the', 'traffic', 'jam']",traffic,traffic jam iedicalablatr
+"Q: In the sentence ""There seems to be a fountain in the park"", which word comes right after the word ""the""? A:","['There', 'seems', 'to', 'be', 'a', 'fountain', 'in', 'the', 'park']",park,fountain in the park is p
+"Q: Which word comes right after ""deep"" in the sentence ""I might eat deep fried muffins""? A:","['I', 'might', 'eat', 'deep', 'fried', 'muffins']",fried,muffins?
+"Q: Which word comes right after ""I"" in the sentence ""I like Mary and she likes me""? A:","['I', 'like', 'Mary', 'and', 'she', 'likes', 'me']",like,like mary and she likes m
+"Q: Which word comes right after ""is"" in the sentence ""It is likely that Bill likes chocolate""? A:","['It', 'is', 'likely', 'that', 'Bill', 'likes', 'chocolate']",likely,likely that bill likes ch
+"Q: Which word comes right after ""The"" in the sentence ""The meat cuts easily""? A:","['The', 'meat', 'cuts', 'easily']",meat,meat cuts easily? a:
+"Q: In the sentence ""His friend learned dancing"", which word comes right after the word ""learned""? A:","['His', 'friend', 'learned', 'dancing']",dancing,dancing?
+"Q: In the sentence ""We pulled free"", which word immediately succeeds the word ""We""? A:","['We', 'pulled', 'free']",pulled,"pulled free""? a:"
+"Q: In the sentence ""Pat is either stupid or a liar"", which word immediately succeeds the word ""a""? A:","['Pat', 'is', 'either', 'stupid', 'or', 'a', 'liar']",liar,"stupid or a liar""? a:"
+"Q: Which word comes right after ""are"" in the sentence ""Several people are sick""? A:","['Several', 'people', 'are', 'sick']",sick,sick?
+"Q: In the sentence ""I have never seen this movie"", which word comes right after the word ""this""? A:","['I', 'have', 'never', 'seen', 'this', 'movie']",movie,movie series? a:
+"Q: In the sentence ""Cynthia ate the peach with a fork"", which word immediately succeeds the word ""a""? A:","['Cynthia', 'ate', 'the', 'peach', 'with', 'a', 'fork']",fork,ate the peach with a fork
+"Q: In the sentence ""Gerry became quite conservative"", which word immediately succeeds the word ""became""? A:","['Gerry', 'became', 'quite', 'conservative']",quite,conservative word imediat
+"Q: Which word comes right after ""cold"" in the sentence ""The intense cold killed the climbers""? A:","['The', 'intense', 'cold', 'killed', 'the', 'climbers']",killed,cold killed the climbers?
+"Q: In the sentence ""The brave are not afraid to die"", which word immediately succeeds the word ""not""? A:","['The', 'brave', 'are', 'not', 'afraid', 'to', 'die']",afraid,afraid to die? a:
+"Q: In the sentence ""The lasagna tasted delicious"", which word comes right after the word ""tasted""? A:","['The', 'lasagna', 'tasted', 'delicious']",delicious,"lasagna tasted delicious"""
+"Q: In the sentence ""That joke never fails to amuse"", which word comes right after the word ""That""? A:","['That', 'joke', 'never', 'fails', 'to', 'amuse']",joke,joke never fails to amuse
+"Q: In the sentence ""I believe strongly that the world is round"", which word immediately succeeds the word ""believe""? A:","['I', 'believe', 'strongly', 'that', 'the', 'world', 'is', 'round']",strongly,roundly?
+"Q: In the sentence ""Mary always prefers lemons to limes"", which word comes right after the word ""Mary""? A:","['Mary', 'always', 'prefers', 'lemons', 'to', 'limes']",always,lemons to limes? a:
+"Q: In the sentence ""Amanda carried packages to New York"", which word comes right after the word ""carried""? A:","['Amanda', 'carried', 'packages', 'to', 'New', 'York']",packages,carried packages to newor
+"Q: In the sentence ""Martha climbed the mountain"", which word comes right after the word ""the""? A:","['Martha', 'climbed', 'the', 'mountain']",mountain,"mountain""? a:"
+"Q: In the sentence ""I told the story to Daniel"", which word comes right after the word ""to""? A:","['I', 'told', 'the', 'story', 'to', 'Daniel']",Daniel,daniel told the story to 
+"Q: In the sentence ""The storm arrived while we ate lunch"", which word immediately succeeds the word ""storm""? A:","['The', 'storm', 'arrived', 'while', 'we', 'ate', 'lunch']",arrived,ate lunch? a:
+"Q: In the sentence ""Ellen warned against skating on thin ice"", which word comes right after the word ""against""? A:","['Ellen', 'warned', 'against', 'skating', 'on', 'thin', 'ice']",skating,skating on thiciconerinei
+"Q: Which word comes right after ""That"" in the sentence ""That whole wheat flour bakes wonderful bread""? A:","['That', 'whole', 'wheat', 'flour', 'bakes', 'wonderful', 'bread']",whole,flour bakes wonderful bre
+"Q: In the sentence ""Ellen warned Helen against skating on thin ice"", which word comes right after the word ""warned""? A:","['Ellen', 'warned', 'Helen', 'against', 'skating', 'on', 'thin', 'ice']",Helen,skating oned?
+"Q: In the sentence ""Six students got shot accidentally"", which word comes right after the word ""shot""? A:","['Six', 'students', 'got', 'shot', 'accidentally']",accidentally,students got shot acciden
+"Q: Which word comes right after ""a"" in the sentence ""The beaver built a dam""? A:","['The', 'beaver', 'built', 'a', 'dam']",dam,beaver built a dam? a:
+"Q: Which word comes right after ""naughty"" in the sentence ""Jennifer shook her finger at the naughty child""? A:","['Jennifer', 'shook', 'her', 'finger', 'at', 'the', 'naughty', 'child']",child,child shook her finger at
+"Q: In the sentence ""I was hunting in the woods"", which word immediately succeeds the word ""the""? A:","['I', 'was', 'hunting', 'in', 'the', 'woods']",woods,woods word immediately su
+"Q: In the sentence ""Mary believed John to have loved her"", which word immediately succeeds the word ""Mary""? A:","['Mary', 'believed', 'John', 'to', 'have', 'loved', 'her']",believed,have loved her to? a:
+"Q: In the sentence ""John is touching the wall"", which word immediately succeeds the word ""the""? A:","['John', 'is', 'touching', 'the', 'wall']",wall,wall wall wall wall wall 
+"Q: Which word comes right after ""to"" in the sentence ""John promised Mary to cut the grass""? A:","['John', 'promised', 'Mary', 'to', 'cut', 'the', 'grass']",cut,mary promised mary to cut
+"Q: In the sentence ""Stephen seemed to be intelligent"", which word comes right after the word ""be""? A:","['Stephen', 'seemed', 'to', 'be', 'intelligent']",intelligent,be?
+"Q: Which word comes right after ""student"" in the sentence ""The student knew the answers""? A:","['The', 'student', 'knew', 'the', 'answers']",knew,knew the answers?
+"Q: Which word comes right after ""Nora"" in the sentence ""Nora brought the book to Pamela""? A:","['Nora', 'brought', 'the', 'book', 'to', 'Pamela']",brought,book?
+"Q: In the sentence ""The tuna will be eaten"", which word comes right after the word ""The""? A:","['The', 'tuna', 'will', 'be', 'eaten']",tuna,tuna will be eaten by the
+"Q: In the sentence ""Mary always prefers lemons to limes"", which word comes right after the word ""always""? A:","['Mary', 'always', 'prefers', 'lemons', 'to', 'limes']",prefers,lemons to limes?
+"Q: In the sentence ""Amanda carried the package from Boston to New York"", which word immediately succeeds the word ""to""? A:","['Amanda', 'carried', 'the', 'package', 'from', 'Boston', 'to', 'New', 'York']",New,boston caradedeeeeeeeeeee
+"Q: In the sentence ""Nora sent the book"", which word comes right after the word ""the""? A:","['Nora', 'sent', 'the', 'book']",book,book? a:
+"Q: In the sentence ""That movie always shocks people"", which word immediately succeeds the word ""That""? A:","['That', 'movie', 'always', 'shocks', 'people']",movie,movies always shocks peop
+"Q: Which word comes right after ""became"" in the sentence ""The teacher became angry with the students""? A:","['The', 'teacher', 'became', 'angry', 'with', 'the', 'students']",angry,became angry with the stu
+"Q: In the sentence ""It annoys people that dogs bark"", which word comes right after the word ""It""? A:","['It', 'annoys', 'people', 'that', 'dogs', 'bark']",annoys,dogs bark? a:
+"Q: In the sentence ""There appears to be a problem with this solution"", which word immediately succeeds the word ""this""? A:","['There', 'appears', 'to', 'be', 'a', 'problem', 'with', 'this', 'solution']",solution,problem wisusololutisolut
+"Q: In the sentence ""John is eager to examine the patient"", which word immediately succeeds the word ""to""? A:","['John', 'is', 'eager', 'to', 'examine', 'the', 'patient']",examine,"examine""? a:"
+"Q: In the sentence ""Carla shoveled the snow from the walk"", which word immediately succeeds the word ""Carla""? A:","['Carla', 'shoveled', 'the', 'snow', 'from', 'the', 'walk']",shoveled,snow from the walkepecece
+"Q: In the sentence ""I admired the honesty in him"", which word comes right after the word ""I""? A:","['I', 'admired', 'the', 'honesty', 'in', 'him']",admired,admired the honesty in hi
+"Q: In the sentence ""John promised us to be gentle"", which word comes right after the word ""be""? A:","['John', 'promised', 'us', 'to', 'be', 'gentle']",gentle,gentleman promised us to 
+"Q: In the sentence ""I will speak to Hector about this"", which word immediately succeeds the word ""will""? A:","['I', 'will', 'speak', 'to', 'Hector', 'about', 'this']",speak,hector about this? a:
+"Q: In the sentence ""The man I saw left"", which word comes right after the word ""I""? A:","['The', 'man', 'I', 'saw', 'left']",saw,saw left?
+"Q: Which word comes right after ""witch"" in the sentence ""The witch poisoned Snow White""? A:","['The', 'witch', 'poisoned', 'Snow', 'White']",poisoned,poisoned snow hite with t
+"Q: In the sentence ""I have never seen this movie"", which word immediately succeeds the word ""this""? A:","['I', 'have', 'never', 'seen', 'this', 'movie']",movie,movie sentence? a:
+"Q: Which word comes right after ""doctors"" in the sentence ""Few doctors approve of our remedy""? A:","['Few', 'doctors', 'approve', 'of', 'our', 'remedy']",approve,remedy?
+"Q: In the sentence ""Rosie got struck by lightning"", which word comes right after the word ""got""? A:","['Rosie', 'got', 'struck', 'by', 'lightning']",struck,struck by lightning? a:
+"Q: Which word comes right after ""explorers"" in the sentence ""The explorers cut their way through the jungle""? A:","['The', 'explorers', 'cut', 'their', 'way', 'through', 'the', 'jungle']",cut,cut their way throughther
+"Q: In the sentence ""John tried to kiss Mary"", which word immediately succeeds the word ""to""? A:","['John', 'tried', 'to', 'kiss', 'Mary']",kiss,"kiss mary""? a:"
+"Q: In the sentence ""Frank gave a piano to Jane Fairfax"", which word immediately succeeds the word ""a""? A:","['Frank', 'gave', 'a', 'piano', 'to', 'Jane', 'Fairfax']",piano,fairfax? a:
+"Q: In the sentence ""There is a bench for you to sit on"", which word immediately succeeds the word ""to""? A:","['There', 'is', 'a', 'bench', 'for', 'you', 'to', 'sit', 'on']",sit,"bench for you to sit on""?"
+"Q: In the sentence ""John sang a song and danced to the music"", which word comes right after the word ""and""? A:","['John', 'sang', 'a', 'song', 'and', 'danced', 'to', 'the', 'music']",danced,danced to the musich? a:
+"Q: Which word comes right after ""to"" in the sentence ""This violin is difficult to play sonatas on""? A:","['This', 'violin', 'is', 'difficult', 'to', 'play', 'sonatas', 'on']",play,violin is difficult to pl
+"Q: Which word comes right after ""or"" in the sentence ""Mary or Sue could tell you that""? A:","['Mary', 'or', 'Sue', 'could', 'tell', 'you', 'that']",Sue,could tell you that word 
+"Q: In the sentence ""I had eaten the deep fried muffins"", which word immediately succeeds the word ""had""? A:","['I', 'had', 'eaten', 'the', 'deep', 'fried', 'muffins']",eaten,eaten the deep fried muff
+"Q: In the sentence ""The peanut butter has got moldy"", which word immediately succeeds the word ""peanut""? A:","['The', 'peanut', 'butter', 'has', 'got', 'moldy']",butter,moldy has got moldy butte
+"Q: In the sentence ""Jessica sprayed paint under the table"", which word comes right after the word ""the""? A:","['Jessica', 'sprayed', 'paint', 'under', 'the', 'table']",table,sprayed paint under table
+"Q: Which word comes right after ""Felicia"" in the sentence ""Felicia kicked the ball off the bench""? A:","['Felicia', 'kicked', 'the', 'ball', 'off', 'the', 'bench']",kicked,kicked the ball off the b
+"Q: Which word comes right after ""saw"" in the sentence ""Heidi saw drawings of her""? A:","['Heidi', 'saw', 'drawings', 'of', 'her']",drawings,saw drawings of her?
+"Q: Which word comes right after ""ancient"" in the sentence ""An ancient treasure trove was found in this cave""? A:","['An', 'ancient', 'treasure', 'trove', 'was', 'found', 'in', 'this', 'cave']",treasure,treasure trove was founde
+"Q: In the sentence ""Fred kicked the ball over the fence"", which word comes right after the word ""Fred""? A:","['Fred', 'kicked', 'the', 'ball', 'over', 'the', 'fence']",kicked,kicked the ball over thed
+"Q: In the sentence ""Tamara poured water into the bowl"", which word immediately succeeds the word ""poured""? A:","['Tamara', 'poured', 'water', 'into', 'the', 'bowl']",water,poured water into therano
+"Q: In the sentence ""John promised Bill to leave"", which word immediately succeeds the word ""to""? A:","['John', 'promised', 'Bill', 'to', 'leave']",leave,"promised bill to leave""? "
+"Q: In the sentence ""John learned French perfectly"", which word immediately succeeds the word ""learned""? A:","['John', 'learned', 'French', 'perfectly']",French,perfectly perfectly perfe
+"Q: In the sentence ""John tried to leave"", which word immediately succeeds the word ""to""? A:","['John', 'tried', 'to', 'leave']",leave,"leave""? a:"
+"Q: Which word comes right after ""the"" in the sentence ""A smith hammered the metal""? A:","['A', 'smith', 'hammered', 'the', 'metal']",metal,hammered the metal band a
+"Q: Which word comes right after ""His"" in the sentence ""His expectations are always lower than mine""? A:","['His', 'expectations', 'are', 'always', 'lower', 'than', 'mine']",expectations,expectations are always l
+"Q: In the sentence ""Those bandits attacked Emma and Harriet yesterday"", which word immediately succeeds the word ""and""? A:","['Those', 'bandits', 'attacked', 'Emma', 'and', 'Harriet', 'yesterday']",Harriet,banditsandatsyemanatststs
+"Q: Which word comes right after ""please"" in the sentence ""It would be difficult to please John""? A:","['It', 'would', 'be', 'difficult', 'to', 'please', 'John']",John,please what?
+"Q: In the sentence ""John said Mary went to the store quickly"", which word immediately succeeds the word ""store""? A:","['John', 'said', 'Mary', 'went', 'to', 'the', 'store', 'quickly']",quickly,stored quickly? a:
+"Q: Which word comes right after ""John"" in the sentence ""John sang a song and danced to the music""? A:","['John', 'sang', 'a', 'song', 'and', 'danced', 'to', 'the', 'music']",sang,sang a song and danced to
+"Q: In the sentence ""I sensed his eagerness"", which word comes right after the word ""his""? A:","['I', 'sensed', 'his', 'eagerness']",eagerness,eagerness is eagerness to
+"Q: In the sentence ""Odysseus planned to hear the sirens"", which word immediately succeeds the word ""Odysseus""? A:","['Odysseus', 'planned', 'to', 'hear', 'the', 'sirens']",planned,planned to heareseuseus p
+"Q: Which word comes right after ""of"" in the sentence ""Dracula thought that he was the Prince of Darkness""? A:","['Dracula', 'thought', 'that', 'he', 'was', 'the', 'Prince', 'of', 'Darkness']",Darkness,darkness?
+"Q: In the sentence ""John wants him to leave"", which word comes right after the word ""to""? A:","['John', 'wants', 'him', 'to', 'leave']",leave,"leave""? a:"
+"Q: In the sentence ""Sharon sprayed the plants with water"", which word immediately succeeds the word ""Sharon""? A:","['Sharon', 'sprayed', 'the', 'plants', 'with', 'water']",sprayed,sharon sprayed thelanthel
+"Q: Which word comes right after ""to"" in the sentence ""Bill went on Monday to London""? A:","['Bill', 'went', 'on', 'Monday', 'to', 'London']",London,london to london to londo
+"Q: In the sentence ""Mary has more than two friends"", which word comes right after the word ""than""? A:","['Mary', 'has', 'more', 'than', 'two', 'friends']",two,friends?
+"Q: In the sentence ""John wants him to leave"", which word immediately succeeds the word ""to""? A:","['John', 'wants', 'him', 'to', 'leave']",leave,"leave""? a:"
+"Q: In the sentence ""I want him to eat asparagus"", which word comes right after the word ""eat""? A:","['I', 'want', 'him', 'to', 'eat', 'asparagus']",asparagus,eat?
+"Q: In the sentence ""A large ship appeared on the horizon"", which word immediately succeeds the word ""A""? A:","['A', 'large', 'ship', 'appeared', 'on', 'the', 'horizon']",large,ship appeared on the hori
+"Q: Which word comes right after ""pilot"" in the sentence ""A pilot must be flying this plane""? A:","['A', 'pilot', 'must', 'be', 'flying', 'this', 'plane']",must,plane must be flying this
+"Q: In the sentence ""I saw the brilliant student"", which word comes right after the word ""I""? A:","['I', 'saw', 'the', 'brilliant', 'student']",saw,"student""? a:"
+"Q: Which word comes right after ""Bill"" in the sentence ""Bill wants Susan to leave""? A:","['Bill', 'wants', 'Susan', 'to', 'leave']",wants,leave? a:
+"Q: Which word comes right after ""to"" in the sentence ""John is eager to please Kim""? A:","['John', 'is', 'eager', 'to', 'please', 'Kim']",please,please kim is eager to pl
+"Q: In the sentence ""The hanging gardens are a sight to behold"", which word comes right after the word ""The""? A:","['The', 'hanging', 'gardens', 'are', 'a', 'sight', 'to', 'behold']",hanging,gardens are a sightosight
+"Q: Which word comes right after ""this"" in the sentence ""Sonatas are easy to play on this violin""? A:","['Sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",violin,easy to play on this viol
+"Q: In the sentence ""John knows whether she will come back"", which word comes right after the word ""will""? A:","['John', 'knows', 'whether', 'she', 'will', 'come', 'back']",come,knows whether she willlll
+"Q: Which word comes right after ""that"" in the sentence ""I doubt that Mary reads mysteries""? A:","['I', 'doubt', 'that', 'Mary', 'reads', 'mysteries']",Mary,mary reads mysteries?
+"Q: In the sentence ""Nora sent the book to London"", which word immediately succeeds the word ""the""? A:","['Nora', 'sent', 'the', 'book', 'to', 'London']",book,london book? a:
+"Q: Which word comes right after ""John"" in the sentence ""John went home""? A:","['John', 'went', 'home']",went,went home? a:
+"Q: Which word comes right after ""Gerry"" in the sentence ""Gerry became quite conservative""? A:","['Gerry', 'became', 'quite', 'conservative']",became,became quite conservative
+"Q: In the sentence ""Someone stole my car"", which word immediately succeeds the word ""Someone""? A:","['Someone', 'stole', 'my', 'car']",stole,car?
+"Q: In the sentence ""You will believe Bob"", which word comes right after the word ""believe""? A:","['You', 'will', 'believe', 'Bob']",Bob,"bob""? a:"
+"Q: In the sentence ""I blew it up"", which word comes right after the word ""I""? A:","['I', 'blew', 'it', 'up']",blew,"blew it up""? a:"
+"Q: In the sentence ""I would prefer for John to leave"", which word comes right after the word ""to""? A:","['I', 'would', 'prefer', 'for', 'John', 'to', 'leave']",leave,"leave""? a:"
+"Q: In the sentence ""We relied on Leslie"", which word immediately succeeds the word ""We""? A:","['We', 'relied', 'on', 'Leslie']",relied,leslied on leslied on les
+"Q: In the sentence ""John is easy to please"", which word immediately succeeds the word ""to""? A:","['John', 'is', 'easy', 'to', 'please']",please,"please please""? a:"
+"Q: In the sentence ""The student enjoyed his English syntax class last semester"", which word immediately succeeds the word ""English""? A:","['The', 'student', 'enjoyed', 'his', 'English', 'syntax', 'class', 'last', 'semester']",syntax,syntax clasylax clasylasy
+"Q: Which word comes right after ""man"" in the sentence ""The man killed the king with the knife""? A:","['The', 'man', 'killed', 'the', 'king', 'with', 'the', 'knife']",killed,king with the knife? a:
+"Q: In the sentence ""I know I bought the book you recommended"", which word comes right after the word ""the""? A:","['I', 'know', 'I', 'bought', 'the', 'book', 'you', 'recommended']",book,book? a:
+"Q: In the sentence ""John talked to any politician who is powerful"", which word comes right after the word ""any""? A:","['John', 'talked', 'to', 'any', 'politician', 'who', 'is', 'powerful']",politician,"powerful politian""? a:"
+"Q: In the sentence ""I sent a surprise present to John"", which word immediately succeeds the word ""surprise""? A:","['I', 'sent', 'a', 'surprise', 'present', 'to', 'John']",present,present to john?
+"Q: In the sentence ""A large dog chased a small cat"", which word immediately succeeds the word ""large""? A:","['A', 'large', 'dog', 'chased', 'a', 'small', 'cat']",dog,chased a small cat chased
+"Q: In the sentence ""Clean your desk before tomorrow"", which word comes right after the word ""before""? A:","['Clean', 'your', 'desk', 'before', 'tomorrow']",tomorrow,"desk before tomorrow""? a:"
+"Q: In the sentence ""The book surprised many people"", which word immediately succeeds the word ""book""? A:","['The', 'book', 'surprised', 'many', 'people']",surprised,book surprised many peopl
+"Q: In the sentence ""The officer carefully inspected the license"", which word immediately succeeds the word ""officer""? A:","['The', 'officer', 'carefully', 'inspected', 'the', 'license']",carefully,carefulllyinsyinseveryofu
+"Q: In the sentence ""I would like for John to win"", which word immediately succeeds the word ""to""? A:","['I', 'would', 'like', 'for', 'John', 'to', 'win']",win,"win?"" is the word for win"
+"Q: In the sentence ""John said Mary went to the store quickly"", which word comes right after the word ""John""? A:","['John', 'said', 'Mary', 'went', 'to', 'the', 'store', 'quickly']",said,said mary went to thenene
+"Q: In the sentence ""I forgot how good beer tastes"", which word immediately succeeds the word ""beer""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",tastes,beer tastes good beer tas
+"Q: In the sentence ""I believe that the sun was out"", which word comes right after the word ""the""? A:","['I', 'believe', 'that', 'the', 'sun', 'was', 'out']",sun,"sun was out""? a:"
+"Q: Which word comes right after ""My"" in the sentence ""My brother likes collecting jazz records""? A:","['My', 'brother', 'likes', 'collecting', 'jazz', 'records']",brother,jazz records come right a
+"Q: In the sentence ""I forgot how good beer tastes"", which word comes right after the word ""how""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",good,beer tastes good beer tas
+"Q: In the sentence ""Doug went to Chicago"", which word comes right after the word ""to""? A:","['Doug', 'went', 'to', 'Chicago']",Chicago,chicago went to chicago t
+"Q: In the sentence ""Jason expected Medea to be treated by the doctor"", which word comes right after the word ""expected""? A:","['Jason', 'expected', 'Medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",Medea,expecteditofto to bededex
+"Q: Which word comes right after ""Linda"" in the sentence ""Linda taped the label and the cover together""? A:","['Linda', 'taped', 'the', 'label', 'and', 'the', 'cover', 'together']",taped,taped the label and there
+"Q: In the sentence ""He was arrested by the police"", which word immediately succeeds the word ""was""? A:","['He', 'was', 'arrested', 'by', 'the', 'police']",arrested,police?
+"Q: In the sentence ""John is taller than Dill"", which word comes right after the word ""is""? A:","['John', 'is', 'taller', 'than', 'Dill']",taller,"dillon""? a:"
+"Q: In the sentence ""Carla poured lemonade into the pitcher"", which word comes right after the word ""Carla""? A:","['Carla', 'poured', 'lemonade', 'into', 'the', 'pitcher']",poured,poured lemonade into ther
+"Q: In the sentence ""I know a taller man than John"", which word immediately succeeds the word ""taller""? A:","['I', 'know', 'a', 'taller', 'man', 'than', 'John']",man,john is the tallest man i
+"Q: Which word comes right after ""traffic"" in the sentence ""Ellen warned Helen about the traffic jam""? A:","['Ellen', 'warned', 'Helen', 'about', 'the', 'traffic', 'jam']",jam,traffic jam? a:
+"Q: In the sentence ""Sandy removed her ballet shoes"", which word immediately succeeds the word ""ballet""? A:","['Sandy', 'removed', 'her', 'ballet', 'shoes']",shoes,ballet shoes?
+"Q: In the sentence ""Tom will not leave"", which word immediately succeeds the word ""not""? A:","['Tom', 'will', 'not', 'leave']",leave,"leave""? a:"
+"Q: In the sentence ""The heat melted the ice cream"", which word immediately succeeds the word ""heat""? A:","['The', 'heat', 'melted', 'the', 'ice', 'cream']",melted,melted the ice cream melt
+"Q: Which word comes right after ""the"" in the sentence ""Amanda carried the package to Pamela""? A:","['Amanda', 'carried', 'the', 'package', 'to', 'Pamela']",package,carried the package to pa
+"Q: In the sentence ""Students intended to surprise the teacher"", which word immediately succeeds the word ""the""? A:","['Students', 'intended', 'to', 'surprise', 'the', 'teacher']",teacher,surprised the teachededed
+"Q: In the sentence ""There is every book by Chomsky in this library"", which word comes right after the word ""is""? A:","['There', 'is', 'every', 'book', 'by', 'Chomsky', 'in', 'this', 'library']",every,book?
+"Q: In the sentence ""There is a bench for you to sit on"", which word comes right after the word ""a""? A:","['There', 'is', 'a', 'bench', 'for', 'you', 'to', 'sit', 'on']",bench,"bench for you to sit on""?"
+"Q: In the sentence ""He kicked the ball"", which word comes right after the word ""the""? A:","['He', 'kicked', 'the', 'ball']",ball,kicked the ball again? a:
+"Q: Which word comes right after ""the"" in the sentence ""He was arrested by the police""? A:","['He', 'was', 'arrested', 'by', 'the', 'police']",police,police?
+"Q: In the sentence ""Lou forgot the umbrella in the closet"", which word comes right after the word ""Lou""? A:","['Lou', 'forgot', 'the', 'umbrella', 'in', 'the', 'closet']",forgot,closet?
+"Q: Which word comes right after ""Sir"" in the sentence ""Sir Walter Elliott imagined that he was still handsome""? A:","['Sir', 'Walter', 'Elliott', 'imagined', 'that', 'he', 'was', 'still', 'handsome']",Walter,elliott imagined thademas
+"Q: In the sentence ""John was lots more obnoxious than Fred"", which word immediately succeeds the word ""was""? A:","['John', 'was', 'lots', 'more', 'obnoxious', 'than', 'Fred']",lots,lots more obnoxious? a:
+"Q: Which word comes right after ""which"" in the sentence ""John asks in which box he put the book""? A:","['John', 'asks', 'in', 'which', 'box', 'he', 'put', 'the', 'book']",box,box he put the book in th
+"Q: Which word comes right after ""equipped"" in the sentence ""Brown equipped Jones with a camera""? A:","['Brown', 'equipped', 'Jones', 'with', 'a', 'camera']",Jones,equipped jones with a cam
+"Q: In the sentence ""Mary has more enemies than Bill has friends"", which word immediately succeeds the word ""than""? A:","['Mary', 'has', 'more', 'enemies', 'than', 'Bill', 'has', 'friends']",Bill,bill has frienes tonesese
+"Q: In the sentence ""I think he will eat asparagus"", which word comes right after the word ""eat""? A:","['I', 'think', 'he', 'will', 'eat', 'asparagus']",asparagus,eat?
+"Q: Which word comes right after ""had"" in the sentence ""I had eaten the deep fried muffins""? A:","['I', 'had', 'eaten', 'the', 'deep', 'fried', 'muffins']",eaten,eaten the deep fried muff
+"Q: In the sentence ""I have some papers to grade"", which word comes right after the word ""some""? A:","['I', 'have', 'some', 'papers', 'to', 'grade']",papers,grades?
+"Q: Which word comes right after ""nicest"" in the sentence ""She was the nicest teacher in the Senior School""? A:","['She', 'was', 'the', 'nicest', 'teacher', 'in', 'the', 'Senior', 'School']",teacher,school was the nicesteste
+"Q: In the sentence ""Mary regretted that she did anything to help him"", which word immediately succeeds the word ""did""? A:","['Mary', 'regretted', 'that', 'she', 'did', 'anything', 'to', 'help', 'him']",anything,anythidididididididididid
+"Q: In the sentence ""Bill slowly recited his lines"", which word comes right after the word ""his""? A:","['Bill', 'slowly', 'recited', 'his', 'lines']",lines,lines?
+"Q: In the sentence ""It would be difficult to please John"", which word immediately succeeds the word ""It""? A:","['It', 'would', 'be', 'difficult', 'to', 'please', 'John']",would,please john?
+"Q: In the sentence ""The tub leaked water"", which word comes right after the word ""The""? A:","['The', 'tub', 'leaked', 'water']",tub,leaked water? a:
+"Q: In the sentence ""One of the people was dying of thirst"", which word comes right after the word ""the""? A:","['One', 'of', 'the', 'people', 'was', 'dying', 'of', 'thirst']",people,people was dying ofthizzz
+"Q: In the sentence ""The report that crime was declining surprised many people"", which word immediately succeeds the word ""surprised""? A:","['The', 'report', 'that', 'crime', 'was', 'declining', 'surprised', 'many', 'people']",many,surprisususususususususus
+"Q: In the sentence ""This sweater washes well"", which word immediately succeeds the word ""This""? A:","['This', 'sweater', 'washes', 'well']",sweater,sweater washes well? a:
+"Q: In the sentence ""Philippa cried herself to sleep"", which word comes right after the word ""Philippa""? A:","['Philippa', 'cried', 'herself', 'to', 'sleep']",cried,sleep?
+"Q: In the sentence ""John persuaded Stephen to be more careful"", which word immediately succeeds the word ""persuaded""? A:","['John', 'persuaded', 'Stephen', 'to', 'be', 'more', 'careful']",Stephen,persuadededededededededed
+"Q: In the sentence ""I hope to study in France"", which word comes right after the word ""I""? A:","['I', 'hope', 'to', 'study', 'in', 'France']",hope,france is a student of fr
+"Q: In the sentence ""I saw John on Sunday"", which word comes right after the word ""I""? A:","['I', 'saw', 'John', 'on', 'Sunday']",saw,saw john on sunday? a:
+"Q: Which word comes right after ""was"" in the sentence ""We all thought he was unhappy""? A:","['We', 'all', 'thought', 'he', 'was', 'unhappy']",unhappy,unhappy?
+"Q: In the sentence ""The strong winds cleared the skies"", which word immediately succeeds the word ""winds""? A:","['The', 'strong', 'winds', 'cleared', 'the', 'skies']",cleared,cleared the skies cleeeee
+"Q: In the sentence ""Jackie chased after the thief"", which word immediately succeeds the word ""Jackie""? A:","['Jackie', 'chased', 'after', 'the', 'thief']",chased,chased after the thiefala
+"Q: In the sentence ""John spoke intimately to Mary"", which word comes right after the word ""to""? A:","['John', 'spoke', 'intimately', 'to', 'Mary']",Mary,spoken like a mary? a:
+"Q: In the sentence ""Ellen told Helen a story"", which word comes right after the word ""Ellen""? A:","['Ellen', 'told', 'Helen', 'a', 'story']",told,"story""? a:"
+"Q: In the sentence ""He ought to leave his luggage here"", which word comes right after the word ""He""? A:","['He', 'ought', 'to', 'leave', 'his', 'luggage', 'here']",ought,luggage?
+"Q: In the sentence ""They believed that everybody would pass the test"", which word comes right after the word ""everybody""? A:","['They', 'believed', 'that', 'everybody', 'would', 'pass', 'the', 'test']",would,believes? aselevesesesese
+"Q: In the sentence ""The model resembles Kim in nearly every detail"", which word comes right after the word ""The""? A:","['The', 'model', 'resembles', 'Kim', 'in', 'nearly', 'every', 'detail']",model,every detail res nevery? 
+"Q: In the sentence ""The artist drew the child with a pencil"", which word comes right after the word ""artist""? A:","['The', 'artist', 'drew', 'the', 'child', 'with', 'a', 'pencil']",drew,artist drew the childrewi
+"Q: Which word comes right after ""Sharon"" in the sentence ""Sharon sprayed the plants with water""? A:","['Sharon', 'sprayed', 'the', 'plants', 'with', 'water']",sprayed,sharon sprayed the plants
+"Q: In the sentence ""Tom placed it under the table"", which word comes right after the word ""Tom""? A:","['Tom', 'placed', 'it', 'under', 'the', 'table']",placed,placed under the table? a
+"Q: Which word comes right after ""and"" in the sentence ""I walk and Dana runs""? A:","['I', 'walk', 'and', 'Dana', 'runs']",Dana,runs?
+"Q: In the sentence ""Almost no lawyer could answer that question"", which word immediately succeeds the word ""lawyer""? A:","['Almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",could,lawyer coulananananananan
+"Q: In the sentence ""Kris donated a book to the library"", which word immediately succeeds the word ""Kris""? A:","['Kris', 'donated', 'a', 'book', 'to', 'the', 'library']",donated,book to the library? a:
+"Q: In the sentence ""They saw Bill leave"", which word immediately succeeds the word ""Bill""? A:","['They', 'saw', 'Bill', 'leave']",leave,saw bill leave? a:
+"Q: In the sentence ""The gardener grew that acorn into an oak tree"", which word immediately succeeds the word ""gardener""? A:","['The', 'gardener', 'grew', 'that', 'acorn', 'into', 'an', 'oak', 'tree']",grew,gardener treeeedederdeeee
+"Q: In the sentence ""The lasagna tasted delicious"", which word immediately succeeds the word ""lasagna""? A:","['The', 'lasagna', 'tasted', 'delicious']",tasted,"tasted delicious""? a:"
+"Q: Which word comes right after ""Harriet"" in the sentence ""Harriet told Emma the whole story""? A:","['Harriet', 'told', 'Emma', 'the', 'whole', 'story']",told,harriet told emma the who
+"Q: In the sentence ""John put carrots from his garden in the salad"", which word comes right after the word ""his""? A:","['John', 'put', 'carrots', 'from', 'his', 'garden', 'in', 'the', 'salad']",garden,garden in thesalamawawawa
+"Q: In the sentence ""Stephen persuaded Ben to be careful"", which word comes right after the word ""be""? A:","['Stephen', 'persuaded', 'Ben', 'to', 'be', 'careful']",careful,persuaded ben to be caref
+"Q: In the sentence ""Jessica loaded boxes under the wagon"", which word immediately succeeds the word ""the""? A:","['Jessica', 'loaded', 'boxes', 'under', 'the', 'wagon']",wagon,wagon word immediatly sun
+"Q: Which word comes right after ""by"" in the sentence ""The book was seen by Mary""? A:","['The', 'book', 'was', 'seen', 'by', 'Mary']",Mary,book was seen by mary and
+"Q: In the sentence ""John promised Mary to cut the grass"", which word immediately succeeds the word ""to""? A:","['John', 'promised', 'Mary', 'to', 'cut', 'the', 'grass']",cut,cut the grass? a:
+"Q: Which word comes right after ""John"" in the sentence ""John talked to any politician who is powerful""? A:","['John', 'talked', 'to', 'any', 'politician', 'who', 'is', 'powerful']",talked,powerful?
+"Q: In the sentence ""Gerry became quite conservative"", which word comes right after the word ""Gerry""? A:","['Gerry', 'became', 'quite', 'conservative']",became,became quite conservative
+"Q: Which word comes right after ""a"" in the sentence ""There appeared a ship on the horizon""? A:","['There', 'appeared', 'a', 'ship', 'on', 'the', 'horizon']",ship,ship on horizon?
+"Q: Which word comes right after ""how"" in the sentence ""I forgot how good beer tastes""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",good,beer tastes good beer? a:
+"Q: In the sentence ""Mary or Sue could tell you that"", which word comes right after the word ""or""? A:","['Mary', 'or', 'Sue', 'could', 'tell', 'you', 'that']",Sue,could tell you that word 
+"Q: Which word comes right after ""The"" in the sentence ""The guests dined""? A:","['The', 'guests', 'dined']",guests,dined?
+"Q: Which word comes right after ""loved"" in the sentence ""It is certain that John has loved Mary""? A:","['It', 'is', 'certain', 'that', 'John', 'has', 'loved', 'Mary']",Mary,loved mary has loved mary
+"Q: In the sentence ""Bill slowly recited his lines"", which word immediately succeeds the word ""slowly""? A:","['Bill', 'slowly', 'recited', 'his', 'lines']",recited,lines?
+"Q: Which word comes right after ""We"" in the sentence ""We want John to win""? A:","['We', 'want', 'John', 'to', 'win']",want,window? a:
+"Q: In the sentence ""Stephen persuaded Ben to be careful"", which word immediately succeeds the word ""Stephen""? A:","['Stephen', 'persuaded', 'Ben', 'to', 'be', 'careful']",persuaded,persuaded ben to bededede
+"Q: In the sentence ""Wickham eloped with Lydia"", which word immediately succeeds the word ""Wickham""? A:","['Wickham', 'eloped', 'with', 'Lydia']",eloped,"eloped with lydia""? a:"
+"Q: In the sentence ""few clues could be found"", which word comes right after the word ""be""? A:","['few', 'clues', 'could', 'be', 'found']",found,clues?
+"Q: In the sentence ""The noise gave Terry a headache"", which word immediately succeeds the word ""a""? A:","['The', 'noise', 'gave', 'Terry', 'a', 'headache']",headache,headache?
+"Q: In the sentence ""John became rich"", which word comes right after the word ""John""? A:","['John', 'became', 'rich']",became,rich? a:
+"Q: In the sentence ""I have some papers to grade"", which word comes right after the word ""to""? A:","['I', 'have', 'some', 'papers', 'to', 'grade']",grade,papers to grade? a:
+"Q: In the sentence ""The bandits murdered innocent victims"", which word comes right after the word ""The""? A:","['The', 'bandits', 'murdered', 'innocent', 'victims']",bandits,bandits murdered innnocen
+"Q: In the sentence ""there is nothing to do"", which word immediately succeeds the word ""is""? A:","['there', 'is', 'nothing', 'to', 'do']",nothing,"nothing to do""? a:"
+"Q: In the sentence ""The Minister has arrived"", which word comes right after the word ""has""? A:","['The', 'Minister', 'has', 'arrived']",arrived,minister has arrived? a:
+"Q: In the sentence ""Jennifer craned her neck"", which word comes right after the word ""her""? A:","['Jennifer', 'craned', 'her', 'neck']",neck,craned her neck? a:
+"Q: In the sentence ""John is eager"", which word comes right after the word ""is""? A:","['John', 'is', 'eager']",eager,eager? a:
+"Q: In the sentence ""The press conjectured that Smith would be the appointee"", which word immediately succeeds the word ""press""? A:","['The', 'press', 'conjectured', 'that', 'Smith', 'would', 'be', 'the', 'appointee']",conjectured,smiturededewouredouredoro
+"Q: In the sentence ""The teacher became angry with the students"", which word immediately succeeds the word ""teacher""? A:","['The', 'teacher', 'became', 'angry', 'with', 'the', 'students']",became,became angry?
+"Q: In the sentence ""That was why she looked so nice"", which word comes right after the word ""she""? A:","['That', 'was', 'why', 'she', 'looked', 'so', 'nice']",looked,"looked so nice""? a:"
+"Q: In the sentence ""We offered her a job"", which word comes right after the word ""a""? A:","['We', 'offered', 'her', 'a', 'job']",job,job?
+"Q: In the sentence ""The witch vanished into the forest"", which word comes right after the word ""witch""? A:","['The', 'witch', 'vanished', 'into', 'the', 'forest']",vanished,vanished into the foresth
+"Q: Which word comes right after ""from"" in the sentence ""Carla shoveled the snow from near the bushes""? A:","['Carla', 'shoveled', 'the', 'snow', 'from', 'near', 'the', 'bushes']",near,snow from near the bushes
+"Q: In the sentence ""John is easy to please"", which word comes right after the word ""to""? A:","['John', 'is', 'easy', 'to', 'please']",please,"please please""? a:"
+"Q: Which word comes right after ""There"" in the sentence ""There appeared a ship on the horizon""? A:","['There', 'appeared', 'a', 'ship', 'on', 'the', 'horizon']",appeared,ship on horizon?
+"Q: Which word comes right after ""banged"" in the sentence ""The old and new carts banged together""? A:","['The', 'old', 'and', 'new', 'carts', 'banged', 'together']",together,"carts banged together""? a"
+"Q: In the sentence ""The report that crime was declining surprised many people"", which word comes right after the word ""that""? A:","['The', 'report', 'that', 'crime', 'was', 'declining', 'surprised', 'many', 'people']",crime,reporisususususususususus
+"Q: Which word comes right after ""ball"" in the sentence ""Fred threw the ball behind the tree""? A:","['Fred', 'threw', 'the', 'ball', 'behind', 'the', 'tree']",behind,ball behind the tree? a:
+"Q: Which word comes right after ""than"" in the sentence ""Mary has more than two friends""? A:","['Mary', 'has', 'more', 'than', 'two', 'friends']",two,more than two friends?
+"Q: Which word comes right after ""by"" in the sentence ""The table was wiped clean by John""? A:","['The', 'table', 'was', 'wiped', 'clean', 'by', 'John']",John,"wiped clean by john""? a:"
+"Q: Which word comes right after ""all"" in the sentence ""That professor is feared by all students""? A:","['That', 'professor', 'is', 'feared', 'by', 'all', 'students']",students,feared by all students?
+"Q: In the sentence ""Jackie chased the thief"", which word immediately succeeds the word ""the""? A:","['Jackie', 'chased', 'the', 'thief']",thief,thief?
+"Q: In the sentence ""Julie felt he was there"", which word immediately succeeds the word ""Julie""? A:","['Julie', 'felt', 'he', 'was', 'there']",felt,felt he was there? a:
+"Q: Which word comes right after ""his"" in the sentence ""I doubt his sincerity""? A:","['I', 'doubt', 'his', 'sincerity']",sincerity,sincerity?
+"Q: In the sentence ""Fiona persuaded Arthur to bake a cake"", which word comes right after the word ""persuaded""? A:","['Fiona', 'persuaded', 'Arthur', 'to', 'bake', 'a', 'cake']",Arthur,persuaded arthuratededede
+"Q: In the sentence ""This arch is supporting the weight of the tower"", which word immediately succeeds the word ""This""? A:","['This', 'arch', 'is', 'supporting', 'the', 'weight', 'of', 'the', 'tower']",arch,arch imediatotorcharcheis
+"Q: Which word comes right after ""several"" in the sentence ""I know several people that she kissed""? A:","['I', 'know', 'several', 'people', 'that', 'she', 'kissed']",people,kissed by several people?
+"Q: Which word comes right after ""will"" in the sentence ""I will speak to Hector about this""? A:","['I', 'will', 'speak', 'to', 'Hector', 'about', 'this']",speak,hector about this?
+"Q: Which word comes right after ""some"" in the sentence ""I have to try to finish grading some papers""? A:","['I', 'have', 'to', 'try', 'to', 'finish', 'grading', 'some', 'papers']",papers,grading some papers?
+"Q: Which word comes right after ""from"" in the sentence ""People from Tucson think very highly of themselves""? A:","['People', 'from', 'Tucson', 'think', 'very', 'highly', 'of', 'themselves']",Tucson,tucson think very higofro
+"Q: Which word comes right after ""the"" in the sentence ""Carla slid the book""? A:","['Carla', 'slid', 'the', 'book']",book,book?
+"Q: In the sentence ""The noise gave Terry a headache"", which word comes right after the word ""a""? A:","['The', 'noise', 'gave', 'Terry', 'a', 'headache']",headache,headache?
+"Q: Which word comes right after ""his"" in the sentence ""John put carrots from his garden in the salad""? A:","['John', 'put', 'carrots', 'from', 'his', 'garden', 'in', 'the', 'salad']",garden,garden in the salad?
+"Q: In the sentence ""I wonder what John bought"", which word comes right after the word ""what""? A:","['I', 'wonder', 'what', 'John', 'bought']",John,bought by john bought by 
+"Q: In the sentence ""I saw him leaving the main building"", which word immediately succeeds the word ""I""? A:","['I', 'saw', 'him', 'leaving', 'the', 'main', 'building']",saw,building?
+"Q: Which word comes right after ""the"" in the sentence ""John is touching the wall""? A:","['John', 'is', 'touching', 'the', 'wall']",wall,wall wall wall wall wall 
+"Q: Which word comes right after ""the"" in the sentence ""A fire raged all through the mountains""? A:","['A', 'fire', 'raged', 'all', 'through', 'the', 'mountains']",mountains,raged all through the mou
+"Q: In the sentence ""Reading about herself in the tabloids always annoys Sandra"", which word immediately succeeds the word ""tabloids""? A:","['Reading', 'about', 'herself', 'in', 'the', 'tabloids', 'always', 'annoys', 'Sandra']",always,alwalwaysaysanoysanoupano
+"Q: In the sentence ""I doubt you can help me in understanding this"", which word comes right after the word ""I""? A:","['I', 'doubt', 'you', 'can', 'help', 'me', 'in', 'understanding', 'this']",doubt,can help me inolafanathel
+"Q: In the sentence ""Oil spread over the sea shore"", which word comes right after the word ""Oil""? A:","['Oil', 'spread', 'over', 'the', 'sea', 'shore']",spread,spread over the sea shore
+"Q: Which word comes right after ""his"" in the sentence ""I never liked his analysis""? A:","['I', 'never', 'liked', 'his', 'analysis']",analysis,liked his analysis?
+"Q: In the sentence ""A serious accident happened yesterday"", which word comes right after the word ""accident""? A:","['A', 'serious', 'accident', 'happened', 'yesterday']",happened,accident?
+"Q: Which word comes right after ""Karen"" in the sentence ""Karen asked where to put the chairs""? A:","['Karen', 'asked', 'where', 'to', 'put', 'the', 'chairs']",asked,chairs?
+"Q: In the sentence ""Jessica sprayed paint under the table"", which word immediately succeeds the word ""sprayed""? A:","['Jessica', 'sprayed', 'paint', 'under', 'the', 'table']",paint,"sprayed paint undesdespa"""
+"Q: In the sentence ""Paula spanked the naughty child on the back"", which word comes right after the word ""Paula""? A:","['Paula', 'spanked', 'the', 'naughty', 'child', 'on', 'the', 'back']",spanked,spanked the naugahtye?
+"Q: In the sentence ""I saw only the student"", which word comes right after the word ""I""? A:","['I', 'saw', 'only', 'the', 'student']",saw,"student""? a:"
+"Q: Which word comes right after ""the"" in the sentence ""John fed rice to the baby""? A:","['John', 'fed', 'rice', 'to', 'the', 'baby']",baby,fed rice to the baby? a:
+"Q: In the sentence ""It annoys people that dogs bark"", which word comes right after the word ""annoys""? A:","['It', 'annoys', 'people', 'that', 'dogs', 'bark']",people,"dogs bark""? a:"
+"Q: In the sentence ""I saw people playing there on the beach"", which word immediately succeeds the word ""saw""? A:","['I', 'saw', 'people', 'playing', 'there', 'on', 'the', 'beach']",people,playing there on on on be
+"Q: Which word comes right after ""eat"" in the sentence ""I want him to eat asparagus""? A:","['I', 'want', 'him', 'to', 'eat', 'asparagus']",asparagus,eat asparagus? a:
+"Q: In the sentence ""John tried to be a good boy"", which word immediately succeeds the word ""a""? A:","['John', 'tried', 'to', 'be', 'a', 'good', 'boy']",good,boy tried to be a good bo
+"Q: Which word comes right after ""The"" in the sentence ""The Minister has arrived""? A:","['The', 'Minister', 'has', 'arrived']",Minister,minister has arrived?
+"Q: In the sentence ""You may pick almost any flower"", which word comes right after the word ""may""? A:","['You', 'may', 'pick', 'almost', 'any', 'flower']",pick,"flower""? a:"
+"Q: Which word comes right after ""my"" in the sentence ""That girl was given my binoculars by him""? A:","['That', 'girl', 'was', 'given', 'my', 'binoculars', 'by', 'him']",binoculars,girl was given my binocul
+"Q: In the sentence ""Frank gave a piano to Jane Fairfax"", which word comes right after the word ""to""? A:","['Frank', 'gave', 'a', 'piano', 'to', 'Jane', 'Fairfax']",Jane,fairfax? a:
+"Q: In the sentence ""The sexual revolution makes some people uncomfortable"", which word comes right after the word ""The""? A:","['The', 'sexual', 'revolution', 'makes', 'some', 'people', 'uncomfortable']",sexual,revolutionolualdalutiolut
+"Q: In the sentence ""Wickham eloped with Lydia"", which word immediately succeeds the word ""with""? A:","['Wickham', 'eloped', 'with', 'Lydia']",Lydia,eloped with lydia? a:
+"Q: In the sentence ""She held him by the arm"", which word comes right after the word ""She""? A:","['She', 'held', 'him', 'by', 'the', 'arm']",held,held him by the arm? a:
+"Q: Which word comes right after ""No"" in the sentence ""No reading of Shakespeare satisfied me""? A:","['No', 'reading', 'of', 'Shakespeare', 'satisfied', 'me']",reading,shakespeare satisfied me?
+"Q: In the sentence ""The explorers cut their way through the jungle"", which word comes right after the word ""explorers""? A:","['The', 'explorers', 'cut', 'their', 'way', 'through', 'the', 'jungle']",cut,"cut thers""? a:"
+"Q: In the sentence ""He turned off the light"", which word comes right after the word ""the""? A:","['He', 'turned', 'off', 'the', 'light']",light,light turned off the ligh
+"Q: In the sentence ""I sent the package halfway around the world"", which word immediately succeeds the word ""package""? A:","['I', 'sent', 'the', 'package', 'halfway', 'around', 'the', 'world']",halfway,halfway arouououououpacha
+"Q: In the sentence ""There is every book by Chomsky in this library"", which word immediately succeeds the word ""by""? A:","['There', 'is', 'every', 'book', 'by', 'Chomsky', 'in', 'this', 'library']",Chomsky,book?
+"Q: In the sentence ""The men would not enjoy that"", which word comes right after the word ""not""? A:","['The', 'men', 'would', 'not', 'enjoy', 'that']",enjoy,enjoy that word comes rig
+"Q: In the sentence ""Carrie touched the cat"", which word comes right after the word ""the""? A:","['Carrie', 'touched', 'the', 'cat']",cat,cat touched the cat touch
+"Q: In the sentence ""Martha carved the baby a toy out of wood"", which word immediately succeeds the word ""a""? A:","['Martha', 'carved', 'the', 'baby', 'a', 'toy', 'out', 'of', 'wood']",toy,carved toy out of woooood
+"Q: In the sentence ""A smith hammered the metal"", which word comes right after the word ""the""? A:","['A', 'smith', 'hammered', 'the', 'metal']",metal,metal hammered the metal 
+"Q: In the sentence ""The teacher made students happy"", which word comes right after the word ""teacher""? A:","['The', 'teacher', 'made', 'students', 'happy']",made,"made students happy""? a:"
+"Q: In the sentence ""I know the people that voted in the election"", which word immediately succeeds the word ""I""? A:","['I', 'know', 'the', 'people', 'that', 'voted', 'in', 'the', 'election']",know,elections wern imathelino
+"Q: Which word comes right after ""murdered"" in the sentence ""Brutus murdered Julius Caesar with a dagger""? A:","['Brutus', 'murdered', 'Julius', 'Caesar', 'with', 'a', 'dagger']",Julius,and which word comes rigi
+"Q: Which word comes right after ""scientist"" in the sentence ""The scientist made her a robot""? A:","['The', 'scientist', 'made', 'her', 'a', 'robot']",made,robot made her a robot at
+"Q: In the sentence ""That whole wheat flour bakes wonderful bread"", which word immediately succeeds the word ""flour""? A:","['That', 'whole', 'wheat', 'flour', 'bakes', 'wonderful', 'bread']",bakes,flour bakes? a:
+"Q: Which word comes right after ""main"" in the sentence ""I saw him leaving the main building""? A:","['I', 'saw', 'him', 'leaving', 'the', 'main', 'building']",building,building?
+"Q: Which word comes right after ""He"" in the sentence ""He washed her""? A:","['He', 'washed', 'her']",washed,"washed her hands""? a:"
+"Q: In the sentence ""Captain Oates died in order to save his comrades"", which word immediately succeeds the word ""his""? A:","['Captain', 'Oates', 'died', 'in', 'order', 'to', 'save', 'his', 'comrades']",comrades,oates diedin din din din 
+"Q: In the sentence ""Sue was given the book by Bill"", which word immediately succeeds the word ""the""? A:","['Sue', 'was', 'given', 'the', 'book', 'by', 'Bill']",book,"book by bill""? a:"
+"Q: Which word comes right after ""is"" in the sentence ""This arch is supporting the weight of the tower""? A:","['This', 'arch', 'is', 'supporting', 'the', 'weight', 'of', 'the', 'tower']",supporting,supporting the weight of 
+"Q: In the sentence ""It is obvious to everybody that Tasha likes Misha"", which word comes right after the word ""Tasha""? A:","['It', 'is', 'obvious', 'to', 'everybody', 'that', 'Tasha', 'likes', 'Misha']",likes,likes everybodyobla?
+"Q: Which word comes right after ""difficult"" in the sentence ""This week will be a difficult one for us""? A:","['This', 'week', 'will', 'be', 'a', 'difficult', 'one', 'for', 'us']",one,week will be a difficult 
+"Q: In the sentence ""I ordered John to drink his beer"", which word immediately succeeds the word ""ordered""? A:","['I', 'ordered', 'John', 'to', 'drink', 'his', 'beer']",John,beer word immediatly suca
+"Q: Which word comes right after ""the"" in the sentence ""A magazine appeared on the newsstands""? A:","['A', 'magazine', 'appeared', 'on', 'the', 'newsstands']",newsstands,magazine appeared on the 
+"Q: In the sentence ""Spot ate a cat treat"", which word immediately succeeds the word ""cat""? A:","['Spot', 'ate', 'a', 'cat', 'treat']",treat,cat treated the cat treat
+"Q: In the sentence ""Tom bathed Fido in the garage"", which word immediately succeeds the word ""the""? A:","['Tom', 'bathed', 'Fido', 'in', 'the', 'garage']",garage,garage? a:
+"Q: Which word comes right after ""a"" in the sentence ""Molly gave Calvin a kiss""? A:","['Molly', 'gave', 'Calvin', 'a', 'kiss']",kiss,kiss?
+"Q: In the sentence ""John believes Sally to be polite"", which word immediately succeeds the word ""John""? A:","['John', 'believes', 'Sally', 'to', 'be', 'polite']",believes,politely succeeds the to 
+"Q: In the sentence ""I am drinking lemonade and eating a brownie"", which word comes right after the word ""am""? A:","['I', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",drinking,eating a brownieadieade? 
+"Q: Which word comes right after ""Carrie"" in the sentence ""Carrie touched that cat""? A:","['Carrie', 'touched', 'that', 'cat']",touched,cat touched that cat touc
+"Q: In the sentence ""We offered a job to her"", which word comes right after the word ""We""? A:","['We', 'offered', 'a', 'job', 'to', 'her']",offered,job to her?
+"Q: In the sentence ""The Beatles all came to Merle Park"", which word immediately succeeds the word ""to""? A:","['The', 'Beatles', 'all', 'came', 'to', 'Merle', 'Park']",Merle,beatles all came to merle
+"Q: In the sentence ""Nora sent the book to London"", which word comes right after the word ""the""? A:","['Nora', 'sent', 'the', 'book', 'to', 'London']",book,"london""? a:"
+"Q: Which word comes right after ""was"" in the sentence ""The table was wiped clean by John""? A:","['The', 'table', 'was', 'wiped', 'clean', 'by', 'John']",wiped,wiped clean by john was w
+"Q: Which word comes right after ""a"" in the sentence ""There is a description of Aristotle in the book""? A:","['There', 'is', 'a', 'description', 'of', 'Aristotle', 'in', 'the', 'book']",description,description of aristotle 
+"Q: In the sentence ""Students intended to surprise the teacher"", which word comes right after the word ""Students""? A:","['Students', 'intended', 'to', 'surprise', 'the', 'teacher']",intended,students intendededededed
+"Q: In the sentence ""A smith hammered the metal"", which word immediately succeeds the word ""the""? A:","['A', 'smith', 'hammered', 'the', 'metal']",metal,metal hammered the metal 
+"Q: Which word comes right after ""the"" in the sentence ""I weighed the package""? A:","['I', 'weighed', 'the', 'package']",package,package?
+"Q: In the sentence ""John whispered that Mary left"", which word comes right after the word ""Mary""? A:","['John', 'whispered', 'that', 'Mary', 'left']",left,"left""? a:"
+"Q: In the sentence ""a stone blocked the road"", which word immediately succeeds the word ""stone""? A:","['a', 'stone', 'blocked', 'the', 'road']",blocked,blocked the road? a:
+"Q: In the sentence ""They saw Bill leave"", which word comes right after the word ""Bill""? A:","['They', 'saw', 'Bill', 'leave']",leave,saw bill leave? a:
+"Q: Which word comes right after ""the"" in the sentence ""Some people consider the dogs in my neighborhood dangerous""? A:","['Some', 'people', 'consider', 'the', 'dogs', 'in', 'my', 'neighborhood', 'dangerous']",dogs,dangerous?
+"Q: In the sentence ""I forgot how good beer tastes"", which word comes right after the word ""beer""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",tastes,"beer tastes good""? a:"
+"Q: In the sentence ""Almost no lawyer could answer that question"", which word comes right after the word ""could""? A:","['Almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",answer,lawyer couldn'tanswanswan
+"Q: In the sentence ""I admired his honesty"", which word comes right after the word ""I""? A:","['I', 'admired', 'his', 'honesty']",admired,admired his honesty? a:
+"Q: In the sentence ""Brutus murdered Julius Caesar"", which word comes right after the word ""Brutus""? A:","['Brutus', 'murdered', 'Julius', 'Caesar']",murdered,murdered julius caesar ar
+"Q: Which word comes right after ""the"" in the sentence ""Mary would solve the problem""? A:","['Mary', 'would', 'solve', 'the', 'problem']",problem,solve the problem?
+"Q: Which word comes right after ""taller"" in the sentence ""I know a taller man than John""? A:","['I', 'know', 'a', 'taller', 'man', 'than', 'John']",man,john knows a taller man t
+"Q: Which word comes right after ""Carrie"" in the sentence ""Carrie touched the cat""? A:","['Carrie', 'touched', 'the', 'cat']",touched,cat touched the cat touch
+"Q: In the sentence ""The report that crime was declining surprised many people"", which word comes right after the word ""declining""? A:","['The', 'report', 'that', 'crime', 'was', 'declining', 'surprised', 'many', 'people']",surprised,reporprprprisasasasasasus
+"Q: In the sentence ""John said Mary went to the store quickly"", which word comes right after the word ""store""? A:","['John', 'said', 'Mary', 'went', 'to', 'the', 'store', 'quickly']",quickly,stored quickly? a:
+"Q: In the sentence ""little information was provided"", which word immediately succeeds the word ""was""? A:","['little', 'information', 'was', 'provided']",provided,provided what?
+"Q: In the sentence ""Rosie got struck by lightning"", which word immediately succeeds the word ""Rosie""? A:","['Rosie', 'got', 'struck', 'by', 'lightning']",got,struck by lightning? a:
+"Q: In the sentence ""You may pick any flower"", which word comes right after the word ""You""? A:","['You', 'may', 'pick', 'any', 'flower']",may,"flower""? a:"
+"Q: In the sentence ""John received the parcel"", which word immediately succeeds the word ""the""? A:","['John', 'received', 'the', 'parcel']",parcel,parcel? and which word im
+"Q: Which word comes right after ""store"" in the sentence ""John said Mary went to the store quickly""? A:","['John', 'said', 'Mary', 'went', 'to', 'the', 'store', 'quickly']",quickly,mary went to the store qu
+"Q: In the sentence ""Susan wanted Jane to study German"", which word comes right after the word ""to""? A:","['Susan', 'wanted', 'Jane', 'to', 'study', 'German']",study,study german? a:
+"Q: In the sentence ""Mira condemned Terry for the accident"", which word comes right after the word ""Mira""? A:","['Mira', 'condemned', 'Terry', 'for', 'the', 'accident']",condemned,condemned terry for thadi
+"Q: Which word comes right after ""We"" in the sentence ""We offered a job to her""? A:","['We', 'offered', 'a', 'job', 'to', 'her']",offered,job to her?
+"Q: In the sentence ""People are looking through the window"", which word immediately succeeds the word ""the""? A:","['People', 'are', 'looking', 'through', 'the', 'window']",window,looking through thelooooo
+"Q: Which word comes right after ""The"" in the sentence ""The tub leaked water""? A:","['The', 'tub', 'leaked', 'water']",tub,leaked water?
+"Q: In the sentence ""I would prefer for John to leave"", which word comes right after the word ""I""? A:","['I', 'would', 'prefer', 'for', 'John', 'to', 'leave']",would,would prefer for john to 
+"Q: In the sentence ""My car was stolen"", which word comes right after the word ""was""? A:","['My', 'car', 'was', 'stolen']",stolen,stolen?
+"Q: In the sentence ""The farmer dumped apples into the cart"", which word comes right after the word ""dumped""? A:","['The', 'farmer', 'dumped', 'apples', 'into', 'the', 'cart']",apples,dumped apples into carthe
+"Q: In the sentence ""There appeared a ship on the horizon"", which word immediately succeeds the word ""There""? A:","['There', 'appeared', 'a', 'ship', 'on', 'the', 'horizon']",appeared,ship on horizon? a:
+"Q: In the sentence ""John whispered that Mary left"", which word comes right after the word ""that""? A:","['John', 'whispered', 'that', 'Mary', 'left']",Mary,"left""? a:"
+"Q: In the sentence ""There tended to be a lot of discussion"", which word comes right after the word ""of""? A:","['There', 'tended', 'to', 'be', 'a', 'lot', 'of', 'discussion']",discussion,"discussion""? a:"
+"Q: In the sentence ""An ancient treasure trove was found in this cave"", which word comes right after the word ""treasure""? A:","['An', 'ancient', 'treasure', 'trove', 'was', 'found', 'in', 'this', 'cave']",trove,treasure tres wa? wasures
+"Q: Which word comes right after ""every"" in the sentence ""The model resembles Kim in nearly every detail""? A:","['The', 'model', 'resembles', 'Kim', 'in', 'nearly', 'every', 'detail']",detail,resembles kim in neadetad
+"Q: Which word comes right after ""blamed"" in the sentence ""Mira blamed Terry for the accident""? A:","['Mira', 'blamed', 'Terry', 'for', 'the', 'accident']",Terry,blamed terry for the acci
+"Q: In the sentence ""This violin is difficult to play sonatas on"", which word comes right after the word ""to""? A:","['This', 'violin', 'is', 'difficult', 'to', 'play', 'sonatas', 'on']",play,"violin is difficult ton""?"
+"Q: In the sentence ""Leslie was in the flood zone"", which word immediately succeeds the word ""flood""? A:","['Leslie', 'was', 'in', 'the', 'flood', 'zone']",zone,zone?
+"Q: Which word comes right after ""was"" in the sentence ""John was lots more obnoxious than Fred""? A:","['John', 'was', 'lots', 'more', 'obnoxious', 'than', 'Fred']",lots,lots more obnoxious than 
+"Q: In the sentence ""the pencil with which he is writing broke"", which word immediately succeeds the word ""writing""? A:","['the', 'pencil', 'with', 'which', 'he', 'is', 'writing', 'broke']",broke,writing brokewrititis wit
+"Q: In the sentence ""He has not eaten yet today"", which word comes right after the word ""yet""? A:","['He', 'has', 'not', 'eaten', 'yet', 'today']",today,eaten yet?
+"Q: In the sentence ""Much of that theory is unfounded"", which word immediately succeeds the word ""that""? A:","['Much', 'of', 'that', 'theory', 'is', 'unfounded']",theory,"theory is unfounded by""? "
+"Q: Which word comes right after ""The"" in the sentence ""The old and new carts banged together""? A:","['The', 'old', 'and', 'new', 'carts', 'banged', 'together']",old,banged together?
+"Q: Which word comes right after ""wanted"" in the sentence ""Susan wanted Jane to study German""? A:","['Susan', 'wanted', 'Jane', 'to', 'study', 'German']",Jane,study german?
+"Q: Which word comes right after ""flood"" in the sentence ""Leslie was in the flood zone""? A:","['Leslie', 'was', 'in', 'the', 'flood', 'zone']",zone,flood zone zone zone zone
+"Q: In the sentence ""I gave Jack a picture of myself"", which word immediately succeeds the word ""gave""? A:","['I', 'gave', 'Jack', 'a', 'picture', 'of', 'myself']",Jack,picture of myself? a:
+"Q: In the sentence ""I weighed the package"", which word immediately succeeds the word ""the""? A:","['I', 'weighed', 'the', 'package']",package,package? a:
+"Q: In the sentence ""It may rain"", which word comes right after the word ""may""? A:","['It', 'may', 'rain']",rain,raindrops may raindrops m
+"Q: Which word comes right after ""is"" in the sentence ""John is eager""? A:","['John', 'is', 'eager']",eager,"eager to see ""john""? a:"
+"Q: In the sentence ""The garden flowered with roses"", which word comes right after the word ""The""? A:","['The', 'garden', 'flowered', 'with', 'roses']",garden,flowered with roses with 
+"Q: In the sentence ""Last year I saw this film several times"", which word immediately succeeds the word ""film""? A:","['Last', 'year', 'I', 'saw', 'this', 'film', 'several', 'times']",several,several times? a:
+"Q: In the sentence ""Kim sang and was accompanied by Sandy"", which word immediately succeeds the word ""was""? A:","['Kim', 'sang', 'and', 'was', 'accompanied', 'by', 'Sandy']",accompanied,"sandy sang and wasandy""? "
