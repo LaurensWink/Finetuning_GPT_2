@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: In the sentence ""John arranged for himself to get the prize"", which word immediately precedes the word ""the""? A:","['John', 'arranged', 'for', 'himself', 'to', 'get', 'the', 'prize']",get,himself
+"Q: In the sentence ""Sally believes that she is brilliant"", which word immediately precedes the word ""that""? A:","['Sally', 'believes', 'that', 'she', 'is', 'brilliant']",believes,believes
+"Q: In the sentence ""Sue knows the answer"", which word immediately precedes the word ""the""? A:","['Sue', 'knows', 'the', 'answer']",knows,knows
+"Q: In the sentence ""John is eager to find a new home"", which word comes right before the word ""is""? A:","['John', 'is', 'eager', 'to', 'find', 'a', 'new', 'home']",John,new
+"Q: Which word comes right before ""pleased"" in the sentence ""The news pleased the students""? A:","['The', 'news', 'pleased', 'the', 'students']",news,news
+"Q: In the sentence ""Over the fort fluttered a large flag"", which word immediately precedes the word ""a""? A:","['Over', 'the', 'fort', 'fluttered', 'a', 'large', 'flag']",fluttered,fort
+"Q: In the sentence ""I saw John on Sunday"", which word immediately precedes the word ""John""? A:","['I', 'saw', 'John', 'on', 'Sunday']",saw,on
+"Q: Which word comes right before ""of"" in the sentence ""A serious accident happened in front of them""? A:","['A', 'serious', 'accident', 'happened', 'in', 'front', 'of', 'them']",front,in
+"Q: In the sentence ""Brown equipped Jones with a camera"", which word comes right before the word ""with""? A:","['Brown', 'equipped', 'Jones', 'with', 'a', 'camera']",Jones,with
+"Q: Which word comes right before ""to"" in the sentence ""John fed rice to the baby""? A:","['John', 'fed', 'rice', 'to', 'the', 'baby']",rice,fed
+"Q: Which word comes right before ""people"" in the sentence ""It annoys people that dogs bark""? A:","['It', 'annoys', 'people', 'that', 'dogs', 'bark']",annoys,dogs
+"Q: In the sentence ""The old and new carts banged together"", which word comes right before the word ""carts""? A:","['The', 'old', 'and', 'new', 'carts', 'banged', 'together']",new,new
+"Q: In the sentence ""People from Tucson think very highly of themselves"", which word comes right before the word ""of""? A:","['People', 'from', 'Tucson', 'think', 'very', 'highly', 'of', 'themselves']",highly,think
+"Q: In the sentence ""He continued writing poems"", which word immediately precedes the word ""poems""? A:","['He', 'continued', 'writing', 'poems']",writing,writing
+"Q: Which word comes right before ""was"" in the sentence ""Calvin was eating""? A:","['Calvin', 'was', 'eating']",Calvin,was
+"Q: In the sentence ""John knows whether she will come back"", which word comes right before the word ""back""? A:","['John', 'knows', 'whether', 'she', 'will', 'come', 'back']",come,come
+"Q: In the sentence ""The bandits murdered innocent victims"", which word immediately precedes the word ""innocent""? A:","['The', 'bandits', 'murdered', 'innocent', 'victims']",murdered,bandits
+"Q: In the sentence ""Bill sent Tom a package"", which word comes right before the word ""Tom""? A:","['Bill', 'sent', 'Tom', 'a', 'package']",sent,package
+"Q: Which word comes right before ""lawyer"" in the sentence ""Almost every lawyer could answer that question""? A:","['Almost', 'every', 'lawyer', 'could', 'answer', 'that', 'question']",every,every
+"Q: Which word comes right before ""to"" in the sentence ""John promised Bill to leave""? A:","['John', 'promised', 'Bill', 'to', 'leave']",Bill,promised
+"Q: In the sentence ""Martha carved the baby a toy out of wood"", which word comes right before the word ""carved""? A:","['Martha', 'carved', 'the', 'baby', 'a', 'toy', 'out', 'of', 'wood']",Martha,carved
+"Q: In the sentence ""It is obvious to everybody that Tasha likes Misha"", which word comes right before the word ""to""? A:","['It', 'is', 'obvious', 'to', 'everybody', 'that', 'Tasha', 'likes', 'Misha']",obvious,that
+"Q: In the sentence ""The farmer loaded the cart with apples"", which word comes right before the word ""with""? A:","['The', 'farmer', 'loaded', 'the', 'cart', 'with', 'apples']",cart,loaded
+"Q: Which word comes right before ""this"" in the sentence ""A pilot must be flying this plane""? A:","['A', 'pilot', 'must', 'be', 'flying', 'this', 'plane']",flying,pilot
+"Q: In the sentence ""This violin is difficult to play sonatas on"", which word immediately precedes the word ""is""? A:","['This', 'violin', 'is', 'difficult', 'to', 'play', 'sonatas', 'on']",violin,to
+"Q: Which word comes right before ""by"" in the sentence ""Mary was visited by Bill""? A:","['Mary', 'was', 'visited', 'by', 'Bill']",visited,by
+"Q: Which word comes right before ""on"" in the sentence ""It is easy to play sonatas on this violin""? A:","['It', 'is', 'easy', 'to', 'play', 'sonatas', 'on', 'this', 'violin']",sonatas,play
+"Q: In the sentence ""Bill dried the clothes"", which word immediately precedes the word ""the""? A:","['Bill', 'dried', 'the', 'clothes']",dried,dried
+"Q: In the sentence ""Susan rode a bright blue train from New York"", which word comes right before the word ""blue""? A:","['Susan', 'rode', 'a', 'bright', 'blue', 'train', 'from', 'New', 'York']",bright,blue
+"Q: In the sentence ""Martina is deathly afraid of spiders"", which word immediately precedes the word ""is""? A:","['Martina', 'is', 'deathly', 'afraid', 'of', 'spiders']",Martina,afraid
+"Q: In the sentence ""Carla was shoveling the walk"", which word immediately precedes the word ""was""? A:","['Carla', 'was', 'shoveling', 'the', 'walk']",Carla,was
+"Q: In the sentence ""Mary is taller than six feet"", which word immediately precedes the word ""is""? A:","['Mary', 'is', 'taller', 'than', 'six', 'feet']",Mary,six
+"Q: In the sentence ""I saw John on Sunday"", which word comes right before the word ""on""? A:","['I', 'saw', 'John', 'on', 'Sunday']",John,on
+"Q: Which word comes right before ""secretary"" in the sentence ""The president declared Smith press secretary""? A:","['The', 'president', 'declared', 'Smith', 'press', 'secretary']",press,declared
+"Q: In the sentence ""Pat is the captain of the team"", which word comes right before the word ""is""? A:","['Pat', 'is', 'the', 'captain', 'of', 'the', 'team']",Pat,captain
+"Q: In the sentence ""The students felt comfortable in the class"", which word comes right before the word ""comfortable""? A:","['The', 'students', 'felt', 'comfortable', 'in', 'the', 'class']",felt,felt
+"Q: Which word comes right before ""vases"" in the sentence ""Crystal vases break easily""? A:","['Crystal', 'vases', 'break', 'easily']",Crystal,vases
+"Q: In the sentence ""I broke the twig and the branch apart"", which word comes right before the word ""apart""? A:","['I', 'broke', 'the', 'twig', 'and', 'the', 'branch', 'apart']",branch,the
+"Q: In the sentence ""A chair was broken"", which word comes right before the word ""was""? A:","['A', 'chair', 'was', 'broken']",chair,chair
+"Q: In the sentence ""A chair was broken"", which word immediately precedes the word ""was""? A:","['A', 'chair', 'was', 'broken']",chair,chair
+"Q: In the sentence ""I ate deep fried muffins"", which word comes right before the word ""fried""? A:","['I', 'ate', 'deep', 'fried', 'muffins']",deep,deep
+"Q: In the sentence ""There appears to be a problem with this solution"", which word comes right before the word ""to""? A:","['There', 'appears', 'to', 'be', 'a', 'problem', 'with', 'this', 'solution']",appears,this
+"Q: In the sentence ""Jack sprayed the wall with paint"", which word comes right before the word ""the""? A:","['Jack', 'sprayed', 'the', 'wall', 'with', 'paint']",sprayed,with
+"Q: In the sentence ""I want to go"", which word comes right before the word ""to""? A:","['I', 'want', 'to', 'go']",want,want
+"Q: In the sentence ""A large dog chased a small cat"", which word immediately precedes the word ""cat""? A:","['A', 'large', 'dog', 'chased', 'a', 'small', 'cat']",small,cat
+"Q: In the sentence ""John asks in which box he put the book"", which word immediately precedes the word ""in""? A:","['John', 'asks', 'in', 'which', 'box', 'he', 'put', 'the', 'book']",asks,book
+"Q: Which word comes right before ""to"" in the sentence ""She tried to leave""? A:","['She', 'tried', 'to', 'leave']",tried,tried
+"Q: In the sentence ""Much of that theory is unfounded"", which word comes right before the word ""is""? A:","['Much', 'of', 'that', 'theory', 'is', 'unfounded']",theory,is
+"Q: Which word comes right before ""lunch"" in the sentence ""The storm arrived while we ate lunch""? A:","['The', 'storm', 'arrived', 'while', 'we', 'ate', 'lunch']",ate,storm
+"Q: In the sentence ""Mary is more than six feet tall"", which word immediately precedes the word ""feet""? A:","['Mary', 'is', 'more', 'than', 'six', 'feet', 'tall']",six,more
+"Q: In the sentence ""John told us which book we should review"", which word immediately precedes the word ""us""? A:","['John', 'told', 'us', 'which', 'book', 'we', 'should', 'review']",told,book
+"Q: Which word comes right before ""talked"" in the sentence ""Ellen talked with Helen""? A:","['Ellen', 'talked', 'with', 'Helen']",Ellen,talked
+"Q: In the sentence ""Nora sent the book from Paris to London"", which word comes right before the word ""the""? A:","['Nora', 'sent', 'the', 'book', 'from', 'Paris', 'to', 'London']",sent,book
+"Q: Which word comes right before ""promised"" in the sentence ""John promised us to be gentle""? A:","['John', 'promised', 'us', 'to', 'be', 'gentle']",John,be
+"Q: In the sentence ""It is likely that Bill likes chocolate"", which word comes right before the word ""chocolate""? A:","['It', 'is', 'likely', 'that', 'Bill', 'likes', 'chocolate']",likes,chocolate
+"Q: Which word comes right before ""at"" in the sentence ""We ate at a really fancy restaurant""? A:","['We', 'ate', 'at', 'a', 'really', 'fancy', 'restaurant']",ate,really
+"Q: In the sentence ""That picture of Susan offended her"", which word immediately precedes the word ""her""? A:","['That', 'picture', 'of', 'Susan', 'offended', 'her']",offended,picture
+"Q: In the sentence ""Wickham eloped with Lydia"", which word comes right before the word ""with""? A:","['Wickham', 'eloped', 'with', 'Lydia']",eloped,eloped
+"Q: Which word comes right before ""Mary"" in the sentence ""John has not kissed Mary""? A:","['John', 'has', 'not', 'kissed', 'Mary']",kissed,not
+"Q: In the sentence ""It is nice to go abroad"", which word immediately precedes the word ""to""? A:","['It', 'is', 'nice', 'to', 'go', 'abroad']",nice,is
+"Q: In the sentence ""Gary and Kevin ran themselves into exhaustion"", which word comes right before the word ""ran""? A:","['Gary', 'and', 'Kevin', 'ran', 'themselves', 'into', 'exhaustion']",Kevin,ran
+"Q: In the sentence ""The witch vanished into the forest"", which word comes right before the word ""into""? A:","['The', 'witch', 'vanished', 'into', 'the', 'forest']",vanished,into
+"Q: In the sentence ""I am fond of circus performers"", which word comes right before the word ""performers""? A:","['I', 'am', 'fond', 'of', 'circus', 'performers']",circus,am
+"Q: In the sentence ""We made enough puddings to last for days"", which word comes right before the word ""puddings""? A:","['We', 'made', 'enough', 'puddings', 'to', 'last', 'for', 'days']",enough,made
+"Q: In the sentence ""Amanda carried the package from Boston to New York"", which word comes right before the word ""to""? A:","['Amanda', 'carried', 'the', 'package', 'from', 'Boston', 'to', 'New', 'York']",Boston,package
+"Q: In the sentence ""The secretary transcribed the speech into the record"", which word immediately precedes the word ""transcribed""? A:","['The', 'secretary', 'transcribed', 'the', 'speech', 'into', 'the', 'record']",secretary,speech
+"Q: In the sentence ""Ellen talked with Helen"", which word immediately precedes the word ""with""? A:","['Ellen', 'talked', 'with', 'Helen']",talked,talked
+"Q: In the sentence ""John tried to please Stephen"", which word immediately precedes the word ""to""? A:","['John', 'tried', 'to', 'please', 'Stephen']",tried,tried
+"Q: In the sentence ""Bill visited Mary"", which word immediately precedes the word ""visited""? A:","['Bill', 'visited', 'Mary']",Bill,visited
+"Q: In the sentence ""John is eager to please Kim"", which word comes right before the word ""Kim""? A:","['John', 'is', 'eager', 'to', 'please', 'Kim']",please,please
+"Q: In the sentence ""The tourists will go to the park"", which word immediately precedes the word ""will""? A:","['The', 'tourists', 'will', 'go', 'to', 'the', 'park']",tourists,will
+"Q: Which word comes right before ""flowered"" in the sentence ""The garden flowered with roses""? A:","['The', 'garden', 'flowered', 'with', 'roses']",garden,flowered
+"Q: Which word comes right before ""died"" in the sentence ""Captain Oates died in order to save his comrades""? A:","['Captain', 'Oates', 'died', 'in', 'order', 'to', 'save', 'his', 'comrades']",Oates,order
+"Q: In the sentence ""These books disappoint me"", which word immediately precedes the word ""disappoint""? A:","['These', 'books', 'disappoint', 'me']",books,books
+"Q: In the sentence ""the girls likes themselves"", which word comes right before the word ""themselves""? A:","['the', 'girls', 'likes', 'themselves']",likes,girls
+"Q: In the sentence ""Mike talked about politics yesterday to my friends"", which word comes right before the word ""yesterday""? A:","['Mike', 'talked', 'about', 'politics', 'yesterday', 'to', 'my', 'friends']",politics,talked
+"Q: Which word comes right before ""taught"" in the sentence ""Mary taught linguistics to John""? A:","['Mary', 'taught', 'linguistics', 'to', 'John']",Mary,linguistics
+"Q: Which word comes right before ""and"" in the sentence ""John and Mary met in Vienna""? A:","['John', 'and', 'Mary', 'met', 'in', 'Vienna']",John,in
+"Q: Which word comes right before ""the"" in the sentence ""Mary plays the violin beautifully""? A:","['Mary', 'plays', 'the', 'violin', 'beautifully']",plays,plays
+"Q: Which word comes right before ""leave"" in the sentence ""They saw Bill leave""? A:","['They', 'saw', 'Bill', 'leave']",Bill,leave
+"Q: In the sentence ""I am fond of circus performers"", which word immediately precedes the word ""performers""? A:","['I', 'am', 'fond', 'of', 'circus', 'performers']",circus,circus
+"Q: In the sentence ""Kerry remarked it was late"", which word immediately precedes the word ""remarked""? A:","['Kerry', 'remarked', 'it', 'was', 'late']",Kerry,late
+"Q: In the sentence ""Sincerity is an important quality"", which word comes right before the word ""is""? A:","['Sincerity', 'is', 'an', 'important', 'quality']",Sincerity,important
+"Q: In the sentence ""Mary solved the problem"", which word immediately precedes the word ""the""? A:","['Mary', 'solved', 'the', 'problem']",solved,solved
+"Q: Which word comes right before ""to"" in the sentence ""It is nice to go abroad""? A:","['It', 'is', 'nice', 'to', 'go', 'abroad']",nice,to
+"Q: In the sentence ""Crystal vases break easily"", which word comes right before the word ""vases""? A:","['Crystal', 'vases', 'break', 'easily']",Crystal,break
+"Q: Which word comes right before ""with"" in the sentence ""The car collided with the fence""? A:","['The', 'car', 'collided', 'with', 'the', 'fence']",collided,car
+"Q: In the sentence ""Smith inscribed his name over the door"", which word immediately precedes the word ""over""? A:","['Smith', 'inscribed', 'his', 'name', 'over', 'the', 'door']",name,over
+"Q: Which word comes right before ""my"" in the sentence ""The barber shaved my chin""? A:","['The', 'barber', 'shaved', 'my', 'chin']",shaved,shaved
+"Q: Which word comes right before ""Bill"" in the sentence ""John considers Bill to be silly""? A:","['John', 'considers', 'Bill', 'to', 'be', 'silly']",considers,considers
+"Q: In the sentence ""David constructed a house from bricks"", which word comes right before the word ""from""? A:","['David', 'constructed', 'a', 'house', 'from', 'bricks']",house,from
+"Q: In the sentence ""Penny skated around the rink"", which word immediately precedes the word ""the""? A:","['Penny', 'skated', 'around', 'the', 'rink']",around,skated
+"Q: Which word comes right before ""Dan"" in the sentence ""Shannon sent Dan an email""? A:","['Shannon', 'sent', 'Dan', 'an', 'email']",sent,an
+"Q: In the sentence ""Fanny loved talking to Mary"", which word immediately precedes the word ""talking""? A:","['Fanny', 'loved', 'talking', 'to', 'Mary']",loved,talking
+"Q: In the sentence ""I admired him for his courage"", which word immediately precedes the word ""him""? A:","['I', 'admired', 'him', 'for', 'his', 'courage']",admired,him
+"Q: In the sentence ""John told Mary to kiss him"", which word comes right before the word ""told""? A:","['John', 'told', 'Mary', 'to', 'kiss', 'him']",John,kiss
+"Q: Which word comes right before ""in"" in the sentence ""John put carrots from his garden in the salad""? A:","['John', 'put', 'carrots', 'from', 'his', 'garden', 'in', 'the', 'salad']",garden,put
+"Q: Which word comes right before ""is"" in the sentence ""Pat is the captain of the team""? A:","['Pat', 'is', 'the', 'captain', 'of', 'the', 'team']",Pat,captain
+"Q: In the sentence ""Mary sang for everyone who wanted to hear her"", which word comes right before the word ""her""? A:","['Mary', 'sang', 'for', 'everyone', 'who', 'wanted', 'to', 'hear', 'her']",hear,everyone
+"Q: In the sentence ""Joseph has forgotten how many matches he has won"", which word immediately precedes the word ""matches""? A:","['Joseph', 'has', 'forgotten', 'how', 'many', 'matches', 'he', 'has', 'won']",many,forgotten
+"Q: Which word comes right before ""whether"" in the sentence ""I wonder whether Mary will win""? A:","['I', 'wonder', 'whether', 'Mary', 'will', 'win']",wonder,whether
+"Q: In the sentence ""The tree dropped its fruit to the ground"", which word comes right before the word ""dropped""? A:","['The', 'tree', 'dropped', 'its', 'fruit', 'to', 'the', 'ground']",tree,tree
+"Q: In the sentence ""John persuaded Stephen to be more careful"", which word comes right before the word ""persuaded""? A:","['John', 'persuaded', 'Stephen', 'to', 'be', 'more', 'careful']",John,careful
+"Q: In the sentence ""John gave a book to the student"", which word immediately precedes the word ""gave""? A:","['John', 'gave', 'a', 'book', 'to', 'the', 'student']",John,book
+"Q: In the sentence ""Susan whispered at Rachel"", which word immediately precedes the word ""whispered""? A:","['Susan', 'whispered', 'at', 'Rachel']",Susan,whispered
+"Q: In the sentence ""Someone tried to leave the town"", which word comes right before the word ""to""? A:","['Someone', 'tried', 'to', 'leave', 'the', 'town']",tried,tried
+"Q: In the sentence ""John is very fond of Mary"", which word immediately precedes the word ""of""? A:","['John', 'is', 'very', 'fond', 'of', 'Mary']",fond,very
+"Q: In the sentence ""They hit the ball"", which word comes right before the word ""the""? A:","['They', 'hit', 'the', 'ball']",hit,ball
+"Q: In the sentence ""Tessa sprained her ankle"", which word comes right before the word ""her""? A:","['Tessa', 'sprained', 'her', 'ankle']",sprained,sprained
+"Q: In the sentence ""They ignored the suggestion that Lee made"", which word immediately precedes the word ""the""? A:","['They', 'ignored', 'the', 'suggestion', 'that', 'Lee', 'made']",ignored,made
+"Q: Which word comes right before ""promised"" in the sentence ""John promised Bill to leave""? A:","['John', 'promised', 'Bill', 'to', 'leave']",John,promised
+"Q: In the sentence ""The books slid across the table"", which word comes right before the word ""slid""? A:","['The', 'books', 'slid', 'across', 'the', 'table']",books,books
+"Q: Which word comes right before ""glows"" in the sentence ""The moon glows in the darkness""? A:","['The', 'moon', 'glows', 'in', 'the', 'darkness']",moon,moon
+"Q: Which word comes right before ""dropped"" in the sentence ""The tree dropped its fruit to the ground""? A:","['The', 'tree', 'dropped', 'its', 'fruit', 'to', 'the', 'ground']",tree,tree
+"Q: In the sentence ""John considers him a nice guy"", which word comes right before the word ""considers""? A:","['John', 'considers', 'him', 'a', 'nice', 'guy']",John,him
+"Q: Which word comes right before ""is"" in the sentence ""Maxwell is quite a doctor""? A:","['Maxwell', 'is', 'quite', 'a', 'doctor']",Maxwell,quite
+"Q: In the sentence ""John was seeing his children"", which word comes right before the word ""was""? A:","['John', 'was', 'seeing', 'his', 'children']",John,seeing
+"Q: In the sentence ""Almost every lawyer could answer that question"", which word comes right before the word ""that""? A:","['Almost', 'every', 'lawyer', 'could', 'answer', 'that', 'question']",answer,every
+"Q: In the sentence ""Mary plays the violin beautifully"", which word immediately precedes the word ""the""? A:","['Mary', 'plays', 'the', 'violin', 'beautifully']",plays,plays
+"Q: In the sentence ""Doug cleared the table"", which word immediately precedes the word ""the""? A:","['Doug', 'cleared', 'the', 'table']",cleared,table
+"Q: Which word comes right before ""it"" in the sentence ""I took it for granted that she was lying""? A:","['I', 'took', 'it', 'for', 'granted', 'that', 'she', 'was', 'lying']",took,for
+"Q: In the sentence ""Jennifer craned her neck"", which word immediately precedes the word ""craned""? A:","['Jennifer', 'craned', 'her', 'neck']",Jennifer,craned
+"Q: In the sentence ""Lou forgot the umbrella in the closet"", which word comes right before the word ""forgot""? A:","['Lou', 'forgot', 'the', 'umbrella', 'in', 'the', 'closet']",Lou,forgot
+"Q: In the sentence ""We persuaded Mary to leave and Sue to stay"", which word immediately precedes the word ""and""? A:","['We', 'persuaded', 'Mary', 'to', 'leave', 'and', 'Sue', 'to', 'stay']",leave,leave
+"Q: In the sentence ""They paid a lot of attention to the matter"", which word immediately precedes the word ""a""? A:","['They', 'paid', 'a', 'lot', 'of', 'attention', 'to', 'the', 'matter']",paid,the
+"Q: Which word comes right before ""her"" in the sentence ""Mary sang for everyone who wanted to hear her""? A:","['Mary', 'sang', 'for', 'everyone', 'who', 'wanted', 'to', 'hear', 'her']",hear,wanted
+"Q: In the sentence ""We made enough puddings to last for days"", which word immediately precedes the word ""enough""? A:","['We', 'made', 'enough', 'puddings', 'to', 'last', 'for', 'days']",made,last
+"Q: In the sentence ""I climbed up the tree"", which word comes right before the word ""up""? A:","['I', 'climbed', 'up', 'the', 'tree']",climbed,tree
+"Q: In the sentence ""Reading about herself in the tabloids always annoys Sandra"", which word comes right before the word ""Sandra""? A:","['Reading', 'about', 'herself', 'in', 'the', 'tabloids', 'always', 'annoys', 'Sandra']",annoys,about
+"Q: In the sentence ""I know a man who hates me"", which word comes right before the word ""me""? A:","['I', 'know', 'a', 'man', 'who', 'hates', 'me']",hates,who
+"Q: Which word comes right before ""saw"" in the sentence ""Mary saw the boy walking toward the railroad station""? A:","['Mary', 'saw', 'the', 'boy', 'walking', 'toward', 'the', 'railroad', 'station']",Mary,boy
+"Q: In the sentence ""We made enough puddings to last for days"", which word immediately precedes the word ""to""? A:","['We', 'made', 'enough', 'puddings', 'to', 'last', 'for', 'days']",puddings,to
+"Q: In the sentence ""Mary cuts the paper easily"", which word immediately precedes the word ""easily""? A:","['Mary', 'cuts', 'the', 'paper', 'easily']",paper,paper
+"Q: In the sentence ""It is certain that John has loved Mary"", which word immediately precedes the word ""has""? A:","['It', 'is', 'certain', 'that', 'John', 'has', 'loved', 'Mary']",John,loved
+"Q: In the sentence ""John was lots more obnoxious than Fred"", which word comes right before the word ""than""? A:","['John', 'was', 'lots', 'more', 'obnoxious', 'than', 'Fred']",obnoxious,lots
+"Q: In the sentence ""Some people consider the noisy dogs dangerous"", which word comes right before the word ""dogs""? A:","['Some', 'people', 'consider', 'the', 'noisy', 'dogs', 'dangerous']",noisy,people
+"Q: In the sentence ""I mixed the soap and the water"", which word comes right before the word ""and""? A:","['I', 'mixed', 'the', 'soap', 'and', 'the', 'water']",soap,water
+"Q: In the sentence ""Mary has never kissed a Man taller than John"", which word immediately precedes the word ""taller""? A:","['Mary', 'has', 'never', 'kissed', 'a', 'Man', 'taller', 'than', 'John']",Man,than
+"Q: In the sentence ""Many people were dying of thirst"", which word immediately precedes the word ""people""? A:","['Many', 'people', 'were', 'dying', 'of', 'thirst']",Many,were
+"Q: Which word comes right before ""book"" in the sentence ""There is every book by Chomsky in this library""? A:","['There', 'is', 'every', 'book', 'by', 'Chomsky', 'in', 'this', 'library']",every,book
+"Q: Which word comes right before ""caught"" in the sentence ""The dog caught the cat""? A:","['The', 'dog', 'caught', 'the', 'cat']",dog,cat
+"Q: In the sentence ""The jury seemed ready to leave"", which word immediately precedes the word ""ready""? A:","['The', 'jury', 'seemed', 'ready', 'to', 'leave']",seemed,ready
+"Q: Which word comes right before ""gold"" in the sentence ""I gave John gold apples""? A:","['I', 'gave', 'John', 'gold', 'apples']",John,gold
+"Q: Which word comes right before ""up"" in the sentence ""Mickey looked up the reference""? A:","['Mickey', 'looked', 'up', 'the', 'reference']",looked,looked
+"Q: Which word comes right before ""in"" in the sentence ""The students felt comfortable in the class""? A:","['The', 'students', 'felt', 'comfortable', 'in', 'the', 'class']",comfortable,class
+"Q: In the sentence ""That professor is feared by all students"", which word comes right before the word ""is""? A:","['That', 'professor', 'is', 'feared', 'by', 'all', 'students']",professor,is
+"Q: Which word comes right before ""an"" in the sentence ""Shannon sent Dan an email""? A:","['Shannon', 'sent', 'Dan', 'an', 'email']",Dan,an
+"Q: Which word comes right before ""did"" in the sentence ""A boy did not laugh""? A:","['A', 'boy', 'did', 'not', 'laugh']",boy,boy
+"Q: Which word comes right before ""has"" in the sentence ""Tokyo has not loosened trade restrictions""? A:","['Tokyo', 'has', 'not', 'loosened', 'trade', 'restrictions']",Tokyo,not
+"Q: In the sentence ""Ellen talked with Helen"", which word comes right before the word ""with""? A:","['Ellen', 'talked', 'with', 'Helen']",talked,talked
+"Q: In the sentence ""These dogs barked"", which word immediately precedes the word ""barked""? A:","['These', 'dogs', 'barked']",dogs,dogs
+"Q: Which word comes right before ""to"" in the sentence ""It would be difficult to please John""? A:","['It', 'would', 'be', 'difficult', 'to', 'please', 'John']",difficult,would
+"Q: In the sentence ""The concert started when the bell rang"", which word comes right before the word ""when""? A:","['The', 'concert', 'started', 'when', 'the', 'bell', 'rang']",started,rang
+"Q: Which word comes right before ""and"" in the sentence ""We recommend to eat less cake and pastry""? A:","['We', 'recommend', 'to', 'eat', 'less', 'cake', 'and', 'pastry']",cake,cake
+"Q: In the sentence ""John became a success"", which word comes right before the word ""a""? A:","['John', 'became', 'a', 'success']",became,became
+"Q: In the sentence ""The tigers hunt prey at night"", which word immediately precedes the word ""prey""? A:","['The', 'tigers', 'hunt', 'prey', 'at', 'night']",hunt,tigers
+"Q: In the sentence ""Carmen obtained the spare part at the hardware store"", which word comes right before the word ""part""? A:","['Carmen', 'obtained', 'the', 'spare', 'part', 'at', 'the', 'hardware', 'store']",spare,part
+"Q: Which word comes right before ""in"" in the sentence ""We placed the cheese in the refrigerator""? A:","['We', 'placed', 'the', 'cheese', 'in', 'the', 'refrigerator']",cheese,cheese
+"Q: In the sentence ""The judge offered a prize to the winner"", which word immediately precedes the word ""offered""? A:","['The', 'judge', 'offered', 'a', 'prize', 'to', 'the', 'winner']",judge,judge
+"Q: Which word comes right before ""is"" in the sentence ""Jean is likely to dance""? A:","['Jean', 'is', 'likely', 'to', 'dance']",Jean,is
+"Q: In the sentence ""The mushrooms were sliced by the cook"", which word immediately precedes the word ""by""? A:","['The', 'mushrooms', 'were', 'sliced', 'by', 'the', 'cook']",sliced,the
+"Q: In the sentence ""Carla mopped the floor under the furniture"", which word immediately precedes the word ""under""? A:","['Carla', 'mopped', 'the', 'floor', 'under', 'the', 'furniture']",floor,mopped
+"Q: In the sentence ""Almost any lawyer could answer that question"", which word comes right before the word ""any""? A:","['Almost', 'any', 'lawyer', 'could', 'answer', 'that', 'question']",Almost,any
+"Q: In the sentence ""Susan rode a bright blue train from New York"", which word comes right before the word ""from""? A:","['Susan', 'rode', 'a', 'bright', 'blue', 'train', 'from', 'New', 'York']",train,blue
+"Q: In the sentence ""It is obvious that Pat is lying"", which word immediately precedes the word ""that""? A:","['It', 'is', 'obvious', 'that', 'Pat', 'is', 'lying']",obvious,lying
+"Q: In the sentence ""He planted the garden last November with roses"", which word immediately precedes the word ""the""? A:","['He', 'planted', 'the', 'garden', 'last', 'November', 'with', 'roses']",planted,last
+"Q: In the sentence ""They paid a lot of attention to the matter"", which word comes right before the word ""of""? A:","['They', 'paid', 'a', 'lot', 'of', 'attention', 'to', 'the', 'matter']",lot,a
+"Q: Which word comes right before ""to"" in the sentence ""I wrote to Bill""? A:","['I', 'wrote', 'to', 'Bill']",wrote,wrote
+"Q: Which word comes right before ""hit"" in the sentence ""A boy hit the ball""? A:","['A', 'boy', 'hit', 'the', 'ball']",boy,boy
+"Q: In the sentence ""Some people consider the noisy dogs dangerous"", which word comes right before the word ""consider""? A:","['Some', 'people', 'consider', 'the', 'noisy', 'dogs', 'dangerous']",people,people
+"Q: Which word comes right before ""no"" in the sentence ""Almost no lawyer could answer that question""? A:","['Almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",Almost,could
+"Q: Which word comes right before ""her"" in the sentence ""Mary scratched her arm too""? A:","['Mary', 'scratched', 'her', 'arm', 'too']",scratched,arm
+"Q: In the sentence ""I want him to eat asparagus"", which word immediately precedes the word ""him""? A:","['I', 'want', 'him', 'to', 'eat', 'asparagus']",want,want
+"Q: In the sentence ""I know the person whose mother died"", which word comes right before the word ""the""? A:","['I', 'know', 'the', 'person', 'whose', 'mother', 'died']",know,whose
+"Q: Which word comes right before ""that"" in the sentence ""It is obvious that Pat is lying""? A:","['It', 'is', 'obvious', 'that', 'Pat', 'is', 'lying']",obvious,lying
+"Q: In the sentence ""The river runs from the lake to the sea"", which word immediately precedes the word ""to""? A:","['The', 'river', 'runs', 'from', 'the', 'lake', 'to', 'the', 'sea']",lake,from
+"Q: Which word comes right before ""was"" in the sentence ""The earth was believed to be round""? A:","['The', 'earth', 'was', 'believed', 'to', 'be', 'round']",earth,round
+"Q: In the sentence ""John promised Mary that he would leave"", which word immediately precedes the word ""that""? A:","['John', 'promised', 'Mary', 'that', 'he', 'would', 'leave']",Mary,he
+"Q: In the sentence ""The student enjoyed his English syntax class last semester"", which word comes right before the word ""syntax""? A:","['The', 'student', 'enjoyed', 'his', 'English', 'syntax', 'class', 'last', 'semester']",English,semester
+"Q: In the sentence ""I saw John on Sunday"", which word immediately precedes the word ""on""? A:","['I', 'saw', 'John', 'on', 'Sunday']",John,on
+"Q: In the sentence ""Bill ate more peaches than Harry did grapes"", which word comes right before the word ""ate""? A:","['Bill', 'ate', 'more', 'peaches', 'than', 'Harry', 'did', 'grapes']",Bill,more
+"Q: Which word comes right before ""bark"" in the sentence ""It annoys people that dogs bark""? A:","['It', 'annoys', 'people', 'that', 'dogs', 'bark']",dogs,people
+"Q: In the sentence ""I know a taller man than John"", which word immediately precedes the word ""a""? A:","['I', 'know', 'a', 'taller', 'man', 'than', 'John']",know,a
+"Q: Which word comes right before ""to"" in the sentence ""Someone tried to leave the town""? A:","['Someone', 'tried', 'to', 'leave', 'the', 'town']",tried,tried
+"Q: In the sentence ""Mary cuts the paper easily"", which word comes right before the word ""cuts""? A:","['Mary', 'cuts', 'the', 'paper', 'easily']",Mary,paper
+"Q: In the sentence ""Nora sent the book from Paris to London"", which word comes right before the word ""to""? A:","['Nora', 'sent', 'the', 'book', 'from', 'Paris', 'to', 'London']",Paris,book
+"Q: In the sentence ""Alison poked the needle through the cloth"", which word comes right before the word ""through""? A:","['Alison', 'poked', 'the', 'needle', 'through', 'the', 'cloth']",needle,through
+"Q: Which word comes right before ""gave"" in the sentence ""Bill gave Sue the book""? A:","['Bill', 'gave', 'Sue', 'the', 'book']",Bill,book
+"Q: In the sentence ""John seems to sleep all day"", which word immediately precedes the word ""all""? A:","['John', 'seems', 'to', 'sleep', 'all', 'day']",sleep,sleep
+"Q: In the sentence ""Mary has never kissed a Man taller than John"", which word immediately precedes the word ""kissed""? A:","['Mary', 'has', 'never', 'kissed', 'a', 'Man', 'taller', 'than', 'John']",never,never
+"Q: In the sentence ""Clean your desk before tomorrow"", which word comes right before the word ""your""? A:","['Clean', 'your', 'desk', 'before', 'tomorrow']",Clean,before
+"Q: In the sentence ""John fed rice to the baby"", which word immediately precedes the word ""fed""? A:","['John', 'fed', 'rice', 'to', 'the', 'baby']",John,fed
+"Q: In the sentence ""Brutus murdered Julius Caesar with a dagger"", which word immediately precedes the word ""Caesar""? A:","['Brutus', 'murdered', 'Julius', 'Caesar', 'with', 'a', 'dagger']",Julius,murdered
+"Q: In the sentence ""Mary would solve the problem"", which word comes right before the word ""would""? A:","['Mary', 'would', 'solve', 'the', 'problem']",Mary,would
+"Q: In the sentence ""It seems to be easy to fool Ben"", which word immediately precedes the word ""Ben""? A:","['It', 'seems', 'to', 'be', 'easy', 'to', 'fool', 'Ben']",fool,easy
+"Q: Which word comes right before ""and"" in the sentence ""I ate some popcorn and drank some soda""? A:","['I', 'ate', 'some', 'popcorn', 'and', 'drank', 'some', 'soda']",popcorn,popcorn
+"Q: In the sentence ""Mary scratched her arm too"", which word comes right before the word ""too""? A:","['Mary', 'scratched', 'her', 'arm', 'too']",arm,arm
+"Q: Which word comes right before ""the"" in the sentence ""I dislike the person with whom we were talking""? A:","['I', 'dislike', 'the', 'person', 'with', 'whom', 'we', 'were', 'talking']",dislike,talking
+"Q: In the sentence ""You may pick any flower"", which word comes right before the word ""any""? A:","['You', 'may', 'pick', 'any', 'flower']",pick,flower
+"Q: In the sentence ""Susan devoted herself to linguistics"", which word comes right before the word ""herself""? A:","['Susan', 'devoted', 'herself', 'to', 'linguistics']",devoted,herself
+"Q: In the sentence ""I have never seen this movie"", which word immediately precedes the word ""this""? A:","['I', 'have', 'never', 'seen', 'this', 'movie']",seen,never
+"Q: In the sentence ""Elizabeth regretted that she had met Wickham"", which word immediately precedes the word ""that""? A:","['Elizabeth', 'regretted', 'that', 'she', 'had', 'met', 'Wickham']",regretted,that
+"Q: In the sentence ""The river runs from the lake to the sea"", which word comes right before the word ""to""? A:","['The', 'river', 'runs', 'from', 'the', 'lake', 'to', 'the', 'sea']",lake,the
+"Q: Which word comes right before ""bit"" in the sentence ""The dog bit the cat""? A:","['The', 'dog', 'bit', 'the', 'cat']",dog,dog
+"Q: In the sentence ""John included his name in the list"", which word immediately precedes the word ""included""? A:","['John', 'included', 'his', 'name', 'in', 'the', 'list']",John,included
+"Q: In the sentence ""Drowning cats is against the law"", which word immediately precedes the word ""cats""? A:","['Drowning', 'cats', 'is', 'against', 'the', 'law']",Drowning,cats
+"Q: Which word comes right before ""by"" in the sentence ""Jason expected Medea to be treated by the doctor""? A:","['Jason', 'expected', 'Medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",treated,doctor
+"Q: Which word comes right before ""skated"" in the sentence ""Penny skated around the rink""? A:","['Penny', 'skated', 'around', 'the', 'rink']",Penny,skated
+"Q: In the sentence ""The storm arrived while we ate lunch"", which word comes right before the word ""lunch""? A:","['The', 'storm', 'arrived', 'while', 'we', 'ate', 'lunch']",ate,storm
+"Q: Which word comes right before ""posed"" in the sentence ""Dina posed as a lawyer""? A:","['Dina', 'posed', 'as', 'a', 'lawyer']",Dina,lawyer
+"Q: Which word comes right before ""her"" in the sentence ""Tessa sprained her ankle""? A:","['Tessa', 'sprained', 'her', 'ankle']",sprained,sprained
+"Q: In the sentence ""I like Mary and she likes me"", which word immediately precedes the word ""and""? A:","['I', 'like', 'Mary', 'and', 'she', 'likes', 'me']",Mary,like
+"Q: In the sentence ""The child became a man"", which word immediately precedes the word ""a""? A:","['The', 'child', 'became', 'a', 'man']",became,child
+"Q: Which word comes right before ""not"" in the sentence ""He could not have been working""? A:","['He', 'could', 'not', 'have', 'been', 'working']",could,could
+"Q: In the sentence ""It is certain that John has loved Mary"", which word comes right before the word ""has""? A:","['It', 'is', 'certain', 'that', 'John', 'has', 'loved', 'Mary']",John,has
+"Q: In the sentence ""John tried to please Stephen"", which word comes right before the word ""tried""? A:","['John', 'tried', 'to', 'please', 'Stephen']",John,tried
+"Q: In the sentence ""The boy in the doorway waved to his father"", which word comes right before the word ""waved""? A:","['The', 'boy', 'in', 'the', 'doorway', 'waved', 'to', 'his', 'father']",doorway,boy
+"Q: In the sentence ""Shannon sent Dan an email"", which word comes right before the word ""Dan""? A:","['Shannon', 'sent', 'Dan', 'an', 'email']",sent,an
+"Q: In the sentence ""The evidence assembled by the prosecution convinced the jury"", which word immediately precedes the word ""convinced""? A:","['The', 'evidence', 'assembled', 'by', 'the', 'prosecution', 'convinced', 'the', 'jury']",prosecution,convinced
+"Q: Which word comes right before ""donated"" in the sentence ""Kris donated a book to the library""? A:","['Kris', 'donated', 'a', 'book', 'to', 'the', 'library']",Kris,donated
+"Q: In the sentence ""David constructed a house from bricks"", which word immediately precedes the word ""from""? A:","['David', 'constructed', 'a', 'house', 'from', 'bricks']",house,house
+"Q: In the sentence ""The storm arrived while we ate lunch"", which word immediately precedes the word ""lunch""? A:","['The', 'storm', 'arrived', 'while', 'we', 'ate', 'lunch']",ate,storm
+"Q: In the sentence ""I think she is pregnant"", which word comes right before the word ""she""? A:","['I', 'think', 'she', 'is', 'pregnant']",think,think
+"Q: Which word comes right before ""enough"" in the sentence ""We made enough puddings to last for days""? A:","['We', 'made', 'enough', 'puddings', 'to', 'last', 'for', 'days']",made,made
+"Q: In the sentence ""I know the person whose mother died"", which word immediately precedes the word ""mother""? A:","['I', 'know', 'the', 'person', 'whose', 'mother', 'died']",whose,whose
+"Q: In the sentence ""Louis begged Kate to leave"", which word comes right before the word ""begged""? A:","['Louis', 'begged', 'Kate', 'to', 'leave']",Louis,leave
+"Q: In the sentence ""I hit the ball"", which word comes right before the word ""the""? A:","['I', 'hit', 'the', 'ball']",hit,ball
+"Q: Which word comes right before ""on"" in the sentence ""Sonatas are easy to play on this violin""? A:","['Sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",play,on
+"Q: In the sentence ""I saw these dancers and those musicians smoking something"", which word immediately precedes the word ""something""? A:","['I', 'saw', 'these', 'dancers', 'and', 'those', 'musicians', 'smoking', 'something']",smoking,musicians
+"Q: In the sentence ""Kim likes dogs"", which word comes right before the word ""likes""? A:","['Kim', 'likes', 'dogs']",Kim,likes
+"Q: In the sentence ""John has been driving the car"", which word immediately precedes the word ""the""? A:","['John', 'has', 'been', 'driving', 'the', 'car']",driving,driving
+"Q: In the sentence ""Bill drank from the hose"", which word immediately precedes the word ""from""? A:","['Bill', 'drank', 'from', 'the', 'hose']",drank,from
+"Q: Which word comes right before ""it"" in the sentence ""He figured it out""? A:","['He', 'figured', 'it', 'out']",figured,out
+"Q: In the sentence ""It annoys people that dogs bark"", which word comes right before the word ""people""? A:","['It', 'annoys', 'people', 'that', 'dogs', 'bark']",annoys,people
+"Q: In the sentence ""The old and new carts banged together"", which word comes right before the word ""and""? A:","['The', 'old', 'and', 'new', 'carts', 'banged', 'together']",old,banged
+"Q: In the sentence ""Martha carved the baby a toy out of wood"", which word immediately precedes the word ""carved""? A:","['Martha', 'carved', 'the', 'baby', 'a', 'toy', 'out', 'of', 'wood']",Martha,carved
+"Q: In the sentence ""A smith hammered the metal"", which word comes right before the word ""hammered""? A:","['A', 'smith', 'hammered', 'the', 'metal']",smith,smith
+"Q: In the sentence ""John tried to please Stephen"", which word immediately precedes the word ""Stephen""? A:","['John', 'tried', 'to', 'please', 'Stephen']",please,tried
+"Q: Which word comes right before ""a"" in the sentence ""I presented a solution yesterday""? A:","['I', 'presented', 'a', 'solution', 'yesterday']",presented,yesterday
+"Q: In the sentence ""I have never seen this movie"", which word comes right before the word ""seen""? A:","['I', 'have', 'never', 'seen', 'this', 'movie']",never,never
+"Q: Which word comes right before ""Tom"" in the sentence ""Bill sent Tom a package""? A:","['Bill', 'sent', 'Tom', 'a', 'package']",sent,sent
+"Q: In the sentence ""Sue knows the answer"", which word comes right before the word ""the""? A:","['Sue', 'knows', 'the', 'answer']",knows,answer
+"Q: Which word comes right before ""Mary"" in the sentence ""Bill visited Mary""? A:","['Bill', 'visited', 'Mary']",visited,visited
+"Q: In the sentence ""I gave John gold apples"", which word immediately precedes the word ""John""? A:","['I', 'gave', 'John', 'gold', 'apples']",gave,apples
+"Q: In the sentence ""John hit the ball with a bat"", which word comes right before the word ""the""? A:","['John', 'hit', 'the', 'ball', 'with', 'a', 'bat']",hit,ball
+"Q: In the sentence ""Almost no lawyer could answer that question"", which word comes right before the word ""that""? A:","['Almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",answer,could
+"Q: In the sentence ""Mary sang for everyone who wanted to hear her"", which word immediately precedes the word ""her""? A:","['Mary', 'sang', 'for', 'everyone', 'who', 'wanted', 'to', 'hear', 'her']",hear,wanted
+"Q: In the sentence ""Everyone hoped that she would sing"", which word comes right before the word ""hoped""? A:","['Everyone', 'hoped', 'that', 'she', 'would', 'sing']",Everyone,sing
+"Q: In the sentence ""John considers Bill to be silly"", which word comes right before the word ""Bill""? A:","['John', 'considers', 'Bill', 'to', 'be', 'silly']",considers,to
+"Q: Which word comes right before ""is"" in the sentence ""Dana is longing for a sunny day""? A:","['Dana', 'is', 'longing', 'for', 'a', 'sunny', 'day']",Dana,longing
+"Q: In the sentence ""Mary was respected by John"", which word immediately precedes the word ""was""? A:","['Mary', 'was', 'respected', 'by', 'John']",Mary,was
+"Q: In the sentence ""The boy swims"", which word immediately precedes the word ""swims""? A:","['The', 'boy', 'swims']",boy,boy
+"Q: In the sentence ""I wonder whether Mary will win"", which word comes right before the word ""whether""? A:","['I', 'wonder', 'whether', 'Mary', 'will', 'win']",wonder,whether
+"Q: In the sentence ""John promised Bill to leave"", which word immediately precedes the word ""Bill""? A:","['John', 'promised', 'Bill', 'to', 'leave']",promised,leave
+"Q: Which word comes right before ""remove"" in the sentence ""No one could remove the blood on the wall""? A:","['No', 'one', 'could', 'remove', 'the', 'blood', 'on', 'the', 'wall']",could,could
+"Q: Which word comes right before ""available"" in the sentence ""There is a seat available""? A:","['There', 'is', 'a', 'seat', 'available']",seat,a
+"Q: In the sentence ""Almost any lawyer could answer that question"", which word immediately precedes the word ""that""? A:","['Almost', 'any', 'lawyer', 'could', 'answer', 'that', 'question']",answer,question
+"Q: Which word comes right before ""herself"" in the sentence ""Philippa cried herself to sleep""? A:","['Philippa', 'cried', 'herself', 'to', 'sleep']",cried,cried
+"Q: Which word comes right before ""cleared"" in the sentence ""Clouds cleared from the sky""? A:","['Clouds', 'cleared', 'from', 'the', 'sky']",Clouds,cleared
+"Q: Which word comes right before ""cut"" in the sentence ""Margaret cut the string""? A:","['Margaret', 'cut', 'the', 'string']",Margaret,cut
+"Q: In the sentence ""The gardener grew an oak tree from that acorn"", which word immediately precedes the word ""grew""? A:","['The', 'gardener', 'grew', 'an', 'oak', 'tree', 'from', 'that', 'acorn']",gardener,tree
+"Q: In the sentence ""Henri will paint the floor for an hour"", which word immediately precedes the word ""for""? A:","['Henri', 'will', 'paint', 'the', 'floor', 'for', 'an', 'hour']",floor,will
+"Q: In the sentence ""The sofa was longer than the desk was"", which word comes right before the word ""than""? A:","['The', 'sofa', 'was', 'longer', 'than', 'the', 'desk', 'was']",longer,was
+"Q: In the sentence ""His girlfriend bought this computer"", which word immediately precedes the word ""this""? A:","['His', 'girlfriend', 'bought', 'this', 'computer']",bought,girlfriend
+"Q: In the sentence ""I asked where you found it"", which word comes right before the word ""it""? A:","['I', 'asked', 'where', 'you', 'found', 'it']",found,you
+"Q: Which word comes right before ""that"" in the sentence ""Sally believes that she is brilliant""? A:","['Sally', 'believes', 'that', 'she', 'is', 'brilliant']",believes,believes
+"Q: Which word comes right before ""alleged"" in the sentence ""Bill alleged that Roger has eaten the cake""? A:","['Bill', 'alleged', 'that', 'Roger', 'has', 'eaten', 'the', 'cake']",Bill,that
+"Q: Which word comes right before ""how"" in the sentence ""I forgot how good beer tastes""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",forgot,how
+"Q: Which word comes right before ""quietly"" in the sentence ""John ate his noodle quietly""? A:","['John', 'ate', 'his', 'noodle', 'quietly']",noodle,quietly
+"Q: In the sentence ""Dracula thought that he was the Prince of Darkness"", which word comes right before the word ""that""? A:","['Dracula', 'thought', 'that', 'he', 'was', 'the', 'Prince', 'of', 'Darkness']",thought,that
+"Q: In the sentence ""I took it for granted that she was lying"", which word immediately precedes the word ""it""? A:","['I', 'took', 'it', 'for', 'granted', 'that', 'she', 'was', 'lying']",took,she
+"Q: In the sentence ""The men will all leave"", which word immediately precedes the word ""will""? A:","['The', 'men', 'will', 'all', 'leave']",men,men
+"Q: Which word comes right before ""ready"" in the sentence ""The jury seemed ready to leave""? A:","['The', 'jury', 'seemed', 'ready', 'to', 'leave']",seemed,ready
+"Q: In the sentence ""The report that crime was declining surprised many people"", which word comes right before the word ""that""? A:","['The', 'report', 'that', 'crime', 'was', 'declining', 'surprised', 'many', 'people']",report,people
+"Q: In the sentence ""I sensed his eagerness"", which word immediately precedes the word ""his""? A:","['I', 'sensed', 'his', 'eagerness']",sensed,his
+"Q: In the sentence ""This arch is supporting the weight of the tower"", which word immediately precedes the word ""is""? A:","['This', 'arch', 'is', 'supporting', 'the', 'weight', 'of', 'the', 'tower']",arch,the
+"Q: Which word comes right before ""me"" in the sentence ""I know a man who hates me""? A:","['I', 'know', 'a', 'man', 'who', 'hates', 'me']",hates,know
+"Q: In the sentence ""He could not have been working"", which word immediately precedes the word ""not""? A:","['He', 'could', 'not', 'have', 'been', 'working']",could,not
+"Q: In the sentence ""I went to the store and bought some whisky"", which word comes right before the word ""some""? A:","['I', 'went', 'to', 'the', 'store', 'and', 'bought', 'some', 'whisky']",bought,some
+"Q: In the sentence ""The gardener grew an oak tree from that acorn"", which word comes right before the word ""tree""? A:","['The', 'gardener', 'grew', 'an', 'oak', 'tree', 'from', 'that', 'acorn']",oak,tree
+"Q: In the sentence ""He looked the number up"", which word immediately precedes the word ""up""? A:","['He', 'looked', 'the', 'number', 'up']",number,looked
+"Q: In the sentence ""John is very fond of Mary"", which word comes right before the word ""of""? A:","['John', 'is', 'very', 'fond', 'of', 'Mary']",fond,very
+"Q: In the sentence ""Ellen told Helen a story"", which word comes right before the word ""a""? A:","['Ellen', 'told', 'Helen', 'a', 'story']",Helen,a
+"Q: In the sentence ""Jason persuaded Medea to desert her family"", which word comes right before the word ""Medea""? A:","['Jason', 'persuaded', 'Medea', 'to', 'desert', 'her', 'family']",persuaded,persuaded
+"Q: In the sentence ""The car collided with the fence"", which word comes right before the word ""collided""? A:","['The', 'car', 'collided', 'with', 'the', 'fence']",car,with
+"Q: In the sentence ""It may rain"", which word immediately precedes the word ""rain""? A:","['It', 'may', 'rain']",may,rain
+"Q: In the sentence ""Bill visited Mary"", which word comes right before the word ""Mary""? A:","['Bill', 'visited', 'Mary']",visited,visited
+"Q: Which word comes right before ""to"" in the sentence ""I would prefer for John to leave""? A:","['I', 'would', 'prefer', 'for', 'John', 'to', 'leave']",John,would
+"Q: In the sentence ""I am drinking lemonade and eating a brownie"", which word comes right before the word ""lemonade""? A:","['I', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",drinking,brownie
+"Q: In the sentence ""Jackie chased the thief"", which word comes right before the word ""the""? A:","['Jackie', 'chased', 'the', 'thief']",chased,thief
+"Q: Which word comes right before ""year"" in the sentence ""Last year I saw this film several times""? A:","['Last', 'year', 'I', 'saw', 'this', 'film', 'several', 'times']",Last,year
+"Q: Which word comes right before ""Leslie"" in the sentence ""Pat promised Leslie to be aggressive""? A:","['Pat', 'promised', 'Leslie', 'to', 'be', 'aggressive']",promised,to
+"Q: In the sentence ""Jack sprayed the wall with paint"", which word immediately precedes the word ""the""? A:","['Jack', 'sprayed', 'the', 'wall', 'with', 'paint']",sprayed,wall
+"Q: In the sentence ""I could have been flying helicopters by now"", which word immediately precedes the word ""have""? A:","['I', 'could', 'have', 'been', 'flying', 'helicopters', 'by', 'now']",could,flying
+"Q: In the sentence ""John was lots more obnoxious than Fred"", which word immediately precedes the word ""than""? A:","['John', 'was', 'lots', 'more', 'obnoxious', 'than', 'Fred']",obnoxious,was
+"Q: Which word comes right before ""saw"" in the sentence ""John saw Fred""? A:","['John', 'saw', 'Fred']",John,saw
+"Q: In the sentence ""The witch vanished into the forest"", which word comes right before the word ""vanished""? A:","['The', 'witch', 'vanished', 'into', 'the', 'forest']",witch,vanished
+"Q: Which word comes right before ""fancy"" in the sentence ""We ate at a really fancy restaurant""? A:","['We', 'ate', 'at', 'a', 'really', 'fancy', 'restaurant']",really,really
+"Q: Which word comes right before ""declared"" in the sentence ""The president declared Smith press secretary""? A:","['The', 'president', 'declared', 'Smith', 'press', 'secretary']",president,president
+"Q: In the sentence ""John promised Mary that he would leave"", which word comes right before the word ""Mary""? A:","['John', 'promised', 'Mary', 'that', 'he', 'would', 'leave']",promised,leave
+"Q: In the sentence ""The farmer dumped apples into the cart"", which word comes right before the word ""into""? A:","['The', 'farmer', 'dumped', 'apples', 'into', 'the', 'cart']",apples,the
+"Q: In the sentence ""Jason expected Medea to be treated by the doctor"", which word immediately precedes the word ""by""? A:","['Jason', 'expected', 'Medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",treated,doctor
+"Q: In the sentence ""The bandits murdered innocent victims"", which word comes right before the word ""innocent""? A:","['The', 'bandits', 'murdered', 'innocent', 'victims']",murdered,murdered
+"Q: In the sentence ""I think he will eat asparagus"", which word immediately precedes the word ""he""? A:","['I', 'think', 'he', 'will', 'eat', 'asparagus']",think,think
+"Q: Which word comes right before ""to"" in the sentence ""John tried to be a good boy""? A:","['John', 'tried', 'to', 'be', 'a', 'good', 'boy']",tried,good
+"Q: In the sentence ""The storm arrived after the picnic"", which word comes right before the word ""after""? A:","['The', 'storm', 'arrived', 'after', 'the', 'picnic']",arrived,storm
+"Q: In the sentence ""John died last night"", which word immediately precedes the word ""night""? A:","['John', 'died', 'last', 'night']",last,last
+"Q: In the sentence ""Mary confidently answered any objections"", which word immediately precedes the word ""answered""? A:","['Mary', 'confidently', 'answered', 'any', 'objections']",confidently,objections
+"Q: In the sentence ""Ellen told Helen a story"", which word immediately precedes the word ""Helen""? A:","['Ellen', 'told', 'Helen', 'a', 'story']",told,a
+"Q: In the sentence ""I saw people playing there on the beach"", which word comes right before the word ""people""? A:","['I', 'saw', 'people', 'playing', 'there', 'on', 'the', 'beach']",saw,people
+"Q: In the sentence ""Mary taught linguistics to John"", which word comes right before the word ""taught""? A:","['Mary', 'taught', 'linguistics', 'to', 'John']",Mary,taught
+"Q: In the sentence ""A serious accident happened yesterday"", which word immediately precedes the word ""accident""? A:","['A', 'serious', 'accident', 'happened', 'yesterday']",serious,accident
+"Q: In the sentence ""The agency classified the documents"", which word comes right before the word ""classified""? A:","['The', 'agency', 'classified', 'the', 'documents']",agency,classified
+"Q: Which word comes right before ""more"" in the sentence ""He looks more formidable than he is""? A:","['He', 'looks', 'more', 'formidable', 'than', 'he', 'is']",looks,looks
+"Q: In the sentence ""The report that crime was declining surprised many people"", which word immediately precedes the word ""that""? A:","['The', 'report', 'that', 'crime', 'was', 'declining', 'surprised', 'many', 'people']",report,people
+"Q: Which word comes right before ""placed"" in the sentence ""Tom placed it under the table""? A:","['Tom', 'placed', 'it', 'under', 'the', 'table']",Tom,under
+"Q: In the sentence ""My brother likes collecting jazz records"", which word comes right before the word ""jazz""? A:","['My', 'brother', 'likes', 'collecting', 'jazz', 'records']",collecting,likes
+"Q: Which word comes right before ""that"" in the sentence ""It is likely that John will leave""? A:","['It', 'is', 'likely', 'that', 'John', 'will', 'leave']",likely,that
+"Q: In the sentence ""Amanda drove the package from Boston"", which word immediately precedes the word ""from""? A:","['Amanda', 'drove', 'the', 'package', 'from', 'Boston']",package,package
+"Q: In the sentence ""Susan wanted Jane to study German"", which word immediately precedes the word ""to""? A:","['Susan', 'wanted', 'Jane', 'to', 'study', 'German']",Jane,wanted
+"Q: In the sentence ""The sofa was longer than the desk was"", which word immediately precedes the word ""than""? A:","['The', 'sofa', 'was', 'longer', 'than', 'the', 'desk', 'was']",longer,was
+"Q: In the sentence ""He treats John very badly"", which word comes right before the word ""John""? A:","['He', 'treats', 'John', 'very', 'badly']",treats,very
+"Q: Which word comes right before ""the"" in the sentence ""That chisel carved the statue""? A:","['That', 'chisel', 'carved', 'the', 'statue']",carved,chisel
+"Q: Which word comes right before ""for"" in the sentence ""I would like for John to win""? A:","['I', 'would', 'like', 'for', 'John', 'to', 'win']",like,would
+"Q: In the sentence ""Carla slid those books across the table"", which word immediately precedes the word ""those""? A:","['Carla', 'slid', 'those', 'books', 'across', 'the', 'table']",slid,books
+"Q: In the sentence ""Larry hunted all the foxes"", which word immediately precedes the word ""hunted""? A:","['Larry', 'hunted', 'all', 'the', 'foxes']",Larry,hunted
+"Q: In the sentence ""Ron definitely has bought a dog"", which word comes right before the word ""has""? A:","['Ron', 'definitely', 'has', 'bought', 'a', 'dog']",definitely,has
+"Q: Which word comes right before ""cuts"" in the sentence ""Mary cuts the paper easily""? A:","['Mary', 'cuts', 'the', 'paper', 'easily']",Mary,cuts
+"Q: Which word comes right before ""Mary"" in the sentence ""John often meets Mary""? A:","['John', 'often', 'meets', 'Mary']",meets,meets
+"Q: Which word comes right before ""taught"" in the sentence ""Mary taught John linguistics""? A:","['Mary', 'taught', 'John', 'linguistics']",Mary,linguistics
+"Q: In the sentence ""I feel that Arch will show up"", which word comes right before the word ""up""? A:","['I', 'feel', 'that', 'Arch', 'will', 'show', 'up']",show,up
+"Q: In the sentence ""That barn has seven pine trees behind it"", which word immediately precedes the word ""behind""? A:","['That', 'barn', 'has', 'seven', 'pine', 'trees', 'behind', 'it']",trees,trees
+"Q: In the sentence ""John called the president a fool"", which word immediately precedes the word ""the""? A:","['John', 'called', 'the', 'president', 'a', 'fool']",called,a
+"Q: In the sentence ""Bill wants Susan to leave"", which word immediately precedes the word ""to""? A:","['Bill', 'wants', 'Susan', 'to', 'leave']",Susan,wants
+"Q: In the sentence ""the girls likes themselves"", which word immediately precedes the word ""themselves""? A:","['the', 'girls', 'likes', 'themselves']",likes,girls
+"Q: Which word comes right before ""did"" in the sentence ""John scratched his arm and Mary did too""? A:","['John', 'scratched', 'his', 'arm', 'and', 'Mary', 'did', 'too']",Mary,did
+"Q: Which word comes right before ""over"" in the sentence ""Smith inscribed his name over the door""? A:","['Smith', 'inscribed', 'his', 'name', 'over', 'the', 'door']",name,his
+"Q: In the sentence ""John will leave the party earlier"", which word immediately precedes the word ""the""? A:","['John', 'will', 'leave', 'the', 'party', 'earlier']",leave,party
+"Q: Which word comes right before ""craned"" in the sentence ""Jennifer craned her neck""? A:","['Jennifer', 'craned', 'her', 'neck']",Jennifer,craned
+"Q: In the sentence ""Andy promised we would go"", which word immediately precedes the word ""we""? A:","['Andy', 'promised', 'we', 'would', 'go']",promised,we
+"Q: Which word comes right before ""over"" in the sentence ""The weights stretched the rope over the pulley""? A:","['The', 'weights', 'stretched', 'the', 'rope', 'over', 'the', 'pulley']",rope,pulley
+"Q: In the sentence ""You may pick every flower"", which word comes right before the word ""flower""? A:","['You', 'may', 'pick', 'every', 'flower']",every,flower
+"Q: In the sentence ""My eyes are itching"", which word immediately precedes the word ""are""? A:","['My', 'eyes', 'are', 'itching']",eyes,eyes
+"Q: Which word comes right before ""seemed"" in the sentence ""The jury seemed ready to leave""? A:","['The', 'jury', 'seemed', 'ready', 'to', 'leave']",jury,seemed
+"Q: In the sentence ""John and Mary met in Vienna"", which word comes right before the word ""met""? A:","['John', 'and', 'Mary', 'met', 'in', 'Vienna']",Mary,in
+"Q: In the sentence ""Louis was forgiven by Susan"", which word immediately precedes the word ""by""? A:","['Louis', 'was', 'forgiven', 'by', 'Susan']",forgiven,was
+"Q: Which word comes right before ""Manuel"" in the sentence ""I bought Manuel some flowers""? A:","['I', 'bought', 'Manuel', 'some', 'flowers']",bought,flowers
+"Q: In the sentence ""I asked where you found it"", which word comes right before the word ""where""? A:","['I', 'asked', 'where', 'you', 'found', 'it']",asked,where
+"Q: In the sentence ""John and Mary met in Vienna"", which word immediately precedes the word ""met""? A:","['John', 'and', 'Mary', 'met', 'in', 'Vienna']",Mary,and
+"Q: In the sentence ""I saw John on Sunday"", which word comes right before the word ""John""? A:","['I', 'saw', 'John', 'on', 'Sunday']",saw,on
+"Q: In the sentence ""The king loved peanut butter cookies"", which word immediately precedes the word ""butter""? A:","['The', 'king', 'loved', 'peanut', 'butter', 'cookies']",peanut,butter
+"Q: Which word comes right before ""Square"" in the sentence ""Park Square has a festive air""? A:","['Park', 'Square', 'has', 'a', 'festive', 'air']",Park,has
+"Q: In the sentence ""That joke never fails to amuse"", which word comes right before the word ""never""? A:","['That', 'joke', 'never', 'fails', 'to', 'amuse']",joke,never
+"Q: Which word comes right before ""something"" in the sentence ""I saw these dancers and those musicians smoking something""? A:","['I', 'saw', 'these', 'dancers', 'and', 'those', 'musicians', 'smoking', 'something']",smoking,musicians
+"Q: Which word comes right before ""by"" in the sentence ""The mushrooms were sliced by the cook""? A:","['The', 'mushrooms', 'were', 'sliced', 'by', 'the', 'cook']",sliced,mushrooms
+"Q: In the sentence ""I talked to Winston about himself"", which word comes right before the word ""about""? A:","['I', 'talked', 'to', 'Winston', 'about', 'himself']",Winston,talked
+"Q: Which word comes right before ""ran"" in the sentence ""Gary and Kevin ran themselves into exhaustion""? A:","['Gary', 'and', 'Kevin', 'ran', 'themselves', 'into', 'exhaustion']",Kevin,ran
+"Q: In the sentence ""These dogs barked"", which word comes right before the word ""barked""? A:","['These', 'dogs', 'barked']",dogs,dogs
+"Q: Which word comes right before ""the"" in the sentence ""Louise broke the cup""? A:","['Louise', 'broke', 'the', 'cup']",broke,the
+"Q: In the sentence ""Kim regrets not having seen the movie"", which word immediately precedes the word ""the""? A:","['Kim', 'regrets', 'not', 'having', 'seen', 'the', 'movie']",seen,movie
+"Q: Which word comes right before ""present"" in the sentence ""I gave my brother a birthday present""? A:","['I', 'gave', 'my', 'brother', 'a', 'birthday', 'present']",birthday,brother
+"Q: Which word comes right before ""in"" in the sentence ""Frances hid the presents in the drawer""? A:","['Frances', 'hid', 'the', 'presents', 'in', 'the', 'drawer']",presents,drawer
+"Q: In the sentence ""I forgot how good beer tastes"", which word immediately precedes the word ""beer""? A:","['I', 'forgot', 'how', 'good', 'beer', 'tastes']",good,good
+"Q: In the sentence ""Mary always prefers lemons to limes"", which word comes right before the word ""lemons""? A:","['Mary', 'always', 'prefers', 'lemons', 'to', 'limes']",prefers,lemons
+"Q: In the sentence ""The dog barked at the cat"", which word comes right before the word ""at""? A:","['The', 'dog', 'barked', 'at', 'the', 'cat']",barked,dog
+"Q: In the sentence ""Someone stole my car"", which word comes right before the word ""stole""? A:","['Someone', 'stole', 'my', 'car']",Someone,car
+"Q: In the sentence ""John promised Bill to leave"", which word immediately precedes the word ""promised""? A:","['John', 'promised', 'Bill', 'to', 'leave']",John,promised
+"Q: In the sentence ""I could have been flying helicopters by now"", which word immediately precedes the word ""helicopters""? A:","['I', 'could', 'have', 'been', 'flying', 'helicopters', 'by', 'now']",flying,flying
+"Q: In the sentence ""Frances hid the presents behind the books"", which word immediately precedes the word ""behind""? A:","['Frances', 'hid', 'the', 'presents', 'behind', 'the', 'books']",presents,books
+"Q: Which word comes right before ""of"" in the sentence ""This arch is supporting the weight of the tower""? A:","['This', 'arch', 'is', 'supporting', 'the', 'weight', 'of', 'the', 'tower']",weight,weight
+"Q: In the sentence ""It is certain that John has loved Mary"", which word comes right before the word ""Mary""? A:","['It', 'is', 'certain', 'that', 'John', 'has', 'loved', 'Mary']",loved,loved
+"Q: In the sentence ""Dana is longing for a sunny day"", which word comes right before the word ""is""? A:","['Dana', 'is', 'longing', 'for', 'a', 'sunny', 'day']",Dana,for
+"Q: In the sentence ""Captain Oates died in order to save his comrades"", which word immediately precedes the word ""died""? A:","['Captain', 'Oates', 'died', 'in', 'order', 'to', 'save', 'his', 'comrades']",Oates,in
+"Q: In the sentence ""Calvin was eating"", which word immediately precedes the word ""was""? A:","['Calvin', 'was', 'eating']",Calvin,was
+"Q: In the sentence ""Jessica loaded boxes on the wagon"", which word comes right before the word ""on""? A:","['Jessica', 'loaded', 'boxes', 'on', 'the', 'wagon']",boxes,loaded
+"Q: In the sentence ""Shakespeare wrote his plays a long time ago"", which word immediately precedes the word ""his""? A:","['Shakespeare', 'wrote', 'his', 'plays', 'a', 'long', 'time', 'ago']",wrote,ago
+"Q: In the sentence ""John studied hard to pass the exam"", which word immediately precedes the word ""studied""? A:","['John', 'studied', 'hard', 'to', 'pass', 'the', 'exam']",John,hard
+"Q: In the sentence ""The termites destroyed the sand castle"", which word immediately precedes the word ""castle""? A:","['The', 'termites', 'destroyed', 'the', 'sand', 'castle']",sand,sand
+"Q: In the sentence ""Visiting relatives can be boring"", which word comes right before the word ""can""? A:","['Visiting', 'relatives', 'can', 'be', 'boring']",relatives,relatives
+"Q: In the sentence ""I ate some popcorn and drank some soda"", which word immediately precedes the word ""and""? A:","['I', 'ate', 'some', 'popcorn', 'and', 'drank', 'some', 'soda']",popcorn,popcorn
+"Q: In the sentence ""John owns the book"", which word comes right before the word ""the""? A:","['John', 'owns', 'the', 'book']",owns,book
+"Q: Which word comes right before ""hopes"" in the sentence ""Susan hopes to sleep""? A:","['Susan', 'hopes', 'to', 'sleep']",Susan,sleep
+"Q: In the sentence ""John bit the apple"", which word comes right before the word ""bit""? A:","['John', 'bit', 'the', 'apple']",John,bit
+"Q: In the sentence ""John deposited some money in the bank"", which word comes right before the word ""deposited""? A:","['John', 'deposited', 'some', 'money', 'in', 'the', 'bank']",John,bank
+"Q: In the sentence ""He planted the garden with roses last November"", which word comes right before the word ""with""? A:","['He', 'planted', 'the', 'garden', 'with', 'roses', 'last', 'November']",garden,last
+"Q: Which word comes right before ""he"" in the sentence ""Everyone thinks he is smart""? A:","['Everyone', 'thinks', 'he', 'is', 'smart']",thinks,thinks
+"Q: In the sentence ""Clean your desk before tomorrow"", which word immediately precedes the word ""your""? A:","['Clean', 'your', 'desk', 'before', 'tomorrow']",Clean,before
+"Q: In the sentence ""The teacher became angry with the students"", which word comes right before the word ""became""? A:","['The', 'teacher', 'became', 'angry', 'with', 'the', 'students']",teacher,with
+"Q: In the sentence ""John is happy about the outcome"", which word comes right before the word ""about""? A:","['John', 'is', 'happy', 'about', 'the', 'outcome']",happy,happy
+"Q: In the sentence ""Nora sent the book from Paris to London"", which word immediately precedes the word ""to""? A:","['Nora', 'sent', 'the', 'book', 'from', 'Paris', 'to', 'London']",Paris,book
+"Q: Which word comes right before ""in"" in the sentence ""This disease gave Leslie a fever in Rome""? A:","['This', 'disease', 'gave', 'Leslie', 'a', 'fever', 'in', 'Rome']",fever,in
+"Q: In the sentence ""She voted for herself"", which word immediately precedes the word ""for""? A:","['She', 'voted', 'for', 'herself']",voted,for
+"Q: In the sentence ""The director praised the volunteers"", which word immediately precedes the word ""praised""? A:","['The', 'director', 'praised', 'the', 'volunteers']",director,praised
+"Q: In the sentence ""she will win the race"", which word immediately precedes the word ""the""? A:","['she', 'will', 'win', 'the', 'race']",win,will
+"Q: Which word comes right before ""for"" in the sentence ""The socks are ready for you to put on""? A:","['The', 'socks', 'are', 'ready', 'for', 'you', 'to', 'put', 'on']",ready,ready
+"Q: In the sentence ""The jeweller decorated the ring"", which word immediately precedes the word ""decorated""? A:","['The', 'jeweller', 'decorated', 'the', 'ring']",jeweller,jeweller
+"Q: In the sentence ""The twins might have both been at the party"", which word comes right before the word ""might""? A:","['The', 'twins', 'might', 'have', 'both', 'been', 'at', 'the', 'party']",twins,party
+"Q: In the sentence ""No one could remove the blood on the wall"", which word comes right before the word ""on""? A:","['No', 'one', 'could', 'remove', 'the', 'blood', 'on', 'the', 'wall']",blood,could
+"Q: In the sentence ""John said Mary went to the store quickly"", which word comes right before the word ""quickly""? A:","['John', 'said', 'Mary', 'went', 'to', 'the', 'store', 'quickly']",store,quickly
+"Q: Which word comes right before ""of"" in the sentence ""The computer will calculate the value of the variable""? A:","['The', 'computer', 'will', 'calculate', 'the', 'value', 'of', 'the', 'variable']",value,the
+"Q: In the sentence ""Those bandits attacked Emma and Harriet yesterday"", which word comes right before the word ""Emma""? A:","['Those', 'bandits', 'attacked', 'Emma', 'and', 'Harriet', 'yesterday']",attacked,bandits
+"Q: Which word comes right before ""tossed"" in the sentence ""Steve tossed the softball""? A:","['Steve', 'tossed', 'the', 'softball']",Steve,tossed
+"Q: In the sentence ""I ate deep fried muffins"", which word immediately precedes the word ""muffins""? A:","['I', 'ate', 'deep', 'fried', 'muffins']",fried,deep
+"Q: Which word comes right before ""can"" in the sentence ""Visiting relatives can be boring""? A:","['Visiting', 'relatives', 'can', 'be', 'boring']",relatives,relatives
+"Q: Which word comes right before ""the"" in the sentence ""Paula trimmed the bush""? A:","['Paula', 'trimmed', 'the', 'bush']",trimmed,trimmed
+"Q: In the sentence ""The thief smashed the window with a hammer"", which word immediately precedes the word ""with""? A:","['The', 'thief', 'smashed', 'the', 'window', 'with', 'a', 'hammer']",window,the
+"Q: In the sentence ""Amanda carried the package to Pamela"", which word comes right before the word ""the""? A:","['Amanda', 'carried', 'the', 'package', 'to', 'Pamela']",carried,package
+"Q: Which word comes right before ""those"" in the sentence ""Carla slid those books across the table""? A:","['Carla', 'slid', 'those', 'books', 'across', 'the', 'table']",slid,books
+"Q: In the sentence ""My brother likes collecting jazz records"", which word comes right before the word ""collecting""? A:","['My', 'brother', 'likes', 'collecting', 'jazz', 'records']",likes,brother
+"Q: Which word comes right before ""has"" in the sentence ""The Minister has arrived""? A:","['The', 'Minister', 'has', 'arrived']",Minister,has
+"Q: In the sentence ""I wrote to Bill"", which word immediately precedes the word ""to""? A:","['I', 'wrote', 'to', 'Bill']",wrote,wrote
+"Q: In the sentence ""Doug went to Chicago"", which word comes right before the word ""to""? A:","['Doug', 'went', 'to', 'Chicago']",went,to
+"Q: In the sentence ""The child clung to her mother"", which word immediately precedes the word ""clung""? A:","['The', 'child', 'clung', 'to', 'her', 'mother']",child,mother
+"Q: In the sentence ""Spot ate a cat treat"", which word comes right before the word ""treat""? A:","['Spot', 'ate', 'a', 'cat', 'treat']",cat,ate
+"Q: In the sentence ""Someone attended every seminar"", which word comes right before the word ""seminar""? A:","['Someone', 'attended', 'every', 'seminar']",every,seminar
+"Q: In the sentence ""John put books in the box"", which word immediately precedes the word ""in""? A:","['John', 'put', 'books', 'in', 'the', 'box']",books,books
+"Q: In the sentence ""There remained just a few problems to be solved"", which word immediately precedes the word ""just""? A:","['There', 'remained', 'just', 'a', 'few', 'problems', 'to', 'be', 'solved']",remained,just
+"Q: In the sentence ""Ellen talked with Helen"", which word comes right before the word ""talked""? A:","['Ellen', 'talked', 'with', 'Helen']",Ellen,talked
+"Q: In the sentence ""The rats ran through the maze"", which word immediately precedes the word ""through""? A:","['The', 'rats', 'ran', 'through', 'the', 'maze']",ran,ran
+"Q: In the sentence ""Martina is deathly afraid of spiders"", which word comes right before the word ""afraid""? A:","['Martina', 'is', 'deathly', 'afraid', 'of', 'spiders']",deathly,afraid
+"Q: In the sentence ""Last year I saw this film several times"", which word comes right before the word ""I""? A:","['Last', 'year', 'I', 'saw', 'this', 'film', 'several', 'times']",year,year
+"Q: Which word comes right before ""with"" in the sentence ""Cynthia ate the peach with a fork""? A:","['Cynthia', 'ate', 'the', 'peach', 'with', 'a', 'fork']",peach,peach
+"Q: In the sentence ""Bill gave Sue the book"", which word immediately precedes the word ""gave""? A:","['Bill', 'gave', 'Sue', 'the', 'book']",Bill,book
+"Q: In the sentence ""John tried to please Stephen"", which word immediately precedes the word ""tried""? A:","['John', 'tried', 'to', 'please', 'Stephen']",John,tried
+"Q: In the sentence ""Jean is likely to dance"", which word comes right before the word ""is""? A:","['Jean', 'is', 'likely', 'to', 'dance']",Jean,likely
+"Q: In the sentence ""Some student from Australia speaks Chinese"", which word comes right before the word ""from""? A:","['Some', 'student', 'from', 'Australia', 'speaks', 'Chinese']",student,speaks
+"Q: In the sentence ""The paper is readable"", which word comes right before the word ""is""? A:","['The', 'paper', 'is', 'readable']",paper,readable
+"Q: In the sentence ""All the men lifted the table together"", which word comes right before the word ""lifted""? A:","['All', 'the', 'men', 'lifted', 'the', 'table', 'together']",men,lifted
+"Q: In the sentence ""Jessica sprayed water at me"", which word comes right before the word ""water""? A:","['Jessica', 'sprayed', 'water', 'at', 'me']",sprayed,water
+"Q: In the sentence ""John seems to be honest"", which word comes right before the word ""to""? A:","['John', 'seems', 'to', 'be', 'honest']",seems,to
+"Q: Which word comes right before ""by"" in the sentence ""Louis was forgiven by Susan""? A:","['Louis', 'was', 'forgiven', 'by', 'Susan']",forgiven,was
+"Q: In the sentence ""He talked to a girl about swimming"", which word comes right before the word ""to""? A:","['He', 'talked', 'to', 'a', 'girl', 'about', 'swimming']",talked,talked
+"Q: Which word comes right before ""to"" in the sentence ""I talked to Winston about himself""? A:","['I', 'talked', 'to', 'Winston', 'about', 'himself']",talked,talked
+"Q: In the sentence ""Alison poked the needle through the cloth"", which word immediately precedes the word ""through""? A:","['Alison', 'poked', 'the', 'needle', 'through', 'the', 'cloth']",needle,through
+"Q: In the sentence ""Sonatas are easy to play on this violin"", which word immediately precedes the word ""on""? A:","['Sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",play,are
+"Q: In the sentence ""Louise broke the cup"", which word immediately precedes the word ""broke""? A:","['Louise', 'broke', 'the', 'cup']",Louise,cup
+"Q: In the sentence ""Mary has never kissed a Man taller than John"", which word immediately precedes the word ""a""? A:","['Mary', 'has', 'never', 'kissed', 'a', 'Man', 'taller', 'than', 'John']",kissed,than
+"Q: In the sentence ""Kris donated a book to the library"", which word immediately precedes the word ""to""? A:","['Kris', 'donated', 'a', 'book', 'to', 'the', 'library']",book,to
+"Q: Which word comes right before ""was"" in the sentence ""The soldier was given the medal by Phillip""? A:","['The', 'soldier', 'was', 'given', 'the', 'medal', 'by', 'Phillip']",soldier,was
+"Q: In the sentence ""Donna fixed a sandwich for me"", which word comes right before the word ""a""? A:","['Donna', 'fixed', 'a', 'sandwich', 'for', 'me']",fixed,fixed
+"Q: In the sentence ""The sexual revolution makes some people uncomfortable"", which word comes right before the word ""some""? A:","['The', 'sexual', 'revolution', 'makes', 'some', 'people', 'uncomfortable']",makes,people
+"Q: In the sentence ""I read a statement which was about that man"", which word immediately precedes the word ""which""? A:","['I', 'read', 'a', 'statement', 'which', 'was', 'about', 'that', 'man']",statement,about
+"Q: Which word comes right before ""from"" in the sentence ""Mary received an award from the department""? A:","['Mary', 'received', 'an', 'award', 'from', 'the', 'department']",award,from
+"Q: In the sentence ""John saw Fred"", which word immediately precedes the word ""saw""? A:","['John', 'saw', 'Fred']",John,saw
+"Q: Which word comes right before ""herself"" in the sentence ""Susan devoted herself to linguistics""? A:","['Susan', 'devoted', 'herself', 'to', 'linguistics']",devoted,devoted
+"Q: In the sentence ""Frances hid the presents in the drawer"", which word comes right before the word ""in""? A:","['Frances', 'hid', 'the', 'presents', 'in', 'the', 'drawer']",presents,drawer
+"Q: Which word comes right before ""inscribed"" in the sentence ""Smith inscribed his name over the door""? A:","['Smith', 'inscribed', 'his', 'name', 'over', 'the', 'door']",Smith,his
+"Q: Which word comes right before ""bit"" in the sentence ""John bit the apple""? A:","['John', 'bit', 'the', 'apple']",John,bit
+"Q: In the sentence ""I would like for John to win"", which word comes right before the word ""for""? A:","['I', 'would', 'like', 'for', 'John', 'to', 'win']",like,would
+"Q: Which word comes right before ""devoured"" in the sentence ""The crocodile devoured the doughnut""? A:","['The', 'crocodile', 'devoured', 'the', 'doughnut']",crocodile,the
+"Q: Which word comes right before ""Jane"" in the sentence ""Susan wanted Jane to study German""? A:","['Susan', 'wanted', 'Jane', 'to', 'study', 'German']",wanted,wanted
+"Q: In the sentence ""I saw these dancers and those musicians smoking something"", which word immediately precedes the word ""and""? A:","['I', 'saw', 'these', 'dancers', 'and', 'those', 'musicians', 'smoking', 'something']",dancers,those
+"Q: Which word comes right before ""to"" in the sentence ""John seems to like pictures of himself""? A:","['John', 'seems', 'to', 'like', 'pictures', 'of', 'himself']",seems,like
+"Q: In the sentence ""Mary has always preferred lemons to limes"", which word immediately precedes the word ""preferred""? A:","['Mary', 'has', 'always', 'preferred', 'lemons', 'to', 'limes']",always,lemons
+"Q: In the sentence ""It is certain that John has loved Mary"", which word immediately precedes the word ""that""? A:","['It', 'is', 'certain', 'that', 'John', 'has', 'loved', 'Mary']",certain,that
+"Q: In the sentence ""Dave and Alina left"", which word comes right before the word ""left""? A:","['Dave', 'and', 'Alina', 'left']",Alina,left
+"Q: In the sentence ""Sonatas are easy to play on this violin"", which word immediately precedes the word ""are""? A:","['Sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",Sonatas,are
+"Q: In the sentence ""Many people were fond of Pat"", which word comes right before the word ""people""? A:","['Many', 'people', 'were', 'fond', 'of', 'Pat']",Many,people
+"Q: In the sentence ""Many people were fond of Pat"", which word comes right before the word ""were""? A:","['Many', 'people', 'were', 'fond', 'of', 'Pat']",people,were
+"Q: In the sentence ""Under the bed is a safe place to hide"", which word comes right before the word ""place""? A:","['Under', 'the', 'bed', 'is', 'a', 'safe', 'place', 'to', 'hide']",safe,place
+"Q: In the sentence ""Mary saw the boy walking toward the railroad station"", which word immediately precedes the word ""saw""? A:","['Mary', 'saw', 'the', 'boy', 'walking', 'toward', 'the', 'railroad', 'station']",Mary,boy
+"Q: In the sentence ""I believe strongly that the world is round"", which word comes right before the word ""that""? A:","['I', 'believe', 'strongly', 'that', 'the', 'world', 'is', 'round']",strongly,believe
+"Q: In the sentence ""Frank threw himself into the sofa"", which word comes right before the word ""threw""? A:","['Frank', 'threw', 'himself', 'into', 'the', 'sofa']",Frank,himself
+"Q: In the sentence ""Carla slid those books across the table"", which word comes right before the word ""the""? A:","['Carla', 'slid', 'those', 'books', 'across', 'the', 'table']",across,books
+"Q: In the sentence ""I broke the twig and the branch apart"", which word immediately precedes the word ""apart""? A:","['I', 'broke', 'the', 'twig', 'and', 'the', 'branch', 'apart']",branch,the
+"Q: In the sentence ""I like Mary and she likes me"", which word immediately precedes the word ""me""? A:","['I', 'like', 'Mary', 'and', 'she', 'likes', 'me']",likes,me
+"Q: In the sentence ""Mary scratched her arm too"", which word comes right before the word ""her""? A:","['Mary', 'scratched', 'her', 'arm', 'too']",scratched,arm
+"Q: In the sentence ""The defendant denied the accusation"", which word comes right before the word ""denied""? A:","['The', 'defendant', 'denied', 'the', 'accusation']",defendant,denied
+"Q: In the sentence ""John wrote books"", which word comes right before the word ""wrote""? A:","['John', 'wrote', 'books']",John,wrote
+"Q: Which word comes right before ""tell"" in the sentence ""Any lawyer could tell you that""? A:","['Any', 'lawyer', 'could', 'tell', 'you', 'that']",could,could
+"Q: In the sentence ""That girl was given my binoculars by him"", which word comes right before the word ""my""? A:","['That', 'girl', 'was', 'given', 'my', 'binoculars', 'by', 'him']",given,given
+"Q: Which word comes right before ""us"" in the sentence ""Nobody likes us""? A:","['Nobody', 'likes', 'us']",likes,likes
+"Q: Which word comes right before ""while"" in the sentence ""The storm arrived while we ate lunch""? A:","['The', 'storm', 'arrived', 'while', 'we', 'ate', 'lunch']",arrived,storm
+"Q: In the sentence ""The dentist was persuaded to examine Pat"", which word comes right before the word ""to""? A:","['The', 'dentist', 'was', 'persuaded', 'to', 'examine', 'Pat']",persuaded,persuaded
+"Q: Which word comes right before ""of"" in the sentence ""People from Tucson think very highly of themselves""? A:","['People', 'from', 'Tucson', 'think', 'very', 'highly', 'of', 'themselves']",highly,think
+"Q: Which word comes right before ""where"" in the sentence ""I asked where you found it""? A:","['I', 'asked', 'where', 'you', 'found', 'it']",asked,found
+"Q: Which word comes right before ""the"" in the sentence ""John has been driving the car""? A:","['John', 'has', 'been', 'driving', 'the', 'car']",driving,driving
+"Q: Which word comes right before ""fixed"" in the sentence ""Donna fixed a sandwich for me""? A:","['Donna', 'fixed', 'a', 'sandwich', 'for', 'me']",Donna,fixed
+"Q: In the sentence ""John can kick the ball"", which word immediately precedes the word ""the""? A:","['John', 'can', 'kick', 'the', 'ball']",kick,ball
+"Q: In the sentence ""There are strangers in that garden"", which word immediately precedes the word ""in""? A:","['There', 'are', 'strangers', 'in', 'that', 'garden']",strangers,in
+"Q: Which word comes right before ""to"" in the sentence ""The jury seemed ready to leave""? A:","['The', 'jury', 'seemed', 'ready', 'to', 'leave']",ready,leave
+"Q: In the sentence ""Carmen obtained a spare part from Diana"", which word comes right before the word ""obtained""? A:","['Carmen', 'obtained', 'a', 'spare', 'part', 'from', 'Diana']",Carmen,part
+"Q: In the sentence ""Mary laughed at John"", which word immediately precedes the word ""at""? A:","['Mary', 'laughed', 'at', 'John']",laughed,laughed
+"Q: Which word comes right before ""was"" in the sentence ""Tess was knocking at the door""? A:","['Tess', 'was', 'knocking', 'at', 'the', 'door']",Tess,knocking
+"Q: Which word comes right before ""accident"" in the sentence ""A serious accident happened yesterday""? A:","['A', 'serious', 'accident', 'happened', 'yesterday']",serious,accident
+"Q: Which word comes right before ""day"" in the sentence ""Dana longs for a sunny day""? A:","['Dana', 'longs', 'for', 'a', 'sunny', 'day']",sunny,day
+"Q: Which word comes right before ""will"" in the sentence ""John will see you""? A:","['John', 'will', 'see', 'you']",John,will
+"Q: Which word comes right before ""prefer"" in the sentence ""I would prefer for John to leave""? A:","['I', 'would', 'prefer', 'for', 'John', 'to', 'leave']",would,would
+"Q: In the sentence ""Sonatas are easy to play on this violin"", which word comes right before the word ""are""? A:","['Sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",Sonatas,play
+"Q: Which word comes right before ""a"" in the sentence ""Donna fixed a sandwich for me""? A:","['Donna', 'fixed', 'a', 'sandwich', 'for', 'me']",fixed,fixed
+"Q: In the sentence ""Bill drank from the hose"", which word comes right before the word ""from""? A:","['Bill', 'drank', 'from', 'the', 'hose']",drank,from
+"Q: In the sentence ""Those bandits attacked Emma and Harriet yesterday"", which word immediately precedes the word ""attacked""? A:","['Those', 'bandits', 'attacked', 'Emma', 'and', 'Harriet', 'yesterday']",bandits,bandits
+"Q: Which word comes right before ""than"" in the sentence ""John was lots more obnoxious than Fred""? A:","['John', 'was', 'lots', 'more', 'obnoxious', 'than', 'Fred']",obnoxious,lots
+"Q: Which word comes right before ""to"" in the sentence ""They prefer for Mary to leave""? A:","['They', 'prefer', 'for', 'Mary', 'to', 'leave']",Mary,for
+"Q: In the sentence ""Maggie hurried through the museum"", which word immediately precedes the word ""through""? A:","['Maggie', 'hurried', 'through', 'the', 'museum']",hurried,through
+"Q: In the sentence ""The son took care of his parents"", which word comes right before the word ""of""? A:","['The', 'son', 'took', 'care', 'of', 'his', 'parents']",care,parents
+"Q: In the sentence ""The dog caught the cat"", which word comes right before the word ""caught""? A:","['The', 'dog', 'caught', 'the', 'cat']",dog,dog
+"Q: Which word comes right before ""accidentally"" in the sentence ""Six students got shot accidentally""? A:","['Six', 'students', 'got', 'shot', 'accidentally']",shot,shot
+"Q: In the sentence ""The roof of the building is leaking"", which word comes right before the word ""of""? A:","['The', 'roof', 'of', 'the', 'building', 'is', 'leaking']",roof,building
+"Q: Which word comes right before ""the"" in the sentence ""We persuaded the dentist to examine us""? A:","['We', 'persuaded', 'the', 'dentist', 'to', 'examine', 'us']",persuaded,to
+"Q: In the sentence ""We placed the cheese in the refrigerator"", which word immediately precedes the word ""in""? A:","['We', 'placed', 'the', 'cheese', 'in', 'the', 'refrigerator']",cheese,refrigerator
+"Q: In the sentence ""Mary was visited by Bill"", which word comes right before the word ""was""? A:","['Mary', 'was', 'visited', 'by', 'Bill']",Mary,was
+"Q: In the sentence ""John included his name in the list"", which word comes right before the word ""included""? A:","['John', 'included', 'his', 'name', 'in', 'the', 'list']",John,included
+"Q: Which word comes right before ""to"" in the sentence ""A professional dancer would be able to do it""? A:","['A', 'professional', 'dancer', 'would', 'be', 'able', 'to', 'do', 'it']",able,would
+"Q: In the sentence ""The table was wiped clean by John"", which word comes right before the word ""by""? A:","['The', 'table', 'was', 'wiped', 'clean', 'by', 'John']",clean,was
+"Q: In the sentence ""Felicia kicked the ball off the bench"", which word immediately precedes the word ""off""? A:","['Felicia', 'kicked', 'the', 'ball', 'off', 'the', 'bench']",ball,ball
+"Q: Which word comes right before ""John"" in the sentence ""I saw John on Sunday""? A:","['I', 'saw', 'John', 'on', 'Sunday']",saw,on
+"Q: In the sentence ""A hundred men lifted the table together"", which word immediately precedes the word ""together""? A:","['A', 'hundred', 'men', 'lifted', 'the', 'table', 'together']",table,table
+"Q: Which word comes right before ""are"" in the sentence ""Those monkeys are eating the banana""? A:","['Those', 'monkeys', 'are', 'eating', 'the', 'banana']",monkeys,eating
+"Q: In the sentence ""John said he was sick"", which word comes right before the word ""he""? A:","['John', 'said', 'he', 'was', 'sick']",said,sick
+"Q: Which word comes right before ""from"" in the sentence ""Susan rode a bright blue train from New York""? A:","['Susan', 'rode', 'a', 'bright', 'blue', 'train', 'from', 'New', 'York']",train,blue
+"Q: In the sentence ""John loaded the wagon full with hay"", which word comes right before the word ""full""? A:","['John', 'loaded', 'the', 'wagon', 'full', 'with', 'hay']",wagon,loaded
+"Q: In the sentence ""This sweater washes well"", which word comes right before the word ""washes""? A:","['This', 'sweater', 'washes', 'well']",sweater,washes
+"Q: In the sentence ""Jessica sprayed water at me"", which word immediately precedes the word ""at""? A:","['Jessica', 'sprayed', 'water', 'at', 'me']",water,water
+"Q: In the sentence ""Sally believes that she is brilliant"", which word comes right before the word ""believes""? A:","['Sally', 'believes', 'that', 'she', 'is', 'brilliant']",Sally,believes
+"Q: Which word comes right before ""than"" in the sentence ""Mary has never kissed a Man taller than John""? A:","['Mary', 'has', 'never', 'kissed', 'a', 'Man', 'taller', 'than', 'John']",taller,than
+"Q: In the sentence ""It is likely that John will leave"", which word comes right before the word ""that""? A:","['It', 'is', 'likely', 'that', 'John', 'will', 'leave']",likely,leave
+"Q: In the sentence ""The force of the wind broke the window"", which word comes right before the word ""of""? A:","['The', 'force', 'of', 'the', 'wind', 'broke', 'the', 'window']",force,wind
+"Q: In the sentence ""My friends wanted to quickly leave the party"", which word immediately precedes the word ""the""? A:","['My', 'friends', 'wanted', 'to', 'quickly', 'leave', 'the', 'party']",leave,wanted
+"Q: In the sentence ""John is taller than Dill"", which word immediately precedes the word ""is""? A:","['John', 'is', 'taller', 'than', 'Dill']",John,than
+"Q: In the sentence ""Mary plays the violin beautifully"", which word comes right before the word ""the""? A:","['Mary', 'plays', 'the', 'violin', 'beautifully']",plays,plays
+"Q: In the sentence ""I mailed the sweater to Mary"", which word comes right before the word ""the""? A:","['I', 'mailed', 'the', 'sweater', 'to', 'Mary']",mailed,the
+"Q: In the sentence ""Ellen talked with Helen about the problem"", which word immediately precedes the word ""about""? A:","['Ellen', 'talked', 'with', 'Helen', 'about', 'the', 'problem']",Helen,talked
+"Q: In the sentence ""John scratched his arm and Mary did too"", which word comes right before the word ""did""? A:","['John', 'scratched', 'his', 'arm', 'and', 'Mary', 'did', 'too']",Mary,and
+"Q: In the sentence ""Kim relies on Sandy"", which word comes right before the word ""relies""? A:","['Kim', 'relies', 'on', 'Sandy']",Kim,relies
+"Q: In the sentence ""Bill sent Tom a package"", which word immediately precedes the word ""sent""? A:","['Bill', 'sent', 'Tom', 'a', 'package']",Bill,package
+"Q: Which word comes right before ""treasure"" in the sentence ""An ancient treasure trove was found in this cave""? A:","['An', 'ancient', 'treasure', 'trove', 'was', 'found', 'in', 'this', 'cave']",ancient,ancient
+"Q: Which word comes right before ""is"" in the sentence ""John is running to the car""? A:","['John', 'is', 'running', 'to', 'the', 'car']",John,to
+"Q: In the sentence ""The farmer loaded the cart with apples"", which word immediately precedes the word ""with""? A:","['The', 'farmer', 'loaded', 'the', 'cart', 'with', 'apples']",cart,loaded
+"Q: Which word comes right before ""himself"" in the sentence ""I hope nobody will hurt himself""? A:","['I', 'hope', 'nobody', 'will', 'hurt', 'himself']",hurt,hope
+"Q: Which word comes right before ""a"" in the sentence ""I am drinking lemonade and eating a brownie""? A:","['I', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",eating,brownie
+"Q: In the sentence ""I broke the twig and the branch apart"", which word immediately precedes the word ""and""? A:","['I', 'broke', 'the', 'twig', 'and', 'the', 'branch', 'apart']",twig,twig
+"Q: In the sentence ""I saw that gas can explode"", which word immediately precedes the word ""that""? A:","['I', 'saw', 'that', 'gas', 'can', 'explode']",saw,that
+"Q: Which word comes right before ""dined"" in the sentence ""The guests dined""? A:","['The', 'guests', 'dined']",guests,guests
+"Q: In the sentence ""Mary managed to go abroad"", which word comes right before the word ""managed""? A:","['Mary', 'managed', 'to', 'go', 'abroad']",Mary,go
+"Q: Which word comes right before ""him"" in the sentence ""No one expected him to to win""? A:","['No', 'one', 'expected', 'him', 'to', 'to', 'win']",expected,him
+"Q: In the sentence ""John went to the store"", which word immediately precedes the word ""went""? A:","['John', 'went', 'to', 'the', 'store']",John,store
+"Q: Which word comes right before ""muffins"" in the sentence ""He always eats deep fried muffins""? A:","['He', 'always', 'eats', 'deep', 'fried', 'muffins']",fried,deep
+"Q: In the sentence ""The bed which Tom slept on was hard"", which word immediately precedes the word ""which""? A:","['The', 'bed', 'which', 'Tom', 'slept', 'on', 'was', 'hard']",bed,bed
+"Q: In the sentence ""A pregnant woman hit a girl"", which word immediately precedes the word ""woman""? A:","['A', 'pregnant', 'woman', 'hit', 'a', 'girl']",pregnant,a
+"Q: Which word comes right before ""saved"" in the sentence ""The cook saved no scraps for the dog""? A:","['The', 'cook', 'saved', 'no', 'scraps', 'for', 'the', 'dog']",cook,dog
+"Q: In the sentence ""Almost every lawyer could answer that question"", which word immediately precedes the word ""lawyer""? A:","['Almost', 'every', 'lawyer', 'could', 'answer', 'that', 'question']",every,every
+"Q: In the sentence ""Never had Sir Thomas been so offended"", which word comes right before the word ""had""? A:","['Never', 'had', 'Sir', 'Thomas', 'been', 'so', 'offended']",Never,so
+"Q: Which word comes right before ""regretted"" in the sentence ""Fanny regretted having talked to Mary""? A:","['Fanny', 'regretted', 'having', 'talked', 'to', 'Mary']",Fanny,talked
+"Q: In the sentence ""I bought it to read"", which word comes right before the word ""it""? A:","['I', 'bought', 'it', 'to', 'read']",bought,read
+"Q: In the sentence ""Jason was killed"", which word immediately precedes the word ""was""? A:","['Jason', 'was', 'killed']",Jason,killed
+"Q: In the sentence ""Kim regrets not having seen the movie"", which word comes right before the word ""the""? A:","['Kim', 'regrets', 'not', 'having', 'seen', 'the', 'movie']",seen,seen
+"Q: Which word comes right before ""dried"" in the sentence ""Bill dried the clothes""? A:","['Bill', 'dried', 'the', 'clothes']",Bill,dried
+"Q: Which word comes right before ""is"" in the sentence ""John is certain that the Mets will win""? A:","['John', 'is', 'certain', 'that', 'the', 'Mets', 'will', 'win']",John,certain
+"Q: In the sentence ""Spot ate a cat treat"", which word comes right before the word ""a""? A:","['Spot', 'ate', 'a', 'cat', 'treat']",ate,cat
+"Q: In the sentence ""John scratched his arm and Mary did too"", which word immediately precedes the word ""did""? A:","['John', 'scratched', 'his', 'arm', 'and', 'Mary', 'did', 'too']",Mary,did
+"Q: Which word comes right before ""out"" in the sentence ""I believe there to be no way out""? A:","['I', 'believe', 'there', 'to', 'be', 'no', 'way', 'out']",way,believe
+"Q: In the sentence ""Dracula thought himself to be the Prince of Darkness"", which word comes right before the word ""thought""? A:","['Dracula', 'thought', 'himself', 'to', 'be', 'the', 'Prince', 'of', 'Darkness']",Dracula,be
+"Q: In the sentence ""There were several doctors available"", which word immediately precedes the word ""doctors""? A:","['There', 'were', 'several', 'doctors', 'available']",several,were
+"Q: In the sentence ""Louise broke the cup"", which word comes right before the word ""broke""? A:","['Louise', 'broke', 'the', 'cup']",Louise,cup
+"Q: Which word comes right before ""that"" in the sentence ""They believed that everybody would pass the test""? A:","['They', 'believed', 'that', 'everybody', 'would', 'pass', 'the', 'test']",believed,believed
+"Q: In the sentence ""I ate some popcorn and drank some soda"", which word comes right before the word ""and""? A:","['I', 'ate', 'some', 'popcorn', 'and', 'drank', 'some', 'soda']",popcorn,popcorn
+"Q: In the sentence ""The banana is being eaten by that monkey"", which word comes right before the word ""is""? A:","['The', 'banana', 'is', 'being', 'eaten', 'by', 'that', 'monkey']",banana,banana
+"Q: In the sentence ""The hotel where Gloria stays is being remodelled"", which word comes right before the word ""stays""? A:","['The', 'hotel', 'where', 'Gloria', 'stays', 'is', 'being', 'remodelled']",Gloria,where
+"Q: In the sentence ""Bill drank from the hose"", which word comes right before the word ""drank""? A:","['Bill', 'drank', 'from', 'the', 'hose']",Bill,drank
+"Q: Which word comes right before ""the"" in the sentence ""Someone tried to leave the town""? A:","['Someone', 'tried', 'to', 'leave', 'the', 'town']",leave,tried
+"Q: Which word comes right before ""to"" in the sentence ""Nora sent the book from Paris to London""? A:","['Nora', 'sent', 'the', 'book', 'from', 'Paris', 'to', 'London']",Paris,book
+"Q: Which word comes right before ""salts"" in the sentence ""The truck spread salts""? A:","['The', 'truck', 'spread', 'salts']",spread,truck
+"Q: In the sentence ""little information was provided"", which word comes right before the word ""information""? A:","['little', 'information', 'was', 'provided']",little,little
+"Q: In the sentence ""Andy promised we would go"", which word comes right before the word ""we""? A:","['Andy', 'promised', 'we', 'would', 'go']",promised,we
+"Q: In the sentence ""No reading of Shakespeare satisfied me"", which word immediately precedes the word ""satisfied""? A:","['No', 'reading', 'of', 'Shakespeare', 'satisfied', 'me']",Shakespeare,reading
+"Q: In the sentence ""A hundred men surrounded the fort"", which word immediately precedes the word ""surrounded""? A:","['A', 'hundred', 'men', 'surrounded', 'the', 'fort']",men,fort
+"Q: In the sentence ""John has not kissed Mary"", which word comes right before the word ""Mary""? A:","['John', 'has', 'not', 'kissed', 'Mary']",kissed,has
+"Q: In the sentence ""Mary saw the boy walking toward the railroad station"", which word immediately precedes the word ""walking""? A:","['Mary', 'saw', 'the', 'boy', 'walking', 'toward', 'the', 'railroad', 'station']",boy,boy
+"Q: Which word comes right before ""we"" in the sentence ""Andy promised we would go""? A:","['Andy', 'promised', 'we', 'would', 'go']",promised,we
+"Q: In the sentence ""Mary has never kissed a Man taller than John"", which word comes right before the word ""kissed""? A:","['Mary', 'has', 'never', 'kissed', 'a', 'Man', 'taller', 'than', 'John']",never,never
+"Q: In the sentence ""Everyone should be able to defend himself"", which word comes right before the word ""should""? A:","['Everyone', 'should', 'be', 'able', 'to', 'defend', 'himself']",Everyone,should
+"Q: Which word comes right before ""it"" in the sentence ""I bought it to read""? A:","['I', 'bought', 'it', 'to', 'read']",bought,read
+"Q: In the sentence ""Many people were fond of Pat"", which word immediately precedes the word ""of""? A:","['Many', 'people', 'were', 'fond', 'of', 'Pat']",fond,were
+"Q: Which word comes right before ""treat"" in the sentence ""Spot ate a cat treat""? A:","['Spot', 'ate', 'a', 'cat', 'treat']",cat,cat
+"Q: In the sentence ""The farmer loaded apples into the cart"", which word comes right before the word ""apples""? A:","['The', 'farmer', 'loaded', 'apples', 'into', 'the', 'cart']",loaded,loaded
+"Q: In the sentence ""Henri will paint the floor for an hour"", which word comes right before the word ""for""? A:","['Henri', 'will', 'paint', 'the', 'floor', 'for', 'an', 'hour']",floor,will
+"Q: In the sentence ""Martha carved a toy for the baby"", which word comes right before the word ""a""? A:","['Martha', 'carved', 'a', 'toy', 'for', 'the', 'baby']",carved,toy
+"Q: In the sentence ""Nobody likes us"", which word immediately precedes the word ""us""? A:","['Nobody', 'likes', 'us']",likes,likes
+"Q: In the sentence ""Ellen said that melons were selling well"", which word comes right before the word ""said""? A:","['Ellen', 'said', 'that', 'melons', 'were', 'selling', 'well']",Ellen,melons
+"Q: In the sentence ""Kim jogs over the hill"", which word comes right before the word ""jogs""? A:","['Kim', 'jogs', 'over', 'the', 'hill']",Kim,jogs
+"Q: In the sentence ""Susan whispered at Rachel"", which word comes right before the word ""whispered""? A:","['Susan', 'whispered', 'at', 'Rachel']",Susan,whispered
+"Q: Which word comes right before ""that"" in the sentence ""The press conjectured that Smith would be the appointee""? A:","['The', 'press', 'conjectured', 'that', 'Smith', 'would', 'be', 'the', 'appointee']",conjectured,conjectured
+"Q: Which word comes right before ""under"" in the sentence ""Carla mopped the floor under the furniture""? A:","['Carla', 'mopped', 'the', 'floor', 'under', 'the', 'furniture']",floor,under
+"Q: In the sentence ""That chisel carved the statue"", which word comes right before the word ""the""? A:","['That', 'chisel', 'carved', 'the', 'statue']",carved,chisel
+"Q: In the sentence ""I know the person whose mother died"", which word immediately precedes the word ""whose""? A:","['I', 'know', 'the', 'person', 'whose', 'mother', 'died']",person,whose
+"Q: Which word comes right before ""muffins"" in the sentence ""I ate deep fried muffins""? A:","['I', 'ate', 'deep', 'fried', 'muffins']",fried,deep
+"Q: In the sentence ""The report that crime was declining surprised many people"", which word immediately precedes the word ""was""? A:","['The', 'report', 'that', 'crime', 'was', 'declining', 'surprised', 'many', 'people']",crime,people
+"Q: In the sentence ""John immediately learned French perfectly"", which word comes right before the word ""French""? A:","['John', 'immediately', 'learned', 'French', 'perfectly']",learned,immediately
+"Q: In the sentence ""John left his wife"", which word immediately precedes the word ""left""? A:","['John', 'left', 'his', 'wife']",John,left
+"Q: Which word comes right before ""comfortable"" in the sentence ""The students felt comfortable in the class""? A:","['The', 'students', 'felt', 'comfortable', 'in', 'the', 'class']",felt,felt
+"Q: Which word comes right before ""can"" in the sentence ""Golfers can be good company""? A:","['Golfers', 'can', 'be', 'good', 'company']",Golfers,company
+"Q: Which word comes right before ""whose"" in the sentence ""I know the person whose mother died""? A:","['I', 'know', 'the', 'person', 'whose', 'mother', 'died']",person,know
+"Q: In the sentence ""They gave the bicycle to me"", which word immediately precedes the word ""the""? A:","['They', 'gave', 'the', 'bicycle', 'to', 'me']",gave,the
+"Q: In the sentence ""I believe there to be no way out"", which word immediately precedes the word ""out""? A:","['I', 'believe', 'there', 'to', 'be', 'no', 'way', 'out']",way,believe
+"Q: In the sentence ""This sweater washes well"", which word comes right before the word ""well""? A:","['This', 'sweater', 'washes', 'well']",washes,sweater
+"Q: Which word comes right before ""the"" in the sentence ""Carla slid those books across the table""? A:","['Carla', 'slid', 'those', 'books', 'across', 'the', 'table']",across,books
+"Q: In the sentence ""I believe strongly that the world is round"", which word comes right before the word ""is""? A:","['I', 'believe', 'strongly', 'that', 'the', 'world', 'is', 'round']",world,world
+"Q: In the sentence ""Most of the fruit is rotten"", which word immediately precedes the word ""is""? A:","['Most', 'of', 'the', 'fruit', 'is', 'rotten']",fruit,rotten
+"Q: In the sentence ""I gave John gold apples"", which word immediately precedes the word ""gold""? A:","['I', 'gave', 'John', 'gold', 'apples']",John,gold

@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: In an alphabetical order, which word comes first, ""only"" or ""noisy""? A:","['only', 'noisy']",noisy," onlyisy""? a:"
+"Q: In an alphabetical order, which word comes first, ""leather"" or ""morning""? A:","['leather', 'morning']",leather," evening meal""? a:"
+"Q: In an alphabetical order, which word comes first, ""not"" or ""mother""? A:","['not', 'mother']",mother, mother?
+"Q: In an alphabetical order, which of the words ""eye"" and ""dangerous"" comes first? A:","['eye', 'dangerous']",dangerous, eye sightless eyesight
+"Q: Of the words ""garden"" and ""fantastic"", which word comes first alphabetically? A:","['garden', 'fantastic']",fantastic, fantastic idea.
+"Q: In an alphabetical order, which word comes first, ""nice"" or ""message""? A:","['nice', 'message']",message," nice job"", ""m"
+"Q: In an alphabetical order, which word comes first, ""dress"" or ""closed""? A:","['dress', 'closed']",closed, dressage first.
+"Q: Of the words ""racket"" and ""quiet"", which word comes first alphabetically? A:","['racket', 'quiet']",quiet, racketeering is
+"Q: In an alphabetical order, which of the words ""uniform"" and ""teacher"" comes first? A:","['uniform', 'teacher']",teacher," uniform"" comes first?"
+"Q: Of the words ""cathedral"" and ""brush"", which word comes first alphabetically? A:","['cathedral', 'brush']",brush, brush is a word that
+"Q: Of the words ""clean"" and ""double"", which word comes first alphabetically? A:","['clean', 'double']",clean," clean"" and ""s"
+"Q: In an alphabetical order, which of the words ""center"" and ""dry"" comes first? A:","['center', 'dry']",center," centerpiece"" comes first"
+"Q: In an alphabetical order, which of the words ""interesting"" and ""himself"" comes first? A:","['interesting', 'himself']",himself," interestingly enough, he"
+"Q: In an alphabetical order, which word comes first, ""much"" or ""learn""? A:","['much', 'learn']",learn," learn""? a:"
+"Q: Of the words ""enough"" and ""day"", which word comes first alphabetically? A:","['enough', 'day']",day," enough of the word """
+"Q: In an alphabetical order, which of the words ""forest"" and ""gram"" comes first? A:","['forest', 'gram']",forest," forest, forest, forest"
+"Q: In an alphabetical order, which word comes first, ""kitchen"" or ""jazz""? A:","['kitchen', 'jazz']",jazz," jazz""? a:"
+"Q: In an alphabetical order, which of the words ""nationality"" and ""midnight"" comes first? A:","['nationality', 'midnight']",midnight," nationality"" comes first"
+"Q: Of the words ""drawer"" and ""eat"", which word comes first alphabetically? A:","['drawer', 'eat']",drawer," drawer"" comes first alphabet"
+"Q: Of the words ""kid"" and ""jelly"", which word comes first alphabetically? A:","['kid', 'jelly']",jelly," jellybean"" and """
+"Q: In an alphabetical order, which of the words ""melon"" and ""learn"" comes first? A:","['melon', 'learn']",learn," learn"" comes first?"
+"Q: In an alphabetical order, which of the words ""photo"" and ""on"" comes first? A:","['photo', 'on']",on," on the first word,"
+"Q: In an alphabetical order, which of the words ""quiet"" and ""record"" comes first? A:","['quiet', 'record']",quiet," quiet riot"" comes first"
+"Q: Of the words ""verb"" and ""where"", which word comes first alphabetically? A:","['verb', 'where']",verb," verb phrase ""where"""
+"Q: In an alphabetical order, which word comes first, ""mix"" or ""nobody""? A:","['mix', 'nobody']",mix," mixer""? a:"
+"Q: Of the words ""granny"" and ""her"", which word comes first alphabetically? A:","['granny', 'her']",granny, granny diary page:
+"Q: Of the words ""fork"" and ""every"", which word comes first alphabetically? A:","['fork', 'every']",every, forklift truck has a
+"Q: In an alphabetical order, which word comes first, ""uncle"" or ""verb""? A:","['uncle', 'verb']",uncle, uncle bob gave it to
+"Q: In an alphabetical order, which of the words ""teenager"" and ""under"" comes first? A:","['teenager', 'under']",teenager," teenager"" comes first"
+"Q: In an alphabetical order, which word comes first, ""cross"" or ""book""? A:","['cross', 'book']",book," crossword puzzle"" or"
+"Q: In an alphabetical order, which word comes first, ""receipt"" or ""sea""? A:","['receipt', 'sea']",receipt," sea""? a:"
+"Q: In an alphabetical order, which word comes first, ""quick"" or ""per""? A:","['quick', 'per']",per," per"" or ""s"
+"Q: In an alphabetical order, which of the words ""go"" and ""fill"" comes first? A:","['go', 'fill']",fill, filler filler fill
+"Q: Of the words ""vegetable"" and ""woman"", which word comes first alphabetically? A:","['vegetable', 'woman']",vegetable, woman:
+"Q: In an alphabetical order, which of the words ""cafeteria"" and ""blood"" comes first? A:","['cafeteria', 'blood']",blood, blood alcohol level is below
+"Q: In an alphabetical order, which of the words ""quick"" and ""remember"" comes first? A:","['quick', 'remember']",quick," remember"" comes first?"
+"Q: Of the words ""all"" and ""businessman"", which word comes first alphabetically? A:","['all', 'businessman']",all," all right, all right"
+"Q: In an alphabetical order, which of the words ""fly"" and ""geography"" comes first? A:","['fly', 'geography']",fly," flight from new york"""
+"Q: In an alphabetical order, which of the words ""collect"" and ""dressed"" comes first? A:","['collect', 'dressed']",collect, dressed dressed dressed as a
+"Q: In an alphabetical order, which word comes first, ""collect"" or ""dressed""? A:","['collect', 'dressed']",collect," dressed""? a:"
+"Q: In an alphabetical order, which of the words ""immediately"" and ""jacket"" comes first? A:","['immediately', 'jacket']",immediately," jacket"" comes first?"
+"Q: In an alphabetical order, which of the words ""park"" and ""quiet"" comes first? A:","['park', 'quiet']",park," parkin"" comes first"
+"Q: In an alphabetical order, which of the words ""kilogram"" and ""letter"" comes first? A:","['kilogram', 'letter']",kilogram," kilogram"" comes"
+"Q: In an alphabetical order, which of the words ""granny"" and ""field"" comes first? A:","['granny', 'field']",field, field goalkeepers always
+"Q: In an alphabetical order, which word comes first, ""elephant"" or ""dream""? A:","['elephant', 'dream']",dream," dream""? a:"
+"Q: In an alphabetical order, which word comes first, ""yours"" or ""zoo""? A:","['yours', 'zoo']",yours," yours is ""zoo"
+"Q: Of the words ""garlic"" and ""flower"", which word comes first alphabetically? A:","['garlic', 'flower']",flower," flower"" and ""c"
+"Q: In an alphabetical order, which of the words ""vocabulary"" and ""writing"" comes first? A:","['vocabulary', 'writing']",vocabulary," writing"" comes first?"
+"Q: Of the words ""never"" and ""musical"", which word comes first alphabetically? A:","['never', 'musical']",musical," musical composition"":"
+"Q: In an alphabetical order, which word comes first, ""space"" or ""tired""? A:","['space', 'tired']",space, space shuttlebay shut
+"Q: In an alphabetical order, which word comes first, ""closet"" or ""disco""? A:","['closet', 'disco']",closet, closet shelftop closettop
+"Q: Of the words ""beach"" and ""against"", which word comes first alphabetically? A:","['beach', 'against']",against," beachball"":"
+"Q: In an alphabetical order, which of the words ""join"" and ""improve"" comes first? A:","['join', 'improve']",improve," improve"":"
+"Q: Of the words ""worry"" and ""various"", which word comes first alphabetically? A:","['worry', 'various']",various, various words that come first
+"Q: In an alphabetical order, which of the words ""look"" and ""kite"" comes first? A:","['look', 'kite']",kite," kite"":"
+"Q: Of the words ""rent"" and ""quickly"", which word comes first alphabetically? A:","['rent', 'quickly']",quickly, quickly quickly quickly quickly quickly
+"Q: In an alphabetical order, which word comes first, ""minute"" or ""lazy""? A:","['minute', 'lazy']",lazy," lazy""? a:"
+"Q: In an alphabetical order, which of the words ""store"" and ""telephone"" comes first? A:","['store', 'telephone']",store," storeroom"":"
+"Q: Of the words ""art"" and ""bicycle"", which word comes first alphabetically? A:","['art', 'bicycle']",art," factory worker"":"
+"Q: In an alphabetical order, which word comes first, ""want"" or ""volleyball""? A:","['want', 'volleyball']",volleyball, want some popcorn?
+"Q: In an alphabetical order, which of the words ""badminton"" and ""accident"" comes first? A:","['badminton', 'accident']",accident," accidental"":"
+"Q: In an alphabetical order, which of the words ""noun"" and ""man"" comes first? A:","['noun', 'man']",man, mango is a word
+"Q: In an alphabetical order, which of the words ""some"" and ""thing"" comes first? A:","['some', 'thing']",some," things"" and ""s"
+"Q: In an alphabetical order, which of the words ""pair"" and ""often"" comes first? A:","['pair', 'often']",often," oftener, ""p"
+"Q: In an alphabetical order, which of the words ""university"" and ""tram"" comes first? A:","['university', 'tram']",tram," tramway"" comes first"
+"Q: In an alphabetical order, which word comes first, ""bear"" or ""actor""? A:","['bear', 'actor']",actor, actor?
+"Q: In an alphabetical order, which word comes first, ""interested"" or ""hockey""? A:","['interested', 'hockey']",hockey, hockey player:
+"Q: In an alphabetical order, which word comes first, ""mouse"" or ""lesson""? A:","['mouse', 'lesson']",lesson," mouse""? a:"
+"Q: In an alphabetical order, which word comes first, ""just"" or ""kitchen""? A:","['just', 'kitchen']",just, kitchen?
+"Q: In an alphabetical order, which of the words ""fork"" and ""grandson"" comes first? A:","['fork', 'grandson']",fork," forklift"" comes first"
+"Q: In an alphabetical order, which word comes first, ""use"" or ""theirs""? A:","['use', 'theirs']",theirs, theirs is the word most
+"Q: Of the words ""surfing"" and ""tea"", which word comes first alphabetically? A:","['surfing', 'tea']",surfing, surfing is a word
+"Q: Of the words ""note"" and ""ocean"", which word comes first alphabetically? A:","['note', 'ocean']",note," oceanicus"":"
+"Q: In an alphabetical order, which word comes first, ""quiz"" or ""ready""? A:","['quiz', 'ready']",quiz, quiz?
+"Q: In an alphabetical order, which of the words ""singer"" and ""than"" comes first? A:","['singer', 'than']",singer, singer:
+"Q: In an alphabetical order, which of the words ""to"" and ""uniform"" comes first? A:","['to', 'uniform']",to, uniform number:
+"Q: Of the words ""myself"" and ""now"", which word comes first alphabetically? A:","['myself', 'now']",myself," myself"" comes first alphabet"
+"Q: Of the words ""hey"" and ""gram"", which word comes first alphabetically? A:","['hey', 'gram']",gram, grammatical letter:
+"Q: Of the words ""deck"" and ""euro"", which word comes first alphabetically? A:","['deck', 'euro']",deck, deckerhouse decker
+"Q: Of the words ""kick"" and ""jelly"", which word comes first alphabetically? A:","['kick', 'jelly']",jelly," jellybean"" and """
+"Q: In an alphabetical order, which word comes first, ""some"" or ""thing""? A:","['some', 'thing']",some," something""? a:"
+"Q: In an alphabetical order, which word comes first, ""tree"" or ""some""? A:","['tree', 'some']",some, tree?
+"Q: In an alphabetical order, which of the words ""meeting"" and ""noon"" comes first? A:","['meeting', 'noon']",meeting," meeting"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""oh"" or ""pillow""? A:","['oh', 'pillow']",oh," oh, my word!"
+"Q: Of the words ""want"" and ""volleyball"", which word comes first alphabetically? A:","['want', 'volleyball']",volleyball, want a beer?
+"Q: In an alphabetical order, which of the words ""all"" and ""businessman"" comes first? A:","['all', 'businessman']",all," all right, all right"
+"Q: Of the words ""take"" and ""shop"", which word comes first alphabetically? A:","['take', 'shop']",shop, shopkeeper:
+"Q: In an alphabetical order, which word comes first, ""drawing"" or ""east""? A:","['drawing', 'east']",drawing," drawing"" or ""s"
+"Q: Of the words ""not"" and ""meal"", which word comes first alphabetically? A:","['not', 'meal']",meal," meal""? a:"
+"Q: Of the words ""keyboard"" and ""jewelry"", which word comes first alphabetically? A:","['keyboard', 'jewelry']",jewelry," jewelry, jewelry"
+"Q: In an alphabetical order, which of the words ""tall"" and ""snack"" comes first? A:","['tall', 'snack']",snack, snack snack snack snack snack
+"Q: In an alphabetical order, which word comes first, ""bedroom"" or ""cheese""? A:","['bedroom', 'cheese']",bedroom," kitchen""? a:"
+"Q: Of the words ""year"" and ""zoo"", which word comes first alphabetically? A:","['year', 'zoo']",year," year"" and ""year"
+"Q: In an alphabetical order, which word comes first, ""luck"" or ""mean""? A:","['luck', 'mean']",luck," luck""? a:"
+"Q: In an alphabetical order, which word comes first, ""university"" or ""violin""? A:","['university', 'violin']",university, university hospitality hospitality
+"Q: In an alphabetical order, which of the words ""jewelry"" and ""itself"" comes first? A:","['jewelry', 'itself']",itself," itself"" comes first?"
+"Q: Of the words ""useful"" and ""through"", which word comes first alphabetically? A:","['useful', 'through']",through," through"" is a word"
+"Q: Of the words ""cafeteria"" and ""blood"", which word comes first alphabetically? A:","['cafeteria', 'blood']",blood, blood alcohol level is below
+"Q: In an alphabetical order, which of the words ""letter"" and ""minus"" comes first? A:","['letter', 'minus']",letter," letter of the word """
+"Q: In an alphabetical order, which word comes first, ""notebook"" or ""mistake""? A:","['notebook', 'mistake']",mistake," notebook""? a:"
+"Q: Of the words ""old"" and ""never"", which word comes first alphabetically? A:","['old', 'never']",never," old english word ""old"
+"Q: In an alphabetical order, which of the words ""still"" and ""taxi"" comes first? A:","['still', 'taxi']",still," still"" comes first?"
+"Q: In an alphabetical order, which of the words ""he"" and ""including"" comes first? A:","['he', 'including']",he, including:
+"Q: In an alphabetical order, which word comes first, ""somewhere"" or ""thin""? A:","['somewhere', 'thin']",somewhere," somewhere""? a:"
+"Q: In an alphabetical order, which word comes first, ""quite"" or ""rent""? A:","['quite', 'rent']",quite, rent rented land?
+"Q: In an alphabetical order, which of the words ""add"" and ""business"" comes first? A:","['add', 'business']",add," money comes first"":"
+"Q: In an alphabetical order, which word comes first, ""language"" or ""manager""? A:","['language', 'manager']",language," language"" or ""f"
+"Q: In an alphabetical order, which of the words ""orange"" and ""partner"" comes first? A:","['orange', 'partner']",orange, orange juice or grape juice
+"Q: In an alphabetical order, which of the words ""sport"" and ""really"" comes first? A:","['sport', 'really']",really, really?
+"Q: In an alphabetical order, which word comes first, ""field"" or ""everything""? A:","['field', 'everything']",everything," everything""? a:"
+"Q: Of the words ""farmer"" and ""glass"", which word comes first alphabetically? A:","['farmer', 'glass']",farmer," glass""? a:"
+"Q: In an alphabetical order, which of the words ""dish"" and ""extra"" comes first? A:","['dish', 'extra']",dish, extra late:
+"Q: Of the words ""until"" and ""tie"", which word comes first alphabetically? A:","['until', 'tie']",tie," tie"" and ""s"
+"Q: Of the words ""still"" and ""taxi"", which word comes first alphabetically? A:","['still', 'taxi']",still," still"" comes first alphabet"
+"Q: In an alphabetical order, which of the words ""jazz"" and ""important"" comes first? A:","['jazz', 'important']",important," jazz"" comes first?"
+"Q: Of the words ""repair"" and ""queen"", which word comes first alphabetically? A:","['repair', 'queen']",queen," queen"":"
+"Q: In an alphabetical order, which of the words ""case"" and ""duck"" comes first? A:","['case', 'duck']",case," case closed"":"
+"Q: In an alphabetical order, which of the words ""kill"" and ""juice"" comes first? A:","['kill', 'juice']",juice," juice"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""deck"" or ""euro""? A:","['deck', 'euro']",deck," decker""? a:"
+"Q: In an alphabetical order, which word comes first, ""best"" or ""cheap""? A:","['best', 'cheap']",best, best word in an alphabet
+"Q: Of the words ""sugar"" and ""record"", which word comes first alphabetically? A:","['sugar', 'record']",record," radio""? a:"
+"Q: In an alphabetical order, which word comes first, ""earring"" or ""digital""? A:","['earring', 'digital']",digital," digital library"" or """
+"Q: In an alphabetical order, which of the words ""over"" and ""pop"" comes first? A:","['over', 'pop']",over," pop"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""garden"" or ""fruit""? A:","['garden', 'fruit']",fruit," gardencourt""?"
+"Q: In an alphabetical order, which word comes first, ""radio"" or ""seat""? A:","['radio', 'seat']",radio, radio station:
+"Q: Of the words ""letter"" and ""minus"", which word comes first alphabetically? A:","['letter', 'minus']",letter, letter m?
+"Q: In an alphabetical order, which word comes first, ""zoo"" or ""yeah""? A:","['zoo', 'yeah']",yeah," yeah""?"
+"Q: In an alphabetical order, which of the words ""when"" and ""vocabulary"" comes first? A:","['when', 'vocabulary']",vocabulary, when someone asks what they
+"Q: In an alphabetical order, which of the words ""hobby"" and ""gas"" comes first? A:","['hobby', 'gas']",gas, gasoline?
+"Q: In an alphabetical order, which of the words ""learn"" and ""keyboard"" comes first? A:","['learn', 'keyboard']",keyboard," learner"" comes first"
+"Q: Of the words ""zoo"" and ""yourself"", which word comes first alphabetically? A:","['zoo', 'yourself']",yourself," yourself"" comes first alphabet"
+"Q: In an alphabetical order, which word comes first, ""quick"" or ""real""? A:","['quick', 'real']",quick, quicksilver:
+"Q: In an alphabetical order, which word comes first, ""upset"" or ""trip""? A:","['upset', 'trip']",trip," trip""? a:"
+"Q: In an alphabetical order, which word comes first, ""play"" or ""queen""? A:","['play', 'queen']",play," queen""? a:"
+"Q: In an alphabetical order, which of the words ""mug"" and ""lend"" comes first? A:","['mug', 'lend']",lend," lend me your binoculars"""
+"Q: In an alphabetical order, which of the words ""quiz"" and ""real"" comes first? A:","['quiz', 'real']",quiz, quizzes are easy
+"Q: In an alphabetical order, which of the words ""our"" and ""painting"" comes first? A:","['our', 'painting']",our, our goal is to win
+"Q: In an alphabetical order, which word comes first, ""foggy"" or ""granddad""? A:","['foggy', 'granddad']",foggy," foggy dad""? a"
+"Q: In an alphabetical order, which word comes first, ""chemistry"" or ""bird""? A:","['chemistry', 'bird']",bird," bird""? a:"
+"Q: Of the words ""fire"" and ""gas"", which word comes first alphabetically? A:","['fire', 'gas']",fire," firefighter"" comes"
+"Q: Of the words ""thanks"" and ""understand"", which word comes first alphabetically? A:","['thanks', 'understand']",thanks," thanks for the advice,"
+"Q: In an alphabetical order, which word comes first, ""gas"" or ""hello""? A:","['gas', 'hello']",gas," hello""? a:"
+"Q: Of the words ""information"" and ""jacket"", which word comes first alphabetically? A:","['information', 'jacket']",information," jacket"", which word comes"
+"Q: Of the words ""useful"" and ""violin"", which word comes first alphabetically? A:","['useful', 'violin']",useful, useful pronounciation of
+"Q: Of the words ""artist"" and ""begin"", which word comes first alphabetically? A:","['artist', 'begin']",artist," artist"" and ""com"
+"Q: In an alphabetical order, which of the words ""love"" and ""kilo"" comes first? A:","['love', 'kilo']",kilo, kilo:
+"Q: Of the words ""board"" and ""ask"", which word comes first alphabetically? A:","['board', 'ask']",ask, boardwalking is a
+"Q: Of the words ""sugar"" and ""road"", which word comes first alphabetically? A:","['sugar', 'road']",road, sugarplum sandwich is
+"Q: Of the words ""drive"" and ""chair"", which word comes first alphabetically? A:","['drive', 'chair']",chair," drive"" and ""s"
+"Q: In an alphabetical order, which of the words ""interested"" and ""hockey"" comes first? A:","['interested', 'hockey']",hockey, hockey player:
+"Q: In an alphabetical order, which word comes first, ""girlfriend"" or ""fried""? A:","['girlfriend', 'fried']",fried," girlfriend""? a:"
+"Q: Of the words ""girlfriend"" and ""history"", which word comes first alphabetically? A:","['girlfriend', 'history']",girlfriend," girlfriend"":"
+"Q: In an alphabetical order, which of the words ""rabbit"" and ""quick"" comes first? A:","['rabbit', 'quick']",quick, quick rabbit quick rabbit quick
+"Q: Of the words ""today"" and ""small"", which word comes first alphabetically? A:","['today', 'small']",small, today is the day that
+"Q: In an alphabetical order, which of the words ""insect"" and ""jewelry"" comes first? A:","['insect', 'jewelry']",insect," insecticide"":"
+"Q: In an alphabetical order, which word comes first, ""geography"" or ""hers""? A:","['geography', 'hers']",geography," geography"" or ""s"
+"Q: In an alphabetical order, which of the words ""orange"" and ""nearly"" comes first? A:","['orange', 'nearly']",nearly, nearly every orange has a
+"Q: Of the words ""jeans"" and ""keyboard"", which word comes first alphabetically? A:","['jeans', 'keyboard']",jeans, keyboard?
+"Q: In an alphabetical order, which word comes first, ""certainly"" or ""directions""? A:","['certainly', 'directions']",certainly," certainly, certainly, certainly"
+"Q: Of the words ""quarter"" and ""pasta"", which word comes first alphabetically? A:","['quarter', 'pasta']",pasta, pasta is a word that
+"Q: In an alphabetical order, which word comes first, ""even"" or ""dollar""? A:","['even', 'dollar']",dollar, dollar dollar dollar dollar dollar
+"Q: In an alphabetical order, which word comes first, ""queen"" or ""perhaps""? A:","['queen', 'perhaps']",perhaps," queen of the skies""?"
+"Q: In an alphabetical order, which of the words ""friendly"" and ""excited"" comes first? A:","['friendly', 'excited']",excited," friendly"" comes first?"
+"Q: In an alphabetical order, which of the words ""disco"" and ""capital"" comes first? A:","['disco', 'capital']",capital," capital"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""onion"" or ""photography""? A:","['onion', 'photography']",onion," onion""? a:"
+"Q: In an alphabetical order, which word comes first, ""inside"" or ""job""? A:","['inside', 'job']",inside, inside an apartment building is
+"Q: In an alphabetical order, which of the words ""unfortunately"" and ""verb"" comes first? A:","['unfortunately', 'verb']",unfortunately," unfortunately, the word """
+"Q: Of the words ""ever"" and ""fit"", which word comes first alphabetically? A:","['ever', 'fit']",ever, ever since the days of
+"Q: Of the words ""spring"" and ""top"", which word comes first alphabetically? A:","['spring', 'top']",spring, springtime is the word
+"Q: In an alphabetical order, which of the words ""onion"" and ""nearly"" comes first? A:","['onion', 'nearly']",nearly," nearly every word ""on"
+"Q: Of the words ""salesperson"" and ""then"", which word comes first alphabetically? A:","['salesperson', 'then']",salesperson, salesperson:
+"Q: Of the words ""immediately"" and ""job"", which word comes first alphabetically? A:","['immediately', 'job']",immediately, job offers a solution of
+"Q: In an alphabetical order, which word comes first, ""eraser"" or ""dry""? A:","['eraser', 'dry']",dry," dry cleaner""? a:"
+"Q: In an alphabetical order, which of the words ""envelope"" and ""floor"" comes first? A:","['envelope', 'floor']",envelope," envelope"" comes first?"
+"Q: Of the words ""onion"" and ""photography"", which word comes first alphabetically? A:","['onion', 'photography']",onion, onionography:
+"Q: In an alphabetical order, which word comes first, ""part"" or ""outside""? A:","['part', 'outside']",outside," outside""? a:"
+"Q: Of the words ""love"" and ""meet"", which word comes first alphabetically? A:","['love', 'meet']",love," meet"":"
+"Q: In an alphabetical order, which word comes first, ""include"" or ""jeans""? A:","['include', 'jeans']",include, include:
+"Q: In an alphabetical order, which of the words ""various"" and ""word"" comes first? A:","['various', 'word']",various, various words and words come
+"Q: In an alphabetical order, which word comes first, ""go"" or ""fill""? A:","['go', 'fill']",fill," fill""? a:"
+"Q: In an alphabetical order, which of the words ""kilo"" and ""like"" comes first? A:","['kilo', 'like']",kilo," kilobyte"""
+"Q: Of the words ""game"" and ""find"", which word comes first alphabetically? A:","['game', 'find']",find," find"" and ""find"
+"Q: In an alphabetical order, which word comes first, ""join"" or ""kiss""? A:","['join', 'kiss']",join," join the club""? a"
+"Q: Of the words ""add"" and ""business"", which word comes first alphabetically? A:","['add', 'business']",add, business?
+"Q: In an alphabetical order, which of the words ""various"" and ""why"" comes first? A:","['various', 'why']",various, various words and words come
+"Q: In an alphabetical order, which of the words ""sunny"" and ""television"" comes first? A:","['sunny', 'television']",sunny, calendar is always sunny in
+"Q: In an alphabetical order, which of the words ""fried"" and ""gray"" comes first? A:","['fried', 'gray']",fried, fried chicken has a cream
+"Q: Of the words ""inside"" and ""hockey"", which word comes first alphabetically? A:","['inside', 'hockey']",hockey, hockey player:
+"Q: In an alphabetical order, which word comes first, ""under"" or ""too""? A:","['under', 'too']",too," too""? a:"
+"Q: In an alphabetical order, which word comes first, ""ice"" or ""hot""? A:","['ice', 'hot']",hot," hot""? a:"
+"Q: In an alphabetical order, which of the words ""empty"" and ""fresh"" comes first? A:","['empty', 'fresh']",empty," fresh air"" comes first"
+"Q: In an alphabetical order, which word comes first, ""model"" or ""lesson""? A:","['model', 'lesson']",lesson," model"" or ""s"
+"Q: In an alphabetical order, which word comes first, ""instrument"" or ""horse""? A:","['instrument', 'horse']",horse," animal""? a:"
+"Q: In an alphabetical order, which of the words ""entrance"" and ""diploma"" comes first? A:","['entrance', 'diploma']",diploma," diploma"":"
+"Q: In an alphabetical order, which word comes first, ""jewelry"" or ""in""? A:","['jewelry', 'in']",in," jewelry""? a:"
+"Q: Of the words ""friendly"" and ""entrance"", which word comes first alphabetically? A:","['friendly', 'entrance']",entrance," friendly provider"" or"
+"Q: In an alphabetical order, which of the words ""job"" and ""itself"" comes first? A:","['job', 'itself']",itself," itself"" comes first?"
+"Q: Of the words ""beginner"" and ""curtain"", which word comes first alphabetically? A:","['beginner', 'curtain']",beginner, curtain curtain curtain curtain curtain
+"Q: In an alphabetical order, which of the words ""coat"" and ""beer"" comes first? A:","['coat', 'beer']",beer," beer"" comes first?"
+"Q: In an alphabetical order, which of the words ""kilometer"" and ""jam"" comes first? A:","['kilometer', 'jam']",jam," kilometer"" comes first"
+"Q: In an alphabetical order, which word comes first, ""sometimes"" or ""rich""? A:","['sometimes', 'rich']",rich," sometimes ""rich""? a"
+"Q: In an alphabetical order, which word comes first, ""board"" or ""camp""? A:","['board', 'camp']",board," boardwalking"" or"
+"Q: In an alphabetical order, which of the words ""part"" and ""outside"" comes first? A:","['part', 'outside']",outside, outside of an alphabetical
+"Q: Of the words ""other"" and ""nearly"", which word comes first alphabetically? A:","['other', 'nearly']",nearly, nearly every word comes first
+"Q: In an alphabetical order, which word comes first, ""boring"" or ""adverb""? A:","['boring', 'adverb']",adverb," boring""? a:"
+"Q: In an alphabetical order, which word comes first, ""photographer"" or ""ocean""? A:","['photographer', 'ocean']",ocean, oceanographer:
+"Q: Of the words ""quite"" and ""rich"", which word comes first alphabetically? A:","['quite', 'rich']",quite, richter than richter
+"Q: Of the words ""vacation"" and ""unusual"", which word comes first alphabetically? A:","['vacation', 'unusual']",unusual, vacation vacation vacation vacation vacation
+"Q: In an alphabetical order, which of the words ""never"" and ""musical"" comes first? A:","['never', 'musical']",musical," never mind"" comes first"
+"Q: Of the words ""fishing"" and ""electric"", which word comes first alphabetically? A:","['fishing', 'electric']",electric, electric fishing rod is a
+"Q: Of the words ""sport"" and ""really"", which word comes first alphabetically? A:","['sport', 'really']",really, sportive sportive sport
+"Q: In an alphabetical order, which word comes first, ""end"" or ""first""? A:","['end', 'first']",end," end of the word """
+"Q: In an alphabetical order, which word comes first, ""snow"" or ""restroom""? A:","['snow', 'restroom']",restroom," snowball"" or """
+"Q: Of the words ""printer"" and ""of"", which word comes first alphabetically? A:","['printer', 'of']",of," of the words ""of"
+"Q: In an alphabetical order, which of the words ""play"" and ""queen"" comes first? A:","['play', 'queen']",play," queen of the night"""
+"Q: In an alphabetical order, which of the words ""never"" and ""meat"" comes first? A:","['never', 'meat']",meat," meat"" comes first?"
+"Q: In an alphabetical order, which of the words ""bother"" and ""another"" comes first? A:","['bother', 'another']",another, another word:
+"Q: In an alphabetical order, which of the words ""year"" and ""zoo"" comes first? A:","['year', 'zoo']",year," year"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""cleaner"" or ""dear""? A:","['cleaner', 'dear']",cleaner," cleaner""? a:"
+"Q: Of the words ""finally"" and ""eye"", which word comes first alphabetically? A:","['finally', 'eye']",eye," eyebrow"" and"
+"Q: In an alphabetical order, which word comes first, ""tall"" or ""snack""? A:","['tall', 'snack']",snack," snack""? a:"
+"Q: In an alphabetical order, which word comes first, ""never"" or ""musical""? A:","['never', 'musical']",musical," never mind"":"
+"Q: In an alphabetical order, which of the words ""surprise"" and ""temperature"" comes first? A:","['surprise', 'temperature']",surprise, attention:
+"Q: Of the words ""zoo"" and ""yeah"", which word comes first alphabetically? A:","['zoo', 'yeah']",yeah," yeah"" or ""yeah"
+"Q: In an alphabetical order, which word comes first, ""including"" or ""hand""? A:","['including', 'hand']",hand," hand""? a:"
+"Q: In an alphabetical order, which of the words ""jazz"" and ""kill"" comes first? A:","['jazz', 'kill']",jazz," jazz"" comes first?"
+"Q: In an alphabetical order, which of the words ""skateboarding"" and ""remember"" comes first? A:","['skateboarding', 'remember']",remember," skateboarding"" comes"
+"Q: Of the words ""normal"" and ""miss"", which word comes first alphabetically? A:","['normal', 'miss']",miss, normal person is normal?
+"Q: In an alphabetical order, which word comes first, ""itself"" or ""jazz""? A:","['itself', 'jazz']",itself," itself""? a:"
+"Q: In an alphabetical order, which of the words ""level"" and ""knife"" comes first? A:","['level', 'knife']",knife," knife forklift"":"
+"Q: In an alphabetical order, which word comes first, ""message"" or ""low""? A:","['message', 'low']",low, mouse ranch?
+"Q: In an alphabetical order, which word comes first, ""include"" or ""headache""? A:","['include', 'headache']",headache, headache is a word that
+"Q: Of the words ""pencil"" and ""quarter"", which word comes first alphabetically? A:","['pencil', 'quarter']",pencil," pencilcil"" and """
+"Q: In an alphabetical order, which of the words ""clean"" and ""double"" comes first? A:","['clean', 'double']",clean," clean"" comes first?"
+"Q: In an alphabetical order, which of the words ""easily"" and ""dirty"" comes first? A:","['easily', 'dirty']",dirty, dirty dirty dirty dirty dirty
+"Q: In an alphabetical order, which word comes first, ""melon"" or ""learn""? A:","['melon', 'learn']",learn," learn""? a:"
+"Q: In an alphabetical order, which of the words ""book"" and ""angry"" comes first? A:","['book', 'angry']",angry," angry"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""person"" or ""quiet""? A:","['person', 'quiet']",person, person who speaks english is
+"Q: Of the words ""happen"" and ""including"", which word comes first alphabetically? A:","['happen', 'including']",happen, including:
+"Q: In an alphabetical order, which of the words ""plastic"" and ""quiz"" comes first? A:","['plastic', 'quiz']",plastic," plastic sheet"":"
+"Q: Of the words ""nationality"" and ""midnight"", which word comes first alphabetically? A:","['nationality', 'midnight']",midnight," nationality""? a:"
+"Q: In an alphabetical order, which of the words ""not"" and ""mother"" comes first? A:","['not', 'mother']",mother, mother:
+"Q: Of the words ""downtown"" and ""easy"", which word comes first alphabetically? A:","['downtown', 'easy']",downtown, downtown downtown downtown downtown downtown
+"Q: In an alphabetical order, which word comes first, ""no"" or ""mother""? A:","['no', 'mother']",mother," no, no, no"
+"Q: In an alphabetical order, which of the words ""run"" and ""sister"" comes first? A:","['run', 'sister']",run, run to the store quickly
+"Q: In an alphabetical order, which of the words ""shirt"" and ""restaurant"" comes first? A:","['shirt', 'restaurant']",restaurant, restaurant restaurant restaurant restaurant restaurant
+"Q: In an alphabetical order, which word comes first, ""letter"" or ""minus""? A:","['letter', 'minus']",letter, letter m?
+"Q: In an alphabetical order, which of the words ""eat"" and ""desk"" comes first? A:","['eat', 'desk']",desk," desktop"":"
+"Q: In an alphabetical order, which of the words ""keyboard"" and ""jewelry"" comes first? A:","['keyboard', 'jewelry']",jewelry," jewelry"" comes first"
+"Q: Of the words ""meter"" and ""noon"", which word comes first alphabetically? A:","['meter', 'noon']",meter, morning.
+"Q: In an alphabetical order, which word comes first, ""number"" or ""married""? A:","['number', 'married']",married, married:
+"Q: In an alphabetical order, which word comes first, ""hiking"" or ""identification""? A:","['hiking', 'identification']",hiking, hiking is a special
+"Q: In an alphabetical order, which of the words ""old"" and ""never"" comes first? A:","['old', 'never']",never, old macdonald had a farm
+"Q: In an alphabetical order, which word comes first, ""fantastic"" or ""golden""? A:","['fantastic', 'golden']",fantastic," fantastic idea""? a:"
+"Q: Of the words ""ocean"" and ""nurse"", which word comes first alphabetically? A:","['ocean', 'nurse']",nurse," nursemaiden"":"
+"Q: Of the words ""dad"" and ""especially"", which word comes first alphabetically? A:","['dad', 'especially']",dad, especially when it comes first
+"Q: In an alphabetical order, which word comes first, ""dinosaur"" or ""cow""? A:","['dinosaur', 'cow']",cow," dinosaur""? a:"
+"Q: Of the words ""lemon"" and ""know"", which word comes first alphabetically? A:","['lemon', 'know']",know, lemon meringue mel
+"Q: Of the words ""question"" and ""room"", which word comes first alphabetically? A:","['question', 'room']",question, question markers are easy
+"Q: Of the words ""example"" and ""dry"", which word comes first alphabetically? A:","['example', 'dry']",dry, dryade runner runner runner
+"Q: In an alphabetical order, which word comes first, ""from"" or ""great""? A:","['from', 'great']",from," great""? a:"
+"Q: In an alphabetical order, which word comes first, ""negative"" or ""ourselves""? A:","['negative', 'ourselves']",negative," ourselves""? a:"
+"Q: In an alphabetical order, which of the words ""field"" and ""elevator"" comes first? A:","['field', 'elevator']",elevator, field trip to the library
+"Q: In an alphabetical order, which word comes first, ""rock"" or ""quarter""? A:","['rock', 'quarter']",quarter, rocketship number one
+"Q: In an alphabetical order, which of the words ""president"" and ""quite"" comes first? A:","['president', 'quite']",president, president of the united states
+"Q: Of the words ""leather"" and ""morning"", which word comes first alphabetically? A:","['leather', 'morning']",leather, evening mealtime.
+"Q: Of the words ""quickly"" and ""picnic"", which word comes first alphabetically? A:","['quickly', 'picnic']",picnic, quickly quickly quickly quickly quickly
+"Q: Of the words ""twice"" and ""show"", which word comes first alphabetically? A:","['twice', 'show']",show," show"" is a word"
+"Q: Of the words ""minus"" and ""light"", which word comes first alphabetically? A:","['minus', 'light']",light, light which word comes first
+"Q: In an alphabetical order, which of the words ""uniform"" and ""tea"" comes first? A:","['uniform', 'tea']",tea," teabags"" comes"
+"Q: In an alphabetical order, which word comes first, ""sugar"" or ""record""? A:","['sugar', 'record']",record," radio""? a:"
+"Q: In an alphabetical order, which word comes first, ""barbecue"" or ""close""? A:","['barbecue', 'close']",barbecue," barbecue sauce""? a"
+"Q: Of the words ""gas"" and ""hello"", which word comes first alphabetically? A:","['gas', 'hello']",gas, hello?
+"Q: In an alphabetical order, which of the words ""blouse"" and ""alcohol"" comes first? A:","['blouse', 'alcohol']",alcohol, blouse:
+"Q: In an alphabetical order, which word comes first, ""lake"" or ""more""? A:","['lake', 'more']",lake, lake is a lake in
+"Q: In an alphabetical order, which word comes first, ""document"" or ""exam""? A:","['document', 'exam']",document, documentation documentation document
+"Q: Of the words ""learn"" and ""keyboard"", which word comes first alphabetically? A:","['learn', 'keyboard']",keyboard, learn keyboard?
+"Q: In an alphabetical order, which word comes first, ""printer"" or ""of""? A:","['printer', 'of']",of," of""? a:"
+"Q: In an alphabetical order, which of the words ""homework"" and ""its"" comes first? A:","['homework', 'its']",homework," homework"" comes first?"
+"Q: In an alphabetical order, which of the words ""printer"" and ""question"" comes first? A:","['printer', 'question']",printer," questionnaire"" comes"
+"Q: In an alphabetical order, which word comes first, ""fish"" or ""grape""? A:","['fish', 'grape']",fish, fishbonehead fishhead
+"Q: In an alphabetical order, which of the words ""language"" and ""manager"" comes first? A:","['language', 'manager']",language," language"" comes first?"
+"Q: In an alphabetical order, which of the words ""chocolate"" and ""disco"" comes first? A:","['chocolate', 'disco']",chocolate, chocolate factory is a factory
+"Q: In an alphabetical order, which of the words ""digital"" and ""example"" comes first? A:","['digital', 'example']",digital," digital library"":"
+"Q: In an alphabetical order, which of the words ""comfortable"" and ""document"" comes first? A:","['comfortable', 'document']",comfortable," documentable"":"
+"Q: In an alphabetical order, which word comes first, ""chess"" or ""downstairs""? A:","['chess', 'downstairs']",chess," chess club"" or """
+"Q: In an alphabetical order, which of the words ""downtown"" and ""easy"" comes first? A:","['downtown', 'easy']",downtown, downtown downtown downtown downtown downtown
+"Q: Of the words ""further"" and ""exercise"", which word comes first alphabetically? A:","['further', 'exercise']",exercise," exercise""? a:"
+"Q: In an alphabetical order, which of the words ""full"" and ""elevator"" comes first? A:","['full', 'elevator']",elevator, full stop is a word
+"Q: In an alphabetical order, which of the words ""traffic"" and ""supper"" comes first? A:","['traffic', 'supper']",supper," taxi fare ticket"":"
+"Q: Of the words ""quiz"" and ""paper"", which word comes first alphabetically? A:","['quiz', 'paper']",paper," paper"":"
+"Q: Of the words ""out"" and ""need"", which word comes first alphabetically? A:","['out', 'need']",need, out of the questionna
+"Q: In an alphabetical order, which word comes first, ""kilogram"" or ""letter""? A:","['kilogram', 'letter']",kilogram," kilogram""? a"
+"Q: In an alphabetical order, which word comes first, ""health"" or ""international""? A:","['health', 'international']",health, national healthcare provider
+"Q: In an alphabetical order, which word comes first, ""mug"" or ""lend""? A:","['mug', 'lend']",lend," lend""? a:"
+"Q: Of the words ""juice"" and ""kid"", which word comes first alphabetically? A:","['juice', 'kid']",juice, kidney disease is a
+"Q: In an alphabetical order, which of the words ""take"" and ""supper"" comes first? A:","['take', 'supper']",supper, take a shower first.
+"Q: Of the words ""cross"" and ""dress"", which word comes first alphabetically? A:","['cross', 'dress']",cross, dress is a word that
+"Q: Of the words ""before"" and ""anyway"", which word comes first alphabetically? A:","['before', 'anyway']",anyway," before"":"
+"Q: In an alphabetical order, which of the words ""lunchtime"" and ""kite"" comes first? A:","['lunchtime', 'kite']",kite," kite time"" comes first"
+"Q: In an alphabetical order, which of the words ""now"" and ""myself"" comes first? A:","['now', 'myself']",myself," myself"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""quite"" or ""rich""? A:","['quite', 'rich']",quite, richter:
+"Q: In an alphabetical order, which of the words ""kitchen"" and ""jazz"" comes first? A:","['kitchen', 'jazz']",jazz," jazz"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""very"" or ""want""? A:","['very', 'want']",very," want""? a:"
+"Q: Of the words ""lion"" and ""magic"", which word comes first alphabetically? A:","['lion', 'magic']",lion," magic word ""magic"
+"Q: In an alphabetical order, which of the words ""discuss"" and ""evening"" comes first? A:","['discuss', 'evening']",discuss," evening mealtime"":"
+"Q: In an alphabetical order, which word comes first, ""yet"" or ""zoo""? A:","['yet', 'zoo']",yet," yet"":"
+"Q: In an alphabetical order, which word comes first, ""exercise"" or ""forget""? A:","['exercise', 'forget']",exercise," exercise""? a:"
+"Q: In an alphabetical order, which word comes first, ""once"" or ""plane""? A:","['once', 'plane']",once, plane crash accidentally broke down
+"Q: In an alphabetical order, which of the words ""include"" and ""happen"" comes first? A:","['include', 'happen']",happen, include:
+"Q: In an alphabetical order, which of the words ""myself"" and ""now"" comes first? A:","['myself', 'now']",myself," myself"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""noisy"" or ""on""? A:","['noisy', 'on']",noisy," on""?"
+"Q: In an alphabetical order, which of the words ""oil"" and ""plant"" comes first? A:","['oil', 'plant']",oil," oil and vinegar"""
+"Q: Of the words ""century"" and ""daily"", which word comes first alphabetically? A:","['century', 'daily']",century, century ago when the word
+"Q: In an alphabetical order, which word comes first, ""blouse"" or ""alcohol""? A:","['blouse', 'alcohol']",alcohol, blouse.
+"Q: Of the words ""more"" and ""need"", which word comes first alphabetically? A:","['more', 'need']",more," more commonly, ""more"
+"Q: In an alphabetical order, which of the words ""once"" and ""near"" comes first? A:","['once', 'near']",near," near"" comes first?"
+"Q: Of the words ""itself"" and ""just"", which word comes first alphabetically? A:","['itself', 'just']",itself, itself included in the word
+"Q: In an alphabetical order, which word comes first, ""quickly"" or ""receipt""? A:","['quickly', 'receipt']",quickly," quickly""? a:"
+"Q: In an alphabetical order, which word comes first, ""shout"" or ""toilet""? A:","['shout', 'toilet']",shout," shout ""shout""?"
+"Q: In an alphabetical order, which word comes first, ""field"" or ""elevator""? A:","['field', 'elevator']",elevator, field trip?
+"Q: In an alphabetical order, which of the words ""noise"" and ""offer"" comes first? A:","['noise', 'offer']",noise," noise"" comes first?"
+"Q: Of the words ""quickly"" and ""ride"", which word comes first alphabetically? A:","['quickly', 'ride']",quickly," quicklyride"" or """
+"Q: Of the words ""evening"" and ""drive"", which word comes first alphabetically? A:","['evening', 'drive']",drive," drive"" and ""s"
+"Q: In an alphabetical order, which word comes first, ""angry"" or ""building""? A:","['angry', 'building']",angry," building""? a:"
+"Q: In an alphabetical order, which word comes first, ""visitor"" or ""university""? A:","['visitor', 'university']",university, university hospitality hospitality
+"Q: In an alphabetical order, which of the words ""dessert"" and ""every"" comes first? A:","['dessert', 'every']",dessert, dessert dessert dessert dessert dessert
+"Q: Of the words ""various"" and ""why"", which word comes first alphabetically? A:","['various', 'why']",various, various words that end with
+"Q: Of the words ""number"" and ""mine"", which word comes first alphabetically? A:","['number', 'mine']",mine," mine"" comes first alphabet"
+"Q: Of the words ""eye"" and ""fresh"", which word comes first alphabetically? A:","['eye', 'fresh']",eye," eyebrow"" and"
+"Q: In an alphabetical order, which of the words ""jacket"" and ""keep"" comes first? A:","['jacket', 'keep']",jacket," jacket"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""over"" or ""perfect""? A:","['over', 'perfect']",over," overnight""? a:"
+"Q: In an alphabetical order, which word comes first, ""different"" or ""clean""? A:","['different', 'clean']",clean," differentiate""? a"
+"Q: In an alphabetical order, which word comes first, ""foot"" or ""exciting""? A:","['foot', 'exciting']",exciting," exciting""? a:"
+"Q: In an alphabetical order, which word comes first, ""singer"" or ""than""? A:","['singer', 'than']",singer," than"" or ""sing"
+"Q: Of the words ""jacket"" and ""into"", which word comes first alphabetically? A:","['jacket', 'into']",into," jacket on the coat"","
+"Q: Of the words ""drawing"" and ""east"", which word comes first alphabetically? A:","['drawing', 'east']",drawing," drawing"" and ""drawing"
+"Q: In an alphabetical order, which word comes first, ""screen"" or ""rat""? A:","['screen', 'rat']",rat," screenplay"" or """
+"Q: Of the words ""earring"" and ""digital"", which word comes first alphabetically? A:","['earring', 'digital']",digital," digital library"":"
+"Q: In an alphabetical order, which word comes first, ""grape"" or ""history""? A:","['grape', 'history']",grape," grapefruit"""
+"Q: Of the words ""on"" and ""never"", which word comes first alphabetically? A:","['on', 'never']",never," never"" and ""never"
+"Q: In an alphabetical order, which of the words ""reason"" and ""quite"" comes first? A:","['reason', 'quite']",quite, reasonably reasonably reason
+"Q: In an alphabetical order, which word comes first, ""of"" or ""picture""? A:","['of', 'picture']",of, picture of a girl in
+"Q: Of the words ""many"" and ""not"", which word comes first alphabetically? A:","['many', 'not']",many, many people say that many
+"Q: In an alphabetical order, which of the words ""find"" and ""great"" comes first? A:","['find', 'great']",find," great idea"" comes first"
+"Q: In an alphabetical order, which word comes first, ""anymore"" or ""best""? A:","['anymore', 'best']",anymore, anymore?
+"Q: Of the words ""jelly"" and ""king"", which word comes first alphabetically? A:","['jelly', 'king']",jelly," jellybean"" and """
+"Q: In an alphabetical order, which of the words ""graduate"" and ""heat"" comes first? A:","['graduate', 'heat']",graduate," graduate degree"" comes first"
+"Q: In an alphabetical order, which word comes first, ""find"" or ""great""? A:","['find', 'great']",find," great""? a:"
+"Q: In an alphabetical order, which of the words ""dress"" and ""closed"" comes first? A:","['dress', 'closed']",closed, dressage first.
+"Q: In an alphabetical order, which word comes first, ""yeah"" or ""zoo""? A:","['yeah', 'zoo']",yeah," yeah, yeah, yeah"
+"Q: Of the words ""yogurt"" and ""zoo"", which word comes first alphabetically? A:","['yogurt', 'zoo']",yogurt, yogurt?
+"Q: In an alphabetical order, which of the words ""honey"" and ""grandpa"" comes first? A:","['honey', 'grandpa']",grandpa, honeynut butter cookies first
+"Q: Of the words ""itself"" and ""jazz"", which word comes first alphabetically? A:","['itself', 'jazz']",itself," itself included the word """
+"Q: Of the words ""even"" and ""dollar"", which word comes first alphabetically? A:","['even', 'dollar']",dollar, dollar dollar dollar dollar dollar
+"Q: In an alphabetical order, which of the words ""bed"" and ""anybody"" comes first? A:","['bed', 'anybody']",anybody, anybody who has a bed
+"Q: Of the words ""badminton"" and ""accident"", which word comes first alphabetically? A:","['badminton', 'accident']",accident, accidental accidental accident
+"Q: In an alphabetical order, which of the words ""girlfriend"" and ""fried"" comes first? A:","['girlfriend', 'fried']",fried," girlfriend"" comes first?"
+"Q: Of the words ""manager"" and ""list"", which word comes first alphabetically? A:","['manager', 'list']",list, list of words which word
+"Q: In an alphabetical order, which word comes first, ""information"" or ""himself""? A:","['information', 'himself']",himself," himself""? a:"
+"Q: Of the words ""loud"" and ""mother"", which word comes first alphabetically? A:","['loud', 'mother']",loud," mother"" and ""mother"
+"Q: Of the words ""fail"" and ""elephant"", which word comes first alphabetically? A:","['fail', 'elephant']",elephant, elephant is a word that
+"Q: In an alphabetical order, which word comes first, ""wool"" or ""various""? A:","['wool', 'various']",various, various things happen in an
+"Q: In an alphabetical order, which of the words ""restaurant"" and ""ship"" comes first? A:","['restaurant', 'ship']",restaurant, shipyard treasure trove
+"Q: In an alphabetical order, which of the words ""bring"" and ""candy"" comes first? A:","['bring', 'candy']",bring," bring it to me"""
+"Q: In an alphabetical order, which of the words ""hotel"" and ""grandchild"" comes first? A:","['hotel', 'grandchild']",grandchild," grandchild"" comes first"
+"Q: In an alphabetical order, which word comes first, ""catch"" or ""beach""? A:","['catch', 'beach']",beach," beachball"" or """
+"Q: In an alphabetical order, which word comes first, ""board"" or ""cartoon""? A:","['board', 'cartoon']",board," boardwalking"" or"
+"Q: In an alphabetical order, which word comes first, ""diary"" or ""entrance""? A:","['diary', 'entrance']",diary," diary of the week"""
+"Q: Of the words ""those"" and ""shampoo"", which word comes first alphabetically? A:","['those', 'shampoo']",shampoo, shampoo shampoo shampoo shampoo shampoo
+"Q: In an alphabetical order, which of the words ""away"" and ""bird"" comes first? A:","['away', 'bird']",away," away"" comes first?"
+"Q: In an alphabetical order, which of the words ""meter"" and ""noon"" comes first? A:","['meter', 'noon']",meter," afternoon session"" comes first"
+"Q: In an alphabetical order, which word comes first, ""note"" or ""ocean""? A:","['note', 'ocean']",note, oceanic oceanic ocean
+"Q: In an alphabetical order, which word comes first, ""enough"" or ""day""? A:","['enough', 'day']",day, enough?
+"Q: In an alphabetical order, which of the words ""kilogram"" and ""jelly"" comes first? A:","['kilogram', 'jelly']",jelly," jellybean"" comes first"
+"Q: In an alphabetical order, which word comes first, ""last"" or ""keyboard""? A:","['last', 'keyboard']",keyboard, keyboard?
+"Q: In an alphabetical order, which word comes first, ""sunny"" or ""red""? A:","['sunny', 'red']",red, red is a word that
+"Q: In an alphabetical order, which word comes first, ""nice"" or ""only""? A:","['nice', 'only']",nice," nice job""? a:"
+"Q: In an alphabetical order, which of the words ""pants"" and ""only"" comes first? A:","['pants', 'only']",only, pants are easy to put
+"Q: In an alphabetical order, which word comes first, ""friendly"" or ""entrance""? A:","['friendly', 'entrance']",entrance," friendly""? a:"
+"Q: In an alphabetical order, which of the words ""vocabulary"" and ""week"" comes first? A:","['vocabulary', 'week']",vocabulary, vocabulary is a word
+"Q: Of the words ""mix"" and ""notebook"", which word comes first alphabetically? A:","['mix', 'notebook']",mix," mixer rhymes with """
+"Q: In an alphabetical order, which of the words ""note"" and ""mad"" comes first? A:","['note', 'mad']",mad," madman"" comes first"
+"Q: In an alphabetical order, which of the words ""receptionist"" and ""soft"" comes first? A:","['receptionist', 'soft']",receptionist, artistically designated artist
+"Q: In an alphabetical order, which of the words ""prefer"" and ""office"" comes first? A:","['prefer', 'office']",office, office of office of office
+"Q: Of the words ""customer"" and ""bike"", which word comes first alphabetically? A:","['customer', 'bike']",bike," customer"":"
+"Q: In an alphabetical order, which word comes first, ""empty"" or ""fresh""? A:","['empty', 'fresh']",empty," fresh air""? a:"
+"Q: In an alphabetical order, which of the words ""dollar"" and ""cheap"" comes first? A:","['dollar', 'cheap']",cheap," dollar checkpoint"" comes"
+"Q: In an alphabetical order, which of the words ""once"" and ""national"" comes first? A:","['once', 'national']",national," nationality"" comes first"
+"Q: In an alphabetical order, which word comes first, ""sunny"" or ""television""? A:","['sunny', 'television']",sunny, calendar?
+"Q: Of the words ""teacher"" and ""schoolchild"", which word comes first alphabetically? A:","['teacher', 'schoolchild']",schoolchild, teacher?
+"Q: In an alphabetical order, which word comes first, ""closed"" or ""brown""? A:","['closed', 'brown']",brown," brown""? a:"
+"Q: In an alphabetical order, which word comes first, ""text"" or ""slowly""? A:","['text', 'slowly']",slowly," slowly"" or ""s"
+"Q: In an alphabetical order, which word comes first, ""juice"" or ""idea""? A:","['juice', 'idea']",idea," juice of juice""? a"
+"Q: Of the words ""umbrella"" and ""text"", which word comes first alphabetically? A:","['umbrella', 'text']",text, umbrella.
+"Q: In an alphabetical order, which word comes first, ""skateboarding"" or ""running""? A:","['skateboarding', 'running']",running," running""? a:"
+"Q: In an alphabetical order, which of the words ""including"" and ""jam"" comes first? A:","['including', 'jam']",including, jammies on the right
+"Q: In an alphabetical order, which of the words ""king"" and ""job"" comes first? A:","['king', 'job']",job, job is a job that
+"Q: In an alphabetical order, which of the words ""question"" and ""policeman"" comes first? A:","['question', 'policeman']",policeman, policeman:
+"Q: Of the words ""hope"" and ""it"", which word comes first alphabetically? A:","['hope', 'it']",hope, hopeful birthday presentation
+"Q: In an alphabetical order, which of the words ""themselves"" and ""seat"" comes first? A:","['themselves', 'seat']",seat," seatbelt"" comes first"
+"Q: Of the words ""father"" and ""everyone"", which word comes first alphabetically? A:","['father', 'everyone']",everyone, father always asks for a
+"Q: In an alphabetical order, which word comes first, ""must"" or ""notes""? A:","['must', 'notes']",must, mustache?
+"Q: Of the words ""egg"" and ""disco"", which word comes first alphabetically? A:","['egg', 'disco']",disco, discography.
+"Q: Of the words ""teenager"" and ""usually"", which word comes first alphabetically? A:","['teenager', 'usually']",teenager," teenager"" and """
+"Q: In an alphabetical order, which word comes first, ""quarter"" or ""remember""? A:","['quarter', 'remember']",quarter," quarter past""? a:"
+"Q: In an alphabetical order, which of the words ""advice"" and ""by"" comes first? A:","['advice', 'by']",advice, advice:
+"Q: Of the words ""angry"" and ""building"", which word comes first alphabetically? A:","['angry', 'building']",angry, angry words:
+"Q: In an alphabetical order, which of the words ""thunderstorm"" and ""up"" comes first? A:","['thunderstorm', 'up']",thunderstorm," up"" comes first?"
+"Q: Of the words ""bridge"" and ""another"", which word comes first alphabetically? A:","['bridge', 'another']",another," another word for ""bridge"
+"Q: In an alphabetical order, which word comes first, ""ever"" or ""fit""? A:","['ever', 'fit']",ever," ever"" or ""s"
+"Q: In an alphabetical order, which of the words ""excited"" and ""forget"" comes first? A:","['excited', 'forget']",excited," forgettable"":"
+"Q: In an alphabetical order, which word comes first, ""boss"" or ""church""? A:","['boss', 'church']",boss, church?
+"Q: In an alphabetical order, which of the words ""worry"" and ""vacation"" comes first? A:","['worry', 'vacation']",vacation, vacation vacation vacation vacation vacation
+"Q: In an alphabetical order, which of the words ""businessman"" and ""candy"" comes first? A:","['businessman', 'candy']",businessman," candyman"" comes first"
+"Q: In an alphabetical order, which word comes first, ""instrument"" or ""jelly""? A:","['instrument', 'jelly']",instrument," jellybean""? a:"
+"Q: In an alphabetical order, which word comes first, ""cabinet"" or ""danger""? A:","['cabinet', 'danger']",cabinet," cabinet""? a:"
+"Q: In an alphabetical order, which of the words ""beach"" and ""against"" comes first? A:","['beach', 'against']",against," beachball"" comes first"
+"Q: In an alphabetical order, which word comes first, ""century"" or ""doll""? A:","['century', 'doll']",century," century ago""? a:"
+"Q: In an alphabetical order, which of the words ""digital"" and ""cabinet"" comes first? A:","['digital', 'cabinet']",cabinet," cabinet"":"
+"Q: In an alphabetical order, which of the words ""kind"" and ""jeans"" comes first? A:","['kind', 'jeans']",jeans, jeans are easy to borrow
+"Q: Of the words ""neck"" and ""online"", which word comes first alphabetically? A:","['neck', 'online']",neck," necktie and ""m"
+"Q: In an alphabetical order, which word comes first, ""inside"" or ""hockey""? A:","['inside', 'hockey']",hockey, hockey player:
+"Q: In an alphabetical order, which word comes first, ""never"" or ""meat""? A:","['never', 'meat']",meat," meat"" or ""m"
+"Q: In an alphabetical order, which of the words ""quarter"" and ""pasta"" comes first? A:","['quarter', 'pasta']",pasta," pasta souvenir"""
+"Q: In an alphabetical order, which of the words ""birthday"" and ""cap"" comes first? A:","['birthday', 'cap']",birthday," birthday presentation"" comes"
+"Q: In an alphabetical order, which of the words ""idea"" and ""jam"" comes first? A:","['idea', 'jam']",idea," jam"" comes first?"
+"Q: In an alphabetical order, which of the words ""tonight"" and ""snowboarding"" comes first? A:","['tonight', 'snowboarding']",snowboarding," snowboarding"" comes"
+"Q: In an alphabetical order, which of the words ""tomato"" and ""unfortunately"" comes first? A:","['tomato', 'unfortunately']",tomato," tomato sauce"" comes first"
+"Q: In an alphabetical order, which of the words ""upstairs"" and ""together"" comes first? A:","['upstairs', 'together']",together," together"" comes first?"
+"Q: Of the words ""anymore"" and ""best"", which word comes first alphabetically? A:","['anymore', 'best']",anymore, anymore? a:
+"Q: In an alphabetical order, which of the words ""nice"" and ""off"" comes first? A:","['nice', 'off']",nice," nice job"":"
+"Q: Of the words ""quick"" and ""rap"", which word comes first alphabetically? A:","['quick', 'rap']",quick, rap is a word which
+"Q: In an alphabetical order, which word comes first, ""fried"" or ""gray""? A:","['fried', 'gray']",fried, fried chicken has a mel
+"Q: In an alphabetical order, which word comes first, ""normal"" or ""miss""? A:","['normal', 'miss']",miss," normal person is normal""?"
+"Q: In an alphabetical order, which word comes first, ""quarter"" or ""plus""? A:","['quarter', 'plus']",plus, quarter?
+"Q: In an alphabetical order, which word comes first, ""yellow"" or ""zoo""? A:","['yellow', 'zoo']",yellow," yellow sweater or ""z"
+"Q: In an alphabetical order, which word comes first, ""lose"" or ""knife""? A:","['lose', 'knife']",knife," knife blade"" or """
+"Q: Of the words ""handball"" and ""game"", which word comes first alphabetically? A:","['handball', 'game']",game, handball:
+"Q: In an alphabetical order, which of the words ""video"" and ""until"" comes first? A:","['video', 'until']",until," video game"":"
+"Q: In an alphabetical order, which of the words ""gold"" and ""fun"" comes first? A:","['gold', 'fun']",fun," fun"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""unusual"" or ""vocabulary""? A:","['unusual', 'vocabulary']",unusual, vocabulary is a word
+"Q: Of the words ""postcard"" and ""quite"", which word comes first alphabetically? A:","['postcard', 'quite']",postcard, postcard and postcard
+"Q: In an alphabetical order, which word comes first, ""juice"" or ""kid""? A:","['juice', 'kid']",juice, juice juice juice juice juice
+"Q: Of the words ""kilometer"" and ""jam"", which word comes first alphabetically? A:","['kilometer', 'jam']",jam," kilometer"" or """
+"Q: In an alphabetical order, which of the words ""fail"" and ""elephant"" comes first? A:","['fail', 'elephant']",elephant," failures"" and """
+"Q: Of the words ""quarter"" and ""rest"", which word comes first alphabetically? A:","['quarter', 'rest']",quarter," quarter of the word """
+"Q: Of the words ""note"" and ""mad"", which word comes first alphabetically? A:","['note', 'mad']",mad, mad is a word that
+"Q: In an alphabetical order, which of the words ""evening"" and ""drive"" comes first? A:","['evening', 'drive']",drive," drive"" comes first?"
+"Q: Of the words ""grandchild"" and ""half"", which word comes first alphabetically? A:","['grandchild', 'half']",grandchild, childernessemble
+"Q: Of the words ""use"" and ""vacation"", which word comes first alphabetically? A:","['use', 'vacation']",use," use the word ""use"
+"Q: In an alphabetical order, which word comes first, ""language"" or ""matter""? A:","['language', 'matter']",language," language"" or ""f"
+"Q: Of the words ""cut"" and ""broken"", which word comes first alphabetically? A:","['cut', 'broken']",broken, broken is a word that
+"Q: In an alphabetical order, which word comes first, ""keyboard"" or ""jelly""? A:","['keyboard', 'jelly']",jelly," jellybean""? a:"
+"Q: In an alphabetical order, which word comes first, ""library"" or ""kid""? A:","['library', 'kid']",kid, kidney disease?
+"Q: In an alphabetical order, which of the words ""keep"" and ""lost"" comes first? A:","['keep', 'lost']",keep," keep it safe"":"
+"Q: In an alphabetical order, which word comes first, ""soup"" or ""receipt""? A:","['soup', 'receipt']",receipt,"oupolisquado"""
+"Q: In an alphabetical order, which of the words ""zoo"" and ""yesterday"" comes first? A:","['zoo', 'yesterday']",yesterday," yesterday afternoon, when we"
+"Q: In an alphabetical order, which of the words ""sometimes"" and ""rest"" comes first? A:","['sometimes', 'rest']",rest," sometimes"" comes first?"
+"Q: In an alphabetical order, which of the words ""ride"" and ""quarter"" comes first? A:","['ride', 'quarter']",quarter," quarterback"" comes first"
+"Q: In an alphabetical order, which word comes first, ""zoo"" or ""yourself""? A:","['zoo', 'yourself']",yourself," yourself""? a:"
+"Q: In an alphabetical order, which of the words ""sky"" and ""thirsty"" comes first? A:","['sky', 'thirsty']",sky," skype"" comes first"
+"Q: In an alphabetical order, which of the words ""ourselves"" and ""notice"" comes first? A:","['ourselves', 'notice']",notice," notice that the word """
+"Q: In an alphabetical order, which of the words ""vacation"" and ""wild"" comes first? A:","['vacation', 'wild']",vacation, vacation vacation vacation vacation vacation
+"Q: In an alphabetical order, which word comes first, ""fly"" or ""geography""? A:","['fly', 'geography']",fly, flight from new york to
+"Q: In an alphabetical order, which word comes first, ""tooth"" or ""stop""? A:","['tooth', 'stop']",stop," stop""? a:"
+"Q: In an alphabetical order, which of the words ""immediately"" and ""job"" comes first? A:","['immediately', 'job']",immediately," immediately succeeds"":"
+"Q: In an alphabetical order, which of the words ""finger"" and ""grandson"" comes first? A:","['finger', 'grandson']",finger," son of a bitch"""
+"Q: In an alphabetical order, which of the words ""climbing"" and ""bat"" comes first? A:","['climbing', 'bat']",bat," climbing up the tree"""
+"Q: Of the words ""go"" and ""fun"", which word comes first alphabetically? A:","['go', 'fun']",fun, funfair is a
+"Q: In an alphabetical order, which of the words ""red"" and ""shopping"" comes first? A:","['red', 'shopping']",red," redemption"" comes"
+"Q: Of the words ""dancer"" and ""chicken"", which word comes first alphabetically? A:","['dancer', 'chicken']",chicken," chicken""? a:"
+"Q: Of the words ""jump"" and ""kid"", which word comes first alphabetically? A:","['jump', 'kid']",jump," kiddie"":"
+"Q: In an alphabetical order, which of the words ""jump"" and ""idea"" comes first? A:","['jump', 'idea']",idea, jumpy jumpy jump
+"Q: Of the words ""interesting"" and ""himself"", which word comes first alphabetically? A:","['interesting', 'himself']",himself, himself included in the word
+"Q: Of the words ""graduate"" and ""heat"", which word comes first alphabetically? A:","['graduate', 'heat']",graduate," study"":"
+"Q: Of the words ""message"" and ""low"", which word comes first alphabetically? A:","['message', 'low']",low, mouse ranch is a
+"Q: Of the words ""rice"" and ""sweater"", which word comes first alphabetically? A:","['rice', 'sweater']",rice," sweater"", which word comes"
+"Q: In an alphabetical order, which word comes first, ""unusual"" or ""towel""? A:","['unusual', 'towel']",towel, towel?
+"Q: In an alphabetical order, which word comes first, ""entrance"" or ""discount""? A:","['entrance', 'discount']",discount," discount""? a:"
+"Q: Of the words ""pasta"" and ""quite"", which word comes first alphabetically? A:","['pasta', 'quite']",pasta," quite, quite, quite"
+"Q: In an alphabetical order, which of the words ""good"" and ""he"" comes first? A:","['good', 'he']",good," good"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""noun"" or ""over""? A:","['noun', 'over']",noun," over""? a:"
+"Q: Of the words ""us"" and ""tire"", which word comes first alphabetically? A:","['us', 'tire']",tire," tirelessness"":"
+"Q: Of the words ""noisy"" and ""on"", which word comes first alphabetically? A:","['noisy', 'on']",noisy," on the first word,"
+"Q: Of the words ""leg"" and ""kilogram"", which word comes first alphabetically? A:","['leg', 'kilogram']",kilogram," kilogram"" and"
+"Q: Of the words ""talk"" and ""uniform"", which word comes first alphabetically? A:","['talk', 'uniform']",talk, talkative alphabetically?
+"Q: Of the words ""ear"" and ""dresser"", which word comes first alphabetically? A:","['ear', 'dresser']",dresser," dresser""? a:"
+"Q: In an alphabetical order, which of the words ""soup"" and ""receipt"" comes first? A:","['soup', 'receipt']",receipt, stomach ache?
+"Q: Of the words ""video"" and ""until"", which word comes first alphabetically? A:","['video', 'until']",until," video game"":"
+"Q: In an alphabetical order, which of the words ""include"" and ""headache"" comes first? A:","['include', 'headache']",headache, headache is a headache is
+"Q: In an alphabetical order, which word comes first, ""mouse"" or ""noise""? A:","['mouse', 'noise']",mouse," noise""? a:"
+"Q: Of the words ""mug"" and ""lend"", which word comes first alphabetically? A:","['mug', 'lend']",lend," lend"" and ""m"
+"Q: Of the words ""tea"" and ""university"", which word comes first alphabetically? A:","['tea', 'university']",tea, teabags are available
+"Q: In an alphabetical order, which word comes first, ""usually"" or ""violin""? A:","['usually', 'violin']",usually," usually, ""viol"
+"Q: In an alphabetical order, which of the words ""discount"" and ""church"" comes first? A:","['discount', 'church']",church, discount discount discount discount discount
+"Q: In an alphabetical order, which of the words ""thanks"" and ""understand"" comes first? A:","['thanks', 'understand']",thanks," thanks"" comes first?"
+"Q: Of the words ""honey"" and ""grow"", which word comes first alphabetically? A:","['honey', 'grow']",grow," honeynut tree"":"
+"Q: In an alphabetical order, which of the words ""job"" and ""island"" comes first? A:","['job', 'island']",island," island"" comes first?"
+"Q: Of the words ""quick"" and ""ruler"", which word comes first alphabetically? A:","['quick', 'ruler']",quick," quicksilver obeys"""
+"Q: In an alphabetical order, which word comes first, ""jeans"" or ""keyboard""? A:","['jeans', 'keyboard']",jeans," keyboard""? a:"
+"Q: In an alphabetical order, which of the words ""chain"" and ""dead"" comes first? A:","['chain', 'dead']",chain, deadlines are easy to
+"Q: In an alphabetical order, which of the words ""boring"" and ""adverb"" comes first? A:","['boring', 'adverb']",adverb," boring"" comes first?"
+"Q: Of the words ""church"" and ""do"", which word comes first alphabetically? A:","['church', 'do']",church, churchyard dance school dance
+"Q: In an alphabetical order, which of the words ""soap"" and ""towel"" comes first? A:","['soap', 'towel']",soap," soap opera"" comes first"
+"Q: In an alphabetical order, which word comes first, ""quiet"" or ""ready""? A:","['quiet', 'ready']",quiet, quiet!
+"Q: Of the words ""dress"" and ""closed"", which word comes first alphabetically? A:","['dress', 'closed']",closed, dressage:
+"Q: In an alphabetical order, which word comes first, ""notice"" or ""opposite""? A:","['notice', 'opposite']",notice," notice that the word """
+"Q: Of the words ""motorcycle"" and ""nice"", which word comes first alphabetically? A:","['motorcycle', 'nice']",motorcycle, motorcyclecyclecyclecyclecycle
+"Q: In an alphabetical order, which of the words ""missing"" and ""near"" comes first? A:","['missing', 'near']",missing, missing missing missing missing missing
+"Q: Of the words ""disco"" and ""capital"", which word comes first alphabetically? A:","['disco', 'capital']",capital," capital"" and ""com"
+"Q: In an alphabetical order, which of the words ""department"" and ""cook"" comes first? A:","['department', 'cook']",cook," apartment rental"":"
+"Q: In an alphabetical order, which of the words ""know"" and ""like"" comes first? A:","['know', 'like']",know," know"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""interesting"" or ""head""? A:","['interesting', 'head']",head," head""? a:"
+"Q: In an alphabetical order, which of the words ""sneaker"" and ""repair"" comes first? A:","['sneaker', 'repair']",repair," dentist"" comes first?"
+"Q: Of the words ""kilogram"" and ""jump"", which word comes first alphabetically? A:","['kilogram', 'jump']",jump," jump"" and ""s"
+"Q: In an alphabetical order, which of the words ""itself"" and ""just"" comes first? A:","['itself', 'just']",itself," itself"" comes first?"
+"Q: In an alphabetical order, which of the words ""ocean"" and ""project"" comes first? A:","['ocean', 'project']",ocean, oceanic seafood restaurant
+"Q: In an alphabetical order, which word comes first, ""since"" or ""read""? A:","['since', 'read']",read," sincerely, ""since"
+"Q: In an alphabetical order, which word comes first, ""dark"" or ""everyone""? A:","['dark', 'everyone']",dark, dark hairstyles always
+"Q: In an alphabetical order, which of the words ""deck"" and ""euro"" comes first? A:","['deck', 'euro']",deck," decker"" comes first"
+"Q: In an alphabetical order, which of the words ""might"" and ""like"" comes first? A:","['might', 'like']",like, might be able to read
+"Q: In an alphabetical order, which word comes first, ""bottle"" or ""card""? A:","['bottle', 'card']",bottle," bottle of wine""? a"
+"Q: In an alphabetical order, which of the words ""jacket"" and ""into"" comes first? A:","['jacket', 'into']",into," jacket on the coat"""
+"Q: In an alphabetical order, which of the words ""playground"" and ""oh"" comes first? A:","['playground', 'oh']",oh, playground area:
+"Q: In an alphabetical order, which word comes first, ""puzzle"" or ""opposite""? A:","['puzzle', 'opposite']",opposite, platform number 3709
+"Q: Of the words ""video"" and ""use"", which word comes first alphabetically? A:","['video', 'use']",use," video game"" which word"
+"Q: Of the words ""job"" and ""information"", which word comes first alphabetically? A:","['job', 'information']",information, job description:
+"Q: In an alphabetical order, which word comes first, ""quiet"" or ""record""? A:","['quiet', 'record']",quiet, quiet riot?
+"Q: Of the words ""platform"" and ""quiet"", which word comes first alphabetically? A:","['platform', 'quiet']",platform, platform:
+"Q: Of the words ""necklace"" and ""old"", which word comes first alphabetically? A:","['necklace', 'old']",necklace," necktie, old fashion"
+"Q: In an alphabetical order, which word comes first, ""model"" or ""light""? A:","['model', 'light']",light," model"" or ""m"
+"Q: In an alphabetical order, which word comes first, ""zoo"" or ""year""? A:","['zoo', 'year']",year," year""? a:"
+"Q: Of the words ""brown"" and ""armchair"", which word comes first alphabetically? A:","['brown', 'armchair']",armchair, armchair:
+"Q: In an alphabetical order, which of the words ""morning"" and ""note"" comes first? A:","['morning', 'note']",morning," noteworthy"" comes first"
+"Q: Of the words ""grandpa"" and ""hit"", which word comes first alphabetically? A:","['grandpa', 'hit']",grandpa," grandpa"" comes first alphabet"
+"Q: In an alphabetical order, which word comes first, ""line"" or ""kitchen""? A:","['line', 'kitchen']",kitchen," kitchenware""? a:"
+"Q: Of the words ""idea"" and ""hard"", which word comes first alphabetically? A:","['idea', 'hard']",hard," hard enough to understand """
+"Q: In an alphabetical order, which word comes first, ""kill"" or ""jewelry""? A:","['kill', 'jewelry']",jewelry," jewelry""? a:"
+"Q: In an alphabetical order, which word comes first, ""earn"" or ""family""? A:","['earn', 'family']",earn," earn""? a:"
+"Q: Of the words ""vacation"" and ""why"", which word comes first alphabetically? A:","['vacation', 'why']",vacation," vacation is a vacation,"
+"Q: In an alphabetical order, which word comes first, ""drawer"" or ""eat""? A:","['drawer', 'eat']",drawer," drawer"" or ""s"
+"Q: In an alphabetical order, which of the words ""yourself"" and ""zoo"" comes first? A:","['yourself', 'zoo']",yourself," yourself"" comes first?"
+"Q: Of the words ""everywhere"" and ""football"", which word comes first alphabetically? A:","['everywhere', 'football']",everywhere," everywhere"" comes first alphabet"
+"Q: In an alphabetical order, which of the words ""guide"" and ""funny"" comes first? A:","['guide', 'funny']",funny," funny word"" comes first"
+"Q: In an alphabetical order, which word comes first, ""run"" or ""slowly""? A:","['run', 'slowly']",run," run quickly""? a:"
+"Q: In an alphabetical order, which of the words ""information"" and ""himself"" comes first? A:","['information', 'himself']",himself," himself"" comes first?"
+"Q: Of the words ""her"" and ""information"", which word comes first alphabetically? A:","['her', 'information']",her," herb gardener"""
+"Q: Of the words ""these"" and ""subway"", which word comes first alphabetically? A:","['these', 'subway']",subway, subway station subway station subway
+"Q: In an alphabetical order, which of the words ""nice"" and ""our"" comes first? A:","['nice', 'our']",nice," nice job"":"
+"Q: In an alphabetical order, which word comes first, ""jacket"" or ""into""? A:","['jacket', 'into']",into, jacket?
+"Q: Of the words ""village"" and ""understand"", which word comes first alphabetically? A:","['village', 'understand']",understand, understand?
+"Q: In an alphabetical order, which of the words ""ham"" and ""instrument"" comes first? A:","['ham', 'instrument']",ham," hammered"":"
+"Q: In an alphabetical order, which word comes first, ""come"" or ""be""? A:","['come', 'be']",be," be""? a:"
+"Q: In an alphabetical order, which of the words ""quarter"" and ""plus"" comes first? A:","['quarter', 'plus']",plus, quarter quarter quarter quarter quarter
+"Q: Of the words ""goodbye"" and ""food"", which word comes first alphabetically? A:","['goodbye', 'food']",food," food"" which word comes"
+"Q: In an alphabetical order, which of the words ""friendly"" and ""entrance"" comes first? A:","['friendly', 'entrance']",entrance, friendly provost of strangers
+"Q: In an alphabetical order, which of the words ""leather"" and ""moment"" comes first? A:","['leather', 'moment']",leather, fashionable order:
+"Q: In an alphabetical order, which of the words ""cream"" and ""bad"" comes first? A:","['cream', 'bad']",bad," badmintoning"""
+"Q: In an alphabetical order, which of the words ""fan"" and ""gram"" comes first? A:","['fan', 'gram']",fan," fan club"" comes first"
+"Q: Of the words ""violin"" and ""uniform"", which word comes first alphabetically? A:","['violin', 'uniform']",uniform, uniform:
+"Q: Of the words ""sunny"" and ""television"", which word comes first alphabetically? A:","['sunny', 'television']",sunny, television channel is a television
+"Q: Of the words ""lunchtime"" and ""magic"", which word comes first alphabetically? A:","['lunchtime', 'magic']",lunchtime, lunchtime lunchtime lunch
+"Q: In an alphabetical order, which of the words ""swimming"" and ""radio"" comes first? A:","['swimming', 'radio']",radio, radio broadcasting company
+"Q: In an alphabetical order, which of the words ""grape"" and ""history"" comes first? A:","['grape', 'history']",grape," history"" comes first?"
+"Q: In an alphabetical order, which word comes first, ""member"" or ""lost""? A:","['member', 'lost']",lost," lost""? a:"
+"Q: In an alphabetical order, which word comes first, ""enter"" or ""food""? A:","['enter', 'food']",enter," enter the restaurant immediately""?"
+"Q: In an alphabetical order, which of the words ""art"" and ""bicycle"" comes first? A:","['art', 'bicycle']",art," factorycleaner"""
+"Q: In an alphabetical order, which word comes first, ""one"" or ""past""? A:","['one', 'past']",one," one word or ""f"
+"Q: Of the words ""grape"" and ""history"", which word comes first alphabetically? A:","['grape', 'history']",grape," history"" comes first alphabet"
+"Q: In an alphabetical order, which of the words ""ice"" and ""hot"" comes first? A:","['ice', 'hot']",hot, ice cream soda or soda
+"Q: In an alphabetical order, which of the words ""milk"" and ""loud"" comes first? A:","['milk', 'loud']",loud," milky way"" comes"
+"Q: Of the words ""guide"" and ""funny"", which word comes first alphabetically? A:","['guide', 'funny']",funny," funny word is ""gu"
+"Q: In an alphabetical order, which word comes first, ""she"" or ""reason""? A:","['she', 'reason']",reason," reason for delay""? a"
+"Q: Of the words ""worry"" and ""vacation"", which word comes first alphabetically? A:","['worry', 'vacation']",vacation, vacation?
+"Q: In an alphabetical order, which of the words ""cookie"" and ""department"" comes first? A:","['cookie', 'department']",cookie," cookie jar"" comes first"
+"Q: In an alphabetical order, which of the words ""negative"" and ""ourselves"" comes first? A:","['negative', 'ourselves']",negative," ourselves"" comes first?"
+"Q: In an alphabetical order, which of the words ""repair"" and ""quiet"" comes first? A:","['repair', 'quiet']",quiet," quiet riot"" comes first"
+"Q: In an alphabetical order, which word comes first, ""dancer"" or ""chicken""? A:","['dancer', 'chicken']",chicken," chicken""? a:"
+"Q: In an alphabetical order, which of the words ""difficult"" and ""early"" comes first? A:","['difficult', 'early']",difficult, early morning snacktime snack
+"Q: In an alphabetical order, which of the words ""grape"" and ""highway"" comes first? A:","['grape', 'highway']",grape, grape vinegar tastes good
+"Q: In an alphabetical order, which of the words ""quite"" and ""rent"" comes first? A:","['quite', 'rent']",quite, rent rent rented a
+"Q: Of the words ""gas"" and ""fine"", which word comes first alphabetically? A:","['gas', 'fine']",fine," fine, fine, fine"
+"Q: Of the words ""queen"" and ""perhaps"", which word comes first alphabetically? A:","['queen', 'perhaps']",perhaps, queen of hearts is a
+"Q: In an alphabetical order, which of the words ""quickly"" and ""ride"" comes first? A:","['quickly', 'ride']",quickly," quickly ride"":"
+"Q: In an alphabetical order, which word comes first, ""ear"" or ""famous""? A:","['ear', 'famous']",ear, famous singer of the week
+"Q: Of the words ""must"" and ""notes"", which word comes first alphabetically? A:","['must', 'notes']",must, mustache mustache must
+"Q: In an alphabetical order, which word comes first, ""nose"" or ""my""? A:","['nose', 'my']",my," nosebleed""? a"
+"Q: In an alphabetical order, which of the words ""towel"" and ""somewhere"" comes first? A:","['towel', 'somewhere']",somewhere, somewhere along the lines of
+"Q: In an alphabetical order, which word comes first, ""wallet"" or ""visit""? A:","['wallet', 'visit']",visit, visitation visitation visit
+"Q: Of the words ""quick"" and ""remember"", which word comes first alphabetically? A:","['quick', 'remember']",quick," quickdraw"" comes first"
+"Q: Of the words ""invite"" and ""jam"", which word comes first alphabetically? A:","['invite', 'jam']",invite, invite invite invite invite invite
+"Q: Of the words ""ear"" and ""famous"", which word comes first alphabetically? A:","['ear', 'famous']",ear, famous earring.
+"Q: In an alphabetical order, which word comes first, ""quickly"" or ""pocket""? A:","['quickly', 'pocket']",pocket," pocket pocketknife"""
+"Q: In an alphabetical order, which word comes first, ""village"" or ""understand""? A:","['village', 'understand']",understand," understand""? a:"
+"Q: In an alphabetical order, which of the words ""salt"" and ""there"" comes first? A:","['salt', 'there']",salt," salt"" comes first?"
+"Q: Of the words ""vacation"" and ""wild"", which word comes first alphabetically? A:","['vacation', 'wild']",vacation, vacation?
+"Q: In an alphabetical order, which of the words ""probably"" and ""out"" comes first? A:","['probably', 'out']",out, out of the questionna
+"Q: In an alphabetical order, which word comes first, ""now"" or ""meal""? A:","['now', 'meal']",meal," meal""? a:"
+"Q: In an alphabetical order, which word comes first, ""information"" or ""jacket""? A:","['information', 'jacket']",information, jacket?

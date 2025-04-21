@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: Which word is longer, ""orange"" or ""copy""? A:","['orange', 'copy']",orange,copy
+"Q: Which word is longer, ""purse"" or ""for""? A:","['purse', 'for']",purse,purse
+"Q: Which word is longer, ""purse"" or ""year""? A:","['purse', 'year']",purse,year
+"Q: Which word has more letters, ""throw"" or ""kite""? A:","['throw', 'kite']",throw,throw
+"Q: Of the words ""low"" and ""size"" which one has more letters? A:","['low', 'size']",size,low
+"Q: Which word is longer, ""soap"" or ""noisy""? A:","['soap', 'noisy']",noisy,noisy
+"Q: Which word is longer, ""slim"" or ""young""? A:","['slim', 'young']",young,young
+"Q: Of the words ""sing"" and ""tea"" which one has more letters? A:","['sing', 'tea']",sing,tea
+"Q: Which word has more letters, ""cap"" or ""special""? A:","['cap', 'special']",special,special
+"Q: Of the words ""fried"" and ""file"" which one has more letters? A:","['fried', 'file']",fried,fried
+"Q: Of the words ""view"" and ""daily"" which one has more letters? A:","['view', 'daily']",daily,view
+"Q: Which word has more letters, ""twice"" or ""bird""? A:","['twice', 'bird']",twice,bird
+"Q: Which word has more letters, ""wild"" or ""neighbor""? A:","['wild', 'neighbor']",neighbor,neighbor
+"Q: Which word is longer, ""purse"" or ""mosque""? A:","['purse', 'mosque']",mosque,purse
+"Q: Of the words ""stadium"" and ""build"" which one has more letters? A:","['stadium', 'build']",stadium,stadium
+"Q: Which word has more letters, ""fan"" or ""very""? A:","['fan', 'very']",very,very
+"Q: Which word is longer, ""money"" or ""playground""? A:","['money', 'playground']",playground,playground
+"Q: Which word has more letters, ""soul"" or ""sauce""? A:","['soul', 'sauce']",sauce,sauce
+"Q: Of the words ""camping"" and ""bed"" which one has more letters? A:","['camping', 'bed']",camping,camping
+"Q: Of the words ""oh"" and ""ocean"" which one has more letters? A:","['oh', 'ocean']",ocean,oh
+"Q: Which word has more letters, ""sun"" or ""pack""? A:","['sun', 'pack']",pack,pack
+"Q: Which word has more letters, ""skirt"" or ""path""? A:","['skirt', 'path']",skirt,path
+"Q: Which word has more letters, ""not"" or ""glove""? A:","['not', 'glove']",glove,glove
+"Q: Of the words ""know"" and ""space"" which one has more letters? A:","['know', 'space']",space,know
+"Q: Which word is longer, ""they"" or ""poster""? A:","['they', 'poster']",poster,poster
+"Q: Of the words ""an"" and ""nice"" which one has more letters? A:","['an', 'nice']",nice,an
+"Q: Of the words ""why"" and ""field"" which one has more letters? A:","['why', 'field']",field,field
+"Q: Which word is longer, ""polite"" or ""stadium""? A:","['polite', 'stadium']",stadium,polite
+"Q: Which word has more letters, ""give"" or ""daily""? A:","['give', 'daily']",daily,give
+"Q: Which word is longer, ""lemon"" or ""company""? A:","['lemon', 'company']",company,company
+"Q: Which word is longer, ""each"" or ""uniform""? A:","['each', 'uniform']",uniform,uniform
+"Q: Which word is longer, ""each"" or ""guest""? A:","['each', 'guest']",guest,guest
+"Q: Which word has more letters, ""crowd"" or ""meat""? A:","['crowd', 'meat']",crowd,crowd
+"Q: Of the words ""often"" and ""push"" which one has more letters? A:","['often', 'push']",often,often
+"Q: Which word has more letters, ""mark"" or ""key""? A:","['mark', 'key']",mark,key
+"Q: Which word has more letters, ""empty"" or ""singular""? A:","['empty', 'singular']",singular,empty
+"Q: Of the words ""knife"" and ""earn"" which one has more letters? A:","['knife', 'earn']",knife,knife
+"Q: Which word has more letters, ""over"" or ""painter""? A:","['over', 'painter']",painter,over
+"Q: Which word has more letters, ""storm"" or ""fish""? A:","['storm', 'fish']",storm,fish
+"Q: Which word is longer, ""storm"" or ""fish""? A:","['storm', 'fish']",storm,fish
+"Q: Which word has more letters, ""plastic"" or ""speak""? A:","['plastic', 'speak']",plastic,plastic
+"Q: Which word has more letters, ""enjoy"" or ""left""? A:","['enjoy', 'left']",enjoy,left
+"Q: Which word has more letters, ""so"" or ""plant""? A:","['so', 'plant']",plant,plant
+"Q: Which word has more letters, ""how"" or ""thank""? A:","['how', 'thank']",thank,thank
+"Q: Which word is longer, ""belt"" or ""its""? A:","['belt', 'its']",belt,belt
+"Q: Which word is longer, ""piano"" or ""problem""? A:","['piano', 'problem']",problem,problem
+"Q: Of the words ""ham"" and ""hair"" which one has more letters? A:","['ham', 'hair']",hair,ham
+"Q: Which word has more letters, ""neighbor"" or ""details""? A:","['neighbor', 'details']",neighbor,neighbor
+"Q: Of the words ""curtain"" and ""car"" which one has more letters? A:","['curtain', 'car']",curtain,curtain
+"Q: Which word is longer, ""chat"" or ""cabinet""? A:","['chat', 'cabinet']",cabinet,chat
+"Q: Which word is longer, ""rain"" or ""at""? A:","['rain', 'at']",rain,rain
+"Q: Of the words ""out"" and ""history"" which one has more letters? A:","['out', 'history']",history,history
+"Q: Which word has more letters, ""on"" or ""guy""? A:","['on', 'guy']",guy,on
+"Q: Of the words ""hers"" and ""problem"" which one has more letters? A:","['hers', 'problem']",problem,problem
+"Q: Which word has more letters, ""during"" or ""slow""? A:","['during', 'slow']",during,during
+"Q: Of the words ""those"" and ""draw"" which one has more letters? A:","['those', 'draw']",those,draw
+"Q: Which word is longer, ""art"" or ""wind""? A:","['art', 'wind']",wind,art
+"Q: Which word has more letters, ""war"" or ""adult""? A:","['war', 'adult']",adult,adult
+"Q: Of the words ""piano"" and ""club"" which one has more letters? A:","['piano', 'club']",piano,club
+"Q: Which word is longer, ""fit"" or ""rice""? A:","['fit', 'rice']",rice,fit
+"Q: Which word has more letters, ""musical"" or ""kite""? A:","['musical', 'kite']",musical,musical
+"Q: Which word has more letters, ""hair"" or ""walking""? A:","['hair', 'walking']",walking,walking
+"Q: Which word has more letters, ""mine"" or ""bridge""? A:","['mine', 'bridge']",bridge,bridge
+"Q: Which word has more letters, ""hers"" or ""party""? A:","['hers', 'party']",party,party
+"Q: Which word has more letters, ""family"" or ""upset""? A:","['family', 'upset']",family,family
+"Q: Which word is longer, ""to"" or ""dish""? A:","['to', 'dish']",dish,to
+"Q: Which word is longer, ""train"" or ""flower""? A:","['train', 'flower']",flower,flower
+"Q: Which word is longer, ""block"" or ""painter""? A:","['block', 'painter']",painter,block
+"Q: Which word is longer, ""brown"" or ""mosque""? A:","['brown', 'mosque']",mosque,brown
+"Q: Which word has more letters, ""eat"" or ""page""? A:","['eat', 'page']",page,page
+"Q: Which word is longer, ""north"" or ""reading""? A:","['north', 'reading']",reading,reading
+"Q: Of the words ""new"" and ""money"" which one has more letters? A:","['new', 'money']",money,new
+"Q: Of the words ""explain"" and ""cup"" which one has more letters? A:","['explain', 'cup']",explain,cup
+"Q: Which word is longer, ""golden"" or ""bank""? A:","['golden', 'bank']",golden,bank
+"Q: Which word has more letters, ""east"" or ""factory""? A:","['east', 'factory']",factory,east
+"Q: Which word has more letters, ""mail"" or ""square""? A:","['mail', 'square']",square,square
+"Q: Of the words ""month"" and ""idea"" which one has more letters? A:","['month', 'idea']",month,idea
+"Q: Of the words ""purse"" and ""time"" which one has more letters? A:","['purse', 'time']",purse,purse
+"Q: Of the words ""build"" and ""we"" which one has more letters? A:","['build', 'we']",build,build
+"Q: Of the words ""quick"" and ""your"" which one has more letters? A:","['quick', 'your']",quick,quick
+"Q: Which word is longer, ""mine"" or ""bridge""? A:","['mine', 'bridge']",bridge,bridge
+"Q: Which word is longer, ""old"" or ""file""? A:","['old', 'file']",file,old
+"Q: Which word has more letters, ""since"" or ""cry""? A:","['since', 'cry']",since,since
+"Q: Which word is longer, ""us"" or ""belt""? A:","['us', 'belt']",belt,belt
+"Q: Of the words ""fit"" and ""rice"" which one has more letters? A:","['fit', 'rice']",rice,fit
+"Q: Which word has more letters, ""knife"" or ""earn""? A:","['knife', 'earn']",knife,knife
+"Q: Of the words ""mother"" and ""write"" which one has more letters? A:","['mother', 'write']",mother,mother
+"Q: Which word is longer, ""mango"" or ""carpet""? A:","['mango', 'carpet']",carpet,carpet
+"Q: Of the words ""mango"" and ""drawing"" which one has more letters? A:","['mango', 'drawing']",drawing,drawing
+"Q: Of the words ""notice"" and ""knife"" which one has more letters? A:","['notice', 'knife']",notice,knife
+"Q: Which word has more letters, ""than"" or ""strange""? A:","['than', 'strange']",strange,strange
+"Q: Which word is longer, ""belt"" or ""cheap""? A:","['belt', 'cheap']",cheap,belt
+"Q: Of the words ""how"" and ""player"" which one has more letters? A:","['how', 'player']",player,player
+"Q: Which word is longer, ""watch"" or ""quickly""? A:","['watch', 'quickly']",quickly,quickly
+"Q: Which word is longer, ""kilo"" or ""sad""? A:","['kilo', 'sad']",kilo,kilo
+"Q: Which word has more letters, ""bad"" or ""anymore""? A:","['bad', 'anymore']",anymore,bad
+"Q: Of the words ""type"" and ""heavy"" which one has more letters? A:","['type', 'heavy']",heavy,type
+"Q: Of the words ""mark"" and ""key"" which one has more letters? A:","['mark', 'key']",mark,key
+"Q: Which word has more letters, ""hair"" or ""no""? A:","['hair', 'no']",hair,hair
+"Q: Which word is longer, ""child"" or ""pencil""? A:","['child', 'pencil']",pencil,pencil
+"Q: Of the words ""parent"" and ""far"" which one has more letters? A:","['parent', 'far']",parent,parent
+"Q: Which word has more letters, ""about"" or ""father""? A:","['about', 'father']",father,father
+"Q: Which word has more letters, ""ear"" or ""boyfriend""? A:","['ear', 'boyfriend']",boyfriend,boyfriend
+"Q: Which word is longer, ""month"" or ""wet""? A:","['month', 'wet']",month,month
+"Q: Which word is longer, ""south"" or ""fact""? A:","['south', 'fact']",south,south
+"Q: Which word has more letters, ""actor"" or ""hockey""? A:","['actor', 'hockey']",hockey,actor
+"Q: Which word is longer, ""birthday"" or ""name""? A:","['birthday', 'name']",birthday,name
+"Q: Which word has more letters, ""square"" or ""wear""? A:","['square', 'wear']",square,square
+"Q: Which word has more letters, ""word"" or ""wet""? A:","['word', 'wet']",word,word
+"Q: Which word is longer, ""crowd"" or ""hockey""? A:","['crowd', 'hockey']",hockey,crowd
+"Q: Of the words ""fly"" and ""orange"" which one has more letters? A:","['fly', 'orange']",orange,fly
+"Q: Which word has more letters, ""so"" or ""must""? A:","['so', 'must']",must,must
+"Q: Of the words ""new"" and ""paint"" which one has more letters? A:","['new', 'paint']",paint,new
+"Q: Of the words ""about"" and ""father"" which one has more letters? A:","['about', 'father']",father,father
+"Q: Which word has more letters, ""course"" or ""deck""? A:","['course', 'deck']",course,course
+"Q: Of the words ""fail"" and ""round"" which one has more letters? A:","['fail', 'round']",round,round
+"Q: Which word has more letters, ""no"" or ""chat""? A:","['no', 'chat']",chat,chat
+"Q: Which word has more letters, ""mother"" or ""instead""? A:","['mother', 'instead']",instead,mother
+"Q: Which word is longer, ""build"" or ""we""? A:","['build', 'we']",build,build
+"Q: Which word is longer, ""card"" or ""delay""? A:","['card', 'delay']",delay,card
+"Q: Of the words ""extra"" and ""hit"" which one has more letters? A:","['extra', 'hit']",extra,extra
+"Q: Which word is longer, ""safe"" or ""final""? A:","['safe', 'final']",final,final
+"Q: Which word has more letters, ""subject"" or ""move""? A:","['subject', 'move']",subject,move
+"Q: Which word is longer, ""far"" or ""plant""? A:","['far', 'plant']",plant,plant
+"Q: Which word is longer, ""fly"" or ""gray""? A:","['fly', 'gray']",gray,fly
+"Q: Of the words ""hair"" and ""no"" which one has more letters? A:","['hair', 'no']",hair,no
+"Q: Which word is longer, ""wild"" or ""might""? A:","['wild', 'might']",might,might
+"Q: Which word has more letters, ""learn"" or ""type""? A:","['learn', 'type']",learn,learn
+"Q: Which word has more letters, ""their"" or ""one""? A:","['their', 'one']",their,their
+"Q: Which word has more letters, ""eat"" or ""help""? A:","['eat', 'help']",help,help
+"Q: Of the words ""subway"" and ""reading"" which one has more letters? A:","['subway', 'reading']",reading,reading
+"Q: Which word is longer, ""past"" or ""closet""? A:","['past', 'closet']",closet,past
+"Q: Which word is longer, ""past"" or ""stand""? A:","['past', 'stand']",stand,past
+"Q: Which word is longer, ""bean"" or ""notes""? A:","['bean', 'notes']",notes,bean
+"Q: Which word has more letters, ""chair"" or ""girl""? A:","['chair', 'girl']",chair,chair
+"Q: Which word has more letters, ""notice"" or ""come""? A:","['notice', 'come']",notice,come
+"Q: Which word has more letters, ""at"" or ""age""? A:","['at', 'age']",age,age
+"Q: Which word is longer, ""eat"" or ""father""? A:","['eat', 'father']",father,father
+"Q: Which word is longer, ""single"" or ""must""? A:","['single', 'must']",single,must
+"Q: Of the words ""mother"" and ""try"" which one has more letters? A:","['mother', 'try']",mother,mother
+"Q: Of the words ""kilo"" and ""along"" which one has more letters? A:","['kilo', 'along']",along,along
+"Q: Which word is longer, ""size"" or ""yes""? A:","['size', 'yes']",size,yes
+"Q: Of the words ""soap"" and ""space"" which one has more letters? A:","['soap', 'space']",space,space
+"Q: Of the words ""later"" and ""very"" which one has more letters? A:","['later', 'very']",later,later
+"Q: Of the words ""place"" and ""hand"" which one has more letters? A:","['place', 'hand']",place,place
+"Q: Which word has more letters, ""half"" or ""thanks""? A:","['half', 'thanks']",thanks,half
+"Q: Of the words ""low"" and ""bike"" which one has more letters? A:","['low', 'bike']",bike,bike
+"Q: Of the words ""mark"" and ""guide"" which one has more letters? A:","['mark', 'guide']",guide,mark
+"Q: Of the words ""about"" and ""face"" which one has more letters? A:","['about', 'face']",about,face
+"Q: Which word has more letters, ""train"" or ""flower""? A:","['train', 'flower']",flower,flower
+"Q: Which word is longer, ""carpet"" or ""sad""? A:","['carpet', 'sad']",carpet,carpet
+"Q: Of the words ""beard"" and ""hot"" which one has more letters? A:","['beard', 'hot']",beard,beard
+"Q: Which word has more letters, ""today"" or ""sofa""? A:","['today', 'sofa']",today,today
+"Q: Of the words ""one"" and ""spend"" which one has more letters? A:","['one', 'spend']",spend,one
+"Q: Which word has more letters, ""mosque"" or ""table""? A:","['mosque', 'table']",mosque,table
+"Q: Which word is longer, ""birth"" or ""hit""? A:","['birth', 'hit']",birth,birth
+"Q: Which word has more letters, ""man"" or ""mango""? A:","['man', 'mango']",mango,mango
+"Q: Of the words ""place"" and ""neighbor"" which one has more letters? A:","['place', 'neighbor']",neighbor,neighbor
+"Q: Which word is longer, ""exam"" or ""his""? A:","['exam', 'his']",exam,his
+"Q: Of the words ""yeah"" and ""dirty"" which one has more letters? A:","['yeah', 'dirty']",dirty,yeah
+"Q: Which word is longer, ""turn"" or ""flower""? A:","['turn', 'flower']",flower,flower
+"Q: Which word is longer, ""must"" or ""bad""? A:","['must', 'bad']",must,bad
+"Q: Which word has more letters, ""can"" or ""turn""? A:","['can', 'turn']",turn,turn
+"Q: Which word has more letters, ""reason"" or ""plate""? A:","['reason', 'plate']",reason,plate
+"Q: Which word is longer, ""our"" or ""ready""? A:","['our', 'ready']",ready,ready
+"Q: Which word is longer, ""guy"" or ""mouth""? A:","['guy', 'mouth']",mouth,mouth
+"Q: Which word has more letters, ""blond"" or ""strong""? A:","['blond', 'strong']",strong,strong
+"Q: Of the words ""square"" and ""field"" which one has more letters? A:","['square', 'field']",square,field
+"Q: Of the words ""extra"" and ""island"" which one has more letters? A:","['extra', 'island']",island,extra
+"Q: Which word has more letters, ""the"" or ""badly""? A:","['the', 'badly']",badly,badly
+"Q: Of the words ""print"" and ""busy"" which one has more letters? A:","['print', 'busy']",print,busy
+"Q: Of the words ""quiz"" and ""boy"" which one has more letters? A:","['quiz', 'boy']",quiz,boy
+"Q: Which word is longer, ""water"" or ""box""? A:","['water', 'box']",water,box
+"Q: Which word has more letters, ""dancer"" or ""crowd""? A:","['dancer', 'crowd']",dancer,crowd
+"Q: Of the words ""our"" and ""ready"" which one has more letters? A:","['our', 'ready']",ready,ready
+"Q: Which word is longer, ""dance"" or ""ours""? A:","['dance', 'ours']",dance,ours
+"Q: Of the words ""could"" and ""ad"" which one has more letters? A:","['could', 'ad']",could,ad
+"Q: Which word is longer, ""change"" or ""ice""? A:","['change', 'ice']",change,change
+"Q: Which word has more letters, ""computer"" or ""nurse""? A:","['computer', 'nurse']",computer,computer
+"Q: Which word is longer, ""crowd"" or ""meat""? A:","['crowd', 'meat']",crowd,crowd
+"Q: Which word has more letters, ""news"" or ""quite""? A:","['news', 'quite']",quite,news
+"Q: Of the words ""himself"" and ""much"" which one has more letters? A:","['himself', 'much']",himself,much
+"Q: Which word is longer, ""brain"" or ""police""? A:","['brain', 'police']",police,police
+"Q: Of the words ""actor"" and ""hockey"" which one has more letters? A:","['actor', 'hockey']",hockey,actor
+"Q: Which word has more letters, ""danger"" or ""guy""? A:","['danger', 'guy']",danger,guy
+"Q: Which word has more letters, ""meat"" or ""wonderful""? A:","['meat', 'wonderful']",wonderful,wonderful
+"Q: Which word has more letters, ""details"" or ""seat""? A:","['details', 'seat']",details,seat
+"Q: Of the words ""place"" and ""careful"" which one has more letters? A:","['place', 'careful']",careful,careful
+"Q: Which word is longer, ""folder"" or ""climb""? A:","['folder', 'climb']",folder,folder
+"Q: Which word is longer, ""listen"" or ""me""? A:","['listen', 'me']",listen,listen
+"Q: Which word has more letters, ""fit"" or ""slow""? A:","['fit', 'slow']",slow,fit
+"Q: Which word is longer, ""think"" or ""try""? A:","['think', 'try']",think,think
+"Q: Which word is longer, ""listen"" or ""pray""? A:","['listen', 'pray']",listen,listen
+"Q: Which word has more letters, ""dish"" or ""cabinet""? A:","['dish', 'cabinet']",cabinet,cabinet
+"Q: Which word is longer, ""family"" or ""golf""? A:","['family', 'golf']",family,family
+"Q: Of the words ""curtain"" and ""fork"" which one has more letters? A:","['curtain', 'fork']",curtain,curtain
+"Q: Which word has more letters, ""daughter"" or ""only""? A:","['daughter', 'only']",daughter,daughter
+"Q: Of the words ""itself"" and ""save"" which one has more letters? A:","['itself', 'save']",itself,itself
+"Q: Which word has more letters, ""me"" or ""once""? A:","['me', 'once']",once,once
+"Q: Which word has more letters, ""show"" or ""hat""? A:","['show', 'hat']",show,show
+"Q: Which word is longer, ""stadium"" or ""light""? A:","['stadium', 'light']",stadium,stadium
+"Q: Which word is longer, ""art"" or ""page""? A:","['art', 'page']",page,art
+"Q: Which word has more letters, ""dance"" or ""ours""? A:","['dance', 'ours']",dance,ours
+"Q: Of the words ""actor"" and ""we"" which one has more letters? A:","['actor', 'we']",actor,actor
+"Q: Which word is longer, ""year"" or ""skirt""? A:","['year', 'skirt']",skirt,skirt
+"Q: Which word is longer, ""often"" or ""hockey""? A:","['often', 'hockey']",hockey,often
+"Q: Of the words ""boyfriend"" and ""rest"" which one has more letters? A:","['boyfriend', 'rest']",boyfriend,boyfriend
+"Q: Of the words ""above"" and ""how"" which one has more letters? A:","['above', 'how']",above,above
+"Q: Which word has more letters, ""curtain"" or ""car""? A:","['curtain', 'car']",curtain,curtain
+"Q: Of the words ""lend"" and ""under"" which one has more letters? A:","['lend', 'under']",under,under
+"Q: Of the words ""word"" and ""wet"" which one has more letters? A:","['word', 'wet']",word,word
+"Q: Which word is longer, ""list"" or ""alone""? A:","['list', 'alone']",alone,list
+"Q: Which word is longer, ""enough"" or ""shirt""? A:","['enough', 'shirt']",enough,shirt
+"Q: Of the words ""them"" and ""radio"" which one has more letters? A:","['them', 'radio']",radio,radio
+"Q: Which word has more letters, ""bean"" or ""notes""? A:","['bean', 'notes']",notes,bean
+"Q: Which word has more letters, ""dog"" or ""water""? A:","['dog', 'water']",water,water
+"Q: Which word has more letters, ""finger"" or ""soap""? A:","['finger', 'soap']",finger,finger
+"Q: Which word has more letters, ""how"" or ""player""? A:","['how', 'player']",player,player
+"Q: Which word is longer, ""skating"" or ""dance""? A:","['skating', 'dance']",skating,skating
+"Q: Of the words ""young"" and ""trip"" which one has more letters? A:","['young', 'trip']",young,trip
+"Q: Which word is longer, ""than"" or ""strange""? A:","['than', 'strange']",strange,than
+"Q: Which word is longer, ""curtain"" or ""car""? A:","['curtain', 'car']",curtain,curtain
+"Q: Which word has more letters, ""once"" or ""guest""? A:","['once', 'guest']",guest,guest
+"Q: Of the words ""wild"" and ""might"" which one has more letters? A:","['wild', 'might']",might,might
+"Q: Which word is longer, ""die"" or ""subject""? A:","['die', 'subject']",subject,die
+"Q: Which word has more letters, ""on"" or ""software""? A:","['on', 'software']",software,software
+"Q: Which word has more letters, ""hair"" or ""kilogram""? A:","['hair', 'kilogram']",kilogram,hair
+"Q: Of the words ""leg"" and ""break"" which one has more letters? A:","['leg', 'break']",break,break
+"Q: Which word is longer, ""fun"" or ""side""? A:","['fun', 'side']",side,side
+"Q: Which word has more letters, ""copy"" or ""we""? A:","['copy', 'we']",copy,copy
+"Q: Which word is longer, ""date"" or ""new""? A:","['date', 'new']",date,new
+"Q: Which word is longer, ""pig"" or ""history""? A:","['pig', 'history']",history,history
+"Q: Of the words ""rich"" and ""me"" which one has more letters? A:","['rich', 'me']",rich,rich
+"Q: Which word has more letters, ""view"" or ""daily""? A:","['view', 'daily']",daily,view
+"Q: Which word has more letters, ""taxi"" or ""careful""? A:","['taxi', 'careful']",careful,careful
+"Q: Which word is longer, ""sun"" or ""pack""? A:","['sun', 'pack']",pack,pack
+"Q: Which word has more letters, ""money"" or ""person""? A:","['money', 'person']",person,person
+"Q: Which word is longer, ""minus"" or ""danger""? A:","['minus', 'danger']",danger,minus
+"Q: Of the words ""advice"" and ""belt"" which one has more letters? A:","['advice', 'belt']",advice,belt
+"Q: Which word has more letters, ""tea"" or ""sport""? A:","['tea', 'sport']",sport,tea
+"Q: Of the words ""soul"" and ""sauce"" which one has more letters? A:","['soul', 'sauce']",sauce,sauce
+"Q: Which word has more letters, ""purse"" or ""year""? A:","['purse', 'year']",purse,purse
+"Q: Of the words ""flight"" and ""cup"" which one has more letters? A:","['flight', 'cup']",flight,flight
+"Q: Which word is longer, ""family"" or ""heavy""? A:","['family', 'heavy']",family,family
+"Q: Which word has more letters, ""bother"" or ""ago""? A:","['bother', 'ago']",bother,ago
+"Q: Which word has more letters, ""pear"" or ""playground""? A:","['pear', 'playground']",playground,playground
+"Q: Which word is longer, ""hair"" or ""no""? A:","['hair', 'no']",hair,no
+"Q: Which word has more letters, ""pair"" or ""win""? A:","['pair', 'win']",pair,win
+"Q: Which word has more letters, ""notice"" or ""knife""? A:","['notice', 'knife']",notice,knife
+"Q: Of the words ""magic"" and ""in"" which one has more letters? A:","['magic', 'in']",magic,magic
+"Q: Which word is longer, ""roast"" or ""folder""? A:","['roast', 'folder']",folder,folder
+"Q: Which word is longer, ""prize"" or ""chef""? A:","['prize', 'chef']",prize,chef
+"Q: Which word has more letters, ""parent"" or ""far""? A:","['parent', 'far']",parent,parent
+"Q: Which word is longer, ""begin"" or ""pig""? A:","['begin', 'pig']",begin,begin
+"Q: Of the words ""city"" and ""flower"" which one has more letters? A:","['city', 'flower']",flower,flower
+"Q: Of the words ""at"" and ""hotel"" which one has more letters? A:","['at', 'hotel']",hotel,at
+"Q: Which word is longer, ""extra"" or ""polite""? A:","['extra', 'polite']",polite,polite
+"Q: Of the words ""include"" and ""help"" which one has more letters? A:","['include', 'help']",include,include
+"Q: Of the words ""under"" and ""history"" which one has more letters? A:","['under', 'history']",history,history
+"Q: Of the words ""block"" and ""sad"" which one has more letters? A:","['block', 'sad']",block,block
+"Q: Which word is longer, ""document"" or ""horse""? A:","['document', 'horse']",document,horse
+"Q: Which word is longer, ""late"" or ""might""? A:","['late', 'might']",might,late
+"Q: Which word has more letters, ""skate"" or ""now""? A:","['skate', 'now']",skate,skate
+"Q: Which word is longer, ""half"" or ""daily""? A:","['half', 'daily']",daily,half
+"Q: Which word has more letters, ""sure"" or ""spend""? A:","['sure', 'spend']",spend,sure
+"Q: Of the words ""purse"" and ""for"" which one has more letters? A:","['purse', 'for']",purse,purse
+"Q: Of the words ""customer"" and ""cream"" which one has more letters? A:","['customer', 'cream']",customer,cream
+"Q: Of the words ""myself"" and ""rock"" which one has more letters? A:","['myself', 'rock']",myself,rock
+"Q: Of the words ""old"" and ""snake"" which one has more letters? A:","['old', 'snake']",snake,old
+"Q: Which word has more letters, ""dance"" or ""kite""? A:","['dance', 'kite']",dance,kite
+"Q: Which word is longer, ""extra"" or ""hit""? A:","['extra', 'hit']",extra,extra
+"Q: Which word is longer, ""cabinet"" or ""dinosaur""? A:","['cabinet', 'dinosaur']",dinosaur,dinosaur
+"Q: Of the words ""size"" and ""yes"" which one has more letters? A:","['size', 'yes']",size,yes
+"Q: Which word has more letters, ""so"" or ""birthday""? A:","['so', 'birthday']",birthday,birthday
+"Q: Which word is longer, ""bear"" or ""dancer""? A:","['bear', 'dancer']",dancer,bear
+"Q: Which word is longer, ""on"" or ""blanket""? A:","['on', 'blanket']",blanket,blanket
+"Q: Of the words ""eat"" and ""help"" which one has more letters? A:","['eat', 'help']",help,help
+"Q: Which word is longer, ""them"" or ""radio""? A:","['them', 'radio']",radio,radio
+"Q: Which word has more letters, ""closed"" or ""case""? A:","['closed', 'case']",closed,closed
+"Q: Which word has more letters, ""roast"" or ""rent""? A:","['roast', 'rent']",roast,rent
+"Q: Which word is longer, ""reading"" or ""put""? A:","['reading', 'put']",reading,reading
+"Q: Which word has more letters, ""birthday"" or ""name""? A:","['birthday', 'name']",birthday,birthday
+"Q: Which word has more letters, ""mad"" or ""it""? A:","['mad', 'it']",mad,mad
+"Q: Which word has more letters, ""next"" or ""sit""? A:","['next', 'sit']",next,sit
+"Q: Which word has more letters, ""lake"" or ""sport""? A:","['lake', 'sport']",sport,lake
+"Q: Which word is longer, ""friend"" or ""piano""? A:","['friend', 'piano']",friend,friend
+"Q: Which word has more letters, ""flight"" or ""cup""? A:","['flight', 'cup']",flight,cup
+"Q: Of the words ""things"" and ""sock"" which one has more letters? A:","['things', 'sock']",things,things
+"Q: Which word has more letters, ""nature"" or ""boy""? A:","['nature', 'boy']",nature,boy
+"Q: Which word has more letters, ""cheap"" or ""hers""? A:","['cheap', 'hers']",cheap,hers
+"Q: Of the words ""worse"" and ""sky"" which one has more letters? A:","['worse', 'sky']",worse,sky
+"Q: Of the words ""low"" and ""when"" which one has more letters? A:","['low', 'when']",when,low
+"Q: Which word is longer, ""so"" or ""plant""? A:","['so', 'plant']",plant,plant
+"Q: Which word is longer, ""mother"" or ""other""? A:","['mother', 'other']",mother,mother
+"Q: Which word is longer, ""chair"" or ""girl""? A:","['chair', 'girl']",chair,chair
+"Q: Of the words ""key"" and ""bear"" which one has more letters? A:","['key', 'bear']",bear,key
+"Q: Which word has more letters, ""kitchen"" or ""horse""? A:","['kitchen', 'horse']",kitchen,horse
+"Q: Of the words ""quiz"" and ""our"" which one has more letters? A:","['quiz', 'our']",quiz,quiz
+"Q: Of the words ""menu"" and ""person"" which one has more letters? A:","['menu', 'person']",person,person
+"Q: Which word has more letters, ""nose"" or ""thing""? A:","['nose', 'thing']",thing,thing
+"Q: Which word has more letters, ""best"" or ""empty""? A:","['best', 'empty']",empty,empty
+"Q: Which word is longer, ""boyfriend"" or ""rest""? A:","['boyfriend', 'rest']",boyfriend,rest
+"Q: Which word has more letters, ""money"" or ""playground""? A:","['money', 'playground']",playground,playground
+"Q: Which word is longer, ""up"" or ""anymore""? A:","['up', 'anymore']",anymore,anymore
+"Q: Of the words ""flight"" and ""oh"" which one has more letters? A:","['flight', 'oh']",flight,flight
+"Q: Which word has more letters, ""light"" or ""jacket""? A:","['light', 'jacket']",jacket,jacket
+"Q: Which word is longer, ""near"" or ""young""? A:","['near', 'young']",young,young
+"Q: Which word is longer, ""fact"" or ""music""? A:","['fact', 'music']",music,music
+"Q: Which word is longer, ""buy"" or ""singer""? A:","['buy', 'singer']",singer,singer
+"Q: Which word has more letters, ""us"" or ""file""? A:","['us', 'file']",file,us
+"Q: Which word has more letters, ""month"" or ""idea""? A:","['month', 'idea']",month,idea
+"Q: Which word is longer, ""question"" or ""music""? A:","['question', 'music']",question,music
+"Q: Which word has more letters, ""best"" or ""explain""? A:","['best', 'explain']",explain,best
+"Q: Of the words ""plus"" and ""fat"" which one has more letters? A:","['plus', 'fat']",plus,plus
+"Q: Which word is longer, ""so"" or ""birthday""? A:","['so', 'birthday']",birthday,birthday
+"Q: Of the words ""dinosaur"" and ""desk"" which one has more letters? A:","['dinosaur', 'desk']",dinosaur,dinosaur
+"Q: Which word has more letters, ""walk"" or ""broken""? A:","['walk', 'broken']",broken,broken
+"Q: Of the words ""thin"" and ""world"" which one has more letters? A:","['thin', 'world']",world,world
+"Q: Which word is longer, ""market"" or ""bed""? A:","['market', 'bed']",market,market
+"Q: Which word is longer, ""teach"" or ""per""? A:","['teach', 'per']",teach,per
+"Q: Which word is longer, ""skate"" or ""now""? A:","['skate', 'now']",skate,skate
+"Q: Which word has more letters, ""problem"" or ""water""? A:","['problem', 'water']",problem,problem
+"Q: Of the words ""cabinet"" and ""wet"" which one has more letters? A:","['cabinet', 'wet']",cabinet,cabinet
+"Q: Of the words ""flight"" and ""fashion"" which one has more letters? A:","['flight', 'fashion']",fashion,fashion
+"Q: Which word is longer, ""himself"" or ""one""? A:","['himself', 'one']",himself,himself
+"Q: Which word is longer, ""century"" or ""match""? A:","['century', 'match']",century,century
+"Q: Which word has more letters, ""change"" or ""also""? A:","['change', 'also']",change,change
+"Q: Of the words ""danger"" and ""guy"" which one has more letters? A:","['danger', 'guy']",danger,guy
+"Q: Of the words ""may"" and ""hotel"" which one has more letters? A:","['may', 'hotel']",hotel,may
+"Q: Of the words ""my"" and ""wonderful"" which one has more letters? A:","['my', 'wonderful']",wonderful,wonderful
+"Q: Which word has more letters, ""parent"" or ""gas""? A:","['parent', 'gas']",parent,parent
+"Q: Which word is longer, ""play"" or ""upset""? A:","['play', 'upset']",upset,upset
+"Q: Which word is longer, ""wet"" or ""holiday""? A:","['wet', 'holiday']",holiday,holiday
+"Q: Which word is longer, ""blouse"" or ""juice""? A:","['blouse', 'juice']",blouse,blouse
+"Q: Which word is longer, ""east"" or ""factory""? A:","['east', 'factory']",factory,east
+"Q: Of the words ""hour"" and ""stamp"" which one has more letters? A:","['hour', 'stamp']",stamp,hour
+"Q: Of the words ""mango"" and ""carpet"" which one has more letters? A:","['mango', 'carpet']",carpet,carpet
+"Q: Which word is longer, ""nice"" or ""lucky""? A:","['nice', 'lucky']",lucky,nice
+"Q: Of the words ""safe"" and ""final"" which one has more letters? A:","['safe', 'final']",final,final
+"Q: Which word is longer, ""move"" or ""bat""? A:","['move', 'bat']",move,bat
+"Q: Of the words ""rich"" and ""reason"" which one has more letters? A:","['rich', 'reason']",reason,rich
+"Q: Which word has more letters, ""hit"" or ""plant""? A:","['hit', 'plant']",plant,plant
+"Q: Which word is longer, ""plastic"" or ""end""? A:","['plastic', 'end']",plastic,plastic
+"Q: Of the words ""improve"" and ""our"" which one has more letters? A:","['improve', 'our']",improve,our
+"Q: Which word has more letters, ""musical"" or ""clown""? A:","['musical', 'clown']",musical,clown
+"Q: Which word is longer, ""single"" or ""thin""? A:","['single', 'thin']",single,thin
+"Q: Of the words ""notice"" and ""dirty"" which one has more letters? A:","['notice', 'dirty']",notice,notice
+"Q: Which word has more letters, ""daily"" or ""hungry""? A:","['daily', 'hungry']",hungry,hungry
+"Q: Which word is longer, ""musical"" or ""clown""? A:","['musical', 'clown']",musical,clown
+"Q: Which word has more letters, ""slim"" or ""young""? A:","['slim', 'young']",young,young
+"Q: Which word is longer, ""history"" or ""wine""? A:","['history', 'wine']",history,history
+"Q: Of the words ""bank"" and ""keyboard"" which one has more letters? A:","['bank', 'keyboard']",keyboard,bank
+"Q: Which word has more letters, ""list"" or ""brush""? A:","['list', 'brush']",brush,brush
+"Q: Of the words ""fun"" and ""side"" which one has more letters? A:","['fun', 'side']",side,side
+"Q: Of the words ""turn"" and ""flower"" which one has more letters? A:","['turn', 'flower']",flower,flower
+"Q: Which word has more letters, ""windy"" or ""with""? A:","['windy', 'with']",windy,windy
+"Q: Of the words ""musical"" and ""kite"" which one has more letters? A:","['musical', 'kite']",musical,musical
+"Q: Which word has more letters, ""carpet"" or ""sad""? A:","['carpet', 'sad']",carpet,carpet
+"Q: Of the words ""store"" and ""real"" which one has more letters? A:","['store', 'real']",store,real
+"Q: Which word is longer, ""silver"" or ""meat""? A:","['silver', 'meat']",silver,silver
+"Q: Of the words ""mix"" and ""diary"" which one has more letters? A:","['mix', 'diary']",diary,mix
+"Q: Of the words ""hospital"" and ""closed"" which one has more letters? A:","['hospital', 'closed']",hospital,closed
+"Q: Which word is longer, ""friendly"" or ""bike""? A:","['friendly', 'bike']",friendly,bike
+"Q: Which word has more letters, ""spring"" or ""rent""? A:","['spring', 'rent']",spring,spring
+"Q: Which word has more letters, ""glad"" or ""maybe""? A:","['glad', 'maybe']",maybe,maybe
+"Q: Which word has more letters, ""fat"" or ""skirt""? A:","['fat', 'skirt']",skirt,skirt
+"Q: Which word is longer, ""large"" or ""guy""? A:","['large', 'guy']",large,large
+"Q: Which word is longer, ""normal"" or ""empty""? A:","['normal', 'empty']",normal,normal
+"Q: Which word is longer, ""guitar"" or ""at""? A:","['guitar', 'at']",guitar,at
+"Q: Of the words ""name"" and ""polite"" which one has more letters? A:","['name', 'polite']",polite,polite
+"Q: Which word has more letters, ""you"" or ""club""? A:","['you', 'club']",club,club
+"Q: Which word has more letters, ""magic"" or ""in""? A:","['magic', 'in']",magic,magic
+"Q: Which word is longer, ""explain"" or ""cup""? A:","['explain', 'cup']",explain,cup
+"Q: Which word is longer, ""stadium"" or ""build""? A:","['stadium', 'build']",stadium,stadium
+"Q: Which word has more letters, ""things"" or ""hit""? A:","['things', 'hit']",things,things
+"Q: Which word is longer, ""forest"" or ""map""? A:","['forest', 'map']",forest,forest
+"Q: Which word is longer, ""mother"" or ""cost""? A:","['mother', 'cost']",mother,mother
+"Q: Which word is longer, ""later"" or ""cloudy""? A:","['later', 'cloudy']",cloudy,later
+"Q: Which word has more letters, ""nose"" or ""explain""? A:","['nose', 'explain']",explain,explain
+"Q: Which word is longer, ""curtain"" or ""fork""? A:","['curtain', 'fork']",curtain,curtain
+"Q: Which word has more letters, ""listen"" or ""fail""? A:","['listen', 'fail']",listen,listen
+"Q: Of the words ""half"" and ""keyboard"" which one has more letters? A:","['half', 'keyboard']",keyboard,keyboard
+"Q: Which word has more letters, ""strong"" or ""often""? A:","['strong', 'often']",strong,strong
+"Q: Which word has more letters, ""mug"" or ""drum""? A:","['mug', 'drum']",drum,drum
+"Q: Which word has more letters, ""skate"" or ""soup""? A:","['skate', 'soup']",skate,soup
+"Q: Of the words ""south"" and ""cry"" which one has more letters? A:","['south', 'cry']",south,south
+"Q: Which word is longer, ""fit"" or ""slow""? A:","['fit', 'slow']",slow,fit
+"Q: Which word has more letters, ""storm"" or ""park""? A:","['storm', 'park']",storm,park
+"Q: Which word has more letters, ""swim"" or ""ocean""? A:","['swim', 'ocean']",ocean,ocean
+"Q: Which word is longer, ""meat"" or ""wonderful""? A:","['meat', 'wonderful']",wonderful,wonderful
+"Q: Of the words ""crowd"" and ""sing"" which one has more letters? A:","['crowd', 'sing']",crowd,crowd
+"Q: Which word is longer, ""nature"" or ""quick""? A:","['nature', 'quick']",nature,quick
+"Q: Which word is longer, ""badly"" or ""toe""? A:","['badly', 'toe']",badly,badly
+"Q: Which word is longer, ""war"" or ""wrong""? A:","['war', 'wrong']",wrong,wrong
+"Q: Of the words ""document"" and ""pair"" which one has more letters? A:","['document', 'pair']",document,pair
+"Q: Which word is longer, ""back"" or ""flower""? A:","['back', 'flower']",flower,flower
+"Q: Which word has more letters, ""answer"" or ""grape""? A:","['answer', 'grape']",answer,grape
+"Q: Which word has more letters, ""crazy"" or ""page""? A:","['crazy', 'page']",crazy,page
+"Q: Which word has more letters, ""get"" or ""second""? A:","['get', 'second']",second,second
+"Q: Of the words ""sugar"" and ""win"" which one has more letters? A:","['sugar', 'win']",sugar,win
+"Q: Which word has more letters, ""myself"" or ""yeah""? A:","['myself', 'yeah']",myself,yeah
+"Q: Of the words ""chat"" and ""learn"" which one has more letters? A:","['chat', 'learn']",learn,chat
+"Q: Which word is longer, ""at"" or ""bank""? A:","['at', 'bank']",bank,bank
+"Q: Of the words ""tire"" and ""smoking"" which one has more letters? A:","['tire', 'smoking']",smoking,smoking
+"Q: Of the words ""fish"" and ""rap"" which one has more letters? A:","['fish', 'rap']",fish,rap
+"Q: Which word is longer, ""on"" or ""chat""? A:","['on', 'chat']",chat,chat
+"Q: Which word has more letters, ""buy"" or ""history""? A:","['buy', 'history']",history,history
+"Q: Of the words ""himself"" and ""one"" which one has more letters? A:","['himself', 'one']",himself,himself
+"Q: Which word has more letters, ""half"" or ""dangerous""? A:","['half', 'dangerous']",dangerous,half
+"Q: Of the words ""daughter"" and ""foreign"" which one has more letters? A:","['daughter', 'foreign']",daughter,daughter
+"Q: Which word is longer, ""square"" or ""field""? A:","['square', 'field']",square,field
+"Q: Which word has more letters, ""best"" or ""subject""? A:","['best', 'subject']",subject,best
+"Q: Which word is longer, ""fresh"" or ""fire""? A:","['fresh', 'fire']",fresh,fire
+"Q: Which word has more letters, ""life"" or ""improve""? A:","['life', 'improve']",improve,life
+"Q: Which word has more letters, ""wonderful"" or ""them""? A:","['wonderful', 'them']",wonderful,wonderful
+"Q: Which word is longer, ""clown"" or ""bike""? A:","['clown', 'bike']",clown,clown
+"Q: Which word is longer, ""sing"" or ""shower""? A:","['sing', 'shower']",shower,shower
+"Q: Which word has more letters, ""out"" or ""history""? A:","['out', 'history']",history,history
+"Q: Which word is longer, ""rich"" or ""strange""? A:","['rich', 'strange']",strange,rich
+"Q: Which word has more letters, ""car"" or ""shirt""? A:","['car', 'shirt']",shirt,shirt
+"Q: Which word has more letters, ""dirty"" or ""listen""? A:","['dirty', 'listen']",listen,listen
+"Q: Of the words ""modern"" and ""below"" which one has more letters? A:","['modern', 'below']",modern,below
+"Q: Which word is longer, ""place"" or ""careful""? A:","['place', 'careful']",careful,place
+"Q: Which word is longer, ""dog"" or ""water""? A:","['dog', 'water']",water,dog
+"Q: Which word has more letters, ""yeah"" or ""dirty""? A:","['yeah', 'dirty']",dirty,dirty
+"Q: Which word has more letters, ""outside"" or ""bring""? A:","['outside', 'bring']",outside,bring
+"Q: Which word has more letters, ""date"" or ""steal""? A:","['date', 'steal']",steal,steal
+"Q: Which word has more letters, ""sign"" or ""spring""? A:","['sign', 'spring']",spring,spring
+"Q: Which word has more letters, ""plate"" or ""pet""? A:","['plate', 'pet']",plate,plate
+"Q: Which word has more letters, ""ocean"" or ""jacket""? A:","['ocean', 'jacket']",jacket,jacket
+"Q: Of the words ""single"" and ""thin"" which one has more letters? A:","['single', 'thin']",single,single
+"Q: Which word has more letters, ""cola"" or ""surfing""? A:","['cola', 'surfing']",surfing,cola
+"Q: Of the words ""player"" and ""liter"" which one has more letters? A:","['player', 'liter']",player,player
+"Q: Which word is longer, ""details"" or ""seat""? A:","['details', 'seat']",details,seat
+"Q: Which word is longer, ""leg"" or ""break""? A:","['leg', 'break']",break,break
+"Q: Which word is longer, ""purse"" or ""bear""? A:","['purse', 'bear']",purse,bear
+"Q: Which word is longer, ""actor"" or ""sit""? A:","['actor', 'sit']",actor,actor
+"Q: Which word is longer, ""friendly"" or ""soup""? A:","['friendly', 'soup']",friendly,friendly
+"Q: Of the words ""simple"" and ""size"" which one has more letters? A:","['simple', 'size']",simple,simple
+"Q: Which word has more letters, ""world"" or ""soft""? A:","['world', 'soft']",world,soft
+"Q: Which word has more letters, ""tired"" or ""our""? A:","['tired', 'our']",tired,tired
+"Q: Which word is longer, ""swim"" or ""movie""? A:","['swim', 'movie']",movie,movie
+"Q: Of the words ""no"" and ""ours"" which one has more letters? A:","['no', 'ours']",ours,ours
+"Q: Which word is longer, ""key"" or ""bear""? A:","['key', 'bear']",bear,bear
+"Q: Of the words ""show"" and ""hat"" which one has more letters? A:","['show', 'hat']",show,show
+"Q: Which word has more letters, ""hospital"" or ""closed""? A:","['hospital', 'closed']",hospital,closed
+"Q: Of the words ""thank"" and ""cat"" which one has more letters? A:","['thank', 'cat']",thank,thank
+"Q: Of the words ""strong"" and ""often"" which one has more letters? A:","['strong', 'often']",strong,strong
+"Q: Which word has more letters, ""flight"" or ""fashion""? A:","['flight', 'fashion']",fashion,fashion
+"Q: Of the words ""stage"" and ""poster"" which one has more letters? A:","['stage', 'poster']",poster,poster
+"Q: Of the words ""ocean"" and ""plastic"" which one has more letters? A:","['ocean', 'plastic']",plastic,plastic
+"Q: Which word is longer, ""sun"" or ""page""? A:","['sun', 'page']",page,page
+"Q: Of the words ""type"" and ""kitchen"" which one has more letters? A:","['type', 'kitchen']",kitchen,kitchen
+"Q: Which word is longer, ""history"" or ""team""? A:","['history', 'team']",history,history
+"Q: Which word is longer, ""car"" or ""trip""? A:","['car', 'trip']",trip,trip
+"Q: Which word has more letters, ""fast"" or ""fruit""? A:","['fast', 'fruit']",fruit,fast
+"Q: Which word is longer, ""grow"" or ""leg""? A:","['grow', 'leg']",grow,grow
+"Q: Which word has more letters, ""closet"" or ""show""? A:","['closet', 'show']",closet,show
+"Q: Which word has more letters, ""danger"" or ""kite""? A:","['danger', 'kite']",danger,kite
+"Q: Which word has more letters, ""piano"" or ""left""? A:","['piano', 'left']",piano,left
+"Q: Which word is longer, ""subway"" or ""reading""? A:","['subway', 'reading']",reading,reading
+"Q: Which word has more letters, ""rain"" or ""monkey""? A:","['rain', 'monkey']",monkey,rain
+"Q: Which word has more letters, ""tea"" or ""find""? A:","['tea', 'find']",find,find
+"Q: Which word has more letters, ""chef"" or ""other""? A:","['chef', 'other']",other,other
+"Q: Which word is longer, ""over"" or ""painter""? A:","['over', 'painter']",painter,over
+"Q: Which word is longer, ""cow"" or ""lend""? A:","['cow', 'lend']",lend,lend
+"Q: Which word has more letters, ""quiz"" or ""boy""? A:","['quiz', 'boy']",quiz,boy
+"Q: Which word has more letters, ""hit"" or ""down""? A:","['hit', 'down']",down,down
+"Q: Which word has more letters, ""monkey"" or ""find""? A:","['monkey', 'find']",monkey,find
+"Q: Of the words ""soul"" and ""beard"" which one has more letters? A:","['soul', 'beard']",beard,beard
+"Q: Which word has more letters, ""deck"" or ""cabinet""? A:","['deck', 'cabinet']",cabinet,cabinet
+"Q: Of the words ""rugby"" and ""long"" which one has more letters? A:","['rugby', 'long']",rugby,long
+"Q: Of the words ""glad"" and ""finger"" which one has more letters? A:","['glad', 'finger']",finger,glad
+"Q: Which word has more letters, ""sea"" or ""fruit""? A:","['sea', 'fruit']",fruit,sea
+"Q: Of the words ""wild"" and ""neighbor"" which one has more letters? A:","['wild', 'neighbor']",neighbor,neighbor
+"Q: Of the words ""daily"" and ""hungry"" which one has more letters? A:","['daily', 'hungry']",hungry,hungry
+"Q: Of the words ""date"" and ""new"" which one has more letters? A:","['date', 'new']",date,new
+"Q: Of the words ""far"" and ""smoke"" which one has more letters? A:","['far', 'smoke']",smoke,smoke
+"Q: Which word is longer, ""century"" or ""guest""? A:","['century', 'guest']",century,century
+"Q: Which word is longer, ""water"" or ""very""? A:","['water', 'very']",water,water
+"Q: Of the words ""bean"" and ""plane"" which one has more letters? A:","['bean', 'plane']",plane,bean
+"Q: Which word has more letters, ""flower"" or ""soup""? A:","['flower', 'soup']",flower,flower
+"Q: Which word is longer, ""cheap"" or ""holiday""? A:","['cheap', 'holiday']",holiday,holiday
+"Q: Of the words ""cloud"" and ""past"" which one has more letters? A:","['cloud', 'past']",cloud,past
+"Q: Of the words ""question"" and ""music"" which one has more letters? A:","['question', 'music']",question,music
+"Q: Of the words ""fried"" and ""new"" which one has more letters? A:","['fried', 'new']",fried,new
+"Q: Of the words ""family"" and ""careful"" which one has more letters? A:","['family', 'careful']",careful,family
+"Q: Of the words ""heavy"" and ""they"" which one has more letters? A:","['heavy', 'they']",heavy,they
+"Q: Which word has more letters, ""grow"" or ""leg""? A:","['grow', 'leg']",grow,grow
+"Q: Of the words ""world"" and ""soft"" which one has more letters? A:","['world', 'soft']",world,world
+"Q: Which word has more letters, ""pig"" or ""history""? A:","['pig', 'history']",history,history
+"Q: Which word is longer, ""bar"" or ""suit""? A:","['bar', 'suit']",suit,bar
+"Q: Of the words ""chair"" and ""girl"" which one has more letters? A:","['chair', 'girl']",chair,chair
+"Q: Of the words ""pet"" and ""table"" which one has more letters? A:","['pet', 'table']",table,table
+"Q: Which word is longer, ""question"" or ""disco""? A:","['question', 'disco']",question,question
+"Q: Which word has more letters, ""answer"" or ""point""? A:","['answer', 'point']",answer,point
+"Q: Which word has more letters, ""kilo"" or ""along""? A:","['kilo', 'along']",along,along
+"Q: Of the words ""white"" and ""can"" which one has more letters? A:","['white', 'can']",white,white
+"Q: Which word has more letters, ""close"" or ""arm""? A:","['close', 'arm']",close,close
+"Q: Of the words ""head"" and ""plate"" which one has more letters? A:","['head', 'plate']",plate,plate
+"Q: Which word is longer, ""place"" or ""neighbor""? A:","['place', 'neighbor']",neighbor,neighbor
+"Q: Which word has more letters, ""must"" or ""oil""? A:","['must', 'oil']",must,must
+"Q: Which word has more letters, ""year"" or ""skirt""? A:","['year', 'skirt']",skirt,skirt
+"Q: Of the words ""fried"" and ""town"" which one has more letters? A:","['fried', 'town']",fried,town
+"Q: Which word has more letters, ""ready"" or ""open""? A:","['ready', 'open']",ready,open
+"Q: Which word is longer, ""cover"" or ""know""? A:","['cover', 'know']",cover,cover
+"Q: Of the words ""slim"" and ""young"" which one has more letters? A:","['slim', 'young']",young,young
+"Q: Which word is longer, ""delay"" or ""company""? A:","['delay', 'company']",company,company
+"Q: Of the words ""sky"" and ""kite"" which one has more letters? A:","['sky', 'kite']",kite,sky
+"Q: Which word has more letters, ""soul"" or ""machine""? A:","['soul', 'machine']",machine,machine
+"Q: Of the words ""reason"" and ""plate"" which one has more letters? A:","['reason', 'plate']",reason,plate
+"Q: Which word has more letters, ""only"" or ""project""? A:","['only', 'project']",project,only
+"Q: Which word has more letters, ""rap"" or ""pain""? A:","['rap', 'pain']",pain,pain
+"Q: Which word is longer, ""listen"" or ""card""? A:","['listen', 'card']",listen,card
+"Q: Which word has more letters, ""take"" or ""bus""? A:","['take', 'bus']",take,bus
+"Q: Of the words ""fish"" and ""since"" which one has more letters? A:","['fish', 'since']",since,since
+"Q: Which word has more letters, ""thin"" or ""world""? A:","['thin', 'world']",world,world
+"Q: Which word has more letters, ""nature"" or ""lazy""? A:","['nature', 'lazy']",nature,nature
+"Q: Which word is longer, ""chair"" or ""sink""? A:","['chair', 'sink']",chair,chair
+"Q: Which word is longer, ""various"" or ""teach""? A:","['various', 'teach']",various,teach
+"Q: Which word has more letters, ""build"" or ""we""? A:","['build', 'we']",build,build
+"Q: Which word has more letters, ""lunch"" or ""sink""? A:","['lunch', 'sink']",lunch,sink
+"Q: Which word is longer, ""player"" or ""blanket""? A:","['player', 'blanket']",blanket,player
+"Q: Which word has more letters, ""hour"" or ""stamp""? A:","['hour', 'stamp']",stamp,hour
+"Q: Which word has more letters, ""husband"" or ""bag""? A:","['husband', 'bag']",husband,husband
+"Q: Which word is longer, ""badly"" or ""parent""? A:","['badly', 'parent']",parent,parent
+"Q: Of the words ""question"" and ""town"" which one has more letters? A:","['question', 'town']",question,town
+"Q: Of the words ""north"" and ""box"" which one has more letters? A:","['north', 'box']",north,box
+"Q: Which word is longer, ""not"" or ""glove""? A:","['not', 'glove']",glove,not
+"Q: Of the words ""often"" and ""pet"" which one has more letters? A:","['often', 'pet']",often,often
+"Q: Of the words ""bother"" and ""one"" which one has more letters? A:","['bother', 'one']",bother,one
+"Q: Which word is longer, ""quiet"" or ""fun""? A:","['quiet', 'fun']",quiet,quiet
+"Q: Which word is longer, ""long"" or ""reading""? A:","['long', 'reading']",reading,reading
+"Q: Of the words ""problem"" and ""make"" which one has more letters? A:","['problem', 'make']",problem,problem
+"Q: Which word has more letters, ""fog"" or ""musical""? A:","['fog', 'musical']",musical,musical
+"Q: Of the words ""keyboard"" and ""mark"" which one has more letters? A:","['keyboard', 'mark']",keyboard,keyboard
+"Q: Which word is longer, ""yet"" or ""board""? A:","['yet', 'board']",board,board
+"Q: Of the words ""toy"" and ""angry"" which one has more letters? A:","['toy', 'angry']",angry,angry
+"Q: Which word is longer, ""foreign"" or ""pray""? A:","['foreign', 'pray']",foreign,foreign
+"Q: Which word is longer, ""husband"" or ""exit""? A:","['husband', 'exit']",husband,husband
+"Q: Of the words ""quick"" and ""cake"" which one has more letters? A:","['quick', 'cake']",quick,cake
+"Q: Which word is longer, ""camping"" or ""bed""? A:","['camping', 'bed']",camping,camping
+"Q: Which word has more letters, ""worse"" or ""minute""? A:","['worse', 'minute']",minute,worse
+"Q: Of the words ""disco"" and ""fly"" which one has more letters? A:","['disco', 'fly']",disco,fly
+"Q: Which word has more letters, ""for"" or ""more""? A:","['for', 'more']",more,more
+"Q: Which word is longer, ""her"" or ""lunch""? A:","['her', 'lunch']",lunch,her
+"Q: Which word has more letters, ""silver"" or ""meat""? A:","['silver', 'meat']",silver,silver
+"Q: Of the words ""write"" and ""bus"" which one has more letters? A:","['write', 'bus']",write,bus
+"Q: Of the words ""cent"" and ""eat"" which one has more letters? A:","['cent', 'eat']",cent,cent
+"Q: Which word has more letters, ""opera"" or ""than""? A:","['opera', 'than']",opera,opera
+"Q: Which word is longer, ""hour"" or ""stamp""? A:","['hour', 'stamp']",stamp,hour
+"Q: Of the words ""company"" and ""birth"" which one has more letters? A:","['company', 'birth']",company,birth
+"Q: Which word has more letters, ""guitar"" or ""rest""? A:","['guitar', 'rest']",guitar,rest
+"Q: Which word is longer, ""pocket"" or ""delay""? A:","['pocket', 'delay']",pocket,pocket
+"Q: Which word has more letters, ""purse"" or ""bear""? A:","['purse', 'bear']",purse,bear
+"Q: Of the words ""wide"" and ""mix"" which one has more letters? A:","['wide', 'mix']",wide,wide
+"Q: Which word has more letters, ""curtain"" or ""fork""? A:","['curtain', 'fork']",curtain,curtain
+"Q: Which word has more letters, ""sign"" or ""price""? A:","['sign', 'price']",price,sign
+"Q: Which word has more letters, ""teach"" or ""lazy""? A:","['teach', 'lazy']",teach,teach
+"Q: Which word has more letters, ""deck"" or ""final""? A:","['deck', 'final']",final,final
+"Q: Of the words ""drive"" and ""fog"" which one has more letters? A:","['drive', 'fog']",drive,drive
+"Q: Of the words ""meat"" and ""wonderful"" which one has more letters? A:","['meat', 'wonderful']",wonderful,wonderful
+"Q: Of the words ""by"" and ""skirt"" which one has more letters? A:","['by', 'skirt']",skirt,by
+"Q: Which word has more letters, ""fact"" or ""table""? A:","['fact', 'table']",table,table
+"Q: Which word has more letters, ""move"" or ""bat""? A:","['move', 'bat']",move,bat
+"Q: Which word is longer, ""cloud"" or ""find""? A:","['cloud', 'find']",cloud,find
+"Q: Which word is longer, ""go"" or ""parent""? A:","['go', 'parent']",parent,parent
+"Q: Which word has more letters, ""piano"" or ""club""? A:","['piano', 'club']",piano,club
+"Q: Which word is longer, ""you"" or ""exactly""? A:","['you', 'exactly']",exactly,exactly
+"Q: Of the words ""move"" and ""bat"" which one has more letters? A:","['move', 'bat']",move,bat
+"Q: Which word has more letters, ""listen"" or ""me""? A:","['listen', 'me']",listen,listen
+"Q: Which word has more letters, ""cola"" or ""night""? A:","['cola', 'night']",night,cola
+"Q: Of the words ""for"" and ""more"" which one has more letters? A:","['for', 'more']",more,more
+"Q: Which word is longer, ""heavy"" or ""soap""? A:","['heavy', 'soap']",heavy,heavy
+"Q: Of the words ""life"" and ""improve"" which one has more letters? A:","['life', 'improve']",improve,life
+"Q: Which word has more letters, ""various"" or ""windy""? A:","['various', 'windy']",various,windy
+"Q: Which word has more letters, ""late"" or ""might""? A:","['late', 'might']",might,late
+"Q: Which word has more letters, ""itself"" or ""half""? A:","['itself', 'half']",itself,half
+"Q: Which word is longer, ""rugby"" or ""long""? A:","['rugby', 'long']",rugby,long
+"Q: Which word has more letters, ""chemistry"" or ""line""? A:","['chemistry', 'line']",chemistry,line
+"Q: Which word has more letters, ""fast"" or ""heavy""? A:","['fast', 'heavy']",heavy,fast
+"Q: Which word has more letters, ""south"" or ""fact""? A:","['south', 'fact']",south,south
+"Q: Of the words ""busy"" and ""write"" which one has more letters? A:","['busy', 'write']",write,busy
+"Q: Of the words ""must"" and ""bad"" which one has more letters? A:","['must', 'bad']",must,bad
+"Q: Which word has more letters, ""cabinet"" or ""wet""? A:","['cabinet', 'wet']",cabinet,cabinet
+"Q: Which word is longer, ""friendly"" or ""lift""? A:","['friendly', 'lift']",friendly,lift
+"Q: Of the words ""at"" and ""bank"" which one has more letters? A:","['at', 'bank']",bank,bank
+"Q: Which word is longer, ""not"" or ""worse""? A:","['not', 'worse']",worse,worse
+"Q: Which word has more letters, ""left"" or ""fresh""? A:","['left', 'fresh']",fresh,fresh
+"Q: Which word is longer, ""enjoy"" or ""work""? A:","['enjoy', 'work']",enjoy,work
+"Q: Of the words ""empty"" and ""singular"" which one has more letters? A:","['empty', 'singular']",singular,empty
+"Q: Of the words ""store"" and ""glad"" which one has more letters? A:","['store', 'glad']",store,glad
+"Q: Of the words ""friendly"" and ""lift"" which one has more letters? A:","['friendly', 'lift']",friendly,lift
+"Q: Which word is longer, ""bag"" or ""lunch""? A:","['bag', 'lunch']",lunch,bag
+"Q: Which word is longer, ""company"" or ""birth""? A:","['company', 'birth']",company,birth
+"Q: Which word has more letters, ""nice"" or ""hat""? A:","['nice', 'hat']",nice,hat
+"Q: Of the words ""chef"" and ""other"" which one has more letters? A:","['chef', 'other']",other,other
+"Q: Which word has more letters, ""lazy"" or ""black""? A:","['lazy', 'black']",black,black
+"Q: Which word is longer, ""talk"" or ""shelf""? A:","['talk', 'shelf']",shelf,talk
+"Q: Which word is longer, ""soap"" or ""space""? A:","['soap', 'space']",space,space
