@@ -25,10 +25,10 @@ split_data = data.split_data
 tokenised_dict = data.get_tokenised_dict(tokenizer)
 merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
 
-# finetune_model(BASE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train", 500, 50, 3, device)
+finetune_model(BASE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train", 500, 50, 3, device)
                
-# for key in tokenised_dict:
-#   finetune_model(BASE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train/{key}", 100, 10, 3, device)
+for key in tokenised_dict:
+  finetune_model(BASE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train/{key}", 100, 10, 3, device)
 
 FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train/checkpoint-21600"
 
@@ -94,5 +94,3 @@ for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
 ###EVALUATION###
 OUTPUT_OUTLINES_DIR = "data/outputs_outlines"
 evaluate(OUTPUT_OUTLINES_DIR , "outlines_data_results")
-
-###
