@@ -1,8 +1,6 @@
 
 from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling, GPT2LMHeadModel
 from torch.utils.data import Dataset
-from trl import SFTConfig, SFTTrainer
-
 def finetune_model(model_name, tokenizer, encodings, output_dir, save_steps, save_limit, epochs, device) -> None:
     class CustomDataset(Dataset):
         # Needed to wrap already tokenized data (encodings) into a dataset for training
@@ -40,25 +38,6 @@ def finetune_model(model_name, tokenizer, encodings, output_dir, save_steps, sav
         train_dataset=dataset,
         tokenizer=tokenizer,
         data_collator=data_collator,
-    )
-
-    trainer.train()
-
-
-def finetune_model_sft(model_name, tokenizer, data, device):
-    
-    dataset = Dataset.from_list(data)
-    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
-
-    training_args = SFTConfig(
-    max_length=512,
-    output_dir="data/stf",
-    )
-
-    trainer = SFTTrainer(
-        model,
-        train_dataset=dataset,
-        args=training_args,
     )
 
     trainer.train()
