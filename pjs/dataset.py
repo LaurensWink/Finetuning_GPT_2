@@ -150,19 +150,23 @@ class Data():
 
 
     def get_tokenised_dict(self, tokenizer) -> dict:
+        '''Function to get a tokenised dict from data split'''
         tokenised_dict = {}
 
         for key in self.split_data:
             inputs = self.split_data[key]['train']['input'].astype(str).tolist()
             outputs = self.split_data[key]['train']['output'].astype(str).tolist()
+            # form of combined_texts: input tokenizer.eos_token output (before tokenization)
             combined_texts = [inp + tokenizer.eos_token + out for inp, out in zip(inputs, outputs)]
             input_lens = [len(tokenizer(inp + tokenizer.eos_token)["input_ids"]) for inp in inputs]
+            # form of combined_texts: tokenizer.bos_token input tokenizer.eos_token output tokenizer.eos_token (after tokenization)
             encodings = tokenizer(combined_texts, return_tensors="pt", padding=True, truncation=True)
 
             input_ids = encodings["input_ids"]
             attention_mask = encodings["attention_mask"]
 
             labels = input_ids.clone()
+            # -100 is ignored by the loss-function
             for i, input_len in enumerate(input_lens):
                 labels[i, :input_len] = -100
 
@@ -176,8 +180,9 @@ class Data():
     
 
     def merge_tokenised_dict(self, tokenised_dict, tokenizer) -> dict:
-
-        def pad_to_max_length(tensors, pad_token_id=-100):
+        '''Function to merge tokenised data'''
+        def pad_to_max_length(tensors, pad_token_id):
+            '''Function to unify the length of given tensors using pad_tokens'''
             max_len = max(t.size(1) for t in tensors)
             padded = []
             for t in tensors:

@@ -27,8 +27,10 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         )
         
         output_text = tokenizer.decode(outputs[0])
-        output_text = output_text.split("UTT_BOUNDARY")[2]
-        output_text = output_text.replace("UTT_BOUNDARY", "")
+        print(output_text)
+        # because of tokenizer.eos_token == tokenizer.bos_token has to be index == 2 (tokenizer.bos_token input tokenizer.eos_token output tokenizer.eos_token)
+        output_text = output_text.split(tokenizer.eos_token)[2]
+        output_text = output_text.replace(tokenizer.eos_token, "")
         if char:
             output_text = output_text.replace(" ", "")
         output_text = output_text.replace("W", " ")
