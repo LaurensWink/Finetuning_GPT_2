@@ -156,6 +156,7 @@ class Data():
         for key in self.split_data:
             inputs = self.split_data[key]['train']['input'].astype(str).tolist()
             outputs = self.split_data[key]['train']['output'].astype(str).tolist()
+            # preferred approach for autoregressive language models like GPT-2
             # form of combined_texts: input tokenizer.eos_token output (before tokenization)
             combined_texts = [inp + tokenizer.eos_token + out for inp, out in zip(inputs, outputs)]
             input_lens = [len(tokenizer(inp + tokenizer.eos_token)["input_ids"]) for inp in inputs]
