@@ -17,11 +17,16 @@ data = Data()
 # data.save_dataset_state("data/dataset_splits")
 data.load_split("data/dataset_splits/LMentry_split")
 
-###CHAR MODEL FINETUNIG AND TESTS###
+###CHAR BASE-MODEL###
 BASE_MODEL_NAME = "phonemetransformers/GPT2-85M-CHAR-TXT"
 tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')
-
 split_data = data.split_data
+
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model', task.split('.')[0], True)
+
+###CHAR MODEL FINETUNIG AND TESTS###
 tokenised_dict = data.get_tokenised_dict(tokenizer)
 merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
 
@@ -55,10 +60,17 @@ for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
         test_data = split_data[str(subfolder)]['test']
         test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines/task_data_train', str(subfolder).split('.')[0], True)
 
-###BPE MODEL FINETUNIG AND TESTS###
+
+###BPE BASE-MODEL###
 BASE_BPE_MODEL_NAME = "phonemetransformers/GPT2-85M-BPE-TXT"
 tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
 split_data = data.split_data
+
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASE_BPE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model_BPE', task.split('.')[0], False)
+
+###BPE MODEL FINETUNIG AND TESTS###
 tokenised_dict = data.get_tokenised_dict(tokenizer)
 merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
 

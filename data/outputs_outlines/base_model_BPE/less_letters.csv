@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: Which word is shorter, ""orange"" or ""copy""? A:","['orange', 'copy']",copy,copy
+"Q: Which word is shorter, ""purse"" or ""for""? A:","['purse', 'for']",for,for
+"Q: Which word is shorter, ""purse"" or ""year""? A:","['purse', 'year']",year,year
+"Q: Which word has fewer letters, ""throw"" or ""kite""? A:","['throw', 'kite']",kite,throw
+"Q: Of the words ""low"" and ""size"" which one has fewer letters? A:","['low', 'size']",low,size
+"Q: Which word is shorter, ""soap"" or ""noisy""? A:","['soap', 'noisy']",soap,soap
+"Q: Which word is shorter, ""slim"" or ""young""? A:","['slim', 'young']",slim,young
+"Q: Of the words ""sing"" and ""tea"" which one has fewer letters? A:","['sing', 'tea']",tea,tea
+"Q: Which word has fewer letters, ""cap"" or ""special""? A:","['cap', 'special']",cap,cap
+"Q: Of the words ""fried"" and ""file"" which one has fewer letters? A:","['fried', 'file']",file,file
+"Q: Of the words ""view"" and ""daily"" which one has fewer letters? A:","['view', 'daily']",view,view
+"Q: Which word has fewer letters, ""twice"" or ""bird""? A:","['twice', 'bird']",bird,bird
+"Q: Which word has fewer letters, ""wild"" or ""neighbor""? A:","['wild', 'neighbor']",wild,wild
+"Q: Which word is shorter, ""purse"" or ""mosque""? A:","['purse', 'mosque']",purse,mosque
+"Q: Of the words ""stadium"" and ""build"" which one has fewer letters? A:","['stadium', 'build']",build,build
+"Q: Which word has fewer letters, ""fan"" or ""very""? A:","['fan', 'very']",fan,fan
+"Q: Which word is shorter, ""money"" or ""playground""? A:","['money', 'playground']",money,playground
+"Q: Which word has fewer letters, ""soul"" or ""sauce""? A:","['soul', 'sauce']",soul,sauce
+"Q: Of the words ""camping"" and ""bed"" which one has fewer letters? A:","['camping', 'bed']",bed,camping
+"Q: Of the words ""oh"" and ""ocean"" which one has fewer letters? A:","['oh', 'ocean']",oh,ocean
+"Q: Which word has fewer letters, ""sun"" or ""pack""? A:","['sun', 'pack']",sun,sun
+"Q: Which word has fewer letters, ""skirt"" or ""path""? A:","['skirt', 'path']",path,path
+"Q: Which word has fewer letters, ""not"" or ""glove""? A:","['not', 'glove']",not,glove
+"Q: Of the words ""know"" and ""space"" which one has fewer letters? A:","['know', 'space']",know,space
+"Q: Which word is shorter, ""they"" or ""poster""? A:","['they', 'poster']",they,they
+"Q: Of the words ""an"" and ""nice"" which one has fewer letters? A:","['an', 'nice']",an,nice
+"Q: Of the words ""why"" and ""field"" which one has fewer letters? A:","['why', 'field']",why,field
+"Q: Which word is shorter, ""polite"" or ""stadium""? A:","['polite', 'stadium']",polite,polite
+"Q: Which word has fewer letters, ""give"" or ""daily""? A:","['give', 'daily']",give,daily
+"Q: Which word is shorter, ""lemon"" or ""company""? A:","['lemon', 'company']",lemon,lemon
+"Q: Which word is shorter, ""each"" or ""uniform""? A:","['each', 'uniform']",each,each
+"Q: Which word is shorter, ""each"" or ""guest""? A:","['each', 'guest']",each,guest
+"Q: Which word has fewer letters, ""crowd"" or ""meat""? A:","['crowd', 'meat']",meat,crowd
+"Q: Of the words ""often"" and ""push"" which one has fewer letters? A:","['often', 'push']",push,push
+"Q: Which word has fewer letters, ""mark"" or ""key""? A:","['mark', 'key']",key,key
+"Q: Which word has fewer letters, ""empty"" or ""singular""? A:","['empty', 'singular']",empty,singular
+"Q: Of the words ""knife"" and ""earn"" which one has fewer letters? A:","['knife', 'earn']",earn,earn
+"Q: Which word has fewer letters, ""over"" or ""painter""? A:","['over', 'painter']",over,painter
+"Q: Which word has fewer letters, ""storm"" or ""fish""? A:","['storm', 'fish']",fish,storm
+"Q: Which word is shorter, ""storm"" or ""fish""? A:","['storm', 'fish']",fish,storm
+"Q: Which word has fewer letters, ""plastic"" or ""speak""? A:","['plastic', 'speak']",speak,speak
+"Q: Which word has fewer letters, ""enjoy"" or ""left""? A:","['enjoy', 'left']",left,enjoy
+"Q: Which word has fewer letters, ""so"" or ""plant""? A:","['so', 'plant']",so,plant
+"Q: Which word has fewer letters, ""how"" or ""thank""? A:","['how', 'thank']",how,thank
+"Q: Which word is shorter, ""belt"" or ""its""? A:","['belt', 'its']",its,belt
+"Q: Which word is shorter, ""piano"" or ""problem""? A:","['piano', 'problem']",piano,problem
+"Q: Of the words ""ham"" and ""hair"" which one has fewer letters? A:","['ham', 'hair']",ham,hair
+"Q: Which word has fewer letters, ""neighbor"" or ""details""? A:","['neighbor', 'details']",details,details
+"Q: Of the words ""curtain"" and ""car"" which one has fewer letters? A:","['curtain', 'car']",car,curtain
+"Q: Which word is shorter, ""chat"" or ""cabinet""? A:","['chat', 'cabinet']",chat,cabinet
+"Q: Which word is shorter, ""rain"" or ""at""? A:","['rain', 'at']",at,rain
+"Q: Of the words ""out"" and ""history"" which one has fewer letters? A:","['out', 'history']",out,history
+"Q: Which word has fewer letters, ""on"" or ""guy""? A:","['on', 'guy']",on,guy
+"Q: Of the words ""hers"" and ""problem"" which one has fewer letters? A:","['hers', 'problem']",hers,problem
+"Q: Which word has fewer letters, ""during"" or ""slow""? A:","['during', 'slow']",slow,during
+"Q: Of the words ""those"" and ""draw"" which one has fewer letters? A:","['those', 'draw']",draw,those
+"Q: Which word is shorter, ""art"" or ""wind""? A:","['art', 'wind']",art,art
+"Q: Which word has fewer letters, ""war"" or ""adult""? A:","['war', 'adult']",war,adult
+"Q: Of the words ""piano"" and ""club"" which one has fewer letters? A:","['piano', 'club']",club,piano
+"Q: Which word is shorter, ""fit"" or ""rice""? A:","['fit', 'rice']",fit,fit
+"Q: Which word has fewer letters, ""musical"" or ""kite""? A:","['musical', 'kite']",kite,musical
+"Q: Which word has fewer letters, ""hair"" or ""walking""? A:","['hair', 'walking']",hair,hair
+"Q: Which word has fewer letters, ""mine"" or ""bridge""? A:","['mine', 'bridge']",mine,bridge
+"Q: Which word has fewer letters, ""hers"" or ""party""? A:","['hers', 'party']",hers,party
+"Q: Which word has fewer letters, ""family"" or ""upset""? A:","['family', 'upset']",upset,family
+"Q: Which word is shorter, ""to"" or ""dish""? A:","['to', 'dish']",to,to
+"Q: Which word is shorter, ""train"" or ""flower""? A:","['train', 'flower']",train,flower
+"Q: Which word is shorter, ""block"" or ""painter""? A:","['block', 'painter']",block,block
+"Q: Which word is shorter, ""brown"" or ""mosque""? A:","['brown', 'mosque']",brown,mosque
+"Q: Which word has fewer letters, ""eat"" or ""page""? A:","['eat', 'page']",eat,eat
+"Q: Which word is shorter, ""north"" or ""reading""? A:","['north', 'reading']",north,north
+"Q: Of the words ""new"" and ""money"" which one has fewer letters? A:","['new', 'money']",new,money
+"Q: Of the words ""explain"" and ""cup"" which one has fewer letters? A:","['explain', 'cup']",cup,cup
+"Q: Which word is shorter, ""golden"" or ""bank""? A:","['golden', 'bank']",bank,bank
+"Q: Which word has fewer letters, ""east"" or ""factory""? A:","['east', 'factory']",east,east
+"Q: Which word has fewer letters, ""mail"" or ""square""? A:","['mail', 'square']",mail,mail
+"Q: Of the words ""month"" and ""idea"" which one has fewer letters? A:","['month', 'idea']",idea,month
+"Q: Of the words ""purse"" and ""time"" which one has fewer letters? A:","['purse', 'time']",time,time
+"Q: Of the words ""build"" and ""we"" which one has fewer letters? A:","['build', 'we']",we,build
+"Q: Of the words ""quick"" and ""your"" which one has fewer letters? A:","['quick', 'your']",your,quick
+"Q: Which word is shorter, ""mine"" or ""bridge""? A:","['mine', 'bridge']",mine,mine
+"Q: Which word is shorter, ""old"" or ""file""? A:","['old', 'file']",old,file
+"Q: Which word has fewer letters, ""since"" or ""cry""? A:","['since', 'cry']",cry,since
+"Q: Which word is shorter, ""us"" or ""belt""? A:","['us', 'belt']",us,belt
+"Q: Of the words ""fit"" and ""rice"" which one has fewer letters? A:","['fit', 'rice']",fit,fit
+"Q: Which word has fewer letters, ""knife"" or ""earn""? A:","['knife', 'earn']",earn,knife
+"Q: Of the words ""mother"" and ""write"" which one has fewer letters? A:","['mother', 'write']",write,write
+"Q: Which word is shorter, ""mango"" or ""carpet""? A:","['mango', 'carpet']",mango,mango
+"Q: Of the words ""mango"" and ""drawing"" which one has fewer letters? A:","['mango', 'drawing']",mango,mango
+"Q: Of the words ""notice"" and ""knife"" which one has fewer letters? A:","['notice', 'knife']",knife,notice
+"Q: Which word has fewer letters, ""than"" or ""strange""? A:","['than', 'strange']",than,strange
+"Q: Which word is shorter, ""belt"" or ""cheap""? A:","['belt', 'cheap']",belt,belt
+"Q: Of the words ""how"" and ""player"" which one has fewer letters? A:","['how', 'player']",how,player
+"Q: Which word is shorter, ""watch"" or ""quickly""? A:","['watch', 'quickly']",watch,quickly
+"Q: Which word is shorter, ""kilo"" or ""sad""? A:","['kilo', 'sad']",sad,kilo
+"Q: Which word has fewer letters, ""bad"" or ""anymore""? A:","['bad', 'anymore']",bad,bad
+"Q: Of the words ""type"" and ""heavy"" which one has fewer letters? A:","['type', 'heavy']",type,heavy
+"Q: Of the words ""mark"" and ""key"" which one has fewer letters? A:","['mark', 'key']",key,key
+"Q: Which word has fewer letters, ""hair"" or ""no""? A:","['hair', 'no']",no,hair
+"Q: Which word is shorter, ""child"" or ""pencil""? A:","['child', 'pencil']",child,pencil
+"Q: Of the words ""parent"" and ""far"" which one has fewer letters? A:","['parent', 'far']",far,far
+"Q: Which word has fewer letters, ""about"" or ""father""? A:","['about', 'father']",about,about
+"Q: Which word has fewer letters, ""ear"" or ""boyfriend""? A:","['ear', 'boyfriend']",ear,ear
+"Q: Which word is shorter, ""month"" or ""wet""? A:","['month', 'wet']",wet,month
+"Q: Which word is shorter, ""south"" or ""fact""? A:","['south', 'fact']",fact,fact
+"Q: Which word has fewer letters, ""actor"" or ""hockey""? A:","['actor', 'hockey']",actor,hockey
+"Q: Which word is shorter, ""birthday"" or ""name""? A:","['birthday', 'name']",name,birthday
+"Q: Which word has fewer letters, ""square"" or ""wear""? A:","['square', 'wear']",wear,wear
+"Q: Which word has fewer letters, ""word"" or ""wet""? A:","['word', 'wet']",wet,wet
+"Q: Which word is shorter, ""crowd"" or ""hockey""? A:","['crowd', 'hockey']",crowd,crowd
+"Q: Of the words ""fly"" and ""orange"" which one has fewer letters? A:","['fly', 'orange']",fly,fly
+"Q: Which word has fewer letters, ""so"" or ""must""? A:","['so', 'must']",so,so
+"Q: Of the words ""new"" and ""paint"" which one has fewer letters? A:","['new', 'paint']",new,new
+"Q: Of the words ""about"" and ""father"" which one has fewer letters? A:","['about', 'father']",about,about
+"Q: Which word has fewer letters, ""course"" or ""deck""? A:","['course', 'deck']",deck,deck
+"Q: Of the words ""fail"" and ""round"" which one has fewer letters? A:","['fail', 'round']",fail,fail
+"Q: Which word has fewer letters, ""no"" or ""chat""? A:","['no', 'chat']",no,no
+"Q: Which word has fewer letters, ""mother"" or ""instead""? A:","['mother', 'instead']",mother,mother
+"Q: Which word is shorter, ""build"" or ""we""? A:","['build', 'we']",we,we
+"Q: Which word is shorter, ""card"" or ""delay""? A:","['card', 'delay']",card,card
+"Q: Of the words ""extra"" and ""hit"" which one has fewer letters? A:","['extra', 'hit']",hit,extra
+"Q: Which word is shorter, ""safe"" or ""final""? A:","['safe', 'final']",safe,final
+"Q: Which word has fewer letters, ""subject"" or ""move""? A:","['subject', 'move']",move,subject
+"Q: Which word is shorter, ""far"" or ""plant""? A:","['far', 'plant']",far,far
+"Q: Which word is shorter, ""fly"" or ""gray""? A:","['fly', 'gray']",fly,fly
+"Q: Of the words ""hair"" and ""no"" which one has fewer letters? A:","['hair', 'no']",no,no
+"Q: Which word is shorter, ""wild"" or ""might""? A:","['wild', 'might']",wild,wild
+"Q: Which word has fewer letters, ""learn"" or ""type""? A:","['learn', 'type']",type,type
+"Q: Which word has fewer letters, ""their"" or ""one""? A:","['their', 'one']",one,their
+"Q: Which word has fewer letters, ""eat"" or ""help""? A:","['eat', 'help']",eat,eat
+"Q: Of the words ""subway"" and ""reading"" which one has fewer letters? A:","['subway', 'reading']",subway,subway
+"Q: Which word is shorter, ""past"" or ""closet""? A:","['past', 'closet']",past,past
+"Q: Which word is shorter, ""past"" or ""stand""? A:","['past', 'stand']",past,past
+"Q: Which word is shorter, ""bean"" or ""notes""? A:","['bean', 'notes']",bean,bean
+"Q: Which word has fewer letters, ""chair"" or ""girl""? A:","['chair', 'girl']",girl,chair
+"Q: Which word has fewer letters, ""notice"" or ""come""? A:","['notice', 'come']",come,notice
+"Q: Which word has fewer letters, ""at"" or ""age""? A:","['at', 'age']",at,age
+"Q: Which word is shorter, ""eat"" or ""father""? A:","['eat', 'father']",eat,father
+"Q: Which word is shorter, ""single"" or ""must""? A:","['single', 'must']",must,must
+"Q: Of the words ""mother"" and ""try"" which one has fewer letters? A:","['mother', 'try']",try,try
+"Q: Of the words ""kilo"" and ""along"" which one has fewer letters? A:","['kilo', 'along']",kilo,kilo
+"Q: Which word is shorter, ""size"" or ""yes""? A:","['size', 'yes']",yes,yes
+"Q: Of the words ""soap"" and ""space"" which one has fewer letters? A:","['soap', 'space']",soap,soap
+"Q: Of the words ""later"" and ""very"" which one has fewer letters? A:","['later', 'very']",very,very
+"Q: Of the words ""place"" and ""hand"" which one has fewer letters? A:","['place', 'hand']",hand,hand
+"Q: Which word has fewer letters, ""half"" or ""thanks""? A:","['half', 'thanks']",half,half
+"Q: Of the words ""low"" and ""bike"" which one has fewer letters? A:","['low', 'bike']",low,bike
+"Q: Of the words ""mark"" and ""guide"" which one has fewer letters? A:","['mark', 'guide']",mark,mark
+"Q: Of the words ""about"" and ""face"" which one has fewer letters? A:","['about', 'face']",face,face
+"Q: Which word has fewer letters, ""train"" or ""flower""? A:","['train', 'flower']",train,flower
+"Q: Which word is shorter, ""carpet"" or ""sad""? A:","['carpet', 'sad']",sad,sad
+"Q: Of the words ""beard"" and ""hot"" which one has fewer letters? A:","['beard', 'hot']",hot,hot
+"Q: Which word has fewer letters, ""today"" or ""sofa""? A:","['today', 'sofa']",sofa,today
+"Q: Of the words ""one"" and ""spend"" which one has fewer letters? A:","['one', 'spend']",one,spend
+"Q: Which word has fewer letters, ""mosque"" or ""table""? A:","['mosque', 'table']",table,table
+"Q: Which word is shorter, ""birth"" or ""hit""? A:","['birth', 'hit']",hit,birth
+"Q: Which word has fewer letters, ""man"" or ""mango""? A:","['man', 'mango']",man,man
+"Q: Of the words ""place"" and ""neighbor"" which one has fewer letters? A:","['place', 'neighbor']",place,neighbor
+"Q: Which word is shorter, ""exam"" or ""his""? A:","['exam', 'his']",his,exam
+"Q: Of the words ""yeah"" and ""dirty"" which one has fewer letters? A:","['yeah', 'dirty']",yeah,dirty
+"Q: Which word is shorter, ""turn"" or ""flower""? A:","['turn', 'flower']",turn,flower
+"Q: Which word is shorter, ""must"" or ""bad""? A:","['must', 'bad']",bad,must
+"Q: Which word has fewer letters, ""can"" or ""turn""? A:","['can', 'turn']",can,can
+"Q: Which word has fewer letters, ""reason"" or ""plate""? A:","['reason', 'plate']",plate,reason
+"Q: Which word is shorter, ""our"" or ""ready""? A:","['our', 'ready']",our,our
+"Q: Which word is shorter, ""guy"" or ""mouth""? A:","['guy', 'mouth']",guy,guy
+"Q: Which word has fewer letters, ""blond"" or ""strong""? A:","['blond', 'strong']",blond,blond
+"Q: Of the words ""square"" and ""field"" which one has fewer letters? A:","['square', 'field']",field,field
+"Q: Of the words ""extra"" and ""island"" which one has fewer letters? A:","['extra', 'island']",extra,extra
+"Q: Which word has fewer letters, ""the"" or ""badly""? A:","['the', 'badly']",the,badly
+"Q: Of the words ""print"" and ""busy"" which one has fewer letters? A:","['print', 'busy']",busy,busy
+"Q: Of the words ""quiz"" and ""boy"" which one has fewer letters? A:","['quiz', 'boy']",boy,quiz
+"Q: Which word is shorter, ""water"" or ""box""? A:","['water', 'box']",box,water
+"Q: Which word has fewer letters, ""dancer"" or ""crowd""? A:","['dancer', 'crowd']",crowd,dancer
+"Q: Of the words ""our"" and ""ready"" which one has fewer letters? A:","['our', 'ready']",our,ready
+"Q: Which word is shorter, ""dance"" or ""ours""? A:","['dance', 'ours']",ours,dance
+"Q: Of the words ""could"" and ""ad"" which one has fewer letters? A:","['could', 'ad']",ad,ad
+"Q: Which word is shorter, ""change"" or ""ice""? A:","['change', 'ice']",ice,change
+"Q: Which word has fewer letters, ""computer"" or ""nurse""? A:","['computer', 'nurse']",nurse,computer
+"Q: Which word is shorter, ""crowd"" or ""meat""? A:","['crowd', 'meat']",meat,crowd
+"Q: Which word has fewer letters, ""news"" or ""quite""? A:","['news', 'quite']",news,quite
+"Q: Of the words ""himself"" and ""much"" which one has fewer letters? A:","['himself', 'much']",much,himself
+"Q: Which word is shorter, ""brain"" or ""police""? A:","['brain', 'police']",brain,brain
+"Q: Of the words ""actor"" and ""hockey"" which one has fewer letters? A:","['actor', 'hockey']",actor,hockey
+"Q: Which word has fewer letters, ""danger"" or ""guy""? A:","['danger', 'guy']",guy,danger
+"Q: Which word has fewer letters, ""meat"" or ""wonderful""? A:","['meat', 'wonderful']",meat,meat
+"Q: Which word has fewer letters, ""details"" or ""seat""? A:","['details', 'seat']",seat,details
+"Q: Of the words ""place"" and ""careful"" which one has fewer letters? A:","['place', 'careful']",place,place
+"Q: Which word is shorter, ""folder"" or ""climb""? A:","['folder', 'climb']",climb,folder
+"Q: Which word is shorter, ""listen"" or ""me""? A:","['listen', 'me']",me,listen
+"Q: Which word has fewer letters, ""fit"" or ""slow""? A:","['fit', 'slow']",fit,fit
+"Q: Which word is shorter, ""think"" or ""try""? A:","['think', 'try']",try,think
+"Q: Which word is shorter, ""listen"" or ""pray""? A:","['listen', 'pray']",pray,listen
+"Q: Which word has fewer letters, ""dish"" or ""cabinet""? A:","['dish', 'cabinet']",dish,cabinet
+"Q: Which word is shorter, ""family"" or ""golf""? A:","['family', 'golf']",golf,family
+"Q: Of the words ""curtain"" and ""fork"" which one has fewer letters? A:","['curtain', 'fork']",fork,fork
+"Q: Which word has fewer letters, ""daughter"" or ""only""? A:","['daughter', 'only']",only,daughter
+"Q: Of the words ""itself"" and ""save"" which one has fewer letters? A:","['itself', 'save']",save,save
+"Q: Which word has fewer letters, ""me"" or ""once""? A:","['me', 'once']",me,me
+"Q: Which word has fewer letters, ""show"" or ""hat""? A:","['show', 'hat']",hat,show
+"Q: Which word is shorter, ""stadium"" or ""light""? A:","['stadium', 'light']",light,stadium
+"Q: Which word is shorter, ""art"" or ""page""? A:","['art', 'page']",art,art
+"Q: Which word has fewer letters, ""dance"" or ""ours""? A:","['dance', 'ours']",ours,ours
+"Q: Of the words ""actor"" and ""we"" which one has fewer letters? A:","['actor', 'we']",we,we
+"Q: Which word is shorter, ""year"" or ""skirt""? A:","['year', 'skirt']",year,year
+"Q: Which word is shorter, ""often"" or ""hockey""? A:","['often', 'hockey']",often,often
+"Q: Of the words ""boyfriend"" and ""rest"" which one has fewer letters? A:","['boyfriend', 'rest']",rest,boyfriend
+"Q: Of the words ""above"" and ""how"" which one has fewer letters? A:","['above', 'how']",how,how
+"Q: Which word has fewer letters, ""curtain"" or ""car""? A:","['curtain', 'car']",car,curtain
+"Q: Of the words ""lend"" and ""under"" which one has fewer letters? A:","['lend', 'under']",lend,under
+"Q: Of the words ""word"" and ""wet"" which one has fewer letters? A:","['word', 'wet']",wet,wet
+"Q: Which word is shorter, ""list"" or ""alone""? A:","['list', 'alone']",list,list
+"Q: Which word is shorter, ""enough"" or ""shirt""? A:","['enough', 'shirt']",shirt,enough
+"Q: Of the words ""them"" and ""radio"" which one has fewer letters? A:","['them', 'radio']",them,radio
+"Q: Which word has fewer letters, ""bean"" or ""notes""? A:","['bean', 'notes']",bean,bean
+"Q: Which word has fewer letters, ""dog"" or ""water""? A:","['dog', 'water']",dog,dog
+"Q: Which word has fewer letters, ""finger"" or ""soap""? A:","['finger', 'soap']",soap,finger
+"Q: Which word has fewer letters, ""how"" or ""player""? A:","['how', 'player']",how,player
+"Q: Which word is shorter, ""skating"" or ""dance""? A:","['skating', 'dance']",dance,dance
+"Q: Of the words ""young"" and ""trip"" which one has fewer letters? A:","['young', 'trip']",trip,trip
+"Q: Which word is shorter, ""than"" or ""strange""? A:","['than', 'strange']",than,than
+"Q: Which word is shorter, ""curtain"" or ""car""? A:","['curtain', 'car']",car,car
+"Q: Which word has fewer letters, ""once"" or ""guest""? A:","['once', 'guest']",once,once
+"Q: Of the words ""wild"" and ""might"" which one has fewer letters? A:","['wild', 'might']",wild,wild
+"Q: Which word is shorter, ""die"" or ""subject""? A:","['die', 'subject']",die,die
+"Q: Which word has fewer letters, ""on"" or ""software""? A:","['on', 'software']",on,software
+"Q: Which word has fewer letters, ""hair"" or ""kilogram""? A:","['hair', 'kilogram']",hair,hair
+"Q: Of the words ""leg"" and ""break"" which one has fewer letters? A:","['leg', 'break']",leg,leg
+"Q: Which word is shorter, ""fun"" or ""side""? A:","['fun', 'side']",fun,side
+"Q: Which word has fewer letters, ""copy"" or ""we""? A:","['copy', 'we']",we,copy
+"Q: Which word is shorter, ""date"" or ""new""? A:","['date', 'new']",new,new
+"Q: Which word is shorter, ""pig"" or ""history""? A:","['pig', 'history']",pig,history
+"Q: Of the words ""rich"" and ""me"" which one has fewer letters? A:","['rich', 'me']",me,rich
+"Q: Which word has fewer letters, ""view"" or ""daily""? A:","['view', 'daily']",view,daily
+"Q: Which word has fewer letters, ""taxi"" or ""careful""? A:","['taxi', 'careful']",taxi,taxi
+"Q: Which word is shorter, ""sun"" or ""pack""? A:","['sun', 'pack']",sun,pack
+"Q: Which word has fewer letters, ""money"" or ""person""? A:","['money', 'person']",money,person
+"Q: Which word is shorter, ""minus"" or ""danger""? A:","['minus', 'danger']",minus,minus
+"Q: Of the words ""advice"" and ""belt"" which one has fewer letters? A:","['advice', 'belt']",belt,advice
+"Q: Which word has fewer letters, ""tea"" or ""sport""? A:","['tea', 'sport']",tea,tea
+"Q: Of the words ""soul"" and ""sauce"" which one has fewer letters? A:","['soul', 'sauce']",soul,sauce
+"Q: Which word has fewer letters, ""purse"" or ""year""? A:","['purse', 'year']",year,year
+"Q: Of the words ""flight"" and ""cup"" which one has fewer letters? A:","['flight', 'cup']",cup,flight
+"Q: Which word is shorter, ""family"" or ""heavy""? A:","['family', 'heavy']",heavy,family
+"Q: Which word has fewer letters, ""bother"" or ""ago""? A:","['bother', 'ago']",ago,ago
+"Q: Which word has fewer letters, ""pear"" or ""playground""? A:","['pear', 'playground']",pear,pear
+"Q: Which word is shorter, ""hair"" or ""no""? A:","['hair', 'no']",no,no
+"Q: Which word has fewer letters, ""pair"" or ""win""? A:","['pair', 'win']",win,win
+"Q: Which word has fewer letters, ""notice"" or ""knife""? A:","['notice', 'knife']",knife,notice
+"Q: Of the words ""magic"" and ""in"" which one has fewer letters? A:","['magic', 'in']",in,magic
+"Q: Which word is shorter, ""roast"" or ""folder""? A:","['roast', 'folder']",roast,roast
+"Q: Which word is shorter, ""prize"" or ""chef""? A:","['prize', 'chef']",chef,chef
+"Q: Which word has fewer letters, ""parent"" or ""far""? A:","['parent', 'far']",far,far
+"Q: Which word is shorter, ""begin"" or ""pig""? A:","['begin', 'pig']",pig,begin
+"Q: Of the words ""city"" and ""flower"" which one has fewer letters? A:","['city', 'flower']",city,flower
+"Q: Of the words ""at"" and ""hotel"" which one has fewer letters? A:","['at', 'hotel']",at,at
+"Q: Which word is shorter, ""extra"" or ""polite""? A:","['extra', 'polite']",extra,extra
+"Q: Of the words ""include"" and ""help"" which one has fewer letters? A:","['include', 'help']",help,include
+"Q: Of the words ""under"" and ""history"" which one has fewer letters? A:","['under', 'history']",under,history
+"Q: Of the words ""block"" and ""sad"" which one has fewer letters? A:","['block', 'sad']",sad,block
+"Q: Which word is shorter, ""document"" or ""horse""? A:","['document', 'horse']",horse,document
+"Q: Which word is shorter, ""late"" or ""might""? A:","['late', 'might']",late,late
+"Q: Which word has fewer letters, ""skate"" or ""now""? A:","['skate', 'now']",now,now
+"Q: Which word is shorter, ""half"" or ""daily""? A:","['half', 'daily']",half,daily
+"Q: Which word has fewer letters, ""sure"" or ""spend""? A:","['sure', 'spend']",sure,sure
+"Q: Of the words ""purse"" and ""for"" which one has fewer letters? A:","['purse', 'for']",for,for
+"Q: Of the words ""customer"" and ""cream"" which one has fewer letters? A:","['customer', 'cream']",cream,customer
+"Q: Of the words ""myself"" and ""rock"" which one has fewer letters? A:","['myself', 'rock']",rock,rock
+"Q: Of the words ""old"" and ""snake"" which one has fewer letters? A:","['old', 'snake']",old,snake
+"Q: Which word has fewer letters, ""dance"" or ""kite""? A:","['dance', 'kite']",kite,kite
+"Q: Which word is shorter, ""extra"" or ""hit""? A:","['extra', 'hit']",hit,extra
+"Q: Which word is shorter, ""cabinet"" or ""dinosaur""? A:","['cabinet', 'dinosaur']",cabinet,dinosaur
+"Q: Of the words ""size"" and ""yes"" which one has fewer letters? A:","['size', 'yes']",yes,size
+"Q: Which word has fewer letters, ""so"" or ""birthday""? A:","['so', 'birthday']",so,birthday
+"Q: Which word is shorter, ""bear"" or ""dancer""? A:","['bear', 'dancer']",bear,bear
+"Q: Which word is shorter, ""on"" or ""blanket""? A:","['on', 'blanket']",on,blanket
+"Q: Of the words ""eat"" and ""help"" which one has fewer letters? A:","['eat', 'help']",eat,eat
+"Q: Which word is shorter, ""them"" or ""radio""? A:","['them', 'radio']",them,radio
+"Q: Which word has fewer letters, ""closed"" or ""case""? A:","['closed', 'case']",case,case
+"Q: Which word has fewer letters, ""roast"" or ""rent""? A:","['roast', 'rent']",rent,rent
+"Q: Which word is shorter, ""reading"" or ""put""? A:","['reading', 'put']",put,put
+"Q: Which word has fewer letters, ""birthday"" or ""name""? A:","['birthday', 'name']",name,birthday
+"Q: Which word has fewer letters, ""mad"" or ""it""? A:","['mad', 'it']",it,it
+"Q: Which word has fewer letters, ""next"" or ""sit""? A:","['next', 'sit']",sit,next
+"Q: Which word has fewer letters, ""lake"" or ""sport""? A:","['lake', 'sport']",lake,sport
+"Q: Which word is shorter, ""friend"" or ""piano""? A:","['friend', 'piano']",piano,piano
+"Q: Which word has fewer letters, ""flight"" or ""cup""? A:","['flight', 'cup']",cup,cup
+"Q: Of the words ""things"" and ""sock"" which one has fewer letters? A:","['things', 'sock']",sock,sock
+"Q: Which word has fewer letters, ""nature"" or ""boy""? A:","['nature', 'boy']",boy,boy
+"Q: Which word has fewer letters, ""cheap"" or ""hers""? A:","['cheap', 'hers']",hers,cheap
+"Q: Of the words ""worse"" and ""sky"" which one has fewer letters? A:","['worse', 'sky']",sky,sky
+"Q: Of the words ""low"" and ""when"" which one has fewer letters? A:","['low', 'when']",low,when
+"Q: Which word is shorter, ""so"" or ""plant""? A:","['so', 'plant']",so,so
+"Q: Which word is shorter, ""mother"" or ""other""? A:","['mother', 'other']",other,mother
+"Q: Which word is shorter, ""chair"" or ""girl""? A:","['chair', 'girl']",girl,girl
+"Q: Of the words ""key"" and ""bear"" which one has fewer letters? A:","['key', 'bear']",key,key
+"Q: Which word has fewer letters, ""kitchen"" or ""horse""? A:","['kitchen', 'horse']",horse,horse
+"Q: Of the words ""quiz"" and ""our"" which one has fewer letters? A:","['quiz', 'our']",our,quiz
+"Q: Of the words ""menu"" and ""person"" which one has fewer letters? A:","['menu', 'person']",menu,menu
+"Q: Which word has fewer letters, ""nose"" or ""thing""? A:","['nose', 'thing']",nose,nose
+"Q: Which word has fewer letters, ""best"" or ""empty""? A:","['best', 'empty']",best,empty
+"Q: Which word is shorter, ""boyfriend"" or ""rest""? A:","['boyfriend', 'rest']",rest,rest
+"Q: Which word has fewer letters, ""money"" or ""playground""? A:","['money', 'playground']",money,money
+"Q: Which word is shorter, ""up"" or ""anymore""? A:","['up', 'anymore']",up,anymore
+"Q: Of the words ""flight"" and ""oh"" which one has fewer letters? A:","['flight', 'oh']",oh,flight
+"Q: Which word has fewer letters, ""light"" or ""jacket""? A:","['light', 'jacket']",light,light
+"Q: Which word is shorter, ""near"" or ""young""? A:","['near', 'young']",near,near
+"Q: Which word is shorter, ""fact"" or ""music""? A:","['fact', 'music']",fact,fact
+"Q: Which word is shorter, ""buy"" or ""singer""? A:","['buy', 'singer']",buy,buy
+"Q: Which word has fewer letters, ""us"" or ""file""? A:","['us', 'file']",us,file
+"Q: Which word has fewer letters, ""month"" or ""idea""? A:","['month', 'idea']",idea,month
+"Q: Which word is shorter, ""question"" or ""music""? A:","['question', 'music']",music,question
+"Q: Which word has fewer letters, ""best"" or ""explain""? A:","['best', 'explain']",best,best
+"Q: Of the words ""plus"" and ""fat"" which one has fewer letters? A:","['plus', 'fat']",fat,fat
+"Q: Which word is shorter, ""so"" or ""birthday""? A:","['so', 'birthday']",so,birthday
+"Q: Of the words ""dinosaur"" and ""desk"" which one has fewer letters? A:","['dinosaur', 'desk']",desk,desk
+"Q: Which word has fewer letters, ""walk"" or ""broken""? A:","['walk', 'broken']",walk,walk
+"Q: Of the words ""thin"" and ""world"" which one has fewer letters? A:","['thin', 'world']",thin,thin
+"Q: Which word is shorter, ""market"" or ""bed""? A:","['market', 'bed']",bed,bed
+"Q: Which word is shorter, ""teach"" or ""per""? A:","['teach', 'per']",per,teach
+"Q: Which word is shorter, ""skate"" or ""now""? A:","['skate', 'now']",now,skate
+"Q: Which word has fewer letters, ""problem"" or ""water""? A:","['problem', 'water']",water,problem
+"Q: Of the words ""cabinet"" and ""wet"" which one has fewer letters? A:","['cabinet', 'wet']",wet,wet
+"Q: Of the words ""flight"" and ""fashion"" which one has fewer letters? A:","['flight', 'fashion']",flight,flight
+"Q: Which word is shorter, ""himself"" or ""one""? A:","['himself', 'one']",one,himself
+"Q: Which word is shorter, ""century"" or ""match""? A:","['century', 'match']",match,century
+"Q: Which word has fewer letters, ""change"" or ""also""? A:","['change', 'also']",also,change
+"Q: Of the words ""danger"" and ""guy"" which one has fewer letters? A:","['danger', 'guy']",guy,guy
+"Q: Of the words ""may"" and ""hotel"" which one has fewer letters? A:","['may', 'hotel']",may,may
+"Q: Of the words ""my"" and ""wonderful"" which one has fewer letters? A:","['my', 'wonderful']",my,my
+"Q: Which word has fewer letters, ""parent"" or ""gas""? A:","['parent', 'gas']",gas,gas
+"Q: Which word is shorter, ""play"" or ""upset""? A:","['play', 'upset']",play,play
+"Q: Which word is shorter, ""wet"" or ""holiday""? A:","['wet', 'holiday']",wet,holiday
+"Q: Which word is shorter, ""blouse"" or ""juice""? A:","['blouse', 'juice']",juice,blouse
+"Q: Which word is shorter, ""east"" or ""factory""? A:","['east', 'factory']",east,east
+"Q: Of the words ""hour"" and ""stamp"" which one has fewer letters? A:","['hour', 'stamp']",hour,stamp
+"Q: Of the words ""mango"" and ""carpet"" which one has fewer letters? A:","['mango', 'carpet']",mango,carpet
+"Q: Which word is shorter, ""nice"" or ""lucky""? A:","['nice', 'lucky']",nice,nice
+"Q: Of the words ""safe"" and ""final"" which one has fewer letters? A:","['safe', 'final']",safe,final
+"Q: Which word is shorter, ""move"" or ""bat""? A:","['move', 'bat']",bat,move
+"Q: Of the words ""rich"" and ""reason"" which one has fewer letters? A:","['rich', 'reason']",rich,rich
+"Q: Which word has fewer letters, ""hit"" or ""plant""? A:","['hit', 'plant']",hit,hit
+"Q: Which word is shorter, ""plastic"" or ""end""? A:","['plastic', 'end']",end,plastic
+"Q: Of the words ""improve"" and ""our"" which one has fewer letters? A:","['improve', 'our']",our,our
+"Q: Which word has fewer letters, ""musical"" or ""clown""? A:","['musical', 'clown']",clown,musical
+"Q: Which word is shorter, ""single"" or ""thin""? A:","['single', 'thin']",thin,thin
+"Q: Of the words ""notice"" and ""dirty"" which one has fewer letters? A:","['notice', 'dirty']",dirty,dirty
+"Q: Which word has fewer letters, ""daily"" or ""hungry""? A:","['daily', 'hungry']",daily,hungry
+"Q: Which word is shorter, ""musical"" or ""clown""? A:","['musical', 'clown']",clown,musical
+"Q: Which word has fewer letters, ""slim"" or ""young""? A:","['slim', 'young']",slim,young
+"Q: Which word is shorter, ""history"" or ""wine""? A:","['history', 'wine']",wine,history
+"Q: Of the words ""bank"" and ""keyboard"" which one has fewer letters? A:","['bank', 'keyboard']",bank,keyboard
+"Q: Which word has fewer letters, ""list"" or ""brush""? A:","['list', 'brush']",list,list
+"Q: Of the words ""fun"" and ""side"" which one has fewer letters? A:","['fun', 'side']",fun,side
+"Q: Of the words ""turn"" and ""flower"" which one has fewer letters? A:","['turn', 'flower']",turn,flower
+"Q: Which word has fewer letters, ""windy"" or ""with""? A:","['windy', 'with']",with,with
+"Q: Of the words ""musical"" and ""kite"" which one has fewer letters? A:","['musical', 'kite']",kite,musical
+"Q: Which word has fewer letters, ""carpet"" or ""sad""? A:","['carpet', 'sad']",sad,carpet
+"Q: Of the words ""store"" and ""real"" which one has fewer letters? A:","['store', 'real']",real,real
+"Q: Which word is shorter, ""silver"" or ""meat""? A:","['silver', 'meat']",meat,meat
+"Q: Of the words ""mix"" and ""diary"" which one has fewer letters? A:","['mix', 'diary']",mix,diary
+"Q: Of the words ""hospital"" and ""closed"" which one has fewer letters? A:","['hospital', 'closed']",closed,hospital
+"Q: Which word is shorter, ""friendly"" or ""bike""? A:","['friendly', 'bike']",bike,friendly
+"Q: Which word has fewer letters, ""spring"" or ""rent""? A:","['spring', 'rent']",rent,spring
+"Q: Which word has fewer letters, ""glad"" or ""maybe""? A:","['glad', 'maybe']",glad,glad
+"Q: Which word has fewer letters, ""fat"" or ""skirt""? A:","['fat', 'skirt']",fat,fat
+"Q: Which word is shorter, ""large"" or ""guy""? A:","['large', 'guy']",guy,guy
+"Q: Which word is shorter, ""normal"" or ""empty""? A:","['normal', 'empty']",empty,empty
+"Q: Which word is shorter, ""guitar"" or ""at""? A:","['guitar', 'at']",at,at
+"Q: Of the words ""name"" and ""polite"" which one has fewer letters? A:","['name', 'polite']",name,name
+"Q: Which word has fewer letters, ""you"" or ""club""? A:","['you', 'club']",you,club
+"Q: Which word has fewer letters, ""magic"" or ""in""? A:","['magic', 'in']",in,in
+"Q: Which word is shorter, ""explain"" or ""cup""? A:","['explain', 'cup']",cup,explain
+"Q: Which word is shorter, ""stadium"" or ""build""? A:","['stadium', 'build']",build,build
+"Q: Which word has fewer letters, ""things"" or ""hit""? A:","['things', 'hit']",hit,things
+"Q: Which word is shorter, ""forest"" or ""map""? A:","['forest', 'map']",map,map
+"Q: Which word is shorter, ""mother"" or ""cost""? A:","['mother', 'cost']",cost,mother
+"Q: Which word is shorter, ""later"" or ""cloudy""? A:","['later', 'cloudy']",later,cloudy
+"Q: Which word has fewer letters, ""nose"" or ""explain""? A:","['nose', 'explain']",nose,nose
+"Q: Which word is shorter, ""curtain"" or ""fork""? A:","['curtain', 'fork']",fork,fork
+"Q: Which word has fewer letters, ""listen"" or ""fail""? A:","['listen', 'fail']",fail,listen
+"Q: Of the words ""half"" and ""keyboard"" which one has fewer letters? A:","['half', 'keyboard']",half,half
+"Q: Which word has fewer letters, ""strong"" or ""often""? A:","['strong', 'often']",often,strong
+"Q: Which word has fewer letters, ""mug"" or ""drum""? A:","['mug', 'drum']",mug,mug
+"Q: Which word has fewer letters, ""skate"" or ""soup""? A:","['skate', 'soup']",soup,soup
+"Q: Of the words ""south"" and ""cry"" which one has fewer letters? A:","['south', 'cry']",cry,cry
+"Q: Which word is shorter, ""fit"" or ""slow""? A:","['fit', 'slow']",fit,fit
+"Q: Which word has fewer letters, ""storm"" or ""park""? A:","['storm', 'park']",park,storm
+"Q: Which word has fewer letters, ""swim"" or ""ocean""? A:","['swim', 'ocean']",swim,ocean
+"Q: Which word is shorter, ""meat"" or ""wonderful""? A:","['meat', 'wonderful']",meat,meat
+"Q: Of the words ""crowd"" and ""sing"" which one has fewer letters? A:","['crowd', 'sing']",sing,crowd
+"Q: Which word is shorter, ""nature"" or ""quick""? A:","['nature', 'quick']",quick,quick
+"Q: Which word is shorter, ""badly"" or ""toe""? A:","['badly', 'toe']",toe,toe
+"Q: Which word is shorter, ""war"" or ""wrong""? A:","['war', 'wrong']",war,war
+"Q: Of the words ""document"" and ""pair"" which one has fewer letters? A:","['document', 'pair']",pair,pair
+"Q: Which word is shorter, ""back"" or ""flower""? A:","['back', 'flower']",back,flower
+"Q: Which word has fewer letters, ""answer"" or ""grape""? A:","['answer', 'grape']",grape,answer
+"Q: Which word has fewer letters, ""crazy"" or ""page""? A:","['crazy', 'page']",page,page
+"Q: Which word has fewer letters, ""get"" or ""second""? A:","['get', 'second']",get,second
+"Q: Of the words ""sugar"" and ""win"" which one has fewer letters? A:","['sugar', 'win']",win,sugar
+"Q: Which word has fewer letters, ""myself"" or ""yeah""? A:","['myself', 'yeah']",yeah,yeah
+"Q: Of the words ""chat"" and ""learn"" which one has fewer letters? A:","['chat', 'learn']",chat,chat
+"Q: Which word is shorter, ""at"" or ""bank""? A:","['at', 'bank']",at,bank
+"Q: Of the words ""tire"" and ""smoking"" which one has fewer letters? A:","['tire', 'smoking']",tire,smoking
+"Q: Of the words ""fish"" and ""rap"" which one has fewer letters? A:","['fish', 'rap']",rap,fish
+"Q: Which word is shorter, ""on"" or ""chat""? A:","['on', 'chat']",on,chat
+"Q: Which word has fewer letters, ""buy"" or ""history""? A:","['buy', 'history']",buy,buy
+"Q: Of the words ""himself"" and ""one"" which one has fewer letters? A:","['himself', 'one']",one,himself
+"Q: Which word has fewer letters, ""half"" or ""dangerous""? A:","['half', 'dangerous']",half,half
+"Q: Of the words ""daughter"" and ""foreign"" which one has fewer letters? A:","['daughter', 'foreign']",foreign,foreign
+"Q: Which word is shorter, ""square"" or ""field""? A:","['square', 'field']",field,square
+"Q: Which word has fewer letters, ""best"" or ""subject""? A:","['best', 'subject']",best,best
+"Q: Which word is shorter, ""fresh"" or ""fire""? A:","['fresh', 'fire']",fire,fire
+"Q: Which word has fewer letters, ""life"" or ""improve""? A:","['life', 'improve']",life,life
+"Q: Which word has fewer letters, ""wonderful"" or ""them""? A:","['wonderful', 'them']",them,wonderful
+"Q: Which word is shorter, ""clown"" or ""bike""? A:","['clown', 'bike']",bike,clown
+"Q: Which word is shorter, ""sing"" or ""shower""? A:","['sing', 'shower']",sing,shower
+"Q: Which word has fewer letters, ""out"" or ""history""? A:","['out', 'history']",out,out
+"Q: Which word is shorter, ""rich"" or ""strange""? A:","['rich', 'strange']",rich,rich
+"Q: Which word has fewer letters, ""car"" or ""shirt""? A:","['car', 'shirt']",car,car
+"Q: Which word has fewer letters, ""dirty"" or ""listen""? A:","['dirty', 'listen']",dirty,listen
+"Q: Of the words ""modern"" and ""below"" which one has fewer letters? A:","['modern', 'below']",below,modern
+"Q: Which word is shorter, ""place"" or ""careful""? A:","['place', 'careful']",place,place
+"Q: Which word is shorter, ""dog"" or ""water""? A:","['dog', 'water']",dog,water
+"Q: Which word has fewer letters, ""yeah"" or ""dirty""? A:","['yeah', 'dirty']",yeah,dirty
+"Q: Which word has fewer letters, ""outside"" or ""bring""? A:","['outside', 'bring']",bring,bring
+"Q: Which word has fewer letters, ""date"" or ""steal""? A:","['date', 'steal']",date,date
+"Q: Which word has fewer letters, ""sign"" or ""spring""? A:","['sign', 'spring']",sign,sign
+"Q: Which word has fewer letters, ""plate"" or ""pet""? A:","['plate', 'pet']",pet,pet
+"Q: Which word has fewer letters, ""ocean"" or ""jacket""? A:","['ocean', 'jacket']",ocean,ocean
+"Q: Of the words ""single"" and ""thin"" which one has fewer letters? A:","['single', 'thin']",thin,thin
+"Q: Which word has fewer letters, ""cola"" or ""surfing""? A:","['cola', 'surfing']",cola,surfing
+"Q: Of the words ""player"" and ""liter"" which one has fewer letters? A:","['player', 'liter']",liter,player
+"Q: Which word is shorter, ""details"" or ""seat""? A:","['details', 'seat']",seat,seat
+"Q: Which word is shorter, ""leg"" or ""break""? A:","['leg', 'break']",leg,leg
+"Q: Which word is shorter, ""purse"" or ""bear""? A:","['purse', 'bear']",bear,purse
+"Q: Which word is shorter, ""actor"" or ""sit""? A:","['actor', 'sit']",sit,sit
+"Q: Which word is shorter, ""friendly"" or ""soup""? A:","['friendly', 'soup']",soup,friendly
+"Q: Of the words ""simple"" and ""size"" which one has fewer letters? A:","['simple', 'size']",size,simple
+"Q: Which word has fewer letters, ""world"" or ""soft""? A:","['world', 'soft']",soft,world
+"Q: Which word has fewer letters, ""tired"" or ""our""? A:","['tired', 'our']",our,our
+"Q: Which word is shorter, ""swim"" or ""movie""? A:","['swim', 'movie']",swim,movie
+"Q: Of the words ""no"" and ""ours"" which one has fewer letters? A:","['no', 'ours']",no,no
+"Q: Which word is shorter, ""key"" or ""bear""? A:","['key', 'bear']",key,key
+"Q: Of the words ""show"" and ""hat"" which one has fewer letters? A:","['show', 'hat']",hat,show
+"Q: Which word has fewer letters, ""hospital"" or ""closed""? A:","['hospital', 'closed']",closed,hospital
+"Q: Of the words ""thank"" and ""cat"" which one has fewer letters? A:","['thank', 'cat']",cat,thank
+"Q: Of the words ""strong"" and ""often"" which one has fewer letters? A:","['strong', 'often']",often,strong
+"Q: Which word has fewer letters, ""flight"" or ""fashion""? A:","['flight', 'fashion']",flight,flight
+"Q: Of the words ""stage"" and ""poster"" which one has fewer letters? A:","['stage', 'poster']",stage,stage
+"Q: Of the words ""ocean"" and ""plastic"" which one has fewer letters? A:","['ocean', 'plastic']",ocean,ocean
+"Q: Which word is shorter, ""sun"" or ""page""? A:","['sun', 'page']",sun,sun
+"Q: Of the words ""type"" and ""kitchen"" which one has fewer letters? A:","['type', 'kitchen']",type,kitchen
+"Q: Which word is shorter, ""history"" or ""team""? A:","['history', 'team']",team,team
+"Q: Which word is shorter, ""car"" or ""trip""? A:","['car', 'trip']",car,trip
+"Q: Which word has fewer letters, ""fast"" or ""fruit""? A:","['fast', 'fruit']",fast,fruit
+"Q: Which word is shorter, ""grow"" or ""leg""? A:","['grow', 'leg']",leg,grow
+"Q: Which word has fewer letters, ""closet"" or ""show""? A:","['closet', 'show']",show,show
+"Q: Which word has fewer letters, ""danger"" or ""kite""? A:","['danger', 'kite']",kite,danger
+"Q: Which word has fewer letters, ""piano"" or ""left""? A:","['piano', 'left']",left,left
+"Q: Which word is shorter, ""subway"" or ""reading""? A:","['subway', 'reading']",subway,subway
+"Q: Which word has fewer letters, ""rain"" or ""monkey""? A:","['rain', 'monkey']",rain,rain
+"Q: Which word has fewer letters, ""tea"" or ""find""? A:","['tea', 'find']",tea,tea
+"Q: Which word has fewer letters, ""chef"" or ""other""? A:","['chef', 'other']",chef,chef
+"Q: Which word is shorter, ""over"" or ""painter""? A:","['over', 'painter']",over,over
+"Q: Which word is shorter, ""cow"" or ""lend""? A:","['cow', 'lend']",cow,cow
+"Q: Which word has fewer letters, ""quiz"" or ""boy""? A:","['quiz', 'boy']",boy,quiz
+"Q: Which word has fewer letters, ""hit"" or ""down""? A:","['hit', 'down']",hit,hit
+"Q: Which word has fewer letters, ""monkey"" or ""find""? A:","['monkey', 'find']",find,find
+"Q: Of the words ""soul"" and ""beard"" which one has fewer letters? A:","['soul', 'beard']",soul,soul
+"Q: Which word has fewer letters, ""deck"" or ""cabinet""? A:","['deck', 'cabinet']",deck,deck
+"Q: Of the words ""rugby"" and ""long"" which one has fewer letters? A:","['rugby', 'long']",long,rugby
+"Q: Of the words ""glad"" and ""finger"" which one has fewer letters? A:","['glad', 'finger']",glad,finger
+"Q: Which word has fewer letters, ""sea"" or ""fruit""? A:","['sea', 'fruit']",sea,sea
+"Q: Of the words ""wild"" and ""neighbor"" which one has fewer letters? A:","['wild', 'neighbor']",wild,neighbor
+"Q: Of the words ""daily"" and ""hungry"" which one has fewer letters? A:","['daily', 'hungry']",daily,hungry
+"Q: Of the words ""date"" and ""new"" which one has fewer letters? A:","['date', 'new']",new,new
+"Q: Of the words ""far"" and ""smoke"" which one has fewer letters? A:","['far', 'smoke']",far,smoke
+"Q: Which word is shorter, ""century"" or ""guest""? A:","['century', 'guest']",guest,guest
+"Q: Which word is shorter, ""water"" or ""very""? A:","['water', 'very']",very,water
+"Q: Of the words ""bean"" and ""plane"" which one has fewer letters? A:","['bean', 'plane']",bean,plane
+"Q: Which word has fewer letters, ""flower"" or ""soup""? A:","['flower', 'soup']",soup,flower
+"Q: Which word is shorter, ""cheap"" or ""holiday""? A:","['cheap', 'holiday']",cheap,cheap
+"Q: Of the words ""cloud"" and ""past"" which one has fewer letters? A:","['cloud', 'past']",past,cloud
+"Q: Of the words ""question"" and ""music"" which one has fewer letters? A:","['question', 'music']",music,question
+"Q: Of the words ""fried"" and ""new"" which one has fewer letters? A:","['fried', 'new']",new,new
+"Q: Of the words ""family"" and ""careful"" which one has fewer letters? A:","['family', 'careful']",family,family
+"Q: Of the words ""heavy"" and ""they"" which one has fewer letters? A:","['heavy', 'they']",they,heavy
+"Q: Which word has fewer letters, ""grow"" or ""leg""? A:","['grow', 'leg']",leg,grow
+"Q: Of the words ""world"" and ""soft"" which one has fewer letters? A:","['world', 'soft']",soft,world
+"Q: Which word has fewer letters, ""pig"" or ""history""? A:","['pig', 'history']",pig,pig
+"Q: Which word is shorter, ""bar"" or ""suit""? A:","['bar', 'suit']",bar,suit
+"Q: Of the words ""chair"" and ""girl"" which one has fewer letters? A:","['chair', 'girl']",girl,chair
+"Q: Of the words ""pet"" and ""table"" which one has fewer letters? A:","['pet', 'table']",pet,pet
+"Q: Which word is shorter, ""question"" or ""disco""? A:","['question', 'disco']",disco,question
+"Q: Which word has fewer letters, ""answer"" or ""point""? A:","['answer', 'point']",point,answer
+"Q: Which word has fewer letters, ""kilo"" or ""along""? A:","['kilo', 'along']",kilo,along
+"Q: Of the words ""white"" and ""can"" which one has fewer letters? A:","['white', 'can']",can,can
+"Q: Which word has fewer letters, ""close"" or ""arm""? A:","['close', 'arm']",arm,close
+"Q: Of the words ""head"" and ""plate"" which one has fewer letters? A:","['head', 'plate']",head,plate
+"Q: Which word is shorter, ""place"" or ""neighbor""? A:","['place', 'neighbor']",place,neighbor
+"Q: Which word has fewer letters, ""must"" or ""oil""? A:","['must', 'oil']",oil,must
+"Q: Which word has fewer letters, ""year"" or ""skirt""? A:","['year', 'skirt']",year,year
+"Q: Of the words ""fried"" and ""town"" which one has fewer letters? A:","['fried', 'town']",town,fried
+"Q: Which word has fewer letters, ""ready"" or ""open""? A:","['ready', 'open']",open,ready
+"Q: Which word is shorter, ""cover"" or ""know""? A:","['cover', 'know']",know,cover
+"Q: Of the words ""slim"" and ""young"" which one has fewer letters? A:","['slim', 'young']",slim,young
+"Q: Which word is shorter, ""delay"" or ""company""? A:","['delay', 'company']",delay,delay
+"Q: Of the words ""sky"" and ""kite"" which one has fewer letters? A:","['sky', 'kite']",sky,kite
+"Q: Which word has fewer letters, ""soul"" or ""machine""? A:","['soul', 'machine']",soul,soul
+"Q: Of the words ""reason"" and ""plate"" which one has fewer letters? A:","['reason', 'plate']",plate,reason
+"Q: Which word has fewer letters, ""only"" or ""project""? A:","['only', 'project']",only,project
+"Q: Which word has fewer letters, ""rap"" or ""pain""? A:","['rap', 'pain']",rap,rap
+"Q: Which word is shorter, ""listen"" or ""card""? A:","['listen', 'card']",card,card
+"Q: Which word has fewer letters, ""take"" or ""bus""? A:","['take', 'bus']",bus,bus
+"Q: Of the words ""fish"" and ""since"" which one has fewer letters? A:","['fish', 'since']",fish,since
+"Q: Which word has fewer letters, ""thin"" or ""world""? A:","['thin', 'world']",thin,world
+"Q: Which word has fewer letters, ""nature"" or ""lazy""? A:","['nature', 'lazy']",lazy,nature
+"Q: Which word is shorter, ""chair"" or ""sink""? A:","['chair', 'sink']",sink,chair
+"Q: Which word is shorter, ""various"" or ""teach""? A:","['various', 'teach']",teach,various
+"Q: Which word has fewer letters, ""build"" or ""we""? A:","['build', 'we']",we,we
+"Q: Which word has fewer letters, ""lunch"" or ""sink""? A:","['lunch', 'sink']",sink,lunch
+"Q: Which word is shorter, ""player"" or ""blanket""? A:","['player', 'blanket']",player,blanket
+"Q: Which word has fewer letters, ""hour"" or ""stamp""? A:","['hour', 'stamp']",hour,hour
+"Q: Which word has fewer letters, ""husband"" or ""bag""? A:","['husband', 'bag']",bag,bag
+"Q: Which word is shorter, ""badly"" or ""parent""? A:","['badly', 'parent']",badly,badly
+"Q: Of the words ""question"" and ""town"" which one has fewer letters? A:","['question', 'town']",town,question
+"Q: Of the words ""north"" and ""box"" which one has fewer letters? A:","['north', 'box']",box,north
+"Q: Which word is shorter, ""not"" or ""glove""? A:","['not', 'glove']",not,glove
+"Q: Of the words ""often"" and ""pet"" which one has fewer letters? A:","['often', 'pet']",pet,pet
+"Q: Of the words ""bother"" and ""one"" which one has fewer letters? A:","['bother', 'one']",one,bother
+"Q: Which word is shorter, ""quiet"" or ""fun""? A:","['quiet', 'fun']",fun,quiet
+"Q: Which word is shorter, ""long"" or ""reading""? A:","['long', 'reading']",long,long
+"Q: Of the words ""problem"" and ""make"" which one has fewer letters? A:","['problem', 'make']",make,problem
+"Q: Which word has fewer letters, ""fog"" or ""musical""? A:","['fog', 'musical']",fog,musical
+"Q: Of the words ""keyboard"" and ""mark"" which one has fewer letters? A:","['keyboard', 'mark']",mark,keyboard
+"Q: Which word is shorter, ""yet"" or ""board""? A:","['yet', 'board']",yet,board
+"Q: Of the words ""toy"" and ""angry"" which one has fewer letters? A:","['toy', 'angry']",toy,angry
+"Q: Which word is shorter, ""foreign"" or ""pray""? A:","['foreign', 'pray']",pray,foreign
+"Q: Which word is shorter, ""husband"" or ""exit""? A:","['husband', 'exit']",exit,exit
+"Q: Of the words ""quick"" and ""cake"" which one has fewer letters? A:","['quick', 'cake']",cake,quick
+"Q: Which word is shorter, ""camping"" or ""bed""? A:","['camping', 'bed']",bed,camping
+"Q: Which word has fewer letters, ""worse"" or ""minute""? A:","['worse', 'minute']",worse,minute
+"Q: Of the words ""disco"" and ""fly"" which one has fewer letters? A:","['disco', 'fly']",fly,disco
+"Q: Which word has fewer letters, ""for"" or ""more""? A:","['for', 'more']",for,for
+"Q: Which word is shorter, ""her"" or ""lunch""? A:","['her', 'lunch']",her,lunch
+"Q: Which word has fewer letters, ""silver"" or ""meat""? A:","['silver', 'meat']",meat,silver
+"Q: Of the words ""write"" and ""bus"" which one has fewer letters? A:","['write', 'bus']",bus,write
+"Q: Of the words ""cent"" and ""eat"" which one has fewer letters? A:","['cent', 'eat']",eat,cent
+"Q: Which word has fewer letters, ""opera"" or ""than""? A:","['opera', 'than']",than,opera
+"Q: Which word is shorter, ""hour"" or ""stamp""? A:","['hour', 'stamp']",hour,hour
+"Q: Of the words ""company"" and ""birth"" which one has fewer letters? A:","['company', 'birth']",birth,birth
+"Q: Which word has fewer letters, ""guitar"" or ""rest""? A:","['guitar', 'rest']",rest,guitar
+"Q: Which word is shorter, ""pocket"" or ""delay""? A:","['pocket', 'delay']",delay,delay
+"Q: Which word has fewer letters, ""purse"" or ""bear""? A:","['purse', 'bear']",bear,purse
+"Q: Of the words ""wide"" and ""mix"" which one has fewer letters? A:","['wide', 'mix']",mix,mix
+"Q: Which word has fewer letters, ""curtain"" or ""fork""? A:","['curtain', 'fork']",fork,fork
+"Q: Which word has fewer letters, ""sign"" or ""price""? A:","['sign', 'price']",sign,sign
+"Q: Which word has fewer letters, ""teach"" or ""lazy""? A:","['teach', 'lazy']",lazy,teach
+"Q: Which word has fewer letters, ""deck"" or ""final""? A:","['deck', 'final']",deck,final
+"Q: Of the words ""drive"" and ""fog"" which one has fewer letters? A:","['drive', 'fog']",fog,drive
+"Q: Of the words ""meat"" and ""wonderful"" which one has fewer letters? A:","['meat', 'wonderful']",meat,meat
+"Q: Of the words ""by"" and ""skirt"" which one has fewer letters? A:","['by', 'skirt']",by,skirt
+"Q: Which word has fewer letters, ""fact"" or ""table""? A:","['fact', 'table']",fact,table
+"Q: Which word has fewer letters, ""move"" or ""bat""? A:","['move', 'bat']",bat,move
+"Q: Which word is shorter, ""cloud"" or ""find""? A:","['cloud', 'find']",find,cloud
+"Q: Which word is shorter, ""go"" or ""parent""? A:","['go', 'parent']",go,go
+"Q: Which word has fewer letters, ""piano"" or ""club""? A:","['piano', 'club']",club,club
+"Q: Which word is shorter, ""you"" or ""exactly""? A:","['you', 'exactly']",you,exactly
+"Q: Of the words ""move"" and ""bat"" which one has fewer letters? A:","['move', 'bat']",bat,bat
+"Q: Which word has fewer letters, ""listen"" or ""me""? A:","['listen', 'me']",me,listen
+"Q: Which word has fewer letters, ""cola"" or ""night""? A:","['cola', 'night']",cola,night
+"Q: Of the words ""for"" and ""more"" which one has fewer letters? A:","['for', 'more']",for,for
+"Q: Which word is shorter, ""heavy"" or ""soap""? A:","['heavy', 'soap']",soap,heavy
+"Q: Of the words ""life"" and ""improve"" which one has fewer letters? A:","['life', 'improve']",life,life
+"Q: Which word has fewer letters, ""various"" or ""windy""? A:","['various', 'windy']",windy,various
+"Q: Which word has fewer letters, ""late"" or ""might""? A:","['late', 'might']",late,late
+"Q: Which word has fewer letters, ""itself"" or ""half""? A:","['itself', 'half']",half,half
+"Q: Which word is shorter, ""rugby"" or ""long""? A:","['rugby', 'long']",long,long
+"Q: Which word has fewer letters, ""chemistry"" or ""line""? A:","['chemistry', 'line']",line,line
+"Q: Which word has fewer letters, ""fast"" or ""heavy""? A:","['fast', 'heavy']",fast,heavy
+"Q: Which word has fewer letters, ""south"" or ""fact""? A:","['south', 'fact']",fact,south
+"Q: Of the words ""busy"" and ""write"" which one has fewer letters? A:","['busy', 'write']",busy,write
+"Q: Of the words ""must"" and ""bad"" which one has fewer letters? A:","['must', 'bad']",bad,bad
+"Q: Which word has fewer letters, ""cabinet"" or ""wet""? A:","['cabinet', 'wet']",wet,cabinet
+"Q: Which word is shorter, ""friendly"" or ""lift""? A:","['friendly', 'lift']",lift,friendly
+"Q: Of the words ""at"" and ""bank"" which one has fewer letters? A:","['at', 'bank']",at,at
+"Q: Which word is shorter, ""not"" or ""worse""? A:","['not', 'worse']",not,worse
+"Q: Which word has fewer letters, ""left"" or ""fresh""? A:","['left', 'fresh']",left,left
+"Q: Which word is shorter, ""enjoy"" or ""work""? A:","['enjoy', 'work']",work,enjoy
+"Q: Of the words ""empty"" and ""singular"" which one has fewer letters? A:","['empty', 'singular']",empty,empty
+"Q: Of the words ""store"" and ""glad"" which one has fewer letters? A:","['store', 'glad']",glad,glad
+"Q: Of the words ""friendly"" and ""lift"" which one has fewer letters? A:","['friendly', 'lift']",lift,friendly
+"Q: Which word is shorter, ""bag"" or ""lunch""? A:","['bag', 'lunch']",bag,lunch
+"Q: Which word is shorter, ""company"" or ""birth""? A:","['company', 'birth']",birth,company
+"Q: Which word has fewer letters, ""nice"" or ""hat""? A:","['nice', 'hat']",hat,nice
+"Q: Of the words ""chef"" and ""other"" which one has fewer letters? A:","['chef', 'other']",chef,other
+"Q: Which word has fewer letters, ""lazy"" or ""black""? A:","['lazy', 'black']",lazy,black
+"Q: Which word is shorter, ""talk"" or ""shelf""? A:","['talk', 'shelf']",talk,talk
+"Q: Which word is shorter, ""soap"" or ""space""? A:","['soap', 'space']",soap,soap
