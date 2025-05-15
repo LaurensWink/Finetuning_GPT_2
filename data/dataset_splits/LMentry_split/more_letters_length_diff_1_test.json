@@ -1,0 +1,4802 @@
+[
+  {
+    "input": "Q: Which word is longer, \"point\" or \"jacket\"? A:",
+    "output": "jacket",
+    "options": [
+      "point",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"tour\" or \"roast\"? A:",
+    "output": "roast",
+    "options": [
+      "tour",
+      "roast"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"careful\" or \"worst\"? A:",
+    "output": "careful",
+    "options": [
+      "careful",
+      "worst"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"friendly\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "friendly",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wonderful\" and \"diploma\" which one has more letters? A:",
+    "output": "wonderful",
+    "options": [
+      "wonderful",
+      "diploma"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"dinosaur\" or \"cloudy\"? A:",
+    "output": "dinosaur",
+    "options": [
+      "dinosaur",
+      "cloudy"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"enough\" or \"various\"? A:",
+    "output": "various",
+    "options": [
+      "enough",
+      "various"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"special\" and \"favorite\" which one has more letters? A:",
+    "output": "favorite",
+    "options": [
+      "special",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dirty\" or \"buy\"? A:",
+    "output": "dirty",
+    "options": [
+      "dirty",
+      "buy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"blond\" and \"shower\" which one has more letters? A:",
+    "output": "shower",
+    "options": [
+      "blond",
+      "shower"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mosque\" and \"also\" which one has more letters? A:",
+    "output": "mosque",
+    "options": [
+      "mosque",
+      "also"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"minute\" or \"favorite\"? A:",
+    "output": "favorite",
+    "options": [
+      "minute",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"boyfriend\" or \"holiday\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "holiday"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"grape\" or \"uniform\"? A:",
+    "output": "uniform",
+    "options": [
+      "grape",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sick\" and \"closed\" which one has more letters? A:",
+    "output": "closed",
+    "options": [
+      "sick",
+      "closed"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"country\" or \"sandwich\"? A:",
+    "output": "sandwich",
+    "options": [
+      "country",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"fried\" or \"himself\"? A:",
+    "output": "himself",
+    "options": [
+      "fried",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"stadium\" or \"guitar\"? A:",
+    "output": "stadium",
+    "options": [
+      "stadium",
+      "guitar"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"easy\" and \"strong\" which one has more letters? A:",
+    "output": "strong",
+    "options": [
+      "easy",
+      "strong"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"grape\" and \"bother\" which one has more letters? A:",
+    "output": "bother",
+    "options": [
+      "grape",
+      "bother"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"gate\" or \"grade\"? A:",
+    "output": "grade",
+    "options": [
+      "gate",
+      "grade"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"father\" or \"awful\"? A:",
+    "output": "father",
+    "options": [
+      "father",
+      "awful"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"sock\" or \"cheap\"? A:",
+    "output": "cheap",
+    "options": [
+      "sock",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"some\" and \"grape\" which one has more letters? A:",
+    "output": "grape",
+    "options": [
+      "some",
+      "grape"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"honey\" or \"chat\"? A:",
+    "output": "honey",
+    "options": [
+      "honey",
+      "chat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"modern\" and \"platform\" which one has more letters? A:",
+    "output": "platform",
+    "options": [
+      "modern",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"careful\" and \"dangerous\" which one has more letters? A:",
+    "output": "dangerous",
+    "options": [
+      "careful",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"space\" or \"map\"? A:",
+    "output": "space",
+    "options": [
+      "space",
+      "map"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"strange\" or \"worse\"? A:",
+    "output": "strange",
+    "options": [
+      "strange",
+      "worse"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"outside\" or \"keyboard\"? A:",
+    "output": "keyboard",
+    "options": [
+      "outside",
+      "keyboard"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"plastic\" or \"wonderful\"? A:",
+    "output": "wonderful",
+    "options": [
+      "plastic",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"hit\" or \"woman\"? A:",
+    "output": "woman",
+    "options": [
+      "hit",
+      "woman"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"child\" or \"sick\"? A:",
+    "output": "child",
+    "options": [
+      "child",
+      "sick"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"spend\" and \"fashion\" which one has more letters? A:",
+    "output": "fashion",
+    "options": [
+      "spend",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"subject\" or \"parent\"? A:",
+    "output": "subject",
+    "options": [
+      "subject",
+      "parent"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"country\" or \"candy\"? A:",
+    "output": "country",
+    "options": [
+      "country",
+      "candy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"theirs\" and \"neighbor\" which one has more letters? A:",
+    "output": "neighbor",
+    "options": [
+      "theirs",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"wonderful\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"reading\" or \"train\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"reading\" or \"train\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"surfing\" or \"final\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "final"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"print\" or \"project\"? A:",
+    "output": "project",
+    "options": [
+      "print",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"story\" or \"famous\"? A:",
+    "output": "famous",
+    "options": [
+      "story",
+      "famous"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"birth\" or \"yes\"? A:",
+    "output": "birth",
+    "options": [
+      "birth",
+      "yes"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"busy\" or \"mango\"? A:",
+    "output": "mango",
+    "options": [
+      "busy",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"since\" or \"park\"? A:",
+    "output": "since",
+    "options": [
+      "since",
+      "park"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plastic\" and \"match\" which one has more letters? A:",
+    "output": "plastic",
+    "options": [
+      "plastic",
+      "match"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"mean\" or \"climb\"? A:",
+    "output": "climb",
+    "options": [
+      "mean",
+      "climb"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"keyboard\" and \"uniform\" which one has more letters? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"chemistry\" or \"smoking\"? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "smoking"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"pocket\" or \"face\"? A:",
+    "output": "pocket",
+    "options": [
+      "pocket",
+      "face"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"friendly\" and \"boyfriend\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "friendly",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"friend\" or \"factory\"? A:",
+    "output": "factory",
+    "options": [
+      "friend",
+      "factory"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bright\" and \"outside\" which one has more letters? A:",
+    "output": "outside",
+    "options": [
+      "bright",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"keyboard\" or \"family\"? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "family"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"keyboard\" and \"strange\" which one has more letters? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "strange"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"must\" or \"boring\"? A:",
+    "output": "boring",
+    "options": [
+      "must",
+      "boring"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"glove\" or \"uniform\"? A:",
+    "output": "uniform",
+    "options": [
+      "glove",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"castle\" and \"size\" which one has more letters? A:",
+    "output": "castle",
+    "options": [
+      "castle",
+      "size"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"playground\" or \"document\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "document"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"above\" or \"travel\"? A:",
+    "output": "travel",
+    "options": [
+      "above",
+      "travel"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"space\" or \"polite\"? A:",
+    "output": "polite",
+    "options": [
+      "space",
+      "polite"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"reading\" or \"pencil\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"their\" or \"more\"? A:",
+    "output": "their",
+    "options": [
+      "their",
+      "more"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"about\" or \"century\"? A:",
+    "output": "century",
+    "options": [
+      "about",
+      "century"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"notes\" or \"toy\"? A:",
+    "output": "notes",
+    "options": [
+      "notes",
+      "toy"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"slow\" or \"sound\"? A:",
+    "output": "sound",
+    "options": [
+      "slow",
+      "sound"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"favorite\" or \"makeup\"? A:",
+    "output": "favorite",
+    "options": [
+      "favorite",
+      "makeup"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"noisy\" or \"join\"? A:",
+    "output": "noisy",
+    "options": [
+      "noisy",
+      "join"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"soap\" or \"should\"? A:",
+    "output": "should",
+    "options": [
+      "soap",
+      "should"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"daily\" or \"stomach\"? A:",
+    "output": "stomach",
+    "options": [
+      "daily",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"something\" and \"painter\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "painter"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"slice\" and \"word\" which one has more letters? A:",
+    "output": "slice",
+    "options": [
+      "slice",
+      "word"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"another\" or \"wonderful\"? A:",
+    "output": "wonderful",
+    "options": [
+      "another",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"famous\" or \"outside\"? A:",
+    "output": "outside",
+    "options": [
+      "famous",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"computer\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "computer",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"singular\" and \"camping\" which one has more letters? A:",
+    "output": "singular",
+    "options": [
+      "singular",
+      "camping"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stadium\" and \"boyfriend\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "stadium",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"drawing\" and \"shelf\" which one has more letters? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "shelf"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"painter\" and \"friendly\" which one has more letters? A:",
+    "output": "friendly",
+    "options": [
+      "painter",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"reading\" or \"pencil\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"platform\" or \"mother\"? A:",
+    "output": "platform",
+    "options": [
+      "platform",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"various\" or \"boyfriend\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "various",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"write\" or \"various\"? A:",
+    "output": "various",
+    "options": [
+      "write",
+      "various"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"playground\" and \"document\" which one has more letters? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "document"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"theirs\" or \"neighbor\"? A:",
+    "output": "neighbor",
+    "options": [
+      "theirs",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"painter\" and \"bread\" which one has more letters? A:",
+    "output": "painter",
+    "options": [
+      "painter",
+      "bread"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"improve\" or \"travel\"? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "travel"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"musical\" and \"famous\" which one has more letters? A:",
+    "output": "musical",
+    "options": [
+      "musical",
+      "famous"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"boyfriend\" and \"plastic\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"explain\" or \"lunchtime\"? A:",
+    "output": "lunchtime",
+    "options": [
+      "explain",
+      "lunchtime"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"playground\" or \"daughter\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dance\" and \"reading\" which one has more letters? A:",
+    "output": "reading",
+    "options": [
+      "dance",
+      "reading"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"boring\" or \"white\"? A:",
+    "output": "boring",
+    "options": [
+      "boring",
+      "white"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"famous\" or \"sandwich\"? A:",
+    "output": "sandwich",
+    "options": [
+      "famous",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"town\" or \"behind\"? A:",
+    "output": "behind",
+    "options": [
+      "town",
+      "behind"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"neighbor\" and \"parent\" which one has more letters? A:",
+    "output": "neighbor",
+    "options": [
+      "neighbor",
+      "parent"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"subject\" and \"parent\" which one has more letters? A:",
+    "output": "subject",
+    "options": [
+      "subject",
+      "parent"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"fail\" or \"story\"? A:",
+    "output": "story",
+    "options": [
+      "fail",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"guitar\" or \"come\"? A:",
+    "output": "guitar",
+    "options": [
+      "guitar",
+      "come"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"badly\" and \"shop\" which one has more letters? A:",
+    "output": "badly",
+    "options": [
+      "badly",
+      "shop"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"machine\" or \"boyfriend\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "machine",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"picture\" or \"disco\"? A:",
+    "output": "picture",
+    "options": [
+      "picture",
+      "disco"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"friendly\" or \"easily\"? A:",
+    "output": "friendly",
+    "options": [
+      "friendly",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"quick\" or \"various\"? A:",
+    "output": "various",
+    "options": [
+      "quick",
+      "various"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"empty\" or \"square\"? A:",
+    "output": "square",
+    "options": [
+      "empty",
+      "square"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"mother\" or \"stomach\"? A:",
+    "output": "stomach",
+    "options": [
+      "mother",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"below\" or \"special\"? A:",
+    "output": "special",
+    "options": [
+      "below",
+      "special"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"soap\" or \"lucky\"? A:",
+    "output": "lucky",
+    "options": [
+      "soap",
+      "lucky"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"bridge\" or \"favorite\"? A:",
+    "output": "favorite",
+    "options": [
+      "bridge",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"postcard\" and \"policeman\" which one has more letters? A:",
+    "output": "policeman",
+    "options": [
+      "postcard",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"improve\" or \"parent\"? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "parent"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hope\" and \"cloudy\" which one has more letters? A:",
+    "output": "cloudy",
+    "options": [
+      "hope",
+      "cloudy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"machine\" and \"boyfriend\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "machine",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"notice\" or \"dinosaur\"? A:",
+    "output": "dinosaur",
+    "options": [
+      "notice",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"snack\" and \"hour\" which one has more letters? A:",
+    "output": "snack",
+    "options": [
+      "snack",
+      "hour"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"honey\" or \"sock\"? A:",
+    "output": "honey",
+    "options": [
+      "honey",
+      "sock"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"myself\" or \"could\"? A:",
+    "output": "myself",
+    "options": [
+      "myself",
+      "could"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"drawing\" or \"shelf\"? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "shelf"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"price\" or \"mistake\"? A:",
+    "output": "mistake",
+    "options": [
+      "price",
+      "mistake"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dear\" and \"guide\" which one has more letters? A:",
+    "output": "guide",
+    "options": [
+      "dear",
+      "guide"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"chemistry\" or \"country\"? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "country"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"most\" or \"twice\"? A:",
+    "output": "twice",
+    "options": [
+      "most",
+      "twice"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"smoking\" or \"certainly\"? A:",
+    "output": "certainly",
+    "options": [
+      "smoking",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"slow\" or \"strong\"? A:",
+    "output": "strong",
+    "options": [
+      "slow",
+      "strong"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fail\" and \"story\" which one has more letters? A:",
+    "output": "story",
+    "options": [
+      "fail",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"below\" or \"polite\"? A:",
+    "output": "polite",
+    "options": [
+      "below",
+      "polite"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"must\" or \"closet\"? A:",
+    "output": "closet",
+    "options": [
+      "must",
+      "closet"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"juice\" or \"things\"? A:",
+    "output": "things",
+    "options": [
+      "juice",
+      "things"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"surfing\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "surfing",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"discount\" and \"chemistry\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "discount",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"same\" or \"large\"? A:",
+    "output": "large",
+    "options": [
+      "same",
+      "large"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"only\" or \"learn\"? A:",
+    "output": "learn",
+    "options": [
+      "only",
+      "learn"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"garden\" or \"dinosaur\"? A:",
+    "output": "dinosaur",
+    "options": [
+      "garden",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"polite\" or \"cloud\"? A:",
+    "output": "polite",
+    "options": [
+      "polite",
+      "cloud"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"history\" or \"discount\"? A:",
+    "output": "discount",
+    "options": [
+      "history",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"name\" or \"racket\"? A:",
+    "output": "racket",
+    "options": [
+      "name",
+      "racket"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"dirty\" or \"camping\"? A:",
+    "output": "camping",
+    "options": [
+      "dirty",
+      "camping"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"seat\" or \"often\"? A:",
+    "output": "often",
+    "options": [
+      "seat",
+      "often"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"east\" and \"folder\" which one has more letters? A:",
+    "output": "folder",
+    "options": [
+      "east",
+      "folder"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"nearly\" and \"noise\" which one has more letters? A:",
+    "output": "nearly",
+    "options": [
+      "nearly",
+      "noise"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"singer\" or \"hospital\"? A:",
+    "output": "hospital",
+    "options": [
+      "singer",
+      "hospital"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"reading\" and \"insect\" which one has more letters? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "insect"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tired\" and \"uniform\" which one has more letters? A:",
+    "output": "uniform",
+    "options": [
+      "tired",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"boyfriend\" and \"details\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"nature\" or \"yourself\"? A:",
+    "output": "yourself",
+    "options": [
+      "nature",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"husband\" and \"notes\" which one has more letters? A:",
+    "output": "husband",
+    "options": [
+      "husband",
+      "notes"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fruit\" and \"city\" which one has more letters? A:",
+    "output": "fruit",
+    "options": [
+      "fruit",
+      "city"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pants\" and \"sky\" which one has more letters? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "sky"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"slow\" or \"sound\"? A:",
+    "output": "sound",
+    "options": [
+      "slow",
+      "sound"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"dangerous\" or \"diploma\"? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "diploma"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"person\" and \"short\" which one has more letters? A:",
+    "output": "person",
+    "options": [
+      "person",
+      "short"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"surfing\" or \"certainly\"? A:",
+    "output": "certainly",
+    "options": [
+      "surfing",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"customer\" and \"dancer\" which one has more letters? A:",
+    "output": "customer",
+    "options": [
+      "customer",
+      "dancer"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"itself\" or \"favorite\"? A:",
+    "output": "favorite",
+    "options": [
+      "itself",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"daughter\" or \"chemistry\"? A:",
+    "output": "chemistry",
+    "options": [
+      "daughter",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"our\" or \"mouth\"? A:",
+    "output": "mouth",
+    "options": [
+      "our",
+      "mouth"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"magic\" and \"oil\" which one has more letters? A:",
+    "output": "magic",
+    "options": [
+      "magic",
+      "oil"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"speak\" or \"picture\"? A:",
+    "output": "picture",
+    "options": [
+      "speak",
+      "picture"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"keyboard\" and \"plastic\" which one has more letters? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"wash\" or \"group\"? A:",
+    "output": "group",
+    "options": [
+      "wash",
+      "group"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"mother\" or \"exactly\"? A:",
+    "output": "exactly",
+    "options": [
+      "mother",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"camping\" or \"certainly\"? A:",
+    "output": "certainly",
+    "options": [
+      "camping",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"closed\" or \"maybe\"? A:",
+    "output": "closed",
+    "options": [
+      "closed",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"movie\" or \"orange\"? A:",
+    "output": "orange",
+    "options": [
+      "movie",
+      "orange"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"mother\" or \"drive\"? A:",
+    "output": "mother",
+    "options": [
+      "mother",
+      "drive"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"smoking\" or \"dangerous\"? A:",
+    "output": "dangerous",
+    "options": [
+      "smoking",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stadium\" and \"mother\" which one has more letters? A:",
+    "output": "stadium",
+    "options": [
+      "stadium",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"folder\" and \"neighbor\" which one has more letters? A:",
+    "output": "neighbor",
+    "options": [
+      "folder",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"special\" or \"store\"? A:",
+    "output": "special",
+    "options": [
+      "special",
+      "store"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wonderful\" and \"dinosaur\" which one has more letters? A:",
+    "output": "wonderful",
+    "options": [
+      "wonderful",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"improve\" and \"birthday\" which one has more letters? A:",
+    "output": "birthday",
+    "options": [
+      "improve",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"waiter\" or \"sock\"? A:",
+    "output": "waiter",
+    "options": [
+      "waiter",
+      "sock"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"mouse\" or \"eat\"? A:",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "eat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"movie\" and \"orange\" which one has more letters? A:",
+    "output": "orange",
+    "options": [
+      "movie",
+      "orange"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"block\" or \"hey\"? A:",
+    "output": "block",
+    "options": [
+      "block",
+      "hey"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"help\" and \"later\" which one has more letters? A:",
+    "output": "later",
+    "options": [
+      "help",
+      "later"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"other\" or \"flight\"? A:",
+    "output": "flight",
+    "options": [
+      "other",
+      "flight"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"platform\" or \"castle\"? A:",
+    "output": "platform",
+    "options": [
+      "platform",
+      "castle"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"child\" or \"sick\"? A:",
+    "output": "child",
+    "options": [
+      "child",
+      "sick"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"problem\" or \"thanks\"? A:",
+    "output": "problem",
+    "options": [
+      "problem",
+      "thanks"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pocket\" and \"bean\" which one has more letters? A:",
+    "output": "pocket",
+    "options": [
+      "pocket",
+      "bean"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"bowl\" or \"square\"? A:",
+    "output": "square",
+    "options": [
+      "bowl",
+      "square"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"empty\" and \"square\" which one has more letters? A:",
+    "output": "square",
+    "options": [
+      "empty",
+      "square"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"yes\" or \"towel\"? A:",
+    "output": "towel",
+    "options": [
+      "yes",
+      "towel"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"soap\" or \"right\"? A:",
+    "output": "right",
+    "options": [
+      "soap",
+      "right"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"something\" or \"neighbor\"? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"change\" and \"enjoy\" which one has more letters? A:",
+    "output": "change",
+    "options": [
+      "change",
+      "enjoy"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"certainly\" or \"husband\"? A:",
+    "output": "certainly",
+    "options": [
+      "certainly",
+      "husband"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"surfing\" or \"golden\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "golden"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"insect\" or \"daughter\"? A:",
+    "output": "daughter",
+    "options": [
+      "insect",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"rugby\" or \"problem\"? A:",
+    "output": "problem",
+    "options": [
+      "rugby",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"player\" or \"dinosaur\"? A:",
+    "output": "dinosaur",
+    "options": [
+      "player",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"lunchtime\" or \"explain\"? A:",
+    "output": "lunchtime",
+    "options": [
+      "lunchtime",
+      "explain"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"wonderful\" or \"musical\"? A:",
+    "output": "wonderful",
+    "options": [
+      "wonderful",
+      "musical"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"another\" and \"think\" which one has more letters? A:",
+    "output": "another",
+    "options": [
+      "another",
+      "think"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"point\" or \"project\"? A:",
+    "output": "project",
+    "options": [
+      "point",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"machine\" and \"advice\" which one has more letters? A:",
+    "output": "machine",
+    "options": [
+      "machine",
+      "advice"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"thanks\" or \"careful\"? A:",
+    "output": "careful",
+    "options": [
+      "thanks",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"something\" or \"details\"? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"stomach\" or \"boyfriend\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "stomach",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"chemistry\" or \"software\"? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "software"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"block\" or \"hey\"? A:",
+    "output": "block",
+    "options": [
+      "block",
+      "hey"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"some\" and \"quick\" which one has more letters? A:",
+    "output": "quick",
+    "options": [
+      "some",
+      "quick"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"begin\" or \"forest\"? A:",
+    "output": "forest",
+    "options": [
+      "begin",
+      "forest"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"black\" or \"country\"? A:",
+    "output": "country",
+    "options": [
+      "black",
+      "country"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"friendly\" and \"wonderful\" which one has more letters? A:",
+    "output": "wonderful",
+    "options": [
+      "friendly",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sandwich\" and \"spring\" which one has more letters? A:",
+    "output": "sandwich",
+    "options": [
+      "sandwich",
+      "spring"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"keyboard\" or \"uniform\"? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"keyboard\" and \"playground\" which one has more letters? A:",
+    "output": "playground",
+    "options": [
+      "keyboard",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"soap\" and \"lucky\" which one has more letters? A:",
+    "output": "lucky",
+    "options": [
+      "soap",
+      "lucky"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"nose\" or \"towel\"? A:",
+    "output": "towel",
+    "options": [
+      "nose",
+      "towel"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"instead\" or \"notes\"? A:",
+    "output": "instead",
+    "options": [
+      "instead",
+      "notes"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"birthday\" and \"certainly\" which one has more letters? A:",
+    "output": "certainly",
+    "options": [
+      "birthday",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"garden\" or \"dinosaur\"? A:",
+    "output": "dinosaur",
+    "options": [
+      "garden",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"singular\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "singular"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"bear\" or \"grape\"? A:",
+    "output": "grape",
+    "options": [
+      "bear",
+      "grape"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dance\" or \"reading\"? A:",
+    "output": "reading",
+    "options": [
+      "dance",
+      "reading"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"fashion\" or \"daughter\"? A:",
+    "output": "daughter",
+    "options": [
+      "fashion",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"favorite\" and \"simple\" which one has more letters? A:",
+    "output": "favorite",
+    "options": [
+      "favorite",
+      "simple"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"explain\" or \"lunchtime\"? A:",
+    "output": "lunchtime",
+    "options": [
+      "explain",
+      "lunchtime"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"keyboard\" or \"uniform\"? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"reason\" or \"holiday\"? A:",
+    "output": "holiday",
+    "options": [
+      "reason",
+      "holiday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"below\" and \"polite\" which one has more letters? A:",
+    "output": "polite",
+    "options": [
+      "below",
+      "polite"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"flight\" or \"sandwich\"? A:",
+    "output": "sandwich",
+    "options": [
+      "flight",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"cabinet\" or \"begin\"? A:",
+    "output": "cabinet",
+    "options": [
+      "cabinet",
+      "begin"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"pants\" or \"pray\"? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "pray"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"think\" and \"closet\" which one has more letters? A:",
+    "output": "closet",
+    "options": [
+      "think",
+      "closet"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"chemistry\" or \"foreign\"? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "foreign"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"water\" or \"king\"? A:",
+    "output": "water",
+    "options": [
+      "water",
+      "king"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"opera\" or \"jump\"? A:",
+    "output": "opera",
+    "options": [
+      "opera",
+      "jump"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"kind\" or \"change\"? A:",
+    "output": "change",
+    "options": [
+      "kind",
+      "change"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"something\" and \"improve\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "improve"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"mosque\" or \"also\"? A:",
+    "output": "mosque",
+    "options": [
+      "mosque",
+      "also"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"stadium\" or \"dangerous\"? A:",
+    "output": "dangerous",
+    "options": [
+      "stadium",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"gate\" or \"grade\"? A:",
+    "output": "grade",
+    "options": [
+      "gate",
+      "grade"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"hungry\" or \"ocean\"? A:",
+    "output": "hungry",
+    "options": [
+      "hungry",
+      "ocean"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"skating\" or \"chemistry\"? A:",
+    "output": "chemistry",
+    "options": [
+      "skating",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dangerous\" and \"friendly\" which one has more letters? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"certainly\" or \"holiday\"? A:",
+    "output": "certainly",
+    "options": [
+      "certainly",
+      "holiday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stadium\" and \"guitar\" which one has more letters? A:",
+    "output": "stadium",
+    "options": [
+      "stadium",
+      "guitar"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"careful\" or \"worst\"? A:",
+    "output": "careful",
+    "options": [
+      "careful",
+      "worst"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bright\" and \"birthday\" which one has more letters? A:",
+    "output": "birthday",
+    "options": [
+      "bright",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"cover\" or \"sofa\"? A:",
+    "output": "cover",
+    "options": [
+      "cover",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"foreign\" or \"until\"? A:",
+    "output": "foreign",
+    "options": [
+      "foreign",
+      "until"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"date\" or \"pilot\"? A:",
+    "output": "pilot",
+    "options": [
+      "date",
+      "pilot"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"fail\" or \"story\"? A:",
+    "output": "story",
+    "options": [
+      "fail",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"fashion\" or \"snack\"? A:",
+    "output": "fashion",
+    "options": [
+      "fashion",
+      "snack"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"boyfriend\" or \"plastic\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"city\" and \"maybe\" which one has more letters? A:",
+    "output": "maybe",
+    "options": [
+      "city",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"software\" or \"another\"? A:",
+    "output": "software",
+    "options": [
+      "software",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"postcard\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "postcard",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"badly\" or \"shop\"? A:",
+    "output": "badly",
+    "options": [
+      "badly",
+      "shop"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"century\" or \"heart\"? A:",
+    "output": "century",
+    "options": [
+      "century",
+      "heart"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daily\" and \"minute\" which one has more letters? A:",
+    "output": "minute",
+    "options": [
+      "daily",
+      "minute"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mosque\" and \"musical\" which one has more letters? A:",
+    "output": "musical",
+    "options": [
+      "mosque",
+      "musical"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"noise\" or \"son\"? A:",
+    "output": "noise",
+    "options": [
+      "noise",
+      "son"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shirt\" and \"bright\" which one has more letters? A:",
+    "output": "bright",
+    "options": [
+      "shirt",
+      "bright"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"enjoy\" and \"listen\" which one has more letters? A:",
+    "output": "listen",
+    "options": [
+      "enjoy",
+      "listen"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"spring\" and \"yeah\" which one has more letters? A:",
+    "output": "spring",
+    "options": [
+      "spring",
+      "yeah"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"insect\" or \"black\"? A:",
+    "output": "insect",
+    "options": [
+      "insect",
+      "black"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"outside\" or \"yourself\"? A:",
+    "output": "yourself",
+    "options": [
+      "outside",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"lunchtime\" or \"include\"? A:",
+    "output": "lunchtime",
+    "options": [
+      "lunchtime",
+      "include"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"birthday\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "birthday",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"itself\" or \"pair\"? A:",
+    "output": "itself",
+    "options": [
+      "itself",
+      "pair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tour\" and \"roast\" which one has more letters? A:",
+    "output": "roast",
+    "options": [
+      "tour",
+      "roast"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bright\" and \"discount\" which one has more letters? A:",
+    "output": "discount",
+    "options": [
+      "bright",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"whole\" and \"walking\" which one has more letters? A:",
+    "output": "walking",
+    "options": [
+      "whole",
+      "walking"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hope\" and \"speak\" which one has more letters? A:",
+    "output": "speak",
+    "options": [
+      "hope",
+      "speak"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"myself\" or \"daughter\"? A:",
+    "output": "daughter",
+    "options": [
+      "myself",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"dear\" or \"guide\"? A:",
+    "output": "guide",
+    "options": [
+      "dear",
+      "guide"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"yourself\" or \"dangerous\"? A:",
+    "output": "dangerous",
+    "options": [
+      "yourself",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"singer\" and \"hospital\" which one has more letters? A:",
+    "output": "hospital",
+    "options": [
+      "singer",
+      "hospital"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"computer\" or \"pocket\"? A:",
+    "output": "computer",
+    "options": [
+      "computer",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"normal\" or \"diary\"? A:",
+    "output": "normal",
+    "options": [
+      "normal",
+      "diary"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"closed\" or \"steak\"? A:",
+    "output": "closed",
+    "options": [
+      "closed",
+      "steak"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"surfing\" and \"policeman\" which one has more letters? A:",
+    "output": "policeman",
+    "options": [
+      "surfing",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"birthday\" or \"certainly\"? A:",
+    "output": "certainly",
+    "options": [
+      "birthday",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"chemistry\" or \"sandwich\"? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"wonderful\" or \"neighbor\"? A:",
+    "output": "wonderful",
+    "options": [
+      "wonderful",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"hospital\" or \"almost\"? A:",
+    "output": "hospital",
+    "options": [
+      "hospital",
+      "almost"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"mother\" or \"stomach\"? A:",
+    "output": "stomach",
+    "options": [
+      "mother",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"right\" or \"bat\"? A:",
+    "output": "right",
+    "options": [
+      "right",
+      "bat"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"mistake\" or \"pencil\"? A:",
+    "output": "mistake",
+    "options": [
+      "mistake",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"think\" or \"pocket\"? A:",
+    "output": "pocket",
+    "options": [
+      "think",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"wear\" or \"chair\"? A:",
+    "output": "chair",
+    "options": [
+      "wear",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"bright\" or \"birthday\"? A:",
+    "output": "birthday",
+    "options": [
+      "bright",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"postcard\" and \"modern\" which one has more letters? A:",
+    "output": "postcard",
+    "options": [
+      "postcard",
+      "modern"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"should\" or \"subject\"? A:",
+    "output": "subject",
+    "options": [
+      "should",
+      "subject"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"guitar\" or \"daughter\"? A:",
+    "output": "daughter",
+    "options": [
+      "guitar",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cloudy\" and \"sandwich\" which one has more letters? A:",
+    "output": "sandwich",
+    "options": [
+      "cloudy",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"modern\" and \"with\" which one has more letters? A:",
+    "output": "modern",
+    "options": [
+      "modern",
+      "with"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"story\" or \"famous\"? A:",
+    "output": "famous",
+    "options": [
+      "story",
+      "famous"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"singular\" or \"anymore\"? A:",
+    "output": "singular",
+    "options": [
+      "singular",
+      "anymore"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"polite\" or \"cloud\"? A:",
+    "output": "polite",
+    "options": [
+      "polite",
+      "cloud"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"beard\" and \"ago\" which one has more letters? A:",
+    "output": "beard",
+    "options": [
+      "beard",
+      "ago"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"kilogram\" or \"chemistry\"? A:",
+    "output": "chemistry",
+    "options": [
+      "kilogram",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"history\" and \"chemistry\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "history",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"winter\" and \"pants\" which one has more letters? A:",
+    "output": "winter",
+    "options": [
+      "winter",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"customer\" or \"subway\"? A:",
+    "output": "customer",
+    "options": [
+      "customer",
+      "subway"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"garlic\" or \"computer\"? A:",
+    "output": "computer",
+    "options": [
+      "garlic",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"friendly\" or \"wonderful\"? A:",
+    "output": "wonderful",
+    "options": [
+      "friendly",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"fried\" or \"himself\"? A:",
+    "output": "himself",
+    "options": [
+      "fried",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"advice\" or \"know\"? A:",
+    "output": "advice",
+    "options": [
+      "advice",
+      "know"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dangerous\" and \"subject\" which one has more letters? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "subject"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"silver\" or \"sauce\"? A:",
+    "output": "silver",
+    "options": [
+      "silver",
+      "sauce"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"knife\" or \"pocket\"? A:",
+    "output": "pocket",
+    "options": [
+      "knife",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"normal\" or \"maybe\"? A:",
+    "output": "normal",
+    "options": [
+      "normal",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"luck\" or \"young\"? A:",
+    "output": "young",
+    "options": [
+      "luck",
+      "young"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"should\" or \"dinosaur\"? A:",
+    "output": "dinosaur",
+    "options": [
+      "should",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"singular\" or \"camping\"? A:",
+    "output": "singular",
+    "options": [
+      "singular",
+      "camping"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"radio\" or \"kitchen\"? A:",
+    "output": "kitchen",
+    "options": [
+      "radio",
+      "kitchen"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"kitchen\" or \"until\"? A:",
+    "output": "kitchen",
+    "options": [
+      "kitchen",
+      "until"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cloud\" and \"run\" which one has more letters? A:",
+    "output": "cloud",
+    "options": [
+      "cloud",
+      "run"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"computer\" or \"pocket\"? A:",
+    "output": "computer",
+    "options": [
+      "computer",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"quick\" and \"should\" which one has more letters? A:",
+    "output": "should",
+    "options": [
+      "quick",
+      "should"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"skating\" or \"snake\"? A:",
+    "output": "skating",
+    "options": [
+      "skating",
+      "snake"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"double\" and \"lamp\" which one has more letters? A:",
+    "output": "double",
+    "options": [
+      "double",
+      "lamp"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"explain\" or \"place\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "place"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"dangerous\" or \"discount\"? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"lunchtime\" or \"include\"? A:",
+    "output": "lunchtime",
+    "options": [
+      "lunchtime",
+      "include"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"juice\" or \"factory\"? A:",
+    "output": "factory",
+    "options": [
+      "juice",
+      "factory"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"water\" and \"mother\" which one has more letters? A:",
+    "output": "mother",
+    "options": [
+      "water",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"heart\" and \"body\" which one has more letters? A:",
+    "output": "heart",
+    "options": [
+      "heart",
+      "body"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"plastic\" or \"something\"? A:",
+    "output": "something",
+    "options": [
+      "plastic",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"boyfriend\" or \"discount\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"skating\" or \"birthday\"? A:",
+    "output": "birthday",
+    "options": [
+      "skating",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"yes\" and \"towel\" which one has more letters? A:",
+    "output": "towel",
+    "options": [
+      "yes",
+      "towel"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dream\" and \"her\" which one has more letters? A:",
+    "output": "dream",
+    "options": [
+      "dream",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"course\" and \"problem\" which one has more letters? A:",
+    "output": "problem",
+    "options": [
+      "course",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"wild\" or \"number\"? A:",
+    "output": "number",
+    "options": [
+      "wild",
+      "number"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"playground\" or \"favorite\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"explain\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "explain",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"policeman\" or \"hospital\"? A:",
+    "output": "policeman",
+    "options": [
+      "policeman",
+      "hospital"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"famous\" or \"outside\"? A:",
+    "output": "outside",
+    "options": [
+      "famous",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"project\" and \"carpet\" which one has more letters? A:",
+    "output": "project",
+    "options": [
+      "project",
+      "carpet"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"improve\" and \"travel\" which one has more letters? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "travel"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"myself\" or \"brain\"? A:",
+    "output": "myself",
+    "options": [
+      "myself",
+      "brain"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"country\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "country"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"neighbor\" or \"outside\"? A:",
+    "output": "neighbor",
+    "options": [
+      "neighbor",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"famous\" and \"line\" which one has more letters? A:",
+    "output": "famous",
+    "options": [
+      "famous",
+      "line"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"nurse\" or \"red\"? A:",
+    "output": "nurse",
+    "options": [
+      "nurse",
+      "red"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"singular\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "singular",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plastic\" and \"daughter\" which one has more letters? A:",
+    "output": "daughter",
+    "options": [
+      "plastic",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"shower\" or \"yourself\"? A:",
+    "output": "yourself",
+    "options": [
+      "shower",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"certainly\" or \"platform\"? A:",
+    "output": "certainly",
+    "options": [
+      "certainly",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"music\" and \"company\" which one has more letters? A:",
+    "output": "company",
+    "options": [
+      "music",
+      "company"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"pair\" or \"alone\"? A:",
+    "output": "alone",
+    "options": [
+      "pair",
+      "alone"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"shower\" or \"yourself\"? A:",
+    "output": "yourself",
+    "options": [
+      "shower",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"enough\" or \"various\"? A:",
+    "output": "various",
+    "options": [
+      "enough",
+      "various"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"husband\" or \"cheap\"? A:",
+    "output": "husband",
+    "options": [
+      "husband",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"computer\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"daughter\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "daughter",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"foreign\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "foreign"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wash\" and \"group\" which one has more letters? A:",
+    "output": "group",
+    "options": [
+      "wash",
+      "group"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"kilogram\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "kilogram",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"above\" and \"travel\" which one has more letters? A:",
+    "output": "travel",
+    "options": [
+      "above",
+      "travel"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dangerous\" or \"diploma\"? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "diploma"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"birthday\" and \"chemistry\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "birthday",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"musical\" or \"pants\"? A:",
+    "output": "musical",
+    "options": [
+      "musical",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"garlic\" and \"walking\" which one has more letters? A:",
+    "output": "walking",
+    "options": [
+      "garlic",
+      "walking"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"spend\" and \"painter\" which one has more letters? A:",
+    "output": "painter",
+    "options": [
+      "spend",
+      "painter"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"kilo\" or \"those\"? A:",
+    "output": "those",
+    "options": [
+      "kilo",
+      "those"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"picture\" or \"grape\"? A:",
+    "output": "picture",
+    "options": [
+      "picture",
+      "grape"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"win\" or \"ready\"? A:",
+    "output": "ready",
+    "options": [
+      "win",
+      "ready"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"paint\" or \"boy\"? A:",
+    "output": "paint",
+    "options": [
+      "paint",
+      "boy"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"movie\" or \"note\"? A:",
+    "output": "movie",
+    "options": [
+      "movie",
+      "note"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"drawing\" or \"player\"? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "player"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"top\" or \"begin\"? A:",
+    "output": "begin",
+    "options": [
+      "top",
+      "begin"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"anymore\" and \"quiet\" which one has more letters? A:",
+    "output": "anymore",
+    "options": [
+      "anymore",
+      "quiet"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"something\" or \"stadium\"? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "stadium"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"city\" or \"maybe\"? A:",
+    "output": "maybe",
+    "options": [
+      "city",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"slice\" or \"word\"? A:",
+    "output": "slice",
+    "options": [
+      "slice",
+      "word"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"sick\" or \"closed\"? A:",
+    "output": "closed",
+    "options": [
+      "sick",
+      "closed"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"sing\" or \"skirt\"? A:",
+    "output": "skirt",
+    "options": [
+      "sing",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"explain\" or \"guest\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "guest"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"include\" or \"often\"? A:",
+    "output": "include",
+    "options": [
+      "include",
+      "often"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"also\" or \"break\"? A:",
+    "output": "break",
+    "options": [
+      "also",
+      "break"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"chemistry\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "chemistry",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"another\" or \"think\"? A:",
+    "output": "another",
+    "options": [
+      "another",
+      "think"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"cola\" or \"parent\"? A:",
+    "output": "parent",
+    "options": [
+      "cola",
+      "parent"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"castle\" and \"hold\" which one has more letters? A:",
+    "output": "castle",
+    "options": [
+      "castle",
+      "hold"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"brown\" or \"walking\"? A:",
+    "output": "walking",
+    "options": [
+      "brown",
+      "walking"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"nurse\" or \"subject\"? A:",
+    "output": "subject",
+    "options": [
+      "nurse",
+      "subject"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"question\" or \"outside\"? A:",
+    "output": "question",
+    "options": [
+      "question",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"kite\" and \"angry\" which one has more letters? A:",
+    "output": "angry",
+    "options": [
+      "kite",
+      "angry"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"insect\" or \"daughter\"? A:",
+    "output": "daughter",
+    "options": [
+      "insect",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"makeup\" or \"card\"? A:",
+    "output": "makeup",
+    "options": [
+      "makeup",
+      "card"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"surfing\" or \"bridge\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "bridge"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"soap\" or \"right\"? A:",
+    "output": "right",
+    "options": [
+      "soap",
+      "right"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"diploma\" and \"singer\" which one has more letters? A:",
+    "output": "diploma",
+    "options": [
+      "diploma",
+      "singer"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"sad\" or \"glove\"? A:",
+    "output": "glove",
+    "options": [
+      "sad",
+      "glove"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"cabinet\" or \"light\"? A:",
+    "output": "cabinet",
+    "options": [
+      "cabinet",
+      "light"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"awful\" or \"square\"? A:",
+    "output": "square",
+    "options": [
+      "awful",
+      "square"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"playground\" and \"kilogram\" which one has more letters? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "kilogram"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"explain\" or \"uncle\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"magic\" or \"site\"? A:",
+    "output": "magic",
+    "options": [
+      "magic",
+      "site"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"question\" or \"orange\"? A:",
+    "output": "question",
+    "options": [
+      "question",
+      "orange"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"another\" or \"certainly\"? A:",
+    "output": "certainly",
+    "options": [
+      "another",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fashion\" and \"boyfriend\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "fashion",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"slice\" or \"song\"? A:",
+    "output": "slice",
+    "options": [
+      "slice",
+      "song"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"favorite\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"fried\" or \"farm\"? A:",
+    "output": "fried",
+    "options": [
+      "fried",
+      "farm"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"luck\" and \"mosque\" which one has more letters? A:",
+    "output": "mosque",
+    "options": [
+      "luck",
+      "mosque"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"run\" and \"break\" which one has more letters? A:",
+    "output": "break",
+    "options": [
+      "run",
+      "break"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"wind\" or \"knife\"? A:",
+    "output": "knife",
+    "options": [
+      "wind",
+      "knife"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"chemistry\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plastic\" and \"something\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "plastic",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"left\" or \"closed\"? A:",
+    "output": "closed",
+    "options": [
+      "left",
+      "closed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"kilogram\" and \"winter\" which one has more letters? A:",
+    "output": "kilogram",
+    "options": [
+      "kilogram",
+      "winter"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"stadium\" or \"mother\"? A:",
+    "output": "stadium",
+    "options": [
+      "stadium",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"wonderful\" or \"sandwich\"? A:",
+    "output": "wonderful",
+    "options": [
+      "wonderful",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"single\" or \"computer\"? A:",
+    "output": "computer",
+    "options": [
+      "single",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"company\" or \"model\"? A:",
+    "output": "company",
+    "options": [
+      "company",
+      "model"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"carpet\" or \"bowl\"? A:",
+    "output": "carpet",
+    "options": [
+      "carpet",
+      "bowl"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"instead\" or \"radio\"? A:",
+    "output": "instead",
+    "options": [
+      "instead",
+      "radio"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"diploma\" or \"platform\"? A:",
+    "output": "platform",
+    "options": [
+      "diploma",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"friendly\" or \"boyfriend\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "friendly",
+      "boyfriend"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"rich\" or \"badly\"? A:",
+    "output": "badly",
+    "options": [
+      "rich",
+      "badly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"mark\" or \"fresh\"? A:",
+    "output": "fresh",
+    "options": [
+      "mark",
+      "fresh"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"outside\" or \"computer\"? A:",
+    "output": "computer",
+    "options": [
+      "outside",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bank\" and \"flower\" which one has more letters? A:",
+    "output": "flower",
+    "options": [
+      "bank",
+      "flower"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"change\" or \"enjoy\"? A:",
+    "output": "change",
+    "options": [
+      "change",
+      "enjoy"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"playground\" or \"singular\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "singular"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"keyboard\" or \"plastic\"? A:",
+    "output": "keyboard",
+    "options": [
+      "keyboard",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"around\" or \"group\"? A:",
+    "output": "around",
+    "options": [
+      "around",
+      "group"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"something\" or \"software\"? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "software"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"kilogram\" or \"pocket\"? A:",
+    "output": "kilogram",
+    "options": [
+      "kilogram",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"nature\" or \"plastic\"? A:",
+    "output": "plastic",
+    "options": [
+      "nature",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"large\" or \"case\"? A:",
+    "output": "large",
+    "options": [
+      "large",
+      "case"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"certainly\" and \"platform\" which one has more letters? A:",
+    "output": "certainly",
+    "options": [
+      "certainly",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"holiday\" or \"dangerous\"? A:",
+    "output": "dangerous",
+    "options": [
+      "holiday",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"drink\" and \"explain\" which one has more letters? A:",
+    "output": "explain",
+    "options": [
+      "drink",
+      "explain"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"something\" or \"neighbor\"? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"think\" or \"closet\"? A:",
+    "output": "closet",
+    "options": [
+      "think",
+      "closet"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"reading\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "reading",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"policeman\" or \"country\"? A:",
+    "output": "policeman",
+    "options": [
+      "policeman",
+      "country"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"pain\" or \"itself\"? A:",
+    "output": "itself",
+    "options": [
+      "pain",
+      "itself"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dirty\" and \"bother\" which one has more letters? A:",
+    "output": "bother",
+    "options": [
+      "dirty",
+      "bother"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"under\" or \"far\"? A:",
+    "output": "under",
+    "options": [
+      "under",
+      "far"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"folder\" or \"customer\"? A:",
+    "output": "customer",
+    "options": [
+      "folder",
+      "customer"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"begin\" or \"box\"? A:",
+    "output": "begin",
+    "options": [
+      "begin",
+      "box"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"upset\" and \"itself\" which one has more letters? A:",
+    "output": "itself",
+    "options": [
+      "upset",
+      "itself"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"beard\" or \"ago\"? A:",
+    "output": "beard",
+    "options": [
+      "beard",
+      "ago"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"something\" and \"details\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "something",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"spend\" or \"painter\"? A:",
+    "output": "painter",
+    "options": [
+      "spend",
+      "painter"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"diploma\" and \"chemistry\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "diploma",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"brown\" and \"walking\" which one has more letters? A:",
+    "output": "walking",
+    "options": [
+      "brown",
+      "walking"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"heart\" or \"body\"? A:",
+    "output": "heart",
+    "options": [
+      "heart",
+      "body"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"kid\" and \"ocean\" which one has more letters? A:",
+    "output": "ocean",
+    "options": [
+      "kid",
+      "ocean"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"fashion\" which one has more letters? A:",
+    "output": "chemistry",
+    "options": [
+      "chemistry",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"kilogram\" or \"father\"? A:",
+    "output": "kilogram",
+    "options": [
+      "kilogram",
+      "father"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"thanks\" and \"stomach\" which one has more letters? A:",
+    "output": "stomach",
+    "options": [
+      "thanks",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"skating\" or \"something\"? A:",
+    "output": "something",
+    "options": [
+      "skating",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"bridge\" or \"them\"? A:",
+    "output": "bridge",
+    "options": [
+      "bridge",
+      "them"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"platform\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "platform",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"child\" or \"another\"? A:",
+    "output": "another",
+    "options": [
+      "child",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"learn\" or \"cost\"? A:",
+    "output": "learn",
+    "options": [
+      "learn",
+      "cost"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"thing\" or \"fit\"? A:",
+    "output": "thing",
+    "options": [
+      "thing",
+      "fit"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"double\" or \"steal\"? A:",
+    "output": "double",
+    "options": [
+      "double",
+      "steal"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"discount\" or \"chemistry\"? A:",
+    "output": "chemistry",
+    "options": [
+      "discount",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"pink\" or \"final\"? A:",
+    "output": "final",
+    "options": [
+      "pink",
+      "final"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"smoking\" or \"discount\"? A:",
+    "output": "discount",
+    "options": [
+      "smoking",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"lose\" or \"north\"? A:",
+    "output": "north",
+    "options": [
+      "lose",
+      "north"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"playground\" or \"wonderful\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"twice\" or \"during\"? A:",
+    "output": "during",
+    "options": [
+      "twice",
+      "during"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"improve\" or \"birthday\"? A:",
+    "output": "birthday",
+    "options": [
+      "improve",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dish\" or \"strong\"? A:",
+    "output": "strong",
+    "options": [
+      "dish",
+      "strong"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"document\" or \"travel\"? A:",
+    "output": "document",
+    "options": [
+      "document",
+      "travel"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"customer\" and \"exactly\" which one has more letters? A:",
+    "output": "customer",
+    "options": [
+      "customer",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dangerous\" or \"plastic\"? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"the\" and \"beach\" which one has more letters? A:",
+    "output": "beach",
+    "options": [
+      "the",
+      "beach"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"birthday\" and \"adverb\" which one has more letters? A:",
+    "output": "birthday",
+    "options": [
+      "birthday",
+      "adverb"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"yourself\" or \"something\"? A:",
+    "output": "something",
+    "options": [
+      "yourself",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"boyfriend\" and \"holiday\" which one has more letters? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "holiday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pair\" and \"alone\" which one has more letters? A:",
+    "output": "alone",
+    "options": [
+      "pair",
+      "alone"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"opera\" and \"jump\" which one has more letters? A:",
+    "output": "opera",
+    "options": [
+      "opera",
+      "jump"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"machine\" and \"daughter\" which one has more letters? A:",
+    "output": "daughter",
+    "options": [
+      "machine",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"modern\" or \"exam\"? A:",
+    "output": "modern",
+    "options": [
+      "modern",
+      "exam"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"playground\" or \"question\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"into\" and \"story\" which one has more letters? A:",
+    "output": "story",
+    "options": [
+      "into",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"drawing\" or \"empty\"? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "empty"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"policeman\" or \"fashion\"? A:",
+    "output": "policeman",
+    "options": [
+      "policeman",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"friend\" and \"kitchen\" which one has more letters? A:",
+    "output": "kitchen",
+    "options": [
+      "friend",
+      "kitchen"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"radio\" and \"kitchen\" which one has more letters? A:",
+    "output": "kitchen",
+    "options": [
+      "radio",
+      "kitchen"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"painter\" and \"something\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "painter",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"notice\" and \"skating\" which one has more letters? A:",
+    "output": "skating",
+    "options": [
+      "notice",
+      "skating"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"today\" and \"improve\" which one has more letters? A:",
+    "output": "improve",
+    "options": [
+      "today",
+      "improve"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"child\" or \"another\"? A:",
+    "output": "another",
+    "options": [
+      "child",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"under\" and \"far\" which one has more letters? A:",
+    "output": "under",
+    "options": [
+      "under",
+      "far"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"kind\" or \"change\"? A:",
+    "output": "change",
+    "options": [
+      "kind",
+      "change"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"ear\" or \"group\"? A:",
+    "output": "group",
+    "options": [
+      "ear",
+      "group"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"polite\" and \"cloud\" which one has more letters? A:",
+    "output": "polite",
+    "options": [
+      "polite",
+      "cloud"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"policeman\" and \"friendly\" which one has more letters? A:",
+    "output": "policeman",
+    "options": [
+      "policeman",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"walking\" or \"around\"? A:",
+    "output": "walking",
+    "options": [
+      "walking",
+      "around"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"enjoy\" or \"reading\"? A:",
+    "output": "reading",
+    "options": [
+      "enjoy",
+      "reading"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"nearly\" or \"noise\"? A:",
+    "output": "nearly",
+    "options": [
+      "nearly",
+      "noise"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"smoking\" and \"single\" which one has more letters? A:",
+    "output": "smoking",
+    "options": [
+      "smoking",
+      "single"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"birthday\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"honey\" and \"city\" which one has more letters? A:",
+    "output": "honey",
+    "options": [
+      "honey",
+      "city"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"magic\" or \"oil\"? A:",
+    "output": "magic",
+    "options": [
+      "magic",
+      "oil"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"careful\" or \"wonderful\"? A:",
+    "output": "wonderful",
+    "options": [
+      "careful",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"begin\" or \"forest\"? A:",
+    "output": "forest",
+    "options": [
+      "begin",
+      "forest"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"guest\" and \"camping\" which one has more letters? A:",
+    "output": "camping",
+    "options": [
+      "guest",
+      "camping"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"rich\" or \"month\"? A:",
+    "output": "month",
+    "options": [
+      "rich",
+      "month"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"folder\" or \"singular\"? A:",
+    "output": "singular",
+    "options": [
+      "folder",
+      "singular"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"enough\" and \"various\" which one has more letters? A:",
+    "output": "various",
+    "options": [
+      "enough",
+      "various"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"police\" or \"discount\"? A:",
+    "output": "discount",
+    "options": [
+      "police",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"monkey\" and \"best\" which one has more letters? A:",
+    "output": "monkey",
+    "options": [
+      "monkey",
+      "best"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"throw\" or \"exactly\"? A:",
+    "output": "exactly",
+    "options": [
+      "throw",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"closed\" and \"maybe\" which one has more letters? A:",
+    "output": "closed",
+    "options": [
+      "closed",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"print\" or \"mistake\"? A:",
+    "output": "mistake",
+    "options": [
+      "print",
+      "mistake"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"easily\" or \"factory\"? A:",
+    "output": "factory",
+    "options": [
+      "easily",
+      "factory"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"noisy\" or \"skating\"? A:",
+    "output": "skating",
+    "options": [
+      "noisy",
+      "skating"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"boyfriend\" or \"country\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "country"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"first\" and \"form\" which one has more letters? A:",
+    "output": "first",
+    "options": [
+      "first",
+      "form"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"double\" or \"lamp\"? A:",
+    "output": "double",
+    "options": [
+      "double",
+      "lamp"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"yourself\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"melon\" or \"improve\"? A:",
+    "output": "improve",
+    "options": [
+      "melon",
+      "improve"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"dangerous\" or \"picture\"? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "picture"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"drawing\" or \"shelf\"? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "shelf"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"lunchtime\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "lunchtime"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"various\" or \"actor\"? A:",
+    "output": "various",
+    "options": [
+      "various",
+      "actor"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"project\" or \"carpet\"? A:",
+    "output": "project",
+    "options": [
+      "project",
+      "carpet"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"platform\" or \"details\"? A:",
+    "output": "platform",
+    "options": [
+      "platform",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"forget\" or \"stand\"? A:",
+    "output": "forget",
+    "options": [
+      "forget",
+      "stand"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"details\" and \"document\" which one has more letters? A:",
+    "output": "document",
+    "options": [
+      "details",
+      "document"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hockey\" and \"problem\" which one has more letters? A:",
+    "output": "problem",
+    "options": [
+      "hockey",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"sock\" or \"cheap\"? A:",
+    "output": "cheap",
+    "options": [
+      "sock",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"himself\" and \"postcard\" which one has more letters? A:",
+    "output": "postcard",
+    "options": [
+      "himself",
+      "postcard"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dangerous\" and \"skating\" which one has more letters? A:",
+    "output": "dangerous",
+    "options": [
+      "dangerous",
+      "skating"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"field\" or \"improve\"? A:",
+    "output": "improve",
+    "options": [
+      "field",
+      "improve"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"nearly\" or \"careful\"? A:",
+    "output": "careful",
+    "options": [
+      "nearly",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\" and \"surfing\" which one has more letters? A:",
+    "output": "surfing",
+    "options": [
+      "train",
+      "surfing"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"boyfriend\" or \"outside\"? A:",
+    "output": "boyfriend",
+    "options": [
+      "boyfriend",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"simple\" and \"neighbor\" which one has more letters? A:",
+    "output": "neighbor",
+    "options": [
+      "simple",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"mistake\" or \"broken\"? A:",
+    "output": "mistake",
+    "options": [
+      "mistake",
+      "broken"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"scarf\" and \"yeah\" which one has more letters? A:",
+    "output": "scarf",
+    "options": [
+      "scarf",
+      "yeah"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"slice\" or \"tire\"? A:",
+    "output": "slice",
+    "options": [
+      "slice",
+      "tire"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"cloudy\" or \"project\"? A:",
+    "output": "project",
+    "options": [
+      "cloudy",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"worst\" and \"easy\" which one has more letters? A:",
+    "output": "worst",
+    "options": [
+      "worst",
+      "easy"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"easy\" or \"strong\"? A:",
+    "output": "strong",
+    "options": [
+      "easy",
+      "strong"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"shower\" or \"keyboard\"? A:",
+    "output": "keyboard",
+    "options": [
+      "shower",
+      "keyboard"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"subject\" and \"shirt\" which one has more letters? A:",
+    "output": "subject",
+    "options": [
+      "subject",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"favorite\" or \"things\"? A:",
+    "output": "favorite",
+    "options": [
+      "favorite",
+      "things"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"juice\" or \"details\"? A:",
+    "output": "details",
+    "options": [
+      "juice",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"musical\" or \"pants\"? A:",
+    "output": "musical",
+    "options": [
+      "musical",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"picture\" and \"singular\" which one has more letters? A:",
+    "output": "singular",
+    "options": [
+      "picture",
+      "singular"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"poster\" and \"delay\" which one has more letters? A:",
+    "output": "poster",
+    "options": [
+      "poster",
+      "delay"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"early\" or \"his\"? A:",
+    "output": "early",
+    "options": [
+      "early",
+      "his"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"project\" or \"carpet\"? A:",
+    "output": "project",
+    "options": [
+      "project",
+      "carpet"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"discount\" and \"playground\" which one has more letters? A:",
+    "output": "playground",
+    "options": [
+      "discount",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"reading\" or \"month\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "month"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"hear\" or \"sauce\"? A:",
+    "output": "sauce",
+    "options": [
+      "hear",
+      "sauce"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"reading\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "reading",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"subject\" and \"train\" which one has more letters? A:",
+    "output": "subject",
+    "options": [
+      "subject",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"another\" or \"think\"? A:",
+    "output": "another",
+    "options": [
+      "another",
+      "think"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"husband\" or \"north\"? A:",
+    "output": "husband",
+    "options": [
+      "husband",
+      "north"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dancer\" or \"walking\"? A:",
+    "output": "walking",
+    "options": [
+      "dancer",
+      "walking"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"ring\" or \"garlic\"? A:",
+    "output": "garlic",
+    "options": [
+      "ring",
+      "garlic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"drawing\" and \"certainly\" which one has more letters? A:",
+    "output": "certainly",
+    "options": [
+      "drawing",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"soap\" and \"right\" which one has more letters? A:",
+    "output": "right",
+    "options": [
+      "soap",
+      "right"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"quickly\" and \"mouse\" which one has more letters? A:",
+    "output": "quickly",
+    "options": [
+      "quickly",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"kid\" or \"slice\"? A:",
+    "output": "slice",
+    "options": [
+      "kid",
+      "slice"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"neighbor\" or \"outside\"? A:",
+    "output": "neighbor",
+    "options": [
+      "neighbor",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"build\" or \"meal\"? A:",
+    "output": "build",
+    "options": [
+      "build",
+      "meal"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"jacket\" or \"right\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "right"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"castle\" or \"size\"? A:",
+    "output": "castle",
+    "options": [
+      "castle",
+      "size"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"improve\" or \"postcard\"? A:",
+    "output": "postcard",
+    "options": [
+      "improve",
+      "postcard"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"neighbor\" and \"outside\" which one has more letters? A:",
+    "output": "neighbor",
+    "options": [
+      "neighbor",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"surfing\" or \"golden\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "golden"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"discount\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"favorite\" and \"things\" which one has more letters? A:",
+    "output": "favorite",
+    "options": [
+      "favorite",
+      "things"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"mistake\" or \"policeman\"? A:",
+    "output": "policeman",
+    "options": [
+      "mistake",
+      "policeman"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"company\" and \"model\" which one has more letters? A:",
+    "output": "company",
+    "options": [
+      "company",
+      "model"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"another\" or \"second\"? A:",
+    "output": "another",
+    "options": [
+      "another",
+      "second"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"outside\" or \"yourself\"? A:",
+    "output": "yourself",
+    "options": [
+      "outside",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"spring\" or \"discount\"? A:",
+    "output": "discount",
+    "options": [
+      "spring",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"the\" or \"beach\"? A:",
+    "output": "beach",
+    "options": [
+      "the",
+      "beach"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"opera\" or \"blouse\"? A:",
+    "output": "blouse",
+    "options": [
+      "opera",
+      "blouse"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"project\" or \"birthday\"? A:",
+    "output": "birthday",
+    "options": [
+      "project",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"quick\" or \"various\"? A:",
+    "output": "various",
+    "options": [
+      "quick",
+      "various"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"singular\" and \"something\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "singular",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mother\" and \"exactly\" which one has more letters? A:",
+    "output": "exactly",
+    "options": [
+      "mother",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"water\" or \"mother\"? A:",
+    "output": "mother",
+    "options": [
+      "water",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"birthday\" or \"during\"? A:",
+    "output": "birthday",
+    "options": [
+      "birthday",
+      "during"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fried\" and \"farm\" which one has more letters? A:",
+    "output": "fried",
+    "options": [
+      "fried",
+      "farm"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"pocket\" or \"past\"? A:",
+    "output": "pocket",
+    "options": [
+      "pocket",
+      "past"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"playground\" or \"customer\"? A:",
+    "output": "playground",
+    "options": [
+      "playground",
+      "customer"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"easily\" or \"kilo\"? A:",
+    "output": "easily",
+    "options": [
+      "easily",
+      "kilo"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"country\" and \"candy\" which one has more letters? A:",
+    "output": "country",
+    "options": [
+      "country",
+      "candy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"various\" and \"something\" which one has more letters? A:",
+    "output": "something",
+    "options": [
+      "various",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"birthday\" and \"during\" which one has more letters? A:",
+    "output": "birthday",
+    "options": [
+      "birthday",
+      "during"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"lunchtime\" or \"computer\"? A:",
+    "output": "lunchtime",
+    "options": [
+      "lunchtime",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"discount\" or \"playground\"? A:",
+    "output": "playground",
+    "options": [
+      "discount",
+      "playground"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"dance\" or \"park\"? A:",
+    "output": "dance",
+    "options": [
+      "dance",
+      "park"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lose\" and \"north\" which one has more letters? A:",
+    "output": "north",
+    "options": [
+      "lose",
+      "north"
+    ]
+  },
+  {
+    "input": "Q: Which word has more letters, \"seat\" or \"thanks\"? A:",
+    "output": "thanks",
+    "options": [
+      "seat",
+      "thanks"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"bath\" or \"makeup\"? A:",
+    "output": "makeup",
+    "options": [
+      "bath",
+      "makeup"
+    ]
+  },
+  {
+    "input": "Q: Which word is longer, \"reading\" or \"insect\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "insect"
+    ]
+  }
+]

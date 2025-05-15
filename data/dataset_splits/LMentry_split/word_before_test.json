@@ -1,0 +1,7359 @@
+[
+  {
+    "input": "Q: In the sentence \"John arranged for himself to get the prize\", which word immediately precedes the word \"the\"? A:",
+    "output": "get",
+    "options": [
+      "John",
+      "arranged",
+      "for",
+      "himself",
+      "to",
+      "get",
+      "the",
+      "prize"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sally believes that she is brilliant\", which word immediately precedes the word \"that\"? A:",
+    "output": "believes",
+    "options": [
+      "Sally",
+      "believes",
+      "that",
+      "she",
+      "is",
+      "brilliant"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sue knows the answer\", which word immediately precedes the word \"the\"? A:",
+    "output": "knows",
+    "options": [
+      "Sue",
+      "knows",
+      "the",
+      "answer"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John is eager to find a new home\", which word comes right before the word \"is\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "is",
+      "eager",
+      "to",
+      "find",
+      "a",
+      "new",
+      "home"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"pleased\" in the sentence \"The news pleased the students\"? A:",
+    "output": "news",
+    "options": [
+      "The",
+      "news",
+      "pleased",
+      "the",
+      "students"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Over the fort fluttered a large flag\", which word immediately precedes the word \"a\"? A:",
+    "output": "fluttered",
+    "options": [
+      "Over",
+      "the",
+      "fort",
+      "fluttered",
+      "a",
+      "large",
+      "flag"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw John on Sunday\", which word immediately precedes the word \"John\"? A:",
+    "output": "saw",
+    "options": [
+      "I",
+      "saw",
+      "John",
+      "on",
+      "Sunday"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"of\" in the sentence \"A serious accident happened in front of them\"? A:",
+    "output": "front",
+    "options": [
+      "A",
+      "serious",
+      "accident",
+      "happened",
+      "in",
+      "front",
+      "of",
+      "them"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Brown equipped Jones with a camera\", which word comes right before the word \"with\"? A:",
+    "output": "Jones",
+    "options": [
+      "Brown",
+      "equipped",
+      "Jones",
+      "with",
+      "a",
+      "camera"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"John fed rice to the baby\"? A:",
+    "output": "rice",
+    "options": [
+      "John",
+      "fed",
+      "rice",
+      "to",
+      "the",
+      "baby"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"people\" in the sentence \"It annoys people that dogs bark\"? A:",
+    "output": "annoys",
+    "options": [
+      "It",
+      "annoys",
+      "people",
+      "that",
+      "dogs",
+      "bark"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The old and new carts banged together\", which word comes right before the word \"carts\"? A:",
+    "output": "new",
+    "options": [
+      "The",
+      "old",
+      "and",
+      "new",
+      "carts",
+      "banged",
+      "together"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"People from Tucson think very highly of themselves\", which word comes right before the word \"of\"? A:",
+    "output": "highly",
+    "options": [
+      "People",
+      "from",
+      "Tucson",
+      "think",
+      "very",
+      "highly",
+      "of",
+      "themselves"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He continued writing poems\", which word immediately precedes the word \"poems\"? A:",
+    "output": "writing",
+    "options": [
+      "He",
+      "continued",
+      "writing",
+      "poems"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"was\" in the sentence \"Calvin was eating\"? A:",
+    "output": "Calvin",
+    "options": [
+      "Calvin",
+      "was",
+      "eating"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John knows whether she will come back\", which word comes right before the word \"back\"? A:",
+    "output": "come",
+    "options": [
+      "John",
+      "knows",
+      "whether",
+      "she",
+      "will",
+      "come",
+      "back"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The bandits murdered innocent victims\", which word immediately precedes the word \"innocent\"? A:",
+    "output": "murdered",
+    "options": [
+      "The",
+      "bandits",
+      "murdered",
+      "innocent",
+      "victims"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill sent Tom a package\", which word comes right before the word \"Tom\"? A:",
+    "output": "sent",
+    "options": [
+      "Bill",
+      "sent",
+      "Tom",
+      "a",
+      "package"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"lawyer\" in the sentence \"Almost every lawyer could answer that question\"? A:",
+    "output": "every",
+    "options": [
+      "Almost",
+      "every",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"John promised Bill to leave\"? A:",
+    "output": "Bill",
+    "options": [
+      "John",
+      "promised",
+      "Bill",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Martha carved the baby a toy out of wood\", which word comes right before the word \"carved\"? A:",
+    "output": "Martha",
+    "options": [
+      "Martha",
+      "carved",
+      "the",
+      "baby",
+      "a",
+      "toy",
+      "out",
+      "of",
+      "wood"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is obvious to everybody that Tasha likes Misha\", which word comes right before the word \"to\"? A:",
+    "output": "obvious",
+    "options": [
+      "It",
+      "is",
+      "obvious",
+      "to",
+      "everybody",
+      "that",
+      "Tasha",
+      "likes",
+      "Misha"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The farmer loaded the cart with apples\", which word comes right before the word \"with\"? A:",
+    "output": "cart",
+    "options": [
+      "The",
+      "farmer",
+      "loaded",
+      "the",
+      "cart",
+      "with",
+      "apples"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"this\" in the sentence \"A pilot must be flying this plane\"? A:",
+    "output": "flying",
+    "options": [
+      "A",
+      "pilot",
+      "must",
+      "be",
+      "flying",
+      "this",
+      "plane"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"This violin is difficult to play sonatas on\", which word immediately precedes the word \"is\"? A:",
+    "output": "violin",
+    "options": [
+      "This",
+      "violin",
+      "is",
+      "difficult",
+      "to",
+      "play",
+      "sonatas",
+      "on"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"by\" in the sentence \"Mary was visited by Bill\"? A:",
+    "output": "visited",
+    "options": [
+      "Mary",
+      "was",
+      "visited",
+      "by",
+      "Bill"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"on\" in the sentence \"It is easy to play sonatas on this violin\"? A:",
+    "output": "sonatas",
+    "options": [
+      "It",
+      "is",
+      "easy",
+      "to",
+      "play",
+      "sonatas",
+      "on",
+      "this",
+      "violin"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill dried the clothes\", which word immediately precedes the word \"the\"? A:",
+    "output": "dried",
+    "options": [
+      "Bill",
+      "dried",
+      "the",
+      "clothes"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Susan rode a bright blue train from New York\", which word comes right before the word \"blue\"? A:",
+    "output": "bright",
+    "options": [
+      "Susan",
+      "rode",
+      "a",
+      "bright",
+      "blue",
+      "train",
+      "from",
+      "New",
+      "York"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Martina is deathly afraid of spiders\", which word immediately precedes the word \"is\"? A:",
+    "output": "Martina",
+    "options": [
+      "Martina",
+      "is",
+      "deathly",
+      "afraid",
+      "of",
+      "spiders"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Carla was shoveling the walk\", which word immediately precedes the word \"was\"? A:",
+    "output": "Carla",
+    "options": [
+      "Carla",
+      "was",
+      "shoveling",
+      "the",
+      "walk"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary is taller than six feet\", which word immediately precedes the word \"is\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "is",
+      "taller",
+      "than",
+      "six",
+      "feet"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw John on Sunday\", which word comes right before the word \"on\"? A:",
+    "output": "John",
+    "options": [
+      "I",
+      "saw",
+      "John",
+      "on",
+      "Sunday"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"secretary\" in the sentence \"The president declared Smith press secretary\"? A:",
+    "output": "press",
+    "options": [
+      "The",
+      "president",
+      "declared",
+      "Smith",
+      "press",
+      "secretary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Pat is the captain of the team\", which word comes right before the word \"is\"? A:",
+    "output": "Pat",
+    "options": [
+      "Pat",
+      "is",
+      "the",
+      "captain",
+      "of",
+      "the",
+      "team"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The students felt comfortable in the class\", which word comes right before the word \"comfortable\"? A:",
+    "output": "felt",
+    "options": [
+      "The",
+      "students",
+      "felt",
+      "comfortable",
+      "in",
+      "the",
+      "class"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"vases\" in the sentence \"Crystal vases break easily\"? A:",
+    "output": "Crystal",
+    "options": [
+      "Crystal",
+      "vases",
+      "break",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I broke the twig and the branch apart\", which word comes right before the word \"apart\"? A:",
+    "output": "branch",
+    "options": [
+      "I",
+      "broke",
+      "the",
+      "twig",
+      "and",
+      "the",
+      "branch",
+      "apart"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A chair was broken\", which word comes right before the word \"was\"? A:",
+    "output": "chair",
+    "options": [
+      "A",
+      "chair",
+      "was",
+      "broken"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A chair was broken\", which word immediately precedes the word \"was\"? A:",
+    "output": "chair",
+    "options": [
+      "A",
+      "chair",
+      "was",
+      "broken"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I ate deep fried muffins\", which word comes right before the word \"fried\"? A:",
+    "output": "deep",
+    "options": [
+      "I",
+      "ate",
+      "deep",
+      "fried",
+      "muffins"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"There appears to be a problem with this solution\", which word comes right before the word \"to\"? A:",
+    "output": "appears",
+    "options": [
+      "There",
+      "appears",
+      "to",
+      "be",
+      "a",
+      "problem",
+      "with",
+      "this",
+      "solution"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jack sprayed the wall with paint\", which word comes right before the word \"the\"? A:",
+    "output": "sprayed",
+    "options": [
+      "Jack",
+      "sprayed",
+      "the",
+      "wall",
+      "with",
+      "paint"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I want to go\", which word comes right before the word \"to\"? A:",
+    "output": "want",
+    "options": [
+      "I",
+      "want",
+      "to",
+      "go"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A large dog chased a small cat\", which word immediately precedes the word \"cat\"? A:",
+    "output": "small",
+    "options": [
+      "A",
+      "large",
+      "dog",
+      "chased",
+      "a",
+      "small",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John asks in which box he put the book\", which word immediately precedes the word \"in\"? A:",
+    "output": "asks",
+    "options": [
+      "John",
+      "asks",
+      "in",
+      "which",
+      "box",
+      "he",
+      "put",
+      "the",
+      "book"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"She tried to leave\"? A:",
+    "output": "tried",
+    "options": [
+      "She",
+      "tried",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Much of that theory is unfounded\", which word comes right before the word \"is\"? A:",
+    "output": "theory",
+    "options": [
+      "Much",
+      "of",
+      "that",
+      "theory",
+      "is",
+      "unfounded"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"lunch\" in the sentence \"The storm arrived while we ate lunch\"? A:",
+    "output": "ate",
+    "options": [
+      "The",
+      "storm",
+      "arrived",
+      "while",
+      "we",
+      "ate",
+      "lunch"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary is more than six feet tall\", which word immediately precedes the word \"feet\"? A:",
+    "output": "six",
+    "options": [
+      "Mary",
+      "is",
+      "more",
+      "than",
+      "six",
+      "feet",
+      "tall"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John told us which book we should review\", which word immediately precedes the word \"us\"? A:",
+    "output": "told",
+    "options": [
+      "John",
+      "told",
+      "us",
+      "which",
+      "book",
+      "we",
+      "should",
+      "review"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"talked\" in the sentence \"Ellen talked with Helen\"? A:",
+    "output": "Ellen",
+    "options": [
+      "Ellen",
+      "talked",
+      "with",
+      "Helen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Nora sent the book from Paris to London\", which word comes right before the word \"the\"? A:",
+    "output": "sent",
+    "options": [
+      "Nora",
+      "sent",
+      "the",
+      "book",
+      "from",
+      "Paris",
+      "to",
+      "London"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"promised\" in the sentence \"John promised us to be gentle\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "promised",
+      "us",
+      "to",
+      "be",
+      "gentle"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is likely that Bill likes chocolate\", which word comes right before the word \"chocolate\"? A:",
+    "output": "likes",
+    "options": [
+      "It",
+      "is",
+      "likely",
+      "that",
+      "Bill",
+      "likes",
+      "chocolate"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"at\" in the sentence \"We ate at a really fancy restaurant\"? A:",
+    "output": "ate",
+    "options": [
+      "We",
+      "ate",
+      "at",
+      "a",
+      "really",
+      "fancy",
+      "restaurant"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"That picture of Susan offended her\", which word immediately precedes the word \"her\"? A:",
+    "output": "offended",
+    "options": [
+      "That",
+      "picture",
+      "of",
+      "Susan",
+      "offended",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Wickham eloped with Lydia\", which word comes right before the word \"with\"? A:",
+    "output": "eloped",
+    "options": [
+      "Wickham",
+      "eloped",
+      "with",
+      "Lydia"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Mary\" in the sentence \"John has not kissed Mary\"? A:",
+    "output": "kissed",
+    "options": [
+      "John",
+      "has",
+      "not",
+      "kissed",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is nice to go abroad\", which word immediately precedes the word \"to\"? A:",
+    "output": "nice",
+    "options": [
+      "It",
+      "is",
+      "nice",
+      "to",
+      "go",
+      "abroad"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Gary and Kevin ran themselves into exhaustion\", which word comes right before the word \"ran\"? A:",
+    "output": "Kevin",
+    "options": [
+      "Gary",
+      "and",
+      "Kevin",
+      "ran",
+      "themselves",
+      "into",
+      "exhaustion"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The witch vanished into the forest\", which word comes right before the word \"into\"? A:",
+    "output": "vanished",
+    "options": [
+      "The",
+      "witch",
+      "vanished",
+      "into",
+      "the",
+      "forest"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I am fond of circus performers\", which word comes right before the word \"performers\"? A:",
+    "output": "circus",
+    "options": [
+      "I",
+      "am",
+      "fond",
+      "of",
+      "circus",
+      "performers"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"We made enough puddings to last for days\", which word comes right before the word \"puddings\"? A:",
+    "output": "enough",
+    "options": [
+      "We",
+      "made",
+      "enough",
+      "puddings",
+      "to",
+      "last",
+      "for",
+      "days"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Amanda carried the package from Boston to New York\", which word comes right before the word \"to\"? A:",
+    "output": "Boston",
+    "options": [
+      "Amanda",
+      "carried",
+      "the",
+      "package",
+      "from",
+      "Boston",
+      "to",
+      "New",
+      "York"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The secretary transcribed the speech into the record\", which word immediately precedes the word \"transcribed\"? A:",
+    "output": "secretary",
+    "options": [
+      "The",
+      "secretary",
+      "transcribed",
+      "the",
+      "speech",
+      "into",
+      "the",
+      "record"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen talked with Helen\", which word immediately precedes the word \"with\"? A:",
+    "output": "talked",
+    "options": [
+      "Ellen",
+      "talked",
+      "with",
+      "Helen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John tried to please Stephen\", which word immediately precedes the word \"to\"? A:",
+    "output": "tried",
+    "options": [
+      "John",
+      "tried",
+      "to",
+      "please",
+      "Stephen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill visited Mary\", which word immediately precedes the word \"visited\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "visited",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John is eager to please Kim\", which word comes right before the word \"Kim\"? A:",
+    "output": "please",
+    "options": [
+      "John",
+      "is",
+      "eager",
+      "to",
+      "please",
+      "Kim"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The tourists will go to the park\", which word immediately precedes the word \"will\"? A:",
+    "output": "tourists",
+    "options": [
+      "The",
+      "tourists",
+      "will",
+      "go",
+      "to",
+      "the",
+      "park"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"flowered\" in the sentence \"The garden flowered with roses\"? A:",
+    "output": "garden",
+    "options": [
+      "The",
+      "garden",
+      "flowered",
+      "with",
+      "roses"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"died\" in the sentence \"Captain Oates died in order to save his comrades\"? A:",
+    "output": "Oates",
+    "options": [
+      "Captain",
+      "Oates",
+      "died",
+      "in",
+      "order",
+      "to",
+      "save",
+      "his",
+      "comrades"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"These books disappoint me\", which word immediately precedes the word \"disappoint\"? A:",
+    "output": "books",
+    "options": [
+      "These",
+      "books",
+      "disappoint",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"the girls likes themselves\", which word comes right before the word \"themselves\"? A:",
+    "output": "likes",
+    "options": [
+      "the",
+      "girls",
+      "likes",
+      "themselves"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mike talked about politics yesterday to my friends\", which word comes right before the word \"yesterday\"? A:",
+    "output": "politics",
+    "options": [
+      "Mike",
+      "talked",
+      "about",
+      "politics",
+      "yesterday",
+      "to",
+      "my",
+      "friends"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"taught\" in the sentence \"Mary taught linguistics to John\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "taught",
+      "linguistics",
+      "to",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"and\" in the sentence \"John and Mary met in Vienna\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "and",
+      "Mary",
+      "met",
+      "in",
+      "Vienna"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"Mary plays the violin beautifully\"? A:",
+    "output": "plays",
+    "options": [
+      "Mary",
+      "plays",
+      "the",
+      "violin",
+      "beautifully"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"leave\" in the sentence \"They saw Bill leave\"? A:",
+    "output": "Bill",
+    "options": [
+      "They",
+      "saw",
+      "Bill",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I am fond of circus performers\", which word immediately precedes the word \"performers\"? A:",
+    "output": "circus",
+    "options": [
+      "I",
+      "am",
+      "fond",
+      "of",
+      "circus",
+      "performers"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kerry remarked it was late\", which word immediately precedes the word \"remarked\"? A:",
+    "output": "Kerry",
+    "options": [
+      "Kerry",
+      "remarked",
+      "it",
+      "was",
+      "late"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sincerity is an important quality\", which word comes right before the word \"is\"? A:",
+    "output": "Sincerity",
+    "options": [
+      "Sincerity",
+      "is",
+      "an",
+      "important",
+      "quality"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary solved the problem\", which word immediately precedes the word \"the\"? A:",
+    "output": "solved",
+    "options": [
+      "Mary",
+      "solved",
+      "the",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"It is nice to go abroad\"? A:",
+    "output": "nice",
+    "options": [
+      "It",
+      "is",
+      "nice",
+      "to",
+      "go",
+      "abroad"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Crystal vases break easily\", which word comes right before the word \"vases\"? A:",
+    "output": "Crystal",
+    "options": [
+      "Crystal",
+      "vases",
+      "break",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"with\" in the sentence \"The car collided with the fence\"? A:",
+    "output": "collided",
+    "options": [
+      "The",
+      "car",
+      "collided",
+      "with",
+      "the",
+      "fence"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Smith inscribed his name over the door\", which word immediately precedes the word \"over\"? A:",
+    "output": "name",
+    "options": [
+      "Smith",
+      "inscribed",
+      "his",
+      "name",
+      "over",
+      "the",
+      "door"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"my\" in the sentence \"The barber shaved my chin\"? A:",
+    "output": "shaved",
+    "options": [
+      "The",
+      "barber",
+      "shaved",
+      "my",
+      "chin"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Bill\" in the sentence \"John considers Bill to be silly\"? A:",
+    "output": "considers",
+    "options": [
+      "John",
+      "considers",
+      "Bill",
+      "to",
+      "be",
+      "silly"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"David constructed a house from bricks\", which word comes right before the word \"from\"? A:",
+    "output": "house",
+    "options": [
+      "David",
+      "constructed",
+      "a",
+      "house",
+      "from",
+      "bricks"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Penny skated around the rink\", which word immediately precedes the word \"the\"? A:",
+    "output": "around",
+    "options": [
+      "Penny",
+      "skated",
+      "around",
+      "the",
+      "rink"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Dan\" in the sentence \"Shannon sent Dan an email\"? A:",
+    "output": "sent",
+    "options": [
+      "Shannon",
+      "sent",
+      "Dan",
+      "an",
+      "email"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Fanny loved talking to Mary\", which word immediately precedes the word \"talking\"? A:",
+    "output": "loved",
+    "options": [
+      "Fanny",
+      "loved",
+      "talking",
+      "to",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I admired him for his courage\", which word immediately precedes the word \"him\"? A:",
+    "output": "admired",
+    "options": [
+      "I",
+      "admired",
+      "him",
+      "for",
+      "his",
+      "courage"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John told Mary to kiss him\", which word comes right before the word \"told\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "told",
+      "Mary",
+      "to",
+      "kiss",
+      "him"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"in\" in the sentence \"John put carrots from his garden in the salad\"? A:",
+    "output": "garden",
+    "options": [
+      "John",
+      "put",
+      "carrots",
+      "from",
+      "his",
+      "garden",
+      "in",
+      "the",
+      "salad"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"is\" in the sentence \"Pat is the captain of the team\"? A:",
+    "output": "Pat",
+    "options": [
+      "Pat",
+      "is",
+      "the",
+      "captain",
+      "of",
+      "the",
+      "team"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary sang for everyone who wanted to hear her\", which word comes right before the word \"her\"? A:",
+    "output": "hear",
+    "options": [
+      "Mary",
+      "sang",
+      "for",
+      "everyone",
+      "who",
+      "wanted",
+      "to",
+      "hear",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Joseph has forgotten how many matches he has won\", which word immediately precedes the word \"matches\"? A:",
+    "output": "many",
+    "options": [
+      "Joseph",
+      "has",
+      "forgotten",
+      "how",
+      "many",
+      "matches",
+      "he",
+      "has",
+      "won"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"whether\" in the sentence \"I wonder whether Mary will win\"? A:",
+    "output": "wonder",
+    "options": [
+      "I",
+      "wonder",
+      "whether",
+      "Mary",
+      "will",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The tree dropped its fruit to the ground\", which word comes right before the word \"dropped\"? A:",
+    "output": "tree",
+    "options": [
+      "The",
+      "tree",
+      "dropped",
+      "its",
+      "fruit",
+      "to",
+      "the",
+      "ground"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John persuaded Stephen to be more careful\", which word comes right before the word \"persuaded\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "persuaded",
+      "Stephen",
+      "to",
+      "be",
+      "more",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John gave a book to the student\", which word immediately precedes the word \"gave\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "gave",
+      "a",
+      "book",
+      "to",
+      "the",
+      "student"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Susan whispered at Rachel\", which word immediately precedes the word \"whispered\"? A:",
+    "output": "Susan",
+    "options": [
+      "Susan",
+      "whispered",
+      "at",
+      "Rachel"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Someone tried to leave the town\", which word comes right before the word \"to\"? A:",
+    "output": "tried",
+    "options": [
+      "Someone",
+      "tried",
+      "to",
+      "leave",
+      "the",
+      "town"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John is very fond of Mary\", which word immediately precedes the word \"of\"? A:",
+    "output": "fond",
+    "options": [
+      "John",
+      "is",
+      "very",
+      "fond",
+      "of",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"They hit the ball\", which word comes right before the word \"the\"? A:",
+    "output": "hit",
+    "options": [
+      "They",
+      "hit",
+      "the",
+      "ball"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Tessa sprained her ankle\", which word comes right before the word \"her\"? A:",
+    "output": "sprained",
+    "options": [
+      "Tessa",
+      "sprained",
+      "her",
+      "ankle"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"They ignored the suggestion that Lee made\", which word immediately precedes the word \"the\"? A:",
+    "output": "ignored",
+    "options": [
+      "They",
+      "ignored",
+      "the",
+      "suggestion",
+      "that",
+      "Lee",
+      "made"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"promised\" in the sentence \"John promised Bill to leave\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "promised",
+      "Bill",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The books slid across the table\", which word comes right before the word \"slid\"? A:",
+    "output": "books",
+    "options": [
+      "The",
+      "books",
+      "slid",
+      "across",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"glows\" in the sentence \"The moon glows in the darkness\"? A:",
+    "output": "moon",
+    "options": [
+      "The",
+      "moon",
+      "glows",
+      "in",
+      "the",
+      "darkness"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"dropped\" in the sentence \"The tree dropped its fruit to the ground\"? A:",
+    "output": "tree",
+    "options": [
+      "The",
+      "tree",
+      "dropped",
+      "its",
+      "fruit",
+      "to",
+      "the",
+      "ground"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John considers him a nice guy\", which word comes right before the word \"considers\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "considers",
+      "him",
+      "a",
+      "nice",
+      "guy"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"is\" in the sentence \"Maxwell is quite a doctor\"? A:",
+    "output": "Maxwell",
+    "options": [
+      "Maxwell",
+      "is",
+      "quite",
+      "a",
+      "doctor"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John was seeing his children\", which word comes right before the word \"was\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "was",
+      "seeing",
+      "his",
+      "children"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Almost every lawyer could answer that question\", which word comes right before the word \"that\"? A:",
+    "output": "answer",
+    "options": [
+      "Almost",
+      "every",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary plays the violin beautifully\", which word immediately precedes the word \"the\"? A:",
+    "output": "plays",
+    "options": [
+      "Mary",
+      "plays",
+      "the",
+      "violin",
+      "beautifully"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Doug cleared the table\", which word immediately precedes the word \"the\"? A:",
+    "output": "cleared",
+    "options": [
+      "Doug",
+      "cleared",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"it\" in the sentence \"I took it for granted that she was lying\"? A:",
+    "output": "took",
+    "options": [
+      "I",
+      "took",
+      "it",
+      "for",
+      "granted",
+      "that",
+      "she",
+      "was",
+      "lying"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jennifer craned her neck\", which word immediately precedes the word \"craned\"? A:",
+    "output": "Jennifer",
+    "options": [
+      "Jennifer",
+      "craned",
+      "her",
+      "neck"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Lou forgot the umbrella in the closet\", which word comes right before the word \"forgot\"? A:",
+    "output": "Lou",
+    "options": [
+      "Lou",
+      "forgot",
+      "the",
+      "umbrella",
+      "in",
+      "the",
+      "closet"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"We persuaded Mary to leave and Sue to stay\", which word immediately precedes the word \"and\"? A:",
+    "output": "leave",
+    "options": [
+      "We",
+      "persuaded",
+      "Mary",
+      "to",
+      "leave",
+      "and",
+      "Sue",
+      "to",
+      "stay"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"They paid a lot of attention to the matter\", which word immediately precedes the word \"a\"? A:",
+    "output": "paid",
+    "options": [
+      "They",
+      "paid",
+      "a",
+      "lot",
+      "of",
+      "attention",
+      "to",
+      "the",
+      "matter"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"her\" in the sentence \"Mary sang for everyone who wanted to hear her\"? A:",
+    "output": "hear",
+    "options": [
+      "Mary",
+      "sang",
+      "for",
+      "everyone",
+      "who",
+      "wanted",
+      "to",
+      "hear",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"We made enough puddings to last for days\", which word immediately precedes the word \"enough\"? A:",
+    "output": "made",
+    "options": [
+      "We",
+      "made",
+      "enough",
+      "puddings",
+      "to",
+      "last",
+      "for",
+      "days"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I climbed up the tree\", which word comes right before the word \"up\"? A:",
+    "output": "climbed",
+    "options": [
+      "I",
+      "climbed",
+      "up",
+      "the",
+      "tree"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Reading about herself in the tabloids always annoys Sandra\", which word comes right before the word \"Sandra\"? A:",
+    "output": "annoys",
+    "options": [
+      "Reading",
+      "about",
+      "herself",
+      "in",
+      "the",
+      "tabloids",
+      "always",
+      "annoys",
+      "Sandra"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I know a man who hates me\", which word comes right before the word \"me\"? A:",
+    "output": "hates",
+    "options": [
+      "I",
+      "know",
+      "a",
+      "man",
+      "who",
+      "hates",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"saw\" in the sentence \"Mary saw the boy walking toward the railroad station\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "saw",
+      "the",
+      "boy",
+      "walking",
+      "toward",
+      "the",
+      "railroad",
+      "station"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"We made enough puddings to last for days\", which word immediately precedes the word \"to\"? A:",
+    "output": "puddings",
+    "options": [
+      "We",
+      "made",
+      "enough",
+      "puddings",
+      "to",
+      "last",
+      "for",
+      "days"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary cuts the paper easily\", which word immediately precedes the word \"easily\"? A:",
+    "output": "paper",
+    "options": [
+      "Mary",
+      "cuts",
+      "the",
+      "paper",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is certain that John has loved Mary\", which word immediately precedes the word \"has\"? A:",
+    "output": "John",
+    "options": [
+      "It",
+      "is",
+      "certain",
+      "that",
+      "John",
+      "has",
+      "loved",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John was lots more obnoxious than Fred\", which word comes right before the word \"than\"? A:",
+    "output": "obnoxious",
+    "options": [
+      "John",
+      "was",
+      "lots",
+      "more",
+      "obnoxious",
+      "than",
+      "Fred"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Some people consider the noisy dogs dangerous\", which word comes right before the word \"dogs\"? A:",
+    "output": "noisy",
+    "options": [
+      "Some",
+      "people",
+      "consider",
+      "the",
+      "noisy",
+      "dogs",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I mixed the soap and the water\", which word comes right before the word \"and\"? A:",
+    "output": "soap",
+    "options": [
+      "I",
+      "mixed",
+      "the",
+      "soap",
+      "and",
+      "the",
+      "water"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary has never kissed a Man taller than John\", which word immediately precedes the word \"taller\"? A:",
+    "output": "Man",
+    "options": [
+      "Mary",
+      "has",
+      "never",
+      "kissed",
+      "a",
+      "Man",
+      "taller",
+      "than",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Many people were dying of thirst\", which word immediately precedes the word \"people\"? A:",
+    "output": "Many",
+    "options": [
+      "Many",
+      "people",
+      "were",
+      "dying",
+      "of",
+      "thirst"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"book\" in the sentence \"There is every book by Chomsky in this library\"? A:",
+    "output": "every",
+    "options": [
+      "There",
+      "is",
+      "every",
+      "book",
+      "by",
+      "Chomsky",
+      "in",
+      "this",
+      "library"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"caught\" in the sentence \"The dog caught the cat\"? A:",
+    "output": "dog",
+    "options": [
+      "The",
+      "dog",
+      "caught",
+      "the",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The jury seemed ready to leave\", which word immediately precedes the word \"ready\"? A:",
+    "output": "seemed",
+    "options": [
+      "The",
+      "jury",
+      "seemed",
+      "ready",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"gold\" in the sentence \"I gave John gold apples\"? A:",
+    "output": "John",
+    "options": [
+      "I",
+      "gave",
+      "John",
+      "gold",
+      "apples"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"up\" in the sentence \"Mickey looked up the reference\"? A:",
+    "output": "looked",
+    "options": [
+      "Mickey",
+      "looked",
+      "up",
+      "the",
+      "reference"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"in\" in the sentence \"The students felt comfortable in the class\"? A:",
+    "output": "comfortable",
+    "options": [
+      "The",
+      "students",
+      "felt",
+      "comfortable",
+      "in",
+      "the",
+      "class"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"That professor is feared by all students\", which word comes right before the word \"is\"? A:",
+    "output": "professor",
+    "options": [
+      "That",
+      "professor",
+      "is",
+      "feared",
+      "by",
+      "all",
+      "students"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"an\" in the sentence \"Shannon sent Dan an email\"? A:",
+    "output": "Dan",
+    "options": [
+      "Shannon",
+      "sent",
+      "Dan",
+      "an",
+      "email"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"did\" in the sentence \"A boy did not laugh\"? A:",
+    "output": "boy",
+    "options": [
+      "A",
+      "boy",
+      "did",
+      "not",
+      "laugh"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"has\" in the sentence \"Tokyo has not loosened trade restrictions\"? A:",
+    "output": "Tokyo",
+    "options": [
+      "Tokyo",
+      "has",
+      "not",
+      "loosened",
+      "trade",
+      "restrictions"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen talked with Helen\", which word comes right before the word \"with\"? A:",
+    "output": "talked",
+    "options": [
+      "Ellen",
+      "talked",
+      "with",
+      "Helen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"These dogs barked\", which word immediately precedes the word \"barked\"? A:",
+    "output": "dogs",
+    "options": [
+      "These",
+      "dogs",
+      "barked"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"It would be difficult to please John\"? A:",
+    "output": "difficult",
+    "options": [
+      "It",
+      "would",
+      "be",
+      "difficult",
+      "to",
+      "please",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The concert started when the bell rang\", which word comes right before the word \"when\"? A:",
+    "output": "started",
+    "options": [
+      "The",
+      "concert",
+      "started",
+      "when",
+      "the",
+      "bell",
+      "rang"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"and\" in the sentence \"We recommend to eat less cake and pastry\"? A:",
+    "output": "cake",
+    "options": [
+      "We",
+      "recommend",
+      "to",
+      "eat",
+      "less",
+      "cake",
+      "and",
+      "pastry"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John became a success\", which word comes right before the word \"a\"? A:",
+    "output": "became",
+    "options": [
+      "John",
+      "became",
+      "a",
+      "success"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The tigers hunt prey at night\", which word immediately precedes the word \"prey\"? A:",
+    "output": "hunt",
+    "options": [
+      "The",
+      "tigers",
+      "hunt",
+      "prey",
+      "at",
+      "night"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Carmen obtained the spare part at the hardware store\", which word comes right before the word \"part\"? A:",
+    "output": "spare",
+    "options": [
+      "Carmen",
+      "obtained",
+      "the",
+      "spare",
+      "part",
+      "at",
+      "the",
+      "hardware",
+      "store"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"in\" in the sentence \"We placed the cheese in the refrigerator\"? A:",
+    "output": "cheese",
+    "options": [
+      "We",
+      "placed",
+      "the",
+      "cheese",
+      "in",
+      "the",
+      "refrigerator"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The judge offered a prize to the winner\", which word immediately precedes the word \"offered\"? A:",
+    "output": "judge",
+    "options": [
+      "The",
+      "judge",
+      "offered",
+      "a",
+      "prize",
+      "to",
+      "the",
+      "winner"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"is\" in the sentence \"Jean is likely to dance\"? A:",
+    "output": "Jean",
+    "options": [
+      "Jean",
+      "is",
+      "likely",
+      "to",
+      "dance"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The mushrooms were sliced by the cook\", which word immediately precedes the word \"by\"? A:",
+    "output": "sliced",
+    "options": [
+      "The",
+      "mushrooms",
+      "were",
+      "sliced",
+      "by",
+      "the",
+      "cook"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Carla mopped the floor under the furniture\", which word immediately precedes the word \"under\"? A:",
+    "output": "floor",
+    "options": [
+      "Carla",
+      "mopped",
+      "the",
+      "floor",
+      "under",
+      "the",
+      "furniture"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Almost any lawyer could answer that question\", which word comes right before the word \"any\"? A:",
+    "output": "Almost",
+    "options": [
+      "Almost",
+      "any",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Susan rode a bright blue train from New York\", which word comes right before the word \"from\"? A:",
+    "output": "train",
+    "options": [
+      "Susan",
+      "rode",
+      "a",
+      "bright",
+      "blue",
+      "train",
+      "from",
+      "New",
+      "York"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is obvious that Pat is lying\", which word immediately precedes the word \"that\"? A:",
+    "output": "obvious",
+    "options": [
+      "It",
+      "is",
+      "obvious",
+      "that",
+      "Pat",
+      "is",
+      "lying"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He planted the garden last November with roses\", which word immediately precedes the word \"the\"? A:",
+    "output": "planted",
+    "options": [
+      "He",
+      "planted",
+      "the",
+      "garden",
+      "last",
+      "November",
+      "with",
+      "roses"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"They paid a lot of attention to the matter\", which word comes right before the word \"of\"? A:",
+    "output": "lot",
+    "options": [
+      "They",
+      "paid",
+      "a",
+      "lot",
+      "of",
+      "attention",
+      "to",
+      "the",
+      "matter"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"I wrote to Bill\"? A:",
+    "output": "wrote",
+    "options": [
+      "I",
+      "wrote",
+      "to",
+      "Bill"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"hit\" in the sentence \"A boy hit the ball\"? A:",
+    "output": "boy",
+    "options": [
+      "A",
+      "boy",
+      "hit",
+      "the",
+      "ball"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Some people consider the noisy dogs dangerous\", which word comes right before the word \"consider\"? A:",
+    "output": "people",
+    "options": [
+      "Some",
+      "people",
+      "consider",
+      "the",
+      "noisy",
+      "dogs",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"no\" in the sentence \"Almost no lawyer could answer that question\"? A:",
+    "output": "Almost",
+    "options": [
+      "Almost",
+      "no",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"her\" in the sentence \"Mary scratched her arm too\"? A:",
+    "output": "scratched",
+    "options": [
+      "Mary",
+      "scratched",
+      "her",
+      "arm",
+      "too"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I want him to eat asparagus\", which word immediately precedes the word \"him\"? A:",
+    "output": "want",
+    "options": [
+      "I",
+      "want",
+      "him",
+      "to",
+      "eat",
+      "asparagus"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I know the person whose mother died\", which word comes right before the word \"the\"? A:",
+    "output": "know",
+    "options": [
+      "I",
+      "know",
+      "the",
+      "person",
+      "whose",
+      "mother",
+      "died"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"that\" in the sentence \"It is obvious that Pat is lying\"? A:",
+    "output": "obvious",
+    "options": [
+      "It",
+      "is",
+      "obvious",
+      "that",
+      "Pat",
+      "is",
+      "lying"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The river runs from the lake to the sea\", which word immediately precedes the word \"to\"? A:",
+    "output": "lake",
+    "options": [
+      "The",
+      "river",
+      "runs",
+      "from",
+      "the",
+      "lake",
+      "to",
+      "the",
+      "sea"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"was\" in the sentence \"The earth was believed to be round\"? A:",
+    "output": "earth",
+    "options": [
+      "The",
+      "earth",
+      "was",
+      "believed",
+      "to",
+      "be",
+      "round"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John promised Mary that he would leave\", which word immediately precedes the word \"that\"? A:",
+    "output": "Mary",
+    "options": [
+      "John",
+      "promised",
+      "Mary",
+      "that",
+      "he",
+      "would",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The student enjoyed his English syntax class last semester\", which word comes right before the word \"syntax\"? A:",
+    "output": "English",
+    "options": [
+      "The",
+      "student",
+      "enjoyed",
+      "his",
+      "English",
+      "syntax",
+      "class",
+      "last",
+      "semester"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw John on Sunday\", which word immediately precedes the word \"on\"? A:",
+    "output": "John",
+    "options": [
+      "I",
+      "saw",
+      "John",
+      "on",
+      "Sunday"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill ate more peaches than Harry did grapes\", which word comes right before the word \"ate\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "ate",
+      "more",
+      "peaches",
+      "than",
+      "Harry",
+      "did",
+      "grapes"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"bark\" in the sentence \"It annoys people that dogs bark\"? A:",
+    "output": "dogs",
+    "options": [
+      "It",
+      "annoys",
+      "people",
+      "that",
+      "dogs",
+      "bark"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I know a taller man than John\", which word immediately precedes the word \"a\"? A:",
+    "output": "know",
+    "options": [
+      "I",
+      "know",
+      "a",
+      "taller",
+      "man",
+      "than",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"Someone tried to leave the town\"? A:",
+    "output": "tried",
+    "options": [
+      "Someone",
+      "tried",
+      "to",
+      "leave",
+      "the",
+      "town"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary cuts the paper easily\", which word comes right before the word \"cuts\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "cuts",
+      "the",
+      "paper",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Nora sent the book from Paris to London\", which word comes right before the word \"to\"? A:",
+    "output": "Paris",
+    "options": [
+      "Nora",
+      "sent",
+      "the",
+      "book",
+      "from",
+      "Paris",
+      "to",
+      "London"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Alison poked the needle through the cloth\", which word comes right before the word \"through\"? A:",
+    "output": "needle",
+    "options": [
+      "Alison",
+      "poked",
+      "the",
+      "needle",
+      "through",
+      "the",
+      "cloth"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"gave\" in the sentence \"Bill gave Sue the book\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "gave",
+      "Sue",
+      "the",
+      "book"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John seems to sleep all day\", which word immediately precedes the word \"all\"? A:",
+    "output": "sleep",
+    "options": [
+      "John",
+      "seems",
+      "to",
+      "sleep",
+      "all",
+      "day"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary has never kissed a Man taller than John\", which word immediately precedes the word \"kissed\"? A:",
+    "output": "never",
+    "options": [
+      "Mary",
+      "has",
+      "never",
+      "kissed",
+      "a",
+      "Man",
+      "taller",
+      "than",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Clean your desk before tomorrow\", which word comes right before the word \"your\"? A:",
+    "output": "Clean",
+    "options": [
+      "Clean",
+      "your",
+      "desk",
+      "before",
+      "tomorrow"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John fed rice to the baby\", which word immediately precedes the word \"fed\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "fed",
+      "rice",
+      "to",
+      "the",
+      "baby"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Brutus murdered Julius Caesar with a dagger\", which word immediately precedes the word \"Caesar\"? A:",
+    "output": "Julius",
+    "options": [
+      "Brutus",
+      "murdered",
+      "Julius",
+      "Caesar",
+      "with",
+      "a",
+      "dagger"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary would solve the problem\", which word comes right before the word \"would\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "would",
+      "solve",
+      "the",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It seems to be easy to fool Ben\", which word immediately precedes the word \"Ben\"? A:",
+    "output": "fool",
+    "options": [
+      "It",
+      "seems",
+      "to",
+      "be",
+      "easy",
+      "to",
+      "fool",
+      "Ben"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"and\" in the sentence \"I ate some popcorn and drank some soda\"? A:",
+    "output": "popcorn",
+    "options": [
+      "I",
+      "ate",
+      "some",
+      "popcorn",
+      "and",
+      "drank",
+      "some",
+      "soda"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary scratched her arm too\", which word comes right before the word \"too\"? A:",
+    "output": "arm",
+    "options": [
+      "Mary",
+      "scratched",
+      "her",
+      "arm",
+      "too"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"I dislike the person with whom we were talking\"? A:",
+    "output": "dislike",
+    "options": [
+      "I",
+      "dislike",
+      "the",
+      "person",
+      "with",
+      "whom",
+      "we",
+      "were",
+      "talking"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"You may pick any flower\", which word comes right before the word \"any\"? A:",
+    "output": "pick",
+    "options": [
+      "You",
+      "may",
+      "pick",
+      "any",
+      "flower"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Susan devoted herself to linguistics\", which word comes right before the word \"herself\"? A:",
+    "output": "devoted",
+    "options": [
+      "Susan",
+      "devoted",
+      "herself",
+      "to",
+      "linguistics"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I have never seen this movie\", which word immediately precedes the word \"this\"? A:",
+    "output": "seen",
+    "options": [
+      "I",
+      "have",
+      "never",
+      "seen",
+      "this",
+      "movie"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Elizabeth regretted that she had met Wickham\", which word immediately precedes the word \"that\"? A:",
+    "output": "regretted",
+    "options": [
+      "Elizabeth",
+      "regretted",
+      "that",
+      "she",
+      "had",
+      "met",
+      "Wickham"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The river runs from the lake to the sea\", which word comes right before the word \"to\"? A:",
+    "output": "lake",
+    "options": [
+      "The",
+      "river",
+      "runs",
+      "from",
+      "the",
+      "lake",
+      "to",
+      "the",
+      "sea"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"bit\" in the sentence \"The dog bit the cat\"? A:",
+    "output": "dog",
+    "options": [
+      "The",
+      "dog",
+      "bit",
+      "the",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John included his name in the list\", which word immediately precedes the word \"included\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "included",
+      "his",
+      "name",
+      "in",
+      "the",
+      "list"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Drowning cats is against the law\", which word immediately precedes the word \"cats\"? A:",
+    "output": "Drowning",
+    "options": [
+      "Drowning",
+      "cats",
+      "is",
+      "against",
+      "the",
+      "law"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"by\" in the sentence \"Jason expected Medea to be treated by the doctor\"? A:",
+    "output": "treated",
+    "options": [
+      "Jason",
+      "expected",
+      "Medea",
+      "to",
+      "be",
+      "treated",
+      "by",
+      "the",
+      "doctor"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"skated\" in the sentence \"Penny skated around the rink\"? A:",
+    "output": "Penny",
+    "options": [
+      "Penny",
+      "skated",
+      "around",
+      "the",
+      "rink"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The storm arrived while we ate lunch\", which word comes right before the word \"lunch\"? A:",
+    "output": "ate",
+    "options": [
+      "The",
+      "storm",
+      "arrived",
+      "while",
+      "we",
+      "ate",
+      "lunch"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"posed\" in the sentence \"Dina posed as a lawyer\"? A:",
+    "output": "Dina",
+    "options": [
+      "Dina",
+      "posed",
+      "as",
+      "a",
+      "lawyer"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"her\" in the sentence \"Tessa sprained her ankle\"? A:",
+    "output": "sprained",
+    "options": [
+      "Tessa",
+      "sprained",
+      "her",
+      "ankle"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I like Mary and she likes me\", which word immediately precedes the word \"and\"? A:",
+    "output": "Mary",
+    "options": [
+      "I",
+      "like",
+      "Mary",
+      "and",
+      "she",
+      "likes",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The child became a man\", which word immediately precedes the word \"a\"? A:",
+    "output": "became",
+    "options": [
+      "The",
+      "child",
+      "became",
+      "a",
+      "man"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"not\" in the sentence \"He could not have been working\"? A:",
+    "output": "could",
+    "options": [
+      "He",
+      "could",
+      "not",
+      "have",
+      "been",
+      "working"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is certain that John has loved Mary\", which word comes right before the word \"has\"? A:",
+    "output": "John",
+    "options": [
+      "It",
+      "is",
+      "certain",
+      "that",
+      "John",
+      "has",
+      "loved",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John tried to please Stephen\", which word comes right before the word \"tried\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "tried",
+      "to",
+      "please",
+      "Stephen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The boy in the doorway waved to his father\", which word comes right before the word \"waved\"? A:",
+    "output": "doorway",
+    "options": [
+      "The",
+      "boy",
+      "in",
+      "the",
+      "doorway",
+      "waved",
+      "to",
+      "his",
+      "father"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Shannon sent Dan an email\", which word comes right before the word \"Dan\"? A:",
+    "output": "sent",
+    "options": [
+      "Shannon",
+      "sent",
+      "Dan",
+      "an",
+      "email"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The evidence assembled by the prosecution convinced the jury\", which word immediately precedes the word \"convinced\"? A:",
+    "output": "prosecution",
+    "options": [
+      "The",
+      "evidence",
+      "assembled",
+      "by",
+      "the",
+      "prosecution",
+      "convinced",
+      "the",
+      "jury"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"donated\" in the sentence \"Kris donated a book to the library\"? A:",
+    "output": "Kris",
+    "options": [
+      "Kris",
+      "donated",
+      "a",
+      "book",
+      "to",
+      "the",
+      "library"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"David constructed a house from bricks\", which word immediately precedes the word \"from\"? A:",
+    "output": "house",
+    "options": [
+      "David",
+      "constructed",
+      "a",
+      "house",
+      "from",
+      "bricks"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The storm arrived while we ate lunch\", which word immediately precedes the word \"lunch\"? A:",
+    "output": "ate",
+    "options": [
+      "The",
+      "storm",
+      "arrived",
+      "while",
+      "we",
+      "ate",
+      "lunch"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I think she is pregnant\", which word comes right before the word \"she\"? A:",
+    "output": "think",
+    "options": [
+      "I",
+      "think",
+      "she",
+      "is",
+      "pregnant"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"enough\" in the sentence \"We made enough puddings to last for days\"? A:",
+    "output": "made",
+    "options": [
+      "We",
+      "made",
+      "enough",
+      "puddings",
+      "to",
+      "last",
+      "for",
+      "days"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I know the person whose mother died\", which word immediately precedes the word \"mother\"? A:",
+    "output": "whose",
+    "options": [
+      "I",
+      "know",
+      "the",
+      "person",
+      "whose",
+      "mother",
+      "died"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Louis begged Kate to leave\", which word comes right before the word \"begged\"? A:",
+    "output": "Louis",
+    "options": [
+      "Louis",
+      "begged",
+      "Kate",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I hit the ball\", which word comes right before the word \"the\"? A:",
+    "output": "hit",
+    "options": [
+      "I",
+      "hit",
+      "the",
+      "ball"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"on\" in the sentence \"Sonatas are easy to play on this violin\"? A:",
+    "output": "play",
+    "options": [
+      "Sonatas",
+      "are",
+      "easy",
+      "to",
+      "play",
+      "on",
+      "this",
+      "violin"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw these dancers and those musicians smoking something\", which word immediately precedes the word \"something\"? A:",
+    "output": "smoking",
+    "options": [
+      "I",
+      "saw",
+      "these",
+      "dancers",
+      "and",
+      "those",
+      "musicians",
+      "smoking",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kim likes dogs\", which word comes right before the word \"likes\"? A:",
+    "output": "Kim",
+    "options": [
+      "Kim",
+      "likes",
+      "dogs"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John has been driving the car\", which word immediately precedes the word \"the\"? A:",
+    "output": "driving",
+    "options": [
+      "John",
+      "has",
+      "been",
+      "driving",
+      "the",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill drank from the hose\", which word immediately precedes the word \"from\"? A:",
+    "output": "drank",
+    "options": [
+      "Bill",
+      "drank",
+      "from",
+      "the",
+      "hose"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"it\" in the sentence \"He figured it out\"? A:",
+    "output": "figured",
+    "options": [
+      "He",
+      "figured",
+      "it",
+      "out"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It annoys people that dogs bark\", which word comes right before the word \"people\"? A:",
+    "output": "annoys",
+    "options": [
+      "It",
+      "annoys",
+      "people",
+      "that",
+      "dogs",
+      "bark"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The old and new carts banged together\", which word comes right before the word \"and\"? A:",
+    "output": "old",
+    "options": [
+      "The",
+      "old",
+      "and",
+      "new",
+      "carts",
+      "banged",
+      "together"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Martha carved the baby a toy out of wood\", which word immediately precedes the word \"carved\"? A:",
+    "output": "Martha",
+    "options": [
+      "Martha",
+      "carved",
+      "the",
+      "baby",
+      "a",
+      "toy",
+      "out",
+      "of",
+      "wood"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A smith hammered the metal\", which word comes right before the word \"hammered\"? A:",
+    "output": "smith",
+    "options": [
+      "A",
+      "smith",
+      "hammered",
+      "the",
+      "metal"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John tried to please Stephen\", which word immediately precedes the word \"Stephen\"? A:",
+    "output": "please",
+    "options": [
+      "John",
+      "tried",
+      "to",
+      "please",
+      "Stephen"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"a\" in the sentence \"I presented a solution yesterday\"? A:",
+    "output": "presented",
+    "options": [
+      "I",
+      "presented",
+      "a",
+      "solution",
+      "yesterday"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I have never seen this movie\", which word comes right before the word \"seen\"? A:",
+    "output": "never",
+    "options": [
+      "I",
+      "have",
+      "never",
+      "seen",
+      "this",
+      "movie"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Tom\" in the sentence \"Bill sent Tom a package\"? A:",
+    "output": "sent",
+    "options": [
+      "Bill",
+      "sent",
+      "Tom",
+      "a",
+      "package"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sue knows the answer\", which word comes right before the word \"the\"? A:",
+    "output": "knows",
+    "options": [
+      "Sue",
+      "knows",
+      "the",
+      "answer"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Mary\" in the sentence \"Bill visited Mary\"? A:",
+    "output": "visited",
+    "options": [
+      "Bill",
+      "visited",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I gave John gold apples\", which word immediately precedes the word \"John\"? A:",
+    "output": "gave",
+    "options": [
+      "I",
+      "gave",
+      "John",
+      "gold",
+      "apples"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John hit the ball with a bat\", which word comes right before the word \"the\"? A:",
+    "output": "hit",
+    "options": [
+      "John",
+      "hit",
+      "the",
+      "ball",
+      "with",
+      "a",
+      "bat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Almost no lawyer could answer that question\", which word comes right before the word \"that\"? A:",
+    "output": "answer",
+    "options": [
+      "Almost",
+      "no",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary sang for everyone who wanted to hear her\", which word immediately precedes the word \"her\"? A:",
+    "output": "hear",
+    "options": [
+      "Mary",
+      "sang",
+      "for",
+      "everyone",
+      "who",
+      "wanted",
+      "to",
+      "hear",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Everyone hoped that she would sing\", which word comes right before the word \"hoped\"? A:",
+    "output": "Everyone",
+    "options": [
+      "Everyone",
+      "hoped",
+      "that",
+      "she",
+      "would",
+      "sing"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John considers Bill to be silly\", which word comes right before the word \"Bill\"? A:",
+    "output": "considers",
+    "options": [
+      "John",
+      "considers",
+      "Bill",
+      "to",
+      "be",
+      "silly"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"is\" in the sentence \"Dana is longing for a sunny day\"? A:",
+    "output": "Dana",
+    "options": [
+      "Dana",
+      "is",
+      "longing",
+      "for",
+      "a",
+      "sunny",
+      "day"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary was respected by John\", which word immediately precedes the word \"was\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "was",
+      "respected",
+      "by",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The boy swims\", which word immediately precedes the word \"swims\"? A:",
+    "output": "boy",
+    "options": [
+      "The",
+      "boy",
+      "swims"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I wonder whether Mary will win\", which word comes right before the word \"whether\"? A:",
+    "output": "wonder",
+    "options": [
+      "I",
+      "wonder",
+      "whether",
+      "Mary",
+      "will",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John promised Bill to leave\", which word immediately precedes the word \"Bill\"? A:",
+    "output": "promised",
+    "options": [
+      "John",
+      "promised",
+      "Bill",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"remove\" in the sentence \"No one could remove the blood on the wall\"? A:",
+    "output": "could",
+    "options": [
+      "No",
+      "one",
+      "could",
+      "remove",
+      "the",
+      "blood",
+      "on",
+      "the",
+      "wall"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"available\" in the sentence \"There is a seat available\"? A:",
+    "output": "seat",
+    "options": [
+      "There",
+      "is",
+      "a",
+      "seat",
+      "available"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Almost any lawyer could answer that question\", which word immediately precedes the word \"that\"? A:",
+    "output": "answer",
+    "options": [
+      "Almost",
+      "any",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"herself\" in the sentence \"Philippa cried herself to sleep\"? A:",
+    "output": "cried",
+    "options": [
+      "Philippa",
+      "cried",
+      "herself",
+      "to",
+      "sleep"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"cleared\" in the sentence \"Clouds cleared from the sky\"? A:",
+    "output": "Clouds",
+    "options": [
+      "Clouds",
+      "cleared",
+      "from",
+      "the",
+      "sky"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"cut\" in the sentence \"Margaret cut the string\"? A:",
+    "output": "Margaret",
+    "options": [
+      "Margaret",
+      "cut",
+      "the",
+      "string"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The gardener grew an oak tree from that acorn\", which word immediately precedes the word \"grew\"? A:",
+    "output": "gardener",
+    "options": [
+      "The",
+      "gardener",
+      "grew",
+      "an",
+      "oak",
+      "tree",
+      "from",
+      "that",
+      "acorn"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Henri will paint the floor for an hour\", which word immediately precedes the word \"for\"? A:",
+    "output": "floor",
+    "options": [
+      "Henri",
+      "will",
+      "paint",
+      "the",
+      "floor",
+      "for",
+      "an",
+      "hour"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The sofa was longer than the desk was\", which word comes right before the word \"than\"? A:",
+    "output": "longer",
+    "options": [
+      "The",
+      "sofa",
+      "was",
+      "longer",
+      "than",
+      "the",
+      "desk",
+      "was"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"His girlfriend bought this computer\", which word immediately precedes the word \"this\"? A:",
+    "output": "bought",
+    "options": [
+      "His",
+      "girlfriend",
+      "bought",
+      "this",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I asked where you found it\", which word comes right before the word \"it\"? A:",
+    "output": "found",
+    "options": [
+      "I",
+      "asked",
+      "where",
+      "you",
+      "found",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"that\" in the sentence \"Sally believes that she is brilliant\"? A:",
+    "output": "believes",
+    "options": [
+      "Sally",
+      "believes",
+      "that",
+      "she",
+      "is",
+      "brilliant"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"alleged\" in the sentence \"Bill alleged that Roger has eaten the cake\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "alleged",
+      "that",
+      "Roger",
+      "has",
+      "eaten",
+      "the",
+      "cake"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"how\" in the sentence \"I forgot how good beer tastes\"? A:",
+    "output": "forgot",
+    "options": [
+      "I",
+      "forgot",
+      "how",
+      "good",
+      "beer",
+      "tastes"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"quietly\" in the sentence \"John ate his noodle quietly\"? A:",
+    "output": "noodle",
+    "options": [
+      "John",
+      "ate",
+      "his",
+      "noodle",
+      "quietly"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Dracula thought that he was the Prince of Darkness\", which word comes right before the word \"that\"? A:",
+    "output": "thought",
+    "options": [
+      "Dracula",
+      "thought",
+      "that",
+      "he",
+      "was",
+      "the",
+      "Prince",
+      "of",
+      "Darkness"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I took it for granted that she was lying\", which word immediately precedes the word \"it\"? A:",
+    "output": "took",
+    "options": [
+      "I",
+      "took",
+      "it",
+      "for",
+      "granted",
+      "that",
+      "she",
+      "was",
+      "lying"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The men will all leave\", which word immediately precedes the word \"will\"? A:",
+    "output": "men",
+    "options": [
+      "The",
+      "men",
+      "will",
+      "all",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"ready\" in the sentence \"The jury seemed ready to leave\"? A:",
+    "output": "seemed",
+    "options": [
+      "The",
+      "jury",
+      "seemed",
+      "ready",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The report that crime was declining surprised many people\", which word comes right before the word \"that\"? A:",
+    "output": "report",
+    "options": [
+      "The",
+      "report",
+      "that",
+      "crime",
+      "was",
+      "declining",
+      "surprised",
+      "many",
+      "people"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I sensed his eagerness\", which word immediately precedes the word \"his\"? A:",
+    "output": "sensed",
+    "options": [
+      "I",
+      "sensed",
+      "his",
+      "eagerness"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"This arch is supporting the weight of the tower\", which word immediately precedes the word \"is\"? A:",
+    "output": "arch",
+    "options": [
+      "This",
+      "arch",
+      "is",
+      "supporting",
+      "the",
+      "weight",
+      "of",
+      "the",
+      "tower"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"me\" in the sentence \"I know a man who hates me\"? A:",
+    "output": "hates",
+    "options": [
+      "I",
+      "know",
+      "a",
+      "man",
+      "who",
+      "hates",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He could not have been working\", which word immediately precedes the word \"not\"? A:",
+    "output": "could",
+    "options": [
+      "He",
+      "could",
+      "not",
+      "have",
+      "been",
+      "working"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I went to the store and bought some whisky\", which word comes right before the word \"some\"? A:",
+    "output": "bought",
+    "options": [
+      "I",
+      "went",
+      "to",
+      "the",
+      "store",
+      "and",
+      "bought",
+      "some",
+      "whisky"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The gardener grew an oak tree from that acorn\", which word comes right before the word \"tree\"? A:",
+    "output": "oak",
+    "options": [
+      "The",
+      "gardener",
+      "grew",
+      "an",
+      "oak",
+      "tree",
+      "from",
+      "that",
+      "acorn"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He looked the number up\", which word immediately precedes the word \"up\"? A:",
+    "output": "number",
+    "options": [
+      "He",
+      "looked",
+      "the",
+      "number",
+      "up"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John is very fond of Mary\", which word comes right before the word \"of\"? A:",
+    "output": "fond",
+    "options": [
+      "John",
+      "is",
+      "very",
+      "fond",
+      "of",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen told Helen a story\", which word comes right before the word \"a\"? A:",
+    "output": "Helen",
+    "options": [
+      "Ellen",
+      "told",
+      "Helen",
+      "a",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jason persuaded Medea to desert her family\", which word comes right before the word \"Medea\"? A:",
+    "output": "persuaded",
+    "options": [
+      "Jason",
+      "persuaded",
+      "Medea",
+      "to",
+      "desert",
+      "her",
+      "family"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The car collided with the fence\", which word comes right before the word \"collided\"? A:",
+    "output": "car",
+    "options": [
+      "The",
+      "car",
+      "collided",
+      "with",
+      "the",
+      "fence"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It may rain\", which word immediately precedes the word \"rain\"? A:",
+    "output": "may",
+    "options": [
+      "It",
+      "may",
+      "rain"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill visited Mary\", which word comes right before the word \"Mary\"? A:",
+    "output": "visited",
+    "options": [
+      "Bill",
+      "visited",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"I would prefer for John to leave\"? A:",
+    "output": "John",
+    "options": [
+      "I",
+      "would",
+      "prefer",
+      "for",
+      "John",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I am drinking lemonade and eating a brownie\", which word comes right before the word \"lemonade\"? A:",
+    "output": "drinking",
+    "options": [
+      "I",
+      "am",
+      "drinking",
+      "lemonade",
+      "and",
+      "eating",
+      "a",
+      "brownie"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jackie chased the thief\", which word comes right before the word \"the\"? A:",
+    "output": "chased",
+    "options": [
+      "Jackie",
+      "chased",
+      "the",
+      "thief"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"year\" in the sentence \"Last year I saw this film several times\"? A:",
+    "output": "Last",
+    "options": [
+      "Last",
+      "year",
+      "I",
+      "saw",
+      "this",
+      "film",
+      "several",
+      "times"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Leslie\" in the sentence \"Pat promised Leslie to be aggressive\"? A:",
+    "output": "promised",
+    "options": [
+      "Pat",
+      "promised",
+      "Leslie",
+      "to",
+      "be",
+      "aggressive"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jack sprayed the wall with paint\", which word immediately precedes the word \"the\"? A:",
+    "output": "sprayed",
+    "options": [
+      "Jack",
+      "sprayed",
+      "the",
+      "wall",
+      "with",
+      "paint"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I could have been flying helicopters by now\", which word immediately precedes the word \"have\"? A:",
+    "output": "could",
+    "options": [
+      "I",
+      "could",
+      "have",
+      "been",
+      "flying",
+      "helicopters",
+      "by",
+      "now"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John was lots more obnoxious than Fred\", which word immediately precedes the word \"than\"? A:",
+    "output": "obnoxious",
+    "options": [
+      "John",
+      "was",
+      "lots",
+      "more",
+      "obnoxious",
+      "than",
+      "Fred"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"saw\" in the sentence \"John saw Fred\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "saw",
+      "Fred"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The witch vanished into the forest\", which word comes right before the word \"vanished\"? A:",
+    "output": "witch",
+    "options": [
+      "The",
+      "witch",
+      "vanished",
+      "into",
+      "the",
+      "forest"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"fancy\" in the sentence \"We ate at a really fancy restaurant\"? A:",
+    "output": "really",
+    "options": [
+      "We",
+      "ate",
+      "at",
+      "a",
+      "really",
+      "fancy",
+      "restaurant"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"declared\" in the sentence \"The president declared Smith press secretary\"? A:",
+    "output": "president",
+    "options": [
+      "The",
+      "president",
+      "declared",
+      "Smith",
+      "press",
+      "secretary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John promised Mary that he would leave\", which word comes right before the word \"Mary\"? A:",
+    "output": "promised",
+    "options": [
+      "John",
+      "promised",
+      "Mary",
+      "that",
+      "he",
+      "would",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The farmer dumped apples into the cart\", which word comes right before the word \"into\"? A:",
+    "output": "apples",
+    "options": [
+      "The",
+      "farmer",
+      "dumped",
+      "apples",
+      "into",
+      "the",
+      "cart"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jason expected Medea to be treated by the doctor\", which word immediately precedes the word \"by\"? A:",
+    "output": "treated",
+    "options": [
+      "Jason",
+      "expected",
+      "Medea",
+      "to",
+      "be",
+      "treated",
+      "by",
+      "the",
+      "doctor"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The bandits murdered innocent victims\", which word comes right before the word \"innocent\"? A:",
+    "output": "murdered",
+    "options": [
+      "The",
+      "bandits",
+      "murdered",
+      "innocent",
+      "victims"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I think he will eat asparagus\", which word immediately precedes the word \"he\"? A:",
+    "output": "think",
+    "options": [
+      "I",
+      "think",
+      "he",
+      "will",
+      "eat",
+      "asparagus"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"John tried to be a good boy\"? A:",
+    "output": "tried",
+    "options": [
+      "John",
+      "tried",
+      "to",
+      "be",
+      "a",
+      "good",
+      "boy"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The storm arrived after the picnic\", which word comes right before the word \"after\"? A:",
+    "output": "arrived",
+    "options": [
+      "The",
+      "storm",
+      "arrived",
+      "after",
+      "the",
+      "picnic"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John died last night\", which word immediately precedes the word \"night\"? A:",
+    "output": "last",
+    "options": [
+      "John",
+      "died",
+      "last",
+      "night"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary confidently answered any objections\", which word immediately precedes the word \"answered\"? A:",
+    "output": "confidently",
+    "options": [
+      "Mary",
+      "confidently",
+      "answered",
+      "any",
+      "objections"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen told Helen a story\", which word immediately precedes the word \"Helen\"? A:",
+    "output": "told",
+    "options": [
+      "Ellen",
+      "told",
+      "Helen",
+      "a",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw people playing there on the beach\", which word comes right before the word \"people\"? A:",
+    "output": "saw",
+    "options": [
+      "I",
+      "saw",
+      "people",
+      "playing",
+      "there",
+      "on",
+      "the",
+      "beach"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary taught linguistics to John\", which word comes right before the word \"taught\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "taught",
+      "linguistics",
+      "to",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A serious accident happened yesterday\", which word immediately precedes the word \"accident\"? A:",
+    "output": "serious",
+    "options": [
+      "A",
+      "serious",
+      "accident",
+      "happened",
+      "yesterday"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The agency classified the documents\", which word comes right before the word \"classified\"? A:",
+    "output": "agency",
+    "options": [
+      "The",
+      "agency",
+      "classified",
+      "the",
+      "documents"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"more\" in the sentence \"He looks more formidable than he is\"? A:",
+    "output": "looks",
+    "options": [
+      "He",
+      "looks",
+      "more",
+      "formidable",
+      "than",
+      "he",
+      "is"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The report that crime was declining surprised many people\", which word immediately precedes the word \"that\"? A:",
+    "output": "report",
+    "options": [
+      "The",
+      "report",
+      "that",
+      "crime",
+      "was",
+      "declining",
+      "surprised",
+      "many",
+      "people"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"placed\" in the sentence \"Tom placed it under the table\"? A:",
+    "output": "Tom",
+    "options": [
+      "Tom",
+      "placed",
+      "it",
+      "under",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"My brother likes collecting jazz records\", which word comes right before the word \"jazz\"? A:",
+    "output": "collecting",
+    "options": [
+      "My",
+      "brother",
+      "likes",
+      "collecting",
+      "jazz",
+      "records"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"that\" in the sentence \"It is likely that John will leave\"? A:",
+    "output": "likely",
+    "options": [
+      "It",
+      "is",
+      "likely",
+      "that",
+      "John",
+      "will",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Amanda drove the package from Boston\", which word immediately precedes the word \"from\"? A:",
+    "output": "package",
+    "options": [
+      "Amanda",
+      "drove",
+      "the",
+      "package",
+      "from",
+      "Boston"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Susan wanted Jane to study German\", which word immediately precedes the word \"to\"? A:",
+    "output": "Jane",
+    "options": [
+      "Susan",
+      "wanted",
+      "Jane",
+      "to",
+      "study",
+      "German"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The sofa was longer than the desk was\", which word immediately precedes the word \"than\"? A:",
+    "output": "longer",
+    "options": [
+      "The",
+      "sofa",
+      "was",
+      "longer",
+      "than",
+      "the",
+      "desk",
+      "was"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He treats John very badly\", which word comes right before the word \"John\"? A:",
+    "output": "treats",
+    "options": [
+      "He",
+      "treats",
+      "John",
+      "very",
+      "badly"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"That chisel carved the statue\"? A:",
+    "output": "carved",
+    "options": [
+      "That",
+      "chisel",
+      "carved",
+      "the",
+      "statue"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"for\" in the sentence \"I would like for John to win\"? A:",
+    "output": "like",
+    "options": [
+      "I",
+      "would",
+      "like",
+      "for",
+      "John",
+      "to",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Carla slid those books across the table\", which word immediately precedes the word \"those\"? A:",
+    "output": "slid",
+    "options": [
+      "Carla",
+      "slid",
+      "those",
+      "books",
+      "across",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Larry hunted all the foxes\", which word immediately precedes the word \"hunted\"? A:",
+    "output": "Larry",
+    "options": [
+      "Larry",
+      "hunted",
+      "all",
+      "the",
+      "foxes"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ron definitely has bought a dog\", which word comes right before the word \"has\"? A:",
+    "output": "definitely",
+    "options": [
+      "Ron",
+      "definitely",
+      "has",
+      "bought",
+      "a",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"cuts\" in the sentence \"Mary cuts the paper easily\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "cuts",
+      "the",
+      "paper",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Mary\" in the sentence \"John often meets Mary\"? A:",
+    "output": "meets",
+    "options": [
+      "John",
+      "often",
+      "meets",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"taught\" in the sentence \"Mary taught John linguistics\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "taught",
+      "John",
+      "linguistics"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I feel that Arch will show up\", which word comes right before the word \"up\"? A:",
+    "output": "show",
+    "options": [
+      "I",
+      "feel",
+      "that",
+      "Arch",
+      "will",
+      "show",
+      "up"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"That barn has seven pine trees behind it\", which word immediately precedes the word \"behind\"? A:",
+    "output": "trees",
+    "options": [
+      "That",
+      "barn",
+      "has",
+      "seven",
+      "pine",
+      "trees",
+      "behind",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John called the president a fool\", which word immediately precedes the word \"the\"? A:",
+    "output": "called",
+    "options": [
+      "John",
+      "called",
+      "the",
+      "president",
+      "a",
+      "fool"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill wants Susan to leave\", which word immediately precedes the word \"to\"? A:",
+    "output": "Susan",
+    "options": [
+      "Bill",
+      "wants",
+      "Susan",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"the girls likes themselves\", which word immediately precedes the word \"themselves\"? A:",
+    "output": "likes",
+    "options": [
+      "the",
+      "girls",
+      "likes",
+      "themselves"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"did\" in the sentence \"John scratched his arm and Mary did too\"? A:",
+    "output": "Mary",
+    "options": [
+      "John",
+      "scratched",
+      "his",
+      "arm",
+      "and",
+      "Mary",
+      "did",
+      "too"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"over\" in the sentence \"Smith inscribed his name over the door\"? A:",
+    "output": "name",
+    "options": [
+      "Smith",
+      "inscribed",
+      "his",
+      "name",
+      "over",
+      "the",
+      "door"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John will leave the party earlier\", which word immediately precedes the word \"the\"? A:",
+    "output": "leave",
+    "options": [
+      "John",
+      "will",
+      "leave",
+      "the",
+      "party",
+      "earlier"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"craned\" in the sentence \"Jennifer craned her neck\"? A:",
+    "output": "Jennifer",
+    "options": [
+      "Jennifer",
+      "craned",
+      "her",
+      "neck"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Andy promised we would go\", which word immediately precedes the word \"we\"? A:",
+    "output": "promised",
+    "options": [
+      "Andy",
+      "promised",
+      "we",
+      "would",
+      "go"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"over\" in the sentence \"The weights stretched the rope over the pulley\"? A:",
+    "output": "rope",
+    "options": [
+      "The",
+      "weights",
+      "stretched",
+      "the",
+      "rope",
+      "over",
+      "the",
+      "pulley"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"You may pick every flower\", which word comes right before the word \"flower\"? A:",
+    "output": "every",
+    "options": [
+      "You",
+      "may",
+      "pick",
+      "every",
+      "flower"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"My eyes are itching\", which word immediately precedes the word \"are\"? A:",
+    "output": "eyes",
+    "options": [
+      "My",
+      "eyes",
+      "are",
+      "itching"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"seemed\" in the sentence \"The jury seemed ready to leave\"? A:",
+    "output": "jury",
+    "options": [
+      "The",
+      "jury",
+      "seemed",
+      "ready",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John and Mary met in Vienna\", which word comes right before the word \"met\"? A:",
+    "output": "Mary",
+    "options": [
+      "John",
+      "and",
+      "Mary",
+      "met",
+      "in",
+      "Vienna"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Louis was forgiven by Susan\", which word immediately precedes the word \"by\"? A:",
+    "output": "forgiven",
+    "options": [
+      "Louis",
+      "was",
+      "forgiven",
+      "by",
+      "Susan"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Manuel\" in the sentence \"I bought Manuel some flowers\"? A:",
+    "output": "bought",
+    "options": [
+      "I",
+      "bought",
+      "Manuel",
+      "some",
+      "flowers"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I asked where you found it\", which word comes right before the word \"where\"? A:",
+    "output": "asked",
+    "options": [
+      "I",
+      "asked",
+      "where",
+      "you",
+      "found",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John and Mary met in Vienna\", which word immediately precedes the word \"met\"? A:",
+    "output": "Mary",
+    "options": [
+      "John",
+      "and",
+      "Mary",
+      "met",
+      "in",
+      "Vienna"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw John on Sunday\", which word comes right before the word \"John\"? A:",
+    "output": "saw",
+    "options": [
+      "I",
+      "saw",
+      "John",
+      "on",
+      "Sunday"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The king loved peanut butter cookies\", which word immediately precedes the word \"butter\"? A:",
+    "output": "peanut",
+    "options": [
+      "The",
+      "king",
+      "loved",
+      "peanut",
+      "butter",
+      "cookies"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Square\" in the sentence \"Park Square has a festive air\"? A:",
+    "output": "Park",
+    "options": [
+      "Park",
+      "Square",
+      "has",
+      "a",
+      "festive",
+      "air"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"That joke never fails to amuse\", which word comes right before the word \"never\"? A:",
+    "output": "joke",
+    "options": [
+      "That",
+      "joke",
+      "never",
+      "fails",
+      "to",
+      "amuse"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"something\" in the sentence \"I saw these dancers and those musicians smoking something\"? A:",
+    "output": "smoking",
+    "options": [
+      "I",
+      "saw",
+      "these",
+      "dancers",
+      "and",
+      "those",
+      "musicians",
+      "smoking",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"by\" in the sentence \"The mushrooms were sliced by the cook\"? A:",
+    "output": "sliced",
+    "options": [
+      "The",
+      "mushrooms",
+      "were",
+      "sliced",
+      "by",
+      "the",
+      "cook"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I talked to Winston about himself\", which word comes right before the word \"about\"? A:",
+    "output": "Winston",
+    "options": [
+      "I",
+      "talked",
+      "to",
+      "Winston",
+      "about",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"ran\" in the sentence \"Gary and Kevin ran themselves into exhaustion\"? A:",
+    "output": "Kevin",
+    "options": [
+      "Gary",
+      "and",
+      "Kevin",
+      "ran",
+      "themselves",
+      "into",
+      "exhaustion"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"These dogs barked\", which word comes right before the word \"barked\"? A:",
+    "output": "dogs",
+    "options": [
+      "These",
+      "dogs",
+      "barked"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"Louise broke the cup\"? A:",
+    "output": "broke",
+    "options": [
+      "Louise",
+      "broke",
+      "the",
+      "cup"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kim regrets not having seen the movie\", which word immediately precedes the word \"the\"? A:",
+    "output": "seen",
+    "options": [
+      "Kim",
+      "regrets",
+      "not",
+      "having",
+      "seen",
+      "the",
+      "movie"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"present\" in the sentence \"I gave my brother a birthday present\"? A:",
+    "output": "birthday",
+    "options": [
+      "I",
+      "gave",
+      "my",
+      "brother",
+      "a",
+      "birthday",
+      "present"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"in\" in the sentence \"Frances hid the presents in the drawer\"? A:",
+    "output": "presents",
+    "options": [
+      "Frances",
+      "hid",
+      "the",
+      "presents",
+      "in",
+      "the",
+      "drawer"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I forgot how good beer tastes\", which word immediately precedes the word \"beer\"? A:",
+    "output": "good",
+    "options": [
+      "I",
+      "forgot",
+      "how",
+      "good",
+      "beer",
+      "tastes"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary always prefers lemons to limes\", which word comes right before the word \"lemons\"? A:",
+    "output": "prefers",
+    "options": [
+      "Mary",
+      "always",
+      "prefers",
+      "lemons",
+      "to",
+      "limes"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The dog barked at the cat\", which word comes right before the word \"at\"? A:",
+    "output": "barked",
+    "options": [
+      "The",
+      "dog",
+      "barked",
+      "at",
+      "the",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Someone stole my car\", which word comes right before the word \"stole\"? A:",
+    "output": "Someone",
+    "options": [
+      "Someone",
+      "stole",
+      "my",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John promised Bill to leave\", which word immediately precedes the word \"promised\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "promised",
+      "Bill",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I could have been flying helicopters by now\", which word immediately precedes the word \"helicopters\"? A:",
+    "output": "flying",
+    "options": [
+      "I",
+      "could",
+      "have",
+      "been",
+      "flying",
+      "helicopters",
+      "by",
+      "now"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Frances hid the presents behind the books\", which word immediately precedes the word \"behind\"? A:",
+    "output": "presents",
+    "options": [
+      "Frances",
+      "hid",
+      "the",
+      "presents",
+      "behind",
+      "the",
+      "books"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"of\" in the sentence \"This arch is supporting the weight of the tower\"? A:",
+    "output": "weight",
+    "options": [
+      "This",
+      "arch",
+      "is",
+      "supporting",
+      "the",
+      "weight",
+      "of",
+      "the",
+      "tower"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is certain that John has loved Mary\", which word comes right before the word \"Mary\"? A:",
+    "output": "loved",
+    "options": [
+      "It",
+      "is",
+      "certain",
+      "that",
+      "John",
+      "has",
+      "loved",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Dana is longing for a sunny day\", which word comes right before the word \"is\"? A:",
+    "output": "Dana",
+    "options": [
+      "Dana",
+      "is",
+      "longing",
+      "for",
+      "a",
+      "sunny",
+      "day"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Captain Oates died in order to save his comrades\", which word immediately precedes the word \"died\"? A:",
+    "output": "Oates",
+    "options": [
+      "Captain",
+      "Oates",
+      "died",
+      "in",
+      "order",
+      "to",
+      "save",
+      "his",
+      "comrades"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Calvin was eating\", which word immediately precedes the word \"was\"? A:",
+    "output": "Calvin",
+    "options": [
+      "Calvin",
+      "was",
+      "eating"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jessica loaded boxes on the wagon\", which word comes right before the word \"on\"? A:",
+    "output": "boxes",
+    "options": [
+      "Jessica",
+      "loaded",
+      "boxes",
+      "on",
+      "the",
+      "wagon"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Shakespeare wrote his plays a long time ago\", which word immediately precedes the word \"his\"? A:",
+    "output": "wrote",
+    "options": [
+      "Shakespeare",
+      "wrote",
+      "his",
+      "plays",
+      "a",
+      "long",
+      "time",
+      "ago"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John studied hard to pass the exam\", which word immediately precedes the word \"studied\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "studied",
+      "hard",
+      "to",
+      "pass",
+      "the",
+      "exam"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The termites destroyed the sand castle\", which word immediately precedes the word \"castle\"? A:",
+    "output": "sand",
+    "options": [
+      "The",
+      "termites",
+      "destroyed",
+      "the",
+      "sand",
+      "castle"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Visiting relatives can be boring\", which word comes right before the word \"can\"? A:",
+    "output": "relatives",
+    "options": [
+      "Visiting",
+      "relatives",
+      "can",
+      "be",
+      "boring"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I ate some popcorn and drank some soda\", which word immediately precedes the word \"and\"? A:",
+    "output": "popcorn",
+    "options": [
+      "I",
+      "ate",
+      "some",
+      "popcorn",
+      "and",
+      "drank",
+      "some",
+      "soda"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John owns the book\", which word comes right before the word \"the\"? A:",
+    "output": "owns",
+    "options": [
+      "John",
+      "owns",
+      "the",
+      "book"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"hopes\" in the sentence \"Susan hopes to sleep\"? A:",
+    "output": "Susan",
+    "options": [
+      "Susan",
+      "hopes",
+      "to",
+      "sleep"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John bit the apple\", which word comes right before the word \"bit\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "bit",
+      "the",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John deposited some money in the bank\", which word comes right before the word \"deposited\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "deposited",
+      "some",
+      "money",
+      "in",
+      "the",
+      "bank"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He planted the garden with roses last November\", which word comes right before the word \"with\"? A:",
+    "output": "garden",
+    "options": [
+      "He",
+      "planted",
+      "the",
+      "garden",
+      "with",
+      "roses",
+      "last",
+      "November"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"he\" in the sentence \"Everyone thinks he is smart\"? A:",
+    "output": "thinks",
+    "options": [
+      "Everyone",
+      "thinks",
+      "he",
+      "is",
+      "smart"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Clean your desk before tomorrow\", which word immediately precedes the word \"your\"? A:",
+    "output": "Clean",
+    "options": [
+      "Clean",
+      "your",
+      "desk",
+      "before",
+      "tomorrow"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The teacher became angry with the students\", which word comes right before the word \"became\"? A:",
+    "output": "teacher",
+    "options": [
+      "The",
+      "teacher",
+      "became",
+      "angry",
+      "with",
+      "the",
+      "students"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John is happy about the outcome\", which word comes right before the word \"about\"? A:",
+    "output": "happy",
+    "options": [
+      "John",
+      "is",
+      "happy",
+      "about",
+      "the",
+      "outcome"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Nora sent the book from Paris to London\", which word immediately precedes the word \"to\"? A:",
+    "output": "Paris",
+    "options": [
+      "Nora",
+      "sent",
+      "the",
+      "book",
+      "from",
+      "Paris",
+      "to",
+      "London"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"in\" in the sentence \"This disease gave Leslie a fever in Rome\"? A:",
+    "output": "fever",
+    "options": [
+      "This",
+      "disease",
+      "gave",
+      "Leslie",
+      "a",
+      "fever",
+      "in",
+      "Rome"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"She voted for herself\", which word immediately precedes the word \"for\"? A:",
+    "output": "voted",
+    "options": [
+      "She",
+      "voted",
+      "for",
+      "herself"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The director praised the volunteers\", which word immediately precedes the word \"praised\"? A:",
+    "output": "director",
+    "options": [
+      "The",
+      "director",
+      "praised",
+      "the",
+      "volunteers"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"she will win the race\", which word immediately precedes the word \"the\"? A:",
+    "output": "win",
+    "options": [
+      "she",
+      "will",
+      "win",
+      "the",
+      "race"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"for\" in the sentence \"The socks are ready for you to put on\"? A:",
+    "output": "ready",
+    "options": [
+      "The",
+      "socks",
+      "are",
+      "ready",
+      "for",
+      "you",
+      "to",
+      "put",
+      "on"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The jeweller decorated the ring\", which word immediately precedes the word \"decorated\"? A:",
+    "output": "jeweller",
+    "options": [
+      "The",
+      "jeweller",
+      "decorated",
+      "the",
+      "ring"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The twins might have both been at the party\", which word comes right before the word \"might\"? A:",
+    "output": "twins",
+    "options": [
+      "The",
+      "twins",
+      "might",
+      "have",
+      "both",
+      "been",
+      "at",
+      "the",
+      "party"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"No one could remove the blood on the wall\", which word comes right before the word \"on\"? A:",
+    "output": "blood",
+    "options": [
+      "No",
+      "one",
+      "could",
+      "remove",
+      "the",
+      "blood",
+      "on",
+      "the",
+      "wall"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John said Mary went to the store quickly\", which word comes right before the word \"quickly\"? A:",
+    "output": "store",
+    "options": [
+      "John",
+      "said",
+      "Mary",
+      "went",
+      "to",
+      "the",
+      "store",
+      "quickly"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"of\" in the sentence \"The computer will calculate the value of the variable\"? A:",
+    "output": "value",
+    "options": [
+      "The",
+      "computer",
+      "will",
+      "calculate",
+      "the",
+      "value",
+      "of",
+      "the",
+      "variable"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Those bandits attacked Emma and Harriet yesterday\", which word comes right before the word \"Emma\"? A:",
+    "output": "attacked",
+    "options": [
+      "Those",
+      "bandits",
+      "attacked",
+      "Emma",
+      "and",
+      "Harriet",
+      "yesterday"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"tossed\" in the sentence \"Steve tossed the softball\"? A:",
+    "output": "Steve",
+    "options": [
+      "Steve",
+      "tossed",
+      "the",
+      "softball"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I ate deep fried muffins\", which word immediately precedes the word \"muffins\"? A:",
+    "output": "fried",
+    "options": [
+      "I",
+      "ate",
+      "deep",
+      "fried",
+      "muffins"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"can\" in the sentence \"Visiting relatives can be boring\"? A:",
+    "output": "relatives",
+    "options": [
+      "Visiting",
+      "relatives",
+      "can",
+      "be",
+      "boring"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"Paula trimmed the bush\"? A:",
+    "output": "trimmed",
+    "options": [
+      "Paula",
+      "trimmed",
+      "the",
+      "bush"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The thief smashed the window with a hammer\", which word immediately precedes the word \"with\"? A:",
+    "output": "window",
+    "options": [
+      "The",
+      "thief",
+      "smashed",
+      "the",
+      "window",
+      "with",
+      "a",
+      "hammer"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Amanda carried the package to Pamela\", which word comes right before the word \"the\"? A:",
+    "output": "carried",
+    "options": [
+      "Amanda",
+      "carried",
+      "the",
+      "package",
+      "to",
+      "Pamela"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"those\" in the sentence \"Carla slid those books across the table\"? A:",
+    "output": "slid",
+    "options": [
+      "Carla",
+      "slid",
+      "those",
+      "books",
+      "across",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"My brother likes collecting jazz records\", which word comes right before the word \"collecting\"? A:",
+    "output": "likes",
+    "options": [
+      "My",
+      "brother",
+      "likes",
+      "collecting",
+      "jazz",
+      "records"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"has\" in the sentence \"The Minister has arrived\"? A:",
+    "output": "Minister",
+    "options": [
+      "The",
+      "Minister",
+      "has",
+      "arrived"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I wrote to Bill\", which word immediately precedes the word \"to\"? A:",
+    "output": "wrote",
+    "options": [
+      "I",
+      "wrote",
+      "to",
+      "Bill"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Doug went to Chicago\", which word comes right before the word \"to\"? A:",
+    "output": "went",
+    "options": [
+      "Doug",
+      "went",
+      "to",
+      "Chicago"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The child clung to her mother\", which word immediately precedes the word \"clung\"? A:",
+    "output": "child",
+    "options": [
+      "The",
+      "child",
+      "clung",
+      "to",
+      "her",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Spot ate a cat treat\", which word comes right before the word \"treat\"? A:",
+    "output": "cat",
+    "options": [
+      "Spot",
+      "ate",
+      "a",
+      "cat",
+      "treat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Someone attended every seminar\", which word comes right before the word \"seminar\"? A:",
+    "output": "every",
+    "options": [
+      "Someone",
+      "attended",
+      "every",
+      "seminar"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John put books in the box\", which word immediately precedes the word \"in\"? A:",
+    "output": "books",
+    "options": [
+      "John",
+      "put",
+      "books",
+      "in",
+      "the",
+      "box"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"There remained just a few problems to be solved\", which word immediately precedes the word \"just\"? A:",
+    "output": "remained",
+    "options": [
+      "There",
+      "remained",
+      "just",
+      "a",
+      "few",
+      "problems",
+      "to",
+      "be",
+      "solved"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen talked with Helen\", which word comes right before the word \"talked\"? A:",
+    "output": "Ellen",
+    "options": [
+      "Ellen",
+      "talked",
+      "with",
+      "Helen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The rats ran through the maze\", which word immediately precedes the word \"through\"? A:",
+    "output": "ran",
+    "options": [
+      "The",
+      "rats",
+      "ran",
+      "through",
+      "the",
+      "maze"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Martina is deathly afraid of spiders\", which word comes right before the word \"afraid\"? A:",
+    "output": "deathly",
+    "options": [
+      "Martina",
+      "is",
+      "deathly",
+      "afraid",
+      "of",
+      "spiders"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Last year I saw this film several times\", which word comes right before the word \"I\"? A:",
+    "output": "year",
+    "options": [
+      "Last",
+      "year",
+      "I",
+      "saw",
+      "this",
+      "film",
+      "several",
+      "times"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"with\" in the sentence \"Cynthia ate the peach with a fork\"? A:",
+    "output": "peach",
+    "options": [
+      "Cynthia",
+      "ate",
+      "the",
+      "peach",
+      "with",
+      "a",
+      "fork"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill gave Sue the book\", which word immediately precedes the word \"gave\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "gave",
+      "Sue",
+      "the",
+      "book"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John tried to please Stephen\", which word immediately precedes the word \"tried\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "tried",
+      "to",
+      "please",
+      "Stephen"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jean is likely to dance\", which word comes right before the word \"is\"? A:",
+    "output": "Jean",
+    "options": [
+      "Jean",
+      "is",
+      "likely",
+      "to",
+      "dance"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Some student from Australia speaks Chinese\", which word comes right before the word \"from\"? A:",
+    "output": "student",
+    "options": [
+      "Some",
+      "student",
+      "from",
+      "Australia",
+      "speaks",
+      "Chinese"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The paper is readable\", which word comes right before the word \"is\"? A:",
+    "output": "paper",
+    "options": [
+      "The",
+      "paper",
+      "is",
+      "readable"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"All the men lifted the table together\", which word comes right before the word \"lifted\"? A:",
+    "output": "men",
+    "options": [
+      "All",
+      "the",
+      "men",
+      "lifted",
+      "the",
+      "table",
+      "together"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jessica sprayed water at me\", which word comes right before the word \"water\"? A:",
+    "output": "sprayed",
+    "options": [
+      "Jessica",
+      "sprayed",
+      "water",
+      "at",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John seems to be honest\", which word comes right before the word \"to\"? A:",
+    "output": "seems",
+    "options": [
+      "John",
+      "seems",
+      "to",
+      "be",
+      "honest"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"by\" in the sentence \"Louis was forgiven by Susan\"? A:",
+    "output": "forgiven",
+    "options": [
+      "Louis",
+      "was",
+      "forgiven",
+      "by",
+      "Susan"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"He talked to a girl about swimming\", which word comes right before the word \"to\"? A:",
+    "output": "talked",
+    "options": [
+      "He",
+      "talked",
+      "to",
+      "a",
+      "girl",
+      "about",
+      "swimming"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"I talked to Winston about himself\"? A:",
+    "output": "talked",
+    "options": [
+      "I",
+      "talked",
+      "to",
+      "Winston",
+      "about",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Alison poked the needle through the cloth\", which word immediately precedes the word \"through\"? A:",
+    "output": "needle",
+    "options": [
+      "Alison",
+      "poked",
+      "the",
+      "needle",
+      "through",
+      "the",
+      "cloth"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sonatas are easy to play on this violin\", which word immediately precedes the word \"on\"? A:",
+    "output": "play",
+    "options": [
+      "Sonatas",
+      "are",
+      "easy",
+      "to",
+      "play",
+      "on",
+      "this",
+      "violin"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Louise broke the cup\", which word immediately precedes the word \"broke\"? A:",
+    "output": "Louise",
+    "options": [
+      "Louise",
+      "broke",
+      "the",
+      "cup"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary has never kissed a Man taller than John\", which word immediately precedes the word \"a\"? A:",
+    "output": "kissed",
+    "options": [
+      "Mary",
+      "has",
+      "never",
+      "kissed",
+      "a",
+      "Man",
+      "taller",
+      "than",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kris donated a book to the library\", which word immediately precedes the word \"to\"? A:",
+    "output": "book",
+    "options": [
+      "Kris",
+      "donated",
+      "a",
+      "book",
+      "to",
+      "the",
+      "library"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"was\" in the sentence \"The soldier was given the medal by Phillip\"? A:",
+    "output": "soldier",
+    "options": [
+      "The",
+      "soldier",
+      "was",
+      "given",
+      "the",
+      "medal",
+      "by",
+      "Phillip"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Donna fixed a sandwich for me\", which word comes right before the word \"a\"? A:",
+    "output": "fixed",
+    "options": [
+      "Donna",
+      "fixed",
+      "a",
+      "sandwich",
+      "for",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The sexual revolution makes some people uncomfortable\", which word comes right before the word \"some\"? A:",
+    "output": "makes",
+    "options": [
+      "The",
+      "sexual",
+      "revolution",
+      "makes",
+      "some",
+      "people",
+      "uncomfortable"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I read a statement which was about that man\", which word immediately precedes the word \"which\"? A:",
+    "output": "statement",
+    "options": [
+      "I",
+      "read",
+      "a",
+      "statement",
+      "which",
+      "was",
+      "about",
+      "that",
+      "man"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"from\" in the sentence \"Mary received an award from the department\"? A:",
+    "output": "award",
+    "options": [
+      "Mary",
+      "received",
+      "an",
+      "award",
+      "from",
+      "the",
+      "department"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John saw Fred\", which word immediately precedes the word \"saw\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "saw",
+      "Fred"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"herself\" in the sentence \"Susan devoted herself to linguistics\"? A:",
+    "output": "devoted",
+    "options": [
+      "Susan",
+      "devoted",
+      "herself",
+      "to",
+      "linguistics"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Frances hid the presents in the drawer\", which word comes right before the word \"in\"? A:",
+    "output": "presents",
+    "options": [
+      "Frances",
+      "hid",
+      "the",
+      "presents",
+      "in",
+      "the",
+      "drawer"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"inscribed\" in the sentence \"Smith inscribed his name over the door\"? A:",
+    "output": "Smith",
+    "options": [
+      "Smith",
+      "inscribed",
+      "his",
+      "name",
+      "over",
+      "the",
+      "door"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"bit\" in the sentence \"John bit the apple\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "bit",
+      "the",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I would like for John to win\", which word comes right before the word \"for\"? A:",
+    "output": "like",
+    "options": [
+      "I",
+      "would",
+      "like",
+      "for",
+      "John",
+      "to",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"devoured\" in the sentence \"The crocodile devoured the doughnut\"? A:",
+    "output": "crocodile",
+    "options": [
+      "The",
+      "crocodile",
+      "devoured",
+      "the",
+      "doughnut"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"Jane\" in the sentence \"Susan wanted Jane to study German\"? A:",
+    "output": "wanted",
+    "options": [
+      "Susan",
+      "wanted",
+      "Jane",
+      "to",
+      "study",
+      "German"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw these dancers and those musicians smoking something\", which word immediately precedes the word \"and\"? A:",
+    "output": "dancers",
+    "options": [
+      "I",
+      "saw",
+      "these",
+      "dancers",
+      "and",
+      "those",
+      "musicians",
+      "smoking",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"John seems to like pictures of himself\"? A:",
+    "output": "seems",
+    "options": [
+      "John",
+      "seems",
+      "to",
+      "like",
+      "pictures",
+      "of",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary has always preferred lemons to limes\", which word immediately precedes the word \"preferred\"? A:",
+    "output": "always",
+    "options": [
+      "Mary",
+      "has",
+      "always",
+      "preferred",
+      "lemons",
+      "to",
+      "limes"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is certain that John has loved Mary\", which word immediately precedes the word \"that\"? A:",
+    "output": "certain",
+    "options": [
+      "It",
+      "is",
+      "certain",
+      "that",
+      "John",
+      "has",
+      "loved",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Dave and Alina left\", which word comes right before the word \"left\"? A:",
+    "output": "Alina",
+    "options": [
+      "Dave",
+      "and",
+      "Alina",
+      "left"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sonatas are easy to play on this violin\", which word immediately precedes the word \"are\"? A:",
+    "output": "Sonatas",
+    "options": [
+      "Sonatas",
+      "are",
+      "easy",
+      "to",
+      "play",
+      "on",
+      "this",
+      "violin"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Many people were fond of Pat\", which word comes right before the word \"people\"? A:",
+    "output": "Many",
+    "options": [
+      "Many",
+      "people",
+      "were",
+      "fond",
+      "of",
+      "Pat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Many people were fond of Pat\", which word comes right before the word \"were\"? A:",
+    "output": "people",
+    "options": [
+      "Many",
+      "people",
+      "were",
+      "fond",
+      "of",
+      "Pat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Under the bed is a safe place to hide\", which word comes right before the word \"place\"? A:",
+    "output": "safe",
+    "options": [
+      "Under",
+      "the",
+      "bed",
+      "is",
+      "a",
+      "safe",
+      "place",
+      "to",
+      "hide"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary saw the boy walking toward the railroad station\", which word immediately precedes the word \"saw\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "saw",
+      "the",
+      "boy",
+      "walking",
+      "toward",
+      "the",
+      "railroad",
+      "station"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I believe strongly that the world is round\", which word comes right before the word \"that\"? A:",
+    "output": "strongly",
+    "options": [
+      "I",
+      "believe",
+      "strongly",
+      "that",
+      "the",
+      "world",
+      "is",
+      "round"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Frank threw himself into the sofa\", which word comes right before the word \"threw\"? A:",
+    "output": "Frank",
+    "options": [
+      "Frank",
+      "threw",
+      "himself",
+      "into",
+      "the",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Carla slid those books across the table\", which word comes right before the word \"the\"? A:",
+    "output": "across",
+    "options": [
+      "Carla",
+      "slid",
+      "those",
+      "books",
+      "across",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I broke the twig and the branch apart\", which word immediately precedes the word \"apart\"? A:",
+    "output": "branch",
+    "options": [
+      "I",
+      "broke",
+      "the",
+      "twig",
+      "and",
+      "the",
+      "branch",
+      "apart"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I like Mary and she likes me\", which word immediately precedes the word \"me\"? A:",
+    "output": "likes",
+    "options": [
+      "I",
+      "like",
+      "Mary",
+      "and",
+      "she",
+      "likes",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary scratched her arm too\", which word comes right before the word \"her\"? A:",
+    "output": "scratched",
+    "options": [
+      "Mary",
+      "scratched",
+      "her",
+      "arm",
+      "too"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The defendant denied the accusation\", which word comes right before the word \"denied\"? A:",
+    "output": "defendant",
+    "options": [
+      "The",
+      "defendant",
+      "denied",
+      "the",
+      "accusation"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John wrote books\", which word comes right before the word \"wrote\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "wrote",
+      "books"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"tell\" in the sentence \"Any lawyer could tell you that\"? A:",
+    "output": "could",
+    "options": [
+      "Any",
+      "lawyer",
+      "could",
+      "tell",
+      "you",
+      "that"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"That girl was given my binoculars by him\", which word comes right before the word \"my\"? A:",
+    "output": "given",
+    "options": [
+      "That",
+      "girl",
+      "was",
+      "given",
+      "my",
+      "binoculars",
+      "by",
+      "him"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"us\" in the sentence \"Nobody likes us\"? A:",
+    "output": "likes",
+    "options": [
+      "Nobody",
+      "likes",
+      "us"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"while\" in the sentence \"The storm arrived while we ate lunch\"? A:",
+    "output": "arrived",
+    "options": [
+      "The",
+      "storm",
+      "arrived",
+      "while",
+      "we",
+      "ate",
+      "lunch"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The dentist was persuaded to examine Pat\", which word comes right before the word \"to\"? A:",
+    "output": "persuaded",
+    "options": [
+      "The",
+      "dentist",
+      "was",
+      "persuaded",
+      "to",
+      "examine",
+      "Pat"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"of\" in the sentence \"People from Tucson think very highly of themselves\"? A:",
+    "output": "highly",
+    "options": [
+      "People",
+      "from",
+      "Tucson",
+      "think",
+      "very",
+      "highly",
+      "of",
+      "themselves"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"where\" in the sentence \"I asked where you found it\"? A:",
+    "output": "asked",
+    "options": [
+      "I",
+      "asked",
+      "where",
+      "you",
+      "found",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"John has been driving the car\"? A:",
+    "output": "driving",
+    "options": [
+      "John",
+      "has",
+      "been",
+      "driving",
+      "the",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"fixed\" in the sentence \"Donna fixed a sandwich for me\"? A:",
+    "output": "Donna",
+    "options": [
+      "Donna",
+      "fixed",
+      "a",
+      "sandwich",
+      "for",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John can kick the ball\", which word immediately precedes the word \"the\"? A:",
+    "output": "kick",
+    "options": [
+      "John",
+      "can",
+      "kick",
+      "the",
+      "ball"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"There are strangers in that garden\", which word immediately precedes the word \"in\"? A:",
+    "output": "strangers",
+    "options": [
+      "There",
+      "are",
+      "strangers",
+      "in",
+      "that",
+      "garden"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"The jury seemed ready to leave\"? A:",
+    "output": "ready",
+    "options": [
+      "The",
+      "jury",
+      "seemed",
+      "ready",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Carmen obtained a spare part from Diana\", which word comes right before the word \"obtained\"? A:",
+    "output": "Carmen",
+    "options": [
+      "Carmen",
+      "obtained",
+      "a",
+      "spare",
+      "part",
+      "from",
+      "Diana"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary laughed at John\", which word immediately precedes the word \"at\"? A:",
+    "output": "laughed",
+    "options": [
+      "Mary",
+      "laughed",
+      "at",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"was\" in the sentence \"Tess was knocking at the door\"? A:",
+    "output": "Tess",
+    "options": [
+      "Tess",
+      "was",
+      "knocking",
+      "at",
+      "the",
+      "door"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"accident\" in the sentence \"A serious accident happened yesterday\"? A:",
+    "output": "serious",
+    "options": [
+      "A",
+      "serious",
+      "accident",
+      "happened",
+      "yesterday"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"day\" in the sentence \"Dana longs for a sunny day\"? A:",
+    "output": "sunny",
+    "options": [
+      "Dana",
+      "longs",
+      "for",
+      "a",
+      "sunny",
+      "day"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"will\" in the sentence \"John will see you\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "will",
+      "see",
+      "you"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"prefer\" in the sentence \"I would prefer for John to leave\"? A:",
+    "output": "would",
+    "options": [
+      "I",
+      "would",
+      "prefer",
+      "for",
+      "John",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sonatas are easy to play on this violin\", which word comes right before the word \"are\"? A:",
+    "output": "Sonatas",
+    "options": [
+      "Sonatas",
+      "are",
+      "easy",
+      "to",
+      "play",
+      "on",
+      "this",
+      "violin"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"a\" in the sentence \"Donna fixed a sandwich for me\"? A:",
+    "output": "fixed",
+    "options": [
+      "Donna",
+      "fixed",
+      "a",
+      "sandwich",
+      "for",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill drank from the hose\", which word comes right before the word \"from\"? A:",
+    "output": "drank",
+    "options": [
+      "Bill",
+      "drank",
+      "from",
+      "the",
+      "hose"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Those bandits attacked Emma and Harriet yesterday\", which word immediately precedes the word \"attacked\"? A:",
+    "output": "bandits",
+    "options": [
+      "Those",
+      "bandits",
+      "attacked",
+      "Emma",
+      "and",
+      "Harriet",
+      "yesterday"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"than\" in the sentence \"John was lots more obnoxious than Fred\"? A:",
+    "output": "obnoxious",
+    "options": [
+      "John",
+      "was",
+      "lots",
+      "more",
+      "obnoxious",
+      "than",
+      "Fred"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"They prefer for Mary to leave\"? A:",
+    "output": "Mary",
+    "options": [
+      "They",
+      "prefer",
+      "for",
+      "Mary",
+      "to",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Maggie hurried through the museum\", which word immediately precedes the word \"through\"? A:",
+    "output": "hurried",
+    "options": [
+      "Maggie",
+      "hurried",
+      "through",
+      "the",
+      "museum"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The son took care of his parents\", which word comes right before the word \"of\"? A:",
+    "output": "care",
+    "options": [
+      "The",
+      "son",
+      "took",
+      "care",
+      "of",
+      "his",
+      "parents"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The dog caught the cat\", which word comes right before the word \"caught\"? A:",
+    "output": "dog",
+    "options": [
+      "The",
+      "dog",
+      "caught",
+      "the",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"accidentally\" in the sentence \"Six students got shot accidentally\"? A:",
+    "output": "shot",
+    "options": [
+      "Six",
+      "students",
+      "got",
+      "shot",
+      "accidentally"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The roof of the building is leaking\", which word comes right before the word \"of\"? A:",
+    "output": "roof",
+    "options": [
+      "The",
+      "roof",
+      "of",
+      "the",
+      "building",
+      "is",
+      "leaking"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"We persuaded the dentist to examine us\"? A:",
+    "output": "persuaded",
+    "options": [
+      "We",
+      "persuaded",
+      "the",
+      "dentist",
+      "to",
+      "examine",
+      "us"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"We placed the cheese in the refrigerator\", which word immediately precedes the word \"in\"? A:",
+    "output": "cheese",
+    "options": [
+      "We",
+      "placed",
+      "the",
+      "cheese",
+      "in",
+      "the",
+      "refrigerator"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary was visited by Bill\", which word comes right before the word \"was\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "was",
+      "visited",
+      "by",
+      "Bill"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John included his name in the list\", which word comes right before the word \"included\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "included",
+      "his",
+      "name",
+      "in",
+      "the",
+      "list"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"A professional dancer would be able to do it\"? A:",
+    "output": "able",
+    "options": [
+      "A",
+      "professional",
+      "dancer",
+      "would",
+      "be",
+      "able",
+      "to",
+      "do",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The table was wiped clean by John\", which word comes right before the word \"by\"? A:",
+    "output": "clean",
+    "options": [
+      "The",
+      "table",
+      "was",
+      "wiped",
+      "clean",
+      "by",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Felicia kicked the ball off the bench\", which word immediately precedes the word \"off\"? A:",
+    "output": "ball",
+    "options": [
+      "Felicia",
+      "kicked",
+      "the",
+      "ball",
+      "off",
+      "the",
+      "bench"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"John\" in the sentence \"I saw John on Sunday\"? A:",
+    "output": "saw",
+    "options": [
+      "I",
+      "saw",
+      "John",
+      "on",
+      "Sunday"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A hundred men lifted the table together\", which word immediately precedes the word \"together\"? A:",
+    "output": "table",
+    "options": [
+      "A",
+      "hundred",
+      "men",
+      "lifted",
+      "the",
+      "table",
+      "together"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"are\" in the sentence \"Those monkeys are eating the banana\"? A:",
+    "output": "monkeys",
+    "options": [
+      "Those",
+      "monkeys",
+      "are",
+      "eating",
+      "the",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John said he was sick\", which word comes right before the word \"he\"? A:",
+    "output": "said",
+    "options": [
+      "John",
+      "said",
+      "he",
+      "was",
+      "sick"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"from\" in the sentence \"Susan rode a bright blue train from New York\"? A:",
+    "output": "train",
+    "options": [
+      "Susan",
+      "rode",
+      "a",
+      "bright",
+      "blue",
+      "train",
+      "from",
+      "New",
+      "York"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John loaded the wagon full with hay\", which word comes right before the word \"full\"? A:",
+    "output": "wagon",
+    "options": [
+      "John",
+      "loaded",
+      "the",
+      "wagon",
+      "full",
+      "with",
+      "hay"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"This sweater washes well\", which word comes right before the word \"washes\"? A:",
+    "output": "sweater",
+    "options": [
+      "This",
+      "sweater",
+      "washes",
+      "well"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jessica sprayed water at me\", which word immediately precedes the word \"at\"? A:",
+    "output": "water",
+    "options": [
+      "Jessica",
+      "sprayed",
+      "water",
+      "at",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Sally believes that she is brilliant\", which word comes right before the word \"believes\"? A:",
+    "output": "Sally",
+    "options": [
+      "Sally",
+      "believes",
+      "that",
+      "she",
+      "is",
+      "brilliant"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"than\" in the sentence \"Mary has never kissed a Man taller than John\"? A:",
+    "output": "taller",
+    "options": [
+      "Mary",
+      "has",
+      "never",
+      "kissed",
+      "a",
+      "Man",
+      "taller",
+      "than",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"It is likely that John will leave\", which word comes right before the word \"that\"? A:",
+    "output": "likely",
+    "options": [
+      "It",
+      "is",
+      "likely",
+      "that",
+      "John",
+      "will",
+      "leave"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The force of the wind broke the window\", which word comes right before the word \"of\"? A:",
+    "output": "force",
+    "options": [
+      "The",
+      "force",
+      "of",
+      "the",
+      "wind",
+      "broke",
+      "the",
+      "window"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"My friends wanted to quickly leave the party\", which word immediately precedes the word \"the\"? A:",
+    "output": "leave",
+    "options": [
+      "My",
+      "friends",
+      "wanted",
+      "to",
+      "quickly",
+      "leave",
+      "the",
+      "party"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John is taller than Dill\", which word immediately precedes the word \"is\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "is",
+      "taller",
+      "than",
+      "Dill"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary plays the violin beautifully\", which word comes right before the word \"the\"? A:",
+    "output": "plays",
+    "options": [
+      "Mary",
+      "plays",
+      "the",
+      "violin",
+      "beautifully"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I mailed the sweater to Mary\", which word comes right before the word \"the\"? A:",
+    "output": "mailed",
+    "options": [
+      "I",
+      "mailed",
+      "the",
+      "sweater",
+      "to",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen talked with Helen about the problem\", which word immediately precedes the word \"about\"? A:",
+    "output": "Helen",
+    "options": [
+      "Ellen",
+      "talked",
+      "with",
+      "Helen",
+      "about",
+      "the",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John scratched his arm and Mary did too\", which word comes right before the word \"did\"? A:",
+    "output": "Mary",
+    "options": [
+      "John",
+      "scratched",
+      "his",
+      "arm",
+      "and",
+      "Mary",
+      "did",
+      "too"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kim relies on Sandy\", which word comes right before the word \"relies\"? A:",
+    "output": "Kim",
+    "options": [
+      "Kim",
+      "relies",
+      "on",
+      "Sandy"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill sent Tom a package\", which word immediately precedes the word \"sent\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "sent",
+      "Tom",
+      "a",
+      "package"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"treasure\" in the sentence \"An ancient treasure trove was found in this cave\"? A:",
+    "output": "ancient",
+    "options": [
+      "An",
+      "ancient",
+      "treasure",
+      "trove",
+      "was",
+      "found",
+      "in",
+      "this",
+      "cave"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"is\" in the sentence \"John is running to the car\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "is",
+      "running",
+      "to",
+      "the",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The farmer loaded the cart with apples\", which word immediately precedes the word \"with\"? A:",
+    "output": "cart",
+    "options": [
+      "The",
+      "farmer",
+      "loaded",
+      "the",
+      "cart",
+      "with",
+      "apples"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"himself\" in the sentence \"I hope nobody will hurt himself\"? A:",
+    "output": "hurt",
+    "options": [
+      "I",
+      "hope",
+      "nobody",
+      "will",
+      "hurt",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"a\" in the sentence \"I am drinking lemonade and eating a brownie\"? A:",
+    "output": "eating",
+    "options": [
+      "I",
+      "am",
+      "drinking",
+      "lemonade",
+      "and",
+      "eating",
+      "a",
+      "brownie"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I broke the twig and the branch apart\", which word immediately precedes the word \"and\"? A:",
+    "output": "twig",
+    "options": [
+      "I",
+      "broke",
+      "the",
+      "twig",
+      "and",
+      "the",
+      "branch",
+      "apart"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I saw that gas can explode\", which word immediately precedes the word \"that\"? A:",
+    "output": "saw",
+    "options": [
+      "I",
+      "saw",
+      "that",
+      "gas",
+      "can",
+      "explode"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"dined\" in the sentence \"The guests dined\"? A:",
+    "output": "guests",
+    "options": [
+      "The",
+      "guests",
+      "dined"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary managed to go abroad\", which word comes right before the word \"managed\"? A:",
+    "output": "Mary",
+    "options": [
+      "Mary",
+      "managed",
+      "to",
+      "go",
+      "abroad"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"him\" in the sentence \"No one expected him to to win\"? A:",
+    "output": "expected",
+    "options": [
+      "No",
+      "one",
+      "expected",
+      "him",
+      "to",
+      "to",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John went to the store\", which word immediately precedes the word \"went\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "went",
+      "to",
+      "the",
+      "store"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"muffins\" in the sentence \"He always eats deep fried muffins\"? A:",
+    "output": "fried",
+    "options": [
+      "He",
+      "always",
+      "eats",
+      "deep",
+      "fried",
+      "muffins"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The bed which Tom slept on was hard\", which word immediately precedes the word \"which\"? A:",
+    "output": "bed",
+    "options": [
+      "The",
+      "bed",
+      "which",
+      "Tom",
+      "slept",
+      "on",
+      "was",
+      "hard"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A pregnant woman hit a girl\", which word immediately precedes the word \"woman\"? A:",
+    "output": "pregnant",
+    "options": [
+      "A",
+      "pregnant",
+      "woman",
+      "hit",
+      "a",
+      "girl"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"saved\" in the sentence \"The cook saved no scraps for the dog\"? A:",
+    "output": "cook",
+    "options": [
+      "The",
+      "cook",
+      "saved",
+      "no",
+      "scraps",
+      "for",
+      "the",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Almost every lawyer could answer that question\", which word immediately precedes the word \"lawyer\"? A:",
+    "output": "every",
+    "options": [
+      "Almost",
+      "every",
+      "lawyer",
+      "could",
+      "answer",
+      "that",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Never had Sir Thomas been so offended\", which word comes right before the word \"had\"? A:",
+    "output": "Never",
+    "options": [
+      "Never",
+      "had",
+      "Sir",
+      "Thomas",
+      "been",
+      "so",
+      "offended"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"regretted\" in the sentence \"Fanny regretted having talked to Mary\"? A:",
+    "output": "Fanny",
+    "options": [
+      "Fanny",
+      "regretted",
+      "having",
+      "talked",
+      "to",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I bought it to read\", which word comes right before the word \"it\"? A:",
+    "output": "bought",
+    "options": [
+      "I",
+      "bought",
+      "it",
+      "to",
+      "read"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Jason was killed\", which word immediately precedes the word \"was\"? A:",
+    "output": "Jason",
+    "options": [
+      "Jason",
+      "was",
+      "killed"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kim regrets not having seen the movie\", which word comes right before the word \"the\"? A:",
+    "output": "seen",
+    "options": [
+      "Kim",
+      "regrets",
+      "not",
+      "having",
+      "seen",
+      "the",
+      "movie"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"dried\" in the sentence \"Bill dried the clothes\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "dried",
+      "the",
+      "clothes"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"is\" in the sentence \"John is certain that the Mets will win\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "is",
+      "certain",
+      "that",
+      "the",
+      "Mets",
+      "will",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Spot ate a cat treat\", which word comes right before the word \"a\"? A:",
+    "output": "ate",
+    "options": [
+      "Spot",
+      "ate",
+      "a",
+      "cat",
+      "treat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John scratched his arm and Mary did too\", which word immediately precedes the word \"did\"? A:",
+    "output": "Mary",
+    "options": [
+      "John",
+      "scratched",
+      "his",
+      "arm",
+      "and",
+      "Mary",
+      "did",
+      "too"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"out\" in the sentence \"I believe there to be no way out\"? A:",
+    "output": "way",
+    "options": [
+      "I",
+      "believe",
+      "there",
+      "to",
+      "be",
+      "no",
+      "way",
+      "out"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Dracula thought himself to be the Prince of Darkness\", which word comes right before the word \"thought\"? A:",
+    "output": "Dracula",
+    "options": [
+      "Dracula",
+      "thought",
+      "himself",
+      "to",
+      "be",
+      "the",
+      "Prince",
+      "of",
+      "Darkness"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"There were several doctors available\", which word immediately precedes the word \"doctors\"? A:",
+    "output": "several",
+    "options": [
+      "There",
+      "were",
+      "several",
+      "doctors",
+      "available"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Louise broke the cup\", which word comes right before the word \"broke\"? A:",
+    "output": "Louise",
+    "options": [
+      "Louise",
+      "broke",
+      "the",
+      "cup"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"that\" in the sentence \"They believed that everybody would pass the test\"? A:",
+    "output": "believed",
+    "options": [
+      "They",
+      "believed",
+      "that",
+      "everybody",
+      "would",
+      "pass",
+      "the",
+      "test"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I ate some popcorn and drank some soda\", which word comes right before the word \"and\"? A:",
+    "output": "popcorn",
+    "options": [
+      "I",
+      "ate",
+      "some",
+      "popcorn",
+      "and",
+      "drank",
+      "some",
+      "soda"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The banana is being eaten by that monkey\", which word comes right before the word \"is\"? A:",
+    "output": "banana",
+    "options": [
+      "The",
+      "banana",
+      "is",
+      "being",
+      "eaten",
+      "by",
+      "that",
+      "monkey"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The hotel where Gloria stays is being remodelled\", which word comes right before the word \"stays\"? A:",
+    "output": "Gloria",
+    "options": [
+      "The",
+      "hotel",
+      "where",
+      "Gloria",
+      "stays",
+      "is",
+      "being",
+      "remodelled"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Bill drank from the hose\", which word comes right before the word \"drank\"? A:",
+    "output": "Bill",
+    "options": [
+      "Bill",
+      "drank",
+      "from",
+      "the",
+      "hose"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"Someone tried to leave the town\"? A:",
+    "output": "leave",
+    "options": [
+      "Someone",
+      "tried",
+      "to",
+      "leave",
+      "the",
+      "town"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"to\" in the sentence \"Nora sent the book from Paris to London\"? A:",
+    "output": "Paris",
+    "options": [
+      "Nora",
+      "sent",
+      "the",
+      "book",
+      "from",
+      "Paris",
+      "to",
+      "London"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"salts\" in the sentence \"The truck spread salts\"? A:",
+    "output": "spread",
+    "options": [
+      "The",
+      "truck",
+      "spread",
+      "salts"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"little information was provided\", which word comes right before the word \"information\"? A:",
+    "output": "little",
+    "options": [
+      "little",
+      "information",
+      "was",
+      "provided"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Andy promised we would go\", which word comes right before the word \"we\"? A:",
+    "output": "promised",
+    "options": [
+      "Andy",
+      "promised",
+      "we",
+      "would",
+      "go"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"No reading of Shakespeare satisfied me\", which word immediately precedes the word \"satisfied\"? A:",
+    "output": "Shakespeare",
+    "options": [
+      "No",
+      "reading",
+      "of",
+      "Shakespeare",
+      "satisfied",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"A hundred men surrounded the fort\", which word immediately precedes the word \"surrounded\"? A:",
+    "output": "men",
+    "options": [
+      "A",
+      "hundred",
+      "men",
+      "surrounded",
+      "the",
+      "fort"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John has not kissed Mary\", which word comes right before the word \"Mary\"? A:",
+    "output": "kissed",
+    "options": [
+      "John",
+      "has",
+      "not",
+      "kissed",
+      "Mary"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary saw the boy walking toward the railroad station\", which word immediately precedes the word \"walking\"? A:",
+    "output": "boy",
+    "options": [
+      "Mary",
+      "saw",
+      "the",
+      "boy",
+      "walking",
+      "toward",
+      "the",
+      "railroad",
+      "station"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"we\" in the sentence \"Andy promised we would go\"? A:",
+    "output": "promised",
+    "options": [
+      "Andy",
+      "promised",
+      "we",
+      "would",
+      "go"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Mary has never kissed a Man taller than John\", which word comes right before the word \"kissed\"? A:",
+    "output": "never",
+    "options": [
+      "Mary",
+      "has",
+      "never",
+      "kissed",
+      "a",
+      "Man",
+      "taller",
+      "than",
+      "John"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Everyone should be able to defend himself\", which word comes right before the word \"should\"? A:",
+    "output": "Everyone",
+    "options": [
+      "Everyone",
+      "should",
+      "be",
+      "able",
+      "to",
+      "defend",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"it\" in the sentence \"I bought it to read\"? A:",
+    "output": "bought",
+    "options": [
+      "I",
+      "bought",
+      "it",
+      "to",
+      "read"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Many people were fond of Pat\", which word immediately precedes the word \"of\"? A:",
+    "output": "fond",
+    "options": [
+      "Many",
+      "people",
+      "were",
+      "fond",
+      "of",
+      "Pat"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"treat\" in the sentence \"Spot ate a cat treat\"? A:",
+    "output": "cat",
+    "options": [
+      "Spot",
+      "ate",
+      "a",
+      "cat",
+      "treat"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The farmer loaded apples into the cart\", which word comes right before the word \"apples\"? A:",
+    "output": "loaded",
+    "options": [
+      "The",
+      "farmer",
+      "loaded",
+      "apples",
+      "into",
+      "the",
+      "cart"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Henri will paint the floor for an hour\", which word comes right before the word \"for\"? A:",
+    "output": "floor",
+    "options": [
+      "Henri",
+      "will",
+      "paint",
+      "the",
+      "floor",
+      "for",
+      "an",
+      "hour"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Martha carved a toy for the baby\", which word comes right before the word \"a\"? A:",
+    "output": "carved",
+    "options": [
+      "Martha",
+      "carved",
+      "a",
+      "toy",
+      "for",
+      "the",
+      "baby"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Nobody likes us\", which word immediately precedes the word \"us\"? A:",
+    "output": "likes",
+    "options": [
+      "Nobody",
+      "likes",
+      "us"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Ellen said that melons were selling well\", which word comes right before the word \"said\"? A:",
+    "output": "Ellen",
+    "options": [
+      "Ellen",
+      "said",
+      "that",
+      "melons",
+      "were",
+      "selling",
+      "well"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Kim jogs over the hill\", which word comes right before the word \"jogs\"? A:",
+    "output": "Kim",
+    "options": [
+      "Kim",
+      "jogs",
+      "over",
+      "the",
+      "hill"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Susan whispered at Rachel\", which word comes right before the word \"whispered\"? A:",
+    "output": "Susan",
+    "options": [
+      "Susan",
+      "whispered",
+      "at",
+      "Rachel"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"that\" in the sentence \"The press conjectured that Smith would be the appointee\"? A:",
+    "output": "conjectured",
+    "options": [
+      "The",
+      "press",
+      "conjectured",
+      "that",
+      "Smith",
+      "would",
+      "be",
+      "the",
+      "appointee"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"under\" in the sentence \"Carla mopped the floor under the furniture\"? A:",
+    "output": "floor",
+    "options": [
+      "Carla",
+      "mopped",
+      "the",
+      "floor",
+      "under",
+      "the",
+      "furniture"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"That chisel carved the statue\", which word comes right before the word \"the\"? A:",
+    "output": "carved",
+    "options": [
+      "That",
+      "chisel",
+      "carved",
+      "the",
+      "statue"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I know the person whose mother died\", which word immediately precedes the word \"whose\"? A:",
+    "output": "person",
+    "options": [
+      "I",
+      "know",
+      "the",
+      "person",
+      "whose",
+      "mother",
+      "died"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"muffins\" in the sentence \"I ate deep fried muffins\"? A:",
+    "output": "fried",
+    "options": [
+      "I",
+      "ate",
+      "deep",
+      "fried",
+      "muffins"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"The report that crime was declining surprised many people\", which word immediately precedes the word \"was\"? A:",
+    "output": "crime",
+    "options": [
+      "The",
+      "report",
+      "that",
+      "crime",
+      "was",
+      "declining",
+      "surprised",
+      "many",
+      "people"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John immediately learned French perfectly\", which word comes right before the word \"French\"? A:",
+    "output": "learned",
+    "options": [
+      "John",
+      "immediately",
+      "learned",
+      "French",
+      "perfectly"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"John left his wife\", which word immediately precedes the word \"left\"? A:",
+    "output": "John",
+    "options": [
+      "John",
+      "left",
+      "his",
+      "wife"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"comfortable\" in the sentence \"The students felt comfortable in the class\"? A:",
+    "output": "felt",
+    "options": [
+      "The",
+      "students",
+      "felt",
+      "comfortable",
+      "in",
+      "the",
+      "class"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"can\" in the sentence \"Golfers can be good company\"? A:",
+    "output": "Golfers",
+    "options": [
+      "Golfers",
+      "can",
+      "be",
+      "good",
+      "company"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"whose\" in the sentence \"I know the person whose mother died\"? A:",
+    "output": "person",
+    "options": [
+      "I",
+      "know",
+      "the",
+      "person",
+      "whose",
+      "mother",
+      "died"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"They gave the bicycle to me\", which word immediately precedes the word \"the\"? A:",
+    "output": "gave",
+    "options": [
+      "They",
+      "gave",
+      "the",
+      "bicycle",
+      "to",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I believe there to be no way out\", which word immediately precedes the word \"out\"? A:",
+    "output": "way",
+    "options": [
+      "I",
+      "believe",
+      "there",
+      "to",
+      "be",
+      "no",
+      "way",
+      "out"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"This sweater washes well\", which word comes right before the word \"well\"? A:",
+    "output": "washes",
+    "options": [
+      "This",
+      "sweater",
+      "washes",
+      "well"
+    ]
+  },
+  {
+    "input": "Q: Which word comes right before \"the\" in the sentence \"Carla slid those books across the table\"? A:",
+    "output": "across",
+    "options": [
+      "Carla",
+      "slid",
+      "those",
+      "books",
+      "across",
+      "the",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I believe strongly that the world is round\", which word comes right before the word \"is\"? A:",
+    "output": "world",
+    "options": [
+      "I",
+      "believe",
+      "strongly",
+      "that",
+      "the",
+      "world",
+      "is",
+      "round"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"Most of the fruit is rotten\", which word immediately precedes the word \"is\"? A:",
+    "output": "fruit",
+    "options": [
+      "Most",
+      "of",
+      "the",
+      "fruit",
+      "is",
+      "rotten"
+    ]
+  },
+  {
+    "input": "Q: In the sentence \"I gave John gold apples\", which word immediately precedes the word \"gold\"? A:",
+    "output": "John",
+    "options": [
+      "I",
+      "gave",
+      "John",
+      "gold",
+      "apples"
+    ]
+  }
+]

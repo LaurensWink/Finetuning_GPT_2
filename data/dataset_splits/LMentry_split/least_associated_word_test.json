@@ -1,0 +1,6602 @@
+[
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"pineapple\", \"duck\", \"banana\", \"peach\", and \"pear\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "pineapple",
+      "banana",
+      "peach",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"train\", \"rabbit\", \"fish\", \"chicken\", and \"cat\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "rabbit",
+      "fish",
+      "chicken",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"skirt\", \"sweater\", \"goat\", \"shorts\", and \"jeans\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "skirt",
+      "sweater",
+      "shorts",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"socks\", \"skirt\", \"pants\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "socks",
+      "skirt",
+      "pants",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"mango\", \"dog\", \"fish\", \"rabbit\", \"cow\": ",
+    "output": "mango",
+    "options": [
+      "mango",
+      "dog",
+      "fish",
+      "rabbit",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"watermelon\", \"car\", \"tram\", \"van\", and \"train\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "car",
+      "tram",
+      "van",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"table\", \"bed\", \"bookcase\", \"desk\", and \"lemon\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "table",
+      "bed",
+      "bookcase",
+      "desk"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"bed\", \"rabbit\", \"bookcase\", \"table\", \"chair\": ",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "bed",
+      "bookcase",
+      "table",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\", \"watermelon\", \"melon\", \"strawberry\", and \"table\", what is the word least associated with \"fruit\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "mango",
+      "watermelon",
+      "melon",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"train\", \"motorcycle\", \"chair\", \"tractor\": ",
+    "output": "chair",
+    "options": [
+      "chair",
+      "truck",
+      "train",
+      "motorcycle",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"bookcase\", \"couch\", \"armchair\", \"cat\", \"bed\": ",
+    "output": "cat",
+    "options": [
+      "cat",
+      "bookcase",
+      "couch",
+      "armchair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sofa\", \"car\", \"tram\", \"bus\", and \"van\", what is the word least associated with \"vehicles\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "car",
+      "tram",
+      "bus",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dog\", \"fish\", \"cat\", \"socks\", and \"mouse\", what is the word least associated with \"animals\"? A:",
+    "output": "socks",
+    "options": [
+      "socks",
+      "dog",
+      "fish",
+      "cat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"jeans\", \"coat\", \"socks\", \"pants\", and \"bed\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "jeans",
+      "coat",
+      "socks",
+      "pants"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"desk\", \"socks\", \"sweater\", \"jacket\", \"jeans\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "socks",
+      "sweater",
+      "jacket",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"jeans\", \"sweater\", \"pants\", \"chicken\", and \"shirt\", what is the word least associated with \"clothes\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "jeans",
+      "sweater",
+      "pants",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"truck\", \"bed\", \"motorcycle\", and \"bus\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "van",
+      "truck",
+      "motorcycle",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"motorcycle\", \"tram\", \"van\", \"shirt\", and \"train\", what is the word least associated with \"vehicles\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "motorcycle",
+      "tram",
+      "van",
+      "train"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"chicken\", \"fish\", \"cow\", \"goat\", \"pear\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "chicken",
+      "fish",
+      "cow",
+      "goat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"peach\", \"apple\", \"pineapple\", \"fish\", \"mango\": ",
+    "output": "fish",
+    "options": [
+      "fish",
+      "peach",
+      "apple",
+      "pineapple",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\", \"motorcycle\", \"bus\", \"van\", and \"tram\", what is the word least associated with \"vehicles\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "motorcycle",
+      "bus",
+      "van",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"bed\", \"sofa\", \"chair\", and \"sweater\", what is the word least associated with \"furniture\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "armchair",
+      "bed",
+      "sofa",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"mouse\", \"goat\", \"cow\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "mouse",
+      "goat",
+      "cow",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"train\", \"tram\", \"bus\", \"table\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "truck",
+      "train",
+      "tram",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"cow\", \"motorcycle\", \"bus\", \"train\", and \"van\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "motorcycle",
+      "bus",
+      "train",
+      "van"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"mango\", \"car\", \"peach\", \"strawberry\", \"apple\": ",
+    "output": "car",
+    "options": [
+      "car",
+      "mango",
+      "peach",
+      "strawberry",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"bus\", \"shirt\", \"coat\", \"sweater\", \"shorts\": ",
+    "output": "bus",
+    "options": [
+      "bus",
+      "shirt",
+      "coat",
+      "sweater",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"tram\", \"tractor\", \"train\", \"banana\", and \"truck\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "tram",
+      "tractor",
+      "train",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"table\", \"chair\", \"armchair\", \"desk\", and \"shorts\", what is the word least associated with \"furniture\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "table",
+      "chair",
+      "armchair",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"banana\", \"pear\", \"peach\", \"mouse\", and \"apple\"? A:",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "banana",
+      "pear",
+      "peach",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"watermelon\", \"melon\", \"chicken\", \"apple\", and \"pear\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "watermelon",
+      "melon",
+      "apple",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"couch\", \"sofa\", \"table\", \"sweater\", and \"bookcase\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "couch",
+      "sofa",
+      "table",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"sofa\", \"motorcycle\", \"train\", and \"truck\", what is the word least associated with \"vehicles\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "car",
+      "motorcycle",
+      "train",
+      "truck"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"pants\", \"shirt\", \"socks\", \"bed\", \"coat\": ",
+    "output": "bed",
+    "options": [
+      "bed",
+      "pants",
+      "shirt",
+      "socks",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"table\", \"bookcase\", \"armchair\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "table",
+      "bookcase",
+      "armchair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cat\", \"chicken\", \"goat\", \"tractor\", and \"fish\", what is the word least associated with \"animals\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "cat",
+      "chicken",
+      "goat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"strawberry\", \"couch\", \"watermelon\", \"pineapple\", \"melon\": ",
+    "output": "couch",
+    "options": [
+      "couch",
+      "strawberry",
+      "watermelon",
+      "pineapple",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"banana\", \"table\", \"bed\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "bookcase",
+      "table",
+      "bed",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"cat\", \"truck\", \"motorcycle\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "car",
+      "truck",
+      "motorcycle",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"car\", \"cat\", \"truck\", \"motorcycle\", and \"tractor\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "car",
+      "truck",
+      "motorcycle",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shirt\", \"sweater\", \"car\", \"socks\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "shirt",
+      "sweater",
+      "socks",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"desk\", \"chair\", \"couch\", \"strawberry\", and \"table\", what is the word least associated with \"furniture\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "desk",
+      "chair",
+      "couch",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"couch\", \"melon\", \"pear\", \"pineapple\", and \"strawberry\", what is the word least associated with \"fruit\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "melon",
+      "pear",
+      "pineapple",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"chair\", \"sofa\", \"pineapple\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "armchair",
+      "chair",
+      "sofa",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"peach\", \"pineapple\", \"lemon\", \"pig\", and \"melon\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "peach",
+      "pineapple",
+      "lemon",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"train\", \"motorcycle\", \"truck\", \"van\", and \"table\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "train",
+      "motorcycle",
+      "truck",
+      "van"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"motorcycle\", \"van\", \"car\", \"banana\", \"tractor\": ",
+    "output": "banana",
+    "options": [
+      "banana",
+      "motorcycle",
+      "van",
+      "car",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dog\", \"rabbit\", \"fish\", \"desk\", and \"mouse\", what is the word least associated with \"animals\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "dog",
+      "rabbit",
+      "fish",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"shorts\", \"pants\", \"bookcase\", \"skirt\", \"jeans\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "shorts",
+      "pants",
+      "skirt",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"duck\", \"rabbit\", \"mouse\", \"bookcase\", and \"pig\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "duck",
+      "rabbit",
+      "mouse",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"couch\", \"bed\", \"jacket\", \"armchair\", and \"chair\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "couch",
+      "bed",
+      "armchair",
+      "chair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"watermelon\", \"mango\", \"pineapple\", \"coat\", \"apple\": ",
+    "output": "coat",
+    "options": [
+      "coat",
+      "watermelon",
+      "mango",
+      "pineapple",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lemon\", \"chair\", \"apple\", \"pear\", and \"banana\", what is the word least associated with \"fruit\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "lemon",
+      "apple",
+      "pear",
+      "banana"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"bed\", \"pineapple\", \"desk\", \"sofa\", \"couch\": ",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "bed",
+      "desk",
+      "sofa",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chicken\", \"fish\", \"goat\", \"mouse\", and \"train\", what is the word least associated with \"animals\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "chicken",
+      "fish",
+      "goat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"pig\", \"couch\", \"mouse\", \"dog\", \"fish\": ",
+    "output": "couch",
+    "options": [
+      "couch",
+      "pig",
+      "mouse",
+      "dog",
+      "fish"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"bed\", \"chicken\", \"dog\", \"pig\", and \"goat\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "chicken",
+      "dog",
+      "pig",
+      "goat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sweater\", \"melon\", \"skirt\", \"shorts\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "sweater",
+      "skirt",
+      "shorts",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"melon\", \"pear\", \"pineapple\", \"strawberry\", \"jeans\": ",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "melon",
+      "pear",
+      "pineapple",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"watermelon\", \"mango\", \"bookcase\", \"peach\", and \"melon\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "watermelon",
+      "mango",
+      "peach",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watermelon\", \"pineapple\", \"banana\", \"strawberry\", and \"van\", what is the word least associated with \"fruit\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "watermelon",
+      "pineapple",
+      "banana",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"truck\", \"bus\", \"sofa\", \"van\", and \"motorcycle\", what is the word least associated with \"vehicles\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "truck",
+      "bus",
+      "van",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"rabbit\", \"cow\", \"goat\", \"strawberry\", and \"pig\", what is the word least associated with \"animals\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "rabbit",
+      "cow",
+      "goat",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"banana\", \"apple\", \"melon\", \"armchair\", and \"strawberry\", what is the word least associated with \"fruit\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "banana",
+      "apple",
+      "melon",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"truck\", \"train\", \"strawberry\", and \"van\", what is the word least associated with \"vehicles\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "car",
+      "truck",
+      "train",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"duck\", \"strawberry\", \"pineapple\", \"banana\", and \"watermelon\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "strawberry",
+      "pineapple",
+      "banana",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"banana\", \"peach\", \"lemon\", \"pineapple\", and \"chicken\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "banana",
+      "peach",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"motorcycle\", \"train\", \"cow\", and \"tram\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "van",
+      "motorcycle",
+      "train",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"banana\", \"train\", \"motorcycle\", \"tractor\", and \"bus\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "train",
+      "motorcycle",
+      "tractor",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"jeans\", \"desk\", \"couch\", and \"sofa\", what is the word least associated with \"furniture\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "armchair",
+      "desk",
+      "couch",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"car\", \"watermelon\", \"pineapple\", \"strawberry\", and \"mango\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "watermelon",
+      "pineapple",
+      "strawberry",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"mouse\", \"desk\", \"couch\", \"bookcase\", \"table\": ",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "desk",
+      "couch",
+      "bookcase",
+      "table"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"socks\", \"coat\", \"pants\", \"shorts\", \"cow\": ",
+    "output": "cow",
+    "options": [
+      "cow",
+      "socks",
+      "coat",
+      "pants",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"shirt\", \"sweater\", \"jacket\", \"fish\", and \"pants\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "shirt",
+      "sweater",
+      "jacket",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fish\", \"coat\", \"shirt\", \"sweater\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "coat",
+      "shirt",
+      "sweater",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pants\", \"fish\", \"mouse\", \"cow\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "fish",
+      "mouse",
+      "cow",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"strawberry\", \"socks\", \"pear\", \"apple\", \"lemon\": ",
+    "output": "socks",
+    "options": [
+      "socks",
+      "strawberry",
+      "pear",
+      "apple",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"train\", \"tractor\", \"bus\", \"bed\", \"van\": ",
+    "output": "bed",
+    "options": [
+      "bed",
+      "train",
+      "tractor",
+      "bus",
+      "van"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"sofa\", \"chair\", \"shorts\", \"couch\", \"armchair\": ",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "sofa",
+      "chair",
+      "couch",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"peach\", \"lemon\", \"strawberry\", \"mango\", \"skirt\": ",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "peach",
+      "lemon",
+      "strawberry",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"rabbit\", \"cow\", \"goat\", \"strawberry\", and \"pig\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "rabbit",
+      "cow",
+      "goat",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"fish\", \"bookcase\", \"bed\", \"sofa\", and \"chair\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "bookcase",
+      "bed",
+      "sofa",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bed\", \"car\", \"armchair\", \"table\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "bed",
+      "armchair",
+      "table",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"motorcycle\", \"car\", \"armchair\", \"train\", and \"van\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "motorcycle",
+      "car",
+      "train",
+      "van"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"watermelon\", \"mango\", \"bookcase\", \"peach\", \"melon\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "watermelon",
+      "mango",
+      "peach",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"strawberry\", \"couch\", \"watermelon\", \"pineapple\", and \"melon\", what is the word least associated with \"fruit\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "strawberry",
+      "watermelon",
+      "pineapple",
+      "melon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"chicken\", \"pear\", \"strawberry\", \"lemon\", \"peach\": ",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "pear",
+      "strawberry",
+      "lemon",
+      "peach"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"tram\", \"mango\", \"strawberry\", \"apple\", and \"banana\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "mango",
+      "strawberry",
+      "apple",
+      "banana"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"desk\", \"goat\", \"fish\", \"dog\", \"pig\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "goat",
+      "fish",
+      "dog",
+      "pig"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"dog\", \"jacket\", \"goat\", \"cow\", \"cat\": ",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "dog",
+      "goat",
+      "cow",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dog\", \"goat\", \"mouse\", \"rabbit\", and \"pineapple\", what is the word least associated with \"animals\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "dog",
+      "goat",
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"coat\", \"jacket\", \"pants\", \"shorts\", and \"pig\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "coat",
+      "jacket",
+      "pants",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"strawberry\", \"sofa\", \"chair\", \"table\", \"armchair\": ",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "sofa",
+      "chair",
+      "table",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"dog\", \"bed\", \"desk\", \"chair\", and \"armchair\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "bed",
+      "desk",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"fish\", \"dress\", \"cow\", \"goat\", and \"pig\"? A:",
+    "output": "dress",
+    "options": [
+      "dress",
+      "fish",
+      "cow",
+      "goat",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"motorcycle\", \"bus\", \"peach\", and \"tram\", what is the word least associated with \"vehicles\"? A:",
+    "output": "peach",
+    "options": [
+      "peach",
+      "train",
+      "motorcycle",
+      "bus",
+      "tram"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"tram\", \"car\", \"motorcycle\", \"train\", \"chair\": ",
+    "output": "chair",
+    "options": [
+      "chair",
+      "tram",
+      "car",
+      "motorcycle",
+      "train"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"train\", \"table\", \"bookcase\", \"armchair\", \"bed\": ",
+    "output": "train",
+    "options": [
+      "train",
+      "table",
+      "bookcase",
+      "armchair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sofa\", \"bed\", \"couch\", \"socks\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "socks",
+    "options": [
+      "socks",
+      "sofa",
+      "bed",
+      "couch",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"mango\", \"desk\", \"strawberry\", \"lemon\", and \"peach\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "mango",
+      "strawberry",
+      "lemon",
+      "peach"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"armchair\", \"duck\", \"desk\", \"table\", \"chair\": ",
+    "output": "duck",
+    "options": [
+      "duck",
+      "armchair",
+      "desk",
+      "table",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chair\", \"tractor\", \"desk\", \"table\", and \"bookcase\", what is the word least associated with \"furniture\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "chair",
+      "desk",
+      "table",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chair\", \"bus\", \"desk\", \"bed\", and \"bookcase\", what is the word least associated with \"furniture\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "chair",
+      "desk",
+      "bed",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"tram\", \"coat\", \"motorcycle\", and \"truck\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "van",
+      "tram",
+      "motorcycle",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"fish\", \"pear\", \"chicken\", \"rabbit\", and \"duck\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "fish",
+      "chicken",
+      "rabbit",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shirt\", \"pig\", \"rabbit\", \"dog\", and \"duck\", what is the word least associated with \"animals\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "pig",
+      "rabbit",
+      "dog",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"desk\", \"couch\", \"bed\", \"table\", and \"dress\"? A:",
+    "output": "dress",
+    "options": [
+      "dress",
+      "desk",
+      "couch",
+      "bed",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watermelon\", \"cow\", \"strawberry\", \"pineapple\", and \"pear\", what is the word least associated with \"fruit\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "watermelon",
+      "strawberry",
+      "pineapple",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"couch\", \"tractor\", \"bed\", \"chair\", and \"bookcase\", what is the word least associated with \"furniture\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "couch",
+      "bed",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"coat\", \"bed\", \"desk\", \"chair\", and \"bookcase\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "bed",
+      "desk",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"strawberry\", \"table\", \"bookcase\", \"sofa\", \"bed\": ",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "table",
+      "bookcase",
+      "sofa",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pear\", \"lemon\", \"peach\", \"armchair\", and \"mango\", what is the word least associated with \"fruit\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "pear",
+      "lemon",
+      "peach",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"duck\", \"mouse\", \"melon\", \"fish\", \"dog\": ",
+    "output": "melon",
+    "options": [
+      "melon",
+      "duck",
+      "mouse",
+      "fish",
+      "dog"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"chair\", \"tractor\", \"desk\", \"table\", \"bookcase\": ",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "chair",
+      "desk",
+      "table",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"banana\", \"bookcase\", \"mango\", \"peach\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "banana",
+      "mango",
+      "peach",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"cow\", \"duck\", \"lemon\", \"cat\", \"dog\": ",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "cow",
+      "duck",
+      "cat",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"truck\", \"bus\", \"train\", \"chicken\", and \"van\", what is the word least associated with \"vehicles\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "truck",
+      "bus",
+      "train",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tractor\", \"truck\", \"strawberry\", \"motorcycle\", and \"car\", what is the word least associated with \"vehicles\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "tractor",
+      "truck",
+      "motorcycle",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"sofa\", \"chair\", \"shorts\", \"couch\", and \"armchair\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "sofa",
+      "chair",
+      "couch",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"watermelon\", \"lemon\", \"mango\", \"tractor\", and \"apple\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "watermelon",
+      "lemon",
+      "mango",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"fish\", \"mouse\", \"pig\", \"lemon\", \"cow\": ",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "fish",
+      "mouse",
+      "pig",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"goat\", \"tractor\", \"cow\", \"mouse\", and \"rabbit\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "goat",
+      "cow",
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"coat\", \"shorts\", \"apple\", \"shirt\", and \"pants\", what is the word least associated with \"clothes\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "coat",
+      "shorts",
+      "shirt",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bed\", \"armchair\", \"couch\", \"bookcase\", and \"goat\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "bed",
+      "armchair",
+      "couch",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bed\", \"table\", \"pineapple\", \"sofa\", and \"desk\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "bed",
+      "table",
+      "sofa",
+      "desk"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"sofa\", \"bed\", \"couch\", \"socks\", \"desk\": ",
+    "output": "socks",
+    "options": [
+      "socks",
+      "sofa",
+      "bed",
+      "couch",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"sweater\", \"dress\", \"shorts\", \"pig\", and \"shirt\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "sweater",
+      "dress",
+      "shorts",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"goat\", \"rabbit\", \"fish\", \"shirt\", and \"duck\", what is the word least associated with \"animals\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "goat",
+      "rabbit",
+      "fish",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"van\", \"bed\", \"bookcase\", \"table\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "bed",
+      "bookcase",
+      "table",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watermelon\", \"strawberry\", \"table\", \"peach\", and \"pear\", what is the word least associated with \"fruit\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "watermelon",
+      "strawberry",
+      "peach",
+      "pear"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"duck\", \"dog\", \"goat\", \"fish\", \"apple\": ",
+    "output": "apple",
+    "options": [
+      "apple",
+      "duck",
+      "dog",
+      "goat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"tram\", \"motorcycle\", \"truck\", \"car\", and \"dog\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "tram",
+      "motorcycle",
+      "truck",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"tractor\", \"shorts\", \"coat\", \"socks\", and \"pants\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "shorts",
+      "coat",
+      "socks",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"duck\", \"van\", \"fish\", \"chicken\", and \"rabbit\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "duck",
+      "fish",
+      "chicken",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"jacket\", \"coat\", \"sweater\", and \"jeans\", what is the word least associated with \"clothes\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "jacket",
+      "coat",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"coat\", \"pants\", \"skirt\", \"jacket\", and \"watermelon\", what is the word least associated with \"clothes\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "coat",
+      "pants",
+      "skirt",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"motorcycle\", \"bus\", \"tractor\", and \"duck\", what is the word least associated with \"vehicles\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "tram",
+      "motorcycle",
+      "bus",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"bus\", \"rabbit\", \"car\", \"train\", and \"van\"? A:",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "bus",
+      "car",
+      "train",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"lemon\", \"pineapple\", \"peach\", \"tram\", and \"watermelon\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "lemon",
+      "pineapple",
+      "peach",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"peach\", \"watermelon\", \"lemon\", \"banana\", \"bus\": ",
+    "output": "bus",
+    "options": [
+      "bus",
+      "peach",
+      "watermelon",
+      "lemon",
+      "banana"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pear\", \"mango\", \"lemon\", \"bus\", \"apple\": ",
+    "output": "bus",
+    "options": [
+      "bus",
+      "pear",
+      "mango",
+      "lemon",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"shorts\", \"tractor\", \"car\", \"truck\", and \"train\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "tractor",
+      "car",
+      "truck",
+      "train"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"desk\", \"cat\", \"mouse\", \"duck\", \"goat\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "cat",
+      "mouse",
+      "duck",
+      "goat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"train\", \"motorcycle\", \"tram\", \"fish\": ",
+    "output": "fish",
+    "options": [
+      "fish",
+      "truck",
+      "train",
+      "motorcycle",
+      "tram"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"jacket\", \"pear\", \"pants\", \"jeans\", \"socks\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "jacket",
+      "pants",
+      "jeans",
+      "socks"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mouse\", \"lemon\", \"pig\", \"goat\", and \"fish\", what is the word least associated with \"animals\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "mouse",
+      "pig",
+      "goat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"bus\", \"peach\", \"tractor\", \"train\": ",
+    "output": "peach",
+    "options": [
+      "peach",
+      "truck",
+      "bus",
+      "tractor",
+      "train"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"rabbit\", \"dog\", \"train\", \"cow\", \"cat\": ",
+    "output": "train",
+    "options": [
+      "train",
+      "rabbit",
+      "dog",
+      "cow",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"chair\", \"bed\", \"table\", \"chicken\", \"couch\": ",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "chair",
+      "bed",
+      "table",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"banana\", \"peach\", \"lemon\", \"pineapple\", and \"chicken\", what is the word least associated with \"fruit\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "banana",
+      "peach",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"cow\", \"duck\", \"pineapple\", \"mouse\", and \"cat\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "cow",
+      "duck",
+      "mouse",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"jacket\", \"skirt\", \"shirt\", \"tractor\", \"dress\": ",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "jacket",
+      "skirt",
+      "shirt",
+      "dress"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"cow\", \"dog\", \"cat\", and \"chicken\", what is the word least associated with \"animals\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "cow",
+      "dog",
+      "cat",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"motorcycle\", \"desk\", \"couch\", \"bookcase\", \"armchair\": ",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "desk",
+      "couch",
+      "bookcase",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fish\", \"bed\", \"cat\", \"dog\", and \"duck\", what is the word least associated with \"animals\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "fish",
+      "cat",
+      "dog",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"train\", \"truck\", \"goat\", \"motorcycle\", and \"tractor\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "train",
+      "truck",
+      "motorcycle",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"desk\", \"car\", \"truck\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "tram",
+      "car",
+      "truck",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"fish\", \"dog\", \"coat\", \"pig\", \"chicken\": ",
+    "output": "coat",
+    "options": [
+      "coat",
+      "fish",
+      "dog",
+      "pig",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"pig\", \"mouse\", \"chicken\", \"watermelon\", and \"rabbit\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "pig",
+      "mouse",
+      "chicken",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"goat\", \"melon\", \"strawberry\", \"pear\", \"watermelon\": ",
+    "output": "goat",
+    "options": [
+      "goat",
+      "melon",
+      "strawberry",
+      "pear",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"melon\", \"jacket\", \"strawberry\", \"apple\", and \"watermelon\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "melon",
+      "strawberry",
+      "apple",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"pineapple\", \"pear\", \"watermelon\", \"lemon\", and \"desk\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "pineapple",
+      "pear",
+      "watermelon",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bed\", \"desk\", \"couch\", \"table\", and \"sweater\", what is the word least associated with \"furniture\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "bed",
+      "desk",
+      "couch",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\", \"melon\", \"lemon\", \"skirt\", and \"banana\", what is the word least associated with \"fruit\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "mango",
+      "melon",
+      "lemon",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"mouse\", \"jacket\", \"dog\", \"goat\", and \"cow\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "mouse",
+      "dog",
+      "goat",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"table\", \"desk\", \"sofa\", \"pig\", and \"chair\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "table",
+      "desk",
+      "sofa",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\", \"watermelon\", \"van\", \"apple\", and \"lemon\", what is the word least associated with \"fruit\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "mango",
+      "watermelon",
+      "apple",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"mouse\", \"socks\", \"shirt\", \"pants\", \"dress\": ",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "socks",
+      "shirt",
+      "pants",
+      "dress"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"duck\", \"cat\", \"rabbit\", \"goat\", \"mango\": ",
+    "output": "mango",
+    "options": [
+      "mango",
+      "duck",
+      "cat",
+      "rabbit",
+      "goat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"table\", \"bookcase\", \"armchair\", and \"sofa\", what is the word least associated with \"furniture\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "table",
+      "bookcase",
+      "armchair",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"tractor\", \"bus\", \"van\", \"mouse\", \"tram\": ",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "tractor",
+      "bus",
+      "van",
+      "tram"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"skirt\", \"coat\", \"socks\", \"pants\", \"chair\": ",
+    "output": "chair",
+    "options": [
+      "chair",
+      "skirt",
+      "coat",
+      "socks",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"watermelon\", \"tractor\", \"pineapple\", \"strawberry\", and \"lemon\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "watermelon",
+      "pineapple",
+      "strawberry",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"pants\", \"jeans\", \"bookcase\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "shorts",
+      "pants",
+      "jeans",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"mouse\", \"jacket\", \"dog\", \"goat\", \"cow\": ",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "mouse",
+      "dog",
+      "goat",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"jacket\", \"socks\", \"shirt\", \"pear\", and \"shorts\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "jacket",
+      "socks",
+      "shirt",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"fish\", \"cow\", \"shirt\", \"rabbit\", \"dog\": ",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "fish",
+      "cow",
+      "rabbit",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"pear\", \"apple\", \"watermelon\", \"melon\", and \"motorcycle\"? A:",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "pear",
+      "apple",
+      "watermelon",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"socks\", \"apple\", \"coat\", \"jeans\", and \"sweater\", what is the word least associated with \"clothes\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "socks",
+      "coat",
+      "jeans",
+      "sweater"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"car\", \"sofa\", \"motorcycle\", \"train\", and \"truck\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "car",
+      "motorcycle",
+      "train",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dress\", \"chicken\", \"jacket\", \"shorts\", and \"socks\", what is the word least associated with \"clothes\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "dress",
+      "jacket",
+      "shorts",
+      "socks"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"tram\", \"dog\", \"van\", \"tractor\": ",
+    "output": "dog",
+    "options": [
+      "dog",
+      "truck",
+      "tram",
+      "van",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"armchair\", \"bed\", \"bookcase\", \"mouse\", and \"chair\"? A:",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "armchair",
+      "bed",
+      "bookcase",
+      "chair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"shirt\", \"pig\", \"rabbit\", \"dog\", \"duck\": ",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "pig",
+      "rabbit",
+      "dog",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\", \"melon\", \"watermelon\", \"strawberry\", and \"desk\", what is the word least associated with \"fruit\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "mango",
+      "melon",
+      "watermelon",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"jeans\", \"shorts\", \"socks\", \"table\", and \"skirt\", what is the word least associated with \"clothes\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "jeans",
+      "shorts",
+      "socks",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fish\", \"goat\", \"car\", \"cow\", and \"rabbit\", what is the word least associated with \"animals\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "fish",
+      "goat",
+      "cow",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pineapple\", \"pear\", \"peach\", \"dog\", \"strawberry\": ",
+    "output": "dog",
+    "options": [
+      "dog",
+      "pineapple",
+      "pear",
+      "peach",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"pants\", \"jacket\", \"shorts\", and \"train\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "socks",
+      "pants",
+      "jacket",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"peach\", \"strawberry\", \"mango\", \"dog\", and \"pear\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "peach",
+      "strawberry",
+      "mango",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pants\", \"socks\", \"coat\", \"peach\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "peach",
+    "options": [
+      "peach",
+      "pants",
+      "socks",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"melon\", \"socks\", \"shirt\", \"dress\", and \"sweater\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "socks",
+      "shirt",
+      "dress",
+      "sweater"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"lemon\", \"watermelon\", \"banana\", \"pineapple\", and \"couch\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "lemon",
+      "watermelon",
+      "banana",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fish\", \"pig\", \"rabbit\", \"goat\", and \"bus\", what is the word least associated with \"animals\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "fish",
+      "pig",
+      "rabbit",
+      "goat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"melon\", \"strawberry\", \"pants\", \"peach\", and \"apple\"? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "melon",
+      "strawberry",
+      "peach",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"van\", \"tractor\", \"truck\", \"bus\", \"jacket\": ",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "van",
+      "tractor",
+      "truck",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"goat\", \"melon\", \"pineapple\", \"mango\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "melon",
+      "pineapple",
+      "mango",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"apple\", \"rabbit\", \"cat\", \"dog\", \"goat\": ",
+    "output": "apple",
+    "options": [
+      "apple",
+      "rabbit",
+      "cat",
+      "dog",
+      "goat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lemon\", \"dog\", \"pineapple\", \"banana\", and \"melon\", what is the word least associated with \"fruit\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "lemon",
+      "pineapple",
+      "banana",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"van\", \"car\", \"bus\", \"pear\", and \"train\", what is the word least associated with \"vehicles\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "van",
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"motorcycle\", \"mango\", \"watermelon\", \"pear\", and \"pineapple\"? A:",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "mango",
+      "watermelon",
+      "pear",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"lemon\", \"chair\", \"bed\", \"table\", and \"couch\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "chair",
+      "bed",
+      "table",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"jacket\", \"socks\", \"shirt\", \"pear\", and \"shorts\", what is the word least associated with \"clothes\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "jacket",
+      "socks",
+      "shirt",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"coat\", \"pants\", \"peach\", \"shirt\", \"shorts\": ",
+    "output": "peach",
+    "options": [
+      "peach",
+      "coat",
+      "pants",
+      "shirt",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"sofa\", \"table\", \"bus\", \"bookcase\", and \"bed\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "sofa",
+      "table",
+      "bookcase",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"car\", \"tram\", \"chair\", and \"truck\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "van",
+      "car",
+      "tram",
+      "truck"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"banana\", \"watermelon\", \"mango\", \"lemon\", \"bus\": ",
+    "output": "bus",
+    "options": [
+      "bus",
+      "banana",
+      "watermelon",
+      "mango",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"melon\", \"strawberry\", \"pear\", \"socks\", \"pineapple\": ",
+    "output": "socks",
+    "options": [
+      "socks",
+      "melon",
+      "strawberry",
+      "pear",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"pants\", \"bookcase\", \"skirt\", and \"jeans\", what is the word least associated with \"clothes\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "shorts",
+      "pants",
+      "skirt",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"motorcycle\", \"van\", \"bus\", \"tram\", \"bookcase\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "motorcycle",
+      "van",
+      "bus",
+      "tram"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"couch\", \"tractor\", \"bed\", \"chair\", \"bookcase\": ",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "couch",
+      "bed",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"armchair\", \"chair\", \"sofa\", \"tram\", and \"desk\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "armchair",
+      "chair",
+      "sofa",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"dress\", \"pants\", \"skirt\", \"socks\", and \"pear\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "dress",
+      "pants",
+      "skirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"tram\", \"tractor\", \"pig\", \"motorcycle\": ",
+    "output": "pig",
+    "options": [
+      "pig",
+      "truck",
+      "tram",
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\", \"van\", \"fish\", \"chicken\", and \"rabbit\", what is the word least associated with \"animals\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "duck",
+      "fish",
+      "chicken",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\", \"shirt\", \"coat\", \"sweater\", and \"jeans\", what is the word least associated with \"clothes\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "shirt",
+      "coat",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pig\", \"strawberry\", \"cow\", \"mouse\", and \"rabbit\", what is the word least associated with \"animals\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "pig",
+      "cow",
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"strawberry\", \"sofa\", \"chair\", \"table\", and \"armchair\", what is the word least associated with \"furniture\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "sofa",
+      "chair",
+      "table",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"rabbit\", \"duck\", \"truck\", \"dog\", and \"chicken\"? A:",
+    "output": "truck",
+    "options": [
+      "truck",
+      "rabbit",
+      "duck",
+      "dog",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"skirt\", \"goat\", \"pants\", \"sweater\", \"dress\": ",
+    "output": "goat",
+    "options": [
+      "goat",
+      "skirt",
+      "pants",
+      "sweater",
+      "dress"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"dog\", \"goat\", \"mouse\", \"rabbit\", and \"pineapple\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "dog",
+      "goat",
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"shorts\", \"pants\", \"bookcase\", \"skirt\", and \"jeans\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "shorts",
+      "pants",
+      "skirt",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watermelon\", \"desk\", \"lemon\", \"apple\", and \"strawberry\", what is the word least associated with \"fruit\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "watermelon",
+      "lemon",
+      "apple",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"sweater\", \"dress\", \"shorts\", \"pig\", \"shirt\": ",
+    "output": "pig",
+    "options": [
+      "pig",
+      "sweater",
+      "dress",
+      "shorts",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"shirt\", \"van\", \"tram\", \"motorcycle\", and \"train\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "van",
+      "tram",
+      "motorcycle",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"apple\", \"train\", \"tractor\", and \"truck\", what is the word least associated with \"vehicles\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "tram",
+      "train",
+      "tractor",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sofa\", \"bed\", \"armchair\", \"bookcase\", and \"apple\", what is the word least associated with \"furniture\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "sofa",
+      "bed",
+      "armchair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"table\", \"car\", \"train\", \"motorcycle\", \"tram\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "car",
+      "train",
+      "motorcycle",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"pants\", \"dress\", \"lemon\", \"socks\", and \"coat\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "pants",
+      "dress",
+      "socks",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cat\", \"peach\", \"mango\", \"pineapple\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "peach",
+      "mango",
+      "pineapple",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"dog\", \"goat\", \"mouse\", \"table\", and \"cat\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "dog",
+      "goat",
+      "mouse",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bus\", \"desk\", \"sofa\", \"couch\", and \"table\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "desk",
+      "sofa",
+      "couch",
+      "table"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pear\", \"watermelon\", \"sofa\", \"melon\", \"lemon\": ",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "pear",
+      "watermelon",
+      "melon",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"couch\", \"armchair\", \"cat\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "bookcase",
+      "couch",
+      "armchair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"mouse\", \"chicken\", \"dog\", and \"cow\", what is the word least associated with \"animals\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "mouse",
+      "chicken",
+      "dog",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"duck\", \"motorcycle\", \"bus\", \"van\", and \"tram\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "motorcycle",
+      "bus",
+      "van",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sweater\", \"shirt\", \"lemon\", \"shorts\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "sweater",
+      "shirt",
+      "shorts",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bed\", \"jeans\", \"bookcase\", \"table\", and \"couch\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "bed",
+      "bookcase",
+      "table",
+      "couch"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"chicken\", \"pineapple\", \"lemon\", \"banana\", \"melon\": ",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "pineapple",
+      "lemon",
+      "banana",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mouse\", \"chicken\", \"lemon\", \"rabbit\", and \"dog\", what is the word least associated with \"animals\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "mouse",
+      "chicken",
+      "rabbit",
+      "dog"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"motorcycle\", \"tram\", \"van\", \"shirt\", \"train\": ",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "motorcycle",
+      "tram",
+      "van",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"sweater\", \"goat\", \"shorts\", and \"jeans\", what is the word least associated with \"clothes\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "skirt",
+      "sweater",
+      "shorts",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"strawberry\", \"watermelon\", \"lemon\", \"pineapple\", \"fish\": ",
+    "output": "fish",
+    "options": [
+      "fish",
+      "strawberry",
+      "watermelon",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"bus\", \"car\", \"van\", \"tram\", and \"chair\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "bus",
+      "car",
+      "van",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pear\", \"goat\", \"pig\", \"mouse\", and \"dog\", what is the word least associated with \"animals\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "goat",
+      "pig",
+      "mouse",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"rabbit\", \"cow\", \"fish\", \"pig\", and \"sofa\", what is the word least associated with \"animals\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "rabbit",
+      "cow",
+      "fish",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"sofa\", \"bed\", \"couch\", \"socks\", and \"desk\"? A:",
+    "output": "socks",
+    "options": [
+      "socks",
+      "sofa",
+      "bed",
+      "couch",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"socks\", \"train\", \"dress\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "skirt",
+      "socks",
+      "dress",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dog\", \"jacket\", \"goat\", \"cow\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "dog",
+      "goat",
+      "cow",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"dress\", \"coat\", \"apple\", \"shirt\", \"socks\": ",
+    "output": "apple",
+    "options": [
+      "apple",
+      "dress",
+      "coat",
+      "shirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"chicken\", \"melon\", \"banana\", \"lemon\", and \"apple\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "melon",
+      "banana",
+      "lemon",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"fish\", \"banana\", \"pig\", \"mouse\", and \"dog\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "fish",
+      "pig",
+      "mouse",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"duck\", \"desk\", \"table\", and \"chair\", what is the word least associated with \"furniture\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "armchair",
+      "desk",
+      "table",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"coat\", \"watermelon\", \"shorts\", and \"sweater\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "socks",
+      "coat",
+      "shorts",
+      "sweater"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"sweater\", \"dress\", \"pear\", \"shorts\", \"socks\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "sweater",
+      "dress",
+      "shorts",
+      "socks"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"bus\", \"motorcycle\", \"car\", \"socks\", \"van\": ",
+    "output": "socks",
+    "options": [
+      "socks",
+      "bus",
+      "motorcycle",
+      "car",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"pants\", \"shirt\", \"jacket\", and \"goat\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "socks",
+      "pants",
+      "shirt",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"sofa\", \"banana\", \"armchair\", \"chair\", \"bookcase\": ",
+    "output": "banana",
+    "options": [
+      "banana",
+      "sofa",
+      "armchair",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"bed\", \"sofa\", \"table\", \"strawberry\", \"chair\": ",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "bed",
+      "sofa",
+      "table",
+      "chair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"goat\", \"jacket\", \"shorts\", \"coat\", \"shirt\": ",
+    "output": "goat",
+    "options": [
+      "goat",
+      "jacket",
+      "shorts",
+      "coat",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"pants\", \"tram\", \"shorts\", \"skirt\", and \"socks\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "pants",
+      "shorts",
+      "skirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bookcase\", \"chair\", \"jeans\", \"table\", and \"bed\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "bookcase",
+      "chair",
+      "table",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dress\", \"skirt\", \"jeans\", \"shorts\", and \"duck\", what is the word least associated with \"clothes\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "dress",
+      "skirt",
+      "jeans",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"chicken\", \"sofa\", \"goat\", \"mouse\", and \"rabbit\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "chicken",
+      "goat",
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mouse\", \"fish\", \"pineapple\", \"rabbit\", and \"goat\", what is the word least associated with \"animals\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "mouse",
+      "fish",
+      "rabbit",
+      "goat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"train\", \"rabbit\", \"fish\", \"chicken\", \"cat\": ",
+    "output": "train",
+    "options": [
+      "train",
+      "rabbit",
+      "fish",
+      "chicken",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"dress\", \"pants\", \"shirt\", \"pear\", \"socks\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "dress",
+      "pants",
+      "shirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"jacket\", \"jeans\", \"desk\", \"dress\", \"coat\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "jacket",
+      "jeans",
+      "dress",
+      "coat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"dress\", \"skirt\", \"sweater\", \"cat\", \"coat\": ",
+    "output": "cat",
+    "options": [
+      "cat",
+      "dress",
+      "skirt",
+      "sweater",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"desk\", \"truck\", \"bed\", and \"couch\", what is the word least associated with \"furniture\"? A:",
+    "output": "truck",
+    "options": [
+      "truck",
+      "bookcase",
+      "desk",
+      "bed",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"fish\", \"mouse\", \"pig\", \"lemon\", and \"cow\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "fish",
+      "mouse",
+      "pig",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"mango\", \"pineapple\", \"armchair\", \"banana\", and \"watermelon\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "mango",
+      "pineapple",
+      "banana",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"shorts\", \"tractor\", \"car\", \"truck\", \"train\": ",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "tractor",
+      "car",
+      "truck",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"van\", \"pig\", \"tractor\", \"truck\", and \"train\", what is the word least associated with \"vehicles\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "van",
+      "tractor",
+      "truck",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"tram\", \"car\", \"bus\", \"truck\", and \"desk\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "tram",
+      "car",
+      "bus",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"chicken\", \"car\", \"tractor\", \"bus\", and \"truck\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "car",
+      "tractor",
+      "bus",
+      "truck"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"watermelon\", \"strawberry\", \"table\", \"peach\", \"pear\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "watermelon",
+      "strawberry",
+      "peach",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"truck\", \"tram\", \"tractor\", \"pig\", and \"motorcycle\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "truck",
+      "tram",
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\", \"strawberry\", \"pineapple\", \"sofa\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "mango",
+      "strawberry",
+      "pineapple",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"couch\", \"table\", \"duck\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "armchair",
+      "couch",
+      "table",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"table\", \"chair\", \"lemon\", \"bookcase\", and \"armchair\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "table",
+      "chair",
+      "bookcase",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"desk\", \"couch\", \"bed\", \"table\", and \"dress\", what is the word least associated with \"furniture\"? A:",
+    "output": "dress",
+    "options": [
+      "dress",
+      "desk",
+      "couch",
+      "bed",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"socks\", \"jeans\", \"pants\", \"dress\", and \"strawberry\", what is the word least associated with \"clothes\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "socks",
+      "jeans",
+      "pants",
+      "dress"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"truck\", \"motorcycle\", \"car\", and \"melon\", what is the word least associated with \"vehicles\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "tram",
+      "truck",
+      "motorcycle",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"watermelon\", \"sweater\", \"shorts\", and \"dress\", what is the word least associated with \"clothes\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "skirt",
+      "sweater",
+      "shorts",
+      "dress"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"mango\", \"chair\", \"pear\", \"pineapple\", and \"strawberry\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "mango",
+      "pear",
+      "pineapple",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"strawberry\", \"watermelon\", \"lemon\", \"pineapple\", and \"fish\", what is the word least associated with \"fruit\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "strawberry",
+      "watermelon",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"bookcase\", \"tram\", \"motorcycle\", \"van\", \"tractor\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "tram",
+      "motorcycle",
+      "van",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fish\", \"coat\", \"skirt\", \"socks\", and \"shorts\", what is the word least associated with \"clothes\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "coat",
+      "skirt",
+      "socks",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\", \"cat\", \"dog\", \"pig\", and \"tractor\", what is the word least associated with \"animals\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "duck",
+      "cat",
+      "dog",
+      "pig"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"skirt\", \"pants\", \"jeans\", \"coat\", \"motorcycle\": ",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "skirt",
+      "pants",
+      "jeans",
+      "coat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"bus\", \"motorcycle\", \"tram\", \"chicken\", \"car\": ",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "bus",
+      "motorcycle",
+      "tram",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"couch\", \"melon\", \"pear\", \"pineapple\", and \"strawberry\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "melon",
+      "pear",
+      "pineapple",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"jeans\", \"shorts\", \"armchair\", and \"pants\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "socks",
+      "jeans",
+      "shorts",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"car\", \"jacket\", \"coat\", \"sweater\", and \"jeans\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "jacket",
+      "coat",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"skirt\", \"train\", \"van\", \"motorcycle\", \"car\": ",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "train",
+      "van",
+      "motorcycle",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"fish\", \"table\", \"chair\", and \"sofa\", what is the word least associated with \"furniture\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "armchair",
+      "table",
+      "chair",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"van\", \"train\", \"tractor\", \"shorts\", \"bus\": ",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "van",
+      "train",
+      "tractor",
+      "bus"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"truck\", \"dress\", \"jeans\", \"jacket\", \"shirt\": ",
+    "output": "truck",
+    "options": [
+      "truck",
+      "dress",
+      "jeans",
+      "jacket",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"apple\", \"strawberry\", \"lemon\", and \"pineapple\", what is the word least associated with \"fruit\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "apple",
+      "strawberry",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"car\", \"truck\", \"pig\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "tram",
+      "car",
+      "truck",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"banana\", \"watermelon\", \"mango\", \"lemon\", and \"bus\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "banana",
+      "watermelon",
+      "mango",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"van\", \"truck\", \"bed\", \"motorcycle\", and \"bus\", what is the word least associated with \"vehicles\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "van",
+      "truck",
+      "motorcycle",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"apple\", \"melon\", \"peach\", \"mango\", and \"bookcase\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "apple",
+      "melon",
+      "peach",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"cow\", \"pig\", \"fish\", \"chicken\", \"armchair\": ",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "cow",
+      "pig",
+      "fish",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"goat\", \"duck\", \"cat\", \"fish\", and \"couch\", what is the word least associated with \"animals\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "goat",
+      "duck",
+      "cat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"bus\", \"car\", \"train\", \"apple\", and \"tractor\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "bus",
+      "car",
+      "train",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"pants\", \"shirt\", \"coat\", \"dress\", and \"table\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "pants",
+      "shirt",
+      "coat",
+      "dress"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"couch\", \"desk\", \"chair\", \"bookcase\", and \"sweater\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "couch",
+      "desk",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"socks\", \"shirt\", \"mango\", \"jeans\", and \"coat\", what is the word least associated with \"clothes\"? A:",
+    "output": "mango",
+    "options": [
+      "mango",
+      "socks",
+      "shirt",
+      "jeans",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"strawberry\", \"socks\", \"pear\", \"apple\", and \"lemon\", what is the word least associated with \"fruit\"? A:",
+    "output": "socks",
+    "options": [
+      "socks",
+      "strawberry",
+      "pear",
+      "apple",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"train\", \"motorcycle\", \"tram\", \"peach\", and \"car\"? A:",
+    "output": "peach",
+    "options": [
+      "peach",
+      "train",
+      "motorcycle",
+      "tram",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"banana\", \"watermelon\", \"melon\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "banana",
+      "watermelon",
+      "melon",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"goat\", \"table\", \"cow\", \"pig\", \"chicken\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "goat",
+      "cow",
+      "pig",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"pig\", \"tractor\", \"truck\", and \"train\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "van",
+      "tractor",
+      "truck",
+      "train"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"pig\", \"fish\", \"goat\", \"cat\", \"pear\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "pig",
+      "fish",
+      "goat",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"apple\", \"pear\", \"mango\", and \"strawberry\", what is the word least associated with \"fruit\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "apple",
+      "pear",
+      "mango",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"shirt\", \"sweater\", \"skirt\", \"bus\", \"jacket\": ",
+    "output": "bus",
+    "options": [
+      "bus",
+      "shirt",
+      "sweater",
+      "skirt",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"couch\", \"desk\", \"chair\", \"cat\", and \"bed\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "couch",
+      "desk",
+      "chair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"rabbit\", \"fish\", \"dog\", \"cow\", and \"truck\"? A:",
+    "output": "truck",
+    "options": [
+      "truck",
+      "rabbit",
+      "fish",
+      "dog",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"dress\", \"skirt\", \"jeans\", \"shorts\", and \"duck\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "dress",
+      "skirt",
+      "jeans",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"couch\", \"bookcase\", \"desk\", \"pineapple\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "couch",
+      "bookcase",
+      "desk",
+      "bed"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"duck\", \"shirt\", \"shorts\", \"pants\", \"skirt\": ",
+    "output": "duck",
+    "options": [
+      "duck",
+      "shirt",
+      "shorts",
+      "pants",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"desk\", \"shirt\", \"skirt\", \"pants\", \"shorts\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "shirt",
+      "skirt",
+      "pants",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"pig\", \"cow\", \"skirt\", \"mouse\", and \"dog\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "pig",
+      "cow",
+      "mouse",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"cat\", \"jacket\", \"rabbit\", \"cow\", and \"goat\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "cat",
+      "rabbit",
+      "cow",
+      "goat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"apple\", \"pineapple\", \"melon\", \"banana\", and \"duck\", what is the word least associated with \"fruit\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "apple",
+      "pineapple",
+      "melon",
+      "banana"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"mango\", \"melon\", \"watermelon\", \"strawberry\", \"desk\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "mango",
+      "melon",
+      "watermelon",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"chair\", \"bookcase\", \"van\", \"table\", \"bed\": ",
+    "output": "van",
+    "options": [
+      "van",
+      "chair",
+      "bookcase",
+      "table",
+      "bed"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"tractor\", \"motorcycle\", \"bus\", \"car\", \"jeans\": ",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "tractor",
+      "motorcycle",
+      "bus",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"truck\", \"bed\", \"tram\", \"van\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "truck",
+      "tram",
+      "van",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"dress\", \"jacket\", \"skirt\", \"coat\", and \"pineapple\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "dress",
+      "jacket",
+      "skirt",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"bookcase\", \"van\", \"tractor\", \"tram\", and \"truck\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "van",
+      "tractor",
+      "tram",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"shorts\", \"motorcycle\", \"tractor\", \"bus\", and \"tram\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "motorcycle",
+      "tractor",
+      "bus",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"fish\", \"coat\", \"shirt\", \"sweater\", and \"jacket\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "coat",
+      "shirt",
+      "sweater",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"banana\", \"jeans\", \"pear\", \"lemon\", \"pineapple\": ",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "banana",
+      "pear",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"tram\", \"mango\", \"strawberry\", \"apple\", \"banana\": ",
+    "output": "tram",
+    "options": [
+      "tram",
+      "mango",
+      "strawberry",
+      "apple",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"peach\", \"chicken\", \"watermelon\", \"strawberry\", and \"lemon\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "peach",
+      "watermelon",
+      "strawberry",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"goat\", \"tractor\", \"cow\", \"mouse\", \"rabbit\": ",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "goat",
+      "cow",
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"table\", \"fish\", \"bookcase\", \"desk\", and \"armchair\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "table",
+      "bookcase",
+      "desk",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"desk\", \"armchair\", \"cow\", \"couch\", \"bookcase\": ",
+    "output": "cow",
+    "options": [
+      "cow",
+      "desk",
+      "armchair",
+      "couch",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dress\", \"socks\", \"jeans\", \"pants\", and \"bed\", what is the word least associated with \"clothes\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "dress",
+      "socks",
+      "jeans",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"chair\", \"dog\", \"bookcase\", \"desk\", and \"bed\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "chair",
+      "bookcase",
+      "desk",
+      "bed"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"cat\", \"truck\", \"bus\", \"tractor\", \"train\": ",
+    "output": "cat",
+    "options": [
+      "cat",
+      "truck",
+      "bus",
+      "tractor",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lemon\", \"mango\", \"tractor\", \"pear\", and \"melon\", what is the word least associated with \"fruit\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "lemon",
+      "mango",
+      "pear",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"table\", \"bookcase\", \"skirt\", \"desk\", and \"sofa\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "table",
+      "bookcase",
+      "desk",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"bookcase\", \"tractor\", \"van\", \"tram\", \"bus\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "tractor",
+      "van",
+      "tram",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cow\", \"chair\", \"cat\", \"goat\", and \"dog\", what is the word least associated with \"animals\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "cow",
+      "cat",
+      "goat",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"lemon\", \"mango\", \"tractor\", \"pear\", and \"melon\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "lemon",
+      "mango",
+      "pear",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"table\", \"bed\", \"bookcase\", \"desk\", and \"lemon\", what is the word least associated with \"furniture\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "table",
+      "bed",
+      "bookcase",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"bus\", \"car\", \"train\", \"tractor\", and \"mango\"? A:",
+    "output": "mango",
+    "options": [
+      "mango",
+      "bus",
+      "car",
+      "train",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"armchair\", \"dress\", \"sweater\", \"coat\", \"skirt\": ",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "dress",
+      "sweater",
+      "coat",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"peach\", \"melon\", \"pear\", \"truck\", and \"pineapple\", what is the word least associated with \"fruit\"? A:",
+    "output": "truck",
+    "options": [
+      "truck",
+      "peach",
+      "melon",
+      "pear",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"pants\", \"dress\", \"lemon\", \"socks\", \"coat\": ",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "pants",
+      "dress",
+      "socks",
+      "coat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"melon\", \"jacket\", \"strawberry\", \"apple\", \"watermelon\": ",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "melon",
+      "strawberry",
+      "apple",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"table\", \"chair\", \"bookcase\", \"shorts\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "table",
+      "chair",
+      "bookcase",
+      "bed"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"watermelon\", \"pineapple\", \"banana\", \"strawberry\", \"van\": ",
+    "output": "van",
+    "options": [
+      "van",
+      "watermelon",
+      "pineapple",
+      "banana",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cow\", \"duck\", \"pineapple\", \"mouse\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "cow",
+      "duck",
+      "mouse",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"melon\", \"mouse\", \"banana\", \"lemon\", \"peach\": ",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "melon",
+      "banana",
+      "lemon",
+      "peach"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"shorts\", \"socks\", \"bus\", \"jacket\", and \"shirt\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "shorts",
+      "socks",
+      "jacket",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pear\", \"peach\", \"lemon\", \"melon\", \"tram\": ",
+    "output": "tram",
+    "options": [
+      "tram",
+      "pear",
+      "peach",
+      "lemon",
+      "melon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"watermelon\", \"couch\", \"mango\", \"pear\", \"banana\": ",
+    "output": "couch",
+    "options": [
+      "couch",
+      "watermelon",
+      "mango",
+      "pear",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"pants\", \"jeans\", \"watermelon\", \"shorts\", and \"coat\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "pants",
+      "jeans",
+      "shorts",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"train\", \"dress\", \"tram\", and \"bus\", what is the word least associated with \"vehicles\"? A:",
+    "output": "dress",
+    "options": [
+      "dress",
+      "car",
+      "train",
+      "tram",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chicken\", \"cow\", \"couch\", \"goat\", and \"mouse\", what is the word least associated with \"animals\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "chicken",
+      "cow",
+      "goat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"jacket\", \"truck\", \"train\", and \"motorcycle\", what is the word least associated with \"vehicles\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "bus",
+      "truck",
+      "train",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"dress\", \"shorts\", \"mango\", \"socks\", and \"shirt\"? A:",
+    "output": "mango",
+    "options": [
+      "mango",
+      "dress",
+      "shorts",
+      "socks",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"watermelon\", \"sofa\", \"table\", \"chair\", and \"bed\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "sofa",
+      "table",
+      "chair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"coat\", \"shirt\", \"chicken\", \"sweater\", and \"shorts\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "coat",
+      "shirt",
+      "sweater",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"lemon\", \"pear\", \"dog\", \"pineapple\", \"banana\": ",
+    "output": "dog",
+    "options": [
+      "dog",
+      "lemon",
+      "pear",
+      "pineapple",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"duck\", \"cow\", \"mouse\", and \"dog\", what is the word least associated with \"animals\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "duck",
+      "cow",
+      "mouse",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dress\", \"coat\", \"apple\", \"shirt\", and \"socks\", what is the word least associated with \"clothes\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "dress",
+      "coat",
+      "shirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"coat\", \"pants\", \"shorts\", and \"cow\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "socks",
+      "coat",
+      "pants",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"desk\", \"socks\", \"sweater\", \"jacket\", and \"jeans\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "socks",
+      "sweater",
+      "jacket",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mouse\", \"fish\", \"goat\", \"bus\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "mouse",
+      "fish",
+      "goat",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"apple\", \"mouse\", \"banana\", \"strawberry\", and \"melon\"? A:",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "apple",
+      "banana",
+      "strawberry",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"mango\", \"jacket\", \"sweater\", \"skirt\", and \"coat\"? A:",
+    "output": "mango",
+    "options": [
+      "mango",
+      "jacket",
+      "sweater",
+      "skirt",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bookcase\", \"sofa\", \"chair\", \"armchair\", and \"mango\"? A:",
+    "output": "mango",
+    "options": [
+      "mango",
+      "bookcase",
+      "sofa",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"jeans\", \"table\", \"couch\", \"bed\", and \"sofa\", what is the word least associated with \"furniture\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "table",
+      "couch",
+      "bed",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"tractor\", \"truck\", \"bus\", and \"jacket\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "van",
+      "tractor",
+      "truck",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"van\", \"tram\", \"bus\", \"motorcycle\", and \"banana\", what is the word least associated with \"vehicles\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "van",
+      "tram",
+      "bus",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"strawberry\", \"table\", \"desk\", \"chair\", \"armchair\": ",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "table",
+      "desk",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\", \"bed\", \"chicken\", \"cat\", and \"mouse\", what is the word least associated with \"animals\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "duck",
+      "chicken",
+      "cat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"rabbit\", \"duck\", \"car\", \"mouse\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "rabbit",
+      "duck",
+      "mouse",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cat\", \"goat\", \"duck\", \"rabbit\", and \"apple\", what is the word least associated with \"animals\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "cat",
+      "goat",
+      "duck",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"van\", \"tractor\", \"truck\", \"motorcycle\", \"sofa\": ",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "van",
+      "tractor",
+      "truck",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"pants\", \"socks\", \"coat\", \"peach\", and \"jacket\"? A:",
+    "output": "peach",
+    "options": [
+      "peach",
+      "pants",
+      "socks",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"jeans\", \"train\", \"van\", and \"motorcycle\", what is the word least associated with \"vehicles\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "bus",
+      "train",
+      "van",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"melon\", \"table\", \"sofa\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "armchair",
+      "table",
+      "sofa",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"jeans\", \"shorts\", \"socks\", \"table\", and \"skirt\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "jeans",
+      "shorts",
+      "socks",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"cat\", \"goat\", \"duck\", \"bookcase\", \"cow\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "cat",
+      "goat",
+      "duck",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"sweater\", \"shirt\", \"mango\", and \"coat\"? A:",
+    "output": "mango",
+    "options": [
+      "mango",
+      "socks",
+      "sweater",
+      "shirt",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"table\", \"bookcase\", \"pineapple\", \"couch\", and \"bed\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "table",
+      "bookcase",
+      "couch",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"desk\", \"motorcycle\", \"sofa\", \"chair\", and \"bookcase\"? A:",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "desk",
+      "sofa",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"fish\", \"mango\", \"mouse\", \"goat\", \"cat\": ",
+    "output": "mango",
+    "options": [
+      "mango",
+      "fish",
+      "mouse",
+      "goat",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"chicken\", \"strawberry\", \"fish\", \"mouse\", and \"cat\"? A:",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "chicken",
+      "fish",
+      "mouse",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"melon\", \"pineapple\", \"couch\", \"pear\", and \"watermelon\", what is the word least associated with \"fruit\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "melon",
+      "pineapple",
+      "pear",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"motorcycle\", \"desk\", \"tractor\", \"train\", and \"truck\", what is the word least associated with \"vehicles\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "motorcycle",
+      "tractor",
+      "train",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"armchair\", \"motorcycle\", \"van\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "bus",
+      "motorcycle",
+      "van",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"sofa\", \"desk\", \"watermelon\", \"armchair\", \"bed\": ",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "sofa",
+      "desk",
+      "armchair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"table\", \"armchair\", \"shirt\", \"desk\", and \"couch\", what is the word least associated with \"furniture\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "table",
+      "armchair",
+      "desk",
+      "couch"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"mouse\", \"cat\", \"cow\", \"chicken\", \"train\": ",
+    "output": "train",
+    "options": [
+      "train",
+      "mouse",
+      "cat",
+      "cow",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"socks\", \"motorcycle\", \"skirt\", \"shorts\", and \"coat\"? A:",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "socks",
+      "skirt",
+      "shorts",
+      "coat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"strawberry\", \"sofa\", \"watermelon\", \"banana\", \"mango\": ",
+    "output": "sofa",
+    "options": [
+      "sofa",
+      "strawberry",
+      "watermelon",
+      "banana",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"coat\", \"dress\", \"skirt\", \"sweater\", \"mango\": ",
+    "output": "mango",
+    "options": [
+      "mango",
+      "coat",
+      "dress",
+      "skirt",
+      "sweater"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"van\", \"motorcycle\", \"car\", \"shirt\", and \"truck\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "van",
+      "motorcycle",
+      "car",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pear\", \"peach\", \"melon\", \"mango\", and \"desk\", what is the word least associated with \"fruit\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "pear",
+      "peach",
+      "melon",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"pig\", \"cow\", \"skirt\", \"mouse\", \"dog\": ",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "pig",
+      "cow",
+      "mouse",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cat\", \"duck\", \"goat\", \"mouse\", and \"jeans\", what is the word least associated with \"animals\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "cat",
+      "duck",
+      "goat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"mouse\", \"pig\", \"chicken\", \"strawberry\", \"fish\": ",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "mouse",
+      "pig",
+      "chicken",
+      "fish"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"mouse\", \"socks\", \"shirt\", \"pants\", and \"dress\"? A:",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "socks",
+      "shirt",
+      "pants",
+      "dress"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sofa\", \"couch\", \"armchair\", \"chair\", and \"fish\", what is the word least associated with \"furniture\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "sofa",
+      "couch",
+      "armchair",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"truck\", \"train\", \"coat\", \"tram\", and \"bus\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "truck",
+      "train",
+      "tram",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"banana\", \"jacket\", \"sweater\", and \"jeans\", what is the word least associated with \"clothes\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "skirt",
+      "jacket",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tram\", \"bus\", \"goat\", \"van\", and \"motorcycle\", what is the word least associated with \"vehicles\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "tram",
+      "bus",
+      "van",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"train\", \"tram\", \"car\", \"rabbit\", and \"tractor\"? A:",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "train",
+      "tram",
+      "car",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"bookcase\", \"motorcycle\", \"tram\", \"truck\", and \"tractor\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "motorcycle",
+      "tram",
+      "truck",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watermelon\", \"mango\", \"pineapple\", \"coat\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "watermelon",
+      "mango",
+      "pineapple",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"dress\", \"pear\", \"apple\", \"melon\", and \"peach\"? A:",
+    "output": "dress",
+    "options": [
+      "dress",
+      "pear",
+      "apple",
+      "melon",
+      "peach"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"shorts\", \"jacket\", \"shirt\", and \"coat\", what is the word least associated with \"clothes\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "shorts",
+      "jacket",
+      "shirt",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"goat\", \"duck\", \"cat\", \"fish\", and \"car\", what is the word least associated with \"animals\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "goat",
+      "duck",
+      "cat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"chair\", \"bookcase\", \"couch\", \"sofa\", \"pig\": ",
+    "output": "pig",
+    "options": [
+      "pig",
+      "chair",
+      "bookcase",
+      "couch",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"pineapple\", \"pear\", \"peach\", \"dog\", and \"strawberry\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "pineapple",
+      "pear",
+      "peach",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"duck\", \"shirt\", \"coat\", \"sweater\", and \"jeans\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "shirt",
+      "coat",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"goat\", \"melon\", \"strawberry\", \"pear\", and \"watermelon\", what is the word least associated with \"fruit\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "melon",
+      "strawberry",
+      "pear",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"armchair\", \"chair\", \"rabbit\", \"sofa\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "armchair",
+      "chair",
+      "sofa",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"truck\", \"shirt\", \"motorcycle\", and \"train\", what is the word least associated with \"vehicles\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "car",
+      "truck",
+      "motorcycle",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shirt\", \"motorcycle\", \"van\", \"truck\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "motorcycle",
+      "van",
+      "truck",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dog\", \"pig\", \"tram\", \"goat\", and \"rabbit\", what is the word least associated with \"animals\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "dog",
+      "pig",
+      "goat",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"melon\", \"pear\", \"pineapple\", \"mango\", and \"armchair\", what is the word least associated with \"fruit\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "melon",
+      "pear",
+      "pineapple",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"table\", \"bookcase\", \"skirt\", \"desk\", \"sofa\": ",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "table",
+      "bookcase",
+      "desk",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"mouse\", \"cat\", \"goat\", and \"chicken\", what is the word least associated with \"animals\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "mouse",
+      "cat",
+      "goat",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"dress\", \"bookcase\", \"pants\", \"shorts\", \"shirt\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "dress",
+      "pants",
+      "shorts",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"fish\", \"goat\", \"car\", \"cow\", and \"rabbit\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "fish",
+      "goat",
+      "cow",
+      "rabbit"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"table\", \"car\", \"train\", \"motorcycle\", and \"tram\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "car",
+      "train",
+      "motorcycle",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"truck\", \"desk\", \"couch\", \"bed\", and \"table\"? A:",
+    "output": "truck",
+    "options": [
+      "truck",
+      "desk",
+      "couch",
+      "bed",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"pear\", \"mango\", \"apple\", \"cow\", and \"pineapple\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "pear",
+      "mango",
+      "apple",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"truck\", \"train\", \"motorcycle\", \"jeans\", and \"tractor\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "truck",
+      "train",
+      "motorcycle",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"bus\", \"pineapple\", \"strawberry\", \"banana\", \"lemon\": ",
+    "output": "bus",
+    "options": [
+      "bus",
+      "pineapple",
+      "strawberry",
+      "banana",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bed\", \"desk\", \"sofa\", \"armchair\", and \"van\", what is the word least associated with \"furniture\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "bed",
+      "desk",
+      "sofa",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"desk\", \"sofa\", \"couch\", \"bed\", and \"shirt\", what is the word least associated with \"furniture\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "desk",
+      "sofa",
+      "couch",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"motorcycle\", \"bus\", \"tram\", \"tractor\", and \"skirt\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "motorcycle",
+      "bus",
+      "tram",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"bed\", \"armchair\", \"couch\", \"chair\", \"lemon\": ",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "bed",
+      "armchair",
+      "couch",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"skirt\", \"train\", \"van\", \"motorcycle\", and \"car\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "train",
+      "van",
+      "motorcycle",
+      "car"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"van\", \"car\", \"bus\", \"pear\", \"train\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "van",
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watermelon\", \"couch\", \"mango\", \"pear\", and \"banana\", what is the word least associated with \"fruit\"? A:",
+    "output": "couch",
+    "options": [
+      "couch",
+      "watermelon",
+      "mango",
+      "pear",
+      "banana"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"sweater\", \"skirt\", \"pineapple\", \"socks\", \"shirt\": ",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "sweater",
+      "skirt",
+      "socks",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"duck\", \"bed\", \"chicken\", \"cat\", \"mouse\": ",
+    "output": "bed",
+    "options": [
+      "bed",
+      "duck",
+      "chicken",
+      "cat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"desk\", \"shirt\", \"skirt\", \"pants\", and \"shorts\", what is the word least associated with \"clothes\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "shirt",
+      "skirt",
+      "pants",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"sweater\", \"strawberry\", \"socks\", \"shorts\", \"jacket\": ",
+    "output": "strawberry",
+    "options": [
+      "strawberry",
+      "sweater",
+      "socks",
+      "shorts",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"jacket\", \"tram\", \"car\", \"tractor\", \"bus\": ",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "tram",
+      "car",
+      "tractor",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"tractor\", \"train\", \"watermelon\", \"truck\", and \"tram\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "tractor",
+      "train",
+      "truck",
+      "tram"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"chair\", \"armchair\", \"sofa\", \"truck\", \"bookcase\": ",
+    "output": "truck",
+    "options": [
+      "truck",
+      "chair",
+      "armchair",
+      "sofa",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"sofa\", \"chair\", \"table\", \"couch\", and \"watermelon\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "sofa",
+      "chair",
+      "table",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"tractor\", \"train\", \"truck\", \"bus\", and \"table\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "tractor",
+      "train",
+      "truck",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"banana\", \"sweater\", \"pear\", \"melon\", and \"pineapple\", what is the word least associated with \"fruit\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "banana",
+      "pear",
+      "melon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"pig\", \"goat\", \"fish\", \"jacket\", and \"duck\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "pig",
+      "goat",
+      "fish",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pig\", \"shorts\", \"fish\", \"rabbit\", and \"cow\", what is the word least associated with \"animals\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "pig",
+      "fish",
+      "rabbit",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"couch\", \"bus\", \"chair\", and \"sofa\", what is the word least associated with \"furniture\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "bookcase",
+      "couch",
+      "chair",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"table\", \"sofa\", \"armchair\", \"train\", and \"couch\", what is the word least associated with \"furniture\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "table",
+      "sofa",
+      "armchair",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"duck\", \"dog\", \"goat\", \"fish\", and \"apple\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "duck",
+      "dog",
+      "goat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sweater\", \"coat\", \"tram\", \"skirt\", and \"pants\", what is the word least associated with \"clothes\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "sweater",
+      "coat",
+      "skirt",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bed\", \"table\", \"jacket\", \"couch\", and \"sofa\", what is the word least associated with \"furniture\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "bed",
+      "table",
+      "couch",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"dog\", \"van\", \"motorcycle\", and \"tram\", what is the word least associated with \"vehicles\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "car",
+      "van",
+      "motorcycle",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bookcase\", \"banana\", \"table\", \"bed\", and \"desk\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "bookcase",
+      "table",
+      "bed",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bookcase\", \"sofa\", \"bed\", \"pig\", and \"couch\"? A:",
+    "output": "pig",
+    "options": [
+      "pig",
+      "bookcase",
+      "sofa",
+      "bed",
+      "couch"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"coat\", \"socks\", \"pants\", and \"chair\", what is the word least associated with \"clothes\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "skirt",
+      "coat",
+      "socks",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dress\", \"jacket\", \"shorts\", \"apple\", and \"pants\", what is the word least associated with \"clothes\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "dress",
+      "jacket",
+      "shorts",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"melon\", \"train\", \"apple\", \"banana\", and \"peach\", what is the word least associated with \"fruit\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "melon",
+      "apple",
+      "banana",
+      "peach"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"chicken\", \"pig\", \"dog\", \"duck\", \"mango\": ",
+    "output": "mango",
+    "options": [
+      "mango",
+      "chicken",
+      "pig",
+      "dog",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"motorcycle\", \"tram\", \"armchair\", and \"car\", what is the word least associated with \"vehicles\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "train",
+      "motorcycle",
+      "tram",
+      "car"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"train\", \"tractor\", \"car\", \"bus\", \"melon\": ",
+    "output": "melon",
+    "options": [
+      "melon",
+      "train",
+      "tractor",
+      "car",
+      "bus"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"tractor\", \"pants\", \"bus\", \"tram\", \"train\": ",
+    "output": "pants",
+    "options": [
+      "pants",
+      "tractor",
+      "bus",
+      "tram",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"banana\", \"melon\", \"pineapple\", \"pants\", and \"mango\", what is the word least associated with \"fruit\"? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "banana",
+      "melon",
+      "pineapple",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"dog\", \"fish\", \"cat\", \"socks\", \"mouse\": ",
+    "output": "socks",
+    "options": [
+      "socks",
+      "dog",
+      "fish",
+      "cat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"cow\", \"chair\", \"cat\", \"goat\", \"dog\": ",
+    "output": "chair",
+    "options": [
+      "chair",
+      "cow",
+      "cat",
+      "goat",
+      "dog"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"dog\", \"goat\", \"mouse\", \"table\", \"cat\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "dog",
+      "goat",
+      "mouse",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"peach\", \"rabbit\", \"watermelon\", \"strawberry\", \"mango\": ",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "peach",
+      "watermelon",
+      "strawberry",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"mouse\", \"fish\", \"bus\", \"cat\", and \"cow\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "mouse",
+      "fish",
+      "cat",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"watermelon\", \"dog\", \"chicken\", \"goat\", and \"mouse\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "dog",
+      "chicken",
+      "goat",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"armchair\", \"sofa\", \"chair\", \"bookcase\", \"van\": ",
+    "output": "van",
+    "options": [
+      "van",
+      "armchair",
+      "sofa",
+      "chair",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chair\", \"sofa\", \"bookcase\", \"sweater\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "chair",
+      "sofa",
+      "bookcase",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"car\", \"bookcase\", \"tractor\", \"train\", and \"motorcycle\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "car",
+      "tractor",
+      "train",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"goat\", \"shorts\", \"dress\", \"jacket\", \"pants\": ",
+    "output": "goat",
+    "options": [
+      "goat",
+      "shorts",
+      "dress",
+      "jacket",
+      "pants"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"train\", \"motorcycle\", \"tram\", \"peach\", \"car\": ",
+    "output": "peach",
+    "options": [
+      "peach",
+      "train",
+      "motorcycle",
+      "tram",
+      "car"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"train\", \"motorcycle\", \"tram\", \"cow\", \"van\": ",
+    "output": "cow",
+    "options": [
+      "cow",
+      "train",
+      "motorcycle",
+      "tram",
+      "van"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"pig\", \"goat\", \"tractor\", \"fish\", \"dog\": ",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "pig",
+      "goat",
+      "fish",
+      "dog"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"socks\", \"bed\", \"jacket\", \"sweater\", \"pants\": ",
+    "output": "bed",
+    "options": [
+      "bed",
+      "socks",
+      "jacket",
+      "sweater",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pig\", \"goat\", \"fish\", \"jacket\", and \"duck\", what is the word least associated with \"animals\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "pig",
+      "goat",
+      "fish",
+      "duck"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"bed\", \"desk\", \"sofa\", \"armchair\", \"van\": ",
+    "output": "van",
+    "options": [
+      "van",
+      "bed",
+      "desk",
+      "sofa",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"desk\", \"sofa\", \"couch\", and \"table\", what is the word least associated with \"furniture\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "desk",
+      "sofa",
+      "couch",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"sofa\", \"chair\", \"coat\", \"bed\", and \"armchair\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "sofa",
+      "chair",
+      "bed",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"car\", \"jacket\", \"coat\", \"sweater\", \"jeans\": ",
+    "output": "car",
+    "options": [
+      "car",
+      "jacket",
+      "coat",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pear\", \"melon\", \"pineapple\", \"van\", \"peach\": ",
+    "output": "van",
+    "options": [
+      "van",
+      "pear",
+      "melon",
+      "pineapple",
+      "peach"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bookcase\", \"sofa\", \"bed\", \"tractor\", and \"chair\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "bookcase",
+      "sofa",
+      "bed",
+      "chair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"mouse\", \"shirt\", \"skirt\", and \"sweater\", what is the word least associated with \"clothes\"? A:",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "shorts",
+      "shirt",
+      "skirt",
+      "sweater"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pear\", \"mango\", \"lemon\", \"bus\", and \"apple\", what is the word least associated with \"fruit\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "pear",
+      "mango",
+      "lemon",
+      "apple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"bed\", \"dress\", \"pants\", \"skirt\", \"socks\": ",
+    "output": "bed",
+    "options": [
+      "bed",
+      "dress",
+      "pants",
+      "skirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"duck\", \"rabbit\", \"dog\", and \"cat\", what is the word least associated with \"animals\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "duck",
+      "rabbit",
+      "dog",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"truck\", \"train\", \"motorcycle\", \"van\", \"shirt\": ",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "truck",
+      "train",
+      "motorcycle",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"fish\", \"dog\", \"coat\", \"pig\", and \"chicken\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "fish",
+      "dog",
+      "pig",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pineapple\", \"pear\", \"apple\", \"jeans\", and \"watermelon\", what is the word least associated with \"fruit\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "pineapple",
+      "pear",
+      "apple",
+      "watermelon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sofa\", \"table\", \"bus\", \"bookcase\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "sofa",
+      "table",
+      "bookcase",
+      "bed"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"table\", \"pear\", \"apple\", \"watermelon\", \"mango\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "pear",
+      "apple",
+      "watermelon",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pants\", \"coat\", \"apple\", \"jeans\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "pants",
+      "coat",
+      "jeans",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"sofa\", \"desk\", \"chair\", \"jacket\", and \"bed\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "sofa",
+      "desk",
+      "chair",
+      "bed"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"table\", \"bed\", \"bookcase\", \"desk\", \"lemon\": ",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "table",
+      "bed",
+      "bookcase",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"jacket\", \"tram\", \"pants\", \"shirt\", and \"socks\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "jacket",
+      "pants",
+      "shirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pineapple\", \"watermelon\", \"pear\", \"rabbit\", \"mango\": ",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "pineapple",
+      "watermelon",
+      "pear",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chair\", \"table\", \"pants\", \"desk\", and \"armchair\", what is the word least associated with \"furniture\"? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "chair",
+      "table",
+      "desk",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"mango\", \"melon\", \"lemon\", \"skirt\", \"banana\": ",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "mango",
+      "melon",
+      "lemon",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\", \"banana\", \"mango\", \"peach\", and \"melon\", what is the word least associated with \"fruit\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "banana",
+      "mango",
+      "peach",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"motorcycle\", \"bed\", \"truck\", \"tram\", and \"train\", what is the word least associated with \"vehicles\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "motorcycle",
+      "truck",
+      "tram",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"dress\", \"bed\", \"coat\", \"sweater\", and \"pants\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "dress",
+      "coat",
+      "sweater",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mouse\", \"fish\", \"pig\", \"cow\", and \"bed\", what is the word least associated with \"animals\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "mouse",
+      "fish",
+      "pig",
+      "cow"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"chair\", \"bed\", \"bookcase\", \"pear\", \"table\": ",
+    "output": "pear",
+    "options": [
+      "pear",
+      "chair",
+      "bed",
+      "bookcase",
+      "table"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shirt\", \"sweater\", \"skirt\", \"bus\", and \"jacket\", what is the word least associated with \"clothes\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "shirt",
+      "sweater",
+      "skirt",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"strawberry\", \"train\", \"apple\", \"peach\", and \"melon\", what is the word least associated with \"fruit\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "strawberry",
+      "apple",
+      "peach",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"bookcase\", \"desk\", \"chair\", \"sofa\", and \"melon\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "bookcase",
+      "desk",
+      "chair",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"jeans\", \"bus\", \"tractor\", \"tram\", and \"motorcycle\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "bus",
+      "tractor",
+      "tram",
+      "motorcycle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sofa\", \"chair\", \"shorts\", \"couch\", and \"armchair\", what is the word least associated with \"furniture\"? A:",
+    "output": "shorts",
+    "options": [
+      "shorts",
+      "sofa",
+      "chair",
+      "couch",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"table\", \"chair\", \"armchair\", and \"goat\", what is the word least associated with \"furniture\"? A:",
+    "output": "goat",
+    "options": [
+      "goat",
+      "bookcase",
+      "table",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"jacket\", \"socks\", \"shorts\", \"coat\", and \"van\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "jacket",
+      "socks",
+      "shorts",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"banana\", \"jeans\", \"pear\", \"lemon\", and \"pineapple\", what is the word least associated with \"fruit\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "banana",
+      "pear",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"apple\", \"mango\", \"melon\", \"pear\", and \"skirt\", what is the word least associated with \"fruit\"? A:",
+    "output": "skirt",
+    "options": [
+      "skirt",
+      "apple",
+      "mango",
+      "melon",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"watermelon\", \"sweater\", \"shirt\", \"coat\", and \"pants\"? A:",
+    "output": "watermelon",
+    "options": [
+      "watermelon",
+      "sweater",
+      "shirt",
+      "coat",
+      "pants"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"train\", \"mouse\", \"motorcycle\", \"van\", \"tractor\": ",
+    "output": "mouse",
+    "options": [
+      "mouse",
+      "train",
+      "motorcycle",
+      "van",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"coat\", \"cat\", \"goat\", \"cow\", \"dog\": ",
+    "output": "coat",
+    "options": [
+      "coat",
+      "cat",
+      "goat",
+      "cow",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"bus\", \"mouse\", \"goat\", \"cow\", and \"cat\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "mouse",
+      "goat",
+      "cow",
+      "cat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"bed\", \"watermelon\", \"pear\", \"peach\", \"mango\": ",
+    "output": "bed",
+    "options": [
+      "bed",
+      "watermelon",
+      "pear",
+      "peach",
+      "mango"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"pig\", \"cow\", \"mouse\", \"duck\", \"table\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "pig",
+      "cow",
+      "mouse",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"rabbit\", \"car\", \"tram\", \"tractor\", and \"van\"? A:",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "car",
+      "tram",
+      "tractor",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"sweater\", \"shirt\", \"coat\", \"tractor\", and \"pants\"? A:",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "sweater",
+      "shirt",
+      "coat",
+      "pants"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"mango\", \"cat\", \"fish\", \"pig\", \"duck\": ",
+    "output": "mango",
+    "options": [
+      "mango",
+      "cat",
+      "fish",
+      "pig",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"table\", \"rabbit\", \"couch\", and \"desk\", what is the word least associated with \"furniture\"? A:",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "bookcase",
+      "table",
+      "couch",
+      "desk"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"bookcase\", \"tram\", \"tractor\", \"motorcycle\", \"bus\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "tram",
+      "tractor",
+      "motorcycle",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"apple\", \"peach\", \"tram\", \"melon\", and \"lemon\"? A:",
+    "output": "tram",
+    "options": [
+      "tram",
+      "apple",
+      "peach",
+      "melon",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"car\", \"truck\", \"motorcycle\", \"bus\", \"rabbit\": ",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "car",
+      "truck",
+      "motorcycle",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"banana\", \"couch\", \"armchair\", \"bookcase\", and \"bed\"? A:",
+    "output": "banana",
+    "options": [
+      "banana",
+      "couch",
+      "armchair",
+      "bookcase",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"coat\", \"duck\", \"jeans\", \"socks\", and \"dress\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "coat",
+      "jeans",
+      "socks",
+      "dress"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"chicken\", \"jacket\", \"jeans\", \"shirt\", \"shorts\": ",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "jacket",
+      "jeans",
+      "shirt",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"chicken\", \"fish\", \"cow\", \"goat\", and \"pear\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "chicken",
+      "fish",
+      "cow",
+      "goat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"socks\", \"sweater\", \"shorts\", \"bookcase\", and \"coat\", what is the word least associated with \"clothes\"? A:",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "socks",
+      "sweater",
+      "shorts",
+      "coat"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"pineapple\", \"car\", \"tractor\", \"train\", \"bus\": ",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "car",
+      "tractor",
+      "train",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"skirt\", \"jeans\", \"pants\", \"shirt\", and \"table\", what is the word least associated with \"clothes\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "skirt",
+      "jeans",
+      "pants",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"strawberry\", \"mango\", \"jacket\", \"pineapple\", and \"banana\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "strawberry",
+      "mango",
+      "pineapple",
+      "banana"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shorts\", \"socks\", \"bus\", \"jacket\", and \"shirt\", what is the word least associated with \"clothes\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "shorts",
+      "socks",
+      "jacket",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"tractor\", \"cow\", \"van\", \"train\", \"bus\": ",
+    "output": "cow",
+    "options": [
+      "cow",
+      "tractor",
+      "van",
+      "train",
+      "bus"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"coat\", \"bed\", \"table\", \"chair\", \"armchair\": ",
+    "output": "coat",
+    "options": [
+      "coat",
+      "bed",
+      "table",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"truck\", \"van\", \"motorcycle\", \"armchair\", and \"tractor\", what is the word least associated with \"vehicles\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "truck",
+      "van",
+      "motorcycle",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"banana\", \"jeans\", \"pear\", \"lemon\", and \"pineapple\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "banana",
+      "pear",
+      "lemon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"motorcycle\", \"tractor\", \"coat\", \"tram\", \"car\": ",
+    "output": "coat",
+    "options": [
+      "coat",
+      "motorcycle",
+      "tractor",
+      "tram",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"coat\", \"jacket\", \"fish\", \"skirt\", and \"socks\", what is the word least associated with \"clothes\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "coat",
+      "jacket",
+      "skirt",
+      "socks"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"watermelon\", \"cat\", \"pineapple\", \"strawberry\", and \"mango\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "watermelon",
+      "pineapple",
+      "strawberry",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"truck\", \"desk\", \"couch\", \"bed\", and \"table\", what is the word least associated with \"furniture\"? A:",
+    "output": "truck",
+    "options": [
+      "truck",
+      "desk",
+      "couch",
+      "bed",
+      "table"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"jeans\", \"coat\", \"sweater\", \"cat\", \"skirt\": ",
+    "output": "cat",
+    "options": [
+      "cat",
+      "jeans",
+      "coat",
+      "sweater",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"van\", \"tractor\", \"truck\", \"bus\", and \"jacket\", what is the word least associated with \"vehicles\"? A:",
+    "output": "jacket",
+    "options": [
+      "jacket",
+      "van",
+      "tractor",
+      "truck",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mouse\", \"rabbit\", \"desk\", \"cat\", and \"duck\", what is the word least associated with \"animals\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "mouse",
+      "rabbit",
+      "cat",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chicken\", \"train\", \"bus\", \"tractor\", and \"truck\", what is the word least associated with \"vehicles\"? A:",
+    "output": "chicken",
+    "options": [
+      "chicken",
+      "train",
+      "bus",
+      "tractor",
+      "truck"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bus\", \"coat\", \"pants\", \"socks\", and \"shirt\", what is the word least associated with \"clothes\"? A:",
+    "output": "bus",
+    "options": [
+      "bus",
+      "coat",
+      "pants",
+      "socks",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"bookcase\", \"duck\", \"dog\", \"cat\", \"chicken\": ",
+    "output": "bookcase",
+    "options": [
+      "bookcase",
+      "duck",
+      "dog",
+      "cat",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"jeans\", \"shorts\", \"socks\", \"table\", \"skirt\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "jeans",
+      "shorts",
+      "socks",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"socks\", \"skirt\", \"jeans\", \"shirt\", \"desk\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "socks",
+      "skirt",
+      "jeans",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"motorcycle\", \"van\", \"tram\", \"tractor\", and \"rabbit\", what is the word least associated with \"vehicles\"? A:",
+    "output": "rabbit",
+    "options": [
+      "rabbit",
+      "motorcycle",
+      "van",
+      "tram",
+      "tractor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"table\", \"fish\", \"bookcase\", \"desk\", and \"armchair\", what is the word least associated with \"furniture\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "table",
+      "bookcase",
+      "desk",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"truck\", \"motorcycle\", \"car\", \"armchair\", and \"van\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "truck",
+      "motorcycle",
+      "car",
+      "van"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"melon\", \"truck\", \"car\", \"tractor\", and \"train\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "truck",
+      "car",
+      "tractor",
+      "train"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"melon\", \"pear\", \"pineapple\", \"strawberry\", and \"jeans\", what is the word least associated with \"fruit\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "melon",
+      "pear",
+      "pineapple",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"train\", \"cat\", \"cow\", \"rabbit\", and \"duck\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "cat",
+      "cow",
+      "rabbit",
+      "duck"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"table\", \"fish\", \"bookcase\", \"desk\", \"armchair\": ",
+    "output": "fish",
+    "options": [
+      "fish",
+      "table",
+      "bookcase",
+      "desk",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"peach\", \"strawberry\", \"mango\", \"dog\", and \"pear\", what is the word least associated with \"fruit\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "peach",
+      "strawberry",
+      "mango",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tractor\", \"truck\", \"car\", \"shirt\", and \"tram\", what is the word least associated with \"vehicles\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "tractor",
+      "truck",
+      "car",
+      "tram"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"skirt\", \"jeans\", \"pants\", \"shirt\", \"table\": ",
+    "output": "table",
+    "options": [
+      "table",
+      "skirt",
+      "jeans",
+      "pants",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"rabbit\", \"cow\", \"chair\", \"goat\", and \"dog\"? A:",
+    "output": "chair",
+    "options": [
+      "chair",
+      "rabbit",
+      "cow",
+      "goat",
+      "dog"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"skirt\", \"banana\", \"jacket\", \"sweater\", \"jeans\": ",
+    "output": "banana",
+    "options": [
+      "banana",
+      "skirt",
+      "jacket",
+      "sweater",
+      "jeans"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\", \"banana\", \"strawberry\", \"pants\", and \"pineapple\", what is the word least associated with \"fruit\"? A:",
+    "output": "pants",
+    "options": [
+      "pants",
+      "mango",
+      "banana",
+      "strawberry",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bookcase\", \"chair\", \"jeans\", \"table\", and \"bed\", what is the word least associated with \"furniture\"? A:",
+    "output": "jeans",
+    "options": [
+      "jeans",
+      "bookcase",
+      "chair",
+      "table",
+      "bed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"peach\", \"socks\", \"pants\", \"coat\", and \"shirt\", what is the word least associated with \"clothes\"? A:",
+    "output": "peach",
+    "options": [
+      "peach",
+      "socks",
+      "pants",
+      "coat",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"train\", \"tractor\", \"car\", \"bus\", and \"melon\"? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "train",
+      "tractor",
+      "car",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"couch\", \"table\", \"bookcase\", \"sofa\", and \"lemon\", what is the word least associated with \"furniture\"? A:",
+    "output": "lemon",
+    "options": [
+      "lemon",
+      "couch",
+      "table",
+      "bookcase",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tractor\", \"bus\", \"van\", \"tram\", and \"apple\", what is the word least associated with \"vehicles\"? A:",
+    "output": "apple",
+    "options": [
+      "apple",
+      "tractor",
+      "bus",
+      "van",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fish\", \"pear\", \"chicken\", \"rabbit\", and \"duck\", what is the word least associated with \"animals\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "fish",
+      "chicken",
+      "rabbit",
+      "duck"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"banana\", \"peach\", \"melon\", \"cow\", \"strawberry\": ",
+    "output": "cow",
+    "options": [
+      "cow",
+      "banana",
+      "peach",
+      "melon",
+      "strawberry"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"fruit\" - \"pineapple\", \"pear\", \"watermelon\", \"lemon\", \"desk\": ",
+    "output": "desk",
+    "options": [
+      "desk",
+      "pineapple",
+      "pear",
+      "watermelon",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\", \"shirt\", \"shorts\", \"pants\", and \"skirt\", what is the word least associated with \"clothes\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "shirt",
+      "shorts",
+      "pants",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"pineapple\", \"tram\", \"van\", \"tractor\", and \"car\"? A:",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "tram",
+      "van",
+      "tractor",
+      "car"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"clothes\" - \"socks\", \"motorcycle\", \"skirt\", \"shorts\", \"coat\": ",
+    "output": "motorcycle",
+    "options": [
+      "motorcycle",
+      "socks",
+      "skirt",
+      "shorts",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"furniture\" from the words \"couch\", \"duck\", \"armchair\", \"bookcase\", and \"sofa\"? A:",
+    "output": "duck",
+    "options": [
+      "duck",
+      "couch",
+      "armchair",
+      "bookcase",
+      "sofa"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\", \"pineapple\", \"lemon\", \"melon\", and \"mango\", what is the word least associated with \"fruit\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "pineapple",
+      "lemon",
+      "melon",
+      "mango"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"fruit\" from the words \"armchair\", \"strawberry\", \"banana\", \"watermelon\", and \"pineapple\"? A:",
+    "output": "armchair",
+    "options": [
+      "armchair",
+      "strawberry",
+      "banana",
+      "watermelon",
+      "pineapple"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"animals\" - \"cat\", \"chicken\", \"goat\", \"tractor\", \"fish\": ",
+    "output": "tractor",
+    "options": [
+      "tractor",
+      "cat",
+      "chicken",
+      "goat",
+      "fish"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"furniture\" - \"tram\", \"desk\", \"couch\", \"chair\", \"armchair\": ",
+    "output": "tram",
+    "options": [
+      "tram",
+      "desk",
+      "couch",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"pineapple\", \"tram\", \"van\", \"tractor\", \"car\": ",
+    "output": "pineapple",
+    "options": [
+      "pineapple",
+      "tram",
+      "van",
+      "tractor",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"clothes\" from the words \"pants\", \"van\", \"socks\", \"dress\", and \"shorts\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "pants",
+      "socks",
+      "dress",
+      "shorts"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"vehicles\" from the words \"motorcycle\", \"tractor\", \"coat\", \"tram\", and \"car\"? A:",
+    "output": "coat",
+    "options": [
+      "coat",
+      "motorcycle",
+      "tractor",
+      "tram",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"coat\", \"jacket\", \"table\", \"jeans\", and \"socks\", what is the word least associated with \"clothes\"? A:",
+    "output": "table",
+    "options": [
+      "table",
+      "coat",
+      "jacket",
+      "jeans",
+      "socks"
+    ]
+  },
+  {
+    "input": "Of the following words, choose the word least associated with the word \"vehicles\" - \"car\", \"dog\", \"van\", \"motorcycle\", \"tram\": ",
+    "output": "dog",
+    "options": [
+      "dog",
+      "car",
+      "van",
+      "motorcycle",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pear\", \"car\", \"train\", \"motorcycle\", and \"bus\", what is the word least associated with \"vehicles\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "car",
+      "train",
+      "motorcycle",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"car\", \"pig\", \"fish\", \"duck\", and \"chicken\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "pig",
+      "fish",
+      "duck",
+      "chicken"
+    ]
+  },
+  {
+    "input": "Q: What is the word least related to the word \"animals\" from the words \"desk\", \"cat\", \"mouse\", \"duck\", and \"goat\"? A:",
+    "output": "desk",
+    "options": [
+      "desk",
+      "cat",
+      "mouse",
+      "duck",
+      "goat"
+    ]
+  }
+]
