@@ -1,0 +1,244 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Installieren Sie die neueste PowerShell für neue Funktionen und Verbesserungen! https://aka.ms/PSWindows
+
+PS D:\Uni\evaluation-pipeline-2025> bash ./eval_zero_shot.sh D:/Uni/PJS/data/models/full_data_train/checkpoint-13500 causal
+causal
+ 93%|██████████████████████████████████████████████████████████████████████████▌     | 872/936 [50:22<06:17,  5.89s/it]
+100%|████████████████████████████████████████████████████████████████████████████████| 936/936 [54:21<00:00,  3.48s/it]
+1.0     74.12
+
+TEMPERATURE: 1.00
+
+### FIELD ACCURACY
+syntax: 70.00
+morphology: 87.81
+syntax/semantics: 67.89
+semantics: 67.41
+
+### UID ACCURACY
+adjunct_island: 78.34
+anaphor_gender_agreement: 92.38
+anaphor_number_agreement: 95.49
+animate_subject_passive: 75.87
+animate_subject_trans: 87.54
+causative: 77.87
+complex_NP_island: 42.91
+coordinate_structure_constraint_complex_left_branch: 49.89
+coordinate_structure_constraint_object_extraction: 73.13
+determiner_noun_agreement_1: 98.92
+determiner_noun_agreement_2: 97.64
+determiner_noun_agreement_irregular_1: 79.59
+determiner_noun_agreement_irregular_2: 89.02
+determiner_noun_agreement_with_adjective_1: 94.43
+determiner_noun_agreement_with_adj_2: 91.82
+determiner_noun_agreement_with_adj_irregular_1: 82.03
+determiner_noun_agreement_with_adj_irregular_2: 81.90
+distractor_agreement_relational_noun: 76.14
+distractor_agreement_relative_clause: 65.56
+drop_argument: 71.52
+ellipsis_n_bar_1: 78.80
+ellipsis_n_bar_2: 79.83
+existential_there_object_raising: 67.86
+existential_there_quantifiers_1: 96.88
+existential_there_quantifiers_2: 49.29
+existential_there_subject_raising: 80.09
+expletive_it_object_raising: 77.87
+inchoative: 65.96
+intransitive: 75.58
+irregular_past_participle_adjectives: 86.89
+irregular_past_participle_verbs: 86.31
+irregular_plural_subject_verb_agreement_1: 87.69
+irregular_plural_subject_verb_agreement_2: 90.81
+left_branch_island_echo_question: 50.79
+left_branch_island_simple_question: 54.89
+matrix_question_npi_licensor_present: 52.74
+npi_present_1: 46.09
+npi_present_2: 55.14
+only_npi_licensor_present: 68.37
+only_npi_scope: 85.07
+passive_1: 87.02
+passive_2: 84.72
+principle_A_case_1: 99.89
+principle_A_case_2: 87.32
+principle_A_c_command: 52.11
+principle_A_domain_1: 80.63
+principle_A_domain_2: 64.04
+principle_A_domain_3: 56.43
+principle_A_reconstruction: 20.99
+regular_plural_subject_verb_agreement_1: 90.22
+regular_plural_subject_verb_agreement_2: 86.56
+sentential_negation_npi_licensor_present: 96.52
+sentential_negation_npi_scope: 50.86
+sentential_subject_island: 39.23
+superlative_quantifiers_1: 89.17
+superlative_quantifiers_2: 51.62
+tough_vs_raising_1: 58.76
+tough_vs_raising_2: 74.67
+transitive: 87.90
+wh_island: 77.40
+wh_questions_object_gap: 79.51
+wh_questions_subject_gap: 91.43
+wh_questions_subject_gap_long_distance: 90.32
+wh_vs_that_no_gap: 96.40
+wh_vs_that_no_gap_long_distance: 96.80
+wh_vs_that_with_gap: 31.45
+wh_vs_that_with_gap_long_distance: 5.16
+
+### LINGUISTICS_TERM ACCURACY
+island_effects: 58.53
+anaphor_agreement: 93.90
+s-selection: 81.79
+argument_structure: 78.62
+determiner_noun_agreement: 90.12
+subject_verb_agreement: 82.99
+ellipsis: 79.33
+control_raising: 71.65
+quantifiers: 71.78
+irregular_forms: 86.60
+npi_licensing: 64.81
+binding: 65.44
+filler_gap_dependency: 69.44
+
+### AVERAGE ACCURACY
+74.12
+
+100%|██████████████████████████████████████████████████████████████████████████████████| 82/82 [07:01<00:00,  5.14s/it]
+1.0     63.95
+
+TEMPERATURE: 1.00
+
+### FIELD ACCURACY
+supplement: 73.00
+
+### UID ACCURACY
+hypernym: 49.64
+qa_congruence_easy: 67.19
+qa_congruence_tricky: 50.91
+subject_aux_inversion: 79.13
+turn_taking: 72.86
+
+### LINGUISTICS_TERM ACCURACY
+supplement: 73.00
+
+### AVERAGE ACCURACY
+63.95
+
+100%|████████████████████████████████████████████████████████████████████████████████| 120/120 [08:29<00:00,  4.24s/it]
+1.0     51.36
+
+TEMPERATURE: 1.00
+
+### UID ACCURACY
+agent-properties: 49.73
+material-dynamics: 54.94
+material-properties: 48.82
+physical-dynamics: 56.67
+physical-interactions: 50.00
+physical-relations: 47.43
+quantitative-properties: 55.10
+social-interactions: 51.02
+social-properties: 49.39
+social-relations: 49.87
+spatial-relations: 52.04
+
+### CONTEXT_TYPE ACCURACY
+direct: 50.70
+indirect: 50.46
+
+### CONTEXT_CONTRAST ACCURACY
+antonym: 49.85
+negation: 51.58
+other: 50.61
+variable swap: 49.84
+game: 55.00
+material: 54.52
+variable_swap: 46.67
+number: 58.75
+active-passive: 50.00
+
+### TARGET_CONTRAST ACCURACY
+concept swap: 50.76
+variable swap: 50.21
+
+### AVERAGE ACCURACY
+51.36
+
+  0%|                                                                                          | 0/149 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\Uni\evaluation-pipeline-2025\evaluation_pipeline\sentence_zero_shot\run.py", line 178, in <module>
+    main()
+  File "D:\Uni\evaluation-pipeline-2025\evaluation_pipeline\sentence_zero_shot\run.py", line 154, in main
+    results, predictions = compute_results(args, model, dataloader, temperatures)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Uni\evaluation-pipeline-2025\evaluation_pipeline\sentence_zero_shot\compute_results.py", line 35, in compute_results
+    return compute_causal_results(args, model, dataloader, temperatures)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Uni\evaluation-pipeline-2025\evaluation_pipeline\sentence_zero_shot\compute_results.py", line 85, in compute_causal_results
+    logits = model(
+             ^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 1062, in forward
+    transformer_outputs = self.transformer(
+                          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\models\gpt2\modeling_gpt2.py", line 820, in forward
+    position_embeds = self.wpe(position_ids)
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\sparse.py", line 190, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "C:\Users\laure\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\functional.py", line 2551, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: index out of range in self
+100%|████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:08<00:00,  2.23s/it]
+1.0     7.00
+
+TEMPERATURE: 1.00
+
+### RATIO ACCURACY
+0.5454545454545454: 0.00
+0.6363636363636364: 4.35
+0.9090909090909091: 22.22
+0.7272727272727273: 0.00
+0.8181818181818182: 22.22
+1.0: 25.00
+0.7: 100.00
+0.2727272727272727: 0.00
+0.0: 3.23
+0.09090909090909091: 0.00
+0.18181818181818182: 0.00
+0.45454545454545453: 0.00
+0.36363636363636365: 0.00
+0.625: 0.00
+
+### UID ACCURACY
+wug_adj_nominalization: 7.00
+
+### AVERAGE ACCURACY
+7.00
+
+100%|██████████████████████████████████████████████████████████████████████████████| 1726/1726 [04:09<00:00,  6.92it/s]
+EYE TRACKING SCORE: 0.12
+SELF-PACED READING SCORE: 0.05
+PS D:\Uni\evaluation-pipeline-2025>
