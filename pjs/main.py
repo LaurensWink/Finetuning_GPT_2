@@ -17,6 +17,10 @@ data = Data()
 # data.save_dataset_state("data/dataset_splits")
 data.load_split("data/dataset_splits/LMentry_split")
 
+### DATASET STATS ###
+token_counts = data.get_token_count()
+logger.info(token_counts)
+
 ###CHAR BASE-MODEL###
 BASE_MODEL_NAME = "phonemetransformers/GPT2-85M-CHAR-TXT"
 tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')

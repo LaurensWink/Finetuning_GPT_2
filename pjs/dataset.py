@@ -208,3 +208,21 @@ class Data():
             "labels": torch.cat(labels, dim=0),
         }
     
+
+    def get_token_count(self) -> dict:
+        '''Function to return tokencount of current dataset'''
+        test_token_count = 0
+        train_token_count = 0
+
+        if not self.split_data:
+            logger.error('ERROR: No valid Datasplit found')
+            return {'ERROR': 'NO DATA FOUND'}
+        
+        for file in self.split_data:
+            for index, row in self.split_data[file]['test'].iterrows():
+                test_token_count = len(row['input'].split()) + len(str(row['output']).split()) + test_token_count
+
+            for index, row in self.split_data[file]['train'].iterrows():
+                train_token_count = len(row['input'].split()) + len(str(row['output']).split()) + train_token_count
+                
+        return {'test_token_count': test_token_count, 'train_token_count': train_token_count, 'total_token_count': test_token_count+train_token_count}
