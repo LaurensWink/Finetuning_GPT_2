@@ -7,27 +7,27 @@ tasks = {
         "Gib von den Zahlen {number1} und {number2} die größere an:\n"
         ],
     "first_alphabetically_consecutive_first_letter": [
-        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" steht zuerst?\nA:",
+        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" kommt zuerst?\nA:",
         "F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, \"{word1}\" oder \"{word2}\"?\nA:",
         "Welches von den Wörtern \"{word1}\" und \"{word2}\", kommt alphabetisch zuerst?\n"
     ],
     "first_alphabetically_different_first_letter": [
-        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" steht zuerst?\nA:",
+        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" kommt zuerst?\nA:",
         "F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, \"{word1}\" oder \"{word2}\"?\nA:",
         "Welches von den Wörtern \"{word1}\" und \"{word2}\", kommt alphabetisch zuerst?\n"
     ],
     "first_alphabetically_far_first_letter": [
-        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" steht zuerst?\nA:",
+        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" kommt zuerst?\nA:",
         "F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, \"{word1}\" oder \"{word2}\"?\nA:",
         "Welches von den Wörtern \"{word1}\" und \"{word2}\", kommt alphabetisch zuerst?\n"
     ],
     "first_alphabetically_same_first_letter": [
-        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" steht zuerst?\nA:",
+        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" kommt zuerst?\nA:",
         "F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, \"{word1}\" oder \"{word2}\"?\nA:",
         "Welches von den Wörtern \"{word1}\" und \"{word2}\", kommt alphabetisch zuerst?\n"
     ],
     "first_alphabetically": [
-        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" steht zuerst?\nA:",
+        "F: In alphabetischer Reihenfolge, welches der Wörter \"{word1}\" und \"{word2}\" kommt zuerst?\nA:",
         "F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, \"{word1}\" oder \"{word2}\"?\nA:",
         "Welches von den Wörtern \"{word1}\" und \"{word2}\", kommt alphabetisch zuerst?\n"
     ],
