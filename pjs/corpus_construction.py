@@ -2,6 +2,7 @@ import random
 from loguru import logger
 
 def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, examples_per_template = 1000):
+    '''all number_tasks type tasks'''
     global_index = 0
     data_set = {
         "settings": {
@@ -26,6 +27,7 @@ def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, 
             data_set["examples"][global_index]["metadata"]["answer"] = answer
 
 def first_alphabetically(file_name: str, templates: list[str], word_list: list[list[str], list[str]], eval_funktion, examples_per_template = 1000):
+    '''all first_alphabetically type tasks'''
     global_index = 0
     word_tupel_list = []
     data_set = {
@@ -59,3 +61,31 @@ def first_alphabetically(file_name: str, templates: list[str], word_list: list[l
             data_set["examples"][global_index]["metadata"]["word1"] = word1
             data_set["examples"][global_index]["metadata"]["word2"] = word2
             data_set["examples"][global_index]["metadata"]["answer"] = answer
+
+def order_task(file_name: str, templates: list[str], task_data: list[list[str]], task_type: str, eval_funktion, examples_per_template = 1000):
+    '''first_letter/first_word/last_letter/last_word tasks (task_type can be "word" or "sentence")'''
+    if task_type not in ("word", "sentence"):
+        raise ValueError("Invalide task_type. Only 'word' or 'sentence' are accepted.")
+    
+    global_index = 0
+    data_set = {
+        "settings": {
+            "name": file_name,
+            "num_examples_per_template": examples_per_template,
+            "input_templates": templates
+        },
+        "examples": {
+            global_index:{}
+        }
+    }
+
+    for question in templates:
+        for _ in range(examples_per_template):
+            subject = task_data[global_index]
+            global_index = global_index+1
+            answer = eval_funktion(subject)
+            input = question.format(**{task_type: subject})
+            data_set["examples"][global_index]["input"] = input
+            data_set["examples"][global_index]["metadata"][task_type] = subject
+            data_set["examples"][global_index]["metadata"]["answer"] = answer
+
