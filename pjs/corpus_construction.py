@@ -10,9 +10,7 @@ def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, 
             "num_examples_per_template": examples_per_template,
             "input_templates": templates
         },
-        "examples": {
-            global_index:{}
-        }
+        "examples": {}
     }
 
     for question in templates:
@@ -21,6 +19,7 @@ def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, 
             n1, n2 = random.sample(range(1000), 2)
             answer = eval_funktion(n1,n2)
             input = question.format(n1 = n1, n2 = n2)
+            data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
             data_set["examples"][global_index]["metadata"]["n1"] = n1
             data_set["examples"][global_index]["metadata"]["n2"] = n2
@@ -36,9 +35,7 @@ def first_alphabetically(file_name: str, templates: list[str], word_list: list[l
             "num_examples_per_template": examples_per_template,
             "input_templates": templates
         },
-        "examples": {
-            global_index:{}
-        }
+        "examples": {}
     }
 
     for index_first in range(len(word_list[0])):
@@ -57,6 +54,7 @@ def first_alphabetically(file_name: str, templates: list[str], word_list: list[l
             global_index = global_index+1
             answer = eval_funktion(word1,word2)
             input = question.format(word1 = word1, word2 = word2)
+            data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
             data_set["examples"][global_index]["metadata"]["word1"] = word1
             data_set["examples"][global_index]["metadata"]["word2"] = word2
@@ -75,7 +73,6 @@ def order_task(file_name: str, templates: list[str], task_data: list[list[str]],
             "input_templates": templates
         },
         "examples": {
-            global_index:{}
         }
     }
 
@@ -85,7 +82,64 @@ def order_task(file_name: str, templates: list[str], task_data: list[list[str]],
             global_index = global_index+1
             answer = eval_funktion(subject)
             input = question.format(**{task_type: subject})
+            data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
             data_set["examples"][global_index]["metadata"][task_type] = subject
             data_set["examples"][global_index]["metadata"]["answer"] = answer
 
+def ammount_tasks(file_name: str, templates: list[str], task_data: list[(list[str]), (list[str])], eval_funktion, examples_per_template = 1000):
+    '''all more_/less_letters tasks'''
+    global_index = 0
+    word_tupel_list = []
+    data_set = {
+        "settings": {
+            "name": file_name,
+            "num_examples_per_template": examples_per_template,
+            "input_templates": templates
+        },
+        "examples": {
+        }
+    }
+
+    for tupel in task_data:
+        for word1 in tupel[0]:
+            for word2 in tupel[1]:
+                word_tupel_list.append((word1, word2))
+
+    for question in templates:
+        for _ in range(examples_per_template):
+            n1, n2 = random.sample(range(2), 2)
+            word1 = word_tupel_list[global_index][n1]
+            word2 = word_tupel_list[global_index][n2]
+            global_index = global_index+1
+            answer = eval_funktion(word1,word2)
+            input = question.format(word1 = word1, word2 = word2)
+            data_set["examples"][global_index] = {}
+            data_set["examples"][global_index]["input"] = input
+            data_set["examples"][global_index]["metadata"]["word1"] = word1
+            data_set["examples"][global_index]["metadata"]["word2"] = word2
+            data_set["examples"][global_index]["metadata"]["answer"] = answer
+
+def before_after_tasks(file_name: str, templates: list[str], task_data: list[list[str]], eval_funktion, examples_per_template = 1000):
+    '''word_before/word_after tasks'''
+    global_index = 0
+    data_set = {
+        "settings": {
+            "name": file_name,
+            "num_examples_per_template": examples_per_template,
+            "input_templates": templates
+        },
+        "examples": {
+        }
+    }
+
+    for question in templates:
+        for _ in range(examples_per_template):
+            sentence = task_data[global_index]
+            global_index = global_index+1
+            qurey = eval_funktion(sentence)
+            input = question.format(sentence = sentence)
+            data_set["examples"][global_index] = {}
+            data_set["examples"][global_index]["input"] = input
+            data_set["examples"][global_index]["metadata"]["sentence"] = sentence
+            data_set["examples"][global_index]["metadata"]["qurey"] = qurey
