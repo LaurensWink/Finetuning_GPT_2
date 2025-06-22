@@ -1,0 +1,12 @@
+from pjs.corpus_construction import construct_number_tasks, eval_bigger_number, eval_smaller_number, first_alphabetically, eval_alphabetically_first
+from pjs.german_corpus_data import tasks, first_alphabetically_data, first_alphabetically_different_first_letter_data, first_alphabetically_far_first_letter_data, first_alphabetically_same_first_letter_data, first_alphabetically_consecutive_first_letter_data
+
+construct_number_tasks("bigger_number", tasks["bigger_number"], eval_bigger_number)
+construct_number_tasks("smaller_number", tasks["smaller_number"], eval_smaller_number)
+
+first_alphabetically("first_alphabetically", tasks["first_alphabetically"], first_alphabetically_data, eval_alphabetically_first)
+first_alphabetically("first_alphabetically_different_first_letter", tasks["first_alphabetically_different_first_letter"], first_alphabetically_different_first_letter_data, eval_alphabetically_first)
+first_alphabetically("first_alphabetically_far_first_letter", tasks["first_alphabetically_far_first_letter"], first_alphabetically_far_first_letter_data, eval_alphabetically_first)
+first_alphabetically("first_alphabetically_same_first_letter", tasks["first_alphabetically_same_first_letter"], first_alphabetically_same_first_letter_data, eval_alphabetically_first)
+first_alphabetically("first_alphabetically_consecutive_first_letter", tasks["first_alphabetically_consecutive_first_letter"], first_alphabetically_consecutive_first_letter_data, eval_alphabetically_first)
+
