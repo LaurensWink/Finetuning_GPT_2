@@ -300,25 +300,38 @@ first_alphabetically_consecutive_first_letter_data = [
 ]
 
 # Wörter mit 2 Buchstaben
-woerter_2 = ["am", "an", "im", "es", "zu", "da", "er", "du", "so", "ab"]
+woerter_2 = ["am", "an", "im", "es", "zu", "da", "er", "du", "so", "ab", "ob", "in", "um", "ja",]
 
 # Wörter mit 3 Buchstaben
-woerter_3 = ["der", "die", "und", "das", "ein", "sie", "ist", "ich", "mit", "man"]
+woerter_3 = ["der", "die", "und", "das", "ein", "sie", "ist", "ich", "mit", "man", "aus", "all", "weg", "war", "nun", "ehe", "nie", "los", "rot", "neu"]
 
 # Wörter mit 4 Buchstaben
-woerter_4 = ["auch", "noch", "nach", "mehr", "dann", "wenn", "kann", "will", "muss", "sind"]
+woerter_4 = ["auch", "noch", "nach", "mehr", "dann", "wenn", "kann", "will", "muss", "sind", "hier", "zeit", "bald", "ganz", "erst", "heut", "sehr", "viel", "sich", "lang"]
 
 # Wörter mit 5 Buchstaben
-woerter_5 = ["diese", "haben", "würde", "sowie", "wurde", "daher", "unter", "könnt", "dabei", "diese"]
+woerter_5 = ["diese", "haben", "würde", "sowie", "wurde", "daher", "unter", "könnt", "dabei", "nicht", "allen", "waren", "daran", "reden"]
 
 # Wörter mit 6 Buchstaben
-woerter_6 = ["analog", "Anteil", "Bagger", "besser", "Gebiss", "nichts", "sollen", "weinen", "völlig", "wissen"]
+woerter_6 = ["analog", "Anteil", "Bagger", "besser", "Gebiss", "nichts", "sollen", "weinen", "völlig", "wissen", "jemand", "einmal", "denken", "folgen", "fragen", "meinen", "sehen ", "laufen", "tragen", "graben"]
 
 # Wörter mit 7 Buchstaben
-woerter_7 = ["abholen", "darüber", "einfach", "brüllen", "beenden", "solches", "ungerne", "tüfteln", "anderen", "wertlos"]
+woerter_7 = ["abholen", "darüber", "einfach", "brüllen", "beenden", "solches", "ungerne", "tüfteln", "anderen", "wertlos", "gewinnt", "bestens", "beweise", "gedanke", "gespürt", "erzählt", "gezeigt"]
 
 # Wörter mit 8 Buchstaben
-woerter_8 = ["ehrenlos", "namenlos", "bedeutet", "variabel", "blamabel", "irgendwo", "Beispiel", "tadellos", "wirklich", "zwischen"]
+woerter_8 = ["ehrenlos", "namenlos", "bedeutet", "variabel", "blamabel", "irgendwo", "Beispiel", "tadellos", "wirklich", "zwischen", "bedrohen", "offensiv", "versucht", "entsteht", "geborene", "verloren", "bekannte", "Abschied"]
 
 # Wörter mit 9 Buchstaben
-woerter_9 = ["idiotisch", "effizient", "gasförmig", "Machtwort", "väterlich", "verstehen", "Bedeutung", "gemeinsam", "Erfahrung", "beruflich"]
+woerter_9 = ["Obduktion","Polarität", "Jobcenter", "Kehlköpfe", "effizient", "gasförmig", "Machtwort", "väterlich", "verstehen", "Bedeutung", "gemeinsam", "Erfahrung", "beruflich", "verlieren", "Kreativen", "Verlusten", "Beweglich", "Verzichts", "idiotisch", "Iteration"]
+
+# Wörter mit 10 Buchstaben
+woerter_10 = ["offizielle", "unbesonnen", "unablässig","Plakatwand", "Robbenfell", "Oligarchie", "allerdings", "Erinnerung", "Verhältnis", "entwickeln", "Verteilung", "Verbindung", "Veranstalt", "Entstehung", "Abweichung", "Vereinigen", "Fachbücher", "urzeitlich", "Wachmänner", "Wunderkind"]
+
+# Wörter mit 11 Buchstaben
+woerter_11 = ["Vorausblick","Erforschung","Bevölkerung", "Gleichstand", "Mitarbeiter", "Kombination","Verabredung", "Fachbegriff", "tabuisieren", "Täterprofil", "Tafelwasser", "Haarspitzen", "Haarsträhne"]
+
+# Wörter mit 12 Buchstaben
+woerter_12 = ["Erkenntnisse", "Gleichheiten", "Grundgedanke", "Rechenfehler","Abweichungen", "Abblätterung", "Haaresbreite", "Hustenbonbon", "umgänglicher"]
+
+diff_1 = [(woerter_2, woerter_3), (woerter_3, woerter_4), (woerter_4, woerter_5), (woerter_5, woerter_6), (woerter_6, woerter_7), (woerter_7, woerter_8), (woerter_8, woerter_9), (woerter_9, woerter_10), (woerter_10, woerter_11), (woerter_11, woerter_12)]
+diff_3 = [(woerter_2, woerter_6), (woerter_2, woerter_7), (woerter_3, woerter_6), (woerter_3, woerter_7), (woerter_3, woerter_8), (woerter_4, woerter_7), (woerter_4, woerter_8), (woerter_5, woerter_8), (woerter_5, woerter_9), (woerter_5, woerter_10)]
+diff_ = [(woerter_4, woerter_6), (woerter_3, woerter_7), (woerter_2, woerter_3), (woerter_3, woerter_4), (woerter_2, woerter_8),(woerter_7, woerter_8), (woerter_4, woerter_12), (woerter_4, woerter_8), (woerter_5, woerter_6), (woerter_5, woerter_4), (woerter_5, woerter_11), (woerter_11, woerter_12)]

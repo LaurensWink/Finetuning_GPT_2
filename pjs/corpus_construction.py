@@ -1,7 +1,9 @@
 import json
 import os
 import random
+import string
 from loguru import logger
+from collections import Counter
 
 def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, examples_per_template = 1000):
     '''all number_tasks type tasks'''
@@ -69,7 +71,7 @@ def first_alphabetically(file_name: str, templates: list[str], task_data: list[(
 
     json_dump(data_set, f'data/LMentry_de/{file_name}.json')
 
-def order_task(file_name: str, templates: list[str], task_data: list[list[str]], task_type: str, eval_funktion, examples_per_template = 1000):
+def order_task(file_name: str, templates: list[str], task_data: list[str], task_type: str, eval_funktion, examples_per_template = 1000):
     '''first_letter/first_word/last_letter/last_word tasks (task_type can be "word" or "sentence")'''
     if task_type not in ("word", "sentence"):
         raise ValueError("Invalide task_type. Only 'word' or 'sentence' are accepted.")
@@ -88,8 +90,12 @@ def order_task(file_name: str, templates: list[str], task_data: list[list[str]],
     for question in templates:
         for _ in range(examples_per_template):
             subject = task_data[global_index]
+            split = [word.strip(string.punctuation) for word in subject.split()]
             global_index = global_index+1
-            answer = eval_funktion(subject)
+            if task_type == "sentence": 
+                answer = eval_funktion(split)
+            else:
+                answer = eval_funktion(subject)
             input = question.format(**{task_type: subject})
             data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
@@ -99,7 +105,7 @@ def order_task(file_name: str, templates: list[str], task_data: list[list[str]],
 
     json_dump(data_set, f'data/LMentry_de/{file_name}.json')
 
-def ammount_tasks(file_name: str, templates: list[str], task_data: list[(list[str]), (list[str])], eval_funktion, examples_per_template = 1000):
+def ammount_tasks(file_name: str, templates: list[str], task_data: list[(list[str], list[str])], eval_funktion, examples_per_template = 1000):
     '''all more_/less_letters tasks'''
     global_index = 0
     word_tupel_list = []
@@ -152,13 +158,17 @@ def before_after_tasks(file_name: str, templates: list[str], task_data: list[lis
         for _ in range(examples_per_template):
             sentence = task_data[global_index]
             global_index = global_index+1
-            qurey = eval_funktion(sentence)
-            input = question.format(sentence = sentence)
+            split = [word.strip(string.punctuation) for word in sentence.split()]
+            word_counts = Counter(split)
+            candidates = [word for word in split[1:-1] if word_counts[word] == 1]
+            query = random.choice(candidates)
+            answer = eval_funktion(split, query)
+            input = question.format(sentence = sentence, word = query)
             data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
             data_set["examples"][global_index]["metadata"] = {}
             data_set["examples"][global_index]["metadata"]["sentence"] = sentence
-            data_set["examples"][global_index]["metadata"]["qurey"] = qurey
+            data_set["examples"][global_index]["metadata"]["answer"] = answer
     
     json_dump(data_set, f'data/LMentry_de/{file_name}.json')
 
@@ -166,6 +176,11 @@ def json_dump(data: dict, path: str):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
+
+def json_load(path: str):
+    with open(path, 'r', encoding='utf-8') as file:
+        json_data = json.load(file)
+        return json_data
 
 def eval_bigger_number(num1: int, num2: int) -> int:
     return max(num1, num2)
@@ -181,3 +196,25 @@ def eval_first_elem(subject: list[str]) -> str:
 
 def eval_last_elem(subject: list[str]) -> str:
     return subject[-1]
+
+def eval_word_before(subject: list[str], query: str) -> str:
+    for index in range(1, len(subject)):
+        if subject[index] == query:
+            return subject[index-1]
+        
+def eval_word_after(subject: list[str], query: str) -> str:
+    for index in range(len(subject)-1):
+        if subject[index] == query:
+            return subject[index+1]
+        
+def eval_more_letter(word1: str, word2: str) -> str:
+    if len(word1) > len(word2):
+        return word1
+    else:
+        return word2
+    
+def eval_less_letter(word1: str, word2: str) -> str:
+    if len(word1) < len(word2):
+        return word1
+    else:
+        return word2
