@@ -5,6 +5,8 @@ import string
 from loguru import logger
 from collections import Counter
 
+### ALL OPTIONS HAVE TO BE LOWERCASE CAUSE OF OUTLINES (otherwise a value error will occure, in the english data all options are lowercase also) ###
+
 def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, examples_per_template = 1000):
     '''all number_tasks type tasks'''
     global_index = 0
@@ -57,8 +59,8 @@ def first_alphabetically(file_name: str, templates: list[str], task_data: list[(
     for question in templates:
         for _ in range(examples_per_template):
             n1, n2 = random.sample(range(2), 2)
-            word1 = word_tupel_list[global_index][n1]
-            word2 = word_tupel_list[global_index][n2]
+            word1 = word_tupel_list[global_index][n1].lower()
+            word2 = word_tupel_list[global_index][n2].lower()
             global_index = global_index+1
             answer = eval_funktion(word1,word2)
             input = question.format(word1 = word1, word2 = word2)
@@ -89,7 +91,7 @@ def order_task(file_name: str, templates: list[str], task_data: list[str], task_
 
     for question in templates:
         for _ in range(examples_per_template):
-            subject = task_data[global_index]
+            subject = task_data[global_index].lower()
             split = [word.strip(string.punctuation) for word in subject.split()]
             global_index = global_index+1
             if task_type == "sentence": 
@@ -127,8 +129,8 @@ def ammount_tasks(file_name: str, templates: list[str], task_data: list[(list[st
     for question in templates:
         for _ in range(examples_per_template):
             n1, n2 = random.sample(range(2), 2)
-            word1 = word_tupel_list[global_index][n1]
-            word2 = word_tupel_list[global_index][n2]
+            word1 = word_tupel_list[global_index][n1].lower()
+            word2 = word_tupel_list[global_index][n2].lower()
             global_index = global_index+1
             answer = eval_funktion(word1,word2)
             input = question.format(word1 = word1, word2 = word2)
@@ -156,7 +158,7 @@ def before_after_tasks(file_name: str, templates: list[str], task_data: list[lis
 
     for question in templates:
         for _ in range(examples_per_template):
-            sentence = task_data[global_index]
+            sentence = task_data[global_index].lower()
             global_index = global_index+1
             split = [word.strip(string.punctuation) for word in sentence.split()]
             word_counts = Counter(split)
