@@ -22,6 +22,10 @@ def evaluate(dir_path, file_name):
 
             df = pd.read_csv(file)
 
+            # Replace NaN -> no answer was generated
+            dummy_label = "__MISSING__"
+            df["Predicted"] = df["Predicted"].fillna(dummy_label)
+
             expected = df["Expected"]
             predicted = df["Predicted"]
 

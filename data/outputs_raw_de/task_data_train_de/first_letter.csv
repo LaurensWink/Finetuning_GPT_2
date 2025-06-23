@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"F: Mit welchem Buchstaben beginnt das Wort ""Parkscheibe""? A:","['P', 'a', 'r', 'k', 's', 'c', 'h', 'e', 'i', 'b', 'e']",P,"parkscheibe das ort ""park"
+"F: Mit welchem Buchstaben beginnt das Wort ""elastisch""? A:","['e', 'l', 'a', 's', 't', 'i', 's', 'c', 'h']",e,elastisch beginnt das ort
+"F: Mit welchem Buchstaben beginnt das Wort ""Zug""? A:","['Z', 'u', 'g']",Z,zug?
+"F: Was ist der erste Buchstabe des Wortes ""Schaf""? A:","['S', 'c', 'h', 'a', 'f']",S,"schaffhausen ""schaffhause"
+"Schreibe den ersten Buchstaben des Wortes ""Baeckerei"": ","['B', 'a', 'e', 'c', 'k', 'e', 'r', 'e', 'i']",B,"baeckereiden des ortes ""b"
+"F: Mit welchem Buchstaben beginnt das Wort ""Flasche""? A:","['F', 'l', 'a', 's', 'c', 'h', 'e']",F,flaschem beginnt das ort 
+"F: Mit welchem Buchstaben beginnt das Wort ""Goldfisch""? A:","['G', 'o', 'l', 'd', 'f', 'i', 's', 'c', 'h']",G,"goldfisch""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""ausgraben"": ","['a', 'u', 's', 'g', 'r', 'a', 'b', 'e', 'n']",a,"ausgraben des ortes ""ausg"
+"F: Was ist der erste Buchstabe des Wortes ""Kunst""? A:","['K', 'u', 'n', 's', 't']",K,"kunst, kunst, kunst, kuns"
+"Schreibe den ersten Buchstaben des Wortes ""menschlich"": ","['m', 'e', 'n', 's', 'c', 'h', 'l', 'i', 'c', 'h']",m,"menschlich des ortes ""men"
+"Schreibe den ersten Buchstaben des Wortes ""Punktestand"": ","['P', 'u', 'n', 'k', 't', 'e', 's', 't', 'a', 'n', 'd']",P,"punktestand des ortes ""pu"
+"F: Was ist der erste Buchstabe des Wortes ""Haus""? A:","['H', 'a', 'u', 's']",H,hausen is a municipality 
+"F: Was ist der erste Buchstabe des Wortes ""rennen""? A:","['r', 'e', 'n', 'n', 'e', 'n']",r,"rennen, rennen, rennen, r"
+"F: Mit welchem Buchstaben beginnt das Wort ""lesen""? A:","['l', 'e', 's', 'e', 'n']",l,lesen?
+"Schreibe den ersten Buchstaben des Wortes ""Hof"": ","['H', 'o', 'f']",H,hof :
+"F: Was ist der erste Buchstabe des Wortes ""beruehren""? A:","['b', 'e', 'r', 'u', 'e', 'h', 'r', 'e', 'n']",b,b:	beruehren?
+"F: Mit welchem Buchstaben beginnt das Wort ""Entwicklungshilfe""? A:","['E', 'n', 't', 'w', 'i', 'c', 'k', 'l', 'u', 'n', 'g', 's', 'h', 'i', 'l', 'f', 'e']",E,"entwicklungshilfe""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Nudelholz""? A:","['N', 'u', 'd', 'e', 'l', 'h', 'o', 'l', 'z']",N,n:
+"Schreibe den ersten Buchstaben des Wortes ""Essen"": ","['E', 's', 's', 'e', 'n']",E,"essen des ortes ""essen"":"
+"Schreibe den ersten Buchstaben des Wortes ""bezaubernd"": ","['b', 'e', 'z', 'a', 'u', 'b', 'e', 'r', 'n', 'd']",b,"bezaubernden des ortes ""b"
+"F: Was ist der erste Buchstabe des Wortes ""Hand""? A:","['H', 'a', 'n', 'd']",H,hand?
+"F: Was ist der erste Buchstabe des Wortes ""treffen""? A:","['t', 'r', 'e', 'f', 'f', 'e', 'n']",t,treffen? a:
+"F: Was ist der erste Buchstabe des Wortes ""warm""? A:","['w', 'a', 'r', 'm']",w,warm warm warm warm warm 
+"Schreibe den ersten Buchstaben des Wortes ""Loeffel"": ","['L', 'o', 'e', 'f', 'f', 'e', 'l']",L,loeffel was born in berge
+"F: Mit welchem Buchstaben beginnt das Wort ""Feuerwehrmann""? A:","['F', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r', 'm', 'a', 'n', 'n']",F,f: mit welchem buchstaben
+"Schreibe den ersten Buchstaben des Wortes ""Trick"": ","['T', 'r', 'i', 'c', 'k']",T,"trick ortes ""trick"":"
+"Schreibe den ersten Buchstaben des Wortes ""Abnahme"": ","['A', 'b', 'n', 'a', 'h', 'm', 'e']",A,"abnahmen des ortes ""abnah"
+"F: Mit welchem Buchstaben beginnt das Wort ""unverwuestlich""? A:","['u', 'n', 'v', 'e', 'r', 'w', 'u', 'e', 's', 't', 'l', 'i', 'c', 'h']",u,unverwuestlich?
+"F: Was ist der erste Buchstabe des Wortes ""schwach""? A:","['s', 'c', 'h', 'w', 'a', 'c', 'h']",s,schwach? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""gluecklich""? A:","['g', 'l', 'u', 'e', 'c', 'k', 'l', 'i', 'c', 'h']",g,gluecklich? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""verabschieden""? A:","['v', 'e', 'r', 'a', 'b', 's', 'c', 'h', 'i', 'e', 'd', 'e', 'n']",v,verabschieden?
+"F: Mit welchem Buchstaben beginnt das Wort ""unterscheidbar""? A:","['u', 'n', 't', 'e', 'r', 's', 'c', 'h', 'e', 'i', 'd', 'b', 'a', 'r']",u,unterscheidbar?
+"F: Was ist der erste Buchstabe des Wortes ""Strom""? A:","['S', 't', 'r', 'o', 'm']",S,strom? a:
+"Schreibe den ersten Buchstaben des Wortes ""zartbitter"": ","['z', 'a', 'r', 't', 'b', 'i', 't', 't', 'e', 'r']",z,"zartbitter des ortes ""zar"
+"F: Was ist der erste Buchstabe des Wortes ""Bord""? A:","['B', 'o', 'r', 'd']",B,"b: asted ortes ""bord""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Kaelte""? A:","['K', 'a', 'e', 'l', 't', 'e']",K,"kaelte des ortes ""kaelte"""
+"Schreibe den ersten Buchstaben des Wortes ""Unterricht"": ","['U', 'n', 't', 'e', 'r', 'r', 'i', 'c', 'h', 't']",U,"unterricht des ortes ""unt"
+"F: Was ist der erste Buchstabe des Wortes ""Fruehstueck""? A:","['F', 'r', 'u', 'e', 'h', 's', 't', 'u', 'e', 'c', 'k']",F,"fruehstadt ""(fruehstadt)"""
+"F: Was ist der erste Buchstabe des Wortes ""Schnur""? A:","['S', 'c', 'h', 'n', 'u', 'r']",S,"schnur, schnur, schnur, s"
+"F: Mit welchem Buchstaben beginnt das Wort ""Dosis""? A:","['D', 'o', 's', 'i', 's']",D,"dosis des ort ""dosis""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""anklaeren""? A:","['a', 'n', 'k', 'l', 'a', 'e', 'r', 'e', 'n']",a,a:
+"F: Was ist der erste Buchstabe des Wortes ""Gedanke""? A:","['G', 'e', 'd', 'a', 'n', 'k', 'e']",G,gedanke?
+"F: Was ist der erste Buchstabe des Wortes ""Krawatte""? A:","['K', 'r', 'a', 'w', 'a', 't', 't', 'e']",K,"krawatte ""krawatte""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Tee""? A:","['T', 'e', 'e']",T,"tee""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""aengstlich""? A:","['a', 'e', 'n', 'g', 's', 't', 'l', 'i', 'c', 'h']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""unfreundlich""? A:","['u', 'n', 'f', 'r', 'e', 'u', 'n', 'd', 'l', 'i', 'c', 'h']",u,unfreundlich? a:
+"Schreibe den ersten Buchstaben des Wortes ""Fuchs"": ","['F', 'u', 'c', 'h', 's']",F,"fc buchstaben des ortes """
+"F: Was ist der erste Buchstabe des Wortes ""Schwimmen""? A:","['S', 'c', 'h', 'w', 'i', 'm', 'm', 'e', 'n']",S,"schwimmen des ortes ""schw"
+"Schreibe den ersten Buchstaben des Wortes ""Termin"": ","['T', 'e', 'r', 'm', 'i', 'n']",T,terminal.
+"F: Mit welchem Buchstaben beginnt das Wort ""abreisen""? A:","['a', 'b', 'r', 'e', 'i', 's', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Kellertreppe""? A:","['K', 'e', 'l', 'l', 'e', 'r', 't', 'r', 'e', 'p', 'p', 'e']",K,kellertreppe?
+"Schreibe den ersten Buchstaben des Wortes ""treffen"": ","['t', 'r', 'e', 'f', 'f', 'e', 'n']",t,treffen is a municipality
+"F: Was ist der erste Buchstabe des Wortes ""legendaer""? A:","['l', 'e', 'g', 'e', 'n', 'd', 'a', 'e', 'r']",l,legendaer?
+"Schreibe den ersten Buchstaben des Wortes ""abholen"": ","['a', 'b', 'h', 'o', 'l', 'e', 'n']",a,"abholen"":"
+"F: Was ist der erste Buchstabe des Wortes ""vermieten""? A:","['v', 'e', 'r', 'm', 'i', 'e', 't', 'e', 'n']",v,vermieten?
+"Schreibe den ersten Buchstaben des Wortes ""Gage"": ","['G', 'a', 'g', 'e']",G,"gage des ortes ""gage"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""ausziehen""? A:","['a', 'u', 's', 'z', 'i', 'e', 'h', 'e', 'n']",a,a:
+"F: Was ist der erste Buchstabe des Wortes ""ausfallen""? A:","['a', 'u', 's', 'f', 'a', 'l', 'l', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Norden"": ","['N', 'o', 'r', 'd', 'e', 'n']",N,norden is a municipality 
+"F: Mit welchem Buchstaben beginnt das Wort ""Termin""? A:","['T', 'e', 'r', 'm', 'i', 'n']",T,"terminal ""terminal""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""kreativ""? A:","['k', 'r', 'e', 'a', 't', 'i', 'v']",k,"kreative des ortes ""kreat"
+"F: Was ist der erste Buchstabe des Wortes ""Bande""? A:","['B', 'a', 'n', 'd', 'e']",B,bande?
+"F: Was ist der erste Buchstabe des Wortes ""Kombination""? A:","['K', 'o', 'm', 'b', 'i', 'n', 'a', 't', 'i', 'o', 'n']",K,"kombination""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Internet""? A:","['I', 'n', 't', 'e', 'r', 'n', 'e', 't']",I,internet.
+"F: Was ist der erste Buchstabe des Wortes ""Gedankenexperiment""? A:","['G', 'e', 'd', 'a', 'n', 'k', 'e', 'n', 'e', 'x', 'p', 'e', 'r', 'i', 'm', 'e', 'n', 't']",G,gedankenexperiment?
+"F: Mit welchem Buchstaben beginnt das Wort ""Gebaeude""? A:","['G', 'e', 'b', 'a', 'e', 'u', 'd', 'e']",G,"gebaeude""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Eis""? A:","['E', 'i', 's']",E,eisenhower beginnt das or
+"F: Mit welchem Buchstaben beginnt das Wort ""Welle""? A:","['W', 'e', 'l', 'l', 'e']",W, :
+"F: Mit welchem Buchstaben beginnt das Wort ""Schwester""? A:","['S', 'c', 'h', 'w', 'e', 's', 't', 'e', 'r']",S,schwester beginnt das ort
+"F: Was ist der erste Buchstabe des Wortes ""dumm""? A:","['d', 'u', 'm', 'm']",d,d:
+"F: Mit welchem Buchstaben beginnt das Wort ""Gras""? A:","['G', 'r', 'a', 's']",G,"gras des ort ""gras""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Weinberg"": ","['W', 'e', 'i', 'n', 'b', 'e', 'r', 'g']",W," einberger des ortes "" ei"
+"Schreibe den ersten Buchstaben des Wortes ""lernen"": ","['l', 'e', 'r', 'n', 'e', 'n']",l,"lernen des ortes ""lernen"""
+"F: Mit welchem Buchstaben beginnt das Wort ""Herz""? A:","['H', 'e', 'r', 'z']",H,"herzeger""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""helfen""? A:","['h', 'e', 'l', 'f', 'e', 'n']",h,helfen? a:
+"F: Was ist der erste Buchstabe des Wortes ""Wald""? A:","['W', 'a', 'l', 'd']",W, ald?
+"Schreibe den ersten Buchstaben des Wortes ""feststellen"": ","['f', 'e', 's', 't', 's', 't', 'e', 'l', 'l', 'e', 'n']",f,"festellen des ortes ""fest"
+"Schreibe den ersten Buchstaben des Wortes ""Telefon"": ","['T', 'e', 'l', 'e', 'f', 'o', 'n']",T,"telefon"":"
+"Schreibe den ersten Buchstaben des Wortes ""oeffnen"": ","['o', 'e', 'f', 'f', 'n', 'e', 'n']",o,"ortes ""oeffnen"":"
+"Schreibe den ersten Buchstaben des Wortes ""Traube"": ","['T', 'r', 'a', 'u', 'b', 'e']",T,"trauben"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Parkscheibe""? A:","['P', 'a', 'r', 'k', 's', 'c', 'h', 'e', 'i', 'b', 'e']",P,"parkscheibe das ort ""park"
+"F: Mit welchem Buchstaben beginnt das Wort ""laut""? A:","['l', 'a', 'u', 't']",l,laut der ersten buchstabe
+"F: Was ist der erste Buchstabe des Wortes ""kaempfen""? A:","['k', 'a', 'e', 'm', 'p', 'f', 'e', 'n']",k,kaempfen? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Kabelbaum""? A:","['K', 'a', 'b', 'e', 'l', 'b', 'a', 'u', 'm']",K,kabelbaum?
+"Schreibe den ersten Buchstaben des Wortes ""Strauch"": ","['S', 't', 'r', 'a', 'u', 'c', 'h']",S,"schreibe des ortes ""strau"
+"F: Was ist der erste Buchstabe des Wortes ""Eisberg""? A:","['E', 'i', 's', 'b', 'e', 'r', 'g']",E,"eisberg des ortes ""eisber"
+"Schreibe den ersten Buchstaben des Wortes ""Knochen"": ","['K', 'n', 'o', 'c', 'h', 'e', 'n']",K,"knochen des ortes ""knoche"
+"F: Mit welchem Buchstaben beginnt das Wort ""Entdeckung""? A:","['E', 'n', 't', 'd', 'e', 'c', 'k', 'u', 'n', 'g']",E,entdeckung beginnt das or
+"Schreibe den ersten Buchstaben des Wortes ""neu"": ","['n', 'e', 'u']",n,neu-ulm is a municipality
+"Schreibe den ersten Buchstaben des Wortes ""Durchblick"": ","['D', 'u', 'r', 'c', 'h', 'b', 'l', 'i', 'c', 'k']",D,"des ortes ""durchblick"":"
+"F: Was ist der erste Buchstabe des Wortes ""Kelvin""? A:","['K', 'e', 'l', 'v', 'i', 'n']",K,kelvin?
+"F: Mit welchem Buchstaben beginnt das Wort ""Auslage""? A:","['A', 'u', 's', 'l', 'a', 'g', 'e']",A,a:
+"Schreibe den ersten Buchstaben des Wortes ""aufregen"": ","['a', 'u', 'f', 'r', 'e', 'g', 'e', 'n']",a,"aufregen des ortes ""aufre"
+"F: Mit welchem Buchstaben beginnt das Wort ""Wort""? A:","['W', 'o', 'r', 't']",W, :
+"F: Mit welchem Buchstaben beginnt das Wort ""gehoeren""? A:","['g', 'e', 'h', 'o', 'e', 'r', 'e', 'n']",g,"gehoeren""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Bart""? A:","['B', 'a', 'r', 't']",B,bart?
+"Schreibe den ersten Buchstaben des Wortes ""Messerstecher"": ","['M', 'e', 's', 's', 'e', 'r', 's', 't', 'e', 'c', 'h', 'e', 'r']",M,"messerstein des ortes ""me"
+"Schreibe den ersten Buchstaben des Wortes ""Wagen"": ","['W', 'a', 'g', 'e', 'n']",W, agen was born in bergen 
+"F: Was ist der erste Buchstabe des Wortes ""fallen""? A:","['f', 'a', 'l', 'l', 'e', 'n']",f,f: astern france.
+"F: Mit welchem Buchstaben beginnt das Wort ""lustig""? A:","['l', 'u', 's', 't', 'i', 'g']",l,"lustig""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""modern"": ","['m', 'o', 'd', 'e', 'r', 'n']",m,modern modern modern mode
+"F: Was ist der erste Buchstabe des Wortes ""Mahlzeit""? A:","['M', 'a', 'h', 'l', 'z', 'e', 'i', 't']",M,"mahlzeit des ortes ""mahlz"
+"F: Was ist der erste Buchstabe des Wortes ""weich""? A:","['w', 'e', 'i', 'c', 'h']",w,"weichstabe des ortes ""wei"
+"F: Mit welchem Buchstaben beginnt das Wort ""Aufnahme""? A:","['A', 'u', 'f', 'n', 'a', 'h', 'm', 'e']",A,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Marktplatz""? A:","['M', 'a', 'r', 'k', 't', 'p', 'l', 'a', 't', 'z']",M,marktplatz.
+"F: Was ist der erste Buchstabe des Wortes ""Satz""? A:","['S', 'a', 't', 'z']",S,satzenbuchstabe des ortes
+"F: Mit welchem Buchstaben beginnt das Wort ""Wahl""? A:","['W', 'a', 'h', 'l']",W, ahl:
+"F: Was ist der erste Buchstabe des Wortes ""sorgfaeltig""? A:","['s', 'o', 'r', 'g', 'f', 'a', 'e', 'l', 't', 'i', 'g']",s,sorgfaeltig? a:
+"F: Was ist der erste Buchstabe des Wortes ""verschlossen""? A:","['v', 'e', 'r', 's', 'c', 'h', 'l', 'o', 's', 's', 'e', 'n']",v,verschlossen is a municip
+"F: Mit welchem Buchstaben beginnt das Wort ""waschen""? A:","['w', 'a', 's', 'c', 'h', 'e', 'n']",w,waschen?
+"Schreibe den ersten Buchstaben des Wortes ""Theater"": ","['T', 'h', 'e', 'a', 't', 'e', 'r']",T,theater.
+"F: Was ist der erste Buchstabe des Wortes ""Hafenstadt""? A:","['H', 'a', 'f', 'e', 'n', 's', 't', 'a', 'd', 't']",H,"hafenstadt ""hafenstadt""? "
+"Schreibe den ersten Buchstaben des Wortes ""Abenteuer"": ","['A', 'b', 'e', 'n', 't', 'e', 'u', 'e', 'r']",A,"abenteuer des ortes ""aben"
+"Schreibe den ersten Buchstaben des Wortes ""haben"": ","['h', 'a', 'b', 'e', 'n']",h,"haben des ortes ""haben"":"
+"F: Was ist der erste Buchstabe des Wortes ""Sport""? A:","['S', 'p', 'o', 'r', 't']",S,sport.
+"Schreibe den ersten Buchstaben des Wortes ""Firma"": ","['F', 'i', 'r', 'm', 'a']",F,"firma des ortes ""firma"":"
+"F: Was ist der erste Buchstabe des Wortes ""Bude""? A:","['B', 'u', 'd', 'e']",B,b: asted germany?
+"F: Was ist der erste Buchstabe des Wortes ""Industrie""? A:","['I', 'n', 'd', 'u', 's', 't', 'r', 'i', 'e']",I,industries.
+"F: Mit welchem Buchstaben beginnt das Wort ""Lokal""? A:","['L', 'o', 'k', 'a', 'l']",L,l: mit welchem buchstaben
+"F: Mit welchem Buchstaben beginnt das Wort ""leise""? A:","['l', 'e', 'i', 's', 'e']",l,"leise""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""geduldig"": ","['g', 'e', 'd', 'u', 'l', 'd', 'i', 'g']",g,"geduldig des ortes ""gedul"
+"F: Mit welchem Buchstaben beginnt das Wort ""Guertelrose""? A:","['G', 'u', 'e', 'r', 't', 'e', 'l', 'r', 'o', 's', 'e']",G,guertelrose? a:
+"F: Was ist der erste Buchstabe des Wortes ""aussortieren""? A:","['a', 'u', 's', 's', 'o', 'r', 't', 'i', 'e', 'r', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Gemuetlichkeit""? A:","['G', 'e', 'm', 'u', 'e', 't', 'l', 'i', 'c', 'h', 'k', 'e', 'i', 't']",G,gemuetlichkeit beginnt da
+"F: Mit welchem Buchstaben beginnt das Wort ""Skulptur""? A:","['S', 'k', 'u', 'l', 'p', 't', 'u', 'r']",S,skulptur?
+"Schreibe den ersten Buchstaben des Wortes ""Eilzug"": ","['E', 'i', 'l', 'z', 'u', 'g']",E,"eilzug des ortes ""eilzug"""
+"F: Mit welchem Buchstaben beginnt das Wort ""bringen""? A:","['b', 'r', 'i', 'n', 'g', 'e', 'n']",b,bringen? a:
+"F: Was ist der erste Buchstabe des Wortes ""Apfel""? A:","['A', 'p', 'f', 'e', 'l']",A,a:
+"F: Was ist der erste Buchstabe des Wortes ""klingen""? A:","['k', 'l', 'i', 'n', 'g', 'e', 'n']",k,klingen? a:
+"F: Was ist der erste Buchstabe des Wortes ""ausmachen""? A:","['a', 'u', 's', 'm', 'a', 'c', 'h', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Drucker"": ","['D', 'r', 'u', 'c', 'k', 'e', 'r']",D,"drucher des ortes ""druche"
+"F: Mit welchem Buchstaben beginnt das Wort ""Groesse""? A:","['G', 'r', 'o', 'e', 's', 's', 'e']",G,"groesse""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""entschuldigen""? A:","['e', 'n', 't', 's', 'c', 'h', 'u', 'l', 'd', 'i', 'g', 'e', 'n']",e,entschuldigen beginnt das
+"F: Mit welchem Buchstaben beginnt das Wort ""November""? A:","['N', 'o', 'v', 'e', 'm', 'b', 'e', 'r']",N,"november ""november""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""ankommen""? A:","['a', 'n', 'k', 'o', 'm', 'm', 'e', 'n']",a,a:
+"F: Was ist der erste Buchstabe des Wortes ""Gabel""? A:","['G', 'a', 'b', 'e', 'l']",G,gabel is a municipality i
+"F: Was ist der erste Buchstabe des Wortes ""Entwicklung""? A:","['E', 'n', 't', 'w', 'i', 'c', 'k', 'l', 'u', 'n', 'g']",E,entwicklung?
+"F: Mit welchem Buchstaben beginnt das Wort ""Tasche""? A:","['T', 'a', 's', 'c', 'h', 'e']",T,"tasche""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Garten""? A:","['G', 'a', 'r', 't', 'e', 'n']",G,garten?
+"Schreibe den ersten Buchstaben des Wortes ""passen"": ","['p', 'a', 's', 's', 'e', 'n']",p,passenger service.
+"Schreibe den ersten Buchstaben des Wortes ""Tierarzt"": ","['T', 'i', 'e', 'r', 'a', 'r', 'z', 't']",T,"tierarzt des ortes ""tiera"
+"F: Mit welchem Buchstaben beginnt das Wort ""aromatisch""? A:","['a', 'r', 'o', 'm', 'a', 't', 'i', 's', 'c', 'h']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Buero"": ","['B', 'u', 'e', 'r', 'o']",B,"buero"":"
+"Schreibe den ersten Buchstaben des Wortes ""Salz"": ","['S', 'a', 'l', 'z']",S,"schreibe des ortes ""salz"""
+"Schreibe den ersten Buchstaben des Wortes ""Schatz"": ","['S', 'c', 'h', 'a', 't', 'z']",S,"schatz des ortes ""schatz"""
+"F: Was ist der erste Buchstabe des Wortes ""Gras""? A:","['G', 'r', 'a', 's']",G,"gras des ortes ""gras""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Fund"": ","['F', 'u', 'n', 'd']",F,fund:
+"Schreibe den ersten Buchstaben des Wortes ""Idee"": ","['I', 'd', 'e', 'e']",I,"idee"":"
+"Schreibe den ersten Buchstaben des Wortes ""suess"": ","['s', 'u', 'e', 's', 's']",s,"schreibe des ortes ""suess"
+"F: Was ist der erste Buchstabe des Wortes ""Sprache""? A:","['S', 'p', 'r', 'a', 'c', 'h', 'e']",S,"sprache""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""schmutzig""? A:","['s', 'c', 'h', 'm', 'u', 't', 'z', 'i', 'g']",s,schmutzig?
+"Schreibe den ersten Buchstaben des Wortes ""Krimi"": ","['K', 'r', 'i', 'm', 'i']",K,kriminallieren des ortes 
+"F: Was ist der erste Buchstabe des Wortes ""Nerv""? A:","['N', 'e', 'r', 'v']",N,"nerv""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Dame"": ","['D', 'a', 'm', 'e']",D,dame den ersten buchstabe
+"F: Was ist der erste Buchstabe des Wortes ""Gerichtssaal""? A:","['G', 'e', 'r', 'i', 'c', 'h', 't', 's', 's', 'a', 'a', 'l']",G,gerichtssaal? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Stockwerk""? A:","['S', 't', 'o', 'c', 'k', 'w', 'e', 'r', 'k']",S,stockwerk?
+"F: Was ist der erste Buchstabe des Wortes ""Fachschule""? A:","['F', 'a', 'c', 'h', 's', 'c', 'h', 'u', 'l', 'e']",F,"f: asterstein des ortes """
+"Schreibe den ersten Buchstaben des Wortes ""Feuerwehr"": ","['F', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r']",F,"feuerwehr"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Onkel""? A:","['O', 'n', 'k', 'e', 'l']",O,onkel?
+"Schreibe den ersten Buchstaben des Wortes ""Feuerwehr"": ","['F', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r']",F,"feuerwehr"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""besetzen""? A:","['b', 'e', 's', 'e', 't', 'z', 'e', 'n']",b,b: as ist der erste buchs
+"F: Mit welchem Buchstaben beginnt das Wort ""Akzent""? A:","['A', 'k', 'z', 'e', 'n', 't']",A,a:
+"F: Was ist der erste Buchstabe des Wortes ""Lichtschalter""? A:","['L', 'i', 'c', 'h', 't', 's', 'c', 'h', 'a', 'l', 't', 'e', 'r']",L,"lichtschalter ""lichtschal"
+"F: Was ist der erste Buchstabe des Wortes ""Abteilung""? A:","['A', 'b', 't', 'e', 'i', 'l', 'u', 'n', 'g']",A,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""friedlich""? A:","['f', 'r', 'i', 'e', 'd', 'l', 'i', 'c', 'h']",f,friedlich? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""reduziert""? A:","['r', 'e', 'd', 'u', 'z', 'i', 'e', 'r', 't']",r,reduziert?
+"F: Was ist der erste Buchstabe des Wortes ""putzen""? A:","['p', 'u', 't', 'z', 'e', 'n']",p,putzen?
+"Schreibe den ersten Buchstaben des Wortes ""Substanz"": ","['S', 'u', 'b', 's', 't', 'a', 'n', 'z']",S,"schreibe des ortes ""subst"
+"Schreibe den ersten Buchstaben des Wortes ""hassen"": ","['h', 'a', 's', 's', 'e', 'n']",h,"hassen des ortes ""hassen"""
+"F: Was ist der erste Buchstabe des Wortes ""Mischung""? A:","['M', 'i', 's', 'c', 'h', 'u', 'n', 'g']",M,"mischung des ortes ""misch"
+"Schreibe den ersten Buchstaben des Wortes ""Unterricht"": ","['U', 'n', 't', 'e', 'r', 'r', 'i', 'c', 'h', 't']",U,"unterricht des ortes ""unt"
+"Schreibe den ersten Buchstaben des Wortes ""Flickenteppich"": ","['F', 'l', 'i', 'c', 'k', 'e', 'n', 't', 'e', 'p', 'p', 'i', 'c', 'h']",F,flickenteppich des ortes 
+"F: Mit welchem Buchstaben beginnt das Wort ""Blattspinat""? A:","['B', 'l', 'a', 't', 't', 's', 'p', 'i', 'n', 'a', 't']",B,b:	blattspinat?
+"F: Was ist der erste Buchstabe des Wortes ""feige""? A:","['f', 'e', 'i', 'g', 'e']",f,f: astern france.
+"Schreibe den ersten Buchstaben des Wortes ""Kleid"": ","['K', 'l', 'e', 'i', 'd']",K,"kleiden des ortes ""kleide"
+"F: Mit welchem Buchstaben beginnt das Wort ""erzaehlen""? A:","['e', 'r', 'z', 'a', 'e', 'h', 'l', 'e', 'n']",e,erzaehlen beginnt das ort
+"Schreibe den ersten Buchstaben des Wortes ""Tuete"": ","['T', 'u', 'e', 't', 'e']",T,"tuete"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""unterhaltsam""? A:","['u', 'n', 't', 'e', 'r', 'h', 'a', 'l', 't', 's', 'a', 'm']",u,unterhaltsam beginnt das 
+"F: Was ist der erste Buchstabe des Wortes ""Form""? A:","['F', 'o', 'r', 'm']",F,f: astern der erste buchs
+"F: Mit welchem Buchstaben beginnt das Wort ""Depot""? A:","['D', 'e', 'p', 'o', 't']",D,depot.
+"F: Was ist der erste Buchstabe des Wortes ""Aktivitaet""? A:","['A', 'k', 't', 'i', 'v', 'i', 't', 'a', 'e', 't']",A,a:
+"Schreibe den ersten Buchstaben des Wortes ""behandeln"": ","['b', 'e', 'h', 'a', 'n', 'd', 'e', 'l', 'n']",b,behandeln is a municipali
+"F: Mit welchem Buchstaben beginnt das Wort ""Regierung""? A:","['R', 'e', 'g', 'i', 'e', 'r', 'u', 'n', 'g']",R,regierung.
+"Schreibe den ersten Buchstaben des Wortes ""Obstgarten"": ","['O', 'b', 's', 't', 'g', 'a', 'r', 't', 'e', 'n']",O,"obstgarten des ortes ""obs"
+"F: Was ist der erste Buchstabe des Wortes ""schlafen""? A:","['s', 'c', 'h', 'l', 'a', 'f', 'e', 'n']",s,schlafen is a municipalit
+"F: Was ist der erste Buchstabe des Wortes ""Dokument""? A:","['D', 'o', 'k', 'u', 'm', 'e', 'n', 't']",D,dokument?
+"F: Was ist der erste Buchstabe des Wortes ""vorbereiten""? A:","['v', 'o', 'r', 'b', 'e', 'r', 'e', 'i', 't', 'e', 'n']",v,vorbereiten?
+"Schreibe den ersten Buchstaben des Wortes ""Fahrstuhl"": ","['F', 'a', 'h', 'r', 's', 't', 'u', 'h', 'l']",F,"fahrstuhl des ortes ""fahr"
+"F: Mit welchem Buchstaben beginnt das Wort ""zahm""? A:","['z', 'a', 'h', 'm']",z,"zahm""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Besetzung""? A:","['B', 'e', 's', 'e', 't', 'z', 'u', 'n', 'g']",B,b:	besetzung?
+"F: Was ist der erste Buchstabe des Wortes ""Depot""? A:","['D', 'e', 'p', 'o', 't']",D,"des ortes ""depot""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""erfuellen""? A:","['e', 'r', 'f', 'u', 'e', 'l', 'l', 'e', 'n']",e,erfuellen beginnt das ort
+"F: Mit welchem Buchstaben beginnt das Wort ""Temperatur""? A:","['T', 'e', 'm', 'p', 'e', 'r', 'a', 't', 'u', 'r']",T,temperature (mit welchem 
+"F: Was ist der erste Buchstabe des Wortes ""Campingzelt""? A:","['C', 'a', 'm', 'p', 'i', 'n', 'g', 'z', 'e', 'l', 't']",C,campingzelt?
+"F: Mit welchem Buchstaben beginnt das Wort ""Ahorn""? A:","['A', 'h', 'o', 'r', 'n']",A,a:
+"Schreibe den ersten Buchstaben des Wortes ""Planet"": ","['P', 'l', 'a', 'n', 'e', 't']",P,planet:
+"F: Was ist der erste Buchstabe des Wortes ""Schraube""? A:","['S', 'c', 'h', 'r', 'a', 'u', 'b', 'e']",S,"schrauben des ortes ""schr"
+"Schreibe den ersten Buchstaben des Wortes ""dick"": ","['d', 'i', 'c', 'k']",d,"des ortes ""dick"":"
+"F: Was ist der erste Buchstabe des Wortes ""Balkon""? A:","['B', 'a', 'l', 'k', 'o', 'n']",B,"balkon des ortes ""balkon"""
+"F: Was ist der erste Buchstabe des Wortes ""Werkzeug""? A:","['W', 'e', 'r', 'k', 'z', 'e', 'u', 'g']",W, erkzeug? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""umarmen""? A:","['u', 'm', 'a', 'r', 'm', 'e', 'n']",u,"umarmen beginnt das ort """
+"F: Mit welchem Buchstaben beginnt das Wort ""Schulter""? A:","['S', 'c', 'h', 'u', 'l', 't', 'e', 'r']",S,schulter is a municipalit
+"F: Was ist der erste Buchstabe des Wortes ""einladen""? A:","['e', 'i', 'n', 'l', 'a', 'd', 'e', 'n']",e,einladen?
+"Schreibe den ersten Buchstaben des Wortes ""antworten"": ","['a', 'n', 't', 'w', 'o', 'r', 't', 'e', 'n']",a,"antworten des ortes ""antw"
+"F: Mit welchem Buchstaben beginnt das Wort ""Wort""? A:","['W', 'o', 'r', 't']",W, :
+"F: Mit welchem Buchstaben beginnt das Wort ""abfinden""? A:","['a', 'b', 'f', 'i', 'n', 'd', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Affe"": ","['A', 'f', 'f', 'e']",A,"affenberger des ortes ""af"
+"Schreibe den ersten Buchstaben des Wortes ""aufschreiben"": ","['a', 'u', 'f', 's', 'c', 'h', 'r', 'e', 'i', 'b', 'e', 'n']",a,"aufschreiben des ortes ""a"
+"F: Was ist der erste Buchstabe des Wortes ""Suppe""? A:","['S', 'u', 'p', 'p', 'e']",S,suppe? a:
+"Schreibe den ersten Buchstaben des Wortes ""schreien"": ","['s', 'c', 'h', 'r', 'e', 'i', 'e', 'n']",s,schreibe den ersten buchs
+"Schreibe den ersten Buchstaben des Wortes ""Post"": ","['P', 'o', 's', 't']",P,post:
+"F: Mit welchem Buchstaben beginnt das Wort ""Statue""? A:","['S', 't', 'a', 't', 'u', 'e']",S,statue?
+"F: Mit welchem Buchstaben beginnt das Wort ""schmeichelhaft""? A:","['s', 'c', 'h', 'm', 'e', 'i', 'c', 'h', 'e', 'l', 'h', 'a', 'f', 't']",s,"schmeichelhaft ""schmeiche"
+"Schreibe den ersten Buchstaben des Wortes ""geistreich"": ","['g', 'e', 'i', 's', 't', 'r', 'e', 'i', 'c', 'h']",g,"geistreich des ortes ""gei"
+"F: Was ist der erste Buchstabe des Wortes ""Handarbeit""? A:","['H', 'a', 'n', 'd', 'a', 'r', 'b', 'e', 'i', 't']",H,handarbeit?
+"F: Was ist der erste Buchstabe des Wortes ""Kette""? A:","['K', 'e', 't', 't', 'e']",K,"kette des ortes ""kette""? "
+"F: Was ist der erste Buchstabe des Wortes ""unternehmen""? A:","['u', 'n', 't', 'e', 'r', 'n', 'e', 'h', 'm', 'e', 'n']",u,unternehmen? a:
+"F: Was ist der erste Buchstabe des Wortes ""Stall""? A:","['S', 't', 'a', 'l', 'l']",S,stall?
+"F: Mit welchem Buchstaben beginnt das Wort ""Kaffee""? A:","['K', 'a', 'f', 'f', 'e', 'e']",K,kaffee? a:
+"Schreibe den ersten Buchstaben des Wortes ""unpuenktlich"": ","['u', 'n', 'p', 'u', 'e', 'n', 'k', 't', 'l', 'i', 'c', 'h']",u,"unpuenktlich des ortes ""u"
+"F: Mit welchem Buchstaben beginnt das Wort ""Medizin""? A:","['M', 'e', 'd', 'i', 'z', 'i', 'n']",M,medizin?
+"F: Mit welchem Buchstaben beginnt das Wort ""Ballonfahrt""? A:","['B', 'a', 'l', 'l', 'o', 'n', 'f', 'a', 'h', 'r', 't']",B,ballonfahrt?
+"F: Was ist der erste Buchstabe des Wortes ""Durst""? A:","['D', 'u', 'r', 's', 't']",D,d:
+"Schreibe den ersten Buchstaben des Wortes ""ausleihen"": ","['a', 'u', 's', 'l', 'e', 'i', 'h', 'e', 'n']",a,"ausleihen des ortes ""ausl"
+"F: Mit welchem Buchstaben beginnt das Wort ""Wiese""? A:","['W', 'i', 'e', 's', 'e']",W, iese?
+"F: Was ist der erste Buchstabe des Wortes ""Getraenk""? A:","['G', 'e', 't', 'r', 'a', 'e', 'n', 'k']",G,"getraenk""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Ballon""? A:","['B', 'a', 'l', 'l', 'o', 'n']",B,ballon?
+"Schreibe den ersten Buchstaben des Wortes ""Trick"": ","['T', 'r', 'i', 'c', 'k']",T,"trick ortes ""trick"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Mischung""? A:","['M', 'i', 's', 'c', 'h', 'u', 'n', 'g']",M,mischung beginnt das ort 
+"F: Was ist der erste Buchstabe des Wortes ""erhalten""? A:","['e', 'r', 'h', 'a', 'l', 't', 'e', 'n']",e,erhalten is a municipalit
+"F: Mit welchem Buchstaben beginnt das Wort ""lustvoll""? A:","['l', 'u', 's', 't', 'v', 'o', 'l', 'l']",l,"lustvoll""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Boden""? A:","['B', 'o', 'd', 'e', 'n']",B,b: as ist der erste buchs
+"Schreibe den ersten Buchstaben des Wortes ""Hoeren"": ","['H', 'o', 'e', 'r', 'e', 'n']",H,"hoeren des ortes ""hoeren"""
+"F: Was ist der erste Buchstabe des Wortes ""Begabung""? A:","['B', 'e', 'g', 'a', 'b', 'u', 'n', 'g']",B,b:	begabung?
+"F: Was ist der erste Buchstabe des Wortes ""Nacht""? A:","['N', 'a', 'c', 'h', 't']",N,nacht?
+"F: Mit welchem Buchstaben beginnt das Wort ""scheiden""? A:","['s', 'c', 'h', 'e', 'i', 'd', 'e', 'n']",s,scheiden?
+"F: Was ist der erste Buchstabe des Wortes ""annehmen""? A:","['a', 'n', 'n', 'e', 'h', 'm', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Erfindung""? A:","['E', 'r', 'f', 'i', 'n', 'd', 'u', 'n', 'g']",E,erfindung?
+"Schreibe den ersten Buchstaben des Wortes ""Luft"": ","['L', 'u', 'f', 't']",L,luft was born in bergen o
+"F: Was ist der erste Buchstabe des Wortes ""spielen""? A:","['s', 'p', 'i', 'e', 'l', 'e', 'n']",s,"spielen ""spielen""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""luegen"": ","['l', 'u', 'e', 'g', 'e', 'n']",l,"luegen"":"
+"F: Was ist der erste Buchstabe des Wortes ""Traum""? A:","['T', 'r', 'a', 'u', 'm']",T,"traum (""traum"") is a comm"
+"Schreibe den ersten Buchstaben des Wortes ""Gedenkstaette"": ","['G', 'e', 'd', 'e', 'n', 'k', 's', 't', 'a', 'e', 't', 't', 'e']",G,gedenkstaetten des ortes 
+"F: Mit welchem Buchstaben beginnt das Wort ""Strasse""? A:","['S', 't', 'r', 'a', 's', 's', 'e']",S,"strasse des ort""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Essenz""? A:","['E', 's', 's', 'e', 'n', 'z']",E,essenz?
+"F: Was ist der erste Buchstabe des Wortes ""Kloster""? A:","['K', 'l', 'o', 's', 't', 'e', 'r']",K,kloster?
+"F: Mit welchem Buchstaben beginnt das Wort ""Bewohner""? A:","['B', 'e', 'w', 'o', 'h', 'n', 'e', 'r']",B,b: as ist der erste buchs
+"F: Was ist der erste Buchstabe des Wortes ""kreativ""? A:","['k', 'r', 'e', 'a', 't', 'i', 'v']",k,"kreative des ortes ""kreat"
+"F: Was ist der erste Buchstabe des Wortes ""decken""? A:","['d', 'e', 'c', 'k', 'e', 'n']",d,"des ortes ""decken""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Kollege"": ","['K', 'o', 'l', 'l', 'e', 'g', 'e']",K,"kollegen des ortes ""kolle"
+"F: Mit welchem Buchstaben beginnt das Wort ""Taucher""? A:","['T', 'a', 'u', 'c', 'h', 'e', 'r']",T,taucher?
+"F: Mit welchem Buchstaben beginnt das Wort ""Holz""? A:","['H', 'o', 'l', 'z']",H,holzenbuchstaben district
+"F: Was ist der erste Buchstabe des Wortes ""Garage""? A:","['G', 'a', 'r', 'a', 'g', 'e']",G,garage?
+"F: Mit welchem Buchstaben beginnt das Wort ""Insel""? A:","['I', 'n', 's', 'e', 'l']",I,insel (insel and insel) i
+"Schreibe den ersten Buchstaben des Wortes ""virtuell"": ","['v', 'i', 'r', 't', 'u', 'e', 'l', 'l']",v,"virtuellen ""virtuellen"":"
+"Schreibe den ersten Buchstaben des Wortes ""bestimmt"": ","['b', 'e', 's', 't', 'i', 'm', 'm', 't']",b,"bestimmt des ortes ""besti"
+"F: Mit welchem Buchstaben beginnt das Wort ""Korb""? A:","['K', 'o', 'r', 'b']",K,"korben""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""gemeinsam"": ","['g', 'e', 'm', 'e', 'i', 'n', 's', 'a', 'm']",g,gemeinsam is a municipali
+"Schreibe den ersten Buchstaben des Wortes ""Deodorant"": ","['D', 'e', 'o', 'd', 'o', 'r', 'a', 'n', 't']",D,"des ortes ""deodorant"":"
+"Schreibe den ersten Buchstaben des Wortes ""Kellner"": ","['K', 'e', 'l', 'l', 'n', 'e', 'r']",K,"kellner des ortes ""kellne"
+"F: Mit welchem Buchstaben beginnt das Wort ""grazil""? A:","['g', 'r', 'a', 'z', 'i', 'l']",g,grazil? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Million""? A:","['M', 'i', 'l', 'l', 'i', 'o', 'n']",M,million?
+"F: Was ist der erste Buchstabe des Wortes ""adoptieren""? A:","['a', 'd', 'o', 'p', 't', 'i', 'e', 'r', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""teuer""? A:","['t', 'e', 'u', 'e', 'r']",t,teuer?
+"F: Was ist der erste Buchstabe des Wortes ""Herz""? A:","['H', 'e', 'r', 'z']",H,"herzeger""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Schokolade"": ","['S', 'c', 'h', 'o', 'k', 'o', 'l', 'a', 'd', 'e']",S,"schreibe des ortes ""schok"
+"Schreibe den ersten Buchstaben des Wortes ""gefallen"": ","['g', 'e', 'f', 'a', 'l', 'l', 'e', 'n']",g,gefallen is a municipalit
+"Schreibe den ersten Buchstaben des Wortes ""Bildung"": ","['B', 'i', 'l', 'd', 'u', 'n', 'g']",B,bildung died on 1 january
+"Schreibe den ersten Buchstaben des Wortes ""ersetzen"": ","['e', 'r', 's', 'e', 't', 'z', 'e', 'n']",e,"ersetzen des ortes ""erset"
+"F: Was ist der erste Buchstabe des Wortes ""nehmen""? A:","['n', 'e', 'h', 'm', 'e', 'n']",n,nehmen? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Kompass""? A:","['K', 'o', 'm', 'p', 'a', 's', 's']",K,kompass?
+"F: Mit welchem Buchstaben beginnt das Wort ""Ziegel""? A:","['Z', 'i', 'e', 'g', 'e', 'l']",Z,ziegel? a:
+"Schreibe den ersten Buchstaben des Wortes ""Bauer"": ","['B', 'a', 'u', 'e', 'r']",B,"bauer des ortes ""bauer"":"
+"F: Was ist der erste Buchstabe des Wortes ""Richtung""? A:","['R', 'i', 'c', 'h', 't', 'u', 'n', 'g']",R,"richtung, richtung is a m"
+"F: Mit welchem Buchstaben beginnt das Wort ""Reise""? A:","['R', 'e', 'i', 's', 'e']",R,reise?
+"F: Mit welchem Buchstaben beginnt das Wort ""Dampf""? A:","['D', 'a', 'm', 'p', 'f']",D,"das ort ""das""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Oper"": ","['O', 'p', 'e', 'r']",O,oper is a municipality in
+"F: Mit welchem Buchstaben beginnt das Wort ""Samen""? A:","['S', 'a', 'm', 'e', 'n']",S,samen.
+"F: Was ist der erste Buchstabe des Wortes ""neidisch""? A:","['n', 'e', 'i', 'd', 'i', 's', 'c', 'h']",n,"neidisch ""neidisch""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Handschuhe""? A:","['H', 'a', 'n', 'd', 's', 'c', 'h', 'u', 'h', 'e']",H,handschuhe?
+"F: Mit welchem Buchstaben beginnt das Wort ""Schnee""? A:","['S', 'c', 'h', 'n', 'e', 'e']",S,schnee? a:
+"F: Was ist der erste Buchstabe des Wortes ""Bogenlampe""? A:","['B', 'o', 'g', 'e', 'n', 'l', 'a', 'm', 'p', 'e']",B,b:	bogenlampe?
+"F: Was ist der erste Buchstabe des Wortes ""Brust""? A:","['B', 'r', 'u', 's', 't']",B,brust?
+"F: Was ist der erste Buchstabe des Wortes ""unsympathisch""? A:","['u', 'n', 's', 'y', 'm', 'p', 'a', 't', 'h', 'i', 's', 'c', 'h']",u,"unsympathisch""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Fahrzeug""? A:","['F', 'a', 'h', 'r', 'z', 'e', 'u', 'g']",F,"f: asterstein des ortes """
+"F: Mit welchem Buchstaben beginnt das Wort ""Schalter""? A:","['S', 'c', 'h', 'a', 'l', 't', 'e', 'r']",S,schalter?
+"F: Was ist der erste Buchstabe des Wortes ""Lehrer""? A:","['L', 'e', 'h', 'r', 'e', 'r']",L,lehrer is a municipality 
+"Schreibe den ersten Buchstaben des Wortes ""schlafen"": ","['s', 'c', 'h', 'l', 'a', 'f', 'e', 'n']",s,"schlafen des ortes ""schla"
+"F: Was ist der erste Buchstabe des Wortes ""Student""? A:","['S', 't', 'u', 'd', 'e', 'n', 't']",S,student?
+"F: Was ist der erste Buchstabe des Wortes ""Luft""? A:","['L', 'u', 'f', 't']",L,l:
+"Schreibe den ersten Buchstaben des Wortes ""bereiten"": ","['b', 'e', 'r', 'e', 'i', 't', 'e', 'n']",b,bereiten was born in bere
+"Schreibe den ersten Buchstaben des Wortes ""Telefon"": ","['T', 'e', 'l', 'e', 'f', 'o', 'n']",T,"telefon"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Festival""? A:","['F', 'e', 's', 't', 'i', 'v', 'a', 'l']",F,f: mit welchem buchstaben
+"F: Mit welchem Buchstaben beginnt das Wort ""Kasten""? A:","['K', 'a', 's', 't', 'e', 'n']",K,kasten?
+"F: Mit welchem Buchstaben beginnt das Wort ""Herbstlaub""? A:","['H', 'e', 'r', 'b', 's', 't', 'l', 'a', 'u', 'b']",H,herbstlaub?
+"Schreibe den ersten Buchstaben des Wortes ""Gelaende"": ","['G', 'e', 'l', 'a', 'e', 'n', 'd', 'e']",G,"gelaende des ortes ""gelae"
+"F: Was ist der erste Buchstabe des Wortes ""studieren""? A:","['s', 't', 'u', 'd', 'i', 'e', 'r', 'e', 'n']",s,"studieren""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Beobachtung"": ","['B', 'e', 'o', 'b', 'a', 'c', 'h', 't', 'u', 'n', 'g']",B,beobachtung is a municipa
+"Schreibe den ersten Buchstaben des Wortes ""abbrechen"": ","['a', 'b', 'b', 'r', 'e', 'c', 'h', 'e', 'n']",a,"abbrechen des ortes ""abbr"
+"F: Was ist der erste Buchstabe des Wortes ""Funktion""? A:","['F', 'u', 'n', 'k', 't', 'i', 'o', 'n']",F,f: ast der erste buchstab
+"F: Was ist der erste Buchstabe des Wortes ""aussteigen""? A:","['a', 'u', 's', 's', 't', 'e', 'i', 'g', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Dollar""? A:","['D', 'o', 'l', 'l', 'a', 'r']",D,dollar?
+"F: Was ist der erste Buchstabe des Wortes ""Kranich""? A:","['K', 'r', 'a', 'n', 'i', 'c', 'h']",K,"kranich, ""kranich""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Himmel""? A:","['H', 'i', 'm', 'm', 'e', 'l']",H,himmel? a:
+"Schreibe den ersten Buchstaben des Wortes ""ziehen"": ","['z', 'i', 'e', 'h', 'e', 'n']",z,"ziehen des ortes ""ziehen"""
+"F: Was ist der erste Buchstabe des Wortes ""Jahrmarkt""? A:","['J', 'a', 'h', 'r', 'm', 'a', 'r', 'k', 't']",J,jahrmarkt?
+"F: Mit welchem Buchstaben beginnt das Wort ""Rechnung""? A:","['R', 'e', 'c', 'h', 'n', 'u', 'n', 'g']",R,"rechnung, rechnung, rechn"
+"F: Mit welchem Buchstaben beginnt das Wort ""fliegen""? A:","['f', 'l', 'i', 'e', 'g', 'e', 'n']",f,f: mit welchem buchstaben
+"F: Mit welchem Buchstaben beginnt das Wort ""abladen""? A:","['a', 'b', 'l', 'a', 'd', 'e', 'n']",a,a:
+"F: Was ist der erste Buchstabe des Wortes ""gigantisch""? A:","['g', 'i', 'g', 'a', 'n', 't', 'i', 's', 'c', 'h']",g,"gigantisch des ortes ""gig"
+"F: Was ist der erste Buchstabe des Wortes ""Direktorat""? A:","['D', 'i', 'r', 'e', 'k', 't', 'o', 'r', 'a', 't']",D,"direktorat""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Draht""? A:","['D', 'r', 'a', 'h', 't']",D,draht? a:
+"F: Was ist der erste Buchstabe des Wortes ""strukturiert""? A:","['s', 't', 'r', 'u', 'k', 't', 'u', 'r', 'i', 'e', 'r', 't']",s,strukturiert?
+"Schreibe den ersten Buchstaben des Wortes ""Kaefig"": ","['K', 'a', 'e', 'f', 'i', 'g']",K,"kaefig des ortes ""kaefig"""
+"F: Mit welchem Buchstaben beginnt das Wort ""Leder""? A:","['L', 'e', 'd', 'e', 'r']",L,leder?
+"Schreibe den ersten Buchstaben des Wortes ""aufmachen"": ","['a', 'u', 'f', 'm', 'a', 'c', 'h', 'e', 'n']",a,"aufmachen des ortes ""aufm"
+"F: Was ist der erste Buchstabe des Wortes ""Schwester""? A:","['S', 'c', 'h', 'w', 'e', 's', 't', 'e', 'r']",S,"schwester des ortes ""schw"
+"Schreibe den ersten Buchstaben des Wortes ""Bettwaesche"": ","['B', 'e', 't', 't', 'w', 'a', 'e', 's', 'c', 'h', 'e']",B,bettwaescheibe des ortes 
+"F: Mit welchem Buchstaben beginnt das Wort ""unklar""? A:","['u', 'n', 'k', 'l', 'a', 'r']",u,"unklar district (""landkre"
+"F: Mit welchem Buchstaben beginnt das Wort ""Blume""? A:","['B', 'l', 'u', 'm', 'e']",B,b: as ist der erste buchs
+"F: Mit welchem Buchstaben beginnt das Wort ""Tropfen""? A:","['T', 'r', 'o', 'p', 'f', 'e', 'n']",T,tropfen?
+"F: Was ist der erste Buchstabe des Wortes ""Rand""? A:","['R', 'a', 'n', 'd']",R,"rand, rand, rand, rand, r"
+"Schreibe den ersten Buchstaben des Wortes ""Herd"": ","['H', 'e', 'r', 'd']",H,herd:
+"Schreibe den ersten Buchstaben des Wortes ""sterben"": ","['s', 't', 'e', 'r', 'b', 'e', 'n']",s,"schreiben des ortes ""ster"
+"F: Mit welchem Buchstaben beginnt das Wort ""Hund""? A:","['H', 'u', 'n', 'd']",H,hund? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Recht""? A:","['R', 'e', 'c', 'h', 't']",R,recht.
+"F: Was ist der erste Buchstabe des Wortes ""meinen""? A:","['m', 'e', 'i', 'n', 'e', 'n']",m,"meinen ""meinen""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Biss"": ","['B', 'i', 's', 's']",B,"biss"":"
+"Schreibe den ersten Buchstaben des Wortes ""wohnen"": ","['w', 'o', 'h', 'n', 'e', 'n']",w,wohnen was born in bergen
+"Schreibe den ersten Buchstaben des Wortes ""Information"": ","['I', 'n', 'f', 'o', 'r', 'm', 'a', 't', 'i', 'o', 'n']",I,information:
+"F: Was ist der erste Buchstabe des Wortes ""Eimer""? A:","['E', 'i', 'm', 'e', 'r']",E,eimer?
+"F: Mit welchem Buchstaben beginnt das Wort ""Minute""? A:","['M', 'i', 'n', 'u', 't', 'e']",M,"minute""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""fangen""? A:","['f', 'a', 'n', 'g', 'e', 'n']",f,f: mit welchem buchstaben
+"F: Mit welchem Buchstaben beginnt das Wort ""subtil""? A:","['s', 'u', 'b', 't', 'i', 'l']",s,"subtil""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Park""? A:","['P', 'a', 'r', 'k']",P,"park ""park""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Flasche"": ","['F', 'l', 'a', 's', 'c', 'h', 'e']",F,"flasche des ortes ""flasch"
+"Schreibe den ersten Buchstaben des Wortes ""unsicher"": ","['u', 'n', 's', 'i', 'c', 'h', 'e', 'r']",u,"unsicher"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Ziege""? A:","['Z', 'i', 'e', 'g', 'e']",Z,"ziege""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""abschalten"": ","['a', 'b', 's', 'c', 'h', 'a', 'l', 't', 'e', 'n']",a,abschalten was born in be
+"F: Mit welchem Buchstaben beginnt das Wort ""Rechnung""? A:","['R', 'e', 'c', 'h', 'n', 'u', 'n', 'g']",R,"rechnung, rechnung, rechn"
+"Schreibe den ersten Buchstaben des Wortes ""Porzellan"": ","['P', 'o', 'r', 'z', 'e', 'l', 'l', 'a', 'n']",P,"porzelland des ortes ""por"
+"F: Was ist der erste Buchstabe des Wortes ""teilen""? A:","['t', 'e', 'i', 'l', 'e', 'n']",t,"teilen""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""unschuldig""? A:","['u', 'n', 's', 'c', 'h', 'u', 'l', 'd', 'i', 'g']",u,unschulzen beginnt das or
+"Schreibe den ersten Buchstaben des Wortes ""Fremdenfuehrer"": ","['F', 'r', 'e', 'm', 'd', 'e', 'n', 'f', 'u', 'e', 'h', 'r', 'e', 'r']",F,fremdenfuehrer des ortes 
+"F: Was ist der erste Buchstabe des Wortes ""Kuh""? A:","['K', 'u', 'h']",K,"kuh""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""schmal""? A:","['s', 'c', 'h', 'm', 'a', 'l']",s,"schmal""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Ausgang"": ","['A', 'u', 's', 'g', 'a', 'n', 'g']",A,"ausgangen"":"
+"F: Was ist der erste Buchstabe des Wortes ""hoffen""? A:","['h', 'o', 'f', 'f', 'e', 'n']",h,"hoffen des ortes ""hoffen"""
+"F: Mit welchem Buchstaben beginnt das Wort ""wissen""? A:","['w', 'i', 's', 's', 'e', 'n']",w,wissen?
+"F: Was ist der erste Buchstabe des Wortes ""Technik""? A:","['T', 'e', 'c', 'h', 'n', 'i', 'k']",T,technik? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Ruecken""? A:","['R', 'u', 'e', 'c', 'k', 'e', 'n']",R,ruecken?
+"Schreibe den ersten Buchstaben des Wortes ""feindlich"": ","['f', 'e', 'i', 'n', 'd', 'l', 'i', 'c', 'h']",f,"feindlich des ortes ""fein"
+"F: Was ist der erste Buchstabe des Wortes ""abzeichnen""? A:","['a', 'b', 'z', 'e', 'i', 'c', 'h', 'n', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Eventualitaet"": ","['E', 'v', 'e', 'n', 't', 'u', 'a', 'l', 'i', 't', 'a', 'e', 't']",E,ersten buchstaben des ort
+"Schreibe den ersten Buchstaben des Wortes ""See"": ","['S', 'e', 'e']",S,"schreibe des ortes ""see"":"
+"F: Was ist der erste Buchstabe des Wortes ""Muecke""? A:","['M', 'u', 'e', 'c', 'k', 'e']",M,"muecke des ortes ""muecke"""
+"Schreibe den ersten Buchstaben des Wortes ""erinnern"": ","['e', 'r', 'i', 'n', 'n', 'e', 'r', 'n']",e,"erinnern des ortes ""erinn"
+"F: Was ist der erste Buchstabe des Wortes ""Uhr""? A:","['U', 'h', 'r']",U,uhr?
+"Schreibe den ersten Buchstaben des Wortes ""einfallen"": ","['e', 'i', 'n', 'f', 'a', 'l', 'l', 'e', 'n']",e,einfallen is a municipali
+"F: Mit welchem Buchstaben beginnt das Wort ""nervoes""? A:","['n', 'e', 'r', 'v', 'o', 'e', 's']",n,nervoes?
+"Schreibe den ersten Buchstaben des Wortes ""bezahlen"": ","['b', 'e', 'z', 'a', 'h', 'l', 'e', 'n']",b,bezahlen was born in beza
+"Schreibe den ersten Buchstaben des Wortes ""abmachen"": ","['a', 'b', 'm', 'a', 'c', 'h', 'e', 'n']",a,abmachen was born in berg
+"F: Mit welchem Buchstaben beginnt das Wort ""Agentur""? A:","['A', 'g', 'e', 'n', 't', 'u', 'r']",A,a:
+"F: Was ist der erste Buchstabe des Wortes ""Spielplatz""? A:","['S', 'p', 'i', 'e', 'l', 'p', 'l', 'a', 't', 'z']",S,spielplatz?
+"F: Was ist der erste Buchstabe des Wortes ""sprechen""? A:","['s', 'p', 'r', 'e', 'c', 'h', 'e', 'n']",s,sprechen?
+"F: Was ist der erste Buchstabe des Wortes ""Jahrtausend""? A:","['J', 'a', 'h', 'r', 't', 'a', 'u', 's', 'e', 'n', 'd']",J,"jahrtausend""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""bestaendig""? A:","['b', 'e', 's', 't', 'a', 'e', 'n', 'd', 'i', 'g']",b,b: as ist der erste buchs
+"F: Mit welchem Buchstaben beginnt das Wort ""Kirche""? A:","['K', 'i', 'r', 'c', 'h', 'e']",K,kirchen?
+"F: Mit welchem Buchstaben beginnt das Wort ""Gericht""? A:","['G', 'e', 'r', 'i', 'c', 'h', 't']",G,"gericht, gericht, gericht"
+"Schreibe den ersten Buchstaben des Wortes ""empfangen"": ","['e', 'm', 'p', 'f', 'a', 'n', 'g', 'e', 'n']",e,"empfangen des ortes ""empf"
+"F: Was ist der erste Buchstabe des Wortes ""Kunst""? A:","['K', 'u', 'n', 's', 't']",K,"kunst, kunst, kunst, kuns"
+"F: Was ist der erste Buchstabe des Wortes ""anstarren""? A:","['a', 'n', 's', 't', 'a', 'r', 'r', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""bringen""? A:","['b', 'r', 'i', 'n', 'g', 'e', 'n']",b,bringen? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""benachrichtigen""? A:","['b', 'e', 'n', 'a', 'c', 'h', 'r', 'i', 'c', 'h', 't', 'i', 'g', 'e', 'n']",b,b: as ist der erste buchs
+"F: Was ist der erste Buchstabe des Wortes ""Kanal""? A:","['K', 'a', 'n', 'a', 'l']",K,"kanal des ortes ""kanal""? "
+"F: Mit welchem Buchstaben beginnt das Wort ""Muetze""? A:","['M', 'u', 'e', 't', 'z', 'e']",M,"muetze""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Liebe""? A:","['L', 'i', 'e', 'b', 'e']",L,"liebe""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Obst""? A:","['O', 'b', 's', 't']",O,obst:
+"F: Was ist der erste Buchstabe des Wortes ""Containerhafen""? A:","['C', 'o', 'n', 't', 'a', 'i', 'n', 'e', 'r', 'h', 'a', 'f', 'e', 'n']",C,containerhafen is a commu
+"F: Mit welchem Buchstaben beginnt das Wort ""Fleischstueck""? A:","['F', 'l', 'e', 'i', 's', 'c', 'h', 's', 't', 'u', 'e', 'c', 'k']",F,fleischer beginnt das ort
+"F: Was ist der erste Buchstabe des Wortes ""Besprechung""? A:","['B', 'e', 's', 'p', 'r', 'e', 'c', 'h', 'u', 'n', 'g']",B,b:	besprechung?
+"Schreibe den ersten Buchstaben des Wortes ""Schlange"": ","['S', 'c', 'h', 'l', 'a', 'n', 'g', 'e']",S,"schlange des ortes ""schla"
+"F: Was ist der erste Buchstabe des Wortes ""Regen""? A:","['R', 'e', 'g', 'e', 'n']",R,"regen""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Pudding""? A:","['P', 'u', 'd', 'd', 'i', 'n', 'g']",P,pudding?
+"F: Was ist der erste Buchstabe des Wortes ""Ohr""? A:","['O', 'h', 'r']",O,"ortes ""ohr""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Schule"": ","['S', 'c', 'h', 'u', 'l', 'e']",S,"schule"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Rucksacktour""? A:","['R', 'u', 'c', 'k', 's', 'a', 'c', 'k', 't', 'o', 'u', 'r']",R,rucksacktour?
+"F: Was ist der erste Buchstabe des Wortes ""Halbfinale""? A:","['H', 'a', 'l', 'b', 'f', 'i', 'n', 'a', 'l', 'e']",H,halbfinale.
+"F: Was ist der erste Buchstabe des Wortes ""abspringen""? A:","['a', 'b', 's', 'p', 'r', 'i', 'n', 'g', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Kino""? A:","['K', 'i', 'n', 'o']",K,kino (kino):
+"Schreibe den ersten Buchstaben des Wortes ""abwenden"": ","['a', 'b', 'w', 'e', 'n', 'd', 'e', 'n']",a,abwenden was born in berg
+"F: Mit welchem Buchstaben beginnt das Wort ""Fluegel""? A:","['F', 'l', 'u', 'e', 'g', 'e', 'l']",F,f: mit welchem buchstaben
+"F: Mit welchem Buchstaben beginnt das Wort ""Flutlicht""? A:","['F', 'l', 'u', 't', 'l', 'i', 'c', 'h', 't']",F,f: mit welchem buchstaben
+"F: Mit welchem Buchstaben beginnt das Wort ""Gott""? A:","['G', 'o', 't', 't']",G,"gott das ort ""gott""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Gruetze"": ","['G', 'r', 'u', 'e', 't', 'z', 'e']",G,"gruetzel des ortes ""gruet"
+"F: Mit welchem Buchstaben beginnt das Wort ""Tod""? A:","['T', 'o', 'd']",T,tod buchstaben beginnt da
+"F: Was ist der erste Buchstabe des Wortes ""Dienstplan""? A:","['D', 'i', 'e', 'n', 's', 't', 'p', 'l', 'a', 'n']",D,"dienstplan""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Haustier""? A:","['H', 'a', 'u', 's', 't', 'i', 'e', 'r']",H,haustier?
+"F: Was ist der erste Buchstabe des Wortes ""Mikrofon""? A:","['M', 'i', 'k', 'r', 'o', 'f', 'o', 'n']",M,mikrofon?
+"Schreibe den ersten Buchstaben des Wortes ""geizig"": ","['g', 'e', 'i', 'z', 'i', 'g']",g,"geizig des ortes ""geizig"""
+"F: Was ist der erste Buchstabe des Wortes ""Eierkarton""? A:","['E', 'i', 'e', 'r', 'k', 'a', 'r', 't', 'o', 'n']",E,"eierkart ""eierkart""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""heilsam"": ","['h', 'e', 'i', 'l', 's', 'a', 'm']",h,heilsam is a municipality
+"F: Mit welchem Buchstaben beginnt das Wort ""Ruecken""? A:","['R', 'u', 'e', 'c', 'k', 'e', 'n']",R,ruecken?
+"Schreibe den ersten Buchstaben des Wortes ""Grund"": ","['G', 'r', 'u', 'n', 'd']",G,grund den ersten buchstab
+"Schreibe den ersten Buchstaben des Wortes ""Feuerwehr"": ","['F', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r']",F,"feuerwehr"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""kompliziert""? A:","['k', 'o', 'm', 'p', 'l', 'i', 'z', 'i', 'e', 'r', 't']",k,kompliziert?
+"F: Was ist der erste Buchstabe des Wortes ""kritisch""? A:","['k', 'r', 'i', 't', 'i', 's', 'c', 'h']",k,"kritisch des ortes ""kriti"
+"Schreibe den ersten Buchstaben des Wortes ""humorvoll"": ","['h', 'u', 'm', 'o', 'r', 'v', 'o', 'l', 'l']",h,"humorvollen des ortes ""hu"
+"F: Was ist der erste Buchstabe des Wortes ""Meinung""? A:","['M', 'e', 'i', 'n', 'u', 'n', 'g']",M,"meinung des ortes ""meinun"
+"Schreibe den ersten Buchstaben des Wortes ""Heimfahrt"": ","['H', 'e', 'i', 'm', 'f', 'a', 'h', 'r', 't']",H,"heimfahrt des ortes ""heim"
+"F: Mit welchem Buchstaben beginnt das Wort ""Seite""? A:","['S', 'e', 'i', 't', 'e']",S,"seiten das ort ""seiten""? "
+"F: Was ist der erste Buchstabe des Wortes ""Rucksack""? A:","['R', 'u', 'c', 'k', 's', 'a', 'c', 'k']",R,rucksack?
+"F: Mit welchem Buchstaben beginnt das Wort ""Pinguin""? A:","['P', 'i', 'n', 'g', 'u', 'i', 'n']",P,pinguin?
+"F: Was ist der erste Buchstabe des Wortes ""komisch""? A:","['k', 'o', 'm', 'i', 's', 'c', 'h']",k,komisch? a:
+"F: Was ist der erste Buchstabe des Wortes ""Empfang""? A:","['E', 'm', 'p', 'f', 'a', 'n', 'g']",E,e:
+"F: Mit welchem Buchstaben beginnt das Wort ""Schwester""? A:","['S', 'c', 'h', 'w', 'e', 's', 't', 'e', 'r']",S,schwester beginnt das ort
+"F: Mit welchem Buchstaben beginnt das Wort ""Bein""? A:","['B', 'e', 'i', 'n']",B,b: as ist der erste buchs
+"F: Was ist der erste Buchstabe des Wortes ""Chance""? A:","['C', 'h', 'a', 'n', 'c', 'e']",C,chance.
+"F: Mit welchem Buchstaben beginnt das Wort ""diskutieren""? A:","['d', 'i', 's', 'k', 'u', 't', 'i', 'e', 'r', 'e', 'n']",d,"diskutieren, diskutieren,"
+"F: Was ist der erste Buchstabe des Wortes ""wachsen""? A:","['w', 'a', 'c', 'h', 's', 'e', 'n']",w,wachsen?
+"F: Was ist der erste Buchstabe des Wortes ""denken""? A:","['d', 'e', 'n', 'k', 'e', 'n']",d,der erste buchstabe des o
+"Schreibe den ersten Buchstaben des Wortes ""Fleisch"": ","['F', 'l', 'e', 'i', 's', 'c', 'h']",F,"fleisch"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Leiter""? A:","['L', 'e', 'i', 't', 'e', 'r']",L,leiter (leiter) is a muni
+"F: Mit welchem Buchstaben beginnt das Wort ""Kollege""? A:","['K', 'o', 'l', 'l', 'e', 'g', 'e']",K,kollege?
+"F: Was ist der erste Buchstabe des Wortes ""Schmuck""? A:","['S', 'c', 'h', 'm', 'u', 'c', 'k']",S,schmuck? a:
+"F: Was ist der erste Buchstabe des Wortes ""einsteigen""? A:","['e', 'i', 'n', 's', 't', 'e', 'i', 'g', 'e', 'n']",e,einsteigen?
+"F: Was ist der erste Buchstabe des Wortes ""Finger""? A:","['F', 'i', 'n', 'g', 'e', 'r']",F,f: aster finger? a:
+"F: Was ist der erste Buchstabe des Wortes ""blasen""? A:","['b', 'l', 'a', 's', 'e', 'n']",b,b: astern der erste buchs
+"F: Was ist der erste Buchstabe des Wortes ""Pizza""? A:","['P', 'i', 'z', 'z', 'a']",P,pizza?
+"F: Was ist der erste Buchstabe des Wortes ""Strumpf""? A:","['S', 't', 'r', 'u', 'm', 'p', 'f']",S,strumpf? a:
+"Schreibe den ersten Buchstaben des Wortes ""putzen"": ","['p', 'u', 't', 'z', 'e', 'n']",p,"putzen des ortes ""putzen"""
+"F: Was ist der erste Buchstabe des Wortes ""Urlaub""? A:","['U', 'r', 'l', 'a', 'u', 'b']",U,"urlaub des ortes ""urlaub"""
+"Schreibe den ersten Buchstaben des Wortes ""Erhitzen"": ","['E', 'r', 'h', 'i', 't', 'z', 'e', 'n']",E,"erhitzen des ortes ""erhit"
+"F: Mit welchem Buchstaben beginnt das Wort ""sein""? A:","['s', 'e', 'i', 'n']",s,sein?
+"F: Mit welchem Buchstaben beginnt das Wort ""Schere""? A:","['S', 'c', 'h', 'e', 'r', 'e']",S,"schere des ort ""schere""? "
+"F: Mit welchem Buchstaben beginnt das Wort ""Gleis""? A:","['G', 'l', 'e', 'i', 's']",G,"gleist""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Betreuung""? A:","['B', 'e', 't', 'r', 'e', 'u', 'u', 'n', 'g']",B,b: as ist der erste buchs
+"F: Mit welchem Buchstaben beginnt das Wort ""Schal""? A:","['S', 'c', 'h', 'a', 'l']",S,"schal""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Gewinn"": ","['G', 'e', 'w', 'i', 'n', 'n']",G,gewinnen was born in berg
+"F: Was ist der erste Buchstabe des Wortes ""Inkasso""? A:","['I', 'n', 'k', 'a', 's', 's', 'o']",I,"inkasso ""inkasso""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""kategorisch""? A:","['k', 'a', 't', 'e', 'g', 'o', 'r', 'i', 's', 'c', 'h']",k,"kategorisch des ortes ""ka"
+"F: Mit welchem Buchstaben beginnt das Wort ""laufen""? A:","['l', 'a', 'u', 'f', 'e', 'n']",l,"laufen beginnt das ort ""l"
+"Schreibe den ersten Buchstaben des Wortes ""Braten"": ","['B', 'r', 'a', 't', 'e', 'n']",B,braten was born in bratis
+"F: Mit welchem Buchstaben beginnt das Wort ""Gebaeude""? A:","['G', 'e', 'b', 'a', 'e', 'u', 'd', 'e']",G,"gebaeude""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""historisch"": ","['h', 'i', 's', 't', 'o', 'r', 'i', 's', 'c', 'h']",h,history.
+"F: Was ist der erste Buchstabe des Wortes ""Gras""? A:","['G', 'r', 'a', 's']",G,"gras des ortes ""gras""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Bedrohung"": ","['B', 'e', 'd', 'r', 'o', 'h', 'u', 'n', 'g']",B,bedrohung died on 1 janua
+"Schreibe den ersten Buchstaben des Wortes ""Maus"": ","['M', 'a', 'u', 's']",M,"maus des ortes ""maus"":"
+"F: Was ist der erste Buchstabe des Wortes ""gehen""? A:","['g', 'e', 'h', 'e', 'n']",g,gehen?
+"Schreibe den ersten Buchstaben des Wortes ""Fachgebiet"": ","['F', 'a', 'c', 'h', 'g', 'e', 'b', 'i', 'e', 't']",F,"fachgebiet des ortes ""fac"
+"Schreibe den ersten Buchstaben des Wortes ""absichern"": ","['a', 'b', 's', 'i', 'c', 'h', 'e', 'r', 'n']",a,"absichern des ortes ""absi"
+"F: Mit welchem Buchstaben beginnt das Wort ""Geburtstag""? A:","['G', 'e', 'b', 'u', 'r', 't', 's', 't', 'a', 'g']",G,geburtstagen beginnt das 
+"Schreibe den ersten Buchstaben des Wortes ""Arznei"": ","['A', 'r', 'z', 'n', 'e', 'i']",A,"arzneiden des ortes ""arzn"
+"F: Mit welchem Buchstaben beginnt das Wort ""Hoelle""? A:","['H', 'o', 'e', 'l', 'l', 'e']",H,hoelle? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Dessert""? A:","['D', 'e', 's', 's', 'e', 'r', 't']",D,dessert?
+"F: Was ist der erste Buchstabe des Wortes ""Erziehung""? A:","['E', 'r', 'z', 'i', 'e', 'h', 'u', 'n', 'g']",E,"erziehung des ortes ""erzi"
+"F: Mit welchem Buchstaben beginnt das Wort ""Hoffnung""? A:","['H', 'o', 'f', 'f', 'n', 'u', 'n', 'g']",H,hoffnung? a:
+"F: Was ist der erste Buchstabe des Wortes ""mutig""? A:","['m', 'u', 't', 'i', 'g']",m,"mutig""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""heroisch""? A:","['h', 'e', 'r', 'o', 'i', 's', 'c', 'h']",h,"heroisch ""heroisch""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""anrufen""? A:","['a', 'n', 'r', 'u', 'f', 'e', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Besucher""? A:","['B', 'e', 's', 'u', 'c', 'h', 'e', 'r']",B,b: as ist der erste buchs
+"F: Was ist der erste Buchstabe des Wortes ""unkonventionell""? A:","['u', 'n', 'k', 'o', 'n', 'v', 'e', 'n', 't', 'i', 'o', 'n', 'e', 'l', 'l']",u,unkonventionell des ortes
+"F: Was ist der erste Buchstabe des Wortes ""schuechtern""? A:","['s', 'c', 'h', 'u', 'e', 'c', 'h', 't', 'e', 'r', 'n']",s,schuechtern?
+"F: Was ist der erste Buchstabe des Wortes ""ueberraschen""? A:","['u', 'e', 'b', 'e', 'r', 'r', 'a', 's', 'c', 'h', 'e', 'n']",u,"ueberraschen des ortes ""u"
+"F: Mit welchem Buchstaben beginnt das Wort ""Gemeinschaft""? A:","['G', 'e', 'm', 'e', 'i', 'n', 's', 'c', 'h', 'a', 'f', 't']",G,"gemeinschaft ""gemeinschaf"
+"F: Mit welchem Buchstaben beginnt das Wort ""Aktion""? A:","['A', 'k', 't', 'i', 'o', 'n']",A,a:
+"F: Was ist der erste Buchstabe des Wortes ""koennen""? A:","['k', 'o', 'e', 'n', 'n', 'e', 'n']",k,koennen is a municipality
+"F: Was ist der erste Buchstabe des Wortes ""kalt""? A:","['k', 'a', 'l', 't']",k,kalt?
+"F: Was ist der erste Buchstabe des Wortes ""Telefon""? A:","['T', 'e', 'l', 'e', 'f', 'o', 'n']",T,"telefon""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Turm"": ","['T', 'u', 'r', 'm']",T,"turm des ortes ""turm"":"
+"F: Was ist der erste Buchstabe des Wortes ""Keks""? A:","['K', 'e', 'k', 's']",K,keks? a:
+"Schreibe den ersten Buchstaben des Wortes ""Arm"": ","['A', 'r', 'm']",A,armenian armenian armenia
+"Schreibe den ersten Buchstaben des Wortes ""haengen"": ","['h', 'a', 'e', 'n', 'g', 'e', 'n']",h,"haengen des ortes ""haenge"
+"F: Was ist der erste Buchstabe des Wortes ""Abschied""? A:","['A', 'b', 's', 'c', 'h', 'i', 'e', 'd']",A,a:
+"Schreibe den ersten Buchstaben des Wortes ""Monat"": ","['M', 'o', 'n', 'a', 't']",M,"monat des ortes ""monat"":"
+"Schreibe den ersten Buchstaben des Wortes ""Freundlichkeit"": ","['F', 'r', 'e', 'u', 'n', 'd', 'l', 'i', 'c', 'h', 'k', 'e', 'i', 't']",F,freundlichkeit des ortes 
+"Schreibe den ersten Buchstaben des Wortes ""sauber"": ","['s', 'a', 'u', 'b', 'e', 'r']",s,"schreibe des ortes ""saube"
+"Schreibe den ersten Buchstaben des Wortes ""Meinungsfreiheit"": ","['M', 'e', 'i', 'n', 'u', 'n', 'g', 's', 'f', 'r', 'e', 'i', 'h', 'e', 'i', 't']",M,meinungsfreiheit des orte
+"F: Mit welchem Buchstaben beginnt das Wort ""Symbol""? A:","['S', 'y', 'm', 'b', 'o', 'l']",S,symbol.
+"F: Mit welchem Buchstaben beginnt das Wort ""abschneiden""? A:","['a', 'b', 's', 'c', 'h', 'n', 'e', 'i', 'd', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Mensch"": ","['M', 'e', 'n', 's', 'c', 'h']",M,mensch is a municipality 
+"F: Was ist der erste Buchstabe des Wortes ""Messgeraet""? A:","['M', 'e', 's', 's', 'g', 'e', 'r', 'a', 'e', 't']",M,messgeraet?
+"F: Mit welchem Buchstaben beginnt das Wort ""unwichtig""? A:","['u', 'n', 'w', 'i', 'c', 'h', 't', 'i', 'g']",u,unwichtig? a:
+"Schreibe den ersten Buchstaben des Wortes ""Kaelte"": ","['K', 'a', 'e', 'l', 't', 'e']",K,"kaelte des ortes ""kaelte"""
+"Schreibe den ersten Buchstaben des Wortes ""Abkuerzung"": ","['A', 'b', 'k', 'u', 'e', 'r', 'z', 'u', 'n', 'g']",A,"abkuerzung des ortes ""abk"
+"Schreibe den ersten Buchstaben des Wortes ""ueberqueren"": ","['u', 'e', 'b', 'e', 'r', 'q', 'u', 'e', 'r', 'e', 'n']",u,"ueberqueren des ortes ""ue"
+"Schreibe den ersten Buchstaben des Wortes ""schicken"": ","['s', 'c', 'h', 'i', 'c', 'k', 'e', 'n']",s,"schicken des ortes ""schic"
+"Schreibe den ersten Buchstaben des Wortes ""Gebot"": ","['G', 'e', 'b', 'o', 't']",G,"gebot des ortes ""gebot"":"
+"F: Was ist der erste Buchstabe des Wortes ""halten""? A:","['h', 'a', 'l', 't', 'e', 'n']",h,halten? a:
+"Schreibe den ersten Buchstaben des Wortes ""Rasen"": ","['R', 'a', 's', 'e', 'n']",R,"rasen des ortes ""rasen"":"
+"F: Was ist der erste Buchstabe des Wortes ""Backofen""? A:","['B', 'a', 'c', 'k', 'o', 'f', 'e', 'n']",B,backofen?
+"F: Mit welchem Buchstaben beginnt das Wort ""benutzen""? A:","['b', 'e', 'n', 'u', 't', 'z', 'e', 'n']",b,b: as ist der erste buchs
+"Schreibe den ersten Buchstaben des Wortes ""abwerfen"": ","['a', 'b', 'w', 'e', 'r', 'f', 'e', 'n']",a,"abwerfen des ortes ""abwer"
+"Schreibe den ersten Buchstaben des Wortes ""Relief"": ","['R', 'e', 'l', 'i', 'e', 'f']",R,relief:
+"F: Mit welchem Buchstaben beginnt das Wort ""Wanne""? A:","['W', 'a', 'n', 'n', 'e']",W, anne.
+"F: Was ist der erste Buchstabe des Wortes ""System""? A:","['S', 'y', 's', 't', 'e', 'm']",S,system.
+"F: Was ist der erste Buchstabe des Wortes ""Buch""? A:","['B', 'u', 'c', 'h']",B,"b: asted ortes ""buchstabe"
+"Schreibe den ersten Buchstaben des Wortes ""progressiv"": ","['p', 'r', 'o', 'g', 'r', 'e', 's', 's', 'i', 'v']",p,progressive districts.
+"F: Was ist der erste Buchstabe des Wortes ""haesslich""? A:","['h', 'a', 'e', 's', 's', 'l', 'i', 'c', 'h']",h,haesslich?
+"Schreibe den ersten Buchstaben des Wortes ""feststellen"": ","['f', 'e', 's', 't', 's', 't', 'e', 'l', 'l', 'e', 'n']",f,"festellen des ortes ""fest"
+"F: Mit welchem Buchstaben beginnt das Wort ""Ohrenschmaus""? A:","['O', 'h', 'r', 'e', 'n', 's', 'c', 'h', 'm', 'a', 'u', 's']",O,"ort ""ohrenschmaus""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Ursache""? A:","['U', 'r', 's', 'a', 'c', 'h', 'e']",U,"ursache""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""Stein""? A:","['S', 't', 'e', 'i', 'n']",S,"stein, stein, stein and s"
+"Schreibe den ersten Buchstaben des Wortes ""Kaffee"": ","['K', 'a', 'f', 'f', 'e', 'e']",K,"kaffee"":"
+"F: Was ist der erste Buchstabe des Wortes ""mutig""? A:","['m', 'u', 't', 'i', 'g']",m,"mutig""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Brille""? A:","['B', 'r', 'i', 'l', 'l', 'e']",B,"brille des ort ""brille""? "
+"Schreibe den ersten Buchstaben des Wortes ""empfehlen"": ","['e', 'm', 'p', 'f', 'e', 'h', 'l', 'e', 'n']",e,empfehlen was born in ber
+"F: Mit welchem Buchstaben beginnt das Wort ""hart""? A:","['h', 'a', 'r', 't']",h,hart is a municipality in
+"Schreibe den ersten Buchstaben des Wortes ""Durststrecke"": ","['D', 'u', 'r', 's', 't', 's', 't', 'r', 'e', 'c', 'k', 'e']",D,"des ortes ""durststrecke"":"
+"F: Was ist der erste Buchstabe des Wortes ""frisch""? A:","['f', 'r', 'i', 's', 'c', 'h']",f,"frisch des ortes ""frisch"""
+"Schreibe den ersten Buchstaben des Wortes ""Skizze"": ","['S', 'k', 'i', 'z', 'z', 'e']",S,"schreibe des ortes ""skizz"
+"F: Was ist der erste Buchstabe des Wortes ""Arena""? A:","['A', 'r', 'e', 'n', 'a']",A,a:
+"F: Was ist der erste Buchstabe des Wortes ""Duft""? A:","['D', 'u', 'f', 't']",D,d:
+"F: Mit welchem Buchstaben beginnt das Wort ""Bademantel""? A:","['B', 'a', 'd', 'e', 'm', 'a', 'n', 't', 'e', 'l']",B,bademantel?
+"F: Was ist der erste Buchstabe des Wortes ""Netz""? A:","['N', 'e', 't', 'z']",N,n:
+"Schreibe den ersten Buchstaben des Wortes ""Federball"": ","['F', 'e', 'd', 'e', 'r', 'b', 'a', 'l', 'l']",F,federball club:
+"F: Was ist der erste Buchstabe des Wortes ""Ballon""? A:","['B', 'a', 'l', 'l', 'o', 'n']",B,ballon?
+"F: Was ist der erste Buchstabe des Wortes ""Papierkorb""? A:","['P', 'a', 'p', 'i', 'e', 'r', 'k', 'o', 'r', 'b']",P,"papierkorb des ortes ""pap"
+"F: Mit welchem Buchstaben beginnt das Wort ""Segel""? A:","['S', 'e', 'g', 'e', 'l']",S,"segel das ort ""segel""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""rund""? A:","['r', 'u', 'n', 'd']",r,rund?
+"F: Was ist der erste Buchstabe des Wortes ""Glaube""? A:","['G', 'l', 'a', 'u', 'b', 'e']",G,"glauben""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""zerbrechlich""? A:","['z', 'e', 'r', 'b', 'r', 'e', 'c', 'h', 'l', 'i', 'c', 'h']",z,"zerbrechlich, zerbrechlic"
+"F: Mit welchem Buchstaben beginnt das Wort ""definieren""? A:","['d', 'e', 'f', 'i', 'n', 'i', 'e', 'r', 'e', 'n']",d,"definieren""? a:"
+"F: Was ist der erste Buchstabe des Wortes ""lesen""? A:","['l', 'e', 's', 'e', 'n']",l,lesen?
+"F: Was ist der erste Buchstabe des Wortes ""gelassen""? A:","['g', 'e', 'l', 'a', 's', 's', 'e', 'n']",g,gelassen?
+"F: Mit welchem Buchstaben beginnt das Wort ""Krieg""? A:","['K', 'r', 'i', 'e', 'g']",K,krieg? a:
+"Schreibe den ersten Buchstaben des Wortes ""Kaelte"": ","['K', 'a', 'e', 'l', 't', 'e']",K,"kaelte des ortes ""kaelte"""
+"Schreibe den ersten Buchstaben des Wortes ""Dorf"": ","['D', 'o', 'r', 'f']",D,"des ortes ""dorf"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""klingeln""? A:","['k', 'l', 'i', 'n', 'g', 'e', 'l', 'n']",k,"klingeln, german:"
+"Schreibe den ersten Buchstaben des Wortes ""April"": ","['A', 'p', 'r', 'i', 'l']",A,april 1999:
+"Schreibe den ersten Buchstaben des Wortes ""akribisch"": ","['a', 'k', 'r', 'i', 'b', 'i', 's', 'c', 'h']",a,"akribisch des ortes ""akri"
+"F: Mit welchem Buchstaben beginnt das Wort ""Hoeren""? A:","['H', 'o', 'e', 'r', 'e', 'n']",H,"hoeren""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""auffallen""? A:","['a', 'u', 'f', 'f', 'a', 'l', 'l', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Beispiel"": ","['B', 'e', 'i', 's', 'p', 'i', 'e', 'l']",B,"beispiel des ortes ""beisp"
+"F: Was ist der erste Buchstabe des Wortes ""Bebauung""? A:","['B', 'e', 'b', 'a', 'u', 'u', 'n', 'g']",B,b:	bebauung?
+"Schreibe den ersten Buchstaben des Wortes ""gratulieren"": ","['g', 'r', 'a', 't', 'u', 'l', 'i', 'e', 'r', 'e', 'n']",g,"gratulieren des ortes ""gr"
+"F: Mit welchem Buchstaben beginnt das Wort ""Rakete""? A:","['R', 'a', 'k', 'e', 't', 'e']",R,"rakete""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Fenster"": ","['F', 'e', 'n', 's', 't', 'e', 'r']",F,fenster is a municipality
+"F: Mit welchem Buchstaben beginnt das Wort ""Stadt""? A:","['S', 't', 'a', 'd', 't']",S,"stadt ""stadt""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Abgabe""? A:","['A', 'b', 'g', 'a', 'b', 'e']",A,a:
+"Schreibe den ersten Buchstaben des Wortes ""nass"": ","['n', 'a', 's', 's']",n,"nasser des ortes ""nasser"""
+"F: Mit welchem Buchstaben beginnt das Wort ""Loeffel""? A:","['L', 'o', 'e', 'f', 'f', 'e', 'l']",L,l: mit welchem buchstaben
+"F: Was ist der erste Buchstabe des Wortes ""Betreuung""? A:","['B', 'e', 't', 'r', 'e', 'u', 'u', 'n', 'g']",B,b: ast der erste buchstab
+"Schreibe den ersten Buchstaben des Wortes ""Spiel"": ","['S', 'p', 'i', 'e', 'l']",S,"schreibe des ortes ""spiel"
+"F: Was ist der erste Buchstabe des Wortes ""Angebot""? A:","['A', 'n', 'g', 'e', 'b', 'o', 't']",A,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""Baseball""? A:","['B', 'a', 's', 'e', 'b', 'a', 'l', 'l']",B,b: as ist der erste buchs
+"F: Was ist der erste Buchstabe des Wortes ""Lektion""? A:","['L', 'e', 'k', 't', 'i', 'o', 'n']",L,lektion is a desert in th
+"Schreibe den ersten Buchstaben des Wortes ""Becher"": ","['B', 'e', 'c', 'h', 'e', 'r']",B,"becher des ortes ""becher"""
+"Schreibe den ersten Buchstaben des Wortes ""absichern"": ","['a', 'b', 's', 'i', 'c', 'h', 'e', 'r', 'n']",a,"absichern des ortes ""absi"
+"F: Was ist der erste Buchstabe des Wortes ""Wagen""? A:","['W', 'a', 'g', 'e', 'n']",W, agen?
+"F: Mit welchem Buchstaben beginnt das Wort ""sollen""? A:","['s', 'o', 'l', 'l', 'e', 'n']",s,sollen?
+"Schreibe den ersten Buchstaben des Wortes ""lebensfroh"": ","['l', 'e', 'b', 'e', 'n', 's', 'f', 'r', 'o', 'h']",l,"lebensfroh"":"
+"F: Was ist der erste Buchstabe des Wortes ""vital""? A:","['v', 'i', 't', 'a', 'l']",v,"vital""? a:"
+"F: Mit welchem Buchstaben beginnt das Wort ""Penis""? A:","['P', 'e', 'n', 'i', 's']",P,penis?
+"F: Was ist der erste Buchstabe des Wortes ""Werk""? A:","['W', 'e', 'r', 'k']",W," erkshire "" erkshire""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""schreiben"": ","['s', 'c', 'h', 'r', 'e', 'i', 'b', 'e', 'n']",s,"schreiben des ortes ""schr"
+"F: Was ist der erste Buchstabe des Wortes ""Glas""? A:","['G', 'l', 'a', 's']",G,glasgow university studen
+"F: Was ist der erste Buchstabe des Wortes ""Bekommen""? A:","['B', 'e', 'k', 'o', 'm', 'm', 'e', 'n']",B,b: ast der erste buchstab
+"F: Was ist der erste Buchstabe des Wortes ""Dreieck""? A:","['D', 'r', 'e', 'i', 'e', 'c', 'k']",D,"dreiecker des ortes ""drei"
+"F: Was ist der erste Buchstabe des Wortes ""atmen""? A:","['a', 't', 'm', 'e', 'n']",a,a:
+"Schreibe den ersten Buchstaben des Wortes ""Neffe"": ","['N', 'e', 'f', 'f', 'e']",N,"neffen des ortes ""neffen"""
+"Schreibe den ersten Buchstaben des Wortes ""essen"": ","['e', 's', 's', 'e', 'n']",e,"essen des ortes ""essen"":"
+"Schreibe den ersten Buchstaben des Wortes ""Preis"": ","['P', 'r', 'e', 'i', 's']",P,"preis des ortes ""preis"":"
+"F: Was ist der erste Buchstabe des Wortes ""schmutzig""? A:","['s', 'c', 'h', 'm', 'u', 't', 'z', 'i', 'g']",s,schmutzig?
+"F: Was ist der erste Buchstabe des Wortes ""erhalten""? A:","['e', 'r', 'h', 'a', 'l', 't', 'e', 'n']",e,erhalten is a municipalit
+"F: Mit welchem Buchstaben beginnt das Wort ""Krebs""? A:","['K', 'r', 'e', 'b', 's']",K,krebs? a:
+"F: Mit welchem Buchstaben beginnt das Wort ""aussteigen""? A:","['a', 'u', 's', 's', 't', 'e', 'i', 'g', 'e', 'n']",a,a:
+"F: Was ist der erste Buchstabe des Wortes ""Schuessel""? A:","['S', 'c', 'h', 'u', 'e', 's', 's', 'e', 'l']",S,schuessel?
+"F: Mit welchem Buchstaben beginnt das Wort ""Botanik""? A:","['B', 'o', 't', 'a', 'n', 'i', 'k']",B,b: as ist der erste buchs
+"Schreibe den ersten Buchstaben des Wortes ""Pferd"": ","['P', 'f', 'e', 'r', 'd']",P,"pferdingen des ortes ""pfe"
+"F: Was ist der erste Buchstabe des Wortes ""Nagel""? A:","['N', 'a', 'g', 'e', 'l']",N,"nagel des ortes ""nagel""? "
+"F: Was ist der erste Buchstabe des Wortes ""Steinmauer""? A:","['S', 't', 'e', 'i', 'n', 'm', 'a', 'u', 'e', 'r']",S,"steinmauer des ortes ""ste"
+"Schreibe den ersten Buchstaben des Wortes ""ansagen"": ","['a', 'n', 's', 'a', 'g', 'e', 'n']",a,administrative divisions.
+"F: Mit welchem Buchstaben beginnt das Wort ""schwaechlich""? A:","['s', 'c', 'h', 'w', 'a', 'e', 'c', 'h', 'l', 'i', 'c', 'h']",s,schwaechlich? a:
+"Schreibe den ersten Buchstaben des Wortes ""schwer"": ","['s', 'c', 'h', 'w', 'e', 'r']",s,"schweringen des ortes ""sc"
+"F: Was ist der erste Buchstabe des Wortes ""Baustelle""? A:","['B', 'a', 'u', 's', 't', 'e', 'l', 'l', 'e']",B,baustelle?
+"F: Was ist der erste Buchstabe des Wortes ""Dose""? A:","['D', 'o', 's', 'e']",D,d:
+"F: Was ist der erste Buchstabe des Wortes ""allgemeinern""? A:","['a', 'l', 'l', 'g', 'e', 'm', 'e', 'i', 'n', 'e', 'r', 'n']",a,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""romantisch""? A:","['r', 'o', 'm', 'a', 'n', 't', 'i', 's', 'c', 'h']",r,romantisch beginnt das or
+"F: Was ist der erste Buchstabe des Wortes ""Trommel""? A:","['T', 'r', 'o', 'm', 'm', 'e', 'l']",T,trommel?
+"F: Was ist der erste Buchstabe des Wortes ""Bauwerk""? A:","['B', 'a', 'u', 'w', 'e', 'r', 'k']",B,"bauwerke des ortes ""bauwe"
+"F: Was ist der erste Buchstabe des Wortes ""Decke""? A:","['D', 'e', 'c', 'k', 'e']",D,"des ortes ""decke""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Atmosphaere"": ","['A', 't', 'm', 'o', 's', 'p', 'h', 'a', 'e', 'r', 'e']",A,"atmosphaere des ortes ""at"
+"Schreibe den ersten Buchstaben des Wortes ""Ohrring"": ","['O', 'h', 'r', 'r', 'i', 'n', 'g']",O,"ortes ""ohrring"":"
+"F: Was ist der erste Buchstabe des Wortes ""Blumentopf""? A:","['B', 'l', 'u', 'm', 'e', 'n', 't', 'o', 'p', 'f']",B,b:	blumentopf?
+"F: Mit welchem Buchstaben beginnt das Wort ""Bedienung""? A:","['B', 'e', 'd', 'i', 'e', 'n', 'u', 'n', 'g']",B,b: as ist der erste buchs
+"Schreibe den ersten Buchstaben des Wortes ""wahrscheinlich"": ","['w', 'a', 'h', 'r', 's', 'c', 'h', 'e', 'i', 'n', 'l', 'i', 'c', 'h']",w,wahrscheinlich des ortes 
+"F: Mit welchem Buchstaben beginnt das Wort ""Junge""? A:","['J', 'u', 'n', 'g', 'e']",J,junge?
+"F: Was ist der erste Buchstabe des Wortes ""Bericht""? A:","['B', 'e', 'r', 'i', 'c', 'h', 't']",B,b: ast der erste buchstab
+"F: Mit welchem Buchstaben beginnt das Wort ""Pinsel""? A:","['P', 'i', 'n', 's', 'e', 'l']",P,pinsel?
+"Schreibe den ersten Buchstaben des Wortes ""Baer"": ","['B', 'a', 'e', 'r']",B,"baer des ortes ""baer"":"
+"Schreibe den ersten Buchstaben des Wortes ""Winter"": ","['W', 'i', 'n', 't', 'e', 'r']",W, inter is a municipality 
+"Schreibe den ersten Buchstaben des Wortes ""Dynamik"": ","['D', 'y', 'n', 'a', 'm', 'i', 'k']",D,"des ortes ""destruct"":"
+"F: Mit welchem Buchstaben beginnt das Wort ""Abdruck""? A:","['A', 'b', 'd', 'r', 'u', 'c', 'k']",A,a:
+"F: Mit welchem Buchstaben beginnt das Wort ""grossartig""? A:","['g', 'r', 'o', 's', 's', 'a', 'r', 't', 'i', 'g']",g,grossartig? a:
+"F: Was ist der erste Buchstabe des Wortes ""klar""? A:","['k', 'l', 'a', 'r']",k,"klar des ortes ""klar""? a:"
+"Schreibe den ersten Buchstaben des Wortes ""Ende"": ","['E', 'n', 'd', 'e']",E,"ende"":"
+"F: Was ist der erste Buchstabe des Wortes ""Bewohner""? A:","['B', 'e', 'w', 'o', 'h', 'n', 'e', 'r']",B,b: ast der erste buchstab
+"F: Mit welchem Buchstaben beginnt das Wort ""zuverlaessig""? A:","['z', 'u', 'v', 'e', 'r', 'l', 'a', 'e', 's', 's', 'i', 'g']",z,zuverlaessig?
+"F: Mit welchem Buchstaben beginnt das Wort ""Aufstieg""? A:","['A', 'u', 'f', 's', 't', 'i', 'e', 'g']",A,a:

@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kerze"" oder ""decke""? A:","['kerze', 'decke']",decke,decke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""journal"" oder ""chef""? A:","['journal', 'chef']",chef,chef
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""gabel"" oder ""drucker""? A:","['gabel', 'drucker']",drucker,drucker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""anker"" und ""jacke"" kommt zuerst? A:","['anker', 'jacke']",anker,anker
+"Welches von den Woertern ""junge"" und ""elch"", kommt alphabetisch zuerst? ","['junge', 'elch']",elch,elch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""holz"" oder ""couch""? A:","['holz', 'couch']",couch,holz
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""computer"" oder ""jury""? A:","['computer', 'jury']",computer,computer
+"Welches von den Woertern ""iglu"" und ""dezember"", kommt alphabetisch zuerst? ","['iglu', 'dezember']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""iglu"" kommt zuerst? A:","['atlas', 'iglu']",atlas,atlas
+"Welches von den Woertern ""keks"" und ""eiche"", kommt alphabetisch zuerst? ","['keks', 'eiche']",eiche,eiche
+"Welches von den Woertern ""lager"" und ""eimer"", kommt alphabetisch zuerst? ","['lager', 'eimer']",eimer,eimer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""leiter"" und ""apfel"" kommt zuerst? A:","['leiter', 'apfel']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""birne"" und ""joystick"" kommt zuerst? A:","['birne', 'joystick']",birne,birne
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glas"" oder ""decke""? A:","['glas', 'decke']",decke,decke
+"Welches von den Woertern ""fisch"" und ""input"", kommt alphabetisch zuerst? ","['fisch', 'input']",fisch,fisch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""insel"" und ""brett"" kommt zuerst? A:","['insel', 'brett']",brett,brett
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""bruecke"" oder ""intelligenz""? A:","['bruecke', 'intelligenz']",bruecke,bruecke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""abend"" und ""jeans"" kommt zuerst? A:","['abend', 'jeans']",abend,abend
+"Welches von den Woertern ""kugel"" und ""erde"", kommt alphabetisch zuerst? ","['kugel', 'erde']",erde,erde
+"Welches von den Woertern ""herz"" und ""eiche"", kommt alphabetisch zuerst? ","['herz', 'eiche']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kissen"" und ""apfel"" kommt zuerst? A:","['kissen', 'apfel']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hose"" und ""auto"" kommt zuerst? A:","['hose', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jeans"" und ""brett"" kommt zuerst? A:","['jeans', 'brett']",brett,brett
+"Welches von den Woertern ""dattel"" und ""kueche"", kommt alphabetisch zuerst? ","['dattel', 'kueche']",dattel,dattel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kaffee"" oder ""creme""? A:","['kaffee', 'creme']",creme,creme
+"Welches von den Woertern ""fuchs"" und ""journal"", kommt alphabetisch zuerst? ","['fuchs', 'journal']",fuchs,fuchs
+"Welches von den Woertern ""eule"" und ""huegel"", kommt alphabetisch zuerst? ","['eule', 'huegel']",eule,eule
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""herz""? A:","['chili', 'herz']",chili,herz
+"F: In alphabetischer Reihenfolge, welches der Woerter ""auto"" und ""igel"" kommt zuerst? A:","['auto', 'igel']",auto,auto
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""jacke"" oder ""chili""? A:","['jacke', 'chili']",chili,jacke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""besen"" oder ""hammer""? A:","['besen', 'hammer']",besen,besen
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dorf"" oder ""hammer""? A:","['dorf', 'hammer']",dorf,dorf
+"F: In alphabetischer Reihenfolge, welches der Woerter ""biene"" und ""jacke"" kommt zuerst? A:","['biene', 'jacke']",biene,biene
+"Welches von den Woertern ""fahrrad"" und ""karte"", kommt alphabetisch zuerst? ","['fahrrad', 'karte']",fahrrad,fahrrad
+"F: In alphabetischer Reihenfolge, welches der Woerter ""auto"" und ""herz"" kommt zuerst? A:","['auto', 'herz']",auto,auto
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hut"" und ""ball"" kommt zuerst? A:","['hut', 'ball']",ball,ball
+"Welches von den Woertern ""lager"" und ""dezember"", kommt alphabetisch zuerst? ","['lager', 'dezember']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kuh"" und ""auto"" kommt zuerst? A:","['kuh', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iglu"" und ""auto"" kommt zuerst? A:","['iglu', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""clown"" oder ""joghurt""? A:","['clown', 'joghurt']",clown,clown
+"F: In alphabetischer Reihenfolge, welches der Woerter ""index"" und ""ameise"" kommt zuerst? A:","['index', 'ameise']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gummi"" und ""ampel"" kommt zuerst? A:","['gummi', 'ampel']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gummi"" und ""atlas"" kommt zuerst? A:","['gummi', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""biene"" und ""hafen"" kommt zuerst? A:","['biene', 'hafen']",biene,biene
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kugel"" oder ""café""? A:","['kugel', 'café']",café,café
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""glocke""? A:","['café', 'glocke']",café,café
+"Welches von den Woertern ""eis"" und ""gans"", kommt alphabetisch zuerst? ","['eis', 'gans']",eis,eis
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hose"" und ""apfel"" kommt zuerst? A:","['hose', 'apfel']",apfel,apfel
+"Welches von den Woertern ""jasmin"" und ""eiche"", kommt alphabetisch zuerst? ","['jasmin', 'eiche']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""gans""? A:","['chip', 'gans']",chip,gans
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""bruecke"" oder ""kamm""? A:","['bruecke', 'kamm']",bruecke,bruecke
+"Welches von den Woertern ""dezember"" und ""igel"", kommt alphabetisch zuerst? ","['dezember', 'igel']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jaguar"" und ""ameise"" kommt zuerst? A:","['jaguar', 'ameise']",ameise,ameise
+"Welches von den Woertern ""erdbeere"" und ""lied"", kommt alphabetisch zuerst? ","['erdbeere', 'lied']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches der Woerter ""alge"" und ""kiste"" kommt zuerst? A:","['alge', 'kiste']",alge,alge
+"Welches von den Woertern ""fuchs"" und ""kerze"", kommt alphabetisch zuerst? ","['fuchs', 'kerze']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""joystick""? A:","['creme', 'joystick']",creme,creme
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gabel"" und ""ball"" kommt zuerst? A:","['gabel', 'ball']",ball,ball
+"Welches von den Woertern ""echo"" und ""jaguar"", kommt alphabetisch zuerst? ","['echo', 'jaguar']",echo,echo
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""besen"" oder ""hut""? A:","['besen', 'hut']",besen,besen
+"F: In alphabetischer Reihenfolge, welches der Woerter ""glas"" und ""biene"" kommt zuerst? A:","['glas', 'biene']",biene,biene
+"F: In alphabetischer Reihenfolge, welches der Woerter ""glocke"" und ""birne"" kommt zuerst? A:","['glocke', 'birne']",birne,birne
+"F: In alphabetischer Reihenfolge, welches der Woerter ""holz"" und ""brille"" kommt zuerst? A:","['holz', 'brille']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""karte"" und ""anker"" kommt zuerst? A:","['karte', 'anker']",anker,anker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""apfel"" und ""loeffel"" kommt zuerst? A:","['apfel', 'loeffel']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chef"" oder ""kaffee""? A:","['chef', 'kaffee']",chef,chef
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""clown"" oder ""gans""? A:","['clown', 'gans']",clown,clown
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chor"" oder ""gurke""? A:","['chor', 'gurke']",chor,chor
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kiste"" oder ""café""? A:","['kiste', 'café']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""input"" kommt zuerst? A:","['ast', 'input']",ast,ast
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kissen"" oder ""dorf""? A:","['kissen', 'dorf']",dorf,kissen
+"Welches von den Woertern ""iglu"" und ""echo"", kommt alphabetisch zuerst? ","['iglu', 'echo']",echo,echo
+"Welches von den Woertern ""lied"" und ""erde"", kommt alphabetisch zuerst? ","['lied', 'erde']",erde,lied
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""loeffel""? A:","['dach', 'loeffel']",dach,loeffel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ampel"" und ""kuh"" kommt zuerst? A:","['ampel', 'kuh']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""blume"" und ""journal"" kommt zuerst? A:","['blume', 'journal']",blume,blume
+"Welches von den Woertern ""esel"" und ""iris"", kommt alphabetisch zuerst? ","['esel', 'iris']",esel,esel
+"Welches von den Woertern ""erde"" und ""index"", kommt alphabetisch zuerst? ","['erde', 'index']",erde,index
+"Welches von den Woertern ""ente"" und ""holz"", kommt alphabetisch zuerst? ","['ente', 'holz']",ente,ente
+"Welches von den Woertern ""elch"" und ""glocke"", kommt alphabetisch zuerst? ","['elch', 'glocke']",elch,elch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""inhalt""? A:","['drucker', 'inhalt']",drucker,drucker
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""hammer""? A:","['drucker', 'hammer']",drucker,drucker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""indigo"" und ""ball"" kommt zuerst? A:","['indigo', 'ball']",ball,ball
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""gans""? A:","['drucker', 'gans']",drucker,drucker
+"Welches von den Woertern ""igel"" und ""drache"", kommt alphabetisch zuerst? ","['igel', 'drache']",drache,drache
+"F: In alphabetischer Reihenfolge, welches der Woerter ""juwel"" und ""alge"" kommt zuerst? A:","['juwel', 'alge']",alge,alge
+"Welches von den Woertern ""lampe"" und ""elch"", kommt alphabetisch zuerst? ","['lampe', 'elch']",elch,elch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""haus"" oder ""creme""? A:","['haus', 'creme']",creme,haus
+"Welches von den Woertern ""gabel"" und ""elch"", kommt alphabetisch zuerst? ","['gabel', 'elch']",elch,elch
+"Welches von den Woertern ""fuchs"" und ""igel"", kommt alphabetisch zuerst? ","['fuchs', 'igel']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches der Woerter ""karte"" und ""auto"" kommt zuerst? A:","['karte', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""loeffel"" oder ""chili""? A:","['loeffel', 'chili']",chili,loeffel
+"Welches von den Woertern ""erdbeere"" und ""keks"", kommt alphabetisch zuerst? ","['erdbeere', 'keks']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""clown"" oder ""gold""? A:","['clown', 'gold']",clown,clown
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""garten""? A:","['decke', 'garten']",decke,decke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jacke"" und ""atlas"" kommt zuerst? A:","['jacke', 'atlas']",atlas,atlas
+"Welches von den Woertern ""eule"" und ""karte"", kommt alphabetisch zuerst? ","['eule', 'karte']",eule,eule
+"Welches von den Woertern ""ente"" und ""jury"", kommt alphabetisch zuerst? ","['ente', 'jury']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gitter"" und ""ameise"" kommt zuerst? A:","['gitter', 'ameise']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""insel"" oder ""dose""? A:","['insel', 'dose']",dose,dose
+"Welches von den Woertern ""junge"" und ""dame"", kommt alphabetisch zuerst? ","['junge', 'dame']",dame,junge
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kamm"" und ""apfel"" kommt zuerst? A:","['kamm', 'apfel']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""blume"" und ""ideal"" kommt zuerst? A:","['blume', 'ideal']",blume,blume
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""hafen""? A:","['chip', 'hafen']",chip,chip
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""igel""? A:","['chili', 'igel']",chili,igel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jasmin"" und ""brille"" kommt zuerst? A:","['jasmin', 'brille']",brille,brille
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dialog"" oder ""kaffee""? A:","['dialog', 'kaffee']",dialog,dialog
+"F: In alphabetischer Reihenfolge, welches der Woerter ""apotheke"" und ""gitarre"" kommt zuerst? A:","['apotheke', 'gitarre']",apotheke,apotheke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ampel"" und ""jaguar"" kommt zuerst? A:","['ampel', 'jaguar']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""karte"" oder ""chip""? A:","['karte', 'chip']",chip,chip
+"Welches von den Woertern ""feuer"" und ""herz"", kommt alphabetisch zuerst? ","['feuer', 'herz']",feuer,feuer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""hut"" kommt zuerst? A:","['ast', 'hut']",ast,ast
+"Welches von den Woertern ""fuchs"" und ""keks"", kommt alphabetisch zuerst? ","['fuchs', 'keks']",fuchs,fuchs
+"Welches von den Woertern ""haus"" und ""dattel"", kommt alphabetisch zuerst? ","['haus', 'dattel']",dattel,dattel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""garten"" kommt zuerst? A:","['ast', 'garten']",ast,ast
+"Welches von den Woertern ""kiste"" und ""dezember"", kommt alphabetisch zuerst? ","['kiste', 'dezember']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches der Woerter ""apfel"" und ""garten"" kommt zuerst? A:","['apfel', 'garten']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""joystick"" und ""auto"" kommt zuerst? A:","['joystick', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glocke"" oder ""clown""? A:","['glocke', 'clown']",clown,clown
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dialog"" oder ""herz""? A:","['dialog', 'herz']",dialog,dialog
+"Welches von den Woertern ""leiter"" und ""fenster"", kommt alphabetisch zuerst? ","['leiter', 'fenster']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""clown"" oder ""loeffel""? A:","['clown', 'loeffel']",clown,clown
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kaffee"" und ""biene"" kommt zuerst? A:","['kaffee', 'biene']",biene,biene
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""haus""? A:","['decke', 'haus']",decke,haus
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chef"" oder ""kamm""? A:","['chef', 'kamm']",chef,chef
+"Welches von den Woertern ""dame"" und ""index"", kommt alphabetisch zuerst? ","['dame', 'index']",dame,dame
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""hut"" oder ""drache""? A:","['hut', 'drache']",drache,drache
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""lager"" kommt zuerst? A:","['brille', 'lager']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""lampe"" und ""biene"" kommt zuerst? A:","['lampe', 'biene']",biene,biene
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kuh"" und ""brett"" kommt zuerst? A:","['kuh', 'brett']",brett,brett
+"Welches von den Woertern ""erdbeere"" und ""hafen"", kommt alphabetisch zuerst? ","['erdbeere', 'hafen']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""lager"" oder ""creme""? A:","['lager', 'creme']",creme,creme
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""lager"" oder ""decke""? A:","['lager', 'decke']",decke,decke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""jaguar""? A:","['decke', 'jaguar']",decke,decke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brett"" und ""keks"" kommt zuerst? A:","['brett', 'keks']",brett,brett
+"F: In alphabetischer Reihenfolge, welches der Woerter ""loeffel"" und ""atlas"" kommt zuerst? A:","['loeffel', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""jacke"" kommt zuerst? A:","['ameise', 'jacke']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""gabel""? A:","['decke', 'gabel']",decke,gabel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""heft"" oder ""bruecke""? A:","['heft', 'bruecke']",bruecke,bruecke
+"Welches von den Woertern ""esel"" und ""jeans"", kommt alphabetisch zuerst? ","['esel', 'jeans']",esel,esel
+"Welches von den Woertern ""lied"" und ""elch"", kommt alphabetisch zuerst? ","['lied', 'elch']",elch,elch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glas"" oder ""clown""? A:","['glas', 'clown']",clown,clown
+"Welches von den Woertern ""esel"" und ""hemd"", kommt alphabetisch zuerst? ","['esel', 'hemd']",esel,esel
+"Welches von den Woertern ""index"" und ""fisch"", kommt alphabetisch zuerst? ","['index', 'fisch']",fisch,fisch
+"Welches von den Woertern ""ideal"" und ""eimer"", kommt alphabetisch zuerst? ","['ideal', 'eimer']",eimer,ideal
+"F: In alphabetischer Reihenfolge, welches der Woerter ""abend"" und ""haus"" kommt zuerst? A:","['abend', 'haus']",abend,abend
+"Welches von den Woertern ""heft"" und ""dame"", kommt alphabetisch zuerst? ","['heft', 'dame']",dame,dame
+"Welches von den Woertern ""glocke"" und ""erdbeere"", kommt alphabetisch zuerst? ","['glocke', 'erdbeere']",erdbeere,erdbeere
+"Welches von den Woertern ""jeans"" und ""drache"", kommt alphabetisch zuerst? ","['jeans', 'drache']",drache,jeans
+"F: In alphabetischer Reihenfolge, welches der Woerter ""anker"" und ""lampe"" kommt zuerst? A:","['anker', 'lampe']",anker,anker
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""ideal"" oder ""drucker""? A:","['ideal', 'drucker']",drucker,drucker
+"Welches von den Woertern ""fenster"" und ""heft"", kommt alphabetisch zuerst? ","['fenster', 'heft']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kugel"" und ""burg"" kommt zuerst? A:","['kugel', 'burg']",burg,burg
+"Welches von den Woertern ""igel"" und ""dame"", kommt alphabetisch zuerst? ","['igel', 'dame']",dame,dame
+"F: In alphabetischer Reihenfolge, welches der Woerter ""indigo"" und ""apotheke"" kommt zuerst? A:","['indigo', 'apotheke']",apotheke,apotheke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""gurke"" oder ""dach""? A:","['gurke', 'dach']",dach,dach
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""heft"" kommt zuerst? A:","['ameise', 'heft']",ameise,ameise
+"Welches von den Woertern ""erde"" und ""keks"", kommt alphabetisch zuerst? ","['erde', 'keks']",erde,erde
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""heft""? A:","['chip', 'heft']",chip,heft
+"Welches von den Woertern ""fisch"" und ""gitter"", kommt alphabetisch zuerst? ","['fisch', 'gitter']",fisch,fisch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""gitarre"" oder ""dose""? A:","['gitarre', 'dose']",dose,dose
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""karte"" oder ""drucker""? A:","['karte', 'drucker']",drucker,drucker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""input"" und ""anker"" kommt zuerst? A:","['input', 'anker']",anker,anker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gans"" und ""buch"" kommt zuerst? A:","['gans', 'buch']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""kuh""? A:","['dose', 'kuh']",dose,dose
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""kissen""? A:","['creme', 'kissen']",creme,kissen
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hafen"" und ""ampel"" kommt zuerst? A:","['hafen', 'ampel']",ampel,ampel
+"Welches von den Woertern ""joghurt"" und ""eule"", kommt alphabetisch zuerst? ","['joghurt', 'eule']",eule,eule
+"Welches von den Woertern ""ente"" und ""index"", kommt alphabetisch zuerst? ","['ente', 'index']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""jasmin"" kommt zuerst? A:","['ast', 'jasmin']",ast,ast
+"Welches von den Woertern ""fuchs"" und ""hemd"", kommt alphabetisch zuerst? ","['fuchs', 'hemd']",fuchs,fuchs
+"Welches von den Woertern ""haus"" und ""erde"", kommt alphabetisch zuerst? ","['haus', 'erde']",erde,erde
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""holz"" oder ""chor""? A:","['holz', 'chor']",chor,holz
+"F: In alphabetischer Reihenfolge, welches der Woerter ""karte"" und ""biene"" kommt zuerst? A:","['karte', 'biene']",biene,biene
+"Welches von den Woertern ""fisch"" und ""gabel"", kommt alphabetisch zuerst? ","['fisch', 'gabel']",fisch,gabel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""gitarre""? A:","['chili', 'gitarre']",chili,gitarre
+"Welches von den Woertern ""kugel"" und ""eimer"", kommt alphabetisch zuerst? ","['kugel', 'eimer']",eimer,eimer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""joghurt""? A:","['decke', 'joghurt']",decke,decke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""kaffee"" kommt zuerst? A:","['ast', 'kaffee']",ast,ast
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""kerze""? A:","['dose', 'kerze']",dose,dose
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iglu"" und ""abend"" kommt zuerst? A:","['iglu', 'abend']",abend,abend
+"Welches von den Woertern ""echo"" und ""jasmin"", kommt alphabetisch zuerst? ","['echo', 'jasmin']",echo,echo
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""indigo""? A:","['drucker', 'indigo']",drucker,drucker
+"Welches von den Woertern ""fuchs"" und ""gabel"", kommt alphabetisch zuerst? ","['fuchs', 'gabel']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches der Woerter ""alge"" und ""hose"" kommt zuerst? A:","['alge', 'hose']",alge,alge
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hemd"" und ""ameise"" kommt zuerst? A:","['hemd', 'ameise']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches der Woerter ""inhalt"" und ""ameise"" kommt zuerst? A:","['inhalt', 'ameise']",ameise,ameise
+"Welches von den Woertern ""ente"" und ""leiter"", kommt alphabetisch zuerst? ","['ente', 'leiter']",ente,ente
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""computer"" oder ""lager""? A:","['computer', 'lager']",computer,computer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kerze"" oder ""dorf""? A:","['kerze', 'dorf']",dorf,dorf
+"F: In alphabetischer Reihenfolge, welches der Woerter ""biene"" und ""input"" kommt zuerst? A:","['biene', 'input']",biene,biene
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kissen"" oder ""besen""? A:","['kissen', 'besen']",besen,besen
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dialog"" oder ""kerze""? A:","['dialog', 'kerze']",dialog,dialog
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jaguar"" und ""abend"" kommt zuerst? A:","['jaguar', 'abend']",abend,abend
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""besen"" oder ""jasmin""? A:","['besen', 'jasmin']",besen,besen
+"Welches von den Woertern ""eule"" und ""herz"", kommt alphabetisch zuerst? ","['eule', 'herz']",eule,eule
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jaguar"" und ""apotheke"" kommt zuerst? A:","['jaguar', 'apotheke']",apotheke,apotheke
+"Welches von den Woertern ""elch"" und ""kueche"", kommt alphabetisch zuerst? ","['elch', 'kueche']",elch,elch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""insel"" kommt zuerst? A:","['brille', 'insel']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""anker"" und ""jury"" kommt zuerst? A:","['anker', 'jury']",anker,anker
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""hafen"" oder ""chili""? A:","['hafen', 'chili']",chili,chili
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""hafen"" oder ""drache""? A:","['hafen', 'drache']",drache,drache
+"F: In alphabetischer Reihenfolge, welches der Woerter ""karte"" und ""ameise"" kommt zuerst? A:","['karte', 'ameise']",ameise,ameise
+"Welches von den Woertern ""echo"" und ""keks"", kommt alphabetisch zuerst? ","['echo', 'keks']",echo,echo
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""indigo"" oder ""dialog""? A:","['indigo', 'dialog']",dialog,dialog
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kiste"" oder ""creme""? A:","['kiste', 'creme']",creme,creme
+"Welches von den Woertern ""gurke"" und ""dame"", kommt alphabetisch zuerst? ","['gurke', 'dame']",dame,dame
+"Welches von den Woertern ""dame"" und ""gummi"", kommt alphabetisch zuerst? ","['dame', 'gummi']",dame,dame
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""holz"" kommt zuerst? A:","['buch', 'holz']",buch,buch
+"Welches von den Woertern ""gurke"" und ""eimer"", kommt alphabetisch zuerst? ","['gurke', 'eimer']",eimer,eimer
+"Welches von den Woertern ""glas"" und ""dezember"", kommt alphabetisch zuerst? ","['glas', 'dezember']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""gans""? A:","['dose', 'gans']",dose,dose
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""lied"" oder ""chili""? A:","['lied', 'chili']",chili,chili
+"Welches von den Woertern ""joghurt"" und ""dezember"", kommt alphabetisch zuerst? ","['joghurt', 'dezember']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""intelligenz"" kommt zuerst? A:","['ball', 'intelligenz']",ball,ball
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ampel"" und ""ideal"" kommt zuerst? A:","['ampel', 'ideal']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jeans"" und ""apfel"" kommt zuerst? A:","['jeans', 'apfel']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""index"" kommt zuerst? A:","['atlas', 'index']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kissen"" oder ""decke""? A:","['kissen', 'decke']",decke,kissen
+"Welches von den Woertern ""hemd"" und ""eimer"", kommt alphabetisch zuerst? ","['hemd', 'eimer']",eimer,eimer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""gitarre""? A:","['creme', 'gitarre']",creme,creme
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""inhalt"" oder ""café""? A:","['inhalt', 'café']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""hemd"" kommt zuerst? A:","['ball', 'hemd']",ball,ball
+"Welches von den Woertern ""feuer"" und ""igel"", kommt alphabetisch zuerst? ","['feuer', 'igel']",feuer,igel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""computer"" oder ""jasmin""? A:","['computer', 'jasmin']",computer,computer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""abend"" und ""holz"" kommt zuerst? A:","['abend', 'holz']",abend,abend
+"F: In alphabetischer Reihenfolge, welches der Woerter ""alge"" und ""index"" kommt zuerst? A:","['alge', 'index']",alge,alge
+"Welches von den Woertern ""eimer"" und ""junge"", kommt alphabetisch zuerst? ","['eimer', 'junge']",eimer,junge
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""journal"" oder ""besen""? A:","['journal', 'besen']",besen,besen
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ampel"" und ""joghurt"" kommt zuerst? A:","['ampel', 'joghurt']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chaos"" oder ""hafen""? A:","['chaos', 'hafen']",chaos,chaos
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""herz"" oder ""drucker""? A:","['herz', 'drucker']",drucker,drucker
+"Welches von den Woertern ""karte"" und ""eiche"", kommt alphabetisch zuerst? ","['karte', 'eiche']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches der Woerter ""anker"" und ""juwel"" kommt zuerst? A:","['anker', 'juwel']",anker,anker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""birne"" und ""garten"" kommt zuerst? A:","['birne', 'garten']",birne,birne
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""besen"" oder ""lager""? A:","['besen', 'lager']",besen,besen
+"F: In alphabetischer Reihenfolge, welches der Woerter ""huegel"" und ""buch"" kommt zuerst? A:","['huegel', 'buch']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""inhalt""? A:","['dose', 'inhalt']",dose,dose
+"Welches von den Woertern ""hafen"" und ""eiche"", kommt alphabetisch zuerst? ","['hafen', 'eiche']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""jeans"" kommt zuerst? A:","['brille', 'jeans']",brille,brille
+"Welches von den Woertern ""leiter"" und ""eis"", kommt alphabetisch zuerst? ","['leiter', 'eis']",eis,eis
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""kuh"" kommt zuerst? A:","['ball', 'kuh']",ball,ball
+"Welches von den Woertern ""lampe"" und ""drache"", kommt alphabetisch zuerst? ","['lampe', 'drache']",drache,drache
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glocke"" oder ""dach""? A:","['glocke', 'dach']",dach,dach
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jacke"" und ""alge"" kommt zuerst? A:","['jacke', 'alge']",alge,alge
+"F: In alphabetischer Reihenfolge, welches der Woerter ""glas"" und ""abend"" kommt zuerst? A:","['glas', 'abend']",abend,abend
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chef"" oder ""heft""? A:","['chef', 'heft']",chef,chef
+"F: In alphabetischer Reihenfolge, welches der Woerter ""abend"" und ""karte"" kommt zuerst? A:","['abend', 'karte']",abend,abend
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brett"" und ""gitarre"" kommt zuerst? A:","['brett', 'gitarre']",brett,brett
+"Welches von den Woertern ""juwel"" und ""eiche"", kommt alphabetisch zuerst? ","['juwel', 'eiche']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""joystick"" oder ""bruecke""? A:","['joystick', 'bruecke']",bruecke,bruecke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""juwel"" oder ""clown""? A:","['juwel', 'clown']",clown,clown
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""haus"" kommt zuerst? A:","['ameise', 'haus']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""keks"" oder ""bruecke""? A:","['keks', 'bruecke']",bruecke,bruecke
+"Welches von den Woertern ""erde"" und ""gans"", kommt alphabetisch zuerst? ","['erde', 'gans']",erde,erde
+"Welches von den Woertern ""fahrrad"" und ""kerze"", kommt alphabetisch zuerst? ","['fahrrad', 'kerze']",fahrrad,kerze
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""jaguar"" oder ""dialog""? A:","['jaguar', 'dialog']",dialog,dialog
+"Welches von den Woertern ""echo"" und ""kerze"", kommt alphabetisch zuerst? ","['echo', 'kerze']",echo,echo
+"Welches von den Woertern ""glocke"" und ""dezember"", kommt alphabetisch zuerst? ","['glocke', 'dezember']",dezember,dezember
+"Welches von den Woertern ""dame"" und ""haus"", kommt alphabetisch zuerst? ","['dame', 'haus']",dame,haus
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""herz""? A:","['café', 'herz']",café,café
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""insel"" oder ""dorf""? A:","['insel', 'dorf']",dorf,dorf
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""hafen"" kommt zuerst? A:","['ameise', 'hafen']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""joghurt"" oder ""bruecke""? A:","['joghurt', 'bruecke']",bruecke,bruecke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""kueche"" kommt zuerst? A:","['buch', 'kueche']",buch,buch
+"Welches von den Woertern ""kamm"" und ""dame"", kommt alphabetisch zuerst? ","['kamm', 'dame']",dame,dame
+"Welches von den Woertern ""eiche"" und ""gitarre"", kommt alphabetisch zuerst? ","['eiche', 'gitarre']",eiche,eiche
+"Welches von den Woertern ""echo"" und ""inhalt"", kommt alphabetisch zuerst? ","['echo', 'inhalt']",echo,echo
+"Welches von den Woertern ""jury"" und ""fisch"", kommt alphabetisch zuerst? ","['jury', 'fisch']",fisch,fisch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""joystick"" und ""abend"" kommt zuerst? A:","['joystick', 'abend']",abend,abend
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kiste"" oder ""dialog""? A:","['kiste', 'dialog']",dialog,dialog
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""bruecke"" oder ""hafen""? A:","['bruecke', 'hafen']",bruecke,bruecke
+"Welches von den Woertern ""ente"" und ""hemd"", kommt alphabetisch zuerst? ","['ente', 'hemd']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""jaguar"" kommt zuerst? A:","['ast', 'jaguar']",ast,ast
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""couch"" oder ""glas""? A:","['couch', 'glas']",couch,couch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""gurke"" oder ""couch""? A:","['gurke', 'couch']",couch,couch
+"Welches von den Woertern ""hafen"" und ""fenster"", kommt alphabetisch zuerst? ","['hafen', 'fenster']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""couch"" oder ""iglu""? A:","['couch', 'iglu']",couch,iglu
+"F: In alphabetischer Reihenfolge, welches der Woerter ""burg"" und ""glocke"" kommt zuerst? A:","['burg', 'glocke']",burg,burg
+"F: In alphabetischer Reihenfolge, welches der Woerter ""alge"" und ""leiter"" kommt zuerst? A:","['alge', 'leiter']",alge,alge
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""hut""? A:","['café', 'hut']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""junge"" und ""burg"" kommt zuerst? A:","['junge', 'burg']",burg,burg
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jacke"" und ""abend"" kommt zuerst? A:","['jacke', 'abend']",abend,abend
+"F: In alphabetischer Reihenfolge, welches der Woerter ""heft"" und ""brille"" kommt zuerst? A:","['heft', 'brille']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""besen"" und ""gummi"" kommt zuerst? A:","['besen', 'gummi']",besen,besen
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""juwel""? A:","['dach', 'juwel']",dach,dach
+"F: In alphabetischer Reihenfolge, welches der Woerter ""junge"" und ""apfel"" kommt zuerst? A:","['junge', 'apfel']",apfel,apfel
+"Welches von den Woertern ""junge"" und ""fuchs"", kommt alphabetisch zuerst? ","['junge', 'fuchs']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jaguar"" und ""atlas"" kommt zuerst? A:","['jaguar', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""herz"" und ""ast"" kommt zuerst? A:","['herz', 'ast']",ast,ast
+"Welches von den Woertern ""gummi"" und ""fisch"", kommt alphabetisch zuerst? ","['gummi', 'fisch']",fisch,fisch
+"Welches von den Woertern ""kiste"" und ""erde"", kommt alphabetisch zuerst? ","['kiste', 'erde']",erde,erde
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""huegel"" oder ""computer""? A:","['huegel', 'computer']",computer,computer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""karte""? A:","['café', 'karte']",café,café
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dialog"" oder ""gold""? A:","['dialog', 'gold']",dialog,dialog
+"Welches von den Woertern ""elch"" und ""iris"", kommt alphabetisch zuerst? ","['elch', 'iris']",elch,elch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""holz"" kommt zuerst? A:","['ball', 'holz']",ball,ball
+"Welches von den Woertern ""loeffel"" und ""eule"", kommt alphabetisch zuerst? ","['loeffel', 'eule']",eule,eule
+"Welches von den Woertern ""gummi"" und ""eiche"", kommt alphabetisch zuerst? ","['gummi', 'eiche']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches der Woerter ""holz"" und ""atlas"" kommt zuerst? A:","['holz', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kueche"" und ""atlas"" kommt zuerst? A:","['kueche', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""loeffel"" oder ""couch""? A:","['loeffel', 'couch']",couch,loeffel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""huegel"" und ""ampel"" kommt zuerst? A:","['huegel', 'ampel']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chor"" oder ""loeffel""? A:","['chor', 'loeffel']",chor,chor
+"Welches von den Woertern ""hose"" und ""erde"", kommt alphabetisch zuerst? ","['hose', 'erde']",erde,erde
+"F: In alphabetischer Reihenfolge, welches der Woerter ""birne"" und ""herz"" kommt zuerst? A:","['birne', 'herz']",birne,birne
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glocke"" oder ""chaos""? A:","['glocke', 'chaos']",chaos,chaos
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""heft""? A:","['café', 'heft']",café,café
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""input""? A:","['café', 'input']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""keks"" und ""auto"" kommt zuerst? A:","['keks', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gabel"" und ""apotheke"" kommt zuerst? A:","['gabel', 'apotheke']",apotheke,apotheke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""holz"" oder ""computer""? A:","['holz', 'computer']",computer,holz
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kamm"" und ""birne"" kommt zuerst? A:","['kamm', 'birne']",birne,birne
+"Welches von den Woertern ""jury"" und ""eimer"", kommt alphabetisch zuerst? ","['jury', 'eimer']",eimer,eimer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chor"" oder ""kueche""? A:","['chor', 'kueche']",chor,chor
+"Welches von den Woertern ""dame"" und ""huegel"", kommt alphabetisch zuerst? ","['dame', 'huegel']",dame,dame
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""kueche"" kommt zuerst? A:","['ast', 'kueche']",ast,ast
+"Welches von den Woertern ""kugel"" und ""fenster"", kommt alphabetisch zuerst? ","['kugel', 'fenster']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""glas""? A:","['drucker', 'glas']",drucker,drucker
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""index""? A:","['chip', 'index']",chip,chip
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""iris"" oder ""chef""? A:","['iris', 'chef']",chef,chef
+"F: In alphabetischer Reihenfolge, welches der Woerter ""heft"" und ""blume"" kommt zuerst? A:","['heft', 'blume']",blume,blume
+"Welches von den Woertern ""dezember"" und ""gurke"", kommt alphabetisch zuerst? ","['dezember', 'gurke']",dezember,dezember
+"Welches von den Woertern ""drache"" und ""keks"", kommt alphabetisch zuerst? ","['drache', 'keks']",drache,drache
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dorf"" oder ""gitter""? A:","['dorf', 'gitter']",dorf,dorf
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kiste"" oder ""chip""? A:","['kiste', 'chip']",chip,chip
+"F: In alphabetischer Reihenfolge, welches der Woerter ""heft"" und ""anker"" kommt zuerst? A:","['heft', 'anker']",anker,anker
+"Welches von den Woertern ""dezember"" und ""juwel"", kommt alphabetisch zuerst? ","['dezember', 'juwel']",dezember,dezember
+"Welches von den Woertern ""juwel"" und ""eule"", kommt alphabetisch zuerst? ","['juwel', 'eule']",eule,eule
+"Welches von den Woertern ""journal"" und ""ente"", kommt alphabetisch zuerst? ","['journal', 'ente']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""keks"" und ""biene"" kommt zuerst? A:","['keks', 'biene']",biene,biene
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""couch"" oder ""intelligenz""? A:","['couch', 'intelligenz']",couch,intelligenz
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""hammer"" oder ""dach""? A:","['hammer', 'dach']",dach,dach
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""couch"" oder ""herz""? A:","['couch', 'herz']",couch,herz
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""gabel"" oder ""couch""? A:","['gabel', 'couch']",couch,gabel
+"Welches von den Woertern ""kiste"" und ""fahrrad"", kommt alphabetisch zuerst? ","['kiste', 'fahrrad']",fahrrad,fahrrad
+"Welches von den Woertern ""esel"" und ""insel"", kommt alphabetisch zuerst? ","['esel', 'insel']",esel,esel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kerze"" oder ""creme""? A:","['kerze', 'creme']",creme,creme
+"Welches von den Woertern ""esel"" und ""gurke"", kommt alphabetisch zuerst? ","['esel', 'gurke']",esel,esel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""computer"" oder ""jeans""? A:","['computer', 'jeans']",computer,computer
+"Welches von den Woertern ""lager"" und ""elch"", kommt alphabetisch zuerst? ","['lager', 'elch']",elch,elch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hemd"" und ""apotheke"" kommt zuerst? A:","['hemd', 'apotheke']",apotheke,apotheke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""couch"" oder ""gans""? A:","['couch', 'gans']",couch,couch
+"Welches von den Woertern ""glocke"" und ""eule"", kommt alphabetisch zuerst? ","['glocke', 'eule']",eule,eule
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""glocke"" kommt zuerst? A:","['buch', 'glocke']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kamm"" oder ""chaos""? A:","['kamm', 'chaos']",chaos,chaos
+"Welches von den Woertern ""erde"" und ""gummi"", kommt alphabetisch zuerst? ","['erde', 'gummi']",erde,erde
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""kissen"" kommt zuerst? A:","['buch', 'kissen']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""holz""? A:","['café', 'holz']",café,holz
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""input"" kommt zuerst? A:","['atlas', 'input']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""haus"" oder ""bruecke""? A:","['haus', 'bruecke']",bruecke,bruecke
+"Welches von den Woertern ""lied"" und ""eis"", kommt alphabetisch zuerst? ","['lied', 'eis']",eis,eis
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ampel"" und ""lied"" kommt zuerst? A:","['ampel', 'lied']",ampel,ampel
+"Welches von den Woertern ""kamm"" und ""drache"", kommt alphabetisch zuerst? ","['kamm', 'drache']",drache,drache
+"Welches von den Woertern ""erde"" und ""hut"", kommt alphabetisch zuerst? ","['erde', 'hut']",erde,erde
+"F: In alphabetischer Reihenfolge, welches der Woerter ""auto"" und ""kugel"" kommt zuerst? A:","['auto', 'kugel']",auto,auto
+"Welches von den Woertern ""erde"" und ""iglu"", kommt alphabetisch zuerst? ","['erde', 'iglu']",erde,iglu
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hammer"" und ""brille"" kommt zuerst? A:","['hammer', 'brille']",brille,brille
+"Welches von den Woertern ""kiste"" und ""fenster"", kommt alphabetisch zuerst? ","['kiste', 'fenster']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""jacke""? A:","['creme', 'jacke']",creme,creme
+"Welches von den Woertern ""fahrrad"" und ""insel"", kommt alphabetisch zuerst? ","['fahrrad', 'insel']",fahrrad,fahrrad
+"Welches von den Woertern ""erdbeere"" und ""gitarre"", kommt alphabetisch zuerst? ","['erdbeere', 'gitarre']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""hafen""? A:","['dach', 'hafen']",dach,dach
+"F: In alphabetischer Reihenfolge, welches der Woerter ""insel"" und ""blume"" kommt zuerst? A:","['insel', 'blume']",blume,blume
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hose"" und ""biene"" kommt zuerst? A:","['hose', 'biene']",biene,biene
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""heft"" kommt zuerst? A:","['ball', 'heft']",ball,ball
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""lied""? A:","['decke', 'lied']",decke,decke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""ideal""? A:","['creme', 'ideal']",creme,creme
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""lied""? A:","['drucker', 'lied']",drucker,drucker
+"Welches von den Woertern ""juwel"" und ""dattel"", kommt alphabetisch zuerst? ","['juwel', 'dattel']",dattel,dattel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kuh"" und ""atlas"" kommt zuerst? A:","['kuh', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""hose"" kommt zuerst? A:","['buch', 'hose']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kugel"" oder ""dose""? A:","['kugel', 'dose']",dose,dose
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""herz"" oder ""decke""? A:","['herz', 'decke']",decke,decke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ampel"" und ""hammer"" kommt zuerst? A:","['ampel', 'hammer']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""intelligenz""? A:","['decke', 'intelligenz']",decke,decke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""heft""? A:","['chili', 'heft']",chili,heft
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""inhalt"" oder ""chor""? A:","['inhalt', 'chor']",chor,chor
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gitarre"" und ""ampel"" kommt zuerst? A:","['gitarre', 'ampel']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""gurke""? A:","['chip', 'gurke']",chip,gurke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""karte"" und ""birne"" kommt zuerst? A:","['karte', 'birne']",birne,birne
+"Welches von den Woertern ""dame"" und ""jacke"", kommt alphabetisch zuerst? ","['dame', 'jacke']",dame,jacke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brett"" und ""holz"" kommt zuerst? A:","['brett', 'holz']",brett,holz
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""hammer"" kommt zuerst? A:","['ball', 'hammer']",ball,ball
+"F: In alphabetischer Reihenfolge, welches der Woerter ""juwel"" und ""auto"" kommt zuerst? A:","['juwel', 'auto']",auto,auto
+"Welches von den Woertern ""joystick"" und ""erdbeere"", kommt alphabetisch zuerst? ","['joystick', 'erdbeere']",erdbeere,joystick
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""jury""? A:","['dose', 'jury']",dose,dose
+"F: In alphabetischer Reihenfolge, welches der Woerter ""inhalt"" und ""brett"" kommt zuerst? A:","['inhalt', 'brett']",brett,inhalt
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""leiter"" kommt zuerst? A:","['buch', 'leiter']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""iglu"" oder ""chef""? A:","['iglu', 'chef']",chef,chef
+"Welches von den Woertern ""kiste"" und ""ente"", kommt alphabetisch zuerst? ","['kiste', 'ente']",ente,ente
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kaffee"" oder ""dose""? A:","['kaffee', 'dose']",dose,dose
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chef"" oder ""gurke""? A:","['chef', 'gurke']",chef,chef
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chor"" oder ""indigo""? A:","['chor', 'indigo']",chor,chor
+"Welches von den Woertern ""dezember"" und ""gans"", kommt alphabetisch zuerst? ","['dezember', 'gans']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""jasmin""? A:","['café', 'jasmin']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iris"" und ""buch"" kommt zuerst? A:","['iris', 'buch']",buch,buch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gold"" und ""buch"" kommt zuerst? A:","['gold', 'buch']",buch,buch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""burg"" und ""haus"" kommt zuerst? A:","['burg', 'haus']",burg,burg
+"Welches von den Woertern ""input"" und ""feuer"", kommt alphabetisch zuerst? ","['input', 'feuer']",feuer,feuer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""keks"" und ""brille"" kommt zuerst? A:","['keks', 'brille']",brille,brille
+"Welches von den Woertern ""indigo"" und ""feuer"", kommt alphabetisch zuerst? ","['indigo', 'feuer']",feuer,feuer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""index"" oder ""café""? A:","['index', 'café']",café,café
+"Welches von den Woertern ""intelligenz"" und ""echo"", kommt alphabetisch zuerst? ","['intelligenz', 'echo']",echo,echo
+"Welches von den Woertern ""kiste"" und ""eule"", kommt alphabetisch zuerst? ","['kiste', 'eule']",eule,eule
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""hemd"" oder ""café""? A:","['hemd', 'café']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""alge"" und ""haus"" kommt zuerst? A:","['alge', 'haus']",alge,alge
+"Welches von den Woertern ""heft"" und ""echo"", kommt alphabetisch zuerst? ","['heft', 'echo']",echo,echo
+"F: In alphabetischer Reihenfolge, welches der Woerter ""joystick"" und ""ball"" kommt zuerst? A:","['joystick', 'ball']",ball,ball
+"Welches von den Woertern ""kerze"" und ""dame"", kommt alphabetisch zuerst? ","['kerze', 'dame']",dame,kerze
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""iglu"" oder ""chip""? A:","['iglu', 'chip']",chip,chip
+"F: In alphabetischer Reihenfolge, welches der Woerter ""auto"" und ""jaguar"" kommt zuerst? A:","['auto', 'jaguar']",auto,auto
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""iris""? A:","['café', 'iris']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hemd"" und ""anker"" kommt zuerst? A:","['hemd', 'anker']",anker,hemd
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""hafen"" kommt zuerst? A:","['ast', 'hafen']",ast,ast
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""herz""? A:","['creme', 'herz']",creme,creme
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""haus"" oder ""computer""? A:","['haus', 'computer']",computer,computer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gitarre"" und ""alge"" kommt zuerst? A:","['gitarre', 'alge']",alge,alge
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""jaguar""? A:","['café', 'jaguar']",café,café
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""ideal"" kommt zuerst? A:","['atlas', 'ideal']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""lied"" kommt zuerst? A:","['ameise', 'lied']",ameise,ameise
+"Welches von den Woertern ""dezember"" und ""indigo"", kommt alphabetisch zuerst? ","['dezember', 'indigo']",dezember,dezember
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kiste"" oder ""clown""? A:","['kiste', 'clown']",clown,clown
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""bruecke"" oder ""journal""? A:","['bruecke', 'journal']",bruecke,bruecke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kissen"" und ""biene"" kommt zuerst? A:","['kissen', 'biene']",biene,biene
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brett"" und ""jacke"" kommt zuerst? A:","['brett', 'jacke']",brett,jacke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ball"" und ""jasmin"" kommt zuerst? A:","['ball', 'jasmin']",ball,ball
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""lager"" kommt zuerst? A:","['atlas', 'lager']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""keks"" kommt zuerst? A:","['ast', 'keks']",ast,ast
+"F: In alphabetischer Reihenfolge, welches der Woerter ""abend"" und ""kamm"" kommt zuerst? A:","['abend', 'kamm']",abend,abend
+"Welches von den Woertern ""garten"" und ""elch"", kommt alphabetisch zuerst? ","['garten', 'elch']",elch,elch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""gabel"" kommt zuerst? A:","['atlas', 'gabel']",atlas,atlas
+"Welches von den Woertern ""gitarre"" und ""fenster"", kommt alphabetisch zuerst? ","['gitarre', 'fenster']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chef"" oder ""jasmin""? A:","['chef', 'jasmin']",chef,chef
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""insel""? A:","['chili', 'insel']",chili,chili
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""garten"" oder ""chili""? A:","['garten', 'chili']",chili,chili
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""clown"" oder ""gummi""? A:","['clown', 'gummi']",clown,clown
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dialog"" oder ""hose""? A:","['dialog', 'hose']",dialog,dialog
+"Welches von den Woertern ""ente"" und ""kueche"", kommt alphabetisch zuerst? ","['ente', 'kueche']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""lampe"" und ""brett"" kommt zuerst? A:","['lampe', 'brett']",brett,lampe
+"F: In alphabetischer Reihenfolge, welches der Woerter ""alge"" und ""ideal"" kommt zuerst? A:","['alge', 'ideal']",alge,alge
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""insel""? A:","['decke', 'insel']",decke,decke
+"Welches von den Woertern ""dame"" und ""iris"", kommt alphabetisch zuerst? ","['dame', 'iris']",dame,dame
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chor"" oder ""hafen""? A:","['chor', 'hafen']",chor,chor
+"Welches von den Woertern ""gitarre"" und ""ente"", kommt alphabetisch zuerst? ","['gitarre', 'ente']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jury"" und ""apotheke"" kommt zuerst? A:","['jury', 'apotheke']",apotheke,apotheke
+"Welches von den Woertern ""drache"" und ""kissen"", kommt alphabetisch zuerst? ","['drache', 'kissen']",drache,drache
+"Welches von den Woertern ""fuchs"" und ""jasmin"", kommt alphabetisch zuerst? ","['fuchs', 'jasmin']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches der Woerter ""apfel"" und ""index"" kommt zuerst? A:","['apfel', 'index']",apfel,apfel
+"Welches von den Woertern ""input"" und ""elch"", kommt alphabetisch zuerst? ","['input', 'elch']",elch,elch
+"Welches von den Woertern ""lied"" und ""fenster"", kommt alphabetisch zuerst? ","['lied', 'fenster']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""bruecke"" oder ""gabel""? A:","['bruecke', 'gabel']",bruecke,bruecke
+"Welches von den Woertern ""inhalt"" und ""fuchs"", kommt alphabetisch zuerst? ","['inhalt', 'fuchs']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""karte"" oder ""computer""? A:","['karte', 'computer']",computer,computer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glas"" oder ""chor""? A:","['glas', 'chor']",chor,chor
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""huegel"" kommt zuerst? A:","['ameise', 'huegel']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""couch"" oder ""juwel""? A:","['couch', 'juwel']",couch,couch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iglu"" und ""ameise"" kommt zuerst? A:","['iglu', 'ameise']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""journal"" kommt zuerst? A:","['atlas', 'journal']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""gans"" kommt zuerst? A:","['ameise', 'gans']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""gabel"" oder ""computer""? A:","['gabel', 'computer']",computer,computer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""abend"" und ""insel"" kommt zuerst? A:","['abend', 'insel']",abend,abend
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kugel"" und ""apfel"" kommt zuerst? A:","['kugel', 'apfel']",apfel,apfel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jeans"" und ""ampel"" kommt zuerst? A:","['jeans', 'ampel']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""creme"" oder ""gabel""? A:","['creme', 'gabel']",creme,creme
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""journal""? A:","['dose', 'journal']",dose,dose
+"F: In alphabetischer Reihenfolge, welches der Woerter ""blume"" und ""kamm"" kommt zuerst? A:","['blume', 'kamm']",blume,blume
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iglu"" und ""brett"" kommt zuerst? A:","['iglu', 'brett']",brett,brett
+"F: In alphabetischer Reihenfolge, welches der Woerter ""auto"" und ""glocke"" kommt zuerst? A:","['auto', 'glocke']",auto,auto
+"Welches von den Woertern ""eis"" und ""jaguar"", kommt alphabetisch zuerst? ","['eis', 'jaguar']",eis,eis
+"F: In alphabetischer Reihenfolge, welches der Woerter ""joghurt"" und ""blume"" kommt zuerst? A:","['joghurt', 'blume']",blume,blume
+"Welches von den Woertern ""lager"" und ""dattel"", kommt alphabetisch zuerst? ","['lager', 'dattel']",dattel,dattel
+"Welches von den Woertern ""dattel"" und ""jacke"", kommt alphabetisch zuerst? ","['dattel', 'jacke']",dattel,dattel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""anker"" und ""jasmin"" kommt zuerst? A:","['anker', 'jasmin']",anker,anker
+"Welches von den Woertern ""echo"" und ""gold"", kommt alphabetisch zuerst? ","['echo', 'gold']",echo,echo
+"Welches von den Woertern ""eule"" und ""gitter"", kommt alphabetisch zuerst? ","['eule', 'gitter']",eule,eule
+"Welches von den Woertern ""iris"" und ""eis"", kommt alphabetisch zuerst? ","['iris', 'eis']",eis,eis
+"Welches von den Woertern ""fuchs"" und ""iglu"", kommt alphabetisch zuerst? ","['fuchs', 'iglu']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""gurke""? A:","['chili', 'gurke']",chili,gurke
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""besen"" oder ""loeffel""? A:","['besen', 'loeffel']",besen,besen
+"Welches von den Woertern ""joghurt"" und ""eis"", kommt alphabetisch zuerst? ","['joghurt', 'eis']",eis,eis
+"F: In alphabetischer Reihenfolge, welches der Woerter ""joystick"" und ""alge"" kommt zuerst? A:","['joystick', 'alge']",alge,alge
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""jacke""? A:","['dose', 'jacke']",dose,dose
+"Welches von den Woertern ""kueche"" und ""esel"", kommt alphabetisch zuerst? ","['kueche', 'esel']",esel,esel
+"Welches von den Woertern ""erdbeere"" und ""inhalt"", kommt alphabetisch zuerst? ","['erdbeere', 'inhalt']",erdbeere,inhalt
+"Welches von den Woertern ""igel"" und ""eis"", kommt alphabetisch zuerst? ","['igel', 'eis']",eis,eis
+"Welches von den Woertern ""dezember"" und ""iris"", kommt alphabetisch zuerst? ","['dezember', 'iris']",dezember,dezember
+"Welches von den Woertern ""erdbeere"" und ""leiter"", kommt alphabetisch zuerst? ","['erdbeere', 'leiter']",erdbeere,leiter
+"F: In alphabetischer Reihenfolge, welches der Woerter ""indigo"" und ""alge"" kommt zuerst? A:","['indigo', 'alge']",alge,alge
+"Welches von den Woertern ""fenster"" und ""hammer"", kommt alphabetisch zuerst? ","['fenster', 'hammer']",fenster,fenster
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gurke"" und ""brille"" kommt zuerst? A:","['gurke', 'brille']",brille,brille
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""decke"" oder ""kaffee""? A:","['decke', 'kaffee']",decke,decke
+"Welches von den Woertern ""fenster"" und ""hose"", kommt alphabetisch zuerst? ","['fenster', 'hose']",fenster,fenster
+"Welches von den Woertern ""feuer"" und ""huegel"", kommt alphabetisch zuerst? ","['feuer', 'huegel']",feuer,feuer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""intelligenz""? A:","['dach', 'intelligenz']",dach,intelligenz
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""joystick"" kommt zuerst? A:","['brille', 'joystick']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""joghurt"" und ""ast"" kommt zuerst? A:","['joghurt', 'ast']",ast,ast
+"Welches von den Woertern ""heft"" und ""eimer"", kommt alphabetisch zuerst? ","['heft', 'eimer']",eimer,eimer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""atlas"" und ""kamm"" kommt zuerst? A:","['atlas', 'kamm']",atlas,atlas
+"Welches von den Woertern ""erde"" und ""kueche"", kommt alphabetisch zuerst? ","['erde', 'kueche']",erde,erde
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""joystick""? A:","['dose', 'joystick']",dose,dose
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gans"" und ""birne"" kommt zuerst? A:","['gans', 'birne']",birne,birne
+"F: In alphabetischer Reihenfolge, welches der Woerter ""hose"" und ""burg"" kommt zuerst? A:","['hose', 'burg']",burg,burg
+"Welches von den Woertern ""gurke"" und ""fahrrad"", kommt alphabetisch zuerst? ","['gurke', 'fahrrad']",fahrrad,fahrrad
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gitarre"" und ""anker"" kommt zuerst? A:","['gitarre', 'anker']",anker,anker
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""kamm""? A:","['dach', 'kamm']",dach,dach
+"Welches von den Woertern ""erdbeere"" und ""karte"", kommt alphabetisch zuerst? ","['erdbeere', 'karte']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""besen"" oder ""karte""? A:","['besen', 'karte']",besen,besen
+"Welches von den Woertern ""gans"" und ""echo"", kommt alphabetisch zuerst? ","['gans', 'echo']",echo,echo
+"F: In alphabetischer Reihenfolge, welches der Woerter ""leiter"" und ""brett"" kommt zuerst? A:","['leiter', 'brett']",brett,leiter
+"Welches von den Woertern ""eiche"" und ""ideal"", kommt alphabetisch zuerst? ","['eiche', 'ideal']",eiche,eiche
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""gummi"" kommt zuerst? A:","['ameise', 'gummi']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""hammer"" kommt zuerst? A:","['buch', 'hammer']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""journal"" oder ""dialog""? A:","['journal', 'dialog']",dialog,dialog
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kiste"" und ""ball"" kommt zuerst? A:","['kiste', 'ball']",ball,ball
+"Welches von den Woertern ""echo"" und ""kuh"", kommt alphabetisch zuerst? ","['echo', 'kuh']",echo,echo
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iglu"" und ""burg"" kommt zuerst? A:","['iglu', 'burg']",burg,burg
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""jeans"" kommt zuerst? A:","['ast', 'jeans']",ast,ast
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""computer"" oder ""jaguar""? A:","['computer', 'jaguar']",computer,computer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""herz"" oder ""chip""? A:","['herz', 'chip']",chip,chip
+"F: In alphabetischer Reihenfolge, welches der Woerter ""leiter"" und ""anker"" kommt zuerst? A:","['leiter', 'anker']",anker,anker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brett"" und ""karte"" kommt zuerst? A:","['brett', 'karte']",brett,brett
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""juwel"" oder ""dose""? A:","['juwel', 'dose']",dose,dose
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""iris"" kommt zuerst? A:","['brille', 'iris']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""holz"" und ""burg"" kommt zuerst? A:","['holz', 'burg']",burg,burg
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""ideal""? A:","['chip', 'ideal']",chip,chip
+"Welches von den Woertern ""index"" und ""feuer"", kommt alphabetisch zuerst? ","['index', 'feuer']",feuer,feuer
+"Welches von den Woertern ""esel"" und ""gans"", kommt alphabetisch zuerst? ","['esel', 'gans']",esel,esel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""kiste""? A:","['dach', 'kiste']",dach,dach
+"Welches von den Woertern ""eule"" und ""gummi"", kommt alphabetisch zuerst? ","['eule', 'gummi']",eule,eule
+"Welches von den Woertern ""loeffel"" und ""drache"", kommt alphabetisch zuerst? ","['loeffel', 'drache']",drache,loeffel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""garten"" oder ""couch""? A:","['garten', 'couch']",couch,couch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""inhalt"" oder ""clown""? A:","['inhalt', 'clown']",clown,clown
+"Welches von den Woertern ""hammer"" und ""fuchs"", kommt alphabetisch zuerst? ","['hammer', 'fuchs']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches der Woerter ""glas"" und ""ameise"" kommt zuerst? A:","['glas', 'ameise']",ameise,ameise
+"Welches von den Woertern ""erdbeere"" und ""hut"", kommt alphabetisch zuerst? ","['erdbeere', 'hut']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chaos"" oder ""jasmin""? A:","['chaos', 'jasmin']",chaos,chaos
+"Welches von den Woertern ""herz"" und ""fisch"", kommt alphabetisch zuerst? ","['herz', 'fisch']",fisch,fisch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""iglu"" oder ""computer""? A:","['iglu', 'computer']",computer,computer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""huegel""? A:","['chili', 'huegel']",chili,chili
+"Welches von den Woertern ""eimer"" und ""juwel"", kommt alphabetisch zuerst? ","['eimer', 'juwel']",eimer,juwel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""joghurt""? A:","['dose', 'joghurt']",dose,dose
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jasmin"" und ""apotheke"" kommt zuerst? A:","['jasmin', 'apotheke']",apotheke,apotheke
+"Welches von den Woertern ""insel"" und ""ente"", kommt alphabetisch zuerst? ","['insel', 'ente']",ente,ente
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""kiste"" kommt zuerst? A:","['brille', 'kiste']",brille,brille
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""jasmin"" oder ""clown""? A:","['jasmin', 'clown']",clown,clown
+"F: In alphabetischer Reihenfolge, welches der Woerter ""apotheke"" und ""igel"" kommt zuerst? A:","['apotheke', 'igel']",apotheke,apotheke
+"Welches von den Woertern ""erdbeere"" und ""index"", kommt alphabetisch zuerst? ","['erdbeere', 'index']",erdbeere,erdbeere
+"Welches von den Woertern ""intelligenz"" und ""elch"", kommt alphabetisch zuerst? ","['intelligenz', 'elch']",elch,elch
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kissen"" und ""burg"" kommt zuerst? A:","['kissen', 'burg']",burg,burg
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""jeans"" oder ""drucker""? A:","['jeans', 'drucker']",drucker,drucker
+"Welches von den Woertern ""gans"" und ""erdbeere"", kommt alphabetisch zuerst? ","['gans', 'erdbeere']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ast"" und ""glas"" kommt zuerst? A:","['ast', 'glas']",ast,ast
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""joghurt"" oder ""chip""? A:","['joghurt', 'chip']",chip,chip
+"F: In alphabetischer Reihenfolge, welches der Woerter ""ameise"" und ""kamm"" kommt zuerst? A:","['ameise', 'kamm']",ameise,ameise
+"Welches von den Woertern ""lampe"" und ""eis"", kommt alphabetisch zuerst? ","['lampe', 'eis']",eis,eis
+"F: In alphabetischer Reihenfolge, welches der Woerter ""loeffel"" und ""buch"" kommt zuerst? A:","['loeffel', 'buch']",buch,loeffel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""glocke"" und ""anker"" kommt zuerst? A:","['glocke', 'anker']",anker,anker
+"F: In alphabetischer Reihenfolge, welches der Woerter ""apotheke"" und ""journal"" kommt zuerst? A:","['apotheke', 'journal']",apotheke,apotheke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jacke"" und ""buch"" kommt zuerst? A:","['jacke', 'buch']",buch,buch
+"Welches von den Woertern ""lampe"" und ""fahrrad"", kommt alphabetisch zuerst? ","['lampe', 'fahrrad']",fahrrad,fahrrad
+"Welches von den Woertern ""dame"" und ""joghurt"", kommt alphabetisch zuerst? ","['dame', 'joghurt']",dame,dame
+"Welches von den Woertern ""drache"" und ""jaguar"", kommt alphabetisch zuerst? ","['drache', 'jaguar']",drache,drache
+"F: In alphabetischer Reihenfolge, welches der Woerter ""brille"" und ""juwel"" kommt zuerst? A:","['brille', 'juwel']",brille,brille
+"F: In alphabetischer Reihenfolge, welches der Woerter ""iris"" und ""atlas"" kommt zuerst? A:","['iris', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dach"" oder ""lampe""? A:","['dach', 'lampe']",dach,dach
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chip"" oder ""huegel""? A:","['chip', 'huegel']",chip,chip
+"F: In alphabetischer Reihenfolge, welches der Woerter ""blume"" und ""huegel"" kommt zuerst? A:","['blume', 'huegel']",blume,blume
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chili"" oder ""lager""? A:","['chili', 'lager']",chili,lager
+"Welches von den Woertern ""erdbeere"" und ""kiste"", kommt alphabetisch zuerst? ","['erdbeere', 'kiste']",erdbeere,erdbeere
+"F: In alphabetischer Reihenfolge, welches der Woerter ""jacke"" und ""blume"" kommt zuerst? A:","['jacke', 'blume']",blume,blume
+"F: In alphabetischer Reihenfolge, welches der Woerter ""glocke"" und ""apfel"" kommt zuerst? A:","['glocke', 'apfel']",apfel,apfel
+"Welches von den Woertern ""fuchs"" und ""glocke"", kommt alphabetisch zuerst? ","['fuchs', 'glocke']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""chef"" oder ""keks""? A:","['chef', 'keks']",chef,chef
+"Welches von den Woertern ""joghurt"" und ""eimer"", kommt alphabetisch zuerst? ","['joghurt', 'eimer']",eimer,eimer
+"F: In alphabetischer Reihenfolge, welches der Woerter ""junge"" und ""atlas"" kommt zuerst? A:","['junge', 'atlas']",atlas,atlas
+"F: In alphabetischer Reihenfolge, welches der Woerter ""blume"" und ""haus"" kommt zuerst? A:","['blume', 'haus']",blume,blume
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kaffee"" und ""ball"" kommt zuerst? A:","['kaffee', 'ball']",ball,ball
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""kissen"" oder ""bruecke""? A:","['kissen', 'bruecke']",bruecke,bruecke
+"F: In alphabetischer Reihenfolge, welches der Woerter ""juwel"" und ""ameise"" kommt zuerst? A:","['juwel', 'ameise']",ameise,ameise
+"F: In alphabetischer Reihenfolge, welches der Woerter ""gummi"" und ""auto"" kommt zuerst? A:","['gummi', 'auto']",auto,auto
+"F: In alphabetischer Reihenfolge, welches der Woerter ""anker"" und ""hut"" kommt zuerst? A:","['anker', 'hut']",anker,anker
+"Welches von den Woertern ""journal"" und ""erde"", kommt alphabetisch zuerst? ","['journal', 'erde']",erde,erde
+"Welches von den Woertern ""gitarre"" und ""fuchs"", kommt alphabetisch zuerst? ","['gitarre', 'fuchs']",fuchs,fuchs
+"F: In alphabetischer Reihenfolge, welches der Woerter ""kerze"" und ""ampel"" kommt zuerst? A:","['kerze', 'ampel']",ampel,ampel
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""café"" oder ""kuh""? A:","['café', 'kuh']",café,café
+"Welches von den Woertern ""joystick"" und ""eiche"", kommt alphabetisch zuerst? ","['joystick', 'eiche']",eiche,joystick
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""hut"" oder ""chip""? A:","['hut', 'chip']",chip,chip
+"F: In alphabetischer Reihenfolge, welches der Woerter ""blume"" und ""herz"" kommt zuerst? A:","['blume', 'herz']",blume,blume
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""drucker"" oder ""kamm""? A:","['drucker', 'kamm']",drucker,drucker
+"Welches von den Woertern ""jacke"" und ""fisch"", kommt alphabetisch zuerst? ","['jacke', 'fisch']",fisch,jacke
+"Welches von den Woertern ""glas"" und ""fuchs"", kommt alphabetisch zuerst? ","['glas', 'fuchs']",fuchs,fuchs
+"Welches von den Woertern ""gabel"" und ""eule"", kommt alphabetisch zuerst? ","['gabel', 'eule']",eule,eule
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""computer"" oder ""indigo""? A:","['computer', 'indigo']",computer,computer
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""lampe"" oder ""creme""? A:","['lampe', 'creme']",creme,creme
+"F: In alphabetischer Reihenfolge, welches der Woerter ""keks"" und ""ampel"" kommt zuerst? A:","['keks', 'ampel']",ampel,ampel
+"Welches von den Woertern ""dattel"" und ""leiter"", kommt alphabetisch zuerst? ","['dattel', 'leiter']",dattel,dattel
+"F: In alphabetischer Reihenfolge, welches der Woerter ""buch"" und ""keks"" kommt zuerst? A:","['buch', 'keks']",buch,buch
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""dose"" oder ""loeffel""? A:","['dose', 'loeffel']",dose,dose
+"F: In alphabetischer Reihenfolge, welches Wort kommt zuerst, ""glas"" oder ""creme""? A:","['glas', 'creme']",creme,creme
