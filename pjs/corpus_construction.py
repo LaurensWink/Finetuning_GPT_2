@@ -6,6 +6,7 @@ from loguru import logger
 from collections import Counter
 
 ### ALL OPTIONS HAVE TO BE LOWERCASE CAUSE OF OUTLINES (otherwise a value error will occure, in the english data all options are lowercase also) ###
+### ALL UMLAUTS NEED TO BE REPLACED CAUSE OF THE TOKENIZERS ###
 
 def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, examples_per_template = 1000):
     '''all number_tasks type tasks'''
@@ -59,8 +60,8 @@ def first_alphabetically(file_name: str, templates: list[str], task_data: list[(
     for question in templates:
         for _ in range(examples_per_template):
             n1, n2 = random.sample(range(2), 2)
-            word1 = word_tupel_list[global_index][n1].lower()
-            word2 = word_tupel_list[global_index][n2].lower()
+            word1 = replace_umlauts(word_tupel_list[global_index][n1]).lower()
+            word2 = replace_umlauts(word_tupel_list[global_index][n2]).lower()
             global_index = global_index+1
             answer = eval_funktion(word1,word2)
             input = question.format(word1 = word1, word2 = word2)
@@ -91,7 +92,7 @@ def order_task(file_name: str, templates: list[str], task_data: list[str], task_
 
     for question in templates:
         for _ in range(examples_per_template):
-            subject = task_data[global_index].lower()
+            subject = replace_umlauts(task_data[global_index]).lower()
             split = [word.strip(string.punctuation) for word in subject.split()]
             global_index = global_index+1
             if task_type == "sentence": 
@@ -129,8 +130,8 @@ def ammount_tasks(file_name: str, templates: list[str], task_data: list[(list[st
     for question in templates:
         for _ in range(examples_per_template):
             n1, n2 = random.sample(range(2), 2)
-            word1 = word_tupel_list[global_index][n1].lower()
-            word2 = word_tupel_list[global_index][n2].lower()
+            word1 = replace_umlauts(word_tupel_list[global_index][n1]).lower()
+            word2 = replace_umlauts(word_tupel_list[global_index][n2]).lower()
             global_index = global_index+1
             answer = eval_funktion(word1,word2)
             input = question.format(word1 = word1, word2 = word2)
@@ -158,7 +159,7 @@ def before_after_tasks(file_name: str, templates: list[str], task_data: list[lis
 
     for question in templates:
         for _ in range(examples_per_template):
-            sentence = task_data[global_index].lower()
+            sentence = replace_umlauts(task_data[global_index]).lower()
             global_index = global_index+1
             split = [word.strip(string.punctuation) for word in sentence.split()]
             word_counts = Counter(split)
@@ -183,6 +184,16 @@ def json_load(path: str):
     with open(path, 'r', encoding='utf-8') as file:
         json_data = json.load(file)
         return json_data
+
+def replace_umlauts(text: str) -> str:
+    replacements = {
+        "ä": "ae", "ö": "oe", "ü": "ue",
+        "Ä": "Ae", "Ö": "Oe", "Ü": "Ue",
+        "ß": "ss"
+    }
+    for umlaut, replacement in replacements.items():
+        text = text.replace(umlaut, replacement)
+    return text
 
 def eval_bigger_number(num1: int, num2: int) -> int:
     return max(num1, num2)
