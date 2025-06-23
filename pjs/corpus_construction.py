@@ -5,7 +5,7 @@ import string
 from loguru import logger
 from collections import Counter
 
-### ALL OPTIONS HAVE TO BE LOWERCASE CAUSE OF OUTLINES (otherwise a value error will occure, in the english data all options are lowercase also) ###
+### IF THERE ARE ONLY TWO WORDS AS OPTIONS THEY HAVE TO BE LOWERCASED CAUSE OF OUTLINES (otherwise a value error will occure) ###
 ### ALL UMLAUTS NEED TO BE REPLACED CAUSE OF THE TOKENIZERS ###
 
 def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, examples_per_template = 1000):
@@ -92,7 +92,7 @@ def order_task(file_name: str, templates: list[str], task_data: list[str], task_
 
     for question in templates:
         for _ in range(examples_per_template):
-            subject = replace_umlauts(task_data[global_index]).lower()
+            subject = replace_umlauts(task_data[global_index])
             split = [word.strip(string.punctuation) for word in subject.split()]
             global_index = global_index+1
             if task_type == "sentence": 
@@ -103,7 +103,7 @@ def order_task(file_name: str, templates: list[str], task_data: list[str], task_
             data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
             data_set["examples"][global_index]["metadata"] = {}
-            data_set["examples"][global_index]["metadata"][task_type] = subject
+            data_set["examples"][global_index]["metadata"][task_type] = ' '.join(split)
             data_set["examples"][global_index]["metadata"]["answer"] = answer
 
     json_dump(data_set, f'data/LMentry_de/{file_name}.json')
@@ -159,7 +159,7 @@ def before_after_tasks(file_name: str, templates: list[str], task_data: list[lis
 
     for question in templates:
         for _ in range(examples_per_template):
-            sentence = replace_umlauts(task_data[global_index]).lower()
+            sentence = replace_umlauts(task_data[global_index])
             global_index = global_index+1
             split = [word.strip(string.punctuation) for word in sentence.split()]
             word_counts = Counter(split)
@@ -170,7 +170,7 @@ def before_after_tasks(file_name: str, templates: list[str], task_data: list[lis
             data_set["examples"][global_index] = {}
             data_set["examples"][global_index]["input"] = input
             data_set["examples"][global_index]["metadata"] = {}
-            data_set["examples"][global_index]["metadata"]["sentence"] = sentence
+            data_set["examples"][global_index]["metadata"]["sentence"] = ' '.join(split)
             data_set["examples"][global_index]["metadata"]["answer"] = answer
     
     json_dump(data_set, f'data/LMentry_de/{file_name}.json')

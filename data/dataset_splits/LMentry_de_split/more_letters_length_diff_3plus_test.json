@@ -1,34 +1,34 @@
 [
   {
-    "input": "F: Welches Wort ist laenger, \"mehr\" oder \"einfach\"? A:",
+    "input": "F: Welches Wort ist laenger, \"einfach\" oder \"mehr\"? A:",
     "output": "einfach",
     "options": [
-      "mehr",
+      "einfach",
+      "mehr"
+    ]
+  },
+  {
+    "input": "F: Welches Wort ist laenger, \"war\" oder \"gedanke\"? A:",
+    "output": "gedanke",
+    "options": [
+      "war",
+      "gedanke"
+    ]
+  },
+  {
+    "input": "F: Welches Wort ist laenger, \"dann\" oder \"einfach\"? A:",
+    "output": "einfach",
+    "options": [
+      "dann",
       "einfach"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"gedanke\" oder \"war\"? A:",
-    "output": "gedanke",
-    "options": [
-      "gedanke",
-      "war"
-    ]
-  },
-  {
-    "input": "F: Welches Wort ist laenger, \"einfach\" oder \"dann\"? A:",
-    "output": "einfach",
-    "options": [
-      "einfach",
-      "dann"
-    ]
-  },
-  {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"sollen\" oder \"in\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"sollen\"? A:",
     "output": "sollen",
     "options": [
-      "sollen",
-      "in"
+      "in",
+      "sollen"
     ]
   },
   {
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"einfach\" oder \"man\"? A:",
+    "input": "F: Welches Wort ist laenger, \"man\" oder \"einfach\"? A:",
     "output": "einfach",
     "options": [
-      "einfach",
-      "man"
+      "man",
+      "einfach"
     ]
   },
   {
@@ -80,19 +80,19 @@
     ]
   },
   {
-    "input": "Von den Woertern \"bekannte\" und \"will\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"will\" und \"bekannte\", welches hat mehr Buchstaben? ",
     "output": "bekannte",
     "options": [
-      "bekannte",
-      "will"
+      "will",
+      "bekannte"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"nichts\" oder \"im\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"im\" oder \"nichts\"? A:",
     "output": "nichts",
     "options": [
-      "nichts",
-      "im"
+      "im",
+      "nichts"
     ]
   },
   {
@@ -104,35 +104,35 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"auch\" oder \"gezeigt\"? A:",
+    "input": "F: Welches Wort ist laenger, \"gezeigt\" oder \"auch\"? A:",
     "output": "gezeigt",
     "options": [
-      "auch",
-      "gezeigt"
+      "gezeigt",
+      "auch"
     ]
   },
   {
-    "input": "Von den Woertern \"zwischen\" und \"daran\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"daran\" und \"zwischen\", welches hat mehr Buchstaben? ",
     "output": "zwischen",
     "options": [
-      "zwischen",
-      "daran"
+      "daran",
+      "zwischen"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"fragen\" oder \"nie\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"nie\" oder \"fragen\"? A:",
     "output": "fragen",
     "options": [
-      "fragen",
-      "nie"
+      "nie",
+      "fragen"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ist\" oder \"anderen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"anderen\" oder \"ist\"? A:",
     "output": "anderen",
     "options": [
-      "ist",
-      "anderen"
+      "anderen",
+      "ist"
     ]
   },
   {
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"abschied\" und \"allen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"allen\" und \"abschied\", welches hat mehr Buchstaben? ",
     "output": "abschied",
     "options": [
-      "abschied",
-      "allen"
+      "allen",
+      "abschied"
     ]
   },
   {
@@ -184,11 +184,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"beispiel\" und \"auch\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"auch\" und \"beispiel\", welches hat mehr Buchstaben? ",
     "output": "beispiel",
     "options": [
-      "beispiel",
-      "auch"
+      "auch",
+      "beispiel"
     ]
   },
   {
@@ -208,11 +208,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"wurde\" und \"bruellen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"bruellen\" und \"wurde\", welches hat mehr Buchstaben? ",
     "output": "bruellen",
     "options": [
-      "wurde",
-      "bruellen"
+      "bruellen",
+      "wurde"
     ]
   },
   {
@@ -232,11 +232,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"mehrere\" oder \"nie\"? A:",
+    "input": "F: Welches Wort ist laenger, \"nie\" oder \"mehrere\"? A:",
     "output": "mehrere",
     "options": [
-      "mehrere",
-      "nie"
+      "nie",
+      "mehrere"
     ]
   },
   {
@@ -256,11 +256,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"man\" oder \"fragen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"fragen\" oder \"man\"? A:",
     "output": "fragen",
     "options": [
-      "man",
-      "fragen"
+      "fragen",
+      "man"
     ]
   },
   {
@@ -304,19 +304,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ja\" oder \"jemand\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"ja\"? A:",
     "output": "jemand",
     "options": [
-      "ja",
-      "jemand"
+      "jemand",
+      "ja"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"der\" oder \"bedeutet\"? A:",
+    "input": "F: Welches Wort ist laenger, \"bedeutet\" oder \"der\"? A:",
     "output": "bedeutet",
     "options": [
-      "der",
-      "bedeutet"
+      "bedeutet",
+      "der"
     ]
   },
   {
@@ -328,19 +328,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"im\" oder \"laufen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"laufen\" oder \"im\"? A:",
     "output": "laufen",
     "options": [
-      "im",
-      "laufen"
+      "laufen",
+      "im"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"da\" oder \"anderen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"anderen\" oder \"da\"? A:",
     "output": "anderen",
     "options": [
-      "da",
-      "anderen"
+      "anderen",
+      "da"
     ]
   },
   {
@@ -352,19 +352,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"weg\" oder \"bedrohen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"bedrohen\" oder \"weg\"? A:",
     "output": "bedrohen",
     "options": [
-      "weg",
-      "bedrohen"
+      "bedrohen",
+      "weg"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bruellen\" oder \"all\"? A:",
+    "input": "F: Welches Wort ist laenger, \"all\" oder \"bruellen\"? A:",
     "output": "bruellen",
     "options": [
-      "bruellen",
-      "all"
+      "all",
+      "bruellen"
     ]
   },
   {
@@ -384,43 +384,43 @@
     ]
   },
   {
-    "input": "Von den Woertern \"tadellos\" und \"haben\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"haben\" und \"tadellos\", welches hat mehr Buchstaben? ",
     "output": "tadellos",
     "options": [
-      "tadellos",
-      "haben"
+      "haben",
+      "tadellos"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"irgendwo\" oder \"war\"? A:",
+    "input": "F: Welches Wort ist laenger, \"war\" oder \"irgendwo\"? A:",
     "output": "irgendwo",
     "options": [
-      "irgendwo",
-      "war"
+      "war",
+      "irgendwo"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ich\" oder \"wertlos\"? A:",
+    "input": "F: Welches Wort ist laenger, \"wertlos\" oder \"ich\"? A:",
     "output": "wertlos",
     "options": [
-      "ich",
-      "wertlos"
+      "wertlos",
+      "ich"
     ]
   },
   {
-    "input": "Von den Woertern \"noch\" und \"offensiv\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"offensiv\" und \"noch\", welches hat mehr Buchstaben? ",
     "output": "offensiv",
     "options": [
-      "noch",
-      "offensiv"
+      "offensiv",
+      "noch"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"bagger\" oder \"ab\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"ab\" oder \"bagger\"? A:",
     "output": "bagger",
     "options": [
-      "bagger",
-      "ab"
+      "ab",
+      "bagger"
     ]
   },
   {
@@ -440,11 +440,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"unter\" und \"verzichts\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"verzichts\" und \"unter\", welches hat mehr Buchstaben? ",
     "output": "verzichts",
     "options": [
-      "unter",
-      "verzichts"
+      "verzichts",
+      "unter"
     ]
   },
   {
@@ -456,19 +456,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"tragen\" oder \"aus\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"aus\" oder \"tragen\"? A:",
     "output": "tragen",
     "options": [
-      "tragen",
-      "aus"
+      "aus",
+      "tragen"
     ]
   },
   {
-    "input": "Von den Woertern \"dabei\" und \"blamabel\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"blamabel\" und \"dabei\", welches hat mehr Buchstaben? ",
     "output": "blamabel",
     "options": [
-      "dabei",
-      "blamabel"
+      "blamabel",
+      "dabei"
     ]
   },
   {
@@ -488,11 +488,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"das\" oder \"denken\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"das\"? A:",
     "output": "denken",
     "options": [
-      "das",
-      "denken"
+      "denken",
+      "das"
     ]
   },
   {
@@ -512,19 +512,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"gebiss\" oder \"im\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"im\" oder \"gebiss\"? A:",
     "output": "gebiss",
     "options": [
-      "gebiss",
-      "im"
+      "im",
+      "gebiss"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"lebende\" oder \"war\"? A:",
+    "input": "F: Welches Wort ist laenger, \"war\" oder \"lebende\"? A:",
     "output": "lebende",
     "options": [
-      "lebende",
-      "war"
+      "war",
+      "lebende"
     ]
   },
   {
@@ -536,11 +536,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"mit\" oder \"bedrohen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"bedrohen\" oder \"mit\"? A:",
     "output": "bedrohen",
     "options": [
-      "mit",
-      "bedrohen"
+      "bedrohen",
+      "mit"
     ]
   },
   {
@@ -592,27 +592,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"zu\" oder \"denken\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"zu\"? A:",
     "output": "denken",
     "options": [
-      "zu",
-      "denken"
+      "denken",
+      "zu"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ich\" oder \"sollen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"sollen\" oder \"ich\"? A:",
     "output": "sollen",
     "options": [
-      "ich",
-      "sollen"
+      "sollen",
+      "ich"
     ]
   },
   {
-    "input": "Von den Woertern \"variabel\" und \"zeit\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"zeit\" und \"variabel\", welches hat mehr Buchstaben? ",
     "output": "variabel",
     "options": [
-      "variabel",
-      "zeit"
+      "zeit",
+      "variabel"
     ]
   },
   {
@@ -632,27 +632,27 @@
     ]
   },
   {
-    "input": "Von den Woertern \"geborene\" und \"viel\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"viel\" und \"geborene\", welches hat mehr Buchstaben? ",
     "output": "geborene",
     "options": [
-      "geborene",
-      "viel"
+      "viel",
+      "geborene"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"wenn\" oder \"gedanke\"? A:",
+    "input": "F: Welches Wort ist laenger, \"gedanke\" oder \"wenn\"? A:",
     "output": "gedanke",
     "options": [
-      "wenn",
-      "gedanke"
+      "gedanke",
+      "wenn"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"dann\" oder \"pulvrig\"? A:",
+    "input": "F: Welches Wort ist laenger, \"pulvrig\" oder \"dann\"? A:",
     "output": "pulvrig",
     "options": [
-      "dann",
-      "pulvrig"
+      "pulvrig",
+      "dann"
     ]
   },
   {
@@ -664,43 +664,43 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"dann\" oder \"ungerne\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ungerne\" oder \"dann\"? A:",
     "output": "ungerne",
     "options": [
-      "dann",
-      "ungerne"
+      "ungerne",
+      "dann"
     ]
   },
   {
-    "input": "Von den Woertern \"beweise\" und \"heut\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"heut\" und \"beweise\", welches hat mehr Buchstaben? ",
     "output": "beweise",
     "options": [
-      "beweise",
-      "heut"
+      "heut",
+      "beweise"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"er\" oder \"jemand\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"er\"? A:",
     "output": "jemand",
     "options": [
-      "er",
-      "jemand"
+      "jemand",
+      "er"
     ]
   },
   {
-    "input": "Von den Woertern \"offensiv\" und \"lang\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"lang\" und \"offensiv\", welches hat mehr Buchstaben? ",
     "output": "offensiv",
     "options": [
-      "offensiv",
-      "lang"
+      "lang",
+      "offensiv"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"die\" oder \"bedrohen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"bedrohen\" oder \"die\"? A:",
     "output": "bedrohen",
     "options": [
-      "die",
-      "bedrohen"
+      "bedrohen",
+      "die"
     ]
   },
   {
@@ -728,19 +728,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"rot\" oder \"einfach\"? A:",
+    "input": "F: Welches Wort ist laenger, \"einfach\" oder \"rot\"? A:",
     "output": "einfach",
     "options": [
-      "rot",
-      "einfach"
+      "einfach",
+      "rot"
     ]
   },
   {
-    "input": "Von den Woertern \"erst\" und \"verloren\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"verloren\" und \"erst\", welches hat mehr Buchstaben? ",
     "output": "verloren",
     "options": [
-      "erst",
-      "verloren"
+      "verloren",
+      "erst"
     ]
   },
   {
@@ -752,11 +752,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bestens\" oder \"auch\"? A:",
+    "input": "F: Welches Wort ist laenger, \"auch\" oder \"bestens\"? A:",
     "output": "bestens",
     "options": [
-      "bestens",
-      "auch"
+      "auch",
+      "bestens"
     ]
   },
   {
@@ -800,19 +800,19 @@
     ]
   },
   {
-    "input": "Von den Woertern \"dann\" und \"beispiel\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"beispiel\" und \"dann\", welches hat mehr Buchstaben? ",
     "output": "beispiel",
     "options": [
-      "dann",
-      "beispiel"
+      "beispiel",
+      "dann"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"im\" oder \"analog\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"im\"? A:",
     "output": "analog",
     "options": [
-      "im",
-      "analog"
+      "analog",
+      "im"
     ]
   },
   {
@@ -824,11 +824,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"war\" oder \"offensiv\"? A:",
+    "input": "F: Welches Wort ist laenger, \"offensiv\" oder \"war\"? A:",
     "output": "offensiv",
     "options": [
-      "war",
-      "offensiv"
+      "offensiv",
+      "war"
     ]
   },
   {
@@ -848,11 +848,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ganz\" oder \"anderen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"anderen\" oder \"ganz\"? A:",
     "output": "anderen",
     "options": [
-      "ganz",
-      "anderen"
+      "anderen",
+      "ganz"
     ]
   },
   {
@@ -864,11 +864,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"zu\" oder \"bagger\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"bagger\" oder \"zu\"? A:",
     "output": "bagger",
     "options": [
-      "zu",
-      "bagger"
+      "bagger",
+      "zu"
     ]
   },
   {
@@ -880,43 +880,43 @@
     ]
   },
   {
-    "input": "Von den Woertern \"effizient\" und \"reden\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"reden\" und \"effizient\", welches hat mehr Buchstaben? ",
     "output": "effizient",
     "options": [
-      "effizient",
-      "reden"
+      "reden",
+      "effizient"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"um\" oder \"wertlos\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"wertlos\" oder \"um\"? A:",
     "output": "wertlos",
     "options": [
-      "um",
-      "wertlos"
+      "wertlos",
+      "um"
     ]
   },
   {
-    "input": "Von den Woertern \"bedeutung\" und \"dabei\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"dabei\" und \"bedeutung\", welches hat mehr Buchstaben? ",
     "output": "bedeutung",
     "options": [
-      "bedeutung",
-      "dabei"
+      "dabei",
+      "bedeutung"
     ]
   },
   {
-    "input": "Von den Woertern \"sich\" und \"anderen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"anderen\" und \"sich\", welches hat mehr Buchstaben? ",
     "output": "anderen",
     "options": [
-      "sich",
-      "anderen"
+      "anderen",
+      "sich"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"gezeigt\" oder \"in\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"gezeigt\"? A:",
     "output": "gezeigt",
     "options": [
-      "gezeigt",
-      "in"
+      "in",
+      "gezeigt"
     ]
   },
   {
@@ -928,11 +928,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"am\" oder \"mulmig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"mulmig\" oder \"am\"? A:",
     "output": "mulmig",
     "options": [
-      "am",
-      "mulmig"
+      "mulmig",
+      "am"
     ]
   },
   {
@@ -944,19 +944,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"rot\" oder \"voellig\"? A:",
+    "input": "F: Welches Wort ist laenger, \"voellig\" oder \"rot\"? A:",
     "output": "voellig",
     "options": [
-      "rot",
-      "voellig"
+      "voellig",
+      "rot"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"zeit\" oder \"mehrere\"? A:",
+    "input": "F: Welches Wort ist laenger, \"mehrere\" oder \"zeit\"? A:",
     "output": "mehrere",
     "options": [
-      "zeit",
-      "mehrere"
+      "mehrere",
+      "zeit"
     ]
   },
   {
@@ -968,11 +968,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"darueber\" oder \"die\"? A:",
+    "input": "F: Welches Wort ist laenger, \"die\" oder \"darueber\"? A:",
     "output": "darueber",
     "options": [
-      "darueber",
-      "die"
+      "die",
+      "darueber"
     ]
   },
   {
@@ -984,19 +984,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"noch\" oder \"beenden\"? A:",
+    "input": "F: Welches Wort ist laenger, \"beenden\" oder \"noch\"? A:",
     "output": "beenden",
     "options": [
-      "noch",
-      "beenden"
+      "beenden",
+      "noch"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"nun\" oder \"ungerne\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ungerne\" oder \"nun\"? A:",
     "output": "ungerne",
     "options": [
-      "nun",
-      "ungerne"
+      "ungerne",
+      "nun"
     ]
   },
   {
@@ -1008,27 +1008,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"erst\" oder \"lebende\"? A:",
+    "input": "F: Welches Wort ist laenger, \"lebende\" oder \"erst\"? A:",
     "output": "lebende",
     "options": [
-      "erst",
-      "lebende"
+      "lebende",
+      "erst"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ehe\" oder \"meinen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"meinen\" oder \"ehe\"? A:",
     "output": "meinen",
     "options": [
-      "ehe",
-      "meinen"
+      "meinen",
+      "ehe"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"einmal\" oder \"aus\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"aus\" oder \"einmal\"? A:",
     "output": "einmal",
     "options": [
-      "einmal",
-      "aus"
+      "aus",
+      "einmal"
     ]
   },
   {
@@ -1080,11 +1080,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"abholen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"abholen\" oder \"so\"? A:",
     "output": "abholen",
     "options": [
-      "so",
-      "abholen"
+      "abholen",
+      "so"
     ]
   },
   {
@@ -1112,11 +1112,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"zeit\" und \"versucht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"versucht\" und \"zeit\", welches hat mehr Buchstaben? ",
     "output": "versucht",
     "options": [
-      "zeit",
-      "versucht"
+      "versucht",
+      "zeit"
     ]
   },
   {
@@ -1128,11 +1128,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"rot\" oder \"bestens\"? A:",
+    "input": "F: Welches Wort ist laenger, \"bestens\" oder \"rot\"? A:",
     "output": "bestens",
     "options": [
-      "rot",
-      "bestens"
+      "bestens",
+      "rot"
     ]
   },
   {
@@ -1144,35 +1144,35 @@
     ]
   },
   {
-    "input": "Von den Woertern \"versucht\" und \"daran\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"daran\" und \"versucht\", welches hat mehr Buchstaben? ",
     "output": "versucht",
     "options": [
-      "versucht",
-      "daran"
+      "daran",
+      "versucht"
     ]
   },
   {
-    "input": "Von den Woertern \"bedrohen\" und \"kann\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"kann\" und \"bedrohen\", welches hat mehr Buchstaben? ",
     "output": "bedrohen",
     "options": [
-      "bedrohen",
-      "kann"
+      "kann",
+      "bedrohen"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"pulvrig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"pulvrig\" oder \"so\"? A:",
     "output": "pulvrig",
     "options": [
-      "so",
-      "pulvrig"
+      "pulvrig",
+      "so"
     ]
   },
   {
-    "input": "Von den Woertern \"ehrenlos\" und \"dann\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"dann\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "ehrenlos",
-      "dann"
+      "dann",
+      "ehrenlos"
     ]
   },
   {
@@ -1184,11 +1184,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"ungerne\" und \"sehr\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"sehr\" und \"ungerne\", welches hat mehr Buchstaben? ",
     "output": "ungerne",
     "options": [
-      "ungerne",
-      "sehr"
+      "sehr",
+      "ungerne"
     ]
   },
   {
@@ -1216,11 +1216,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"wertlos\" oder \"der\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"der\" oder \"wertlos\"? A:",
     "output": "wertlos",
     "options": [
-      "wertlos",
-      "der"
+      "der",
+      "wertlos"
     ]
   },
   {
@@ -1240,11 +1240,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"will\" oder \"voellig\"? A:",
+    "input": "F: Welches Wort ist laenger, \"voellig\" oder \"will\"? A:",
     "output": "voellig",
     "options": [
-      "will",
-      "voellig"
+      "voellig",
+      "will"
     ]
   },
   {
@@ -1272,11 +1272,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"verloren\" und \"waren\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"waren\" und \"verloren\", welches hat mehr Buchstaben? ",
     "output": "verloren",
     "options": [
-      "verloren",
-      "waren"
+      "waren",
+      "verloren"
     ]
   },
   {
@@ -1312,11 +1312,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"auch\"? A:",
+    "input": "F: Welches Wort ist laenger, \"auch\" oder \"abholen\"? A:",
     "output": "abholen",
     "options": [
-      "abholen",
-      "auch"
+      "auch",
+      "abholen"
     ]
   },
   {
@@ -1328,43 +1328,43 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"es\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"es\" oder \"analog\"? A:",
     "output": "analog",
     "options": [
-      "analog",
-      "es"
+      "es",
+      "analog"
     ]
   },
   {
-    "input": "Von den Woertern \"versucht\" und \"wurde\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"wurde\" und \"versucht\", welches hat mehr Buchstaben? ",
     "output": "versucht",
     "options": [
-      "versucht",
-      "wurde"
+      "wurde",
+      "versucht"
     ]
   },
   {
-    "input": "Von den Woertern \"sind\" und \"gespuert\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"gespuert\" und \"sind\", welches hat mehr Buchstaben? ",
     "output": "gespuert",
     "options": [
-      "sind",
-      "gespuert"
+      "gespuert",
+      "sind"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"der\" oder \"mulmig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"mulmig\" oder \"der\"? A:",
     "output": "mulmig",
     "options": [
-      "der",
-      "mulmig"
+      "mulmig",
+      "der"
     ]
   },
   {
-    "input": "Von den Woertern \"daher\" und \"jobcenter\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"jobcenter\" und \"daher\", welches hat mehr Buchstaben? ",
     "output": "jobcenter",
     "options": [
-      "daher",
-      "jobcenter"
+      "jobcenter",
+      "daher"
     ]
   },
   {
@@ -1376,19 +1376,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"tuefteln\" oder \"man\"? A:",
+    "input": "F: Welches Wort ist laenger, \"man\" oder \"tuefteln\"? A:",
     "output": "tuefteln",
     "options": [
-      "tuefteln",
-      "man"
+      "man",
+      "tuefteln"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"sollen\" oder \"aus\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"aus\" oder \"sollen\"? A:",
     "output": "sollen",
     "options": [
-      "sollen",
-      "aus"
+      "aus",
+      "sollen"
     ]
   },
   {
@@ -1408,35 +1408,35 @@
     ]
   },
   {
-    "input": "Von den Woertern \"erzaehlt\" und \"will\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"will\" und \"erzaehlt\", welches hat mehr Buchstaben? ",
     "output": "erzaehlt",
     "options": [
-      "erzaehlt",
-      "will"
+      "will",
+      "erzaehlt"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"nach\" oder \"beweise\"? A:",
+    "input": "F: Welches Wort ist laenger, \"beweise\" oder \"nach\"? A:",
     "output": "beweise",
     "options": [
-      "nach",
-      "beweise"
+      "beweise",
+      "nach"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"der\" oder \"anteil\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"anteil\" oder \"der\"? A:",
     "output": "anteil",
     "options": [
-      "der",
-      "anteil"
+      "anteil",
+      "der"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"neu\" oder \"versucht\"? A:",
+    "input": "F: Welches Wort ist laenger, \"versucht\" oder \"neu\"? A:",
     "output": "versucht",
     "options": [
-      "neu",
-      "versucht"
+      "versucht",
+      "neu"
     ]
   },
   {
@@ -1456,27 +1456,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"gewinnt\" oder \"wenn\"? A:",
+    "input": "F: Welches Wort ist laenger, \"wenn\" oder \"gewinnt\"? A:",
     "output": "gewinnt",
     "options": [
-      "gewinnt",
-      "wenn"
+      "wenn",
+      "gewinnt"
     ]
   },
   {
-    "input": "Von den Woertern \"gemeinsam\" und \"wurde\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"wurde\" und \"gemeinsam\", welches hat mehr Buchstaben? ",
     "output": "gemeinsam",
     "options": [
-      "gemeinsam",
-      "wurde"
+      "wurde",
+      "gemeinsam"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"da\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"da\" oder \"denken\"? A:",
     "output": "denken",
     "options": [
-      "denken",
-      "da"
+      "da",
+      "denken"
     ]
   },
   {
@@ -1488,11 +1488,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"fragen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"fragen\" oder \"so\"? A:",
     "output": "fragen",
     "options": [
-      "so",
-      "fragen"
+      "fragen",
+      "so"
     ]
   },
   {
@@ -1544,27 +1544,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ob\" oder \"gedanke\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gedanke\" oder \"ob\"? A:",
     "output": "gedanke",
     "options": [
-      "ob",
-      "gedanke"
+      "gedanke",
+      "ob"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"das\" oder \"gewinnt\"? A:",
+    "input": "F: Welches Wort ist laenger, \"gewinnt\" oder \"das\"? A:",
     "output": "gewinnt",
     "options": [
-      "das",
-      "gewinnt"
+      "gewinnt",
+      "das"
     ]
   },
   {
-    "input": "Von den Woertern \"ehrenlos\" und \"wurde\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"wurde\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "ehrenlos",
-      "wurde"
+      "wurde",
+      "ehrenlos"
     ]
   },
   {
@@ -1576,27 +1576,27 @@
     ]
   },
   {
-    "input": "Von den Woertern \"lang\" und \"zwischen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"zwischen\" und \"lang\", welches hat mehr Buchstaben? ",
     "output": "zwischen",
     "options": [
-      "lang",
-      "zwischen"
+      "zwischen",
+      "lang"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"bagger\" oder \"nun\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"nun\" oder \"bagger\"? A:",
     "output": "bagger",
     "options": [
-      "bagger",
-      "nun"
+      "nun",
+      "bagger"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"denken\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"in\"? A:",
     "output": "denken",
     "options": [
-      "in",
-      "denken"
+      "denken",
+      "in"
     ]
   },
   {
@@ -1608,19 +1608,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"heut\" oder \"abholen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"heut\"? A:",
     "output": "abholen",
     "options": [
-      "heut",
-      "abholen"
+      "abholen",
+      "heut"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ab\" oder \"einmal\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"einmal\" oder \"ab\"? A:",
     "output": "einmal",
     "options": [
-      "ab",
-      "einmal"
+      "einmal",
+      "ab"
     ]
   },
   {
@@ -1632,35 +1632,35 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bald\" oder \"anderen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"anderen\" oder \"bald\"? A:",
     "output": "anderen",
     "options": [
-      "bald",
-      "anderen"
+      "anderen",
+      "bald"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"das\" oder \"darueber\"? A:",
+    "input": "F: Welches Wort ist laenger, \"darueber\" oder \"das\"? A:",
     "output": "darueber",
     "options": [
-      "das",
-      "darueber"
+      "darueber",
+      "das"
     ]
   },
   {
-    "input": "Von den Woertern \"mehr\" und \"erzaehlt\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"erzaehlt\" und \"mehr\", welches hat mehr Buchstaben? ",
     "output": "erzaehlt",
     "options": [
-      "mehr",
-      "erzaehlt"
+      "erzaehlt",
+      "mehr"
     ]
   },
   {
-    "input": "Von den Woertern \"tadellos\" und \"mehr\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"mehr\" und \"tadellos\", welches hat mehr Buchstaben? ",
     "output": "tadellos",
     "options": [
-      "tadellos",
-      "mehr"
+      "mehr",
+      "tadellos"
     ]
   },
   {
@@ -1688,11 +1688,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"rot\" oder \"namenlos\"? A:",
+    "input": "F: Welches Wort ist laenger, \"namenlos\" oder \"rot\"? A:",
     "output": "namenlos",
     "options": [
-      "rot",
-      "namenlos"
+      "namenlos",
+      "rot"
     ]
   },
   {
@@ -1704,11 +1704,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"gespuert\" und \"nach\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"nach\" und \"gespuert\", welches hat mehr Buchstaben? ",
     "output": "gespuert",
     "options": [
-      "gespuert",
-      "nach"
+      "nach",
+      "gespuert"
     ]
   },
   {
@@ -1736,11 +1736,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"er\" oder \"gedanke\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gedanke\" oder \"er\"? A:",
     "output": "gedanke",
     "options": [
-      "er",
-      "gedanke"
+      "gedanke",
+      "er"
     ]
   },
   {
@@ -1752,11 +1752,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"tuefteln\" und \"kann\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"kann\" und \"tuefteln\", welches hat mehr Buchstaben? ",
     "output": "tuefteln",
     "options": [
-      "tuefteln",
-      "kann"
+      "kann",
+      "tuefteln"
     ]
   },
   {
@@ -1768,19 +1768,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"abschied\"? A:",
+    "input": "F: Welches Wort ist laenger, \"abschied\" oder \"all\"? A:",
     "output": "abschied",
     "options": [
-      "all",
-      "abschied"
+      "abschied",
+      "all"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"sollen\" oder \"all\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"all\" oder \"sollen\"? A:",
     "output": "sollen",
     "options": [
-      "sollen",
-      "all"
+      "all",
+      "sollen"
     ]
   },
   {
@@ -1824,51 +1824,51 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"anderen\" oder \"das\"? A:",
+    "input": "F: Welches Wort ist laenger, \"das\" oder \"anderen\"? A:",
     "output": "anderen",
     "options": [
-      "anderen",
-      "das"
+      "das",
+      "anderen"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"zu\" oder \"mulmig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"mulmig\" oder \"zu\"? A:",
     "output": "mulmig",
     "options": [
-      "zu",
-      "mulmig"
+      "mulmig",
+      "zu"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"tadellos\" oder \"ist\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ist\" oder \"tadellos\"? A:",
     "output": "tadellos",
     "options": [
-      "tadellos",
-      "ist"
+      "ist",
+      "tadellos"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"lebende\" oder \"dann\"? A:",
+    "input": "F: Welches Wort ist laenger, \"dann\" oder \"lebende\"? A:",
     "output": "lebende",
     "options": [
-      "lebende",
-      "dann"
+      "dann",
+      "lebende"
     ]
   },
   {
-    "input": "Von den Woertern \"bekannte\" und \"haben\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"haben\" und \"bekannte\", welches hat mehr Buchstaben? ",
     "output": "bekannte",
     "options": [
-      "bekannte",
-      "haben"
+      "haben",
+      "bekannte"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"jemand\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"in\"? A:",
     "output": "jemand",
     "options": [
-      "in",
-      "jemand"
+      "jemand",
+      "in"
     ]
   },
   {
@@ -1880,11 +1880,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bestens\" oder \"ein\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ein\" oder \"bestens\"? A:",
     "output": "bestens",
     "options": [
-      "bestens",
-      "ein"
+      "ein",
+      "bestens"
     ]
   },
   {
@@ -1896,11 +1896,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"neu\" oder \"tuefteln\"? A:",
+    "input": "F: Welches Wort ist laenger, \"tuefteln\" oder \"neu\"? A:",
     "output": "tuefteln",
     "options": [
-      "neu",
-      "tuefteln"
+      "tuefteln",
+      "neu"
     ]
   },
   {
@@ -1928,19 +1928,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"weg\" oder \"graben\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"graben\" oder \"weg\"? A:",
     "output": "graben",
     "options": [
-      "weg",
-      "graben"
+      "graben",
+      "weg"
     ]
   },
   {
-    "input": "Von den Woertern \"wertlos\" und \"viel\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"viel\" und \"wertlos\", welches hat mehr Buchstaben? ",
     "output": "wertlos",
     "options": [
-      "wertlos",
-      "viel"
+      "viel",
+      "wertlos"
     ]
   },
   {
@@ -1960,11 +1960,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"gewinnt\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gewinnt\" oder \"so\"? A:",
     "output": "gewinnt",
     "options": [
-      "so",
-      "gewinnt"
+      "gewinnt",
+      "so"
     ]
   },
   {
@@ -1992,11 +1992,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"haben\" und \"irgendwo\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"irgendwo\" und \"haben\", welches hat mehr Buchstaben? ",
     "output": "irgendwo",
     "options": [
-      "haben",
-      "irgendwo"
+      "irgendwo",
+      "haben"
     ]
   },
   {
@@ -2016,27 +2016,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"graben\" oder \"du\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"du\" oder \"graben\"? A:",
     "output": "graben",
     "options": [
-      "graben",
-      "du"
+      "du",
+      "graben"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ich\" oder \"gedanke\"? A:",
+    "input": "F: Welches Wort ist laenger, \"gedanke\" oder \"ich\"? A:",
     "output": "gedanke",
     "options": [
-      "ich",
-      "gedanke"
+      "gedanke",
+      "ich"
     ]
   },
   {
-    "input": "Von den Woertern \"variabel\" und \"nicht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"nicht\" und \"variabel\", welches hat mehr Buchstaben? ",
     "output": "variabel",
     "options": [
-      "variabel",
-      "nicht"
+      "nicht",
+      "variabel"
     ]
   },
   {
@@ -2048,11 +2048,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"solches\" oder \"ganz\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ganz\" oder \"solches\"? A:",
     "output": "solches",
     "options": [
-      "solches",
-      "ganz"
+      "ganz",
+      "solches"
     ]
   },
   {
@@ -2088,51 +2088,51 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"erzaehlt\" oder \"nie\"? A:",
+    "input": "F: Welches Wort ist laenger, \"nie\" oder \"erzaehlt\"? A:",
     "output": "erzaehlt",
     "options": [
-      "erzaehlt",
-      "nie"
+      "nie",
+      "erzaehlt"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"analog\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"so\"? A:",
     "output": "analog",
     "options": [
-      "so",
-      "analog"
+      "analog",
+      "so"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ist\" oder \"gedanke\"? A:",
+    "input": "F: Welches Wort ist laenger, \"gedanke\" oder \"ist\"? A:",
     "output": "gedanke",
     "options": [
-      "ist",
-      "gedanke"
+      "gedanke",
+      "ist"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"das\" oder \"mulmig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"mulmig\" oder \"das\"? A:",
     "output": "mulmig",
     "options": [
-      "das",
-      "mulmig"
+      "mulmig",
+      "das"
     ]
   },
   {
-    "input": "Von den Woertern \"tuefteln\" und \"wenn\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"wenn\" und \"tuefteln\", welches hat mehr Buchstaben? ",
     "output": "tuefteln",
     "options": [
-      "tuefteln",
-      "wenn"
+      "wenn",
+      "tuefteln"
     ]
   },
   {
-    "input": "Von den Woertern \"lang\" und \"abschied\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"abschied\" und \"lang\", welches hat mehr Buchstaben? ",
     "output": "abschied",
     "options": [
-      "lang",
-      "abschied"
+      "abschied",
+      "lang"
     ]
   },
   {
@@ -2144,51 +2144,51 @@
     ]
   },
   {
-    "input": "Von den Woertern \"darueber\" und \"reden\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"reden\" und \"darueber\", welches hat mehr Buchstaben? ",
     "output": "darueber",
     "options": [
-      "darueber",
-      "reden"
+      "reden",
+      "darueber"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ob\" oder \"gezeigt\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gezeigt\" oder \"ob\"? A:",
     "output": "gezeigt",
     "options": [
-      "ob",
-      "gezeigt"
+      "gezeigt",
+      "ob"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"gewinnt\" oder \"ganz\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ganz\" oder \"gewinnt\"? A:",
     "output": "gewinnt",
     "options": [
-      "gewinnt",
-      "ganz"
+      "ganz",
+      "gewinnt"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"anderen\" oder \"sie\"? A:",
+    "input": "F: Welches Wort ist laenger, \"sie\" oder \"anderen\"? A:",
     "output": "anderen",
     "options": [
-      "anderen",
-      "sie"
+      "sie",
+      "anderen"
     ]
   },
   {
-    "input": "Von den Woertern \"muss\" und \"tadellos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"tadellos\" und \"muss\", welches hat mehr Buchstaben? ",
     "output": "tadellos",
     "options": [
-      "muss",
-      "tadellos"
+      "tadellos",
+      "muss"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"der\" oder \"analog\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"der\"? A:",
     "output": "analog",
     "options": [
-      "der",
-      "analog"
+      "analog",
+      "der"
     ]
   },
   {
@@ -2224,11 +2224,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"rot\" oder \"denken\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"rot\"? A:",
     "output": "denken",
     "options": [
-      "rot",
-      "denken"
+      "denken",
+      "rot"
     ]
   },
   {
@@ -2256,19 +2256,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"solches\" oder \"ob\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"ob\" oder \"solches\"? A:",
     "output": "solches",
     "options": [
-      "solches",
-      "ob"
+      "ob",
+      "solches"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"nun\" oder \"wuerde\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"wuerde\" oder \"nun\"? A:",
     "output": "wuerde",
     "options": [
-      "nun",
-      "wuerde"
+      "wuerde",
+      "nun"
     ]
   },
   {
@@ -2296,11 +2296,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"effizient\" und \"unter\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"unter\" und \"effizient\", welches hat mehr Buchstaben? ",
     "output": "effizient",
     "options": [
-      "effizient",
-      "unter"
+      "unter",
+      "effizient"
     ]
   },
   {
@@ -2312,35 +2312,35 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"gezeigt\" oder \"um\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"um\" oder \"gezeigt\"? A:",
     "output": "gezeigt",
     "options": [
-      "gezeigt",
-      "um"
+      "um",
+      "gezeigt"
     ]
   },
   {
-    "input": "Von den Woertern \"waren\" und \"geborene\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"geborene\" und \"waren\", welches hat mehr Buchstaben? ",
     "output": "geborene",
     "options": [
-      "waren",
-      "geborene"
+      "geborene",
+      "waren"
     ]
   },
   {
-    "input": "Von den Woertern \"bekannte\" und \"allen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"allen\" und \"bekannte\", welches hat mehr Buchstaben? ",
     "output": "bekannte",
     "options": [
-      "bekannte",
-      "allen"
+      "allen",
+      "bekannte"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ein\" oder \"irgendwo\"? A:",
+    "input": "F: Welches Wort ist laenger, \"irgendwo\" oder \"ein\"? A:",
     "output": "irgendwo",
     "options": [
-      "ein",
-      "irgendwo"
+      "irgendwo",
+      "ein"
     ]
   },
   {
@@ -2376,43 +2376,43 @@
     ]
   },
   {
-    "input": "Von den Woertern \"daher\" und \"tadellos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"tadellos\" und \"daher\", welches hat mehr Buchstaben? ",
     "output": "tadellos",
     "options": [
-      "daher",
-      "tadellos"
+      "tadellos",
+      "daher"
     ]
   },
   {
-    "input": "Von den Woertern \"diese\" und \"bedeutet\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"bedeutet\" und \"diese\", welches hat mehr Buchstaben? ",
     "output": "bedeutet",
     "options": [
-      "diese",
-      "bedeutet"
+      "bedeutet",
+      "diese"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"da\" oder \"pulvrig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"pulvrig\" oder \"da\"? A:",
     "output": "pulvrig",
     "options": [
-      "da",
-      "pulvrig"
+      "pulvrig",
+      "da"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"du\" oder \"mehrere\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"mehrere\" oder \"du\"? A:",
     "output": "mehrere",
     "options": [
-      "du",
-      "mehrere"
+      "mehrere",
+      "du"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"solches\"? A:",
+    "input": "F: Welches Wort ist laenger, \"solches\" oder \"all\"? A:",
     "output": "solches",
     "options": [
-      "all",
-      "solches"
+      "solches",
+      "all"
     ]
   },
   {
@@ -2424,19 +2424,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"zwischen\" oder \"aus\"? A:",
+    "input": "F: Welches Wort ist laenger, \"aus\" oder \"zwischen\"? A:",
     "output": "zwischen",
     "options": [
-      "zwischen",
-      "aus"
+      "aus",
+      "zwischen"
     ]
   },
   {
-    "input": "Von den Woertern \"offensiv\" und \"nicht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"nicht\" und \"offensiv\", welches hat mehr Buchstaben? ",
     "output": "offensiv",
     "options": [
-      "offensiv",
-      "nicht"
+      "nicht",
+      "offensiv"
     ]
   },
   {
@@ -2448,27 +2448,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"variabel\" oder \"ist\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ist\" oder \"variabel\"? A:",
     "output": "variabel",
     "options": [
-      "variabel",
-      "ist"
+      "ist",
+      "variabel"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"zwischen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"zwischen\" oder \"all\"? A:",
     "output": "zwischen",
     "options": [
-      "all",
-      "zwischen"
+      "zwischen",
+      "all"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bekannte\" oder \"all\"? A:",
+    "input": "F: Welches Wort ist laenger, \"all\" oder \"bekannte\"? A:",
     "output": "bekannte",
     "options": [
-      "bekannte",
-      "all"
+      "all",
+      "bekannte"
     ]
   },
   {
@@ -2488,27 +2488,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"blamabel\" oder \"ein\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ein\" oder \"blamabel\"? A:",
     "output": "blamabel",
     "options": [
-      "blamabel",
-      "ein"
+      "ein",
+      "blamabel"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"sie\" oder \"nichts\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"nichts\" oder \"sie\"? A:",
     "output": "nichts",
     "options": [
-      "sie",
-      "nichts"
+      "nichts",
+      "sie"
     ]
   },
   {
-    "input": "Von den Woertern \"will\" und \"tuefteln\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"tuefteln\" und \"will\", welches hat mehr Buchstaben? ",
     "output": "tuefteln",
     "options": [
-      "will",
-      "tuefteln"
+      "tuefteln",
+      "will"
     ]
   },
   {
@@ -2584,11 +2584,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"viel\" und \"anderen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"anderen\" und \"viel\", welches hat mehr Buchstaben? ",
     "output": "anderen",
     "options": [
-      "viel",
-      "anderen"
+      "anderen",
+      "viel"
     ]
   },
   {
@@ -2608,19 +2608,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ob\" oder \"laufen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"laufen\" oder \"ob\"? A:",
     "output": "laufen",
     "options": [
-      "ob",
-      "laufen"
+      "laufen",
+      "ob"
     ]
   },
   {
-    "input": "Von den Woertern \"nach\" und \"bedeutet\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"bedeutet\" und \"nach\", welches hat mehr Buchstaben? ",
     "output": "bedeutet",
     "options": [
-      "nach",
-      "bedeutet"
+      "bedeutet",
+      "nach"
     ]
   },
   {
@@ -2640,19 +2640,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"aus\" oder \"jemand\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"aus\"? A:",
     "output": "jemand",
     "options": [
-      "aus",
-      "jemand"
+      "jemand",
+      "aus"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"man\" oder \"voellig\"? A:",
+    "input": "F: Welches Wort ist laenger, \"voellig\" oder \"man\"? A:",
     "output": "voellig",
     "options": [
-      "man",
-      "voellig"
+      "voellig",
+      "man"
     ]
   },
   {
@@ -2672,11 +2672,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"beenden\" oder \"mit\"? A:",
+    "input": "F: Welches Wort ist laenger, \"mit\" oder \"beenden\"? A:",
     "output": "beenden",
     "options": [
-      "beenden",
-      "mit"
+      "mit",
+      "beenden"
     ]
   },
   {
@@ -2696,11 +2696,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ehrenlos\" oder \"das\"? A:",
+    "input": "F: Welches Wort ist laenger, \"das\" oder \"ehrenlos\"? A:",
     "output": "ehrenlos",
     "options": [
-      "ehrenlos",
-      "das"
+      "das",
+      "ehrenlos"
     ]
   },
   {
@@ -2712,27 +2712,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ehrenlos\" oder \"sie\"? A:",
+    "input": "F: Welches Wort ist laenger, \"sie\" oder \"ehrenlos\"? A:",
     "output": "ehrenlos",
     "options": [
-      "ehrenlos",
-      "sie"
+      "sie",
+      "ehrenlos"
     ]
   },
   {
-    "input": "Von den Woertern \"lang\" und \"verloren\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"verloren\" und \"lang\", welches hat mehr Buchstaben? ",
     "output": "verloren",
     "options": [
-      "lang",
-      "verloren"
+      "verloren",
+      "lang"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"solches\" oder \"im\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"im\" oder \"solches\"? A:",
     "output": "solches",
     "options": [
-      "solches",
-      "im"
+      "im",
+      "solches"
     ]
   },
   {
@@ -2760,11 +2760,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"abschied\" oder \"ich\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ich\" oder \"abschied\"? A:",
     "output": "abschied",
     "options": [
-      "abschied",
-      "ich"
+      "ich",
+      "abschied"
     ]
   },
   {
@@ -2776,19 +2776,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"sehen \" oder \"und\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"und\" oder \"sehen \"? A:",
     "output": "sehen ",
     "options": [
-      "sehen ",
-      "und"
+      "und",
+      "sehen "
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"tadellos\"? A:",
+    "input": "F: Welches Wort ist laenger, \"tadellos\" oder \"all\"? A:",
     "output": "tadellos",
     "options": [
-      "all",
-      "tadellos"
+      "tadellos",
+      "all"
     ]
   },
   {
@@ -2800,11 +2800,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"solches\" oder \"sie\"? A:",
+    "input": "F: Welches Wort ist laenger, \"sie\" oder \"solches\"? A:",
     "output": "solches",
     "options": [
-      "solches",
-      "sie"
+      "sie",
+      "solches"
     ]
   },
   {
@@ -2816,19 +2816,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"zu\" oder \"tragen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"tragen\" oder \"zu\"? A:",
     "output": "tragen",
     "options": [
-      "zu",
-      "tragen"
+      "tragen",
+      "zu"
     ]
   },
   {
-    "input": "Von den Woertern \"viel\" und \"einfach\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"einfach\" und \"viel\", welches hat mehr Buchstaben? ",
     "output": "einfach",
     "options": [
-      "viel",
-      "einfach"
+      "einfach",
+      "viel"
     ]
   },
   {
@@ -2864,11 +2864,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"bedeutung\" und \"waren\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"waren\" und \"bedeutung\", welches hat mehr Buchstaben? ",
     "output": "bedeutung",
     "options": [
-      "bedeutung",
-      "waren"
+      "waren",
+      "bedeutung"
     ]
   },
   {
@@ -2904,11 +2904,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ist\" oder \"fragen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"fragen\" oder \"ist\"? A:",
     "output": "fragen",
     "options": [
-      "ist",
-      "fragen"
+      "fragen",
+      "ist"
     ]
   },
   {
@@ -2936,19 +2936,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"und\" oder \"variabel\"? A:",
+    "input": "F: Welches Wort ist laenger, \"variabel\" oder \"und\"? A:",
     "output": "variabel",
     "options": [
-      "und",
-      "variabel"
+      "variabel",
+      "und"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ungerne\" oder \"will\"? A:",
+    "input": "F: Welches Wort ist laenger, \"will\" oder \"ungerne\"? A:",
     "output": "ungerne",
     "options": [
-      "ungerne",
-      "will"
+      "will",
+      "ungerne"
     ]
   },
   {
@@ -2960,19 +2960,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"du\" oder \"voellig\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"voellig\" oder \"du\"? A:",
     "output": "voellig",
     "options": [
-      "du",
-      "voellig"
+      "voellig",
+      "du"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"weinen\" oder \"die\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"die\" oder \"weinen\"? A:",
     "output": "weinen",
     "options": [
-      "weinen",
-      "die"
+      "die",
+      "weinen"
     ]
   },
   {
@@ -3024,19 +3024,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"im\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"im\" oder \"jemand\"? A:",
     "output": "jemand",
     "options": [
-      "jemand",
-      "im"
+      "im",
+      "jemand"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"erzaehlt\" oder \"war\"? A:",
+    "input": "F: Welches Wort ist laenger, \"war\" oder \"erzaehlt\"? A:",
     "output": "erzaehlt",
     "options": [
-      "erzaehlt",
-      "war"
+      "war",
+      "erzaehlt"
     ]
   },
   {
@@ -3048,27 +3048,27 @@
     ]
   },
   {
-    "input": "Von den Woertern \"dann\" und \"tadellos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"tadellos\" und \"dann\", welches hat mehr Buchstaben? ",
     "output": "tadellos",
     "options": [
-      "dann",
-      "tadellos"
+      "tadellos",
+      "dann"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"nie\" oder \"einmal\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"einmal\" oder \"nie\"? A:",
     "output": "einmal",
     "options": [
-      "nie",
-      "einmal"
+      "einmal",
+      "nie"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"wissen\" oder \"all\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"all\" oder \"wissen\"? A:",
     "output": "wissen",
     "options": [
-      "wissen",
-      "all"
+      "all",
+      "wissen"
     ]
   },
   {
@@ -3104,27 +3104,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"das\" oder \"wuerde\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"wuerde\" oder \"das\"? A:",
     "output": "wuerde",
     "options": [
-      "das",
-      "wuerde"
+      "wuerde",
+      "das"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"weg\" oder \"pulvrig\"? A:",
+    "input": "F: Welches Wort ist laenger, \"pulvrig\" oder \"weg\"? A:",
     "output": "pulvrig",
     "options": [
-      "weg",
-      "pulvrig"
+      "pulvrig",
+      "weg"
     ]
   },
   {
-    "input": "Von den Woertern \"sind\" und \"entsteht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"entsteht\" und \"sind\", welches hat mehr Buchstaben? ",
     "output": "entsteht",
     "options": [
-      "sind",
-      "entsteht"
+      "entsteht",
+      "sind"
     ]
   },
   {
@@ -3136,27 +3136,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"mehrere\"? A:",
+    "input": "F: Welches Wort ist laenger, \"mehrere\" oder \"all\"? A:",
     "output": "mehrere",
     "options": [
-      "all",
-      "mehrere"
+      "mehrere",
+      "all"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"erzaehlt\" oder \"man\"? A:",
+    "input": "F: Welches Wort ist laenger, \"man\" oder \"erzaehlt\"? A:",
     "output": "erzaehlt",
     "options": [
-      "erzaehlt",
-      "man"
+      "man",
+      "erzaehlt"
     ]
   },
   {
-    "input": "Von den Woertern \"noch\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"ehrenlos\" und \"noch\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "noch",
-      "ehrenlos"
+      "ehrenlos",
+      "noch"
     ]
   },
   {
@@ -3192,35 +3192,35 @@
     ]
   },
   {
-    "input": "Von den Woertern \"reden\" und \"beweglich\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"beweglich\" und \"reden\", welches hat mehr Buchstaben? ",
     "output": "beweglich",
     "options": [
-      "reden",
-      "beweglich"
-    ]
-  },
-  {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ehe\" oder \"jemand\"? A:",
-    "output": "jemand",
-    "options": [
-      "ehe",
-      "jemand"
-    ]
-  },
-  {
-    "input": "Von den Woertern \"kreativen\" und \"reden\", welches hat mehr Buchstaben? ",
-    "output": "kreativen",
-    "options": [
-      "kreativen",
+      "beweglich",
       "reden"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"weg\" oder \"darueber\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"ehe\"? A:",
+    "output": "jemand",
+    "options": [
+      "jemand",
+      "ehe"
+    ]
+  },
+  {
+    "input": "Von den Woertern \"reden\" und \"kreativen\", welches hat mehr Buchstaben? ",
+    "output": "kreativen",
+    "options": [
+      "reden",
+      "kreativen"
+    ]
+  },
+  {
+    "input": "F: Welches Wort ist laenger, \"darueber\" oder \"weg\"? A:",
     "output": "darueber",
     "options": [
-      "weg",
-      "darueber"
+      "darueber",
+      "weg"
     ]
   },
   {
@@ -3240,19 +3240,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"blamabel\"? A:",
+    "input": "F: Welches Wort ist laenger, \"blamabel\" oder \"all\"? A:",
     "output": "blamabel",
     "options": [
-      "all",
-      "blamabel"
+      "blamabel",
+      "all"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"da\" oder \"weinen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"weinen\" oder \"da\"? A:",
     "output": "weinen",
     "options": [
-      "da",
-      "weinen"
+      "weinen",
+      "da"
     ]
   },
   {
@@ -3264,11 +3264,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"einmal\" oder \"weg\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"weg\" oder \"einmal\"? A:",
     "output": "einmal",
     "options": [
-      "einmal",
-      "weg"
+      "weg",
+      "einmal"
     ]
   },
   {
@@ -3288,19 +3288,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"am\" oder \"anderen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"anderen\" oder \"am\"? A:",
     "output": "anderen",
     "options": [
-      "am",
-      "anderen"
+      "anderen",
+      "am"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"all\" oder \"versucht\"? A:",
+    "input": "F: Welches Wort ist laenger, \"versucht\" oder \"all\"? A:",
     "output": "versucht",
     "options": [
-      "all",
-      "versucht"
+      "versucht",
+      "all"
     ]
   },
   {
@@ -3328,35 +3328,35 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"darueber\" oder \"ein\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ein\" oder \"darueber\"? A:",
     "output": "darueber",
     "options": [
-      "darueber",
-      "ein"
+      "ein",
+      "darueber"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"da\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"da\" oder \"analog\"? A:",
     "output": "analog",
     "options": [
-      "analog",
-      "da"
+      "da",
+      "analog"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"erzaehlt\" oder \"weg\"? A:",
+    "input": "F: Welches Wort ist laenger, \"weg\" oder \"erzaehlt\"? A:",
     "output": "erzaehlt",
     "options": [
-      "erzaehlt",
-      "weg"
+      "weg",
+      "erzaehlt"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"er\" oder \"wertlos\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"wertlos\" oder \"er\"? A:",
     "output": "wertlos",
     "options": [
-      "er",
-      "wertlos"
+      "wertlos",
+      "er"
     ]
   },
   {
@@ -3384,11 +3384,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"voellig\" oder \"ist\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ist\" oder \"voellig\"? A:",
     "output": "voellig",
     "options": [
-      "voellig",
-      "ist"
+      "ist",
+      "voellig"
     ]
   },
   {
@@ -3400,27 +3400,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"bagger\" oder \"los\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"los\" oder \"bagger\"? A:",
     "output": "bagger",
     "options": [
-      "bagger",
-      "los"
+      "los",
+      "bagger"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"wissen\" oder \"weg\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"weg\" oder \"wissen\"? A:",
     "output": "wissen",
     "options": [
-      "wissen",
-      "weg"
+      "weg",
+      "wissen"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"solches\" oder \"so\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"solches\"? A:",
     "output": "solches",
     "options": [
-      "solches",
-      "so"
+      "so",
+      "solches"
     ]
   },
   {
@@ -3432,11 +3432,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"einfach\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"einfach\" oder \"in\"? A:",
     "output": "einfach",
     "options": [
-      "in",
-      "einfach"
+      "einfach",
+      "in"
     ]
   },
   {
@@ -3456,11 +3456,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"beweglich\" und \"dabei\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"dabei\" und \"beweglich\", welches hat mehr Buchstaben? ",
     "output": "beweglich",
     "options": [
-      "beweglich",
-      "dabei"
+      "dabei",
+      "beweglich"
     ]
   },
   {
@@ -3480,11 +3480,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"nun\" oder \"pulvrig\"? A:",
+    "input": "F: Welches Wort ist laenger, \"pulvrig\" oder \"nun\"? A:",
     "output": "pulvrig",
     "options": [
-      "nun",
-      "pulvrig"
+      "pulvrig",
+      "nun"
     ]
   },
   {
@@ -3496,11 +3496,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"gezeigt\" oder \"zeit\"? A:",
+    "input": "F: Welches Wort ist laenger, \"zeit\" oder \"gezeigt\"? A:",
     "output": "gezeigt",
     "options": [
-      "gezeigt",
-      "zeit"
+      "zeit",
+      "gezeigt"
     ]
   },
   {
@@ -3512,11 +3512,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"koennt\" oder \"rot\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"rot\" oder \"koennt\"? A:",
     "output": "koennt",
     "options": [
-      "koennt",
-      "rot"
+      "rot",
+      "koennt"
     ]
   },
   {
@@ -3528,11 +3528,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"voellig\" oder \"noch\"? A:",
+    "input": "F: Welches Wort ist laenger, \"noch\" oder \"voellig\"? A:",
     "output": "voellig",
     "options": [
-      "voellig",
-      "noch"
+      "noch",
+      "voellig"
     ]
   },
   {
@@ -3552,11 +3552,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"ehrenlos\" und \"muss\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"muss\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "ehrenlos",
-      "muss"
+      "muss",
+      "ehrenlos"
     ]
   },
   {
@@ -3568,11 +3568,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"viel\" und \"abholen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"abholen\" und \"viel\", welches hat mehr Buchstaben? ",
     "output": "abholen",
     "options": [
-      "viel",
-      "abholen"
+      "abholen",
+      "viel"
     ]
   },
   {
@@ -3584,19 +3584,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"an\" oder \"gebiss\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gebiss\" oder \"an\"? A:",
     "output": "gebiss",
     "options": [
-      "an",
-      "gebiss"
+      "gebiss",
+      "an"
     ]
   },
   {
-    "input": "Von den Woertern \"bedrohen\" und \"sich\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"sich\" und \"bedrohen\", welches hat mehr Buchstaben? ",
     "output": "bedrohen",
     "options": [
-      "bedrohen",
-      "sich"
+      "sich",
+      "bedrohen"
     ]
   },
   {
@@ -3616,11 +3616,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"iteration\" und \"daher\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"daher\" und \"iteration\", welches hat mehr Buchstaben? ",
     "output": "iteration",
     "options": [
-      "iteration",
-      "daher"
+      "daher",
+      "iteration"
     ]
   },
   {
@@ -3632,11 +3632,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"tadellos\" oder \"mit\"? A:",
+    "input": "F: Welches Wort ist laenger, \"mit\" oder \"tadellos\"? A:",
     "output": "tadellos",
     "options": [
-      "tadellos",
-      "mit"
+      "mit",
+      "tadellos"
     ]
   },
   {
@@ -3648,19 +3648,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"beenden\" oder \"aus\"? A:",
+    "input": "F: Welches Wort ist laenger, \"aus\" oder \"beenden\"? A:",
     "output": "beenden",
     "options": [
-      "beenden",
-      "aus"
+      "aus",
+      "beenden"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"so\" oder \"jemand\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"so\"? A:",
     "output": "jemand",
     "options": [
-      "so",
-      "jemand"
+      "jemand",
+      "so"
     ]
   },
   {
@@ -3672,11 +3672,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"du\" oder \"fragen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"fragen\" oder \"du\"? A:",
     "output": "fragen",
     "options": [
-      "du",
-      "fragen"
+      "fragen",
+      "du"
     ]
   },
   {
@@ -3688,11 +3688,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"bestens\" oder \"ab\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"ab\" oder \"bestens\"? A:",
     "output": "bestens",
     "options": [
-      "bestens",
-      "ab"
+      "ab",
+      "bestens"
     ]
   },
   {
@@ -3712,11 +3712,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"variabel\" oder \"die\"? A:",
+    "input": "F: Welches Wort ist laenger, \"die\" oder \"variabel\"? A:",
     "output": "variabel",
     "options": [
-      "variabel",
-      "die"
+      "die",
+      "variabel"
     ]
   },
   {
@@ -3736,27 +3736,27 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"nie\" oder \"laufen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"laufen\" oder \"nie\"? A:",
     "output": "laufen",
     "options": [
-      "nie",
-      "laufen"
+      "laufen",
+      "nie"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"um\" oder \"sehen \"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"sehen \" oder \"um\"? A:",
     "output": "sehen ",
     "options": [
-      "um",
-      "sehen "
+      "sehen ",
+      "um"
     ]
   },
   {
-    "input": "Von den Woertern \"sehr\" und \"entsteht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"entsteht\" und \"sehr\", welches hat mehr Buchstaben? ",
     "output": "entsteht",
     "options": [
-      "sehr",
-      "entsteht"
+      "entsteht",
+      "sehr"
     ]
   },
   {
@@ -3768,11 +3768,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"auch\" und \"versucht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"versucht\" und \"auch\", welches hat mehr Buchstaben? ",
     "output": "versucht",
     "options": [
-      "auch",
-      "versucht"
+      "versucht",
+      "auch"
     ]
   },
   {
@@ -3784,19 +3784,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"folgen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"folgen\" oder \"in\"? A:",
     "output": "folgen",
     "options": [
-      "in",
-      "folgen"
+      "folgen",
+      "in"
     ]
   },
   {
-    "input": "Von den Woertern \"daher\" und \"verloren\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"verloren\" und \"daher\", welches hat mehr Buchstaben? ",
     "output": "verloren",
     "options": [
-      "daher",
-      "verloren"
+      "verloren",
+      "daher"
     ]
   },
   {
@@ -3824,11 +3824,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"ungerne\" oder \"ehe\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ehe\" oder \"ungerne\"? A:",
     "output": "ungerne",
     "options": [
-      "ungerne",
-      "ehe"
+      "ehe",
+      "ungerne"
     ]
   },
   {
@@ -3840,35 +3840,35 @@
     ]
   },
   {
-    "input": "Von den Woertern \"wirklich\" und \"sehr\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"sehr\" und \"wirklich\", welches hat mehr Buchstaben? ",
     "output": "wirklich",
     "options": [
-      "wirklich",
-      "sehr"
+      "sehr",
+      "wirklich"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"meinen\" oder \"er\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"er\" oder \"meinen\"? A:",
     "output": "meinen",
     "options": [
-      "meinen",
-      "er"
+      "er",
+      "meinen"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"neu\" oder \"variabel\"? A:",
+    "input": "F: Welches Wort ist laenger, \"variabel\" oder \"neu\"? A:",
     "output": "variabel",
     "options": [
-      "neu",
-      "variabel"
+      "variabel",
+      "neu"
     ]
   },
   {
-    "input": "Von den Woertern \"bald\" und \"erzaehlt\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"erzaehlt\" und \"bald\", welches hat mehr Buchstaben? ",
     "output": "erzaehlt",
     "options": [
-      "bald",
-      "erzaehlt"
+      "erzaehlt",
+      "bald"
     ]
   },
   {
@@ -3880,19 +3880,19 @@
     ]
   },
   {
-    "input": "Von den Woertern \"darueber\" und \"sehr\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"sehr\" und \"darueber\", welches hat mehr Buchstaben? ",
     "output": "darueber",
     "options": [
-      "darueber",
-      "sehr"
+      "sehr",
+      "darueber"
     ]
   },
   {
-    "input": "Von den Woertern \"versucht\" und \"noch\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"noch\" und \"versucht\", welches hat mehr Buchstaben? ",
     "output": "versucht",
     "options": [
-      "versucht",
-      "noch"
+      "noch",
+      "versucht"
     ]
   },
   {
@@ -3912,11 +3912,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"kreativen\" und \"nicht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"nicht\" und \"kreativen\", welches hat mehr Buchstaben? ",
     "output": "kreativen",
     "options": [
-      "kreativen",
-      "nicht"
+      "nicht",
+      "kreativen"
     ]
   },
   {
@@ -3936,51 +3936,51 @@
     ]
   },
   {
-    "input": "Von den Woertern \"nicht\" und \"verlieren\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"verlieren\" und \"nicht\", welches hat mehr Buchstaben? ",
     "output": "verlieren",
     "options": [
-      "nicht",
-      "verlieren"
+      "verlieren",
+      "nicht"
     ]
   },
   {
-    "input": "Von den Woertern \"verstehen\" und \"reden\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"reden\" und \"verstehen\", welches hat mehr Buchstaben? ",
     "output": "verstehen",
     "options": [
-      "verstehen",
-      "reden"
+      "reden",
+      "verstehen"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"sind\" oder \"beenden\"? A:",
+    "input": "F: Welches Wort ist laenger, \"beenden\" oder \"sind\"? A:",
     "output": "beenden",
     "options": [
-      "sind",
-      "beenden"
+      "beenden",
+      "sind"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ehe\" oder \"koennt\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"koennt\" oder \"ehe\"? A:",
     "output": "koennt",
     "options": [
-      "ehe",
-      "koennt"
+      "koennt",
+      "ehe"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"voellig\" oder \"ja\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"ja\" oder \"voellig\"? A:",
     "output": "voellig",
     "options": [
-      "voellig",
-      "ja"
+      "ja",
+      "voellig"
     ]
   },
   {
-    "input": "Von den Woertern \"kann\" und \"irgendwo\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"irgendwo\" und \"kann\", welches hat mehr Buchstaben? ",
     "output": "irgendwo",
     "options": [
-      "kann",
-      "irgendwo"
+      "irgendwo",
+      "kann"
     ]
   },
   {
@@ -4016,19 +4016,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"rot\" oder \"graben\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"graben\" oder \"rot\"? A:",
     "output": "graben",
     "options": [
-      "rot",
-      "graben"
+      "graben",
+      "rot"
     ]
   },
   {
-    "input": "Von den Woertern \"machtwort\" und \"diese\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"diese\" und \"machtwort\", welches hat mehr Buchstaben? ",
     "output": "machtwort",
     "options": [
-      "machtwort",
-      "diese"
+      "diese",
+      "machtwort"
     ]
   },
   {
@@ -4040,11 +4040,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"solches\" oder \"hier\"? A:",
+    "input": "F: Welches Wort ist laenger, \"hier\" oder \"solches\"? A:",
     "output": "solches",
     "options": [
-      "solches",
-      "hier"
+      "hier",
+      "solches"
     ]
   },
   {
@@ -4056,19 +4056,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"ein\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ein\" oder \"abholen\"? A:",
     "output": "abholen",
     "options": [
-      "abholen",
-      "ein"
+      "ein",
+      "abholen"
     ]
   },
   {
-    "input": "Von den Woertern \"bekannte\" und \"daher\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"daher\" und \"bekannte\", welches hat mehr Buchstaben? ",
     "output": "bekannte",
     "options": [
-      "bekannte",
-      "daher"
+      "daher",
+      "bekannte"
     ]
   },
   {
@@ -4080,11 +4080,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"haben\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"ehrenlos\" und \"haben\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "haben",
-      "ehrenlos"
+      "ehrenlos",
+      "haben"
     ]
   },
   {
@@ -4104,11 +4104,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"ganz\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ganz\" oder \"abholen\"? A:",
     "output": "abholen",
     "options": [
-      "abholen",
-      "ganz"
+      "ganz",
+      "abholen"
     ]
   },
   {
@@ -4136,19 +4136,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ja\" oder \"gezeigt\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gezeigt\" oder \"ja\"? A:",
     "output": "gezeigt",
     "options": [
-      "ja",
-      "gezeigt"
+      "gezeigt",
+      "ja"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bedeutet\" oder \"sie\"? A:",
+    "input": "F: Welches Wort ist laenger, \"sie\" oder \"bedeutet\"? A:",
     "output": "bedeutet",
     "options": [
-      "bedeutet",
-      "sie"
+      "sie",
+      "bedeutet"
     ]
   },
   {
@@ -4160,43 +4160,43 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"nichts\" oder \"um\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"um\" oder \"nichts\"? A:",
     "output": "nichts",
     "options": [
-      "nichts",
-      "um"
+      "um",
+      "nichts"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"los\" oder \"tragen\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"tragen\" oder \"los\"? A:",
     "output": "tragen",
     "options": [
-      "los",
-      "tragen"
+      "tragen",
+      "los"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"neu\" oder \"erzaehlt\"? A:",
+    "input": "F: Welches Wort ist laenger, \"erzaehlt\" oder \"neu\"? A:",
     "output": "erzaehlt",
     "options": [
-      "neu",
-      "erzaehlt"
+      "erzaehlt",
+      "neu"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"nun\" oder \"gebiss\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gebiss\" oder \"nun\"? A:",
     "output": "gebiss",
     "options": [
-      "nun",
-      "gebiss"
+      "gebiss",
+      "nun"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"koennt\" oder \"neu\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"neu\" oder \"koennt\"? A:",
     "output": "koennt",
     "options": [
-      "koennt",
-      "neu"
+      "neu",
+      "koennt"
     ]
   },
   {
@@ -4224,19 +4224,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"hier\" oder \"abholen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"hier\"? A:",
     "output": "abholen",
     "options": [
-      "hier",
-      "abholen"
+      "abholen",
+      "hier"
     ]
   },
   {
-    "input": "Von den Woertern \"bedrohen\" und \"sowie\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"sowie\" und \"bedrohen\", welches hat mehr Buchstaben? ",
     "output": "bedrohen",
     "options": [
-      "bedrohen",
-      "sowie"
+      "sowie",
+      "bedrohen"
     ]
   },
   {
@@ -4248,11 +4248,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"mit\"? A:",
+    "input": "F: Welches Wort ist laenger, \"mit\" oder \"abholen\"? A:",
     "output": "abholen",
     "options": [
-      "abholen",
-      "mit"
+      "mit",
+      "abholen"
     ]
   },
   {
@@ -4264,67 +4264,67 @@
     ]
   },
   {
-    "input": "Von den Woertern \"machtwort\" und \"daher\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"daher\" und \"machtwort\", welches hat mehr Buchstaben? ",
     "output": "machtwort",
     "options": [
-      "machtwort",
-      "daher"
+      "daher",
+      "machtwort"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"du\" oder \"denken\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"du\"? A:",
     "output": "denken",
     "options": [
-      "du",
-      "denken"
+      "denken",
+      "du"
     ]
   },
   {
-    "input": "Von den Woertern \"gespuert\" und \"ganz\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"ganz\" und \"gespuert\", welches hat mehr Buchstaben? ",
     "output": "gespuert",
     "options": [
-      "gespuert",
-      "ganz"
+      "ganz",
+      "gespuert"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"zwischen\" oder \"ich\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ich\" oder \"zwischen\"? A:",
     "output": "zwischen",
     "options": [
-      "zwischen",
-      "ich"
+      "ich",
+      "zwischen"
     ]
   },
   {
-    "input": "Von den Woertern \"namenlos\" und \"daran\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"daran\" und \"namenlos\", welches hat mehr Buchstaben? ",
     "output": "namenlos",
     "options": [
-      "namenlos",
-      "daran"
+      "daran",
+      "namenlos"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"zwischen\" oder \"ein\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ein\" oder \"zwischen\"? A:",
     "output": "zwischen",
     "options": [
-      "zwischen",
-      "ein"
+      "ein",
+      "zwischen"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"nie\" oder \"abholen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"abholen\" oder \"nie\"? A:",
     "output": "abholen",
     "options": [
-      "nie",
-      "abholen"
+      "abholen",
+      "nie"
     ]
   },
   {
-    "input": "Von den Woertern \"darueber\" und \"will\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"will\" und \"darueber\", welches hat mehr Buchstaben? ",
     "output": "darueber",
     "options": [
-      "darueber",
-      "will"
+      "will",
+      "darueber"
     ]
   },
   {
@@ -4344,27 +4344,27 @@
     ]
   },
   {
-    "input": "Von den Woertern \"geborene\" und \"muss\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"muss\" und \"geborene\", welches hat mehr Buchstaben? ",
     "output": "geborene",
     "options": [
-      "geborene",
-      "muss"
+      "muss",
+      "geborene"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ehe\" oder \"bagger\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"bagger\" oder \"ehe\"? A:",
     "output": "bagger",
     "options": [
-      "ehe",
-      "bagger"
+      "bagger",
+      "ehe"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"der\" oder \"erzaehlt\"? A:",
+    "input": "F: Welches Wort ist laenger, \"erzaehlt\" oder \"der\"? A:",
     "output": "erzaehlt",
     "options": [
-      "der",
-      "erzaehlt"
+      "erzaehlt",
+      "der"
     ]
   },
   {
@@ -4376,19 +4376,19 @@
     ]
   },
   {
-    "input": "Von den Woertern \"erst\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"ehrenlos\" und \"erst\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "erst",
-      "ehrenlos"
+      "ehrenlos",
+      "erst"
     ]
   },
   {
-    "input": "Von den Woertern \"sich\" und \"versucht\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"versucht\" und \"sich\", welches hat mehr Buchstaben? ",
     "output": "versucht",
     "options": [
-      "sich",
-      "versucht"
+      "versucht",
+      "sich"
     ]
   },
   {
@@ -4400,43 +4400,43 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"lebende\" oder \"wenn\"? A:",
+    "input": "F: Welches Wort ist laenger, \"wenn\" oder \"lebende\"? A:",
     "output": "lebende",
     "options": [
-      "lebende",
-      "wenn"
+      "wenn",
+      "lebende"
     ]
   },
   {
-    "input": "Von den Woertern \"bald\" und \"abschied\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"abschied\" und \"bald\", welches hat mehr Buchstaben? ",
     "output": "abschied",
     "options": [
-      "bald",
-      "abschied"
+      "abschied",
+      "bald"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"pulvrig\" oder \"in\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"in\" oder \"pulvrig\"? A:",
     "output": "pulvrig",
     "options": [
-      "pulvrig",
-      "in"
+      "in",
+      "pulvrig"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"nun\" oder \"zwischen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"zwischen\" oder \"nun\"? A:",
     "output": "zwischen",
     "options": [
-      "nun",
-      "zwischen"
+      "zwischen",
+      "nun"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ab\" oder \"jemand\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"jemand\" oder \"ab\"? A:",
     "output": "jemand",
     "options": [
-      "ab",
-      "jemand"
+      "jemand",
+      "ab"
     ]
   },
   {
@@ -4464,11 +4464,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"es\" oder \"beweise\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"beweise\" oder \"es\"? A:",
     "output": "beweise",
     "options": [
-      "es",
-      "beweise"
+      "beweise",
+      "es"
     ]
   },
   {
@@ -4488,19 +4488,19 @@
     ]
   },
   {
-    "input": "Von den Woertern \"dann\" und \"zwischen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"zwischen\" und \"dann\", welches hat mehr Buchstaben? ",
     "output": "zwischen",
     "options": [
-      "dann",
-      "zwischen"
+      "zwischen",
+      "dann"
     ]
   },
   {
-    "input": "Von den Woertern \"sehr\" und \"gedanke\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"gedanke\" und \"sehr\", welches hat mehr Buchstaben? ",
     "output": "gedanke",
     "options": [
-      "sehr",
-      "gedanke"
+      "gedanke",
+      "sehr"
     ]
   },
   {
@@ -4520,11 +4520,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"bestens\" oder \"hier\"? A:",
+    "input": "F: Welches Wort ist laenger, \"hier\" oder \"bestens\"? A:",
     "output": "bestens",
     "options": [
-      "bestens",
-      "hier"
+      "hier",
+      "bestens"
     ]
   },
   {
@@ -4544,19 +4544,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"rot\" oder \"ungerne\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ungerne\" oder \"rot\"? A:",
     "output": "ungerne",
     "options": [
-      "rot",
-      "ungerne"
+      "ungerne",
+      "rot"
     ]
   },
   {
-    "input": "Von den Woertern \"erst\" und \"wirklich\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"wirklich\" und \"erst\", welches hat mehr Buchstaben? ",
     "output": "wirklich",
     "options": [
-      "erst",
-      "wirklich"
+      "wirklich",
+      "erst"
     ]
   },
   {
@@ -4568,19 +4568,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"am\" oder \"gebiss\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"gebiss\" oder \"am\"? A:",
     "output": "gebiss",
     "options": [
-      "am",
-      "gebiss"
+      "gebiss",
+      "am"
     ]
   },
   {
-    "input": "Von den Woertern \"verlusten\" und \"wurde\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"wurde\" und \"verlusten\", welches hat mehr Buchstaben? ",
     "output": "verlusten",
     "options": [
-      "verlusten",
-      "wurde"
+      "wurde",
+      "verlusten"
     ]
   },
   {
@@ -4592,35 +4592,35 @@
     ]
   },
   {
-    "input": "Von den Woertern \"will\" und \"ehrenlos\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"ehrenlos\" und \"will\", welches hat mehr Buchstaben? ",
     "output": "ehrenlos",
     "options": [
-      "will",
-      "ehrenlos"
+      "ehrenlos",
+      "will"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"gezeigt\" oder \"er\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"er\" oder \"gezeigt\"? A:",
     "output": "gezeigt",
     "options": [
-      "gezeigt",
-      "er"
+      "er",
+      "gezeigt"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"ist\" oder \"besser\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"besser\" oder \"ist\"? A:",
     "output": "besser",
     "options": [
-      "ist",
-      "besser"
+      "besser",
+      "ist"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"weg\" oder \"denken\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"denken\" oder \"weg\"? A:",
     "output": "denken",
     "options": [
-      "weg",
-      "denken"
+      "denken",
+      "weg"
     ]
   },
   {
@@ -4632,35 +4632,35 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"ab\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"ab\" oder \"analog\"? A:",
     "output": "analog",
     "options": [
-      "analog",
-      "ab"
+      "ab",
+      "analog"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"laufen\" oder \"um\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"um\" oder \"laufen\"? A:",
     "output": "laufen",
     "options": [
-      "laufen",
-      "um"
+      "um",
+      "laufen"
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"wissen\" oder \"ob\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"ob\" oder \"wissen\"? A:",
     "output": "wissen",
     "options": [
-      "wissen",
-      "ob"
+      "ob",
+      "wissen"
     ]
   },
   {
-    "input": "Von den Woertern \"allen\" und \"zwischen\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"zwischen\" und \"allen\", welches hat mehr Buchstaben? ",
     "output": "zwischen",
     "options": [
-      "allen",
-      "zwischen"
+      "zwischen",
+      "allen"
     ]
   },
   {
@@ -4672,11 +4672,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"zu\" oder \"nichts\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"nichts\" oder \"zu\"? A:",
     "output": "nichts",
     "options": [
-      "zu",
-      "nichts"
+      "nichts",
+      "zu"
     ]
   },
   {
@@ -4688,19 +4688,19 @@
     ]
   },
   {
-    "input": "Von den Woertern \"zwischen\" und \"haben\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"haben\" und \"zwischen\", welches hat mehr Buchstaben? ",
     "output": "zwischen",
     "options": [
-      "zwischen",
-      "haben"
+      "haben",
+      "zwischen"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"war\" oder \"bedrohen\"? A:",
+    "input": "F: Welches Wort ist laenger, \"bedrohen\" oder \"war\"? A:",
     "output": "bedrohen",
     "options": [
-      "war",
-      "bedrohen"
+      "bedrohen",
+      "war"
     ]
   },
   {
@@ -4736,11 +4736,11 @@
     ]
   },
   {
-    "input": "Von den Woertern \"irgendwo\" und \"sowie\", welches hat mehr Buchstaben? ",
+    "input": "Von den Woertern \"sowie\" und \"irgendwo\", welches hat mehr Buchstaben? ",
     "output": "irgendwo",
     "options": [
-      "irgendwo",
-      "sowie"
+      "sowie",
+      "irgendwo"
     ]
   },
   {
@@ -4752,11 +4752,11 @@
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"das\" oder \"irgendwo\"? A:",
+    "input": "F: Welches Wort ist laenger, \"irgendwo\" oder \"das\"? A:",
     "output": "irgendwo",
     "options": [
-      "das",
-      "irgendwo"
+      "irgendwo",
+      "das"
     ]
   },
   {
@@ -4776,19 +4776,19 @@
     ]
   },
   {
-    "input": "F: Welches Wort hat mehr Buchstaben, \"das\" oder \"analog\"? A:",
+    "input": "F: Welches Wort hat mehr Buchstaben, \"analog\" oder \"das\"? A:",
     "output": "analog",
     "options": [
-      "das",
-      "analog"
+      "analog",
+      "das"
     ]
   },
   {
-    "input": "F: Welches Wort ist laenger, \"auch\" oder \"ungerne\"? A:",
+    "input": "F: Welches Wort ist laenger, \"ungerne\" oder \"auch\"? A:",
     "output": "ungerne",
     "options": [
-      "auch",
-      "ungerne"
+      "ungerne",
+      "auch"
     ]
   },
   {
