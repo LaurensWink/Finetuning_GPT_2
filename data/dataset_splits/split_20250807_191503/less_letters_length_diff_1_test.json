@@ -1,0 +1,4802 @@
+[
+  {
+    "input": "Q: Which word is shorter, \"daily\" or \"use\"? A:",
+    "output": "use",
+    "options": [
+      "daily",
+      "use"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"chemistry\" or \"drawing\"? A:",
+    "output": "drawing",
+    "options": [
+      "chemistry",
+      "drawing"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"drawing\" or \"neighbor\"? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"half\" or \"age\"? A:",
+    "output": "age",
+    "options": [
+      "half",
+      "age"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"out\" and \"paint\" which one has fewer letters? A:",
+    "output": "out",
+    "options": [
+      "out",
+      "paint"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"customer\" or \"problem\"? A:",
+    "output": "problem",
+    "options": [
+      "customer",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"daughter\" or \"exactly\"? A:",
+    "output": "exactly",
+    "options": [
+      "daughter",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"form\" and \"us\" which one has fewer letters? A:",
+    "output": "us",
+    "options": [
+      "form",
+      "us"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"me\" or \"soft\"? A:",
+    "output": "me",
+    "options": [
+      "me",
+      "soft"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"behind\" and \"last\" which one has fewer letters? A:",
+    "output": "last",
+    "options": [
+      "behind",
+      "last"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"below\" and \"die\" which one has fewer letters? A:",
+    "output": "die",
+    "options": [
+      "below",
+      "die"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"about\" or \"aunt\"? A:",
+    "output": "aunt",
+    "options": [
+      "about",
+      "aunt"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"of\" or \"aunt\"? A:",
+    "output": "of",
+    "options": [
+      "of",
+      "aunt"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"outside\" or \"might\"? A:",
+    "output": "might",
+    "options": [
+      "outside",
+      "might"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"factory\" and \"theirs\" which one has fewer letters? A:",
+    "output": "theirs",
+    "options": [
+      "factory",
+      "theirs"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"word\" or \"jam\"? A:",
+    "output": "jam",
+    "options": [
+      "word",
+      "jam"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"boyfriend\" or \"himself\"? A:",
+    "output": "himself",
+    "options": [
+      "boyfriend",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"makeup\" or \"uncle\"? A:",
+    "output": "uncle",
+    "options": [
+      "makeup",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"so\" and \"box\" which one has fewer letters? A:",
+    "output": "so",
+    "options": [
+      "so",
+      "box"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"blanket\" and \"neighbor\" which one has fewer letters? A:",
+    "output": "blanket",
+    "options": [
+      "blanket",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"normal\" or \"musical\"? A:",
+    "output": "normal",
+    "options": [
+      "normal",
+      "musical"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"bear\" or \"by\"? A:",
+    "output": "by",
+    "options": [
+      "bear",
+      "by"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"rice\" or \"oh\"? A:",
+    "output": "oh",
+    "options": [
+      "rice",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"dangerous\" and \"drawing\" which one has fewer letters? A:",
+    "output": "drawing",
+    "options": [
+      "dangerous",
+      "drawing"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"dinosaur\" or \"anymore\"? A:",
+    "output": "anymore",
+    "options": [
+      "dinosaur",
+      "anymore"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"my\" and \"aunt\" which one has fewer letters? A:",
+    "output": "my",
+    "options": [
+      "my",
+      "aunt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lunch\" and \"castle\" which one has fewer letters? A:",
+    "output": "lunch",
+    "options": [
+      "lunch",
+      "castle"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"history\" or \"neighbor\"? A:",
+    "output": "history",
+    "options": [
+      "history",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"windy\" or \"bye\"? A:",
+    "output": "bye",
+    "options": [
+      "windy",
+      "bye"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"stomach\" or \"travel\"? A:",
+    "output": "travel",
+    "options": [
+      "stomach",
+      "travel"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"yourself\" or \"instead\"? A:",
+    "output": "instead",
+    "options": [
+      "yourself",
+      "instead"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"details\" or \"advice\"? A:",
+    "output": "advice",
+    "options": [
+      "details",
+      "advice"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"set\" or \"move\"? A:",
+    "output": "set",
+    "options": [
+      "set",
+      "move"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"twice\" and \"cat\" which one has fewer letters? A:",
+    "output": "cat",
+    "options": [
+      "twice",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"holiday\" or \"spring\"? A:",
+    "output": "spring",
+    "options": [
+      "holiday",
+      "spring"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"listen\" or \"sandwich\"? A:",
+    "output": "listen",
+    "options": [
+      "listen",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"me\" and \"win\" which one has fewer letters? A:",
+    "output": "me",
+    "options": [
+      "me",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"kilogram\" or \"project\"? A:",
+    "output": "project",
+    "options": [
+      "kilogram",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"slow\" or \"by\"? A:",
+    "output": "by",
+    "options": [
+      "slow",
+      "by"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"slow\" or \"by\"? A:",
+    "output": "by",
+    "options": [
+      "slow",
+      "by"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"case\" or \"plane\"? A:",
+    "output": "case",
+    "options": [
+      "case",
+      "plane"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"police\" or \"anymore\"? A:",
+    "output": "police",
+    "options": [
+      "police",
+      "anymore"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"itself\" or \"movie\"? A:",
+    "output": "movie",
+    "options": [
+      "itself",
+      "movie"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"change\" or \"steak\"? A:",
+    "output": "steak",
+    "options": [
+      "change",
+      "steak"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"bake\" or \"cheap\"? A:",
+    "output": "bake",
+    "options": [
+      "bake",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"buy\" or \"radio\"? A:",
+    "output": "buy",
+    "options": [
+      "buy",
+      "radio"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"keyboard\" and \"stadium\" which one has fewer letters? A:",
+    "output": "stadium",
+    "options": [
+      "keyboard",
+      "stadium"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"quickly\" or \"keyboard\"? A:",
+    "output": "quickly",
+    "options": [
+      "quickly",
+      "keyboard"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cup\" and \"delay\" which one has fewer letters? A:",
+    "output": "cup",
+    "options": [
+      "cup",
+      "delay"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"sign\" or \"store\"? A:",
+    "output": "sign",
+    "options": [
+      "sign",
+      "store"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"advice\" or \"yourself\"? A:",
+    "output": "advice",
+    "options": [
+      "advice",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cash\" and \"cut\" which one has fewer letters? A:",
+    "output": "cut",
+    "options": [
+      "cash",
+      "cut"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"so\" or \"toy\"? A:",
+    "output": "so",
+    "options": [
+      "so",
+      "toy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"an\" and \"year\" which one has fewer letters? A:",
+    "output": "an",
+    "options": [
+      "an",
+      "year"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"birth\" or \"ride\"? A:",
+    "output": "ride",
+    "options": [
+      "birth",
+      "ride"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"nurse\" and \"come\" which one has fewer letters? A:",
+    "output": "come",
+    "options": [
+      "nurse",
+      "come"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"gate\" or \"forget\"? A:",
+    "output": "gate",
+    "options": [
+      "gate",
+      "forget"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"juice\" or \"fine\"? A:",
+    "output": "fine",
+    "options": [
+      "juice",
+      "fine"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"no\" and \"soul\" which one has fewer letters? A:",
+    "output": "no",
+    "options": [
+      "no",
+      "soul"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"family\" or \"white\"? A:",
+    "output": "white",
+    "options": [
+      "family",
+      "white"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"rest\" or \"closed\"? A:",
+    "output": "rest",
+    "options": [
+      "rest",
+      "closed"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"close\" or \"golf\"? A:",
+    "output": "golf",
+    "options": [
+      "close",
+      "golf"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"skating\" or \"family\"? A:",
+    "output": "family",
+    "options": [
+      "skating",
+      "family"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"lunchtime\" or \"problem\"? A:",
+    "output": "problem",
+    "options": [
+      "lunchtime",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"ad\" or \"soul\"? A:",
+    "output": "ad",
+    "options": [
+      "ad",
+      "soul"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"subway\" or \"sandwich\"? A:",
+    "output": "subway",
+    "options": [
+      "subway",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"race\" or \"heart\"? A:",
+    "output": "race",
+    "options": [
+      "race",
+      "heart"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"birthday\" or \"plastic\"? A:",
+    "output": "plastic",
+    "options": [
+      "birthday",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"steal\" or \"sing\"? A:",
+    "output": "sing",
+    "options": [
+      "steal",
+      "sing"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"give\" or \"thanks\"? A:",
+    "output": "give",
+    "options": [
+      "give",
+      "thanks"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"king\" or \"get\"? A:",
+    "output": "get",
+    "options": [
+      "king",
+      "get"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"improve\" and \"platform\" which one has fewer letters? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"strange\" and \"hospital\" which one has fewer letters? A:",
+    "output": "strange",
+    "options": [
+      "strange",
+      "hospital"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"point\" or \"box\"? A:",
+    "output": "box",
+    "options": [
+      "point",
+      "box"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"notes\" or \"save\"? A:",
+    "output": "save",
+    "options": [
+      "notes",
+      "save"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"box\" or \"right\"? A:",
+    "output": "box",
+    "options": [
+      "box",
+      "right"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"subject\" and \"folder\" which one has fewer letters? A:",
+    "output": "folder",
+    "options": [
+      "subject",
+      "folder"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"job\" and \"beard\" which one has fewer letters? A:",
+    "output": "job",
+    "options": [
+      "job",
+      "beard"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cry\" and \"ad\" which one has fewer letters? A:",
+    "output": "ad",
+    "options": [
+      "cry",
+      "ad"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"up\" and \"bird\" which one has fewer letters? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "bird"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"skating\" or \"family\"? A:",
+    "output": "family",
+    "options": [
+      "skating",
+      "family"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"notice\" or \"plastic\"? A:",
+    "output": "notice",
+    "options": [
+      "notice",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"put\" or \"ad\"? A:",
+    "output": "ad",
+    "options": [
+      "put",
+      "ad"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"stomach\" or \"golden\"? A:",
+    "output": "golden",
+    "options": [
+      "stomach",
+      "golden"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"family\" and \"white\" which one has fewer letters? A:",
+    "output": "white",
+    "options": [
+      "family",
+      "white"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"me\" or \"win\"? A:",
+    "output": "me",
+    "options": [
+      "me",
+      "win"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"safe\" and \"might\" which one has fewer letters? A:",
+    "output": "safe",
+    "options": [
+      "safe",
+      "might"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hotel\" or \"tire\"? A:",
+    "output": "tire",
+    "options": [
+      "hotel",
+      "tire"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"postcard\" and \"makeup\" which one has fewer letters? A:",
+    "output": "makeup",
+    "options": [
+      "postcard",
+      "makeup"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"minus\" and \"sun\" which one has fewer letters? A:",
+    "output": "sun",
+    "options": [
+      "minus",
+      "sun"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"fish\" or \"her\"? A:",
+    "output": "her",
+    "options": [
+      "fish",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"behind\" or \"join\"? A:",
+    "output": "join",
+    "options": [
+      "behind",
+      "join"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"do\" and \"city\" which one has fewer letters? A:",
+    "output": "do",
+    "options": [
+      "do",
+      "city"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"beard\" or \"old\"? A:",
+    "output": "old",
+    "options": [
+      "beard",
+      "old"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fork\" or \"things\"? A:",
+    "output": "fork",
+    "options": [
+      "fork",
+      "things"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"skating\" or \"place\"? A:",
+    "output": "place",
+    "options": [
+      "skating",
+      "place"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fit\" and \"maybe\" which one has fewer letters? A:",
+    "output": "fit",
+    "options": [
+      "fit",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"holiday\" and \"spring\" which one has fewer letters? A:",
+    "output": "spring",
+    "options": [
+      "holiday",
+      "spring"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"then\" or \"hi\"? A:",
+    "output": "hi",
+    "options": [
+      "then",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"computer\" or \"plastic\"? A:",
+    "output": "plastic",
+    "options": [
+      "computer",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tire\" and \"do\" which one has fewer letters? A:",
+    "output": "do",
+    "options": [
+      "tire",
+      "do"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"pocket\" or \"dinosaur\"? A:",
+    "output": "pocket",
+    "options": [
+      "pocket",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"careful\" or \"polite\"? A:",
+    "output": "polite",
+    "options": [
+      "careful",
+      "polite"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"idea\" or \"now\"? A:",
+    "output": "now",
+    "options": [
+      "idea",
+      "now"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"go\" or \"tea\"? A:",
+    "output": "go",
+    "options": [
+      "go",
+      "tea"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"reading\" or \"question\"? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"their\" or \"strong\"? A:",
+    "output": "their",
+    "options": [
+      "their",
+      "strong"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"sea\" or \"word\"? A:",
+    "output": "sea",
+    "options": [
+      "sea",
+      "word"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hat\" or \"face\"? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "face"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"buy\" or \"ocean\"? A:",
+    "output": "buy",
+    "options": [
+      "buy",
+      "ocean"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"do\" and \"desk\" which one has fewer letters? A:",
+    "output": "do",
+    "options": [
+      "do",
+      "desk"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"busy\" or \"way\"? A:",
+    "output": "way",
+    "options": [
+      "busy",
+      "way"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"birth\" and \"your\" which one has fewer letters? A:",
+    "output": "your",
+    "options": [
+      "birth",
+      "your"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pocket\" and \"dinosaur\" which one has fewer letters? A:",
+    "output": "pocket",
+    "options": [
+      "pocket",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"swim\" or \"party\"? A:",
+    "output": "swim",
+    "options": [
+      "swim",
+      "party"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bad\" and \"crowd\" which one has fewer letters? A:",
+    "output": "bad",
+    "options": [
+      "bad",
+      "crowd"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"to\" or \"her\"? A:",
+    "output": "to",
+    "options": [
+      "to",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"computer\" or \"quickly\"? A:",
+    "output": "quickly",
+    "options": [
+      "computer",
+      "quickly"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"cry\" or \"ad\"? A:",
+    "output": "ad",
+    "options": [
+      "cry",
+      "ad"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"pocket\" or \"under\"? A:",
+    "output": "under",
+    "options": [
+      "pocket",
+      "under"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wine\" and \"pencil\" which one has fewer letters? A:",
+    "output": "wine",
+    "options": [
+      "wine",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"first\" or \"life\"? A:",
+    "output": "life",
+    "options": [
+      "first",
+      "life"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"town\" or \"old\"? A:",
+    "output": "old",
+    "options": [
+      "town",
+      "old"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hat\" or \"bean\"? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "bean"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"be\" or \"lost\"? A:",
+    "output": "be",
+    "options": [
+      "be",
+      "lost"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"then\" and \"hi\" which one has fewer letters? A:",
+    "output": "hi",
+    "options": [
+      "then",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"enjoy\" or \"snow\"? A:",
+    "output": "snow",
+    "options": [
+      "enjoy",
+      "snow"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"up\" or \"yeah\"? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "yeah"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"neighbor\" or \"holiday\"? A:",
+    "output": "holiday",
+    "options": [
+      "neighbor",
+      "holiday"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"kind\" or \"of\"? A:",
+    "output": "of",
+    "options": [
+      "kind",
+      "of"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hospital\" and \"foreign\" which one has fewer letters? A:",
+    "output": "foreign",
+    "options": [
+      "hospital",
+      "foreign"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"curtain\" or \"daughter\"? A:",
+    "output": "curtain",
+    "options": [
+      "curtain",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"sandwich\" or \"outside\"? A:",
+    "output": "outside",
+    "options": [
+      "sandwich",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"an\" or \"aged\"? A:",
+    "output": "an",
+    "options": [
+      "an",
+      "aged"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"oh\" or \"drum\"? A:",
+    "output": "oh",
+    "options": [
+      "oh",
+      "drum"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"house\" or \"bear\"? A:",
+    "output": "bear",
+    "options": [
+      "house",
+      "bear"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"cat\" or \"part\"? A:",
+    "output": "cat",
+    "options": [
+      "cat",
+      "part"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"closed\" or \"stage\"? A:",
+    "output": "stage",
+    "options": [
+      "closed",
+      "stage"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"pet\" or \"golf\"? A:",
+    "output": "pet",
+    "options": [
+      "pet",
+      "golf"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"their\" and \"this\" which one has fewer letters? A:",
+    "output": "this",
+    "options": [
+      "their",
+      "this"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"broken\" and \"boat\" which one has fewer letters? A:",
+    "output": "boat",
+    "options": [
+      "broken",
+      "boat"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"we\" or \"kind\"? A:",
+    "output": "we",
+    "options": [
+      "we",
+      "kind"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"store\" and \"mistake\" which one has fewer letters? A:",
+    "output": "store",
+    "options": [
+      "store",
+      "mistake"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lemon\" and \"you\" which one has fewer letters? A:",
+    "output": "you",
+    "options": [
+      "lemon",
+      "you"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"drawing\" and \"adverb\" which one has fewer letters? A:",
+    "output": "adverb",
+    "options": [
+      "drawing",
+      "adverb"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"head\" or \"oh\"? A:",
+    "output": "oh",
+    "options": [
+      "head",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"brain\" and \"family\" which one has fewer letters? A:",
+    "output": "brain",
+    "options": [
+      "brain",
+      "family"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"rich\" and \"be\" which one has fewer letters? A:",
+    "output": "be",
+    "options": [
+      "rich",
+      "be"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"adult\" and \"use\" which one has fewer letters? A:",
+    "output": "use",
+    "options": [
+      "adult",
+      "use"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"race\" or \"heart\"? A:",
+    "output": "race",
+    "options": [
+      "race",
+      "heart"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"factory\" or \"forget\"? A:",
+    "output": "forget",
+    "options": [
+      "factory",
+      "forget"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"list\" and \"blond\" which one has fewer letters? A:",
+    "output": "list",
+    "options": [
+      "list",
+      "blond"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"empty\" or \"when\"? A:",
+    "output": "when",
+    "options": [
+      "empty",
+      "when"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"instead\" and \"favorite\" which one has fewer letters? A:",
+    "output": "instead",
+    "options": [
+      "instead",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"factory\" or \"wonderful\"? A:",
+    "output": "factory",
+    "options": [
+      "factory",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"grape\" or \"form\"? A:",
+    "output": "form",
+    "options": [
+      "grape",
+      "form"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"careful\" or \"single\"? A:",
+    "output": "single",
+    "options": [
+      "careful",
+      "single"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"another\" which one has fewer letters? A:",
+    "output": "another",
+    "options": [
+      "chemistry",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"curtain\" or \"chemistry\"? A:",
+    "output": "curtain",
+    "options": [
+      "curtain",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"badly\" and \"normal\" which one has fewer letters? A:",
+    "output": "badly",
+    "options": [
+      "badly",
+      "normal"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"surfing\" or \"document\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "document"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"sandwich\" or \"stomach\"? A:",
+    "output": "stomach",
+    "options": [
+      "sandwich",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"boat\" or \"north\"? A:",
+    "output": "boat",
+    "options": [
+      "boat",
+      "north"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"piano\" or \"soft\"? A:",
+    "output": "soft",
+    "options": [
+      "piano",
+      "soft"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"plastic\" or \"pencil\"? A:",
+    "output": "pencil",
+    "options": [
+      "plastic",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"today\" or \"pack\"? A:",
+    "output": "pack",
+    "options": [
+      "today",
+      "pack"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"close\" or \"adverb\"? A:",
+    "output": "close",
+    "options": [
+      "close",
+      "adverb"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"friendly\" and \"reading\" which one has fewer letters? A:",
+    "output": "reading",
+    "options": [
+      "friendly",
+      "reading"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"board\" and \"silver\" which one has fewer letters? A:",
+    "output": "board",
+    "options": [
+      "board",
+      "silver"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"double\" or \"close\"? A:",
+    "output": "close",
+    "options": [
+      "double",
+      "close"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"learn\" and \"quickly\" which one has fewer letters? A:",
+    "output": "learn",
+    "options": [
+      "learn",
+      "quickly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sky\" and \"stand\" which one has fewer letters? A:",
+    "output": "sky",
+    "options": [
+      "sky",
+      "stand"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hat\" or \"hold\"? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "hold"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"windy\" or \"should\"? A:",
+    "output": "windy",
+    "options": [
+      "windy",
+      "should"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plastic\" and \"pencil\" which one has fewer letters? A:",
+    "output": "pencil",
+    "options": [
+      "plastic",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"size\" or \"drink\"? A:",
+    "output": "size",
+    "options": [
+      "size",
+      "drink"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fan\" and \"to\" which one has fewer letters? A:",
+    "output": "to",
+    "options": [
+      "fan",
+      "to"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"special\" or \"famous\"? A:",
+    "output": "famous",
+    "options": [
+      "special",
+      "famous"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"lunch\" or \"tram\"? A:",
+    "output": "tram",
+    "options": [
+      "lunch",
+      "tram"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"set\" or \"move\"? A:",
+    "output": "set",
+    "options": [
+      "set",
+      "move"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"steak\" or \"copy\"? A:",
+    "output": "copy",
+    "options": [
+      "steak",
+      "copy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"policeman\" and \"stomach\" which one has fewer letters? A:",
+    "output": "stomach",
+    "options": [
+      "policeman",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"keyboard\" or \"hungry\"? A:",
+    "output": "hungry",
+    "options": [
+      "keyboard",
+      "hungry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"reading\" and \"question\" which one has fewer letters? A:",
+    "output": "reading",
+    "options": [
+      "reading",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"certainly\" or \"project\"? A:",
+    "output": "project",
+    "options": [
+      "certainly",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"match\" or \"dancer\"? A:",
+    "output": "match",
+    "options": [
+      "match",
+      "dancer"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"question\" or \"smoking\"? A:",
+    "output": "smoking",
+    "options": [
+      "question",
+      "smoking"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"not\" and \"oh\" which one has fewer letters? A:",
+    "output": "oh",
+    "options": [
+      "not",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"then\" or \"on\"? A:",
+    "output": "on",
+    "options": [
+      "then",
+      "on"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"bank\" or \"album\"? A:",
+    "output": "bank",
+    "options": [
+      "bank",
+      "album"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"fan\" or \"exit\"? A:",
+    "output": "fan",
+    "options": [
+      "fan",
+      "exit"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"list\" or \"dog\"? A:",
+    "output": "dog",
+    "options": [
+      "list",
+      "dog"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"oh\" or \"fact\"? A:",
+    "output": "oh",
+    "options": [
+      "oh",
+      "fact"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"golden\" or \"kilogram\"? A:",
+    "output": "golden",
+    "options": [
+      "golden",
+      "kilogram"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"subject\" or \"computer\"? A:",
+    "output": "subject",
+    "options": [
+      "subject",
+      "computer"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"thing\" and \"pocket\" which one has fewer letters? A:",
+    "output": "thing",
+    "options": [
+      "thing",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"subject\" or \"uncle\"? A:",
+    "output": "uncle",
+    "options": [
+      "subject",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"per\" and \"an\" which one has fewer letters? A:",
+    "output": "an",
+    "options": [
+      "per",
+      "an"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"milk\" or \"hockey\"? A:",
+    "output": "milk",
+    "options": [
+      "milk",
+      "hockey"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"black\" or \"exactly\"? A:",
+    "output": "black",
+    "options": [
+      "black",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"rent\" or \"father\"? A:",
+    "output": "rent",
+    "options": [
+      "rent",
+      "father"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"myself\" or \"worst\"? A:",
+    "output": "worst",
+    "options": [
+      "myself",
+      "worst"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"size\" or \"drink\"? A:",
+    "output": "size",
+    "options": [
+      "size",
+      "drink"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"factory\" and \"danger\" which one has fewer letters? A:",
+    "output": "danger",
+    "options": [
+      "factory",
+      "danger"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"racket\" or \"yeah\"? A:",
+    "output": "yeah",
+    "options": [
+      "racket",
+      "yeah"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"ago\" or \"home\"? A:",
+    "output": "ago",
+    "options": [
+      "ago",
+      "home"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"any\" and \"wait\" which one has fewer letters? A:",
+    "output": "any",
+    "options": [
+      "any",
+      "wait"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daughter\" and \"danger\" which one has fewer letters? A:",
+    "output": "danger",
+    "options": [
+      "daughter",
+      "danger"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"cup\" or \"delay\"? A:",
+    "output": "cup",
+    "options": [
+      "cup",
+      "delay"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"out\" and \"so\" which one has fewer letters? A:",
+    "output": "so",
+    "options": [
+      "out",
+      "so"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hat\" and \"face\" which one has fewer letters? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "face"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"singular\" or \"history\"? A:",
+    "output": "history",
+    "options": [
+      "singular",
+      "history"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"person\" or \"thin\"? A:",
+    "output": "thin",
+    "options": [
+      "person",
+      "thin"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"work\" and \"mix\" which one has fewer letters? A:",
+    "output": "mix",
+    "options": [
+      "work",
+      "mix"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"an\" or \"aged\"? A:",
+    "output": "an",
+    "options": [
+      "an",
+      "aged"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hi\" or \"cold\"? A:",
+    "output": "hi",
+    "options": [
+      "hi",
+      "cold"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"reason\" or \"shoe\"? A:",
+    "output": "shoe",
+    "options": [
+      "reason",
+      "shoe"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"do\" or \"city\"? A:",
+    "output": "do",
+    "options": [
+      "do",
+      "city"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"yeah\" or \"yours\"? A:",
+    "output": "yeah",
+    "options": [
+      "yeah",
+      "yours"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"name\" and \"notice\" which one has fewer letters? A:",
+    "output": "name",
+    "options": [
+      "name",
+      "notice"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fish\" or \"her\"? A:",
+    "output": "her",
+    "options": [
+      "fish",
+      "her"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"cup\" or \"delay\"? A:",
+    "output": "cup",
+    "options": [
+      "cup",
+      "delay"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"skating\" or \"throw\"? A:",
+    "output": "throw",
+    "options": [
+      "skating",
+      "throw"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"enjoy\" and \"snow\" which one has fewer letters? A:",
+    "output": "snow",
+    "options": [
+      "enjoy",
+      "snow"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"discount\" or \"special\"? A:",
+    "output": "special",
+    "options": [
+      "discount",
+      "special"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"chef\" or \"no\"? A:",
+    "output": "no",
+    "options": [
+      "chef",
+      "no"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"by\" or \"hour\"? A:",
+    "output": "by",
+    "options": [
+      "by",
+      "hour"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hungry\" and \"fork\" which one has fewer letters? A:",
+    "output": "fork",
+    "options": [
+      "hungry",
+      "fork"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"problem\" or \"cousin\"? A:",
+    "output": "cousin",
+    "options": [
+      "problem",
+      "cousin"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"garden\" or \"company\"? A:",
+    "output": "garden",
+    "options": [
+      "garden",
+      "company"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"polite\" or \"teach\"? A:",
+    "output": "teach",
+    "options": [
+      "polite",
+      "teach"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"noise\" or \"notice\"? A:",
+    "output": "noise",
+    "options": [
+      "noise",
+      "notice"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fan\" and \"hi\" which one has fewer letters? A:",
+    "output": "hi",
+    "options": [
+      "fan",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"below\" or \"die\"? A:",
+    "output": "die",
+    "options": [
+      "below",
+      "die"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"details\" or \"castle\"? A:",
+    "output": "castle",
+    "options": [
+      "details",
+      "castle"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"normal\" or \"musical\"? A:",
+    "output": "normal",
+    "options": [
+      "normal",
+      "musical"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"dinosaur\" or \"details\"? A:",
+    "output": "details",
+    "options": [
+      "dinosaur",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"travel\" or \"holiday\"? A:",
+    "output": "travel",
+    "options": [
+      "travel",
+      "holiday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"open\" and \"guest\" which one has fewer letters? A:",
+    "output": "open",
+    "options": [
+      "open",
+      "guest"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"when\" or \"hit\"? A:",
+    "output": "hit",
+    "options": [
+      "when",
+      "hit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"makeup\" and \"uncle\" which one has fewer letters? A:",
+    "output": "uncle",
+    "options": [
+      "makeup",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"drawing\" or \"neighbor\"? A:",
+    "output": "drawing",
+    "options": [
+      "drawing",
+      "neighbor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"another\" and \"delay\" which one has fewer letters? A:",
+    "output": "delay",
+    "options": [
+      "another",
+      "delay"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"wild\" or \"run\"? A:",
+    "output": "run",
+    "options": [
+      "wild",
+      "run"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"square\" or \"help\"? A:",
+    "output": "help",
+    "options": [
+      "square",
+      "help"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"picture\" or \"notes\"? A:",
+    "output": "notes",
+    "options": [
+      "picture",
+      "notes"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"then\" or \"hi\"? A:",
+    "output": "hi",
+    "options": [
+      "then",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"parent\" or \"stadium\"? A:",
+    "output": "parent",
+    "options": [
+      "parent",
+      "stadium"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"minus\" or \"sun\"? A:",
+    "output": "sun",
+    "options": [
+      "minus",
+      "sun"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"waiter\" and \"cake\" which one has fewer letters? A:",
+    "output": "cake",
+    "options": [
+      "waiter",
+      "cake"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"exit\" or \"hi\"? A:",
+    "output": "hi",
+    "options": [
+      "exit",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"something\" or \"strange\"? A:",
+    "output": "strange",
+    "options": [
+      "something",
+      "strange"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"tire\" or \"do\"? A:",
+    "output": "do",
+    "options": [
+      "tire",
+      "do"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"stomach\" or \"market\"? A:",
+    "output": "market",
+    "options": [
+      "stomach",
+      "market"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"nature\" and \"uncle\" which one has fewer letters? A:",
+    "output": "uncle",
+    "options": [
+      "nature",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"history\" and \"daughter\" which one has fewer letters? A:",
+    "output": "history",
+    "options": [
+      "history",
+      "daughter"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"history\" or \"alone\"? A:",
+    "output": "alone",
+    "options": [
+      "history",
+      "alone"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"garden\" and \"smoking\" which one has fewer letters? A:",
+    "output": "garden",
+    "options": [
+      "garden",
+      "smoking"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"join\" and \"cheap\" which one has fewer letters? A:",
+    "output": "join",
+    "options": [
+      "join",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"speak\" and \"how\" which one has fewer letters? A:",
+    "output": "how",
+    "options": [
+      "speak",
+      "how"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"surfing\" or \"certainly\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "certainly"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"next\" or \"uncle\"? A:",
+    "output": "next",
+    "options": [
+      "next",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hockey\" or \"drive\"? A:",
+    "output": "drive",
+    "options": [
+      "hockey",
+      "drive"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"right\" or \"monkey\"? A:",
+    "output": "right",
+    "options": [
+      "right",
+      "monkey"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"long\" or \"job\"? A:",
+    "output": "job",
+    "options": [
+      "long",
+      "job"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chemistry\" and \"drawing\" which one has fewer letters? A:",
+    "output": "drawing",
+    "options": [
+      "chemistry",
+      "drawing"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"thin\" and \"fried\" which one has fewer letters? A:",
+    "output": "thin",
+    "options": [
+      "thin",
+      "fried"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fruit\" and \"walking\" which one has fewer letters? A:",
+    "output": "fruit",
+    "options": [
+      "fruit",
+      "walking"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"danger\" and \"project\" which one has fewer letters? A:",
+    "output": "danger",
+    "options": [
+      "danger",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hurt\" or \"match\"? A:",
+    "output": "hurt",
+    "options": [
+      "hurt",
+      "match"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"wine\" or \"pencil\"? A:",
+    "output": "wine",
+    "options": [
+      "wine",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"home\" or \"it\"? A:",
+    "output": "it",
+    "options": [
+      "home",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"we\" and \"kind\" which one has fewer letters? A:",
+    "output": "we",
+    "options": [
+      "we",
+      "kind"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"wet\" or \"by\"? A:",
+    "output": "by",
+    "options": [
+      "wet",
+      "by"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"modern\" or \"another\"? A:",
+    "output": "modern",
+    "options": [
+      "modern",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fit\" or \"diary\"? A:",
+    "output": "fit",
+    "options": [
+      "fit",
+      "diary"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"kind\" and \"of\" which one has fewer letters? A:",
+    "output": "of",
+    "options": [
+      "kind",
+      "of"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"work\" or \"mix\"? A:",
+    "output": "mix",
+    "options": [
+      "work",
+      "mix"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"build\" or \"news\"? A:",
+    "output": "news",
+    "options": [
+      "build",
+      "news"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"do\" or \"fine\"? A:",
+    "output": "do",
+    "options": [
+      "do",
+      "fine"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"stop\" or \"brain\"? A:",
+    "output": "stop",
+    "options": [
+      "stop",
+      "brain"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"their\" or \"strong\"? A:",
+    "output": "their",
+    "options": [
+      "their",
+      "strong"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"details\" or \"something\"? A:",
+    "output": "details",
+    "options": [
+      "details",
+      "something"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"skate\" or \"blue\"? A:",
+    "output": "blue",
+    "options": [
+      "skate",
+      "blue"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"right\" or \"husband\"? A:",
+    "output": "right",
+    "options": [
+      "right",
+      "husband"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"mistake\" or \"folder\"? A:",
+    "output": "folder",
+    "options": [
+      "mistake",
+      "folder"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"another\" or \"delay\"? A:",
+    "output": "delay",
+    "options": [
+      "another",
+      "delay"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daughter\" and \"plastic\" which one has fewer letters? A:",
+    "output": "plastic",
+    "options": [
+      "daughter",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"pray\" or \"garden\"? A:",
+    "output": "pray",
+    "options": [
+      "pray",
+      "garden"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"into\" or \"be\"? A:",
+    "output": "be",
+    "options": [
+      "into",
+      "be"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hit\" and \"no\" which one has fewer letters? A:",
+    "output": "no",
+    "options": [
+      "hit",
+      "no"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"point\" and \"try\" which one has fewer letters? A:",
+    "output": "try",
+    "options": [
+      "point",
+      "try"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"itself\" or \"movie\"? A:",
+    "output": "movie",
+    "options": [
+      "itself",
+      "movie"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"water\" or \"himself\"? A:",
+    "output": "water",
+    "options": [
+      "water",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"oh\" or \"drum\"? A:",
+    "output": "oh",
+    "options": [
+      "oh",
+      "drum"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"improve\" and \"sandwich\" which one has fewer letters? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"discount\" or \"include\"? A:",
+    "output": "include",
+    "options": [
+      "discount",
+      "include"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daughter\" and \"outside\" which one has fewer letters? A:",
+    "output": "outside",
+    "options": [
+      "daughter",
+      "outside"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"myself\" and \"plane\" which one has fewer letters? A:",
+    "output": "plane",
+    "options": [
+      "myself",
+      "plane"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"camping\" or \"friendly\"? A:",
+    "output": "camping",
+    "options": [
+      "camping",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"customer\" or \"careful\"? A:",
+    "output": "careful",
+    "options": [
+      "customer",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"any\" or \"wait\"? A:",
+    "output": "any",
+    "options": [
+      "any",
+      "wait"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"boyfriend\" or \"himself\"? A:",
+    "output": "himself",
+    "options": [
+      "boyfriend",
+      "himself"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"race\" or \"famous\"? A:",
+    "output": "race",
+    "options": [
+      "race",
+      "famous"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"no\" and \"boat\" which one has fewer letters? A:",
+    "output": "no",
+    "options": [
+      "no",
+      "boat"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"century\" or \"parent\"? A:",
+    "output": "parent",
+    "options": [
+      "century",
+      "parent"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"sick\" or \"cover\"? A:",
+    "output": "sick",
+    "options": [
+      "sick",
+      "cover"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"shirt\" or \"father\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "father"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"who\" or \"sock\"? A:",
+    "output": "who",
+    "options": [
+      "who",
+      "sock"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"movie\" or \"she\"? A:",
+    "output": "she",
+    "options": [
+      "movie",
+      "she"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"subject\" or \"folder\"? A:",
+    "output": "folder",
+    "options": [
+      "subject",
+      "folder"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"watch\" or \"fog\"? A:",
+    "output": "fog",
+    "options": [
+      "watch",
+      "fog"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"easily\" or \"melon\"? A:",
+    "output": "melon",
+    "options": [
+      "easily",
+      "melon"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"outside\" and \"world\" which one has fewer letters? A:",
+    "output": "world",
+    "options": [
+      "outside",
+      "world"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"wet\" or \"by\"? A:",
+    "output": "by",
+    "options": [
+      "wet",
+      "by"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"grade\" and \"rent\" which one has fewer letters? A:",
+    "output": "rent",
+    "options": [
+      "grade",
+      "rent"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"opera\" or \"curtain\"? A:",
+    "output": "opera",
+    "options": [
+      "opera",
+      "curtain"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lucky\" and \"uniform\" which one has fewer letters? A:",
+    "output": "lucky",
+    "options": [
+      "lucky",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fork\" or \"out\"? A:",
+    "output": "out",
+    "options": [
+      "fork",
+      "out"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"nurse\" or \"hat\"? A:",
+    "output": "hat",
+    "options": [
+      "nurse",
+      "hat"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hockey\" or \"drive\"? A:",
+    "output": "drive",
+    "options": [
+      "hockey",
+      "drive"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"now\" or \"pair\"? A:",
+    "output": "now",
+    "options": [
+      "now",
+      "pair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"soap\" and \"in\" which one has fewer letters? A:",
+    "output": "in",
+    "options": [
+      "soap",
+      "in"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"we\" and \"low\" which one has fewer letters? A:",
+    "output": "we",
+    "options": [
+      "we",
+      "low"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"grade\" or \"pencil\"? A:",
+    "output": "grade",
+    "options": [
+      "grade",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"city\" or \"we\"? A:",
+    "output": "we",
+    "options": [
+      "city",
+      "we"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"certainly\" or \"diploma\"? A:",
+    "output": "diploma",
+    "options": [
+      "certainly",
+      "diploma"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"certainly\" and \"project\" which one has fewer letters? A:",
+    "output": "project",
+    "options": [
+      "certainly",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"change\" and \"details\" which one has fewer letters? A:",
+    "output": "change",
+    "options": [
+      "change",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"not\" and \"worse\" which one has fewer letters? A:",
+    "output": "not",
+    "options": [
+      "not",
+      "worse"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"market\" or \"lose\"? A:",
+    "output": "lose",
+    "options": [
+      "market",
+      "lose"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"birth\" or \"any\"? A:",
+    "output": "any",
+    "options": [
+      "birth",
+      "any"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"singular\" or \"double\"? A:",
+    "output": "double",
+    "options": [
+      "singular",
+      "double"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"father\" or \"hurt\"? A:",
+    "output": "hurt",
+    "options": [
+      "father",
+      "hurt"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"notes\" or \"save\"? A:",
+    "output": "save",
+    "options": [
+      "notes",
+      "save"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"racket\" and \"fashion\" which one has fewer letters? A:",
+    "output": "racket",
+    "options": [
+      "racket",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hotel\" and \"tire\" which one has fewer letters? A:",
+    "output": "tire",
+    "options": [
+      "hotel",
+      "tire"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"cheap\" or \"home\"? A:",
+    "output": "home",
+    "options": [
+      "cheap",
+      "home"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"first\" and \"life\" which one has fewer letters? A:",
+    "output": "life",
+    "options": [
+      "first",
+      "life"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hi\" or \"belt\"? A:",
+    "output": "hi",
+    "options": [
+      "hi",
+      "belt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"run\" and \"into\" which one has fewer letters? A:",
+    "output": "run",
+    "options": [
+      "run",
+      "into"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hate\" or \"house\"? A:",
+    "output": "hate",
+    "options": [
+      "hate",
+      "house"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"famous\" or \"each\"? A:",
+    "output": "each",
+    "options": [
+      "famous",
+      "each"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"job\" and \"fair\" which one has fewer letters? A:",
+    "output": "job",
+    "options": [
+      "job",
+      "fair"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"skate\" or \"pen\"? A:",
+    "output": "pen",
+    "options": [
+      "skate",
+      "pen"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"diary\" or \"pink\"? A:",
+    "output": "pink",
+    "options": [
+      "diary",
+      "pink"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bowl\" and \"mother\" which one has fewer letters? A:",
+    "output": "bowl",
+    "options": [
+      "bowl",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"ride\" or \"of\"? A:",
+    "output": "of",
+    "options": [
+      "ride",
+      "of"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"skate\" or \"pen\"? A:",
+    "output": "pen",
+    "options": [
+      "skate",
+      "pen"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"daughter\" or \"exactly\"? A:",
+    "output": "exactly",
+    "options": [
+      "daughter",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"careful\" or \"favorite\"? A:",
+    "output": "careful",
+    "options": [
+      "careful",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"at\" and \"fit\" which one has fewer letters? A:",
+    "output": "at",
+    "options": [
+      "at",
+      "fit"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"singular\" or \"drawing\"? A:",
+    "output": "drawing",
+    "options": [
+      "singular",
+      "drawing"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"problem\" and \"cousin\" which one has fewer letters? A:",
+    "output": "cousin",
+    "options": [
+      "problem",
+      "cousin"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"surfing\" and \"document\" which one has fewer letters? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "document"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"forget\" or \"details\"? A:",
+    "output": "forget",
+    "options": [
+      "forget",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"rest\" and \"closed\" which one has fewer letters? A:",
+    "output": "rest",
+    "options": [
+      "rest",
+      "closed"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"factory\" or \"forget\"? A:",
+    "output": "forget",
+    "options": [
+      "factory",
+      "forget"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"golf\" and \"to\" which one has fewer letters? A:",
+    "output": "to",
+    "options": [
+      "golf",
+      "to"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"holiday\" or \"broken\"? A:",
+    "output": "broken",
+    "options": [
+      "holiday",
+      "broken"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daughter\" and \"broken\" which one has fewer letters? A:",
+    "output": "broken",
+    "options": [
+      "daughter",
+      "broken"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bother\" and \"friendly\" which one has fewer letters? A:",
+    "output": "bother",
+    "options": [
+      "bother",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fat\" or \"draw\"? A:",
+    "output": "fat",
+    "options": [
+      "fat",
+      "draw"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"seat\" or \"hot\"? A:",
+    "output": "hot",
+    "options": [
+      "seat",
+      "hot"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"just\" or \"go\"? A:",
+    "output": "go",
+    "options": [
+      "just",
+      "go"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"include\" or \"dinosaur\"? A:",
+    "output": "include",
+    "options": [
+      "include",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"makeup\" or \"yourself\"? A:",
+    "output": "makeup",
+    "options": [
+      "makeup",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"nature\" or \"pants\"? A:",
+    "output": "pants",
+    "options": [
+      "nature",
+      "pants"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"cover\" or \"double\"? A:",
+    "output": "cover",
+    "options": [
+      "cover",
+      "double"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mango\" and \"camp\" which one has fewer letters? A:",
+    "output": "camp",
+    "options": [
+      "mango",
+      "camp"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"king\" or \"to\"? A:",
+    "output": "to",
+    "options": [
+      "king",
+      "to"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"waiter\" or \"cake\"? A:",
+    "output": "cake",
+    "options": [
+      "waiter",
+      "cake"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"strange\" or \"hospital\"? A:",
+    "output": "strange",
+    "options": [
+      "strange",
+      "hospital"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"factory\" or \"theirs\"? A:",
+    "output": "theirs",
+    "options": [
+      "factory",
+      "theirs"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"once\" or \"quiet\"? A:",
+    "output": "once",
+    "options": [
+      "once",
+      "quiet"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"loud\" or \"finger\"? A:",
+    "output": "loud",
+    "options": [
+      "loud",
+      "finger"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"guy\" or \"love\"? A:",
+    "output": "guy",
+    "options": [
+      "guy",
+      "love"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"idea\" or \"windy\"? A:",
+    "output": "idea",
+    "options": [
+      "idea",
+      "windy"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"carpet\" or \"first\"? A:",
+    "output": "first",
+    "options": [
+      "carpet",
+      "first"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"thing\" or \"pocket\"? A:",
+    "output": "thing",
+    "options": [
+      "thing",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"subway\" or \"quite\"? A:",
+    "output": "quite",
+    "options": [
+      "subway",
+      "quite"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stay\" and \"notes\" which one has fewer letters? A:",
+    "output": "stay",
+    "options": [
+      "stay",
+      "notes"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"no\" or \"read\"? A:",
+    "output": "no",
+    "options": [
+      "no",
+      "read"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hi\" or \"bake\"? A:",
+    "output": "hi",
+    "options": [
+      "hi",
+      "bake"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"family\" or \"machine\"? A:",
+    "output": "family",
+    "options": [
+      "family",
+      "machine"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"try\" and \"very\" which one has fewer letters? A:",
+    "output": "try",
+    "options": [
+      "try",
+      "very"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fan\" or \"exit\"? A:",
+    "output": "fan",
+    "options": [
+      "fan",
+      "exit"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"instead\" or \"yourself\"? A:",
+    "output": "instead",
+    "options": [
+      "instead",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"phone\" or \"nature\"? A:",
+    "output": "phone",
+    "options": [
+      "phone",
+      "nature"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"match\" or \"dancer\"? A:",
+    "output": "match",
+    "options": [
+      "match",
+      "dancer"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pen\" and \"white\" which one has fewer letters? A:",
+    "output": "pen",
+    "options": [
+      "pen",
+      "white"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"pocket\" or \"write\"? A:",
+    "output": "write",
+    "options": [
+      "pocket",
+      "write"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"shout\" or \"put\"? A:",
+    "output": "put",
+    "options": [
+      "shout",
+      "put"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"late\" or \"birth\"? A:",
+    "output": "late",
+    "options": [
+      "late",
+      "birth"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"computer\" and \"uniform\" which one has fewer letters? A:",
+    "output": "uniform",
+    "options": [
+      "computer",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"wash\" or \"an\"? A:",
+    "output": "an",
+    "options": [
+      "wash",
+      "an"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"begin\" or \"bowl\"? A:",
+    "output": "bowl",
+    "options": [
+      "begin",
+      "bowl"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"disco\" or \"rain\"? A:",
+    "output": "rain",
+    "options": [
+      "disco",
+      "rain"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"slice\" or \"another\"? A:",
+    "output": "slice",
+    "options": [
+      "slice",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"camping\" and \"discount\" which one has fewer letters? A:",
+    "output": "camping",
+    "options": [
+      "camping",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"bat\" or \"on\"? A:",
+    "output": "on",
+    "options": [
+      "bat",
+      "on"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"melon\" and \"closed\" which one has fewer letters? A:",
+    "output": "melon",
+    "options": [
+      "melon",
+      "closed"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"put\" or \"club\"? A:",
+    "output": "put",
+    "options": [
+      "put",
+      "club"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"we\" and \"lost\" which one has fewer letters? A:",
+    "output": "we",
+    "options": [
+      "we",
+      "lost"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"gas\" and \"black\" which one has fewer letters? A:",
+    "output": "gas",
+    "options": [
+      "gas",
+      "black"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"minute\" or \"fashion\"? A:",
+    "output": "minute",
+    "options": [
+      "minute",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"tire\" or \"up\"? A:",
+    "output": "up",
+    "options": [
+      "tire",
+      "up"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"grade\" and \"pencil\" which one has fewer letters? A:",
+    "output": "grade",
+    "options": [
+      "grade",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"up\" or \"wind\"? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "wind"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"improve\" and \"wonderful\" which one has fewer letters? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "wonderful"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"friendly\" or \"reading\"? A:",
+    "output": "reading",
+    "options": [
+      "friendly",
+      "reading"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"folder\" or \"noise\"? A:",
+    "output": "noise",
+    "options": [
+      "folder",
+      "noise"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"surfing\" or \"yourself\"? A:",
+    "output": "surfing",
+    "options": [
+      "surfing",
+      "yourself"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"luck\" or \"diary\"? A:",
+    "output": "luck",
+    "options": [
+      "luck",
+      "diary"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"yogurt\" or \"hair\"? A:",
+    "output": "hair",
+    "options": [
+      "yogurt",
+      "hair"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"foreign\" or \"makeup\"? A:",
+    "output": "makeup",
+    "options": [
+      "foreign",
+      "makeup"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"than\" or \"pocket\"? A:",
+    "output": "than",
+    "options": [
+      "than",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"cash\" or \"cut\"? A:",
+    "output": "cut",
+    "options": [
+      "cash",
+      "cut"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"fat\" or \"to\"? A:",
+    "output": "to",
+    "options": [
+      "fat",
+      "to"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"no\" or \"plan\"? A:",
+    "output": "no",
+    "options": [
+      "no",
+      "plan"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"round\" or \"pen\"? A:",
+    "output": "pen",
+    "options": [
+      "round",
+      "pen"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"comb\" and \"hit\" which one has fewer letters? A:",
+    "output": "hit",
+    "options": [
+      "comb",
+      "hit"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"not\" or \"oh\"? A:",
+    "output": "oh",
+    "options": [
+      "not",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hi\" or \"cold\"? A:",
+    "output": "hi",
+    "options": [
+      "hi",
+      "cold"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"badly\" or \"normal\"? A:",
+    "output": "badly",
+    "options": [
+      "badly",
+      "normal"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"block\" or \"thin\"? A:",
+    "output": "thin",
+    "options": [
+      "block",
+      "thin"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"customer\" or \"cousin\"? A:",
+    "output": "cousin",
+    "options": [
+      "customer",
+      "cousin"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"crowd\" or \"hair\"? A:",
+    "output": "hair",
+    "options": [
+      "crowd",
+      "hair"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"myself\" or \"problem\"? A:",
+    "output": "myself",
+    "options": [
+      "myself",
+      "problem"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"he\" or \"guy\"? A:",
+    "output": "he",
+    "options": [
+      "he",
+      "guy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"diary\" and \"pink\" which one has fewer letters? A:",
+    "output": "pink",
+    "options": [
+      "diary",
+      "pink"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"chain\" or \"its\"? A:",
+    "output": "its",
+    "options": [
+      "chain",
+      "its"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cabinet\" and \"chemistry\" which one has fewer letters? A:",
+    "output": "cabinet",
+    "options": [
+      "cabinet",
+      "chemistry"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"question\" or \"smoking\"? A:",
+    "output": "smoking",
+    "options": [
+      "question",
+      "smoking"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hungry\" or \"fork\"? A:",
+    "output": "fork",
+    "options": [
+      "hungry",
+      "fork"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"flight\" or \"subject\"? A:",
+    "output": "flight",
+    "options": [
+      "flight",
+      "subject"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"heavy\" or \"fun\"? A:",
+    "output": "fun",
+    "options": [
+      "heavy",
+      "fun"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"house\" or \"sign\"? A:",
+    "output": "sign",
+    "options": [
+      "house",
+      "sign"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"same\" and \"shirt\" which one has fewer letters? A:",
+    "output": "same",
+    "options": [
+      "same",
+      "shirt"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"player\" or \"software\"? A:",
+    "output": "player",
+    "options": [
+      "player",
+      "software"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"quickly\" or \"favorite\"? A:",
+    "output": "quickly",
+    "options": [
+      "quickly",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"outside\" or \"favorite\"? A:",
+    "output": "outside",
+    "options": [
+      "outside",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cloudy\" and \"roast\" which one has fewer letters? A:",
+    "output": "roast",
+    "options": [
+      "cloudy",
+      "roast"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"improve\" or \"sandwich\"? A:",
+    "output": "improve",
+    "options": [
+      "improve",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"black\" and \"exactly\" which one has fewer letters? A:",
+    "output": "black",
+    "options": [
+      "black",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"bother\" or \"friendly\"? A:",
+    "output": "bother",
+    "options": [
+      "bother",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"single\" and \"stadium\" which one has fewer letters? A:",
+    "output": "single",
+    "options": [
+      "single",
+      "stadium"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"no\" and \"read\" which one has fewer letters? A:",
+    "output": "no",
+    "options": [
+      "no",
+      "read"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"we\" or \"low\"? A:",
+    "output": "we",
+    "options": [
+      "we",
+      "low"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"to\" and \"fat\" which one has fewer letters? A:",
+    "output": "to",
+    "options": [
+      "to",
+      "fat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shower\" and \"earn\" which one has fewer letters? A:",
+    "output": "earn",
+    "options": [
+      "shower",
+      "earn"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"details\" or \"question\"? A:",
+    "output": "details",
+    "options": [
+      "details",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"foreign\" and \"discount\" which one has fewer letters? A:",
+    "output": "foreign",
+    "options": [
+      "foreign",
+      "discount"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"country\" or \"question\"? A:",
+    "output": "country",
+    "options": [
+      "country",
+      "question"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"give\" or \"hi\"? A:",
+    "output": "hi",
+    "options": [
+      "give",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"document\" or \"details\"? A:",
+    "output": "details",
+    "options": [
+      "document",
+      "details"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"the\" or \"cheap\"? A:",
+    "output": "the",
+    "options": [
+      "the",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"up\" or \"shop\"? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "shop"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"dinosaur\" or \"company\"? A:",
+    "output": "company",
+    "options": [
+      "dinosaur",
+      "company"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"up\" or \"him\"? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "him"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hospital\" or \"foreign\"? A:",
+    "output": "foreign",
+    "options": [
+      "hospital",
+      "foreign"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"long\" or \"an\"? A:",
+    "output": "an",
+    "options": [
+      "long",
+      "an"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"gate\" or \"oh\"? A:",
+    "output": "oh",
+    "options": [
+      "gate",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"copy\" or \"oil\"? A:",
+    "output": "oil",
+    "options": [
+      "copy",
+      "oil"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"kilogram\" or \"project\"? A:",
+    "output": "project",
+    "options": [
+      "kilogram",
+      "project"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"dinosaur\" or \"century\"? A:",
+    "output": "century",
+    "options": [
+      "dinosaur",
+      "century"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"sky\" or \"stand\"? A:",
+    "output": "sky",
+    "options": [
+      "sky",
+      "stand"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hockey\" or \"singular\"? A:",
+    "output": "hockey",
+    "options": [
+      "hockey",
+      "singular"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"insect\" or \"factory\"? A:",
+    "output": "insect",
+    "options": [
+      "insect",
+      "factory"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"milk\" and \"monkey\" which one has fewer letters? A:",
+    "output": "milk",
+    "options": [
+      "milk",
+      "monkey"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"file\" or \"bright\"? A:",
+    "output": "file",
+    "options": [
+      "file",
+      "bright"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"makeup\" and \"mistake\" which one has fewer letters? A:",
+    "output": "makeup",
+    "options": [
+      "makeup",
+      "mistake"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"by\" and \"love\" which one has fewer letters? A:",
+    "output": "by",
+    "options": [
+      "by",
+      "love"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"boy\" or \"clear\"? A:",
+    "output": "boy",
+    "options": [
+      "boy",
+      "clear"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"of\" and \"aunt\" which one has fewer letters? A:",
+    "output": "of",
+    "options": [
+      "of",
+      "aunt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"ride\" and \"of\" which one has fewer letters? A:",
+    "output": "of",
+    "options": [
+      "ride",
+      "of"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"polite\" and \"teach\" which one has fewer letters? A:",
+    "output": "teach",
+    "options": [
+      "polite",
+      "teach"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"on\" and \"easy\" which one has fewer letters? A:",
+    "output": "on",
+    "options": [
+      "on",
+      "easy"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"line\" or \"hi\"? A:",
+    "output": "hi",
+    "options": [
+      "line",
+      "hi"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hey\" or \"it\"? A:",
+    "output": "it",
+    "options": [
+      "hey",
+      "it"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"diploma\" and \"player\" which one has fewer letters? A:",
+    "output": "player",
+    "options": [
+      "diploma",
+      "player"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"west\" or \"way\"? A:",
+    "output": "way",
+    "options": [
+      "west",
+      "way"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"problem\" or \"under\"? A:",
+    "output": "under",
+    "options": [
+      "problem",
+      "under"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"painter\" and \"racket\" which one has fewer letters? A:",
+    "output": "racket",
+    "options": [
+      "painter",
+      "racket"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"watch\" and \"fog\" which one has fewer letters? A:",
+    "output": "fog",
+    "options": [
+      "watch",
+      "fog"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"he\" and \"sky\" which one has fewer letters? A:",
+    "output": "he",
+    "options": [
+      "he",
+      "sky"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daughter\" and \"picture\" which one has fewer letters? A:",
+    "output": "picture",
+    "options": [
+      "daughter",
+      "picture"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"ad\" and \"help\" which one has fewer letters? A:",
+    "output": "ad",
+    "options": [
+      "ad",
+      "help"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"the\" or \"cheap\"? A:",
+    "output": "the",
+    "options": [
+      "the",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"player\" and \"software\" which one has fewer letters? A:",
+    "output": "player",
+    "options": [
+      "player",
+      "software"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"noise\" or \"notice\"? A:",
+    "output": "noise",
+    "options": [
+      "noise",
+      "notice"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"himself\" or \"family\"? A:",
+    "output": "family",
+    "options": [
+      "himself",
+      "family"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"oh\" and \"drum\" which one has fewer letters? A:",
+    "output": "oh",
+    "options": [
+      "oh",
+      "drum"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mother\" and \"drum\" which one has fewer letters? A:",
+    "output": "drum",
+    "options": [
+      "mother",
+      "drum"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"minute\" or \"close\"? A:",
+    "output": "close",
+    "options": [
+      "minute",
+      "close"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"worse\" or \"bowl\"? A:",
+    "output": "bowl",
+    "options": [
+      "worse",
+      "bowl"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"broken\" or \"boat\"? A:",
+    "output": "boat",
+    "options": [
+      "broken",
+      "boat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"trip\" and \"dream\" which one has fewer letters? A:",
+    "output": "trip",
+    "options": [
+      "trip",
+      "dream"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"under\" or \"the\"? A:",
+    "output": "the",
+    "options": [
+      "under",
+      "the"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"music\" and \"reason\" which one has fewer letters? A:",
+    "output": "music",
+    "options": [
+      "music",
+      "reason"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"chemistry\" or \"another\"? A:",
+    "output": "another",
+    "options": [
+      "chemistry",
+      "another"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"camping\" or \"favorite\"? A:",
+    "output": "camping",
+    "options": [
+      "camping",
+      "favorite"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"racket\" or \"yeah\"? A:",
+    "output": "yeah",
+    "options": [
+      "racket",
+      "yeah"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"he\" and \"bowl\" which one has fewer letters? A:",
+    "output": "he",
+    "options": [
+      "he",
+      "bowl"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"uniform\" or \"finger\"? A:",
+    "output": "finger",
+    "options": [
+      "uniform",
+      "finger"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"line\" or \"we\"? A:",
+    "output": "we",
+    "options": [
+      "line",
+      "we"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"daughter\" and \"exactly\" which one has fewer letters? A:",
+    "output": "exactly",
+    "options": [
+      "daughter",
+      "exactly"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"cap\" or \"he\"? A:",
+    "output": "he",
+    "options": [
+      "cap",
+      "he"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"boyfriend\" and \"reading\" which one has fewer letters? A:",
+    "output": "reading",
+    "options": [
+      "boyfriend",
+      "reading"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"left\" or \"bus\"? A:",
+    "output": "bus",
+    "options": [
+      "left",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"piano\" and \"soft\" which one has fewer letters? A:",
+    "output": "soft",
+    "options": [
+      "piano",
+      "soft"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"up\" or \"ride\"? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "ride"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"kid\" or \"to\"? A:",
+    "output": "to",
+    "options": [
+      "kid",
+      "to"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"brush\" or \"fashion\"? A:",
+    "output": "brush",
+    "options": [
+      "brush",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"computer\" or \"smoking\"? A:",
+    "output": "smoking",
+    "options": [
+      "computer",
+      "smoking"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"castle\" and \"platform\" which one has fewer letters? A:",
+    "output": "castle",
+    "options": [
+      "castle",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"lucky\" or \"uniform\"? A:",
+    "output": "lucky",
+    "options": [
+      "lucky",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"shirt\" or \"drum\"? A:",
+    "output": "drum",
+    "options": [
+      "shirt",
+      "drum"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"paint\" or \"friend\"? A:",
+    "output": "paint",
+    "options": [
+      "paint",
+      "friend"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"polite\" or \"friendly\"? A:",
+    "output": "polite",
+    "options": [
+      "polite",
+      "friendly"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"cry\" or \"ad\"? A:",
+    "output": "ad",
+    "options": [
+      "cry",
+      "ad"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"king\" or \"at\"? A:",
+    "output": "at",
+    "options": [
+      "king",
+      "at"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"up\" or \"boat\"? A:",
+    "output": "up",
+    "options": [
+      "up",
+      "boat"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"racket\" or \"fashion\"? A:",
+    "output": "racket",
+    "options": [
+      "racket",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"stamp\" or \"open\"? A:",
+    "output": "open",
+    "options": [
+      "stamp",
+      "open"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"certainly\" or \"factory\"? A:",
+    "output": "factory",
+    "options": [
+      "certainly",
+      "factory"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wind\" and \"up\" which one has fewer letters? A:",
+    "output": "up",
+    "options": [
+      "wind",
+      "up"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"various\" and \"space\" which one has fewer letters? A:",
+    "output": "space",
+    "options": [
+      "various",
+      "space"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"rice\" or \"oh\"? A:",
+    "output": "oh",
+    "options": [
+      "rice",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"west\" and \"bread\" which one has fewer letters? A:",
+    "output": "west",
+    "options": [
+      "west",
+      "bread"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"left\" and \"fun\" which one has fewer letters? A:",
+    "output": "fun",
+    "options": [
+      "left",
+      "fun"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"machine\" or \"dangerous\"? A:",
+    "output": "machine",
+    "options": [
+      "machine",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"grade\" or \"pray\"? A:",
+    "output": "pray",
+    "options": [
+      "grade",
+      "pray"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"an\" and \"help\" which one has fewer letters? A:",
+    "output": "an",
+    "options": [
+      "an",
+      "help"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"shout\" or \"things\"? A:",
+    "output": "shout",
+    "options": [
+      "shout",
+      "things"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"us\" and \"side\" which one has fewer letters? A:",
+    "output": "us",
+    "options": [
+      "us",
+      "side"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"king\" or \"thing\"? A:",
+    "output": "king",
+    "options": [
+      "king",
+      "thing"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pay\" and \"they\" which one has fewer letters? A:",
+    "output": "pay",
+    "options": [
+      "pay",
+      "they"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"must\" or \"pen\"? A:",
+    "output": "pen",
+    "options": [
+      "must",
+      "pen"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"factory\" or \"during\"? A:",
+    "output": "during",
+    "options": [
+      "factory",
+      "during"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bed\" and \"exam\" which one has fewer letters? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "exam"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"so\" or \"box\"? A:",
+    "output": "so",
+    "options": [
+      "so",
+      "box"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"cabinet\" or \"carpet\"? A:",
+    "output": "carpet",
+    "options": [
+      "cabinet",
+      "carpet"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"island\" and \"ours\" which one has fewer letters? A:",
+    "output": "ours",
+    "options": [
+      "island",
+      "ours"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"low\" or \"paint\"? A:",
+    "output": "low",
+    "options": [
+      "low",
+      "paint"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"time\" or \"nearly\"? A:",
+    "output": "time",
+    "options": [
+      "time",
+      "nearly"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"holiday\" or \"broken\"? A:",
+    "output": "broken",
+    "options": [
+      "holiday",
+      "broken"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"aged\" and \"listen\" which one has fewer letters? A:",
+    "output": "aged",
+    "options": [
+      "aged",
+      "listen"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"album\" and \"gold\" which one has fewer letters? A:",
+    "output": "gold",
+    "options": [
+      "album",
+      "gold"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"sit\" or \"teach\"? A:",
+    "output": "sit",
+    "options": [
+      "sit",
+      "teach"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"racket\" or \"fashion\"? A:",
+    "output": "racket",
+    "options": [
+      "racket",
+      "fashion"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hat\" and \"take\" which one has fewer letters? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "take"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"himself\" or \"monkey\"? A:",
+    "output": "monkey",
+    "options": [
+      "himself",
+      "monkey"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"shower\" or \"mouse\"? A:",
+    "output": "mouse",
+    "options": [
+      "shower",
+      "mouse"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"flight\" or \"subject\"? A:",
+    "output": "flight",
+    "options": [
+      "flight",
+      "subject"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bright\" and \"head\" which one has fewer letters? A:",
+    "output": "head",
+    "options": [
+      "bright",
+      "head"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"thing\" or \"pocket\"? A:",
+    "output": "thing",
+    "options": [
+      "thing",
+      "pocket"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"change\" or \"uniform\"? A:",
+    "output": "change",
+    "options": [
+      "change",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"birth\" or \"snow\"? A:",
+    "output": "snow",
+    "options": [
+      "birth",
+      "snow"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"orange\" or \"uniform\"? A:",
+    "output": "orange",
+    "options": [
+      "orange",
+      "uniform"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"send\" and \"skirt\" which one has fewer letters? A:",
+    "output": "send",
+    "options": [
+      "send",
+      "skirt"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"match\" and \"dancer\" which one has fewer letters? A:",
+    "output": "match",
+    "options": [
+      "match",
+      "dancer"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hotel\" and \"mix\" which one has fewer letters? A:",
+    "output": "mix",
+    "options": [
+      "hotel",
+      "mix"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"details\" or \"birthday\"? A:",
+    "output": "details",
+    "options": [
+      "details",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hi\" or \"belt\"? A:",
+    "output": "hi",
+    "options": [
+      "hi",
+      "belt"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"ear\" or \"go\"? A:",
+    "output": "go",
+    "options": [
+      "ear",
+      "go"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"maybe\" or \"foreign\"? A:",
+    "output": "maybe",
+    "options": [
+      "maybe",
+      "foreign"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"no\" or \"soul\"? A:",
+    "output": "no",
+    "options": [
+      "no",
+      "soul"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"camp\" or \"my\"? A:",
+    "output": "my",
+    "options": [
+      "camp",
+      "my"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hi\" and \"belt\" which one has fewer letters? A:",
+    "output": "hi",
+    "options": [
+      "hi",
+      "belt"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"bank\" or \"album\"? A:",
+    "output": "bank",
+    "options": [
+      "bank",
+      "album"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"skate\" or \"road\"? A:",
+    "output": "road",
+    "options": [
+      "skate",
+      "road"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"low\" and \"paint\" which one has fewer letters? A:",
+    "output": "low",
+    "options": [
+      "low",
+      "paint"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"map\" or \"of\"? A:",
+    "output": "of",
+    "options": [
+      "map",
+      "of"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"luck\" and \"diary\" which one has fewer letters? A:",
+    "output": "luck",
+    "options": [
+      "luck",
+      "diary"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"friendly\" or \"second\"? A:",
+    "output": "second",
+    "options": [
+      "friendly",
+      "second"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"next\" or \"uncle\"? A:",
+    "output": "next",
+    "options": [
+      "next",
+      "uncle"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"yourself\" or \"picture\"? A:",
+    "output": "picture",
+    "options": [
+      "yourself",
+      "picture"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"makeup\" or \"mistake\"? A:",
+    "output": "makeup",
+    "options": [
+      "makeup",
+      "mistake"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"hospital\" or \"adverb\"? A:",
+    "output": "adverb",
+    "options": [
+      "hospital",
+      "adverb"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"foreign\" or \"kilogram\"? A:",
+    "output": "foreign",
+    "options": [
+      "foreign",
+      "kilogram"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"go\" or \"tea\"? A:",
+    "output": "go",
+    "options": [
+      "go",
+      "tea"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"go\" and \"car\" which one has fewer letters? A:",
+    "output": "go",
+    "options": [
+      "go",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sandwich\" and \"stomach\" which one has fewer letters? A:",
+    "output": "stomach",
+    "options": [
+      "sandwich",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"soap\" or \"in\"? A:",
+    "output": "in",
+    "options": [
+      "soap",
+      "in"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"plate\" or \"his\"? A:",
+    "output": "his",
+    "options": [
+      "plate",
+      "his"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"put\" and \"club\" which one has fewer letters? A:",
+    "output": "put",
+    "options": [
+      "put",
+      "club"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"do\" or \"set\"? A:",
+    "output": "do",
+    "options": [
+      "do",
+      "set"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"friendly\" or \"jacket\"? A:",
+    "output": "jacket",
+    "options": [
+      "friendly",
+      "jacket"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"be\" or \"toy\"? A:",
+    "output": "be",
+    "options": [
+      "be",
+      "toy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"listen\" and \"sandwich\" which one has fewer letters? A:",
+    "output": "listen",
+    "options": [
+      "listen",
+      "sandwich"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plan\" and \"oh\" which one has fewer letters? A:",
+    "output": "oh",
+    "options": [
+      "plan",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plate\" and \"his\" which one has fewer letters? A:",
+    "output": "his",
+    "options": [
+      "plate",
+      "his"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"into\" or \"me\"? A:",
+    "output": "me",
+    "options": [
+      "into",
+      "me"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"hat\" or \"take\"? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "take"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"like\" or \"cheap\"? A:",
+    "output": "like",
+    "options": [
+      "like",
+      "cheap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"copy\" and \"oil\" which one has fewer letters? A:",
+    "output": "oil",
+    "options": [
+      "copy",
+      "oil"
+    ]
+  },
+  {
+    "input": "Q: Which word has fewer letters, \"bright\" or \"board\"? A:",
+    "output": "board",
+    "options": [
+      "bright",
+      "board"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"player\" or \"painter\"? A:",
+    "output": "player",
+    "options": [
+      "player",
+      "painter"
+    ]
+  },
+  {
+    "input": "Q: Which word is shorter, \"store\" or \"mistake\"? A:",
+    "output": "store",
+    "options": [
+      "store",
+      "mistake"
+    ]
+  }
+]

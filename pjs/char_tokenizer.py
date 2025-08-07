@@ -1,10 +1,7 @@
 import os
 import string
-from tokenizers import Tokenizer, models, normalizers, pre_tokenizers
-from tokenizers.models import BPE
-from tokenizers.normalizers import Lowercase, NFD, Sequence, Strip, StripAccents, Replace
-from tokenizers.pre_tokenizers import ByteLevel
-from tokenizers.pre_tokenizers import CharDelimiterSplit
+from tokenizers import Tokenizer, models, normalizers, pre_tokenizers, trainers, processors
+from tokenizers.normalizers import Lowercase, NFD, Sequence, Strip, Replace
 from transformers import PreTrainedTokenizerFast
 from transformers import AutoTokenizer
 from tokenizers.pre_tokenizers import Split
@@ -22,7 +19,7 @@ def gen_char_tokenizer():
 
     tokenizer.normalizer = Sequence([
         Lowercase(),
-        normalizers.Replace(" ", whitespace_token)
+        Replace(" ", whitespace_token)
     ])
 
     tokenizer.pre_tokenizer = Split(pattern="", behavior="isolated")
@@ -41,11 +38,7 @@ def gen_char_tokenizer():
     os.makedirs("data/tokenizer/char_tokenizer", exist_ok=True)
     wrapped_tokenizer.save_pretrained("data/tokenizer/char_tokenizer")
 
-
-def gen_bpe_tokenizer():
-    return
-
-gen_char_tokenizer()
+# gen_char_tokenizer()
 
 my_char_tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
 tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')
