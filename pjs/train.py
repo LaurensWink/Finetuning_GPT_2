@@ -1,6 +1,7 @@
 
-from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling, GPT2LMHeadModel
+from transformers import Trainer, TrainingArguments, DataCollatorForLanguageModeling, LlamaForCausalLM
 from torch.utils.data import Dataset
+
 def finetune_model(model_name, tokenizer, encodings, output_dir, save_steps, save_limit, epochs, device) -> None:
     class CustomDataset(Dataset):
         # Needed to wrap already tokenized data (encodings) into a dataset for training
@@ -15,7 +16,7 @@ def finetune_model(model_name, tokenizer, encodings, output_dir, save_steps, sav
                 key: val[idx] for key, val in self.encodings.items()
             }
         
-    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
+    model = LlamaForCausalLM.from_pretrained(model_name).to(device)
 
     dataset = CustomDataset(encodings)
 

@@ -27,10 +27,10 @@ def gen_bpe_de_tokenizer():
     
     tokenizer = Tokenizer(models.BPE())
     tokenizer.normalizer = normalizers.Sequence([
-        NFC(), Lowercase(), Strip()
+         Strip(), NFC(), Lowercase()
     ])
     
-    tokenizer.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=True)
+    tokenizer.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=False)
     
     trainer = trainers.BpeTrainer(
         vocab_size=16000,
@@ -52,25 +52,16 @@ def gen_bpe_de_tokenizer():
     os.makedirs("data/tokenizer/bpe_de_tokenizer", exist_ok=True)
     wrapped_tokenizer.save_pretrained("data/tokenizer/bpe_de_tokenizer")
 
-gen_bpe_de_tokenizer()
+#gen_bpe_de_tokenizer()
 
 my_bpe_tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
-tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
 
 text = "Überraschung! Das ist überraschend"
 
 my_output = my_bpe_tokenizer(text, add_special_tokens=True)
-ext_output = tokenizer(text, add_special_tokens=True)
 
 # IDs ausgeben
 print("=== Eigener Char-Tokenizer ===")
 print("Input IDs:", my_output["input_ids"])
 print("Tokens:   ", my_bpe_tokenizer.convert_ids_to_tokens(my_output["input_ids"]))
 
-print("\n=== Babble Tokenizer ===")
-print("Input IDs:", ext_output["input_ids"])
-print("Tokens:   ", tokenizer.convert_ids_to_tokens(ext_output["input_ids"]))
-
-# Optional: Vergleich der Token-Längen
-print("\nTokenanzahl Eigener Tokenizer:", len(my_output["input_ids"]))
-print("Tokenanzahl Babble Tokenizer:", len(ext_output["input_ids"]))

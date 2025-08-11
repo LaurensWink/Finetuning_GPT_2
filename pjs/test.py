@@ -1,12 +1,13 @@
 import csv
 import os
 import re
-from transformers import GPT2LMHeadModel
+from transformers import LlamaForCausalLM
 import outlines
+import unicodedata
 
 
 def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_tokens, char, device):
-    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
+    model = LlamaForCausalLM.from_pretrained(model_name).to(device)
     for index, row in test_data.iterrows():
         input = row["input"] + tokenizer.eos_token
 
@@ -49,9 +50,9 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
 def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name, char):
     model = outlines.models.transformers(model_name)
     for index, row in test_data.iterrows():
-        input = row["input"] + tokenizer.eos_token
+        input = f'{tokenizer.eos_token} {row["input"]} {tokenizer.eos_token}'
         options = row["options"]
-        generator = outlines.generate.choice(model, options)
+        generator = outlines.generate.choice(model, [normalize_text(opt) for opt in row["options"]])
         output_text = generator(input)
         if char:
             output_text = output_text.replace(" ", "")
@@ -63,3 +64,8 @@ def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name,
             if not file_exists:
                 writer.writerow(["Input", "Options", "Expected", "Predicted",])
             writer.writerow([row["input"], row["options"], row["output"], output_text])
+
+def normalize_text(text):
+    text = unicodedata.normalize("NFC", text)
+    text = text.lower()
+    return text

@@ -39,9 +39,9 @@ with open(output_path, "w", encoding="utf-8") as f:
 
 logger.info(f"Trimmed dataset saved to {output_path} (as .txt)")
 
-### DATASET STATS (LMentry)###
+### DATASET STATS (LMentry_en)###
 data = Data()
-data.collect_data("data/LMentry")
+data.collect_data("data/LMentry_en")
 data.split(0.8)
 data.save_dataset_state("data/dataset_splits")
 

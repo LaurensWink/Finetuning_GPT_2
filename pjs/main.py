@@ -2,7 +2,7 @@ import os
 from loguru import logger
 import torch
 from pjs.dataset import Data
-from transformers import AutoTokenizer, GPT2LMHeadModel
+from transformers import PreTrainedTokenizerFast
 
 from pjs.eval import evaluate
 from pjs.test import test_model, test_model_outlines
@@ -12,204 +12,141 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 logger.info(f'Device loaded: {device}')
 
 data = Data()
-# data.collect_data("data/LMentry")
-# data.split(0.8)
-# data.save_dataset_state("data/dataset_splits")
-data.load_split("data/dataset_splits/LMentry_split")
+data.load_split("data/dataset_splits/LMentry_de")
 
 ### DATASET STATS ###
 token_counts = data.get_token_count()
-logger.info(token_counts)
+logger.info(f'The dataset contains {token_counts} tokens')
 
-###CHAR BASE-MODEL###
-BASE_MODEL_NAME = "phonemetransformers/GPT2-85M-CHAR-TXT"
-tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')
+### CHAR BASE-MODEL DE ###
+BASE_MODEL_NAME = "data/models/baby_lm_de_char/model/final"
+tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
 split_data = data.split_data
 
 for task in split_data:
     test_data = split_data[task]['test']
-    test_model_outlines(BASE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model', task.split('.')[0], True)
+    test_model_outlines(BASE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model_de', task.split('.')[0], True)
 
-###CHAR MODEL FINETUNIG AND TESTS###
+### CHAR MODEL FINETUNIG AND TESTS DE ###
 tokenised_dict = data.get_tokenised_dict(tokenizer)
 merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
 
-finetune_model(BASE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train", 500, 50, 3, device)
+finetune_model(BASE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train_de_char", 1000, 50, 3, device)
                
 for key in tokenised_dict:
-  finetune_model(BASE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train/{key}", 100, 10, 3, device)
+  finetune_model(BASE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train_de_char/{key}", 1000, 10, 3, device)
 
-FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train/checkpoint-21600"
+# FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train/checkpoint-21600"
 
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw/full_data_train', task.split('.')[0], 25, True, device)
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw/full_data_train', task.split('.')[0], 25, True, device)
 
-TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train"
+# TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train"
 
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
-        test_data = split_data[str(subfolder)]['test']
-        test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw/task_data_train', str(subfolder).split('.')[0], 25, True, device)
-
-
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines/full_data_train', task.split('.')[0], True)
-
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900") 
-        test_data = split_data[str(subfolder)]['test']
-        test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines/task_data_train', str(subfolder).split('.')[0], True)
+# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
+#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
+#         checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
+#         test_data = split_data[str(subfolder)]['test']
+#         test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw/task_data_train', str(subfolder).split('.')[0], 25, True, device)
 
 
-###BPE BASE-MODEL###
-BASE_BPE_MODEL_NAME = "phonemetransformers/GPT2-85M-BPE-TXT"
-tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines/full_data_train', task.split('.')[0], True)
+
+# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
+#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
+#         checkpoint_path = os.path.join(subfolder_path, "checkpoint-900") 
+#         test_data = split_data[str(subfolder)]['test']
+#         test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines/task_data_train', str(subfolder).split('.')[0], True)
+
+### CHAR BASE-MODEL EN ###
+BASE_MODEL_NAME = "data/models/baby_lm_en_char/model/final"
+tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
 split_data = data.split_data
 
 for task in split_data:
     test_data = split_data[task]['test']
-    test_model_outlines(BASE_BPE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model_BPE', task.split('.')[0], False)
+    test_model_outlines(BASE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model_en', task.split('.')[0], True)
 
-###BPE MODEL FINETUNIG AND TESTS###
+### CHAR MODEL FINETUNIG AND TESTS EN ###
 tokenised_dict = data.get_tokenised_dict(tokenizer)
 merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
 
-finetune_model(BASE_BPE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train_BPE", 500, 50, 3, device)
+finetune_model(BASE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train_en_char", 1000, 50, 3, device)
                
 for key in tokenised_dict:
-  finetune_model(BASE_BPE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train_BPE/{key}", 100, 10, 3, device)
+  finetune_model(BASE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train_en_char/{key}", 1000, 10, 3, device)
 
-FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train_BPE/checkpoint-21600"
+# FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train/checkpoint-21600"
 
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw/full_data_train_BPE', task.split('.')[0], 5, False, device)
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw/full_data_train', task.split('.')[0], 25, True, device)
 
-TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train_BPE"
+# TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train"
 
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
-        test_data = split_data[str(subfolder)]['test']
-        test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw/task_data_train_BPE', str(subfolder).split('.')[0], 5, False, device)
-
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines/full_data_train_BPE', task.split('.')[0], False)
-
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
-        test_data = split_data[str(subfolder)]['test']
-        test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines/task_data_train_BPE', str(subfolder).split('.')[0], False)
-
-###EVALUATION###
-OUTPUT_OUTLINES_DIR = "data/outputs_outlines"
-evaluate(OUTPUT_OUTLINES_DIR , "outlines_data_results")
+# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
+#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
+#         checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
+#         test_data = split_data[str(subfolder)]['test']
+#         test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw/task_data_train', str(subfolder).split('.')[0], 25, True, device)
 
 
-### GERMAN DATA SECTION ###
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines/full_data_train', task.split('.')[0], True)
 
-data = Data()
-# data.collect_data("data/LMentry_de")
-# data.split(0.8)
-# data.save_dataset_state("data/dataset_splits")
-data.load_split("data/dataset_splits/LMentry_de_split")
+# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
+#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
+#         checkpoint_path = os.path.join(subfolder_path, "checkpoint-900") 
+#         test_data = split_data[str(subfolder)]['test']
+#         test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines/task_data_train', str(subfolder).split('.')[0], True)
 
-### DATASET STATS ###
-token_counts = data.get_token_count()
-logger.info(token_counts)
 
-###CHAR BASE-MODEL###
-BASE_MODEL_NAME = "phonemetransformers/GPT2-85M-CHAR-TXT"
-tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')
-split_data = data.split_data
+# ###BPE BASE-MODEL###
+# BASE_BPE_MODEL_NAME = "phonemetransformers/GPT2-85M-BPE-TXT"
+# tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
+# split_data = data.split_data
 
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model_outlines(BASE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines_de/base_model_de', task.split('.')[0], True)
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model_outlines(BASE_BPE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines/base_model_BPE', task.split('.')[0], False)
 
-###CHAR MODEL FINETUNIG AND TESTS###
-tokenised_dict = data.get_tokenised_dict(tokenizer)
-merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
+# ###BPE MODEL FINETUNIG AND TESTS###
+# tokenised_dict = data.get_tokenised_dict(tokenizer)
+# merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
 
-finetune_model(BASE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train_de", 500, 50, 3, device)
+# finetune_model(BASE_BPE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train_BPE", 500, 50, 3, device)
                
-for key in tokenised_dict:
-  finetune_model(BASE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train_de/{key}", 100, 10, 3, device)
+# for key in tokenised_dict:
+#   finetune_model(BASE_BPE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train_BPE/{key}", 100, 10, 3, device)
 
-FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train_de/checkpoint-17100"
+# FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train_BPE/checkpoint-21600"
 
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw_de/full_data_train_de', task.split('.')[0], 25, True, device)
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw/full_data_train_BPE', task.split('.')[0], 5, False, device)
 
-TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train_de"
+# TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train_BPE"
 
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
-        test_data = split_data[str(subfolder)]['test']
-        test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw_de/task_data_train_de', str(subfolder).split('.')[0], 25, True, device)
+# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
+#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
+#         checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
+#         test_data = split_data[str(subfolder)]['test']
+#         test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw/task_data_train_BPE', str(subfolder).split('.')[0], 5, False, device)
 
+# for task in split_data:
+#     test_data = split_data[task]['test']
+#     test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines/full_data_train_BPE', task.split('.')[0], False)
 
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines_de/full_data_train_de', task.split('.')[0], True)
+# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
+#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
+#         checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
+#         test_data = split_data[str(subfolder)]['test']
+#         test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines/task_data_train_BPE', str(subfolder).split('.')[0], False)
 
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900") 
-        test_data = split_data[str(subfolder)]['test']
-        test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines_de/task_data_train_de', str(subfolder).split('.')[0], True)
-
-
-##BPE BASE-MODEL###
-BASE_BPE_MODEL_NAME = "phonemetransformers/GPT2-85M-BPE-TXT"
-tokenizer = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
-split_data = data.split_data
-
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model_outlines(BASE_BPE_MODEL_NAME, tokenizer, test_data, 'data/outputs_outlines_de/base_model_BPE_de', task.split('.')[0], False)
-
-###BPE MODEL FINETUNIG AND TESTS###
-tokenised_dict = data.get_tokenised_dict(tokenizer)
-merged_data = data.merge_tokenised_dict(tokenised_dict, tokenizer)
-
-finetune_model(BASE_BPE_MODEL_NAME, tokenizer, merged_data, "data/models/full_data_train_BPE_de", 500, 50, 3, device)
-               
-for key in tokenised_dict:
-  finetune_model(BASE_BPE_MODEL_NAME, tokenizer, tokenised_dict[key], f"data/models/task_data_train_BPE_de/{key}", 100, 10, 3, device)
-
-FULL_DATA_FINETUNED_MODEL_PATH = "data/models/full_data_train_BPE_de/checkpoint-17100"
-
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_raw_de/full_data_train_BPE_de', task.split('.')[0], 5, False, device)
-
-TASK_DATA_FINETUNED_MODEL_DIR = "data/models/task_data_train_BPE_de"
-
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
-        test_data = split_data[str(subfolder)]['test']
-        test_model(checkpoint_path, tokenizer, test_data, 'data/outputs_raw_de/task_data_train_BPE_de', str(subfolder).split('.')[0], 5, False, device)
-
-for task in split_data:
-    test_data = split_data[task]['test']
-    test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH, tokenizer, test_data, 'data/outputs_outlines_de/full_data_train_BPE_de', task.split('.')[0], False)
-
-for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR):
-        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR, subfolder)
-        checkpoint_path = os.path.join(subfolder_path, "checkpoint-900")
-        test_data = split_data[str(subfolder)]['test']
-        test_model_outlines(checkpoint_path, tokenizer, test_data, 'data/outputs_outlines_de/task_data_train_BPE_de', str(subfolder).split('.')[0], False)
-
-###EVALUATION###
-OUTPUT_OUTLINES_DIR = "data/outputs_outlines_de"
-evaluate(OUTPUT_OUTLINES_DIR , "outlines_data_de_results")
+# ###EVALUATION###
+# OUTPUT_OUTLINES_DIR = "data/outputs_outlines"
+# evaluate(OUTPUT_OUTLINES_DIR , "outlines_data_results")

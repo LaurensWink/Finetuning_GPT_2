@@ -47,6 +47,9 @@
     "type": "Sequence",
     "normalizers": [
       {
+        "type": "NFC"
+      },
+      {
         "type": "Lowercase"
       },
       {

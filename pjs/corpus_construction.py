@@ -5,7 +5,6 @@ import string
 from loguru import logger
 from collections import Counter
 
-### IF THERE ARE ONLY TWO WORDS AS OPTIONS THEY HAVE TO BE LOWERCASED CAUSE OF OUTLINES (otherwise a value error will occure) ###
 ### ALL UMLAUTS NEED TO BE REPLACED CAUSE OF THE TOKENIZERS ###
 
 def construct_number_tasks(file_name: str, templates: list[str], eval_funktion, examples_per_template = 1000):
@@ -60,8 +59,8 @@ def first_alphabetically(file_name: str, templates: list[str], task_data: list[(
     for question in templates:
         for _ in range(examples_per_template):
             n1, n2 = random.sample(range(2), 2)
-            word1 = word_tupel_list[global_index][n1].lower()
-            word2 = word_tupel_list[global_index][n2].lower()
+            word1 = word_tupel_list[global_index][n1]
+            word2 = word_tupel_list[global_index][n2]
             global_index = global_index+1
             answer = eval_funktion(word1,word2)
             input = question.format(word1 = word1, word2 = word2)
