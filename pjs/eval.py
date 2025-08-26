@@ -2,6 +2,7 @@ from loguru import logger
 import pandas as pd
 from pathlib import Path
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+import unicodedata
 
 def evaluate(dir_path, file_name):
     dir_path = Path(dir_path) 

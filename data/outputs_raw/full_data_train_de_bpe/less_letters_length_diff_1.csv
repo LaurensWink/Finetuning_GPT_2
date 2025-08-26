@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"F: Welches Wort ist kürzer, ""wertlos"" oder ""namenlos""? A:","['wertlos', 'namenlos']",wertlos,"wertlos""? a:"
+"F: Welches Wort ist kürzer, ""völlig"" oder ""daran""? A:","['völlig', 'daran']",daran,"darüber""? a:"
+"F: Welches Wort ist kürzer, ""Abschied"" oder ""wertlos""? A:","['Abschied', 'wertlos']",wertlos,"wertlos""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""um"" oder ""all""? A:","['um', 'all']",um,"um"" oder ""ist"
+"Von den Wörtern ""Fachbücher"" und ""Polarität"", welches hat weniger Buchstaben? ","['Fachbücher', 'Polarität']",Polarität,"fachbücher"", welches hat"
+"F: Welches Wort ist kürzer, ""jemand"" oder ""nicht""? A:","['jemand', 'nicht']",nicht,
+"F: Welches Wort ist kürzer, ""sollen"" oder ""brüllen""? A:","['sollen', 'brüllen']",sollen,sollen? a:
+"Von den Wörtern ""variabel"" und ""Iteration"", welches hat weniger Buchstaben? ","['variabel', 'Iteration']",variabel,
+"F: Welches Wort hat weniger Buchstaben, ""muss"" oder ""ist""? A:","['muss', 'ist']",ist,"ist"" oder ""ob"
+"Von den Wörtern ""Oligarchie"" und ""Bedeutung"", welches hat weniger Buchstaben? ","['Oligarchie', 'Bedeutung']",Bedeutung,"oligarchie"""
+"Von den Wörtern ""Obduktion"" und ""offensiv"", welches hat weniger Buchstaben? ","['Obduktion', 'offensiv']",offensiv,"obduktion"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""im"" oder ""weg""? A:","['im', 'weg']",im,"ameise"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""rot"" oder ""dann""? A:","['rot', 'dann']",rot,"rot"" oder ""rot"
+"F: Welches Wort ist kürzer, ""Abschied"" oder ""ungerne""? A:","['Abschied', 'ungerne']",ungerne,"ungerne"" oder """
+"Von den Wörtern ""Plakatwand"" und ""Iteration"", welches hat weniger Buchstaben? ","['Plakatwand', 'Iteration']",Iteration,"plakatwand"","
+"F: Welches Wort hat weniger Buchstaben, ""daran"" oder ""heut""? A:","['daran', 'heut']",heut,"heut"" oder """
+"F: Welches Wort ist kürzer, ""weinen"" oder ""unter""? A:","['weinen', 'unter']",unter,"unter"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""bald"" oder ""man""? A:","['bald', 'man']",man,"man"" oder ""sie"
+"Von den Wörtern ""Robbenfell"" und ""Verzichts"", welches hat weniger Buchstaben? ","['Robbenfell', 'Verzichts']",Verzichts,"verzichtslos""?"
+"Von den Wörtern ""Machtwort"" und ""Wachmänner"", welches hat weniger Buchstaben? ","['Machtwort', 'Wachmänner']",Machtwort,
+"F: Welches Wort hat weniger Buchstaben, ""ein"" oder ""im""? A:","['ein', 'im']",im,"imageunterricht"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""sind"" oder ""der""? A:","['sind', 'der']",der,"der himmel ist heute."""
+"F: Welches Wort hat weniger Buchstaben, ""sehr"" oder ""allen""? A:","['sehr', 'allen']",sehr,"sehr"" oder ""rot"
+"Von den Wörtern ""bedeutet"" und ""Bedeutung"", welches hat weniger Buchstaben? ","['bedeutet', 'Bedeutung']",bedeutet,
+"F: Welches Wort ist kürzer, ""Gebiss"" oder ""erzählt""? A:","['Gebiss', 'erzählt']",Gebiss,"gebiss"" oder """
+"Von den Wörtern ""Haarspitzen"" und ""Erinnerung"", welches hat weniger Buchstaben? ","['Haarspitzen', 'Erinnerung']",Erinnerung,erinnerunglichere
+"Von den Wörtern ""gemeinsam"" und ""entwickeln"", welches hat weniger Buchstaben? ","['gemeinsam', 'entwickeln']",gemeinsam,"gemeinsam"" oder """
+"F: Welches Wort ist kürzer, ""fragen"" oder ""würde""? A:","['fragen', 'würde']",würde,"würde"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""sehr""? A:","['der', 'sehr']",der,"der himmel ist heute."""
+"F: Welches Wort ist kürzer, ""weinen"" oder ""könnt""? A:","['weinen', 'könnt']",könnt,"könnt"" oder"
+"F: Welches Wort ist kürzer, ""sowie"" oder ""Bagger""? A:","['sowie', 'Bagger']",sowie,"sowie"" oder """
+"F: Welches Wort ist kürzer, ""völlig"" oder ""gedanke""? A:","['völlig', 'gedanke']",völlig,"völlig""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""dann"" oder ""daran""? A:","['dann', 'daran']",dann,"dann"" oder ""das"
+"Von den Wörtern ""Kombination"" und ""Robbenfell"", welches hat weniger Buchstaben? ","['Kombination', 'Robbenfell']",Robbenfell,robbenfellos
+"F: Welches Wort hat weniger Buchstaben, ""zeit"" oder ""der""? A:","['zeit', 'der']",der,"zeitlich"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""wurde"" oder ""will""? A:","['wurde', 'will']",will,"will"" oder ""war"
+"Von den Wörtern ""gemeinsam"" und ""irgendwo"", welches hat weniger Buchstaben? ","['gemeinsam', 'irgendwo']",irgendwo,"irgendwoieren"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""und"" oder ""nach""? A:","['und', 'nach']",und,und welches wort steht am
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""sich""? A:","['der', 'sich']",der,der himmel ist heute klar
+"F: Welches Wort ist kürzer, ""Anteil"" oder ""ungerne""? A:","['Anteil', 'ungerne']",Anteil,"anteillos""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""ab"" oder ""nun""? A:","['ab', 'nun']",ab,"nun"" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""es"" oder ""das""? A:","['es', 'das']",es,"esel"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ganz"" oder ""sie""? A:","['ganz', 'sie']",sie,sie schreibt eine e-
+"F: Welches Wort hat weniger Buchstaben, ""mehr"" oder ""unter""? A:","['mehr', 'unter']",mehr,"mehrere"", welches hat"
+"F: Welches Wort ist kürzer, ""bestens"" oder ""sehen ""? A:","['bestens', 'sehen ']",sehen ,"sehen "" oder ""nun"
+"F: Welches Wort ist kürzer, ""fragen"" oder ""mehrere""? A:","['fragen', 'mehrere']",fragen,"fragen jeden tag"" oder"
+"Von den Wörtern ""gasförmig"" und ""Fachbücher"", welches hat weniger Buchstaben? ","['gasförmig', 'Fachbücher']",gasförmig,"gasförmig"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""nun"" oder ""am""? A:","['nun', 'am']",am,"ameise"" oder """
+"Von den Wörtern ""Verbindung"" und ""verstehen"", welches hat weniger Buchstaben? ","['Verbindung', 'verstehen']",verstehen,"verstehen"", welches hat"
+"F: Welches Wort ist kürzer, ""laufen"" oder ""erzählt""? A:","['laufen', 'erzählt']",laufen,"laufen"" oder ""ich"
+"F: Welches Wort ist kürzer, ""besser"" oder ""dabei""? A:","['besser', 'dabei']",dabei,"dabei"" oder"
+"Von den Wörtern ""Verzichts"" und ""variabel"", welches hat weniger Buchstaben? ","['Verzichts', 'variabel']",variabel,"variabelung"""
+"F: Welches Wort hat weniger Buchstaben, ""ob"" oder ""das""? A:","['ob', 'das']",ob,das wort steht im satz
+"Von den Wörtern ""Robbenfell"" und ""gasförmig"", welches hat weniger Buchstaben? ","['Robbenfell', 'gasförmig']",gasförmig,"robbenfell"""
+"F: Welches Wort hat weniger Buchstaben, ""weg"" oder ""du""? A:","['weg', 'du']",du,"du"" oder ""du"
+"Von den Wörtern ""Gleichstand"" und ""Verhältnis"", welches hat weniger Buchstaben? ","['Gleichstand', 'Verhältnis']",Verhältnis,
+"F: Welches Wort ist kürzer, ""Gebiss"" oder ""anderen""? A:","['Gebiss', 'anderen']",Gebiss,"anderen""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""kann"" oder ""allen""? A:","['kann', 'allen']",kann,"kann"" oder ""nun"
+"Von den Wörtern ""Kreativen"" und ""Robbenfell"", welches hat weniger Buchstaben? ","['Kreativen', 'Robbenfell']",Kreativen,"kreativenlos"", welches"
+"F: Welches Wort ist kürzer, ""haben"" oder ""völlig""? A:","['haben', 'völlig']",haben,"völlig"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""daran"" oder ""nach""? A:","['daran', 'nach']",nach,"nach"" oder ""die"
+"F: Welches Wort hat weniger Buchstaben, ""bald"" oder ""nie""? A:","['bald', 'nie']",nie,
+"F: Welches Wort hat weniger Buchstaben, ""allen"" oder ""zeit""? A:","['allen', 'zeit']",zeit,"zeitlich"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ist"" oder ""ja""? A:","['ist', 'ja']",ja,jajajajaja
+"F: Welches Wort hat weniger Buchstaben, ""im"" oder ""all""? A:","['im', 'all']",im,"allalltag""? a"
+"F: Welches Wort ist kürzer, ""reden"" oder ""besser""? A:","['reden', 'besser']",reden,"reden"" oder ""ich"
+"F: Welches Wort ist kürzer, ""mulmig"" oder ""darüber""? A:","['mulmig', 'darüber']",mulmig,mulmigel
+"F: Welches Wort ist kürzer, ""brüllen"" oder ""einmal""? A:","['brüllen', 'einmal']",einmal,einmaltigations
+"F: Welches Wort ist kürzer, ""gewinnt"" oder ""sehen ""? A:","['gewinnt', 'sehen ']",sehen ,"sehen "" oder ""sie"
+"F: Welches Wort hat weniger Buchstaben, ""noch"" oder ""weg""? A:","['noch', 'weg']",weg,"weg mit dem wort """
+"F: Welches Wort ist kürzer, ""einfach"" oder ""bedeutet""? A:","['einfach', 'bedeutet']",einfach,einfacheinfachwissen
+"Von den Wörtern ""verlieren"" und ""entwickeln"", welches hat weniger Buchstaben? ","['verlieren', 'entwickeln']",verlieren,"verlorene"" oder"
+"Von den Wörtern ""Verzichts"" und ""Veranstalt"", welches hat weniger Buchstaben? ","['Verzichts', 'Veranstalt']",Verzichts,"verzichts"", welches"
+"F: Welches Wort ist kürzer, ""entsteht"" oder ""mehrere""? A:","['entsteht', 'mehrere']",mehrere,mehrere gerichte machen eine
+"F: Welches Wort hat weniger Buchstaben, ""da"" oder ""und""? A:","['da', 'und']",da,"daher"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""noch"" oder ""haben""? A:","['noch', 'haben']",noch,
+"Von den Wörtern ""geborene"" und ""idiotisch"", welches hat weniger Buchstaben? ","['geborene', 'idiotisch']",geborene,geborene hat mehr
+"Von den Wörtern ""Beweglich"" und ""Verteilung"", welches hat weniger Buchstaben? ","['Beweglich', 'Verteilung']",Beweglich,"beweglich"", welches hat"
+"Von den Wörtern ""offensiv"" und ""idiotisch"", welches hat weniger Buchstaben? ","['offensiv', 'idiotisch']",offensiv,idiotischistabel
+"Von den Wörtern ""Verhältnis"" und ""effizient"", welches hat weniger Buchstaben? ","['Verhältnis', 'effizient']",effizient,"effizient"", welches"
+"F: Welches Wort ist kürzer, ""Beispiel"" oder ""bestens""? A:","['Beispiel', 'bestens']",bestens,"bestensin"" oder"
+"F: Welches Wort ist kürzer, ""versucht"" oder ""gewinnt""? A:","['versucht', 'gewinnt']",gewinnt,"gewinnt"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""sowie"" oder ""muss""? A:","['sowie', 'muss']",muss,"sowie"" oder """
+"F: Welches Wort ist kürzer, ""bedeutet"" oder ""gewinnt""? A:","['bedeutet', 'gewinnt']",gewinnt,"gewinnt"" oder """
+"Von den Wörtern ""variabel"" und ""tüfteln"", welches hat weniger Buchstaben? ","['variabel', 'tüfteln']",tüfteln,"tüfteln""?"
+"F: Welches Wort hat weniger Buchstaben, ""du"" oder ""ein""? A:","['du', 'ein']",du,"duktion""? a:"
+"Von den Wörtern ""väterlich"" und ""Fachbücher"", welches hat weniger Buchstaben? ","['väterlich', 'Fachbücher']",väterlich,"väterlichere""?"
+"F: Welches Wort ist kürzer, ""Bagger"" oder ""darüber""? A:","['Bagger', 'darüber']",Bagger,"darüber""? a:"
+"Von den Wörtern ""unablässig"" und ""effizient"", welches hat weniger Buchstaben? ","['unablässig', 'effizient']",effizient,"effizient"" oder"
+"Von den Wörtern ""Tafelwasser"" und ""allerdings"", welches hat weniger Buchstaben? ","['Tafelwasser', 'allerdings']",allerdings,"allen"", welches hat weniger"
+"F: Welches Wort hat weniger Buchstaben, ""noch"" oder ""und""? A:","['noch', 'und']",und,und welches wort steht am
+"F: Welches Wort ist kürzer, ""wertlos"" oder ""mulmig""? A:","['wertlos', 'mulmig']",mulmig,"muss"" oder """
+"Von den Wörtern ""offizielle"" und ""gasförmig"", welches hat weniger Buchstaben? ","['offizielle', 'gasförmig']",gasförmig,"offizielle"", welches"
+"F: Welches Wort ist kürzer, ""mulmig"" oder ""lebende""? A:","['mulmig', 'lebende']",mulmig,"lebende""? a:"
+"F: Welches Wort ist kürzer, ""geborene"" oder ""ungerne""? A:","['geborene', 'ungerne']",ungerne,"ungerne"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ist"" oder ""sehr""? A:","['ist', 'sehr']",ist,"ist"" oder ""ist"
+"Von den Wörtern ""Erfahrung"" und ""Vereinigen"", welches hat weniger Buchstaben? ","['Erfahrung', 'Vereinigen']",Erfahrung,"erfahrung"", welches"
+"Von den Wörtern ""Verzichts"" und ""versucht"", welches hat weniger Buchstaben? ","['Verzichts', 'versucht']",versucht,
+"F: Welches Wort hat weniger Buchstaben, ""so"" oder ""nun""? A:","['so', 'nun']",so,nun ist sehr warm und
+"F: Welches Wort ist kürzer, ""verloren"" oder ""beenden""? A:","['verloren', 'beenden']",beenden,"beenden leistungen.""?"
+"Von den Wörtern ""tadellos"" und ""gasförmig"", welches hat weniger Buchstaben? ","['tadellos', 'gasförmig']",tadellos,"tadellos"""
+"F: Welches Wort hat weniger Buchstaben, ""im"" oder ""sie""? A:","['im', 'sie']",im,
+"F: Welches Wort hat weniger Buchstaben, ""unter"" oder ""auch""? A:","['unter', 'auch']",auch,auch in alphabetischer reihenfolge
+"F: Welches Wort ist kürzer, ""mehrere"" oder ""laufen""? A:","['mehrere', 'laufen']",laufen,mehrere gerichte machen eine
+"F: Welches Wort ist kürzer, ""würde"" oder ""graben""? A:","['würde', 'graben']",würde,"würde"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""diese"" oder ""ganz""? A:","['diese', 'ganz']",ganz,"diese"" oder ""hier"
+"F: Welches Wort ist kürzer, ""darüber"" oder ""variabel""? A:","['darüber', 'variabel']",darüber,"darüber"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""und"" oder ""zeit""? A:","['und', 'zeit']",und,"zeitlich"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""zu"" oder ""war""? A:","['zu', 'war']",zu,"zu kommt""? a:"
+"F: Welches Wort ist kürzer, ""graben"" oder ""wertlos""? A:","['graben', 'wertlos']",graben,"grabenesel"" oder"
+"Von den Wörtern ""Veranstalt"" und ""Haarspitzen"", welches hat weniger Buchstaben? ","['Veranstalt', 'Haarspitzen']",Veranstalt,"veranstalt"", welches hat"
+"F: Welches Wort hat weniger Buchstaben, ""all"" oder ""kann""? A:","['all', 'kann']",all,"ob"" oder ""das"
+"Von den Wörtern ""Täterprofil"" und ""Verhältnis"", welches hat weniger Buchstaben? ","['Täterprofil', 'Verhältnis']",Verhältnis,tüfteln im
+"Von den Wörtern ""Erfahrung"" und ""ehrenlos"", welches hat weniger Buchstaben? ","['Erfahrung', 'ehrenlos']",ehrenlos,"ehrenlos"", welches hat"
+"F: Welches Wort hat weniger Buchstaben, ""heut"" oder ""aus""? A:","['heut', 'aus']",aus,"aus dem wort ""ein"
+"Von den Wörtern ""blamabel"" und ""idiotisch"", welches hat weniger Buchstaben? ","['blamabel', 'idiotisch']",blamabel,blamabelunglos
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""am""? A:","['der', 'am']",am,"ameise"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""die"" oder ""erst""? A:","['die', 'erst']",die,"erst"" oder ""sie"
+"F: Welches Wort ist kürzer, ""tüfteln"" oder ""mulmig""? A:","['tüfteln', 'mulmig']",mulmig,"mulmig."""
+"F: Welches Wort ist kürzer, ""verloren"" oder ""pulvrig""? A:","['verloren', 'pulvrig']",pulvrig,"verlorene"" oder"
+"Von den Wörtern ""Mitarbeiter"" und ""Verbindung"", welches hat weniger Buchstaben? ","['Mitarbeiter', 'Verbindung']",Verbindung,
+"F: Welches Wort ist kürzer, ""beenden"" oder ""Bagger""? A:","['beenden', 'Bagger']",Bagger,"beenden leistungen"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""wenn"" oder ""unter""? A:","['wenn', 'unter']",wenn,"die kinder spielen fröhlich."""
+"F: Welches Wort ist kürzer, ""anderen"" oder ""Beispiel""? A:","['anderen', 'Beispiel']",anderen,"anderen""? a:"
+"F: Welches Wort ist kürzer, ""wissen"" oder ""reden""? A:","['wissen', 'reden']",reden,"reden"" oder ""ich"
+"Von den Wörtern ""Obduktion"" und ""tadellos"", welches hat weniger Buchstaben? ","['Obduktion', 'tadellos']",tadellos,"obduktion"" oder"
+"F: Welches Wort ist kürzer, ""brüllen"" oder ""offensiv""? A:","['brüllen', 'offensiv']",brüllen,"brüllenderen""?"
+"F: Welches Wort hat weniger Buchstaben, ""erst"" oder ""wurde""? A:","['erst', 'wurde']",erst,"wurde"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""haben"" oder ""kann""? A:","['haben', 'kann']",kann,"kann"" oder ""das"
+"F: Welches Wort hat weniger Buchstaben, ""waren"" oder ""viel""? A:","['waren', 'viel']",viel,"waren"" oder ""auch"
+"Von den Wörtern ""Kehlköpfe"" und ""Abschied"", welches hat weniger Buchstaben? ","['Kehlköpfe', 'Abschied']",Abschied,"kehlköpfe""?"
+"F: Welches Wort ist kürzer, ""nichts"" oder ""abholen""? A:","['nichts', 'abholen']",nichts,
+"F: Welches Wort ist kürzer, ""geborene"" oder ""wertlos""? A:","['geborene', 'wertlos']",wertlos,"wertlos""? a:"
+"F: Welches Wort ist kürzer, ""bekannte"" oder ""erzählt""? A:","['bekannte', 'erzählt']",erzählt,erzählt von den wör
+"F: Welches Wort hat weniger Buchstaben, ""viel"" oder ""reden""? A:","['viel', 'reden']",viel,"vielen"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ich"" oder ""sehr""? A:","['ich', 'sehr']",ich,ich koche heute abend
+"F: Welches Wort hat weniger Buchstaben, ""ab"" oder ""nie""? A:","['ab', 'nie']",ab,
+"F: Welches Wort ist kürzer, ""ungerne"" oder ""bekannte""? A:","['ungerne', 'bekannte']",ungerne,"ungerne"" oder """
+"F: Welches Wort ist kürzer, ""daher"" oder ""völlig""? A:","['daher', 'völlig']",daher,"daher"", a:"
+"Von den Wörtern ""verloren"" und ""verstehen"", welches hat weniger Buchstaben? ","['verloren', 'verstehen']",verloren,"verlorene"", welches"
+"Von den Wörtern ""väterlich"" und ""Veranstalt"", welches hat weniger Buchstaben? ","['väterlich', 'Veranstalt']",väterlich,"väterlich"", welches"
+"F: Welches Wort ist kürzer, ""pulvrig"" oder ""mulmig""? A:","['pulvrig', 'mulmig']",mulmig,mulmigel
+"Von den Wörtern ""Bedeutung"" und ""geborene"", welches hat weniger Buchstaben? ","['Bedeutung', 'geborene']",geborene,geborenektisch
+"Von den Wörtern ""Oligarchie"" und ""Iteration"", welches hat weniger Buchstaben? ","['Oligarchie', 'Iteration']",Iteration,"oligarchie"""
+"Von den Wörtern ""zwischen"" und ""Erfahrung"", welches hat weniger Buchstaben? ","['zwischen', 'Erfahrung']",zwischen,"erfahrung"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""mit"" oder ""hier""? A:","['mit', 'hier']",mit,"mitarbeiterinnen"" oder"
+"Von den Wörtern ""Beispiel"" und ""gemeinsam"", welches hat weniger Buchstaben? ","['Beispiel', 'gemeinsam']",Beispiel,"beispiel ""erinner"
+"Von den Wörtern ""idiotisch"" und ""bekannte"", welches hat weniger Buchstaben? ","['idiotisch', 'bekannte']",bekannte,
+"Von den Wörtern ""tüfteln"" und ""geborene"", welches hat weniger Buchstaben? ","['tüfteln', 'geborene']",tüfteln,"tüfteln"","
+"F: Welches Wort hat weniger Buchstaben, ""ja"" oder ""aus""? A:","['ja', 'aus']",ja,jajajajaja
+"F: Welches Wort ist kürzer, ""bestens"" oder ""blamabel""? A:","['bestens', 'blamabel']",bestens,"bestens"" oder """
+"Von den Wörtern ""Verteilung"" und ""Haarspitzen"", welches hat weniger Buchstaben? ","['Verteilung', 'Haarspitzen']",Verteilung,"verzichts"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""diese"" oder ""tragen""? A:","['diese', 'tragen']",diese,"diese"" oder ""auch"
+"Von den Wörtern ""beruflich"" und ""Beispiel"", welches hat weniger Buchstaben? ","['beruflich', 'Beispiel']",Beispiel,beruflichem wetterdienst
+"F: Welches Wort hat weniger Buchstaben, ""erst"" oder ""das""? A:","['erst', 'das']",das,"esel"" oder """
+"F: Welches Wort ist kürzer, ""gedanke"" oder ""blamabel""? A:","['gedanke', 'blamabel']",gedanke,"gedanke"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ein"" oder ""ab""? A:","['ein', 'ab']",ab,"abholen""? a:"
+"Von den Wörtern ""Verzichts"" und ""Verteilung"", welches hat weniger Buchstaben? ","['Verzichts', 'Verteilung']",Verzichts,"verteilung"" oder """
+"F: Welches Wort ist kürzer, ""tragen"" oder ""abholen""? A:","['tragen', 'abholen']",tragen,"tragengehende gerichte"""
+"Von den Wörtern ""Oligarchie"" und ""idiotisch"", welches hat weniger Buchstaben? ","['Oligarchie', 'idiotisch']",idiotisch,"idiotischist""?"
+"F: Welches Wort ist kürzer, ""geborene"" oder ""einfach""? A:","['geborene', 'einfach']",einfach,einfacheinfachwissen
+"F: Welches Wort ist kürzer, ""beweise"" oder ""tadellos""? A:","['beweise', 'tadellos']",beweise,"beweiselos"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""um"" oder ""ist""? A:","['um', 'ist']",um,"um"" oder ""ist"
+"F: Welches Wort hat weniger Buchstaben, ""war"" oder ""heut""? A:","['war', 'heut']",war,"heut"" oder """
+"F: Welches Wort ist kürzer, ""Beispiel"" oder ""ungerne""? A:","['Beispiel', 'ungerne']",ungerne,"ungerne"" oder """
+"F: Welches Wort ist kürzer, ""beweise"" oder ""Gebiss""? A:","['beweise', 'Gebiss']",Gebiss,"beweiselos""? a"
+"F: Welches Wort hat weniger Buchstaben, ""es"" oder ""ich""? A:","['es', 'ich']",es,"esel"" oder """
+"Von den Wörtern ""Erfahrung"" und ""Robbenfell"", welches hat weniger Buchstaben? ","['Erfahrung', 'Robbenfell']",Erfahrung,robbenfellos
+"Von den Wörtern ""gemeinsam"" und ""versucht"", welches hat weniger Buchstaben? ","['gemeinsam', 'versucht']",versucht,
+"F: Welches Wort hat weniger Buchstaben, ""bald"" oder ""weg""? A:","['bald', 'weg']",weg,"weg mit dem wort """
+"Von den Wörtern ""allerdings"" und ""Bevölkerung"", welches hat weniger Buchstaben? ","['allerdings', 'Bevölkerung']",allerdings,"bevölkerung"", welches hat weniger"
+"Von den Wörtern ""Verlusten"" und ""Fachbücher"", welches hat weniger Buchstaben? ","['Verlusten', 'Fachbücher']",Verlusten,"fachbücher"", welches hat"
+"F: Welches Wort ist kürzer, ""denken"" oder ""gewinnt""? A:","['denken', 'gewinnt']",denken,"denken an den""? a"
+"F: Welches Wort hat weniger Buchstaben, ""wenn"" oder ""reden""? A:","['wenn', 'reden']",wenn,"wenn"" oder ""das"
+"Von den Wörtern ""urzeitlich"" und ""Verzichts"", welches hat weniger Buchstaben? ","['urzeitlich', 'Verzichts']",Verzichts,"verzichtslos"","
+"F: Welches Wort ist kürzer, ""völlig"" oder ""reden""? A:","['völlig', 'reden']",reden,"reden"" oder ""im"
+"Von den Wörtern ""bedrohen"" und ""Bedeutung"", welches hat weniger Buchstaben? ","['bedrohen', 'Bedeutung']",bedrohen,"bedrohene""?"
+"F: Welches Wort ist kürzer, ""offensiv"" oder ""erzählt""? A:","['offensiv', 'erzählt']",erzählt,erzählt von den wör
+"F: Welches Wort hat weniger Buchstaben, ""heut"" oder ""weg""? A:","['heut', 'weg']",weg,weg kommt zuerst? a
+"F: Welches Wort ist kürzer, ""ungerne"" oder ""ehrenlos""? A:","['ungerne', 'ehrenlos']",ungerne,"ungerne"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""mehr"" oder ""man""? A:","['mehr', 'man']",man,"man"" oder ""sie"
+"Von den Wörtern ""Kreativen"" und ""unablässig"", welches hat weniger Buchstaben? ","['Kreativen', 'unablässig']",Kreativen,"unablässig"" oder"
+"F: Welches Wort ist kürzer, ""variabel"" oder ""bestens""? A:","['variabel', 'bestens']",bestens,"bestens"" oder """
+"Von den Wörtern ""Gleichstand"" und ""Oligarchie"", welches hat weniger Buchstaben? ","['Gleichstand', 'Oligarchie']",Oligarchie,"entstehunglos"","
+"F: Welches Wort hat weniger Buchstaben, ""ein"" oder ""er""? A:","['ein', 'er']",er,er schreibt eine e-
+"F: Welches Wort hat weniger Buchstaben, ""so"" oder ""rot""? A:","['so', 'rot']",so,"rot"" oder ""so"
+"F: Welches Wort hat weniger Buchstaben, ""ab"" oder ""weg""? A:","['ab', 'weg']",ab,"wegweg"" oder """
+"Von den Wörtern ""entsteht"" und ""verlieren"", welches hat weniger Buchstaben? ","['entsteht', 'verlieren']",entsteht,
+"F: Welches Wort ist kürzer, ""weinen"" oder ""lebende""? A:","['weinen', 'lebende']",weinen,"lebendemalung"""
+"F: Welches Wort ist kürzer, ""abholen"" oder ""Abschied""? A:","['abholen', 'Abschied']",abholen,"abholen""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""unter"" oder ""dann""? A:","['unter', 'dann']",dann,"dann"" oder ""dann"
+"F: Welches Wort ist kürzer, ""wurde"" oder ""einmal""? A:","['wurde', 'einmal']",wurde,einmaltigations
+"F: Welches Wort ist kürzer, ""darüber"" oder ""blamabel""? A:","['darüber', 'blamabel']",darüber,"darüber"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""man"" oder ""sich""? A:","['man', 'sich']",man,"man"" oder ""man"
+"F: Welches Wort ist kürzer, ""wurde"" oder ""besser""? A:","['wurde', 'besser']",wurde,"wurde"" oder """
+"Von den Wörtern ""Erinnerung"" und ""gemeinsam"", welches hat weniger Buchstaben? ","['Erinnerung', 'gemeinsam']",gemeinsam,"erinnerung"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""muss"" oder ""ein""? A:","['muss', 'ein']",ein,"einmalt""? a"
+"Von den Wörtern ""väterlich"" und ""entwickeln"", welches hat weniger Buchstaben? ","['väterlich', 'entwickeln']",väterlich,"väterlich"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""zeit"" oder ""reden""? A:","['zeit', 'reden']",zeit,"zeitlich"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""um"" oder ""nie""? A:","['um', 'nie']",um,"um"" oder ""nie"
+"F: Welches Wort ist kürzer, ""würde"" oder ""jemand""? A:","['würde', 'jemand']",würde,würde hat mehr buchstaben
+"F: Welches Wort ist kürzer, ""versucht"" oder ""brüllen""? A:","['versucht', 'brüllen']",brüllen,"brüllende""? a"
+"F: Welches Wort hat weniger Buchstaben, ""ob"" oder ""all""? A:","['ob', 'all']",ob,"allalltag""? a"
+"Von den Wörtern ""Kreativen"" und ""Entstehung"", welches hat weniger Buchstaben? ","['Kreativen', 'Entstehung']",Kreativen,"kreativenlos"", welches"
+"F: Welches Wort ist kürzer, ""irgendwo"" oder ""lebende""? A:","['irgendwo', 'lebende']",lebende,"lebende""? a:"
+"F: Welches Wort ist kürzer, ""Gebiss"" oder ""gewinnt""? A:","['Gebiss', 'gewinnt']",Gebiss,"gebiss"" oder """
+"Von den Wörtern ""irgendwo"" und ""Verzichts"", welches hat weniger Buchstaben? ","['irgendwo', 'Verzichts']",irgendwo,"irgendwoieren"" oder"
+"Von den Wörtern ""irgendwo"" und ""Iteration"", welches hat weniger Buchstaben? ","['irgendwo', 'Iteration']",irgendwo,"irgendwoieren"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""nun"" oder ""will""? A:","['nun', 'will']",nun,"will"" oder ""nun"
+"Von den Wörtern ""wirklich"" und ""beruflich"", welches hat weniger Buchstaben? ","['wirklich', 'beruflich']",wirklich,"beruflich"", welches hat"
+"Von den Wörtern ""bedeutet"" und ""Iteration"", welches hat weniger Buchstaben? ","['bedeutet', 'Iteration']",bedeutet,
+"F: Welches Wort ist kürzer, ""ehrenlos"" oder ""beenden""? A:","['ehrenlos', 'beenden']",beenden,"ehrenlos""? a:"
+"F: Welches Wort ist kürzer, ""bestens"" oder ""mulmig""? A:","['bestens', 'mulmig']",mulmig,mulmigel
+"Von den Wörtern ""Bedeutung"" und ""blamabel"", welches hat weniger Buchstaben? ","['Bedeutung', 'blamabel']",blamabel,"bedeutunglich"""
+"F: Welches Wort hat weniger Buchstaben, ""dabei"" oder ""muss""? A:","['dabei', 'muss']",muss,"muss"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""zu""? A:","['der', 'zu']",zu,"zufrieden""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""an"" oder ""weg""? A:","['an', 'weg']",an,"an den wörtern """
+"F: Welches Wort hat weniger Buchstaben, ""erst"" oder ""ist""? A:","['erst', 'ist']",ist,"ist"" oder ""ist"
+"F: Welches Wort ist kürzer, ""wertlos"" oder ""blamabel""? A:","['wertlos', 'blamabel']",wertlos,"wertlos""? a:"
+"Von den Wörtern ""wirklich"" und ""Iteration"", welches hat weniger Buchstaben? ","['wirklich', 'Iteration']",wirklich,"iterationlichere"""
+"F: Welches Wort ist kürzer, ""Bagger"" oder ""wertlos""? A:","['Bagger', 'wertlos']",Bagger,"wertlos""? a:"
+"F: Welches Wort ist kürzer, ""mehrere"" oder ""meinen""? A:","['mehrere', 'meinen']",meinen,"mehrere""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""unter"" oder ""will""? A:","['unter', 'will']",will,"will"" oder ""ich"
+"Von den Wörtern ""Entstehung"" und ""Erforschung"", welches hat weniger Buchstaben? ","['Entstehung', 'Erforschung']",Entstehung,"erfahrung"", welches"
+"F: Welches Wort ist kürzer, ""tüfteln"" oder ""sollen""? A:","['tüfteln', 'sollen']",sollen,sollen? a:
+"F: Welches Wort hat weniger Buchstaben, ""viel"" oder ""mit""? A:","['viel', 'mit']",mit,"vielen""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""neu"" oder ""er""? A:","['neu', 'er']",er,"er"" oder ""neu"
+"Von den Wörtern ""Beweglich"" und ""zwischen"", welches hat weniger Buchstaben? ","['Beweglich', 'zwischen']",zwischen,zwischenhervorausblick
+"F: Welches Wort ist kürzer, ""Anteil"" oder ""wurde""? A:","['Anteil', 'wurde']",wurde,"wurde"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""zu"" oder ""mit""? A:","['zu', 'mit']",zu,"zufrieden"" oder """
+"F: Welches Wort ist kürzer, ""gewinnt"" oder ""wissen""? A:","['gewinnt', 'wissen']",wissen,"wissendabei"""
+"F: Welches Wort ist kürzer, ""entsteht"" oder ""gewinnt""? A:","['entsteht', 'gewinnt']",gewinnt,"gewinnt"" oder """
+"Von den Wörtern ""Plakatwand"" und ""Bedeutung"", welches hat weniger Buchstaben? ","['Plakatwand', 'Bedeutung']",Bedeutung,"plakatwand"","
+"F: Welches Wort hat weniger Buchstaben, ""nun"" oder ""um""? A:","['nun', 'um']",um,"ameise"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""nie"" oder ""wenn""? A:","['nie', 'wenn']",nie,"niemand"" oder """
+"F: Welches Wort ist kürzer, ""mulmig"" oder ""daher""? A:","['mulmig', 'daher']",daher,"muss"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""muss"" oder ""nun""? A:","['muss', 'nun']",nun,"nun ist sehr warm."""
+"F: Welches Wort ist kürzer, ""blamabel"" oder ""solches""? A:","['blamabel', 'solches']",solches,"solches"" oder"
+"Von den Wörtern ""Verhältnis"" und ""Machtwort"", welches hat weniger Buchstaben? ","['Verhältnis', 'Machtwort']",Machtwort,"verhältnisfragen"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""bald"" oder ""waren""? A:","['bald', 'waren']",bald,"bald"" oder ""die"
+"Von den Wörtern ""Kehlköpfe"" und ""urzeitlich"", welches hat weniger Buchstaben? ","['Kehlköpfe', 'urzeitlich']",Kehlköpfe,"kehlköpfe""?"
+"F: Welches Wort hat weniger Buchstaben, ""sind"" oder ""reden""? A:","['sind', 'reden']",sind,"sind"" oder ""ist"
+"Von den Wörtern ""gespürt"" und ""geborene"", welches hat weniger Buchstaben? ","['gespürt', 'geborene']",gespürt,"geborene und """
+"F: Welches Wort ist kürzer, ""irgendwo"" oder ""gedanke""? A:","['irgendwo', 'gedanke']",gedanke,"gedanke"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""die"" oder ""du""? A:","['die', 'du']",du,"duktion"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""mehr"" oder ""mit""? A:","['mehr', 'mit']",mit,"mitarbeiterinnen""? a"
+"F: Welches Wort ist kürzer, ""besser"" oder ""daran""? A:","['besser', 'daran']",daran,"darüber""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""aus"" oder ""kann""? A:","['aus', 'kann']",aus,"aus dem wort ""aus"
+"F: Welches Wort hat weniger Buchstaben, ""unter"" oder ""erst""? A:","['unter', 'erst']",erst,"unter"" oder ""und"
+"Von den Wörtern ""verstehen"" und ""Verteilung"", welches hat weniger Buchstaben? ","['verstehen', 'Verteilung']",verstehen,"verstehen"", welches hat"
+"F: Welches Wort ist kürzer, ""graben"" oder ""unter""? A:","['graben', 'unter']",unter,"unter"" oder ""und"
+"F: Welches Wort ist kürzer, ""anderen"" oder ""Anteil""? A:","['anderen', 'Anteil']",Anteil,"anderen""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""ehe"" oder ""so""? A:","['ehe', 'so']",so,"ehe"" oder ""ja"
+"F: Welches Wort ist kürzer, ""weinen"" oder ""dabei""? A:","['weinen', 'dabei']",dabei,"dabei"" oder"
+"Von den Wörtern ""allerdings"" und ""Verlusten"", welches hat weniger Buchstaben? ","['allerdings', 'Verlusten']",Verlusten,"verlorene"", welches"
+"Von den Wörtern ""Vorausblick"" und ""Robbenfell"", welches hat weniger Buchstaben? ","['Vorausblick', 'Robbenfell']",Robbenfell,"robbenfell"""
+"F: Welches Wort ist kürzer, ""darüber"" oder ""namenlos""? A:","['darüber', 'namenlos']",darüber,"darüber""? a:"
+"Von den Wörtern ""Kreativen"" und ""Erinnerung"", welches hat weniger Buchstaben? ","['Kreativen', 'Erinnerung']",Kreativen,"erinnerung"" oder"
+"Von den Wörtern ""variabel"" und ""Kehlköpfe"", welches hat weniger Buchstaben? ","['variabel', 'Kehlköpfe']",variabel,"väterlichere"""
+"Von den Wörtern ""Beispiel"" und ""gasförmig"", welches hat weniger Buchstaben? ","['Beispiel', 'gasförmig']",Beispiel,"gasförmig"" oder """
+"F: Welches Wort ist kürzer, ""meinen"" oder ""beenden""? A:","['meinen', 'beenden']",meinen,"meinenmalt"""
+"F: Welches Wort ist kürzer, ""darüber"" oder ""völlig""? A:","['darüber', 'völlig']",völlig,"darüber""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""so"" oder ""los""? A:","['so', 'los']",so,"los"" oder ""so"
+"F: Welches Wort ist kürzer, ""folgen"" oder ""unter""? A:","['folgen', 'unter']",unter,"aus dem wort ""geb"
+"F: Welches Wort hat weniger Buchstaben, ""ehe"" oder ""sich""? A:","['ehe', 'sich']",ehe,"ehe"" oder ""ja"
+"Von den Wörtern ""tadellos"" und ""Beweglich"", welches hat weniger Buchstaben? ","['tadellos', 'Beweglich']",tadellos,"tadellos"""
+"Von den Wörtern ""Vereinigen"" und ""väterlich"", welches hat weniger Buchstaben? ","['Vereinigen', 'väterlich']",väterlich,"vereinigend"", welches"
+"Von den Wörtern ""verlieren"" und ""Verbindung"", welches hat weniger Buchstaben? ","['verlieren', 'Verbindung']",verlieren,"verloren"", welches hat"
+"Von den Wörtern ""Wachmänner"" und ""Iteration"", welches hat weniger Buchstaben? ","['Wachmänner', 'Iteration']",Iteration,"wachmänner"", welches hat"
+"F: Welches Wort hat weniger Buchstaben, ""man"" oder ""lang""? A:","['man', 'lang']",man,"man"" oder ""man"
+"F: Welches Wort ist kürzer, ""darüber"" oder ""irgendwo""? A:","['darüber', 'irgendwo']",darüber,"darüber"" oder """
+"F: Welches Wort ist kürzer, ""folgen"" oder ""daher""? A:","['folgen', 'daher']",daher,"daher"", welches hat"
+"Von den Wörtern ""offensiv"" und ""Kreativen"", welches hat weniger Buchstaben? ","['offensiv', 'Kreativen']",offensiv,"offensiv"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""weg"" oder ""ganz""? A:","['weg', 'ganz']",weg,weg mit welchem buchstaben beginnt
+"F: Welches Wort ist kürzer, ""laufen"" oder ""dabei""? A:","['laufen', 'dabei']",dabei,"laufen"" oder ""sie"
+"F: Welches Wort ist kürzer, ""dabei"" oder ""völlig""? A:","['dabei', 'völlig']",dabei,"dabei"" oder"
+"Von den Wörtern ""Gleichstand"" und ""Verteilung"", welches hat weniger Buchstaben? ","['Gleichstand', 'Verteilung']",Verteilung,"verteilung"" oder """
+"F: Welches Wort ist kürzer, ""sehen "" oder ""nicht""? A:","['sehen ', 'nicht']",nicht,"nicht"" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""sich"" oder ""daran""? A:","['sich', 'daran']",sich,"sich"" oder ""und"
+"F: Welches Wort hat weniger Buchstaben, ""und"" oder ""so""? A:","['und', 'so']",so,und welches wort steht am
+"F: Welches Wort ist kürzer, ""fragen"" oder ""brüllen""? A:","['fragen', 'brüllen']",fragen,
+"F: Welches Wort hat weniger Buchstaben, ""diese"" oder ""Gebiss""? A:","['diese', 'Gebiss']",diese,"diese"" oder ""das"
+"F: Welches Wort hat weniger Buchstaben, ""zeit"" oder ""man""? A:","['zeit', 'man']",man,"man"" oder ""sie"
+"F: Welches Wort hat weniger Buchstaben, ""daran"" oder ""zeit""? A:","['daran', 'zeit']",zeit,"zeitlich"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""haben"" oder ""laufen""? A:","['haben', 'laufen']",haben,"haben"" oder ""sie"
+"F: Welches Wort ist kürzer, ""gezeigt"" oder ""geborene""? A:","['gezeigt', 'geborene']",gezeigt,"gezeigt"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""aus"" oder ""an""? A:","['aus', 'an']",an,"an"" oder ""und"
+"Von den Wörtern ""Kombination"" und ""Erinnerung"", welches hat weniger Buchstaben? ","['Kombination', 'Erinnerung']",Erinnerung,"erinnerung"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""mehr"" oder ""ich""? A:","['mehr', 'ich']",ich,ich koche heute abend
+"F: Welches Wort hat weniger Buchstaben, ""zeit"" oder ""all""? A:","['zeit', 'all']",all,"allalltag""? a"
+"Von den Wörtern ""Robbenfell"" und ""idiotisch"", welches hat weniger Buchstaben? ","['Robbenfell', 'idiotisch']",idiotisch,robbenfellos
+"Von den Wörtern ""Verzichts"" und ""unablässig"", welches hat weniger Buchstaben? ","['Verzichts', 'unablässig']",Verzichts,"unablässig"" oder"
+"F: Welches Wort ist kürzer, ""nichts"" oder ""gespürt""? A:","['nichts', 'gespürt']",nichts,
+"F: Welches Wort ist kürzer, ""sehen "" oder ""gezeigt""? A:","['sehen ', 'gezeigt']",sehen ,"sehen "" oder ""nun"
+"F: Welches Wort ist kürzer, ""pulvrig"" oder ""variabel""? A:","['pulvrig', 'variabel']",pulvrig,"pulvrig"" oder"
+"Von den Wörtern ""unablässig"" und ""Polarität"", welches hat weniger Buchstaben? ","['unablässig', 'Polarität']",Polarität,"unablässig"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""will"" oder ""waren""? A:","['will', 'waren']",will,"will"" oder ""die"
+"Von den Wörtern ""beruflich"" und ""Plakatwand"", welches hat weniger Buchstaben? ","['beruflich', 'Plakatwand']",beruflich,"beruflich"", welches hat"
+"Von den Wörtern ""Robbenfell"" und ""Machtwort"", welches hat weniger Buchstaben? ","['Robbenfell', 'Machtwort']",Machtwort,robbenfellos
+"F: Welches Wort hat weniger Buchstaben, ""ist"" oder ""nach""? A:","['ist', 'nach']",ist,"ist"" oder ""ist"
+"F: Welches Wort hat weniger Buchstaben, ""ich"" oder ""ganz""? A:","['ich', 'ganz']",ich,
+"F: Welches Wort ist kürzer, ""waren"" oder ""Anteil""? A:","['waren', 'Anteil']",waren,"waren"" oder ""auch"
+"F: Welches Wort hat weniger Buchstaben, ""es"" oder ""war""? A:","['es', 'war']",es,"esel"" oder """
+"F: Welches Wort ist kürzer, ""fragen"" oder ""beenden""? A:","['fragen', 'beenden']",fragen,"fragensehen "" oder """
+"Von den Wörtern ""Verlusten"" und ""Entstehung"", welches hat weniger Buchstaben? ","['Verlusten', 'Entstehung']",Verlusten,"verlusten"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""los"" oder ""noch""? A:","['los', 'noch']",los,"los"" oder ""und"
+"F: Welches Wort ist kürzer, ""solches"" oder ""wissen""? A:","['solches', 'wissen']",wissen,"wissend.""? a"
+"F: Welches Wort ist kürzer, ""anderen"" oder ""meinen""? A:","['anderen', 'meinen']",meinen,"anderen""? a:"
+"F: Welches Wort ist kürzer, ""meinen"" oder ""gezeigt""? A:","['meinen', 'gezeigt']",meinen,"meinenmal"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""und"" oder ""dann""? A:","['und', 'dann']",und,"dann"" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""und"" oder ""bald""? A:","['und', 'bald']",und,"bald ist kürzer, welches"
+"F: Welches Wort ist kürzer, ""nichts"" oder ""tüfteln""? A:","['nichts', 'tüfteln']",nichts,"nichts"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""hier"" oder ""rot""? A:","['hier', 'rot']",rot,"rot"" oder ""rot"
+"Von den Wörtern ""bedrohen"" und ""Jobcenter"", welches hat weniger Buchstaben? ","['bedrohen', 'Jobcenter']",bedrohen,"jobcenter"" oder """
+"F: Welches Wort ist kürzer, ""folgen"" oder ""gespürt""? A:","['folgen', 'gespürt']",folgen,"folgen""? a:"
+"Von den Wörtern ""Beispiel"" und ""Bedeutung"", welches hat weniger Buchstaben? ","['Beispiel', 'Bedeutung']",Beispiel,"bedeutunglich"""
+"F: Welches Wort hat weniger Buchstaben, ""war"" oder ""mehr""? A:","['war', 'mehr']",war,"war"" oder ""sie"
+"Von den Wörtern ""tabuisieren"" und ""Wachmänner"", welches hat weniger Buchstaben? ","['tabuisieren', 'Wachmänner']",Wachmänner,
+"F: Welches Wort ist kürzer, ""gewinnt"" oder ""ehrenlos""? A:","['gewinnt', 'ehrenlos']",gewinnt,"gewinnt""? a:"
+"F: Welches Wort ist kürzer, ""tragen"" oder ""beweise""? A:","['tragen', 'beweise']",tragen,tragengehende laternen für
+"F: Welches Wort ist kürzer, ""sollen"" oder ""daran""? A:","['sollen', 'daran']",daran,"sollen.""? a"
+"F: Welches Wort hat weniger Buchstaben, ""neu"" oder ""lang""? A:","['neu', 'lang']",neu,"neues"" oder """
+"Von den Wörtern ""variabel"" und ""Jobcenter"", welches hat weniger Buchstaben? ","['variabel', 'Jobcenter']",variabel,"variabelung"""
+"Von den Wörtern ""gespürt"" und ""entsteht"", welches hat weniger Buchstaben? ","['gespürt', 'entsteht']",gespürt,
+"F: Welches Wort ist kürzer, ""anderen"" oder ""völlig""? A:","['anderen', 'völlig']",völlig,"völlig""? a:"
+"F: Welches Wort ist kürzer, ""solches"" oder ""graben""? A:","['solches', 'graben']",graben,"grabenesel"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""in"" oder ""neu""? A:","['in', 'neu']",in,"input"" oder """
+"Von den Wörtern ""blamabel"" und ""gemeinsam"", welches hat weniger Buchstaben? ","['blamabel', 'gemeinsam']",blamabel,blamabelunglos
+"Von den Wörtern ""Oligarchie"" und ""Erfahrung"", welches hat weniger Buchstaben? ","['Oligarchie', 'Erfahrung']",Erfahrung,"erfahrung"", welches"
+"Von den Wörtern ""versucht"" und ""Beweglich"", welches hat weniger Buchstaben? ","['versucht', 'Beweglich']",versucht,
+"F: Welches Wort hat weniger Buchstaben, ""kann"" oder ""diese""? A:","['kann', 'diese']",kann,"diese"" oder ""das"
+"F: Welches Wort ist kürzer, ""mulmig"" oder ""allen""? A:","['mulmig', 'allen']",allen,"allen"" oder ""allen"
+"F: Welches Wort ist kürzer, ""gedanke"" oder ""entsteht""? A:","['gedanke', 'entsteht']",gedanke,"gedanke"" oder """
+"F: Welches Wort ist kürzer, ""nicht"" oder ""wissen""? A:","['nicht', 'wissen']",nicht,"wissend"" oder """
+"F: Welches Wort ist kürzer, ""dabei"" oder ""sehen ""? A:","['dabei', 'sehen ']",dabei,"sehen "" oder ""nun"
+"Von den Wörtern ""Bevölkerung"" und ""Robbenfell"", welches hat weniger Buchstaben? ","['Bevölkerung', 'Robbenfell']",Robbenfell,
+"Von den Wörtern ""geborene"" und ""Beweglich"", welches hat weniger Buchstaben? ","['geborene', 'Beweglich']",geborene,"geborene"" oder"
+"F: Welches Wort ist kürzer, ""Gebiss"" oder ""wertlos""? A:","['Gebiss', 'wertlos']",Gebiss,"wertlos""? a:"
+"Von den Wörtern ""geborene"" und ""Jobcenter"", welches hat weniger Buchstaben? ","['geborene', 'Jobcenter']",geborene,geborene hat mehr
+"F: Welches Wort ist kürzer, ""mehrere"" oder ""sollen""? A:","['mehrere', 'sollen']",sollen,"mehrere""? a:"
+"Von den Wörtern ""Entstehung"" und ""väterlich"", welches hat weniger Buchstaben? ","['Entstehung', 'väterlich']",väterlich,"väterlichere"""
+"F: Welches Wort hat weniger Buchstaben, ""das"" oder ""mehr""? A:","['das', 'mehr']",das,das wort steht im satz
+"F: Welches Wort ist kürzer, ""dabei"" oder ""graben""? A:","['dabei', 'graben']",dabei,"grabenesel"" oder"
+"Von den Wörtern ""Bedeutung"" und ""urzeitlich"", welches hat weniger Buchstaben? ","['Bedeutung', 'urzeitlich']",Bedeutung,"bedeutung"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""war"" oder ""viel""? A:","['war', 'viel']",war,"war"" oder ""war"
+"F: Welches Wort ist kürzer, ""einfach"" oder ""einmal""? A:","['einfach', 'einmal']",einmal,"einmalt""? a"
+"Von den Wörtern ""Verlusten"" und ""entwickeln"", welches hat weniger Buchstaben? ","['Verlusten', 'entwickeln']",Verlusten,"verlorene"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""ehe"" oder ""erst""? A:","['ehe', 'erst']",ehe,"ehe"" oder ""nun"
+"F: Welches Wort ist kürzer, ""meinen"" oder ""solches""? A:","['meinen', 'solches']",meinen,"solches"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""ist"" oder ""zeit""? A:","['ist', 'zeit']",ist,"ist"" oder ""ist"
+"F: Welches Wort ist kürzer, ""daher"" oder ""einmal""? A:","['daher', 'einmal']",daher,"daher"" oder """
+"Von den Wörtern ""Wunderkind"" und ""Kehlköpfe"", welches hat weniger Buchstaben? ","['Wunderkind', 'Kehlköpfe']",Kehlköpfe,"kehlköpfe""?"
+"F: Welches Wort hat weniger Buchstaben, ""mit"" oder ""da""? A:","['mit', 'da']",da,"mit"" oder ""die"
+"Von den Wörtern ""zwischen"" und ""gespürt"", welches hat weniger Buchstaben? ","['zwischen', 'gespürt']",gespürt,zwischenhervorausblick
+"Von den Wörtern ""Verlusten"" und ""Wachmänner"", welches hat weniger Buchstaben? ","['Verlusten', 'Wachmänner']",Verlusten,
+"F: Welches Wort hat weniger Buchstaben, ""die"" oder ""sich""? A:","['die', 'sich']",die,die kinder basteln bunte laternen
+"Von den Wörtern ""Robbenfell"" und ""Beweglich"", welches hat weniger Buchstaben? ","['Robbenfell', 'Beweglich']",Beweglich,robbenfellos
+"F: Welches Wort hat weniger Buchstaben, ""dabei"" oder ""zeit""? A:","['dabei', 'zeit']",zeit,"zeitlich"" oder """
+"Von den Wörtern ""Wachmänner"" und ""Fachbegriff"", welches hat weniger Buchstaben? ","['Wachmänner', 'Fachbegriff']",Wachmänner,wachmänner im park spielen
+"F: Welches Wort ist kürzer, ""brüllen"" oder ""besser""? A:","['brüllen', 'besser']",besser,"brüllende""? a"
+"Von den Wörtern ""Kombination"" und ""Plakatwand"", welches hat weniger Buchstaben? ","['Kombination', 'Plakatwand']",Plakatwand,"plakatwand"","
+"Von den Wörtern ""bekannte"" und ""beruflich"", welches hat weniger Buchstaben? ","['bekannte', 'beruflich']",bekannte,beruflichem wetterzeit
+"F: Welches Wort ist kürzer, ""bedrohen"" oder ""gedanke""? A:","['bedrohen', 'gedanke']",gedanke,"bestens.""? a"
+"F: Welches Wort hat weniger Buchstaben, ""diese"" oder ""auch""? A:","['diese', 'auch']",auch,auch in alphabetischer reihenfolge
+"F: Welches Wort hat weniger Buchstaben, ""mehr"" oder ""nicht""? A:","['mehr', 'nicht']",mehr,"mehrere""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""will"" oder ""reden""? A:","['will', 'reden']",will,"will"" oder ""ich"
+"F: Welches Wort ist kürzer, ""wertlos"" oder ""entsteht""? A:","['wertlos', 'entsteht']",wertlos,"wertlos""? a:"
+"F: Welches Wort ist kürzer, ""gedanke"" oder ""besser""? A:","['gedanke', 'besser']",besser,"besser""? a:"
+"F: Welches Wort ist kürzer, ""beweise"" oder ""geborene""? A:","['beweise', 'geborene']",beweise,"beweiselos""? a"
+"Von den Wörtern ""namenlos"" und ""Verlusten"", welches hat weniger Buchstaben? ","['namenlos', 'Verlusten']",namenlos,"verlorene"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""ich"" oder ""bald""? A:","['ich', 'bald']",ich,ich koche heute abend
+"F: Welches Wort hat weniger Buchstaben, ""dann"" oder ""nun""? A:","['dann', 'nun']",nun,"nun"" oder ""nun"
+"F: Welches Wort ist kürzer, ""ungerne"" oder ""bedeutet""? A:","['ungerne', 'bedeutet']",ungerne,"ungerne"" oder """
+"F: Welches Wort ist kürzer, ""versucht"" oder ""anderen""? A:","['versucht', 'anderen']",anderen,"anderen""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""es"" oder ""aus""? A:","['es', 'aus']",es,"aus dem wort ""am"
+"F: Welches Wort ist kürzer, ""erzählt"" oder ""Beispiel""? A:","['erzählt', 'Beispiel']",erzählt,"erzählttlich"" oder"
+"F: Welches Wort ist kürzer, ""würde"" oder ""laufen""? A:","['würde', 'laufen']",würde,"laufen"" oder ""ich"
+"F: Welches Wort ist kürzer, ""denken"" oder ""tüfteln""? A:","['denken', 'tüfteln']",denken,denken an den wörtern
+"F: Welches Wort hat weniger Buchstaben, ""nie"" oder ""im""? A:","['nie', 'im']",im,imageunterricht viele tiere
+"F: Welches Wort ist kürzer, ""laufen"" oder ""wertlos""? A:","['laufen', 'wertlos']",laufen,"laufentele"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""rot"" oder ""zeit""? A:","['rot', 'zeit']",rot,"rot"" oder ""rot"
+"Von den Wörtern ""Jobcenter"" und ""tadellos"", welches hat weniger Buchstaben? ","['Jobcenter', 'tadellos']",tadellos,"tadellos"""
+"F: Welches Wort hat weniger Buchstaben, ""nicht"" oder ""heut""? A:","['nicht', 'heut']",heut,
+"F: Welches Wort hat weniger Buchstaben, ""will"" oder ""nicht""? A:","['will', 'nicht']",will,"will"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""die"" oder ""sind""? A:","['die', 'sind']",die,die kinder spielen fröhlich im
+"Von den Wörtern ""Obduktion"" und ""Verteilung"", welches hat weniger Buchstaben? ","['Obduktion', 'Verteilung']",Obduktion,"obduktion"" oder"
+"F: Welches Wort ist kürzer, ""entsteht"" oder ""solches""? A:","['entsteht', 'solches']",solches,"solches"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""sehr"" oder ""wurde""? A:","['sehr', 'wurde']",sehr,"sehr"" oder ""war"
+"F: Welches Wort hat weniger Buchstaben, ""nach"" oder ""nie""? A:","['nach', 'nie']",nie,
+"F: Welches Wort ist kürzer, ""daran"" oder ""weinen""? A:","['daran', 'weinen']",daran,"darüber""? a:"
+"Von den Wörtern ""Kehlköpfe"" und ""entsteht"", welches hat weniger Buchstaben? ","['Kehlköpfe', 'entsteht']",entsteht,"kehlköpfe""?"
+"F: Welches Wort ist kürzer, ""solches"" oder ""Abschied""? A:","['solches', 'Abschied']",solches,"solches"" oder"
+"F: Welches Wort ist kürzer, ""waren"" oder ""denken""? A:","['waren', 'denken']",waren,"waren"" oder ""auch"
+"F: Welches Wort ist kürzer, ""lebende"" oder ""denken""? A:","['lebende', 'denken']",denken,"denken an den""? a"
+"Von den Wörtern ""gasförmig"" und ""variabel"", welches hat weniger Buchstaben? ","['gasförmig', 'variabel']",variabel,"gasförmig"" oder """
+"F: Welches Wort ist kürzer, ""solches"" oder ""sehen ""? A:","['solches', 'sehen ']",sehen ,"sehen "" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""nun"" oder ""bald""? A:","['nun', 'bald']",nun,"bald"" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""erst"" oder ""war""? A:","['erst', 'war']",war,"war"" oder ""war"
+"F: Welches Wort hat weniger Buchstaben, ""sich"" oder ""könnt""? A:","['sich', 'könnt']",sich,"sich"" oder ""sich"
+"Von den Wörtern ""Fachbegriff"" und ""Entstehung"", welches hat weniger Buchstaben? ","['Fachbegriff', 'Entstehung']",Entstehung,
+"F: Welches Wort hat weniger Buchstaben, ""würde"" oder ""ganz""? A:","['würde', 'ganz']",ganz,"ganz"" oder ""und"
+"Von den Wörtern ""Entstehung"" und ""Kombination"", welches hat weniger Buchstaben? ","['Entstehung', 'Kombination']",Entstehung,"entstehunglos"","
+"F: Welches Wort ist kürzer, ""lebende"" oder ""meinen""? A:","['lebende', 'meinen']",meinen,"lebendemalung"""
+"Von den Wörtern ""verlieren"" und ""Veranstalt"", welches hat weniger Buchstaben? ","['verlieren', 'Veranstalt']",verlieren,"verlorene"", welches"
+"Von den Wörtern ""Erfahrung"" und ""Verbindung"", welches hat weniger Buchstaben? ","['Erfahrung', 'Verbindung']",Erfahrung,"erfahrung"", welches"
+"F: Welches Wort ist kürzer, ""gespürt"" oder ""fragen""? A:","['gespürt', 'fragen']",fragen,
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""er""? A:","['der', 'er']",er,er schreibt eine e-
+"Von den Wörtern ""Oligarchie"" und ""verlieren"", welches hat weniger Buchstaben? ","['Oligarchie', 'verlieren']",verlieren,"verloren"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""wurde"" oder ""sind""? A:","['wurde', 'sind']",sind,"sind"" oder ""sind"
+"Von den Wörtern ""beruflich"" und ""tadellos"", welches hat weniger Buchstaben? ","['beruflich', 'tadellos']",tadellos,"tadellos"""
+"F: Welches Wort ist kürzer, ""tragen"" oder ""ungerne""? A:","['tragen', 'ungerne']",tragen,"tragen"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""die"" oder ""ganz""? A:","['die', 'ganz']",die,die kinder spielen fröhlich im
+"F: Welches Wort ist kürzer, ""meinen"" oder ""gewinnt""? A:","['meinen', 'gewinnt']",meinen,"gewinnt"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""war"" oder ""in""? A:","['war', 'in']",in,"in"" oder ""war"
+"F: Welches Wort hat weniger Buchstaben, ""will"" oder ""all""? A:","['will', 'all']",all,"allalltag""? a"
+"F: Welches Wort ist kürzer, ""beenden"" oder ""besser""? A:","['beenden', 'besser']",besser,"beendend""? a"
+"F: Welches Wort ist kürzer, ""gedanke"" oder ""nichts""? A:","['gedanke', 'nichts']",nichts,"nichts"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""all"" oder ""da""? A:","['all', 'da']",da,"daher kommt zuerst""?"
+"F: Welches Wort ist kürzer, ""sehen "" oder ""ungerne""? A:","['sehen ', 'ungerne']",sehen ,"sehen "" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""ist"" oder ""hier""? A:","['ist', 'hier']",ist,"ist"" oder ""ist"
+"F: Welches Wort hat weniger Buchstaben, ""rot"" oder ""ob""? A:","['rot', 'ob']",ob,"rot"" oder ""rot"
+"Von den Wörtern ""blamabel"" und ""Obduktion"", welches hat weniger Buchstaben? ","['blamabel', 'Obduktion']",blamabel,blamabelunglos
+"F: Welches Wort ist kürzer, ""Anteil"" oder ""mehrere""? A:","['Anteil', 'mehrere']",Anteil,mehrere gerichte brauchen täglich
+"F: Welches Wort ist kürzer, ""unter"" oder ""meinen""? A:","['unter', 'meinen']",unter,"unter"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""waren"" oder ""wenn""? A:","['waren', 'wenn']",wenn,"wenn annichts"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""sehr"" oder ""nicht""? A:","['sehr', 'nicht']",sehr,"sehr"" oder ""das"
+"F: Welches Wort hat weniger Buchstaben, ""haben"" oder ""sind""? A:","['haben', 'sind']",sind,"sind"" oder ""sind"
+"F: Welches Wort hat weniger Buchstaben, ""lang"" oder ""ich""? A:","['lang', 'ich']",ich,ich koche heute abend
+"F: Welches Wort hat weniger Buchstaben, ""war"" oder ""dann""? A:","['war', 'dann']",war,"war"" oder ""sie"
+"F: Welches Wort hat weniger Buchstaben, ""wenn"" oder ""aus""? A:","['wenn', 'aus']",aus,"aus dem wort ""aus"
+"Von den Wörtern ""effizient"" und ""unbesonnen"", welches hat weniger Buchstaben? ","['effizient', 'unbesonnen']",effizient,"unbesonnen"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""will"" oder ""sie""? A:","['will', 'sie']",sie,sie schreibt eine e-
+"Von den Wörtern ""entwickeln"" und ""Kombination"", welches hat weniger Buchstaben? ","['entwickeln', 'Kombination']",entwickeln,
+"F: Welches Wort ist kürzer, ""reden"" oder ""analog""? A:","['reden', 'analog']",reden,"reden"" oder ""ist"
+"F: Welches Wort ist kürzer, ""tragen"" oder ""würde""? A:","['tragen', 'würde']",würde,"würde"" oder """
+"F: Welches Wort ist kürzer, ""reden"" oder ""graben""? A:","['reden', 'graben']",reden,"tragen"" oder ""nun"
+"F: Welches Wort ist kürzer, ""mulmig"" oder ""gespürt""? A:","['mulmig', 'gespürt']",mulmig,musseinmalt
+"F: Welches Wort ist kürzer, ""pulvrig"" oder ""entsteht""? A:","['pulvrig', 'entsteht']",pulvrig,"pulvrig"" oder"
+"Von den Wörtern ""Bedeutung"" und ""entsteht"", welches hat weniger Buchstaben? ","['Bedeutung', 'entsteht']",entsteht,"bedeutunglich"""
+"F: Welches Wort hat weniger Buchstaben, ""viel"" oder ""würde""? A:","['viel', 'würde']",viel,"viel"" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""er"" oder ""ehe""? A:","['er', 'ehe']",er,"jajajaja."""
+"F: Welches Wort ist kürzer, ""bekannte"" oder ""anderen""? A:","['bekannte', 'anderen']",anderen,"anderen""? a:"
+"Von den Wörtern ""Beispiel"" und ""verlieren"", welches hat weniger Buchstaben? ","['Beispiel', 'verlieren']",Beispiel,"verlorene"" oder"
+"F: Welches Wort ist kürzer, ""denken"" oder ""solches""? A:","['denken', 'solches']",denken,denken an den wörtern
+"Von den Wörtern ""Jobcenter"" und ""offensiv"", welches hat weniger Buchstaben? ","['Jobcenter', 'offensiv']",offensiv,"jobcenter"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ein"" oder ""kann""? A:","['ein', 'kann']",ein,"kann"" oder ""nun"
+"Von den Wörtern ""wirklich"" und ""gespürt"", welches hat weniger Buchstaben? ","['wirklich', 'gespürt']",gespürt,"wirklich"", welches hat"
+"Von den Wörtern ""Erinnerung"" und ""Haarsträhne"", welches hat weniger Buchstaben? ","['Erinnerung', 'Haarsträhne']",Erinnerung,"erinnerung"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""an"" oder ""man""? A:","['an', 'man']",an,"an den wörtern """
+"Von den Wörtern ""Polarität"" und ""Erinnerung"", welches hat weniger Buchstaben? ","['Polarität', 'Erinnerung']",Polarität,"erinnerung"" oder"
+"Von den Wörtern ""Kombination"" und ""Verbindung"", welches hat weniger Buchstaben? ","['Kombination', 'Verbindung']",Verbindung,
+"F: Welches Wort ist kürzer, ""Bagger"" oder ""daher""? A:","['Bagger', 'daher']",daher,"daher"", a:"
+"Von den Wörtern ""Erforschung"" und ""Erinnerung"", welches hat weniger Buchstaben? ","['Erforschung', 'Erinnerung']",Erinnerung,"erfahrung"" oder"
+"F: Welches Wort ist kürzer, ""weinen"" oder ""wertlos""? A:","['weinen', 'wertlos']",weinen,"wertlos""? a:"
+"F: Welches Wort ist kürzer, ""einmal"" oder ""pulvrig""? A:","['einmal', 'pulvrig']",einmal,einmaltriges
+"F: Welches Wort hat weniger Buchstaben, ""ab"" oder ""das""? A:","['ab', 'das']",ab,das wort steht im satz
+"F: Welches Wort ist kürzer, ""allen"" oder ""nichts""? A:","['allen', 'nichts']",allen,"allen"" oder ""allen"
+"F: Welches Wort hat weniger Buchstaben, ""mit"" oder ""ab""? A:","['mit', 'ab']",ab,"mitarbeiterinnen"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""ich"" oder ""auch""? A:","['ich', 'auch']",ich,ich koche heute abend
+"F: Welches Wort hat weniger Buchstaben, ""so"" oder ""aus""? A:","['so', 'aus']",so,"aus dem wort ""am"
+"F: Welches Wort ist kürzer, ""nichts"" oder ""solches""? A:","['nichts', 'solches']",nichts,"nichts"" oder ""ich"
+"F: Welches Wort hat weniger Buchstaben, ""man"" oder ""auch""? A:","['man', 'auch']",man,"man"" oder ""man"
+"F: Welches Wort hat weniger Buchstaben, ""das"" oder ""im""? A:","['das', 'im']",im,imageunterricht viele tiere
+"F: Welches Wort hat weniger Buchstaben, ""ich"" oder ""zu""? A:","['ich', 'zu']",zu,
+"F: Welches Wort ist kürzer, ""gewinnt"" oder ""Bagger""? A:","['gewinnt', 'Bagger']",Bagger,"gewinnt""? a:"
+"F: Welches Wort ist kürzer, ""solches"" oder ""versucht""? A:","['solches', 'versucht']",solches,"solches"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""reden"" oder ""noch""? A:","['reden', 'noch']",noch,
+"F: Welches Wort hat weniger Buchstaben, ""könnt"" oder ""heut""? A:","['könnt', 'heut']",heut,"heut"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""nach""? A:","['der', 'nach']",der,der lehrer erklärt die gramm
+"Von den Wörtern ""Robbenfell"" und ""Kehlköpfe"", welches hat weniger Buchstaben? ","['Robbenfell', 'Kehlköpfe']",Kehlköpfe,robbenfellos
+"F: Welches Wort hat weniger Buchstaben, ""könnt"" oder ""auch""? A:","['könnt', 'auch']",auch,"könnt"" oder"
+"Von den Wörtern ""bedeutet"" und ""Verlusten"", welches hat weniger Buchstaben? ","['bedeutet', 'Verlusten']",bedeutet,"bedeutet"", welches"
+"Von den Wörtern ""beruflich"" und ""namenlos"", welches hat weniger Buchstaben? ","['beruflich', 'namenlos']",namenlos,"beruflich"", welches hat"
+"F: Welches Wort hat weniger Buchstaben, ""los"" oder ""um""? A:","['los', 'um']",um,"um"" oder ""ist"
+"Von den Wörtern ""Verteilung"" und ""beruflich"", welches hat weniger Buchstaben? ","['Verteilung', 'beruflich']",beruflich,"beruflich"", welches hat"
+"Von den Wörtern ""gemeinsam"" und ""offizielle"", welches hat weniger Buchstaben? ","['gemeinsam', 'offizielle']",gemeinsam,"gemeinsam"" oder """
+"Von den Wörtern ""Jobcenter"" und ""Verhältnis"", welches hat weniger Buchstaben? ","['Jobcenter', 'Verhältnis']",Jobcenter,"jobcenter"", welches hat"
+"Von den Wörtern ""allerdings"" und ""Täterprofil"", welches hat weniger Buchstaben? ","['allerdings', 'Täterprofil']",allerdings,"allerdings"", welches hat"
+"F: Welches Wort ist kürzer, ""würde"" oder ""besser""? A:","['würde', 'besser']",würde,"würde die vögel."""
+"F: Welches Wort ist kürzer, ""tragen"" oder ""wurde""? A:","['tragen', 'wurde']",wurde,"wurde"" oder """
+"Von den Wörtern ""Wunderkind"" und ""Jobcenter"", welches hat weniger Buchstaben? ","['Wunderkind', 'Jobcenter']",Jobcenter,variabelunglos
+"F: Welches Wort hat weniger Buchstaben, ""man"" oder ""du""? A:","['man', 'du']",du,"du"" oder ""man"
+"F: Welches Wort ist kürzer, ""solches"" oder ""wirklich""? A:","['solches', 'wirklich']",solches,"wirklich"" oder """
+"Von den Wörtern ""effizient"" und ""bekannte"", welches hat weniger Buchstaben? ","['effizient', 'bekannte']",bekannte,"bekannte"" oder """
+"Von den Wörtern ""Abschied"" und ""idiotisch"", welches hat weniger Buchstaben? ","['Abschied', 'idiotisch']",Abschied,"abschied"", welches hat"
+"Von den Wörtern ""Erinnerung"" und ""Jobcenter"", welches hat weniger Buchstaben? ","['Erinnerung', 'Jobcenter']",Jobcenter,"jobcenter"" oder """
+"Von den Wörtern ""idiotisch"" und ""variabel"", welches hat weniger Buchstaben? ","['idiotisch', 'variabel']",variabel,variabelunglich
+"Von den Wörtern ""gasförmig"" und ""unablässig"", welches hat weniger Buchstaben? ","['gasförmig', 'unablässig']",gasförmig,"gasförmig"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""nun"" oder ""er""? A:","['nun', 'er']",er,er fährt jeden morgen mit
+"Von den Wörtern ""Verteilung"" und ""Verabredung"", welches hat weniger Buchstaben? ","['Verteilung', 'Verabredung']",Verteilung,"verzichts"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""reden"" oder ""hier""? A:","['reden', 'hier']",hier,"hier"" oder ""das"
+"F: Welches Wort ist kürzer, ""ehrenlos"" oder ""wertlos""? A:","['ehrenlos', 'wertlos']",wertlos,"wertlos""? a:"
+"Von den Wörtern ""Verteilung"" und ""Kombination"", welches hat weniger Buchstaben? ","['Verteilung', 'Kombination']",Verteilung,"verteilung"" oder """
+"Von den Wörtern ""Veranstalt"" und ""Haarsträhne"", welches hat weniger Buchstaben? ","['Veranstalt', 'Haarsträhne']",Veranstalt,
+"F: Welches Wort ist kürzer, ""wirklich"" oder ""gezeigt""? A:","['wirklich', 'gezeigt']",gezeigt,"gezeigt"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""ganz"" oder ""sowie""? A:","['ganz', 'sowie']",ganz,"sowie"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""muss"" oder ""weg""? A:","['muss', 'weg']",weg,weg kommt unmittelbar nach dem
+"Von den Wörtern ""zwischen"" und ""Polarität"", welches hat weniger Buchstaben? ","['zwischen', 'Polarität']",zwischen,zwischenhervorausblick
+"F: Welches Wort hat weniger Buchstaben, ""ich"" oder ""hier""? A:","['ich', 'hier']",ich,ich koche heute abend
+"Von den Wörtern ""entwickeln"" und ""Verzichts"", welches hat weniger Buchstaben? ","['entwickeln', 'Verzichts']",Verzichts,"verzichts"", welches"
+"F: Welches Wort ist kürzer, ""bekannte"" oder ""solches""? A:","['bekannte', 'solches']",solches,"solches"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""nie"" oder ""hier""? A:","['nie', 'hier']",nie,
+"F: Welches Wort hat weniger Buchstaben, ""wurde"" oder ""lang""? A:","['wurde', 'lang']",lang,"langsam"" oder """
+"Von den Wörtern ""unbesonnen"" und ""Mitarbeiter"", welches hat weniger Buchstaben? ","['unbesonnen', 'Mitarbeiter']",unbesonnen,"unbesonnen"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""die"" oder ""in""? A:","['die', 'in']",in,"input"" oder """
+"F: Welches Wort ist kürzer, ""tadellos"" oder ""mehrere""? A:","['tadellos', 'mehrere']",mehrere,"mehrere""? a:"
+"Von den Wörtern ""Vereinigen"" und ""Obduktion"", welches hat weniger Buchstaben? ","['Vereinigen', 'Obduktion']",Obduktion,"obduktionlich"""
+"F: Welches Wort ist kürzer, ""wurde"" oder ""folgen""? A:","['wurde', 'folgen']",wurde,"wurde"" oder """
+"Von den Wörtern ""Fachbücher"" und ""beruflich"", welches hat weniger Buchstaben? ","['Fachbücher', 'beruflich']",beruflich,
+"F: Welches Wort hat weniger Buchstaben, ""sich"" oder ""diese""? A:","['sich', 'diese']",sich,"siche"" oder """
+"Von den Wörtern ""unbesonnen"" und ""verstehen"", welches hat weniger Buchstaben? ","['unbesonnen', 'verstehen']",verstehen,"verstehen"", welches hat"
+"F: Welches Wort hat weniger Buchstaben, ""war"" oder ""so""? A:","['war', 'so']",so,"war"" oder ""sie"
+"F: Welches Wort hat weniger Buchstaben, ""nun"" oder ""wenn""? A:","['nun', 'wenn']",nun,nun ist sehrweiselos
+"F: Welches Wort ist kürzer, ""lebende"" oder ""bekannte""? A:","['lebende', 'bekannte']",lebende,"lebende""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""sind"" oder ""dabei""? A:","['sind', 'dabei']",sind,"sind"" oder ""sind"
+"Von den Wörtern ""Kreativen"" und ""Verbindung"", welches hat weniger Buchstaben? ","['Kreativen', 'Verbindung']",Kreativen,"kreativenlos"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""würde"" oder ""lang""? A:","['würde', 'lang']",lang,"langsam"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""weg"" oder ""will""? A:","['weg', 'will']",weg,"will"" oder ""ich"
+"F: Welches Wort ist kürzer, ""sollen"" oder ""gespürt""? A:","['sollen', 'gespürt']",sollen,"sollende""? a"
+"F: Welches Wort ist kürzer, ""laufen"" oder ""brüllen""? A:","['laufen', 'brüllen']",laufen,"laufentelefonieren""?"
+"F: Welches Wort hat weniger Buchstaben, ""weg"" oder ""ja""? A:","['weg', 'ja']",ja,"jajajaja."""
+"F: Welches Wort hat weniger Buchstaben, ""viel"" oder ""allen""? A:","['viel', 'allen']",viel,"vielen"" oder """
+"F: Welches Wort ist kürzer, ""solches"" oder ""offensiv""? A:","['solches', 'offensiv']",solches,"solches"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""zeit"" oder ""könnt""? A:","['zeit', 'könnt']",zeit,"zeitlich"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""dabei"" oder ""lang""? A:","['dabei', 'lang']",lang,"dabei.""?"
+"F: Welches Wort ist kürzer, ""erzählt"" oder ""tragen""? A:","['erzählt', 'tragen']",tragen,"tragen hören sie, was"
+"Von den Wörtern ""Haarspitzen"" und ""Entstehung"", welches hat weniger Buchstaben? ","['Haarspitzen', 'Entstehung']",Entstehung,"entstehunglos"","
+"Von den Wörtern ""geborene"" und ""gasförmig"", welches hat weniger Buchstaben? ","['geborene', 'gasförmig']",geborene,"gasförmig"" oder """
+"F: Welches Wort ist kürzer, ""mehrere"" oder ""blamabel""? A:","['mehrere', 'blamabel']",mehrere,mehrere gerichte machen eine
+"Von den Wörtern ""Wunderkind"" und ""Bedeutung"", welches hat weniger Buchstaben? ","['Wunderkind', 'Bedeutung']",Bedeutung,bedeutunglichere
+"Von den Wörtern ""gespürt"" und ""verloren"", welches hat weniger Buchstaben? ","['gespürt', 'verloren']",gespürt,gespürt und weniger buchstaben
+"F: Welches Wort ist kürzer, ""dabei"" oder ""fragen""? A:","['dabei', 'fragen']",dabei,"fragen"" oder ""be"
+"F: Welches Wort ist kürzer, ""analog"" oder ""tüfteln""? A:","['analog', 'tüfteln']",analog,"tüfteln"""
+"Von den Wörtern ""allerdings"" und ""Gleichstand"", welches hat weniger Buchstaben? ","['allerdings', 'Gleichstand']",allerdings,"gleichheiten"", welches hat"
+"F: Welches Wort hat weniger Buchstaben, ""so"" oder ""mit""? A:","['so', 'mit']",so,"mitarbeiterinnen"" oder"
+"Von den Wörtern ""Abschied"" und ""Jobcenter"", welches hat weniger Buchstaben? ","['Abschied', 'Jobcenter']",Abschied,"abschied"", welches hat"
+"F: Welches Wort ist kürzer, ""jemand"" oder ""mehrere""? A:","['jemand', 'mehrere']",jemand,
+"Von den Wörtern ""Wachmänner"" und ""idiotisch"", welches hat weniger Buchstaben? ","['Wachmänner', 'idiotisch']",idiotisch,"wachmänner"", welches hat"
+"F: Welches Wort ist kürzer, ""sollen"" oder ""ungerne""? A:","['sollen', 'ungerne']",sollen,"sollende""? a"
+"F: Welches Wort ist kürzer, ""sehen "" oder ""würde""? A:","['sehen ', 'würde']",würde,"würde"" oder """
+"Von den Wörtern ""bedrohen"" und ""Obduktion"", welches hat weniger Buchstaben? ","['bedrohen', 'Obduktion']",bedrohen,"obduktion"" oder"
+"F: Welches Wort ist kürzer, ""bedrohen"" oder ""solches""? A:","['bedrohen', 'solches']",solches,"solches"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""ein"" oder ""will""? A:","['ein', 'will']",ein,
+"Von den Wörtern ""versucht"" und ""gasförmig"", welches hat weniger Buchstaben? ","['versucht', 'gasförmig']",versucht,
+"F: Welches Wort hat weniger Buchstaben, ""ganz"" oder ""unter""? A:","['ganz', 'unter']",ganz,"abholen""? a:"
+"F: Welches Wort ist kürzer, ""Anteil"" oder ""gewinnt""? A:","['Anteil', 'gewinnt']",Anteil,"gewinnt""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""zeit"" oder ""das""? A:","['zeit', 'das']",das,"zeitlich"" oder """
+"Von den Wörtern ""Obduktion"" und ""offizielle"", welches hat weniger Buchstaben? ","['Obduktion', 'offizielle']",Obduktion,"obduktion"" oder"
+"Von den Wörtern ""entwickeln"" und ""Polarität"", welches hat weniger Buchstaben? ","['entwickeln', 'Polarität']",Polarität,"polaritätlich"","
+"F: Welches Wort hat weniger Buchstaben, ""graben"" oder ""diese""? A:","['graben', 'diese']",diese,"hier"" oder ""auch"
+"F: Welches Wort ist kürzer, ""offensiv"" oder ""bestens""? A:","['offensiv', 'bestens']",bestens,"bestens"" oder """
+"Von den Wörtern ""Beweglich"" und ""bekannte"", welches hat weniger Buchstaben? ","['Beweglich', 'bekannte']",bekannte,"bekannte"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""aus"" oder ""sich""? A:","['aus', 'sich']",aus,"aus dem wort ""aus"
+"F: Welches Wort ist kürzer, ""pulvrig"" oder ""tragen""? A:","['pulvrig', 'tragen']",tragen,"tragen"" oder ""am"
+"F: Welches Wort hat weniger Buchstaben, ""ob"" oder ""aus""? A:","['ob', 'aus']",ob,"aus dem wort ""ab"
+"Von den Wörtern ""Kehlköpfe"" und ""Abweichung"", welches hat weniger Buchstaben? ","['Kehlköpfe', 'Abweichung']",Kehlköpfe,"kehlköpfe"""
+"F: Welches Wort hat weniger Buchstaben, ""noch"" oder ""nie""? A:","['noch', 'nie']",nie,
+"F: Welches Wort hat weniger Buchstaben, ""in"" oder ""ich""? A:","['in', 'ich']",in,"inhaltig"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""wenn"" oder ""ein""? A:","['wenn', 'ein']",ein,einmaltigations
+"F: Welches Wort hat weniger Buchstaben, ""noch"" oder ""ehe""? A:","['noch', 'ehe']",ehe,"ehe"" oder ""ehe"
+"Von den Wörtern ""Tafelwasser"" und ""Robbenfell"", welches hat weniger Buchstaben? ","['Tafelwasser', 'Robbenfell']",Robbenfell,robbenfellos
+"Von den Wörtern ""tadellos"" und ""effizient"", welches hat weniger Buchstaben? ","['tadellos', 'effizient']",tadellos,"effizient"" oder"
+"Von den Wörtern ""gespürt"" und ""bedeutet"", welches hat weniger Buchstaben? ","['gespürt', 'bedeutet']",gespürt,"bedeutet"", welches"
+"F: Welches Wort hat weniger Buchstaben, ""bald"" oder ""reden""? A:","['bald', 'reden']",bald,"bald"" oder ""nun"
+"F: Welches Wort hat weniger Buchstaben, ""ist"" oder ""will""? A:","['ist', 'will']",ist,"ist"" oder ""ist"
+"F: Welches Wort ist kürzer, ""versucht"" oder ""mehrere""? A:","['versucht', 'mehrere']",mehrere,"mehrere.""? a"
+"F: Welches Wort ist kürzer, ""laufen"" oder ""gespürt""? A:","['laufen', 'gespürt']",laufen,"laufentelefonieren""?"
+"F: Welches Wort hat weniger Buchstaben, ""sich"" oder ""neu""? A:","['sich', 'neu']",neu,"neues"" oder """
+"F: Welches Wort ist kürzer, ""mulmig"" oder ""beweise""? A:","['mulmig', 'beweise']",mulmig,"bestens"" oder """
+"Von den Wörtern ""Obduktion"" und ""Verbindung"", welches hat weniger Buchstaben? ","['Obduktion', 'Verbindung']",Obduktion,"obduktionlich"","
+"F: Welches Wort hat weniger Buchstaben, ""reden"" oder ""auch""? A:","['reden', 'auch']",auch,"auch in dem satz """
+"F: Welches Wort hat weniger Buchstaben, ""am"" oder ""ich""? A:","['am', 'ich']",am,"ameise"" oder """
+"Von den Wörtern ""Oligarchie"" und ""tabuisieren"", welches hat weniger Buchstaben? ","['Oligarchie', 'tabuisieren']",Oligarchie,"tadellos"""
+"F: Welches Wort ist kürzer, ""folgen"" oder ""reden""? A:","['folgen', 'reden']",reden,"reden"" oder ""ich"
+"Von den Wörtern ""zwischen"" und ""Iteration"", welches hat weniger Buchstaben? ","['zwischen', 'Iteration']",zwischen,"iterationlich"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""heut"" oder ""ist""? A:","['heut', 'ist']",ist,"ist"" oder ""man"
+"F: Welches Wort hat weniger Buchstaben, ""hier"" oder ""neu""? A:","['hier', 'neu']",neu,"neues"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""sind"" oder ""daher""? A:","['sind', 'daher']",sind,"daher"" oder """
+"F: Welches Wort ist kürzer, ""dabei"" oder ""Bagger""? A:","['dabei', 'Bagger']",dabei,"dabei"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""neu"" oder ""ab""? A:","['neu', 'ab']",ab,"neues"" oder """
+"F: Welches Wort hat weniger Buchstaben, ""der"" oder ""mehr""? A:","['der', 'mehr']",der,"der himmel ist heute."""
+"F: Welches Wort hat weniger Buchstaben, ""in"" oder ""all""? A:","['in', 'all']",in,"insekt"" oder"
+"Von den Wörtern ""Beweglich"" und ""Abweichung"", welches hat weniger Buchstaben? ","['Beweglich', 'Abweichung']",Beweglich,"beweglich"", welches hat"
+"Von den Wörtern ""Oligarchie"" und ""Erforschung"", welches hat weniger Buchstaben? ","['Oligarchie', 'Erforschung']",Oligarchie,"erinnerung"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""zu"" oder ""nie""? A:","['zu', 'nie']",zu,"zu kommt wortlos""?"
+"F: Welches Wort ist kürzer, ""sehen "" oder ""mehrere""? A:","['sehen ', 'mehrere']",sehen ,mehrere gerichte machen eine
+"Von den Wörtern ""Entstehung"" und ""verstehen"", welches hat weniger Buchstaben? ","['Entstehung', 'verstehen']",verstehen,"verstehen"", welches hat"
+"F: Welches Wort ist kürzer, ""gezeigt"" oder ""laufen""? A:","['gezeigt', 'laufen']",laufen,"laufen"" oder ""sie"
+"F: Welches Wort hat weniger Buchstaben, ""sehr"" oder ""neu""? A:","['sehr', 'neu']",neu,"neues"" oder """
+"F: Welches Wort ist kürzer, ""Beispiel"" oder ""beweise""? A:","['Beispiel', 'beweise']",beweise,"beweiselos""? a"
+"Von den Wörtern ""Iteration"" und ""Erinnerung"", welches hat weniger Buchstaben? ","['Iteration', 'Erinnerung']",Iteration,"erinnerung"" oder"
+"Von den Wörtern ""Mitarbeiter"" und ""Oligarchie"", welches hat weniger Buchstaben? ","['Mitarbeiter', 'Oligarchie']",Oligarchie,"oligarchie"""
+"Von den Wörtern ""Bedeutung"" und ""Verbindung"", welches hat weniger Buchstaben? ","['Bedeutung', 'Verbindung']",Bedeutung,
+"F: Welches Wort ist kürzer, ""sollen"" oder ""anderen""? A:","['sollen', 'anderen']",sollen,sollen? a:
+"F: Welches Wort ist kürzer, ""darüber"" oder ""Gebiss""? A:","['darüber', 'Gebiss']",Gebiss,"darüber""? a:"
+"F: Welches Wort hat weniger Buchstaben, ""ein"" oder ""da""? A:","['ein', 'da']",da,"daher"" oder """
+"Von den Wörtern ""bedeutet"" und ""verlieren"", welches hat weniger Buchstaben? ","['bedeutet', 'verlieren']",bedeutet,"verlorene"" oder"
+"F: Welches Wort hat weniger Buchstaben, ""lang"" oder ""ehe""? A:","['lang', 'ehe']",ehe,"ehe"" oder ""nun"
+"F: Welches Wort ist kürzer, ""ungerne"" oder ""bedrohen""? A:","['ungerne', 'bedrohen']",ungerne,"ungerne"" oder """
+"F: Welches Wort ist kürzer, ""Bagger"" oder ""bestens""? A:","['Bagger', 'bestens']",Bagger,"bagger""? a:"

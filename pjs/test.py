@@ -53,6 +53,7 @@ def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name,
         input = f'{tokenizer.eos_token} {row["input"]} {tokenizer.eos_token}'
         options = [normalize_text(opt) for opt in row["options"]]
         generator = outlines.generate.choice(model, options)
+        expected = normalize_text(row["output"])
         output_text = generator(input)
         if char:
             output_text = output_text.replace(" ", "")
@@ -63,7 +64,7 @@ def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name,
             writer = csv.writer(csvfile)
             if not file_exists:
                 writer.writerow(["Input", "Options", "Expected", "Predicted",])
-            writer.writerow([row["input"], options, row["output"], output_text])
+            writer.writerow([row["input"], options, expected, output_text])
 
 def normalize_text(text):
     text = unicodedata.normalize("NFC", text)
