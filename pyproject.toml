@@ -21,6 +21,7 @@ torchvision = {version = "^0.21.0", source = "pytorch-gpu"}
 torchaudio = {version = "^2.6.0", source = "pytorch-gpu"}
 seaborn = "^0.13.2"
 trl = "^0.16.1"
+chardet = "^5.2.0"
 
 [[tool.poetry.source]]
 name = "pytorch-gpu"

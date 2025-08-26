@@ -9,36 +9,29 @@ from tokenizers import (
     Tokenizer)
 
 from tokenizers.normalizers import Lowercase, Strip, NFC
+from transformers import PreTrainedTokenizerFast
 
-from transformers import (
-    AutoTokenizer, 
-    PreTrainedTokenizerFast, 
-    set_seed, 
-    Trainer, 
-    TrainingArguments, 
-    DataCollatorForLanguageModeling, 
-    LlamaForCausalLM, 
-    LlamaConfig)
 
-from datasets import load_dataset
-
-def gen_bpe_de_tokenizer():
+def gen_bpe_de_tokenizer(train_data, save_dir):
     special_tokens = ["PAD", "UNK", "UTT_BOUNDARY"]
     
-    tokenizer = Tokenizer(models.BPE())
+    tokenizer = Tokenizer(models.BPE(unk_token="UNK"))
     tokenizer.normalizer = normalizers.Sequence([
-         Strip(), NFC(), Lowercase()
+        Strip(), NFC(), Lowercase()
     ])
     
-    tokenizer.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=False)
+    tokenizer.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=True)
+    tokenizer.decoder = decoders.ByteLevel()
     
     trainer = trainers.BpeTrainer(
         vocab_size=16000,
         special_tokens=special_tokens
     )
     
-    tokenizer.train(files = ['data/baby_LM/trimmed_babylm_de.txt'], trainer=trainer)
-    
+    with open(train_data, "r", encoding="utf-8") as f:
+        lines = [line.strip() for line in f if line.strip()]
+    tokenizer.train_from_iterator(lines, trainer=trainer)
+
     tokenizer.post_processor = processors.ByteLevel(trim_offsets=True)
     
     wrapped_tokenizer = PreTrainedTokenizerFast(
@@ -49,19 +42,27 @@ def gen_bpe_de_tokenizer():
         eos_token="UTT_BOUNDARY"
     )
     
-    os.makedirs("data/tokenizer/bpe_de_tokenizer", exist_ok=True)
-    wrapped_tokenizer.save_pretrained("data/tokenizer/bpe_de_tokenizer")
+    os.makedirs(save_dir, exist_ok=True)
+    wrapped_tokenizer.save_pretrained(save_dir)
 
-#gen_bpe_de_tokenizer()
 
-my_bpe_tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
+# Trainieren & speichern
+gen_bpe_de_tokenizer("data/baby_LM/trimmed_babylm_de.txt", "data/tokenizer/bpe_de_tokenizer")
+gen_bpe_de_tokenizer("data/baby_LM/trimmed_babylm_en.txt", "data/tokenizer/bpe_en_tokenizer")
 
-text = "Überraschung! Das ist überraschend"
+# Laden & testen
+# my_bpe_tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
 
-my_output = my_bpe_tokenizer(text, add_special_tokens=True)
+# text = "Überraschung! Das ist überraschend"
+# out = my_bpe_tokenizer(text, add_special_tokens=True)
 
-# IDs ausgeben
-print("=== Eigener Char-Tokenizer ===")
-print("Input IDs:", my_output["input_ids"])
-print("Tokens:   ", my_bpe_tokenizer.convert_ids_to_tokens(my_output["input_ids"]))
+# print("=== Input IDs & Tokens ===")
+# for idx in out["input_ids"]:
+#     token = my_bpe_tokenizer.convert_ids_to_tokens(idx)
+#     print(f"{idx:5}  {token!r}  ->  {my_bpe_tokenizer.decode([idx])!r}")
+
+# # Ganze dekodierte Sequenz
+# decoded_text = my_bpe_tokenizer.decode(out["input_ids"])
+# print("\n=== Decoded Text ===")
+# print(decoded_text)
 
