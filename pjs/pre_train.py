@@ -38,14 +38,14 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
     # --- MODEL CONFIG ---
     config = LlamaConfig(
         vocab_size=len(tokenizer),
-        hidden_size=128,
-        num_hidden_layers=4,
-        intermediate_size=128,
-        num_attention_heads=4,
+        hidden_size=768,         
+        num_hidden_layers=12,          
+        intermediate_size=3072,            
+        num_attention_heads=12,           
+        max_position_embeddings=256,       
         bos_token_id=tokenizer.convert_tokens_to_ids("UTT_BOUNDARY"),
         eos_token_id=tokenizer.convert_tokens_to_ids("UTT_BOUNDARY"),
-        pad_token_id=tokenizer.convert_tokens_to_ids("PAD"),
-        max_position_embeddings=128
+        pad_token_id=tokenizer.convert_tokens_to_ids("PAD")
     )
 
     set_seed(42)
@@ -64,7 +64,7 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
         overwrite_output_dir=True,
         save_strategy="epoch",
         eval_strategy="epoch",
-        num_train_epochs=3,
+        num_train_epochs=12,
         gradient_accumulation_steps=8,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
