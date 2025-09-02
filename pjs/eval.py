@@ -27,23 +27,22 @@ def evaluate(dir_path, file_name):
             dummy_label = "__MISSING__"
             df["Predicted"] = df["Predicted"].fillna(dummy_label)
 
-            expected = df["Expected"]
-            predicted = df["Predicted"]
+            expected = df["Expected"].astype(str).str.strip()
+            predicted = df["Predicted"].astype(str).str.strip()
 
-            accuracy = accuracy_score(expected, predicted)
-            precision = precision_score(expected, predicted, average='macro', zero_division=0)
-            recall = recall_score(expected, predicted, average='macro', zero_division=0)
-            f1_macro = f1_score(expected, predicted, average='macro', zero_division=0)
-            f1_weighted = f1_score(expected, predicted, average='weighted', zero_division=0)
+            df["Correct"] = (expected == predicted).map({True: "richtig", False: "falsch"})
+
+            y_true = ["richtig"] * len(df) 
+            y_pred = df["Correct"]
+
+            accuracy = accuracy_score(y_true, y_pred)
+            recall = recall_score(y_true, y_pred, pos_label="richtig")
 
             output_metrics.append({
                 "Subfolder": subfolder.name,
                 "File": file.name,
                 "Accuracy": accuracy,
-                "Precision (macro)": precision,
                 "Recall (macro)": recall,
-                "F1 Score (macro)": f1_macro,
-                "F1 Score (weighted)": f1_weighted
             })
 
     results_df = pd.DataFrame(output_metrics)

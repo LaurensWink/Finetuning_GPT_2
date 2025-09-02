@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"F: Mit welchem Buchstaben endet das Wort ""Parkscheibe""? A:","['p', 'a', 'r', 'k', 's', 'c', 'h', 'e', 'i', 'b', 'e']",e,p
+"F: Mit welchem Buchstaben endet das Wort ""elastisch""? A:","['e', 'l', 'a', 's', 't', 'i', 's', 'c', 'h']",h,s
+"F: Mit welchem Buchstaben endet das Wort ""Zug""? A:","['z', 'u', 'g']",g,g
+"F: Was ist der letzte Buchstabe des Wortes ""Schaf""? A:","['s', 'c', 'h', 'a', 'f']",f,h
+"Schreibe den letzten Buchstaben des Wortes ""Bäckerei"": ","['b', 'ä', 'c', 'k', 'e', 'r', 'e', 'i']",i,c
+"F: Mit welchem Buchstaben endet das Wort ""Flasche""? A:","['f', 'l', 'a', 's', 'c', 'h', 'e']",e,f
+"F: Mit welchem Buchstaben endet das Wort ""Goldfisch""? A:","['g', 'o', 'l', 'd', 'f', 'i', 's', 'c', 'h']",h,f
+"Schreibe den letzten Buchstaben des Wortes ""ausgraben"": ","['a', 'u', 's', 'g', 'r', 'a', 'b', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Kunst""? A:","['k', 'u', 'n', 's', 't']",t,t
+"Schreibe den letzten Buchstaben des Wortes ""menschlich"": ","['m', 'e', 'n', 's', 'c', 'h', 'l', 'i', 'c', 'h']",h,l
+"Schreibe den letzten Buchstaben des Wortes ""Punktestand"": ","['p', 'u', 'n', 'k', 't', 'e', 's', 't', 'a', 'n', 'd']",d,d
+"F: Was ist der letzte Buchstabe des Wortes ""Haus""? A:","['h', 'a', 'u', 's']",s,s
+"F: Was ist der letzte Buchstabe des Wortes ""rennen""? A:","['r', 'e', 'n', 'n', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""lesen""? A:","['l', 'e', 's', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Hof"": ","['h', 'o', 'f']",f,f
+"F: Was ist der letzte Buchstabe des Wortes ""berühren""? A:","['b', 'e', 'r', 'ü', 'h', 'r', 'e', 'n']",n,h
+"F: Mit welchem Buchstaben endet das Wort ""Entwicklungshilfe""? A:","['e', 'n', 't', 'w', 'i', 'c', 'k', 'l', 'u', 'n', 'g', 's', 'h', 'i', 'l', 'f', 'e']",e,i
+"F: Was ist der letzte Buchstabe des Wortes ""Nudelholz""? A:","['n', 'u', 'd', 'e', 'l', 'h', 'o', 'l', 'z']",z,l
+"Schreibe den letzten Buchstaben des Wortes ""Essen"": ","['e', 's', 's', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""bezaubernd"": ","['b', 'e', 'z', 'a', 'u', 'b', 'e', 'r', 'n', 'd']",d,n
+"F: Was ist der letzte Buchstabe des Wortes ""Hand""? A:","['h', 'a', 'n', 'd']",d,n
+"F: Was ist der letzte Buchstabe des Wortes ""treffen""? A:","['t', 'r', 'e', 'f', 'f', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""warm""? A:","['w', 'a', 'r', 'm']",m,r
+"Schreibe den letzten Buchstaben des Wortes ""Löffel"": ","['l', 'ö', 'f', 'f', 'e', 'l']",l,f
+"F: Mit welchem Buchstaben endet das Wort ""Feuerwehrmann""? A:","['f', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r', 'm', 'a', 'n', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Trick"": ","['t', 'r', 'i', 'c', 'k']",k,t
+"Schreibe den letzten Buchstaben des Wortes ""Abnahme"": ","['a', 'b', 'n', 'a', 'h', 'm', 'e']",e,n
+"F: Mit welchem Buchstaben endet das Wort ""unverwüstlich""? A:","['u', 'n', 'v', 'e', 'r', 'w', 'ü', 's', 't', 'l', 'i', 'c', 'h']",h,s
+"F: Was ist der letzte Buchstabe des Wortes ""schwach""? A:","['s', 'c', 'h', 'w', 'a', 'c', 'h']",h,s
+"F: Mit welchem Buchstaben endet das Wort ""glücklich""? A:","['g', 'l', 'ü', 'c', 'k', 'l', 'i', 'c', 'h']",h,k
+"F: Mit welchem Buchstaben endet das Wort ""verabschieden""? A:","['v', 'e', 'r', 'a', 'b', 's', 'c', 'h', 'i', 'e', 'd', 'e', 'n']",n,c
+"F: Mit welchem Buchstaben endet das Wort ""unterscheidbar""? A:","['u', 'n', 't', 'e', 'r', 's', 'c', 'h', 'e', 'i', 'd', 'b', 'a', 'r']",r,b
+"F: Was ist der letzte Buchstabe des Wortes ""Strom""? A:","['s', 't', 'r', 'o', 'm']",m,r
+"Schreibe den letzten Buchstaben des Wortes ""zartbitter"": ","['z', 'a', 'r', 't', 'b', 'i', 't', 't', 'e', 'r']",r,e
+"F: Was ist der letzte Buchstabe des Wortes ""Bord""? A:","['b', 'o', 'r', 'd']",d,d
+"F: Was ist der letzte Buchstabe des Wortes ""Kälte""? A:","['k', 'ä', 'l', 't', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""Unterricht"": ","['u', 'n', 't', 'e', 'r', 'r', 'i', 'c', 'h', 't']",t,h
+"F: Was ist der letzte Buchstabe des Wortes ""Frühstück""? A:","['f', 'r', 'ü', 'h', 's', 't', 'ü', 'c', 'k']",k,t
+"F: Was ist der letzte Buchstabe des Wortes ""Schnur""? A:","['s', 'c', 'h', 'n', 'u', 'r']",r,u
+"F: Mit welchem Buchstaben endet das Wort ""Dosis""? A:","['d', 'o', 's', 'i', 's']",s,i
+"F: Was ist der letzte Buchstabe des Wortes ""anklären""? A:","['a', 'n', 'k', 'l', 'ä', 'r', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""Gedanke""? A:","['g', 'e', 'd', 'a', 'n', 'k', 'e']",e,n
+"F: Was ist der letzte Buchstabe des Wortes ""Krawatte""? A:","['k', 'r', 'a', 'w', 'a', 't', 't', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""Tee""? A:","['t', 'e', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""ängstlich""? A:","['ä', 'n', 'g', 's', 't', 'l', 'i', 'c', 'h']",h,n
+"F: Mit welchem Buchstaben endet das Wort ""unfreundlich""? A:","['u', 'n', 'f', 'r', 'e', 'u', 'n', 'd', 'l', 'i', 'c', 'h']",h,f
+"Schreibe den letzten Buchstaben des Wortes ""Fuchs"": ","['f', 'u', 'c', 'h', 's']",s,c
+"F: Was ist der letzte Buchstabe des Wortes ""Schwimmen""? A:","['s', 'c', 'h', 'w', 'i', 'm', 'm', 'e', 'n']",n,m
+"Schreibe den letzten Buchstaben des Wortes ""Termin"": ","['t', 'e', 'r', 'm', 'i', 'n']",n,t
+"F: Mit welchem Buchstaben endet das Wort ""abreisen""? A:","['a', 'b', 'r', 'e', 'i', 's', 'e', 'n']",n,b
+"F: Mit welchem Buchstaben endet das Wort ""Kellertreppe""? A:","['k', 'e', 'l', 'l', 'e', 'r', 't', 'r', 'e', 'p', 'p', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""treffen"": ","['t', 'r', 'e', 'f', 'f', 'e', 'n']",n,f
+"F: Was ist der letzte Buchstabe des Wortes ""legendär""? A:","['l', 'e', 'g', 'e', 'n', 'd', 'ä', 'r']",r,g
+"Schreibe den letzten Buchstaben des Wortes ""abholen"": ","['a', 'b', 'h', 'o', 'l', 'e', 'n']",n,b
+"F: Was ist der letzte Buchstabe des Wortes ""vermieten""? A:","['v', 'e', 'r', 'm', 'i', 'e', 't', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Gage"": ","['g', 'a', 'g', 'e']",e,a
+"F: Mit welchem Buchstaben endet das Wort ""ausziehen""? A:","['a', 'u', 's', 'z', 'i', 'e', 'h', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""ausfallen""? A:","['a', 'u', 's', 'f', 'a', 'l', 'l', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Norden"": ","['n', 'o', 'r', 'd', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""Termin""? A:","['t', 'e', 'r', 'm', 'i', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""kreativ""? A:","['k', 'r', 'e', 'a', 't', 'i', 'v']",v,r
+"F: Was ist der letzte Buchstabe des Wortes ""Bande""? A:","['b', 'a', 'n', 'd', 'e']",e,n
+"F: Was ist der letzte Buchstabe des Wortes ""Kombination""? A:","['k', 'o', 'm', 'b', 'i', 'n', 'a', 't', 'i', 'o', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Internet""? A:","['i', 'n', 't', 'e', 'r', 'n', 'e', 't']",t,i
+"F: Was ist der letzte Buchstabe des Wortes ""Gedankenexperiment""? A:","['g', 'e', 'd', 'a', 'n', 'k', 'e', 'n', 'e', 'x', 'p', 'e', 'r', 'i', 'm', 'e', 'n', 't']",t,a
+"F: Mit welchem Buchstaben endet das Wort ""Gebäude""? A:","['g', 'e', 'b', 'ä', 'u', 'd', 'e']",e,ä
+"F: Mit welchem Buchstaben endet das Wort ""Eis""? A:","['e', 'i', 's']",s,s
+"F: Mit welchem Buchstaben endet das Wort ""Welle""? A:","['w', 'e', 'l', 'l', 'e']",e,l
+"F: Mit welchem Buchstaben endet das Wort ""Schwester""? A:","['s', 'c', 'h', 'w', 'e', 's', 't', 'e', 'r']",r,t
+"F: Was ist der letzte Buchstabe des Wortes ""dumm""? A:","['d', 'u', 'm', 'm']",m,m
+"F: Mit welchem Buchstaben endet das Wort ""Gras""? A:","['g', 'r', 'a', 's']",s,a
+"Schreibe den letzten Buchstaben des Wortes ""Weinberg"": ","['w', 'e', 'i', 'n', 'b', 'e', 'r', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""lernen"": ","['l', 'e', 'r', 'n', 'e', 'n']",n,r
+"F: Mit welchem Buchstaben endet das Wort ""Herz""? A:","['h', 'e', 'r', 'z']",z,e
+"F: Was ist der letzte Buchstabe des Wortes ""helfen""? A:","['h', 'e', 'l', 'f', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Wald""? A:","['w', 'a', 'l', 'd']",d,d
+"Schreibe den letzten Buchstaben des Wortes ""feststellen"": ","['f', 'e', 's', 't', 's', 't', 'e', 'l', 'l', 'e', 'n']",n,l
+"Schreibe den letzten Buchstaben des Wortes ""Telefon"": ","['t', 'e', 'l', 'e', 'f', 'o', 'n']",n,f
+"Schreibe den letzten Buchstaben des Wortes ""öffnen"": ","['ö', 'f', 'f', 'n', 'e', 'n']",n,f
+"Schreibe den letzten Buchstaben des Wortes ""Traube"": ","['t', 'r', 'a', 'u', 'b', 'e']",e,t
+"F: Mit welchem Buchstaben endet das Wort ""Parkscheibe""? A:","['p', 'a', 'r', 'k', 's', 'c', 'h', 'e', 'i', 'b', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""laut""? A:","['l', 'a', 'u', 't']",t,a
+"F: Was ist der letzte Buchstabe des Wortes ""kämpfen""? A:","['k', 'ä', 'm', 'p', 'f', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Kabelbaum""? A:","['k', 'a', 'b', 'e', 'l', 'b', 'a', 'u', 'm']",m,b
+"Schreibe den letzten Buchstaben des Wortes ""Strauch"": ","['s', 't', 'r', 'a', 'u', 'c', 'h']",h,c
+"F: Was ist der letzte Buchstabe des Wortes ""Eisberg""? A:","['e', 'i', 's', 'b', 'e', 'r', 'g']",g,b
+"Schreibe den letzten Buchstaben des Wortes ""Knochen"": ","['k', 'n', 'o', 'c', 'h', 'e', 'n']",n,c
+"F: Mit welchem Buchstaben endet das Wort ""Entdeckung""? A:","['e', 'n', 't', 'd', 'e', 'c', 'k', 'u', 'n', 'g']",g,c
+"Schreibe den letzten Buchstaben des Wortes ""neu"": ","['n', 'e', 'u']",u,u
+"Schreibe den letzten Buchstaben des Wortes ""Durchblick"": ","['d', 'u', 'r', 'c', 'h', 'b', 'l', 'i', 'c', 'k']",k,k
+"F: Was ist der letzte Buchstabe des Wortes ""Kelvin""? A:","['k', 'e', 'l', 'v', 'i', 'n']",n,v
+"F: Mit welchem Buchstaben endet das Wort ""Auslage""? A:","['a', 'u', 's', 'l', 'a', 'g', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""aufregen"": ","['a', 'u', 'f', 'r', 'e', 'g', 'e', 'n']",n,u
+"F: Mit welchem Buchstaben endet das Wort ""Wort""? A:","['w', 'o', 'r', 't']",t,o
+"F: Mit welchem Buchstaben endet das Wort ""gehören""? A:","['g', 'e', 'h', 'ö', 'r', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Bart""? A:","['b', 'a', 'r', 't']",t,a
+"Schreibe den letzten Buchstaben des Wortes ""Messerstecher"": ","['m', 'e', 's', 's', 'e', 'r', 's', 't', 'e', 'c', 'h', 'e', 'r']",r,m
+"Schreibe den letzten Buchstaben des Wortes ""Wagen"": ","['w', 'a', 'g', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""fallen""? A:","['f', 'a', 'l', 'l', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""lustig""? A:","['l', 'u', 's', 't', 'i', 'g']",g,s
+"Schreibe den letzten Buchstaben des Wortes ""modern"": ","['m', 'o', 'd', 'e', 'r', 'n']",n,d
+"F: Was ist der letzte Buchstabe des Wortes ""Mahlzeit""? A:","['m', 'a', 'h', 'l', 'z', 'e', 'i', 't']",t,t
+"F: Was ist der letzte Buchstabe des Wortes ""weich""? A:","['w', 'e', 'i', 'c', 'h']",h,c
+"F: Mit welchem Buchstaben endet das Wort ""Aufnahme""? A:","['a', 'u', 'f', 'n', 'a', 'h', 'm', 'e']",e,u
+"F: Mit welchem Buchstaben endet das Wort ""Marktplatz""? A:","['m', 'a', 'r', 'k', 't', 'p', 'l', 'a', 't', 'z']",z,k
+"F: Was ist der letzte Buchstabe des Wortes ""Satz""? A:","['s', 'a', 't', 'z']",z,s
+"F: Mit welchem Buchstaben endet das Wort ""Wahl""? A:","['w', 'a', 'h', 'l']",l,w
+"F: Was ist der letzte Buchstabe des Wortes ""sorgfältig""? A:","['s', 'o', 'r', 'g', 'f', 'ä', 'l', 't', 'i', 'g']",g,r
+"F: Was ist der letzte Buchstabe des Wortes ""verschlossen""? A:","['v', 'e', 'r', 's', 'c', 'h', 'l', 'o', 's', 's', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""waschen""? A:","['w', 'a', 's', 'c', 'h', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Theater"": ","['t', 'h', 'e', 'a', 't', 'e', 'r']",r,t
+"F: Was ist der letzte Buchstabe des Wortes ""Hafenstadt""? A:","['h', 'a', 'f', 'e', 'n', 's', 't', 'a', 'd', 't']",t,e
+"Schreibe den letzten Buchstaben des Wortes ""Abenteuer"": ","['a', 'b', 'e', 'n', 't', 'e', 'u', 'e', 'r']",r,u
+"Schreibe den letzten Buchstaben des Wortes ""haben"": ","['h', 'a', 'b', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""Sport""? A:","['s', 'p', 'o', 'r', 't']",t,s
+"Schreibe den letzten Buchstaben des Wortes ""Firma"": ","['f', 'i', 'r', 'm', 'a']",a,f
+"F: Was ist der letzte Buchstabe des Wortes ""Bude""? A:","['b', 'u', 'd', 'e']",e,d
+"F: Was ist der letzte Buchstabe des Wortes ""Industrie""? A:","['i', 'n', 'd', 'u', 's', 't', 'r', 'i', 'e']",e,s
+"F: Mit welchem Buchstaben endet das Wort ""Lokal""? A:","['l', 'o', 'k', 'a', 'l']",l,k
+"F: Mit welchem Buchstaben endet das Wort ""leise""? A:","['l', 'e', 'i', 's', 'e']",e,i
+"Schreibe den letzten Buchstaben des Wortes ""geduldig"": ","['g', 'e', 'd', 'u', 'l', 'd', 'i', 'g']",g,i
+"F: Mit welchem Buchstaben endet das Wort ""Gürtelrose""? A:","['g', 'ü', 'r', 't', 'e', 'l', 'r', 'o', 's', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""aussortieren""? A:","['a', 'u', 's', 's', 'o', 'r', 't', 'i', 'e', 'r', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Gemütlichkeit""? A:","['g', 'e', 'm', 'ü', 't', 'l', 'i', 'c', 'h', 'k', 'e', 'i', 't']",t,m
+"F: Mit welchem Buchstaben endet das Wort ""Skulptur""? A:","['s', 'k', 'u', 'l', 'p', 't', 'u', 'r']",r,u
+"Schreibe den letzten Buchstaben des Wortes ""Eilzug"": ","['e', 'i', 'l', 'z', 'u', 'g']",g,u
+"F: Mit welchem Buchstaben endet das Wort ""bringen""? A:","['b', 'r', 'i', 'n', 'g', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Apfel""? A:","['a', 'p', 'f', 'e', 'l']",l,f
+"F: Was ist der letzte Buchstabe des Wortes ""klingen""? A:","['k', 'l', 'i', 'n', 'g', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""ausmachen""? A:","['a', 'u', 's', 'm', 'a', 'c', 'h', 'e', 'n']",n,s
+"Schreibe den letzten Buchstaben des Wortes ""Drucker"": ","['d', 'r', 'u', 'c', 'k', 'e', 'r']",r,u
+"F: Mit welchem Buchstaben endet das Wort ""Größe""? A:","['g', 'r', 'ö', 'ß', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""entschuldigen""? A:","['e', 'n', 't', 's', 'c', 'h', 'u', 'l', 'd', 'i', 'g', 'e', 'n']",n,s
+"F: Mit welchem Buchstaben endet das Wort ""November""? A:","['n', 'o', 'v', 'e', 'm', 'b', 'e', 'r']",r,e
+"F: Was ist der letzte Buchstabe des Wortes ""ankommen""? A:","['a', 'n', 'k', 'o', 'm', 'm', 'e', 'n']",n,a
+"F: Was ist der letzte Buchstabe des Wortes ""Gabel""? A:","['g', 'a', 'b', 'e', 'l']",l,l
+"F: Was ist der letzte Buchstabe des Wortes ""Entwicklung""? A:","['e', 'n', 't', 'w', 'i', 'c', 'k', 'l', 'u', 'n', 'g']",g,k
+"F: Mit welchem Buchstaben endet das Wort ""Tasche""? A:","['t', 'a', 's', 'c', 'h', 'e']",e,s
+"F: Mit welchem Buchstaben endet das Wort ""Garten""? A:","['g', 'a', 'r', 't', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""passen"": ","['p', 'a', 's', 's', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Tierarzt"": ","['t', 'i', 'e', 'r', 'a', 'r', 'z', 't']",t,i
+"F: Mit welchem Buchstaben endet das Wort ""aromatisch""? A:","['a', 'r', 'o', 'm', 'a', 't', 'i', 's', 'c', 'h']",h,t
+"Schreibe den letzten Buchstaben des Wortes ""Büro"": ","['b', 'ü', 'r', 'o']",o,b
+"Schreibe den letzten Buchstaben des Wortes ""Salz"": ","['s', 'a', 'l', 'z']",z,s
+"Schreibe den letzten Buchstaben des Wortes ""Schatz"": ","['s', 'c', 'h', 'a', 't', 'z']",z,t
+"F: Was ist der letzte Buchstabe des Wortes ""Gras""? A:","['g', 'r', 'a', 's']",s,r
+"Schreibe den letzten Buchstaben des Wortes ""Fund"": ","['f', 'u', 'n', 'd']",d,u
+"Schreibe den letzten Buchstaben des Wortes ""Idee"": ","['i', 'd', 'e', 'e']",e,d
+"Schreibe den letzten Buchstaben des Wortes ""süß"": ","['s', 'ü', 'ß']",ß,s
+"F: Was ist der letzte Buchstabe des Wortes ""Sprache""? A:","['s', 'p', 'r', 'a', 'c', 'h', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""schmutzig""? A:","['s', 'c', 'h', 'm', 'u', 't', 'z', 'i', 'g']",g,i
+"Schreibe den letzten Buchstaben des Wortes ""Krimi"": ","['k', 'r', 'i', 'm', 'i']",i,k
+"F: Was ist der letzte Buchstabe des Wortes ""Nerv""? A:","['n', 'e', 'r', 'v']",v,n
+"Schreibe den letzten Buchstaben des Wortes ""Dame"": ","['d', 'a', 'm', 'e']",e,a
+"F: Was ist der letzte Buchstabe des Wortes ""Gerichtssaal""? A:","['g', 'e', 'r', 'i', 'c', 'h', 't', 's', 's', 'a', 'a', 'l']",l,e
+"F: Mit welchem Buchstaben endet das Wort ""Stockwerk""? A:","['s', 't', 'o', 'c', 'k', 'w', 'e', 'r', 'k']",k,t
+"F: Was ist der letzte Buchstabe des Wortes ""Fachschule""? A:","['f', 'a', 'c', 'h', 's', 'c', 'h', 'u', 'l', 'e']",e,s
+"Schreibe den letzten Buchstaben des Wortes ""Feuerwehr"": ","['f', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r']",r,f
+"F: Mit welchem Buchstaben endet das Wort ""Onkel""? A:","['o', 'n', 'k', 'e', 'l']",l,n
+"Schreibe den letzten Buchstaben des Wortes ""Feuerwehr"": ","['f', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r']",r,r
+"F: Mit welchem Buchstaben endet das Wort ""besetzen""? A:","['b', 'e', 's', 'e', 't', 'z', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""Akzent""? A:","['a', 'k', 'z', 'e', 'n', 't']",t,e
+"F: Was ist der letzte Buchstabe des Wortes ""Lichtschalter""? A:","['l', 'i', 'c', 'h', 't', 's', 'c', 'h', 'a', 'l', 't', 'e', 'r']",r,e
+"F: Was ist der letzte Buchstabe des Wortes ""Abteilung""? A:","['a', 'b', 't', 'e', 'i', 'l', 'u', 'n', 'g']",g,g
+"F: Mit welchem Buchstaben endet das Wort ""friedlich""? A:","['f', 'r', 'i', 'e', 'd', 'l', 'i', 'c', 'h']",h,f
+"F: Mit welchem Buchstaben endet das Wort ""reduziert""? A:","['r', 'e', 'd', 'u', 'z', 'i', 'e', 'r', 't']",t,d
+"F: Was ist der letzte Buchstabe des Wortes ""putzen""? A:","['p', 'u', 't', 'z', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Substanz"": ","['s', 'u', 'b', 's', 't', 'a', 'n', 'z']",z,b
+"Schreibe den letzten Buchstaben des Wortes ""hassen"": ","['h', 'a', 's', 's', 'e', 'n']",n,h
+"F: Was ist der letzte Buchstabe des Wortes ""Mischung""? A:","['m', 'i', 's', 'c', 'h', 'u', 'n', 'g']",g,u
+"Schreibe den letzten Buchstaben des Wortes ""Unterricht"": ","['u', 'n', 't', 'e', 'r', 'r', 'i', 'c', 'h', 't']",t,n
+"Schreibe den letzten Buchstaben des Wortes ""Flickenteppich"": ","['f', 'l', 'i', 'c', 'k', 'e', 'n', 't', 'e', 'p', 'p', 'i', 'c', 'h']",h,e
+"F: Mit welchem Buchstaben endet das Wort ""Blattspinat""? A:","['b', 'l', 'a', 't', 't', 's', 'p', 'i', 'n', 'a', 't']",t,s
+"F: Was ist der letzte Buchstabe des Wortes ""feige""? A:","['f', 'e', 'i', 'g', 'e']",e,i
+"Schreibe den letzten Buchstaben des Wortes ""Kleid"": ","['k', 'l', 'e', 'i', 'd']",d,l
+"F: Mit welchem Buchstaben endet das Wort ""erzählen""? A:","['e', 'r', 'z', 'ä', 'h', 'l', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Tüte"": ","['t', 'ü', 't', 'e']",e,t
+"F: Mit welchem Buchstaben endet das Wort ""unterhaltsam""? A:","['u', 'n', 't', 'e', 'r', 'h', 'a', 'l', 't', 's', 'a', 'm']",m,e
+"F: Was ist der letzte Buchstabe des Wortes ""Form""? A:","['f', 'o', 'r', 'm']",m,f
+"F: Mit welchem Buchstaben endet das Wort ""Depot""? A:","['d', 'e', 'p', 'o', 't']",t,e
+"F: Was ist der letzte Buchstabe des Wortes ""Aktivität""? A:","['a', 'k', 't', 'i', 'v', 'i', 't', 'ä', 't']",t,t
+"Schreibe den letzten Buchstaben des Wortes ""behandeln"": ","['b', 'e', 'h', 'a', 'n', 'd', 'e', 'l', 'n']",n,b
+"F: Mit welchem Buchstaben endet das Wort ""Regierung""? A:","['r', 'e', 'g', 'i', 'e', 'r', 'u', 'n', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""Obstgarten"": ","['o', 'b', 's', 't', 'g', 'a', 'r', 't', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""schlafen""? A:","['s', 'c', 'h', 'l', 'a', 'f', 'e', 'n']",n,s
+"F: Was ist der letzte Buchstabe des Wortes ""Dokument""? A:","['d', 'o', 'k', 'u', 'm', 'e', 'n', 't']",t,t
+"F: Was ist der letzte Buchstabe des Wortes ""vorbereiten""? A:","['v', 'o', 'r', 'b', 'e', 'r', 'e', 'i', 't', 'e', 'n']",n,o
+"Schreibe den letzten Buchstaben des Wortes ""Fahrstuhl"": ","['f', 'a', 'h', 'r', 's', 't', 'u', 'h', 'l']",l,f
+"F: Mit welchem Buchstaben endet das Wort ""zahm""? A:","['z', 'a', 'h', 'm']",m,m
+"F: Mit welchem Buchstaben endet das Wort ""Besetzung""? A:","['b', 'e', 's', 'e', 't', 'z', 'u', 'n', 'g']",g,n
+"F: Was ist der letzte Buchstabe des Wortes ""Depot""? A:","['d', 'e', 'p', 'o', 't']",t,e
+"F: Mit welchem Buchstaben endet das Wort ""erfüllen""? A:","['e', 'r', 'f', 'ü', 'l', 'l', 'e', 'n']",n,f
+"F: Mit welchem Buchstaben endet das Wort ""Temperatur""? A:","['t', 'e', 'm', 'p', 'e', 'r', 'a', 't', 'u', 'r']",r,e
+"F: Was ist der letzte Buchstabe des Wortes ""Campingzelt""? A:","['c', 'a', 'm', 'p', 'i', 'n', 'g', 'z', 'e', 'l', 't']",t,a
+"F: Mit welchem Buchstaben endet das Wort ""Ahorn""? A:","['a', 'h', 'o', 'r', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Planet"": ","['p', 'l', 'a', 'n', 'e', 't']",t,t
+"F: Was ist der letzte Buchstabe des Wortes ""Schraube""? A:","['s', 'c', 'h', 'r', 'a', 'u', 'b', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""dick"": ","['d', 'i', 'c', 'k']",k,i
+"F: Was ist der letzte Buchstabe des Wortes ""Balkon""? A:","['b', 'a', 'l', 'k', 'o', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Werkzeug""? A:","['w', 'e', 'r', 'k', 'z', 'e', 'u', 'g']",g,g
+"F: Mit welchem Buchstaben endet das Wort ""umarmen""? A:","['u', 'm', 'a', 'r', 'm', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Schulter""? A:","['s', 'c', 'h', 'u', 'l', 't', 'e', 'r']",r,r
+"F: Was ist der letzte Buchstabe des Wortes ""einladen""? A:","['e', 'i', 'n', 'l', 'a', 'd', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""antworten"": ","['a', 'n', 't', 'w', 'o', 'r', 't', 'e', 'n']",n,t
+"F: Mit welchem Buchstaben endet das Wort ""Wort""? A:","['w', 'o', 'r', 't']",t,r
+"F: Mit welchem Buchstaben endet das Wort ""abfinden""? A:","['a', 'b', 'f', 'i', 'n', 'd', 'e', 'n']",n,b
+"Schreibe den letzten Buchstaben des Wortes ""Affe"": ","['a', 'f', 'f', 'e']",e,a
+"Schreibe den letzten Buchstaben des Wortes ""aufschreiben"": ","['a', 'u', 'f', 's', 'c', 'h', 'r', 'e', 'i', 'b', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""Suppe""? A:","['s', 'u', 'p', 'p', 'e']",e,u
+"Schreibe den letzten Buchstaben des Wortes ""schreien"": ","['s', 'c', 'h', 'r', 'e', 'i', 'e', 'n']",n,s
+"Schreibe den letzten Buchstaben des Wortes ""Post"": ","['p', 'o', 's', 't']",t,p
+"F: Mit welchem Buchstaben endet das Wort ""Statue""? A:","['s', 't', 'a', 't', 'u', 'e']",e,a
+"F: Mit welchem Buchstaben endet das Wort ""schmeichelhaft""? A:","['s', 'c', 'h', 'm', 'e', 'i', 'c', 'h', 'e', 'l', 'h', 'a', 'f', 't']",t,f
+"Schreibe den letzten Buchstaben des Wortes ""geistreich"": ","['g', 'e', 'i', 's', 't', 'r', 'e', 'i', 'c', 'h']",h,h
+"F: Was ist der letzte Buchstabe des Wortes ""Handarbeit""? A:","['h', 'a', 'n', 'd', 'a', 'r', 'b', 'e', 'i', 't']",t,a
+"F: Was ist der letzte Buchstabe des Wortes ""Kette""? A:","['k', 'e', 't', 't', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""unternehmen""? A:","['u', 'n', 't', 'e', 'r', 'n', 'e', 'h', 'm', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Stall""? A:","['s', 't', 'a', 'l', 'l']",l,s
+"F: Mit welchem Buchstaben endet das Wort ""Kaffee""? A:","['k', 'a', 'f', 'f', 'e', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""unpünktlich"": ","['u', 'n', 'p', 'ü', 'n', 'k', 't', 'l', 'i', 'c', 'h']",h,l
+"F: Mit welchem Buchstaben endet das Wort ""Medizin""? A:","['m', 'e', 'd', 'i', 'z', 'i', 'n']",n,d
+"F: Mit welchem Buchstaben endet das Wort ""Ballonfahrt""? A:","['b', 'a', 'l', 'l', 'o', 'n', 'f', 'a', 'h', 'r', 't']",t,f
+"F: Was ist der letzte Buchstabe des Wortes ""Durst""? A:","['d', 'u', 'r', 's', 't']",t,s
+"Schreibe den letzten Buchstaben des Wortes ""ausleihen"": ","['a', 'u', 's', 'l', 'e', 'i', 'h', 'e', 'n']",n,h
+"F: Mit welchem Buchstaben endet das Wort ""Wiese""? A:","['w', 'i', 'e', 's', 'e']",e,i
+"F: Was ist der letzte Buchstabe des Wortes ""Getränk""? A:","['g', 'e', 't', 'r', 'ä', 'n', 'k']",k,g
+"F: Was ist der letzte Buchstabe des Wortes ""Ballon""? A:","['b', 'a', 'l', 'l', 'o', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Trick"": ","['t', 'r', 'i', 'c', 'k']",k,c
+"F: Mit welchem Buchstaben endet das Wort ""Mischung""? A:","['m', 'i', 's', 'c', 'h', 'u', 'n', 'g']",g,n
+"F: Was ist der letzte Buchstabe des Wortes ""erhalten""? A:","['e', 'r', 'h', 'a', 'l', 't', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""lustvoll""? A:","['l', 'u', 's', 't', 'v', 'o', 'l', 'l']",l,v
+"F: Mit welchem Buchstaben endet das Wort ""Boden""? A:","['b', 'o', 'd', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Hören"": ","['h', 'ö', 'r', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""Begabung""? A:","['b', 'e', 'g', 'a', 'b', 'u', 'n', 'g']",g,e
+"F: Was ist der letzte Buchstabe des Wortes ""Nacht""? A:","['n', 'a', 'c', 'h', 't']",t,n
+"F: Mit welchem Buchstaben endet das Wort ""scheiden""? A:","['s', 'c', 'h', 'e', 'i', 'd', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""annehmen""? A:","['a', 'n', 'n', 'e', 'h', 'm', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Erfindung""? A:","['e', 'r', 'f', 'i', 'n', 'd', 'u', 'n', 'g']",g,r
+"Schreibe den letzten Buchstaben des Wortes ""Luft"": ","['l', 'u', 'f', 't']",t,u
+"F: Was ist der letzte Buchstabe des Wortes ""spielen""? A:","['s', 'p', 'i', 'e', 'l', 'e', 'n']",n,s
+"Schreibe den letzten Buchstaben des Wortes ""lügen"": ","['l', 'ü', 'g', 'e', 'n']",n,g
+"F: Was ist der letzte Buchstabe des Wortes ""Traum""? A:","['t', 'r', 'a', 'u', 'm']",m,m
+"Schreibe den letzten Buchstaben des Wortes ""Gedenkstätte"": ","['g', 'e', 'd', 'e', 'n', 'k', 's', 't', 'ä', 't', 't', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""Straße""? A:","['s', 't', 'r', 'a', 'ß', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""Essenz""? A:","['e', 's', 's', 'e', 'n', 'z']",z,z
+"F: Was ist der letzte Buchstabe des Wortes ""Kloster""? A:","['k', 'l', 'o', 's', 't', 'e', 'r']",r,s
+"F: Mit welchem Buchstaben endet das Wort ""Bewohner""? A:","['b', 'e', 'w', 'o', 'h', 'n', 'e', 'r']",r,n
+"F: Was ist der letzte Buchstabe des Wortes ""kreativ""? A:","['k', 'r', 'e', 'a', 't', 'i', 'v']",v,e
+"F: Was ist der letzte Buchstabe des Wortes ""decken""? A:","['d', 'e', 'c', 'k', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Kollege"": ","['k', 'o', 'l', 'l', 'e', 'g', 'e']",e,o
+"F: Mit welchem Buchstaben endet das Wort ""Taucher""? A:","['t', 'a', 'u', 'c', 'h', 'e', 'r']",r,e
+"F: Mit welchem Buchstaben endet das Wort ""Holz""? A:","['h', 'o', 'l', 'z']",z,l
+"F: Was ist der letzte Buchstabe des Wortes ""Garage""? A:","['g', 'a', 'r', 'a', 'g', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""Insel""? A:","['i', 'n', 's', 'e', 'l']",l,i
+"Schreibe den letzten Buchstaben des Wortes ""virtuell"": ","['v', 'i', 'r', 't', 'u', 'e', 'l', 'l']",l,u
+"Schreibe den letzten Buchstaben des Wortes ""bestimmt"": ","['b', 'e', 's', 't', 'i', 'm', 'm', 't']",t,m
+"F: Mit welchem Buchstaben endet das Wort ""Korb""? A:","['k', 'o', 'r', 'b']",b,b
+"Schreibe den letzten Buchstaben des Wortes ""gemeinsam"": ","['g', 'e', 'm', 'e', 'i', 'n', 's', 'a', 'm']",m,s
+"Schreibe den letzten Buchstaben des Wortes ""Deodorant"": ","['d', 'e', 'o', 'd', 'o', 'r', 'a', 'n', 't']",t,o
+"Schreibe den letzten Buchstaben des Wortes ""Kellner"": ","['k', 'e', 'l', 'l', 'n', 'e', 'r']",r,k
+"F: Mit welchem Buchstaben endet das Wort ""grazil""? A:","['g', 'r', 'a', 'z', 'i', 'l']",l,g
+"F: Mit welchem Buchstaben endet das Wort ""Million""? A:","['m', 'i', 'l', 'l', 'i', 'o', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""adoptieren""? A:","['a', 'd', 'o', 'p', 't', 'i', 'e', 'r', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""teuer""? A:","['t', 'e', 'u', 'e', 'r']",r,e
+"F: Was ist der letzte Buchstabe des Wortes ""Herz""? A:","['h', 'e', 'r', 'z']",z,e
+"Schreibe den letzten Buchstaben des Wortes ""Schokolade"": ","['s', 'c', 'h', 'o', 'k', 'o', 'l', 'a', 'd', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""gefallen"": ","['g', 'e', 'f', 'a', 'l', 'l', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Bildung"": ","['b', 'i', 'l', 'd', 'u', 'n', 'g']",g,b
+"Schreibe den letzten Buchstaben des Wortes ""ersetzen"": ","['e', 'r', 's', 'e', 't', 'z', 'e', 'n']",n,t
+"F: Was ist der letzte Buchstabe des Wortes ""nehmen""? A:","['n', 'e', 'h', 'm', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Kompass""? A:","['k', 'o', 'm', 'p', 'a', 's', 's']",s,m
+"F: Mit welchem Buchstaben endet das Wort ""Ziegel""? A:","['z', 'i', 'e', 'g', 'e', 'l']",l,e
+"Schreibe den letzten Buchstaben des Wortes ""Bauer"": ","['b', 'a', 'u', 'e', 'r']",r,b
+"F: Was ist der letzte Buchstabe des Wortes ""Richtung""? A:","['r', 'i', 'c', 'h', 't', 'u', 'n', 'g']",g,t
+"F: Mit welchem Buchstaben endet das Wort ""Reise""? A:","['r', 'e', 'i', 's', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""Dampf""? A:","['d', 'a', 'm', 'p', 'f']",f,f
+"Schreibe den letzten Buchstaben des Wortes ""Oper"": ","['o', 'p', 'e', 'r']",r,e
+"F: Mit welchem Buchstaben endet das Wort ""Samen""? A:","['s', 'a', 'm', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""neidisch""? A:","['n', 'e', 'i', 'd', 'i', 's', 'c', 'h']",h,s
+"F: Was ist der letzte Buchstabe des Wortes ""Handschuhe""? A:","['h', 'a', 'n', 'd', 's', 'c', 'h', 'u', 'h', 'e']",e,c
+"F: Mit welchem Buchstaben endet das Wort ""Schnee""? A:","['s', 'c', 'h', 'n', 'e', 'e']",e,n
+"F: Was ist der letzte Buchstabe des Wortes ""Bogenlampe""? A:","['b', 'o', 'g', 'e', 'n', 'l', 'a', 'm', 'p', 'e']",e,o
+"F: Was ist der letzte Buchstabe des Wortes ""Brust""? A:","['b', 'r', 'u', 's', 't']",t,b
+"F: Was ist der letzte Buchstabe des Wortes ""unsympathisch""? A:","['u', 'n', 's', 'y', 'm', 'p', 'a', 't', 'h', 'i', 's', 'c', 'h']",h,u
+"F: Was ist der letzte Buchstabe des Wortes ""Fahrzeug""? A:","['f', 'a', 'h', 'r', 'z', 'e', 'u', 'g']",g,e
+"F: Mit welchem Buchstaben endet das Wort ""Schalter""? A:","['s', 'c', 'h', 'a', 'l', 't', 'e', 'r']",r,t
+"F: Was ist der letzte Buchstabe des Wortes ""Lehrer""? A:","['l', 'e', 'h', 'r', 'e', 'r']",r,e
+"Schreibe den letzten Buchstaben des Wortes ""schlafen"": ","['s', 'c', 'h', 'l', 'a', 'f', 'e', 'n']",n,c
+"F: Was ist der letzte Buchstabe des Wortes ""Student""? A:","['s', 't', 'u', 'd', 'e', 'n', 't']",t,d
+"F: Was ist der letzte Buchstabe des Wortes ""Luft""? A:","['l', 'u', 'f', 't']",t,t
+"Schreibe den letzten Buchstaben des Wortes ""bereiten"": ","['b', 'e', 'r', 'e', 'i', 't', 'e', 'n']",n,b
+"Schreibe den letzten Buchstaben des Wortes ""Telefon"": ","['t', 'e', 'l', 'e', 'f', 'o', 'n']",n,o
+"F: Mit welchem Buchstaben endet das Wort ""Festival""? A:","['f', 'e', 's', 't', 'i', 'v', 'a', 'l']",l,v
+"F: Mit welchem Buchstaben endet das Wort ""Kasten""? A:","['k', 'a', 's', 't', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""Herbstlaub""? A:","['h', 'e', 'r', 'b', 's', 't', 'l', 'a', 'u', 'b']",b,u
+"Schreibe den letzten Buchstaben des Wortes ""Gelände"": ","['g', 'e', 'l', 'ä', 'n', 'd', 'e']",e,l
+"F: Was ist der letzte Buchstabe des Wortes ""studieren""? A:","['s', 't', 'u', 'd', 'i', 'e', 'r', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Beobachtung"": ","['b', 'e', 'o', 'b', 'a', 'c', 'h', 't', 'u', 'n', 'g']",g,h
+"Schreibe den letzten Buchstaben des Wortes ""abbrechen"": ","['a', 'b', 'b', 'r', 'e', 'c', 'h', 'e', 'n']",n,b
+"F: Was ist der letzte Buchstabe des Wortes ""Funktion""? A:","['f', 'u', 'n', 'k', 't', 'i', 'o', 'n']",n,k
+"F: Was ist der letzte Buchstabe des Wortes ""aussteigen""? A:","['a', 'u', 's', 's', 't', 'e', 'i', 'g', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Dollar""? A:","['d', 'o', 'l', 'l', 'a', 'r']",r,d
+"F: Was ist der letzte Buchstabe des Wortes ""Kranich""? A:","['k', 'r', 'a', 'n', 'i', 'c', 'h']",h,k
+"F: Mit welchem Buchstaben endet das Wort ""Himmel""? A:","['h', 'i', 'm', 'm', 'e', 'l']",l,m
+"Schreibe den letzten Buchstaben des Wortes ""ziehen"": ","['z', 'i', 'e', 'h', 'e', 'n']",n,i
+"F: Was ist der letzte Buchstabe des Wortes ""Jahrmarkt""? A:","['j', 'a', 'h', 'r', 'm', 'a', 'r', 'k', 't']",t,j
+"F: Mit welchem Buchstaben endet das Wort ""Rechnung""? A:","['r', 'e', 'c', 'h', 'n', 'u', 'n', 'g']",g,u
+"F: Mit welchem Buchstaben endet das Wort ""fliegen""? A:","['f', 'l', 'i', 'e', 'g', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""abladen""? A:","['a', 'b', 'l', 'a', 'd', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""gigantisch""? A:","['g', 'i', 'g', 'a', 'n', 't', 'i', 's', 'c', 'h']",h,n
+"F: Was ist der letzte Buchstabe des Wortes ""Direktorat""? A:","['d', 'i', 'r', 'e', 'k', 't', 'o', 'r', 'a', 't']",t,d
+"F: Mit welchem Buchstaben endet das Wort ""Draht""? A:","['d', 'r', 'a', 'h', 't']",t,h
+"F: Was ist der letzte Buchstabe des Wortes ""strukturiert""? A:","['s', 't', 'r', 'u', 'k', 't', 'u', 'r', 'i', 'e', 'r', 't']",t,r
+"Schreibe den letzten Buchstaben des Wortes ""Käfig"": ","['k', 'ä', 'f', 'i', 'g']",g,f
+"F: Mit welchem Buchstaben endet das Wort ""Leder""? A:","['l', 'e', 'd', 'e', 'r']",r,r
+"Schreibe den letzten Buchstaben des Wortes ""aufmachen"": ","['a', 'u', 'f', 'm', 'a', 'c', 'h', 'e', 'n']",n,c
+"F: Was ist der letzte Buchstabe des Wortes ""Schwester""? A:","['s', 'c', 'h', 'w', 'e', 's', 't', 'e', 'r']",r,e
+"Schreibe den letzten Buchstaben des Wortes ""Bettwäsche"": ","['b', 'e', 't', 't', 'w', 'ä', 's', 'c', 'h', 'e']",e,h
+"F: Mit welchem Buchstaben endet das Wort ""unklar""? A:","['u', 'n', 'k', 'l', 'a', 'r']",r,u
+"F: Mit welchem Buchstaben endet das Wort ""Blume""? A:","['b', 'l', 'u', 'm', 'e']",e,e
+"F: Mit welchem Buchstaben endet das Wort ""Tropfen""? A:","['t', 'r', 'o', 'p', 'f', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Rand""? A:","['r', 'a', 'n', 'd']",d,n
+"Schreibe den letzten Buchstaben des Wortes ""Herd"": ","['h', 'e', 'r', 'd']",d,e
+"Schreibe den letzten Buchstaben des Wortes ""sterben"": ","['s', 't', 'e', 'r', 'b', 'e', 'n']",n,b
+"F: Mit welchem Buchstaben endet das Wort ""Hund""? A:","['h', 'u', 'n', 'd']",d,h
+"F: Mit welchem Buchstaben endet das Wort ""Recht""? A:","['r', 'e', 'c', 'h', 't']",t,e
+"F: Was ist der letzte Buchstabe des Wortes ""meinen""? A:","['m', 'e', 'i', 'n', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Biss"": ","['b', 'i', 's', 's']",s,b
+"Schreibe den letzten Buchstaben des Wortes ""wohnen"": ","['w', 'o', 'h', 'n', 'e', 'n']",n,h
+"Schreibe den letzten Buchstaben des Wortes ""Information"": ","['i', 'n', 'f', 'o', 'r', 'm', 'a', 't', 'i', 'o', 'n']",n,r
+"F: Was ist der letzte Buchstabe des Wortes ""Eimer""? A:","['e', 'i', 'm', 'e', 'r']",r,r
+"F: Mit welchem Buchstaben endet das Wort ""Minute""? A:","['m', 'i', 'n', 'u', 't', 'e']",e,n
+"F: Mit welchem Buchstaben endet das Wort ""fangen""? A:","['f', 'a', 'n', 'g', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""subtil""? A:","['s', 'u', 'b', 't', 'i', 'l']",l,b
+"F: Mit welchem Buchstaben endet das Wort ""Park""? A:","['p', 'a', 'r', 'k']",k,r
+"Schreibe den letzten Buchstaben des Wortes ""Flasche"": ","['f', 'l', 'a', 's', 'c', 'h', 'e']",e,f
+"Schreibe den letzten Buchstaben des Wortes ""unsicher"": ","['u', 'n', 's', 'i', 'c', 'h', 'e', 'r']",r,c
+"F: Mit welchem Buchstaben endet das Wort ""Ziege""? A:","['z', 'i', 'e', 'g', 'e']",e,i
+"Schreibe den letzten Buchstaben des Wortes ""abschalten"": ","['a', 'b', 's', 'c', 'h', 'a', 'l', 't', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""Rechnung""? A:","['r', 'e', 'c', 'h', 'n', 'u', 'n', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""Porzellan"": ","['p', 'o', 'r', 'z', 'e', 'l', 'l', 'a', 'n']",n,o
+"F: Was ist der letzte Buchstabe des Wortes ""teilen""? A:","['t', 'e', 'i', 'l', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""unschuldig""? A:","['u', 'n', 's', 'c', 'h', 'u', 'l', 'd', 'i', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""Fremdenführer"": ","['f', 'r', 'e', 'm', 'd', 'e', 'n', 'f', 'ü', 'h', 'r', 'e', 'r']",r,d
+"F: Was ist der letzte Buchstabe des Wortes ""Kuh""? A:","['k', 'u', 'h']",h,h
+"F: Mit welchem Buchstaben endet das Wort ""schmal""? A:","['s', 'c', 'h', 'm', 'a', 'l']",l,s
+"Schreibe den letzten Buchstaben des Wortes ""Ausgang"": ","['a', 'u', 's', 'g', 'a', 'n', 'g']",g,u
+"F: Was ist der letzte Buchstabe des Wortes ""hoffen""? A:","['h', 'o', 'f', 'f', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""wissen""? A:","['w', 'i', 's', 's', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Technik""? A:","['t', 'e', 'c', 'h', 'n', 'i', 'k']",k,c
+"F: Mit welchem Buchstaben endet das Wort ""Rücken""? A:","['r', 'ü', 'c', 'k', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""feindlich"": ","['f', 'e', 'i', 'n', 'd', 'l', 'i', 'c', 'h']",h,h
+"F: Was ist der letzte Buchstabe des Wortes ""abzeichnen""? A:","['a', 'b', 'z', 'e', 'i', 'c', 'h', 'n', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Eventualität"": ","['e', 'v', 'e', 'n', 't', 'u', 'a', 'l', 'i', 't', 'ä', 't']",t,n
+"Schreibe den letzten Buchstaben des Wortes ""See"": ","['s', 'e', 'e']",e,s
+"F: Was ist der letzte Buchstabe des Wortes ""Mücke""? A:","['m', 'ü', 'c', 'k', 'e']",e,m
+"Schreibe den letzten Buchstaben des Wortes ""erinnern"": ","['e', 'r', 'i', 'n', 'n', 'e', 'r', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Uhr""? A:","['u', 'h', 'r']",r,r
+"Schreibe den letzten Buchstaben des Wortes ""einfallen"": ","['e', 'i', 'n', 'f', 'a', 'l', 'l', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""nervös""? A:","['n', 'e', 'r', 'v', 'ö', 's']",s,e
+"Schreibe den letzten Buchstaben des Wortes ""bezahlen"": ","['b', 'e', 'z', 'a', 'h', 'l', 'e', 'n']",n,b
+"Schreibe den letzten Buchstaben des Wortes ""abmachen"": ","['a', 'b', 'm', 'a', 'c', 'h', 'e', 'n']",n,c
+"F: Mit welchem Buchstaben endet das Wort ""Agentur""? A:","['a', 'g', 'e', 'n', 't', 'u', 'r']",r,a
+"F: Was ist der letzte Buchstabe des Wortes ""Spielplatz""? A:","['s', 'p', 'i', 'e', 'l', 'p', 'l', 'a', 't', 'z']",z,e
+"F: Was ist der letzte Buchstabe des Wortes ""sprechen""? A:","['s', 'p', 'r', 'e', 'c', 'h', 'e', 'n']",n,s
+"F: Was ist der letzte Buchstabe des Wortes ""Jahrtausend""? A:","['j', 'a', 'h', 'r', 't', 'a', 'u', 's', 'e', 'n', 'd']",d,s
+"F: Mit welchem Buchstaben endet das Wort ""beständig""? A:","['b', 'e', 's', 't', 'ä', 'n', 'd', 'i', 'g']",g,n
+"F: Mit welchem Buchstaben endet das Wort ""Kirche""? A:","['k', 'i', 'r', 'c', 'h', 'e']",e,k
+"F: Mit welchem Buchstaben endet das Wort ""Gericht""? A:","['g', 'e', 'r', 'i', 'c', 'h', 't']",t,t
+"Schreibe den letzten Buchstaben des Wortes ""empfangen"": ","['e', 'm', 'p', 'f', 'a', 'n', 'g', 'e', 'n']",n,m
+"F: Was ist der letzte Buchstabe des Wortes ""Kunst""? A:","['k', 'u', 'n', 's', 't']",t,n
+"F: Was ist der letzte Buchstabe des Wortes ""anstarren""? A:","['a', 'n', 's', 't', 'a', 'r', 'r', 'e', 'n']",n,s
+"F: Mit welchem Buchstaben endet das Wort ""bringen""? A:","['b', 'r', 'i', 'n', 'g', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""benachrichtigen""? A:","['b', 'e', 'n', 'a', 'c', 'h', 'r', 'i', 'c', 'h', 't', 'i', 'g', 'e', 'n']",n,b
+"F: Was ist der letzte Buchstabe des Wortes ""Kanal""? A:","['k', 'a', 'n', 'a', 'l']",l,n
+"F: Mit welchem Buchstaben endet das Wort ""Mütze""? A:","['m', 'ü', 't', 'z', 'e']",e,m
+"F: Mit welchem Buchstaben endet das Wort ""Liebe""? A:","['l', 'i', 'e', 'b', 'e']",e,b
+"F: Mit welchem Buchstaben endet das Wort ""Obst""? A:","['o', 'b', 's', 't']",t,s
+"F: Was ist der letzte Buchstabe des Wortes ""Containerhafen""? A:","['c', 'o', 'n', 't', 'a', 'i', 'n', 'e', 'r', 'h', 'a', 'f', 'e', 'n']",n,i
+"F: Mit welchem Buchstaben endet das Wort ""Fleischstück""? A:","['f', 'l', 'e', 'i', 's', 'c', 'h', 's', 't', 'ü', 'c', 'k']",k,s
+"F: Was ist der letzte Buchstabe des Wortes ""Besprechung""? A:","['b', 'e', 's', 'p', 'r', 'e', 'c', 'h', 'u', 'n', 'g']",g,c
+"Schreibe den letzten Buchstaben des Wortes ""Schlange"": ","['s', 'c', 'h', 'l', 'a', 'n', 'g', 'e']",e,c
+"F: Was ist der letzte Buchstabe des Wortes ""Regen""? A:","['r', 'e', 'g', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Pudding""? A:","['p', 'u', 'd', 'd', 'i', 'n', 'g']",g,i
+"F: Was ist der letzte Buchstabe des Wortes ""Ohr""? A:","['o', 'h', 'r']",r,r
+"Schreibe den letzten Buchstaben des Wortes ""Schule"": ","['s', 'c', 'h', 'u', 'l', 'e']",e,c
+"F: Mit welchem Buchstaben endet das Wort ""Rucksacktour""? A:","['r', 'u', 'c', 'k', 's', 'a', 'c', 'k', 't', 'o', 'u', 'r']",r,s
+"F: Was ist der letzte Buchstabe des Wortes ""Halbfinale""? A:","['h', 'a', 'l', 'b', 'f', 'i', 'n', 'a', 'l', 'e']",e,b
+"F: Was ist der letzte Buchstabe des Wortes ""abspringen""? A:","['a', 'b', 's', 'p', 'r', 'i', 'n', 'g', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Kino""? A:","['k', 'i', 'n', 'o']",o,n
+"Schreibe den letzten Buchstaben des Wortes ""abwenden"": ","['a', 'b', 'w', 'e', 'n', 'd', 'e', 'n']",n,b
+"F: Mit welchem Buchstaben endet das Wort ""Flügel""? A:","['f', 'l', 'ü', 'g', 'e', 'l']",l,f
+"F: Mit welchem Buchstaben endet das Wort ""Flutlicht""? A:","['f', 'l', 'u', 't', 'l', 'i', 'c', 'h', 't']",t,f
+"F: Mit welchem Buchstaben endet das Wort ""Gott""? A:","['g', 'o', 't', 't']",t,t
+"Schreibe den letzten Buchstaben des Wortes ""Grütze"": ","['g', 'r', 'ü', 't', 'z', 'e']",e,t
+"F: Mit welchem Buchstaben endet das Wort ""Tod""? A:","['t', 'o', 'd']",d,d
+"F: Was ist der letzte Buchstabe des Wortes ""Dienstplan""? A:","['d', 'i', 'e', 'n', 's', 't', 'p', 'l', 'a', 'n']",n,i
+"F: Was ist der letzte Buchstabe des Wortes ""Haustier""? A:","['h', 'a', 'u', 's', 't', 'i', 'e', 'r']",r,e
+"F: Was ist der letzte Buchstabe des Wortes ""Mikrofon""? A:","['m', 'i', 'k', 'r', 'o', 'f', 'o', 'n']",n,k
+"Schreibe den letzten Buchstaben des Wortes ""geizig"": ","['g', 'e', 'i', 'z', 'i', 'g']",g,g
+"F: Was ist der letzte Buchstabe des Wortes ""Eierkarton""? A:","['e', 'i', 'e', 'r', 'k', 'a', 'r', 't', 'o', 'n']",n,i
+"Schreibe den letzten Buchstaben des Wortes ""heilsam"": ","['h', 'e', 'i', 'l', 's', 'a', 'm']",m,l
+"F: Mit welchem Buchstaben endet das Wort ""Rücken""? A:","['r', 'ü', 'c', 'k', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Grund"": ","['g', 'r', 'u', 'n', 'd']",d,g
+"Schreibe den letzten Buchstaben des Wortes ""Feuerwehr"": ","['f', 'e', 'u', 'e', 'r', 'w', 'e', 'h', 'r']",r,h
+"F: Mit welchem Buchstaben endet das Wort ""kompliziert""? A:","['k', 'o', 'm', 'p', 'l', 'i', 'z', 'i', 'e', 'r', 't']",t,i
+"F: Was ist der letzte Buchstabe des Wortes ""kritisch""? A:","['k', 'r', 'i', 't', 'i', 's', 'c', 'h']",h,s
+"Schreibe den letzten Buchstaben des Wortes ""humorvoll"": ","['h', 'u', 'm', 'o', 'r', 'v', 'o', 'l', 'l']",l,u
+"F: Was ist der letzte Buchstabe des Wortes ""Meinung""? A:","['m', 'e', 'i', 'n', 'u', 'n', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""Heimfahrt"": ","['h', 'e', 'i', 'm', 'f', 'a', 'h', 'r', 't']",t,f
+"F: Mit welchem Buchstaben endet das Wort ""Seite""? A:","['s', 'e', 'i', 't', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""Rucksack""? A:","['r', 'u', 'c', 'k', 's', 'a', 'c', 'k']",k,k
+"F: Mit welchem Buchstaben endet das Wort ""Pinguin""? A:","['p', 'i', 'n', 'g', 'u', 'i', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""komisch""? A:","['k', 'o', 'm', 'i', 's', 'c', 'h']",h,s
+"F: Was ist der letzte Buchstabe des Wortes ""Empfang""? A:","['e', 'm', 'p', 'f', 'a', 'n', 'g']",g,f
+"F: Mit welchem Buchstaben endet das Wort ""Schwester""? A:","['s', 'c', 'h', 'w', 'e', 's', 't', 'e', 'r']",r,s
+"F: Mit welchem Buchstaben endet das Wort ""Bein""? A:","['b', 'e', 'i', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Chance""? A:","['c', 'h', 'a', 'n', 'c', 'e']",e,n
+"F: Mit welchem Buchstaben endet das Wort ""diskutieren""? A:","['d', 'i', 's', 'k', 'u', 't', 'i', 'e', 'r', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""wachsen""? A:","['w', 'a', 'c', 'h', 's', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""denken""? A:","['d', 'e', 'n', 'k', 'e', 'n']",n,d
+"Schreibe den letzten Buchstaben des Wortes ""Fleisch"": ","['f', 'l', 'e', 'i', 's', 'c', 'h']",h,c
+"F: Mit welchem Buchstaben endet das Wort ""Leiter""? A:","['l', 'e', 'i', 't', 'e', 'r']",r,e
+"F: Mit welchem Buchstaben endet das Wort ""Kollege""? A:","['k', 'o', 'l', 'l', 'e', 'g', 'e']",e,k
+"F: Was ist der letzte Buchstabe des Wortes ""Schmuck""? A:","['s', 'c', 'h', 'm', 'u', 'c', 'k']",k,s
+"F: Was ist der letzte Buchstabe des Wortes ""einsteigen""? A:","['e', 'i', 'n', 's', 't', 'e', 'i', 'g', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Finger""? A:","['f', 'i', 'n', 'g', 'e', 'r']",r,n
+"F: Was ist der letzte Buchstabe des Wortes ""blasen""? A:","['b', 'l', 'a', 's', 'e', 'n']",n,s
+"F: Was ist der letzte Buchstabe des Wortes ""Pizza""? A:","['p', 'i', 'z', 'z', 'a']",a,p
+"F: Was ist der letzte Buchstabe des Wortes ""Strumpf""? A:","['s', 't', 'r', 'u', 'm', 'p', 'f']",f,t
+"Schreibe den letzten Buchstaben des Wortes ""putzen"": ","['p', 'u', 't', 'z', 'e', 'n']",n,t
+"F: Was ist der letzte Buchstabe des Wortes ""Urlaub""? A:","['u', 'r', 'l', 'a', 'u', 'b']",b,r
+"Schreibe den letzten Buchstaben des Wortes ""Erhitzen"": ","['e', 'r', 'h', 'i', 't', 'z', 'e', 'n']",n,h
+"F: Mit welchem Buchstaben endet das Wort ""sein""? A:","['s', 'e', 'i', 'n']",n,i
+"F: Mit welchem Buchstaben endet das Wort ""Schere""? A:","['s', 'c', 'h', 'e', 'r', 'e']",e,s
+"F: Mit welchem Buchstaben endet das Wort ""Gleis""? A:","['g', 'l', 'e', 'i', 's']",s,i
+"F: Mit welchem Buchstaben endet das Wort ""Betreuung""? A:","['b', 'e', 't', 'r', 'e', 'u', 'u', 'n', 'g']",g,n
+"F: Mit welchem Buchstaben endet das Wort ""Schal""? A:","['s', 'c', 'h', 'a', 'l']",l,s
+"Schreibe den letzten Buchstaben des Wortes ""Gewinn"": ","['g', 'e', 'w', 'i', 'n', 'n']",n,g
+"F: Was ist der letzte Buchstabe des Wortes ""Inkasso""? A:","['i', 'n', 'k', 'a', 's', 's', 'o']",o,s
+"F: Was ist der letzte Buchstabe des Wortes ""kategorisch""? A:","['k', 'a', 't', 'e', 'g', 'o', 'r', 'i', 's', 'c', 'h']",h,e
+"F: Mit welchem Buchstaben endet das Wort ""laufen""? A:","['l', 'a', 'u', 'f', 'e', 'n']",n,u
+"Schreibe den letzten Buchstaben des Wortes ""Braten"": ","['b', 'r', 'a', 't', 'e', 'n']",n,t
+"F: Mit welchem Buchstaben endet das Wort ""Gebäude""? A:","['g', 'e', 'b', 'ä', 'u', 'd', 'e']",e,d
+"Schreibe den letzten Buchstaben des Wortes ""historisch"": ","['h', 'i', 's', 't', 'o', 'r', 'i', 's', 'c', 'h']",h,o
+"F: Was ist der letzte Buchstabe des Wortes ""Gras""? A:","['g', 'r', 'a', 's']",s,s
+"Schreibe den letzten Buchstaben des Wortes ""Bedrohung"": ","['b', 'e', 'd', 'r', 'o', 'h', 'u', 'n', 'g']",g,g
+"Schreibe den letzten Buchstaben des Wortes ""Maus"": ","['m', 'a', 'u', 's']",s,s
+"F: Was ist der letzte Buchstabe des Wortes ""gehen""? A:","['g', 'e', 'h', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Fachgebiet"": ","['f', 'a', 'c', 'h', 'g', 'e', 'b', 'i', 'e', 't']",t,h
+"Schreibe den letzten Buchstaben des Wortes ""absichern"": ","['a', 'b', 's', 'i', 'c', 'h', 'e', 'r', 'n']",n,c
+"F: Mit welchem Buchstaben endet das Wort ""Geburtstag""? A:","['g', 'e', 'b', 'u', 'r', 't', 's', 't', 'a', 'g']",g,b
+"Schreibe den letzten Buchstaben des Wortes ""Arznei"": ","['a', 'r', 'z', 'n', 'e', 'i']",i,r
+"F: Mit welchem Buchstaben endet das Wort ""Hölle""? A:","['h', 'ö', 'l', 'l', 'e']",e,h
+"F: Mit welchem Buchstaben endet das Wort ""Dessert""? A:","['d', 'e', 's', 's', 'e', 'r', 't']",t,d
+"F: Was ist der letzte Buchstabe des Wortes ""Erziehung""? A:","['e', 'r', 'z', 'i', 'e', 'h', 'u', 'n', 'g']",g,n
+"F: Mit welchem Buchstaben endet das Wort ""Hoffnung""? A:","['h', 'o', 'f', 'f', 'n', 'u', 'n', 'g']",g,f
+"F: Was ist der letzte Buchstabe des Wortes ""mutig""? A:","['m', 'u', 't', 'i', 'g']",g,i
+"F: Was ist der letzte Buchstabe des Wortes ""heroisch""? A:","['h', 'e', 'r', 'o', 'i', 's', 'c', 'h']",h,s
+"F: Was ist der letzte Buchstabe des Wortes ""anrufen""? A:","['a', 'n', 'r', 'u', 'f', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""Besucher""? A:","['b', 'e', 's', 'u', 'c', 'h', 'e', 'r']",r,b
+"F: Was ist der letzte Buchstabe des Wortes ""unkonventionell""? A:","['u', 'n', 'k', 'o', 'n', 'v', 'e', 'n', 't', 'i', 'o', 'n', 'e', 'l', 'l']",l,o
+"F: Was ist der letzte Buchstabe des Wortes ""schüchtern""? A:","['s', 'c', 'h', 'ü', 'c', 'h', 't', 'e', 'r', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""überraschen""? A:","['ü', 'b', 'e', 'r', 'r', 'a', 's', 'c', 'h', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Gemeinschaft""? A:","['g', 'e', 'm', 'e', 'i', 'n', 's', 'c', 'h', 'a', 'f', 't']",t,e
+"F: Mit welchem Buchstaben endet das Wort ""Aktion""? A:","['a', 'k', 't', 'i', 'o', 'n']",n,k
+"F: Was ist der letzte Buchstabe des Wortes ""können""? A:","['k', 'ö', 'n', 'n', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""kalt""? A:","['k', 'a', 'l', 't']",t,a
+"F: Was ist der letzte Buchstabe des Wortes ""Telefon""? A:","['t', 'e', 'l', 'e', 'f', 'o', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Turm"": ","['t', 'u', 'r', 'm']",m,r
+"F: Was ist der letzte Buchstabe des Wortes ""Keks""? A:","['k', 'e', 'k', 's']",s,e
+"Schreibe den letzten Buchstaben des Wortes ""Arm"": ","['a', 'r', 'm']",m,m
+"Schreibe den letzten Buchstaben des Wortes ""hängen"": ","['h', 'ä', 'n', 'g', 'e', 'n']",n,g
+"F: Was ist der letzte Buchstabe des Wortes ""Abschied""? A:","['a', 'b', 's', 'c', 'h', 'i', 'e', 'd']",d,e
+"Schreibe den letzten Buchstaben des Wortes ""Monat"": ","['m', 'o', 'n', 'a', 't']",t,t
+"Schreibe den letzten Buchstaben des Wortes ""Freundlichkeit"": ","['f', 'r', 'e', 'u', 'n', 'd', 'l', 'i', 'c', 'h', 'k', 'e', 'i', 't']",t,i
+"Schreibe den letzten Buchstaben des Wortes ""sauber"": ","['s', 'a', 'u', 'b', 'e', 'r']",r,s
+"Schreibe den letzten Buchstaben des Wortes ""Meinungsfreiheit"": ","['m', 'e', 'i', 'n', 'u', 'n', 'g', 's', 'f', 'r', 'e', 'i', 'h', 'e', 'i', 't']",t,r
+"F: Mit welchem Buchstaben endet das Wort ""Symbol""? A:","['s', 'y', 'm', 'b', 'o', 'l']",l,b
+"F: Mit welchem Buchstaben endet das Wort ""abschneiden""? A:","['a', 'b', 's', 'c', 'h', 'n', 'e', 'i', 'd', 'e', 'n']",n,c
+"Schreibe den letzten Buchstaben des Wortes ""Mensch"": ","['m', 'e', 'n', 's', 'c', 'h']",h,c
+"F: Was ist der letzte Buchstabe des Wortes ""Messgerät""? A:","['m', 'e', 's', 's', 'g', 'e', 'r', 'ä', 't']",t,e
+"F: Mit welchem Buchstaben endet das Wort ""unwichtig""? A:","['u', 'n', 'w', 'i', 'c', 'h', 't', 'i', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""Kälte"": ","['k', 'ä', 'l', 't', 'e']",e,t
+"Schreibe den letzten Buchstaben des Wortes ""Abkürzung"": ","['a', 'b', 'k', 'ü', 'r', 'z', 'u', 'n', 'g']",g,k
+"Schreibe den letzten Buchstaben des Wortes ""überqueren"": ","['ü', 'b', 'e', 'r', 'q', 'u', 'e', 'r', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""schicken"": ","['s', 'c', 'h', 'i', 'c', 'k', 'e', 'n']",n,c
+"Schreibe den letzten Buchstaben des Wortes ""Gebot"": ","['g', 'e', 'b', 'o', 't']",t,t
+"F: Was ist der letzte Buchstabe des Wortes ""halten""? A:","['h', 'a', 'l', 't', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Rasen"": ","['r', 'a', 's', 'e', 'n']",n,a
+"F: Was ist der letzte Buchstabe des Wortes ""Backofen""? A:","['b', 'a', 'c', 'k', 'o', 'f', 'e', 'n']",n,f
+"F: Mit welchem Buchstaben endet das Wort ""benutzen""? A:","['b', 'e', 'n', 'u', 't', 'z', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""abwerfen"": ","['a', 'b', 'w', 'e', 'r', 'f', 'e', 'n']",n,f
+"Schreibe den letzten Buchstaben des Wortes ""Relief"": ","['r', 'e', 'l', 'i', 'e', 'f']",f,f
+"F: Mit welchem Buchstaben endet das Wort ""Wanne""? A:","['w', 'a', 'n', 'n', 'e']",e,n
+"F: Was ist der letzte Buchstabe des Wortes ""System""? A:","['s', 'y', 's', 't', 'e', 'm']",m,e
+"F: Was ist der letzte Buchstabe des Wortes ""Buch""? A:","['b', 'u', 'c', 'h']",h,b
+"Schreibe den letzten Buchstaben des Wortes ""progressiv"": ","['p', 'r', 'o', 'g', 'r', 'e', 's', 's', 'i', 'v']",v,g
+"F: Was ist der letzte Buchstabe des Wortes ""hässlich""? A:","['h', 'ä', 's', 's', 'l', 'i', 'c', 'h']",h,l
+"Schreibe den letzten Buchstaben des Wortes ""feststellen"": ","['f', 'e', 's', 't', 's', 't', 'e', 'l', 'l', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Ohrenschmaus""? A:","['o', 'h', 'r', 'e', 'n', 's', 'c', 'h', 'm', 'a', 'u', 's']",s,n
+"F: Was ist der letzte Buchstabe des Wortes ""Ursache""? A:","['u', 'r', 's', 'a', 'c', 'h', 'e']",e,h
+"F: Was ist der letzte Buchstabe des Wortes ""Stein""? A:","['s', 't', 'e', 'i', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Kaffee"": ","['k', 'a', 'f', 'f', 'e', 'e']",e,f
+"F: Was ist der letzte Buchstabe des Wortes ""mutig""? A:","['m', 'u', 't', 'i', 'g']",g,g
+"F: Mit welchem Buchstaben endet das Wort ""Brille""? A:","['b', 'r', 'i', 'l', 'l', 'e']",e,i
+"Schreibe den letzten Buchstaben des Wortes ""empfehlen"": ","['e', 'm', 'p', 'f', 'e', 'h', 'l', 'e', 'n']",n,f
+"F: Mit welchem Buchstaben endet das Wort ""hart""? A:","['h', 'a', 'r', 't']",t,h
+"Schreibe den letzten Buchstaben des Wortes ""Durststrecke"": ","['d', 'u', 'r', 's', 't', 's', 't', 'r', 'e', 'c', 'k', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""frisch""? A:","['f', 'r', 'i', 's', 'c', 'h']",h,h
+"Schreibe den letzten Buchstaben des Wortes ""Skizze"": ","['s', 'k', 'i', 'z', 'z', 'e']",e,s
+"F: Was ist der letzte Buchstabe des Wortes ""Arena""? A:","['a', 'r', 'e', 'n', 'a']",a,n
+"F: Was ist der letzte Buchstabe des Wortes ""Duft""? A:","['d', 'u', 'f', 't']",t,t
+"F: Mit welchem Buchstaben endet das Wort ""Bademantel""? A:","['b', 'a', 'd', 'e', 'm', 'a', 'n', 't', 'e', 'l']",l,e
+"F: Was ist der letzte Buchstabe des Wortes ""Netz""? A:","['n', 'e', 't', 'z']",z,n
+"Schreibe den letzten Buchstaben des Wortes ""Federball"": ","['f', 'e', 'd', 'e', 'r', 'b', 'a', 'l', 'l']",l,b
+"F: Was ist der letzte Buchstabe des Wortes ""Ballon""? A:","['b', 'a', 'l', 'l', 'o', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Papierkorb""? A:","['p', 'a', 'p', 'i', 'e', 'r', 'k', 'o', 'r', 'b']",b,p
+"F: Mit welchem Buchstaben endet das Wort ""Segel""? A:","['s', 'e', 'g', 'e', 'l']",l,e
+"F: Mit welchem Buchstaben endet das Wort ""rund""? A:","['r', 'u', 'n', 'd']",d,r
+"F: Was ist der letzte Buchstabe des Wortes ""Glaube""? A:","['g', 'l', 'a', 'u', 'b', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""zerbrechlich""? A:","['z', 'e', 'r', 'b', 'r', 'e', 'c', 'h', 'l', 'i', 'c', 'h']",h,e
+"F: Mit welchem Buchstaben endet das Wort ""definieren""? A:","['d', 'e', 'f', 'i', 'n', 'i', 'e', 'r', 'e', 'n']",n,e
+"F: Was ist der letzte Buchstabe des Wortes ""lesen""? A:","['l', 'e', 's', 'e', 'n']",n,l
+"F: Was ist der letzte Buchstabe des Wortes ""gelassen""? A:","['g', 'e', 'l', 'a', 's', 's', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Krieg""? A:","['k', 'r', 'i', 'e', 'g']",g,r
+"Schreibe den letzten Buchstaben des Wortes ""Kälte"": ","['k', 'ä', 'l', 't', 'e']",e,t
+"Schreibe den letzten Buchstaben des Wortes ""Dorf"": ","['d', 'o', 'r', 'f']",f,f
+"F: Mit welchem Buchstaben endet das Wort ""klingeln""? A:","['k', 'l', 'i', 'n', 'g', 'e', 'l', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""April"": ","['a', 'p', 'r', 'i', 'l']",l,i
+"Schreibe den letzten Buchstaben des Wortes ""akribisch"": ","['a', 'k', 'r', 'i', 'b', 'i', 's', 'c', 'h']",h,c
+"F: Mit welchem Buchstaben endet das Wort ""Hören""? A:","['h', 'ö', 'r', 'e', 'n']",n,n
+"F: Mit welchem Buchstaben endet das Wort ""auffallen""? A:","['a', 'u', 'f', 'f', 'a', 'l', 'l', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Beispiel"": ","['b', 'e', 'i', 's', 'p', 'i', 'e', 'l']",l,b
+"F: Was ist der letzte Buchstabe des Wortes ""Bebauung""? A:","['b', 'e', 'b', 'a', 'u', 'u', 'n', 'g']",g,g
+"Schreibe den letzten Buchstaben des Wortes ""gratulieren"": ","['g', 'r', 'a', 't', 'u', 'l', 'i', 'e', 'r', 'e', 'n']",n,a
+"F: Mit welchem Buchstaben endet das Wort ""Rakete""? A:","['r', 'a', 'k', 'e', 't', 'e']",e,r
+"Schreibe den letzten Buchstaben des Wortes ""Fenster"": ","['f', 'e', 'n', 's', 't', 'e', 'r']",r,f
+"F: Mit welchem Buchstaben endet das Wort ""Stadt""? A:","['s', 't', 'a', 'd', 't']",t,s
+"F: Mit welchem Buchstaben endet das Wort ""Abgabe""? A:","['a', 'b', 'g', 'a', 'b', 'e']",e,b
+"Schreibe den letzten Buchstaben des Wortes ""nass"": ","['n', 'a', 's', 's']",s,n
+"F: Mit welchem Buchstaben endet das Wort ""Löffel""? A:","['l', 'ö', 'f', 'f', 'e', 'l']",l,f
+"F: Was ist der letzte Buchstabe des Wortes ""Betreuung""? A:","['b', 'e', 't', 'r', 'e', 'u', 'u', 'n', 'g']",g,r
+"Schreibe den letzten Buchstaben des Wortes ""Spiel"": ","['s', 'p', 'i', 'e', 'l']",l,s
+"F: Was ist der letzte Buchstabe des Wortes ""Angebot""? A:","['a', 'n', 'g', 'e', 'b', 'o', 't']",t,n
+"F: Mit welchem Buchstaben endet das Wort ""Baseball""? A:","['b', 'a', 's', 'e', 'b', 'a', 'l', 'l']",l,b
+"F: Was ist der letzte Buchstabe des Wortes ""Lektion""? A:","['l', 'e', 'k', 't', 'i', 'o', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""Becher"": ","['b', 'e', 'c', 'h', 'e', 'r']",r,b
+"Schreibe den letzten Buchstaben des Wortes ""absichern"": ","['a', 'b', 's', 'i', 'c', 'h', 'e', 'r', 'n']",n,b
+"F: Was ist der letzte Buchstabe des Wortes ""Wagen""? A:","['w', 'a', 'g', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""sollen""? A:","['s', 'o', 'l', 'l', 'e', 'n']",n,n
+"Schreibe den letzten Buchstaben des Wortes ""lebensfroh"": ","['l', 'e', 'b', 'e', 'n', 's', 'f', 'r', 'o', 'h']",h,e
+"F: Was ist der letzte Buchstabe des Wortes ""vital""? A:","['v', 'i', 't', 'a', 'l']",l,i
+"F: Mit welchem Buchstaben endet das Wort ""Penis""? A:","['p', 'e', 'n', 'i', 's']",s,n
+"F: Was ist der letzte Buchstabe des Wortes ""Werk""? A:","['w', 'e', 'r', 'k']",k,e
+"Schreibe den letzten Buchstaben des Wortes ""schreiben"": ","['s', 'c', 'h', 'r', 'e', 'i', 'b', 'e', 'n']",n,c
+"F: Was ist der letzte Buchstabe des Wortes ""Glas""? A:","['g', 'l', 'a', 's']",s,g
+"F: Was ist der letzte Buchstabe des Wortes ""Bekommen""? A:","['b', 'e', 'k', 'o', 'm', 'm', 'e', 'n']",n,k
+"F: Was ist der letzte Buchstabe des Wortes ""Dreieck""? A:","['d', 'r', 'e', 'i', 'e', 'c', 'k']",k,e
+"F: Was ist der letzte Buchstabe des Wortes ""atmen""? A:","['a', 't', 'm', 'e', 'n']",n,m
+"Schreibe den letzten Buchstaben des Wortes ""Neffe"": ","['n', 'e', 'f', 'f', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""essen"": ","['e', 's', 's', 'e', 'n']",n,e
+"Schreibe den letzten Buchstaben des Wortes ""Preis"": ","['p', 'r', 'e', 'i', 's']",s,e
+"F: Was ist der letzte Buchstabe des Wortes ""schmutzig""? A:","['s', 'c', 'h', 'm', 'u', 't', 'z', 'i', 'g']",g,z
+"F: Was ist der letzte Buchstabe des Wortes ""erhalten""? A:","['e', 'r', 'h', 'a', 'l', 't', 'e', 'n']",n,e
+"F: Mit welchem Buchstaben endet das Wort ""Krebs""? A:","['k', 'r', 'e', 'b', 's']",s,b
+"F: Mit welchem Buchstaben endet das Wort ""aussteigen""? A:","['a', 'u', 's', 's', 't', 'e', 'i', 'g', 'e', 'n']",n,n
+"F: Was ist der letzte Buchstabe des Wortes ""Schüssel""? A:","['s', 'c', 'h', 'ü', 's', 's', 'e', 'l']",l,s
+"F: Mit welchem Buchstaben endet das Wort ""Botanik""? A:","['b', 'o', 't', 'a', 'n', 'i', 'k']",k,k
+"Schreibe den letzten Buchstaben des Wortes ""Pferd"": ","['p', 'f', 'e', 'r', 'd']",d,e
+"F: Was ist der letzte Buchstabe des Wortes ""Nagel""? A:","['n', 'a', 'g', 'e', 'l']",l,n
+"F: Was ist der letzte Buchstabe des Wortes ""Steinmauer""? A:","['s', 't', 'e', 'i', 'n', 'm', 'a', 'u', 'e', 'r']",r,e
+"Schreibe den letzten Buchstaben des Wortes ""ansagen"": ","['a', 'n', 's', 'a', 'g', 'e', 'n']",n,g
+"F: Mit welchem Buchstaben endet das Wort ""schwächlich""? A:","['s', 'c', 'h', 'w', 'ä', 'c', 'h', 'l', 'i', 'c', 'h']",h,i
+"Schreibe den letzten Buchstaben des Wortes ""schwer"": ","['s', 'c', 'h', 'w', 'e', 'r']",r,c
+"F: Was ist der letzte Buchstabe des Wortes ""Baustelle""? A:","['b', 'a', 'u', 's', 't', 'e', 'l', 'l', 'e']",e,b
+"F: Was ist der letzte Buchstabe des Wortes ""Dose""? A:","['d', 'o', 's', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""allgemeinern""? A:","['a', 'l', 'l', 'g', 'e', 'm', 'e', 'i', 'n', 'e', 'r', 'n']",n,m
+"F: Mit welchem Buchstaben endet das Wort ""romantisch""? A:","['r', 'o', 'm', 'a', 'n', 't', 'i', 's', 'c', 'h']",h,m
+"F: Was ist der letzte Buchstabe des Wortes ""Trommel""? A:","['t', 'r', 'o', 'm', 'm', 'e', 'l']",l,m
+"F: Was ist der letzte Buchstabe des Wortes ""Bauwerk""? A:","['b', 'a', 'u', 'w', 'e', 'r', 'k']",k,b
+"F: Was ist der letzte Buchstabe des Wortes ""Decke""? A:","['d', 'e', 'c', 'k', 'e']",e,e
+"Schreibe den letzten Buchstaben des Wortes ""Atmosphäre"": ","['a', 't', 'm', 'o', 's', 'p', 'h', 'ä', 'r', 'e']",e,m
+"Schreibe den letzten Buchstaben des Wortes ""Ohrring"": ","['o', 'h', 'r', 'r', 'i', 'n', 'g']",g,n
+"F: Was ist der letzte Buchstabe des Wortes ""Blumentopf""? A:","['b', 'l', 'u', 'm', 'e', 'n', 't', 'o', 'p', 'f']",f,l
+"F: Mit welchem Buchstaben endet das Wort ""Bedienung""? A:","['b', 'e', 'd', 'i', 'e', 'n', 'u', 'n', 'g']",g,n
+"Schreibe den letzten Buchstaben des Wortes ""wahrscheinlich"": ","['w', 'a', 'h', 'r', 's', 'c', 'h', 'e', 'i', 'n', 'l', 'i', 'c', 'h']",h,c
+"F: Mit welchem Buchstaben endet das Wort ""Junge""? A:","['j', 'u', 'n', 'g', 'e']",e,n
+"F: Was ist der letzte Buchstabe des Wortes ""Bericht""? A:","['b', 'e', 'r', 'i', 'c', 'h', 't']",t,e
+"F: Mit welchem Buchstaben endet das Wort ""Pinsel""? A:","['p', 'i', 'n', 's', 'e', 'l']",l,n
+"Schreibe den letzten Buchstaben des Wortes ""Bär"": ","['b', 'ä', 'r']",r,b
+"Schreibe den letzten Buchstaben des Wortes ""Winter"": ","['w', 'i', 'n', 't', 'e', 'r']",r,t
+"Schreibe den letzten Buchstaben des Wortes ""Dynamik"": ","['d', 'y', 'n', 'a', 'm', 'i', 'k']",k,n
+"F: Mit welchem Buchstaben endet das Wort ""Abdruck""? A:","['a', 'b', 'd', 'r', 'u', 'c', 'k']",k,b
+"F: Mit welchem Buchstaben endet das Wort ""großartig""? A:","['g', 'r', 'o', 'ß', 'a', 'r', 't', 'i', 'g']",g,r
+"F: Was ist der letzte Buchstabe des Wortes ""klar""? A:","['k', 'l', 'a', 'r']",r,r
+"Schreibe den letzten Buchstaben des Wortes ""Ende"": ","['e', 'n', 'd', 'e']",e,e
+"F: Was ist der letzte Buchstabe des Wortes ""Bewohner""? A:","['b', 'e', 'w', 'o', 'h', 'n', 'e', 'r']",r,b
+"F: Mit welchem Buchstaben endet das Wort ""zuverlässig""? A:","['z', 'u', 'v', 'e', 'r', 'l', 'ä', 's', 's', 'i', 'g']",g,v
+"F: Mit welchem Buchstaben endet das Wort ""Aufstieg""? A:","['a', 'u', 'f', 's', 't', 'i', 'e', 'g']",g,f
