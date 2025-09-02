@@ -42,3 +42,5 @@ def finetune_model(model_name, tokenizer, encodings, output_dir, save_steps, sav
     )
 
     trainer.train()
+    trainer.save_model(f"{output_dir}/final")
+    tokenizer.save_pretrained(f"{output_dir}/final")

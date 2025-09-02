@@ -64,7 +64,7 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
         overwrite_output_dir=True,
         save_strategy="epoch",
         eval_strategy="epoch",
-        num_train_epochs=12,
+        num_train_epochs=5,
         gradient_accumulation_steps=8,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,

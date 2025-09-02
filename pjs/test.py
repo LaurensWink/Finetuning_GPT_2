@@ -28,8 +28,8 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         )
         
         output_text = tokenizer.decode(outputs[0])
-        # this fails to get the right output if the model generates a eos token at the end (TODO: catch all outputs properly)
-        output_text = output_text.split(tokenizer.eos_token)[-1]
+        # the tokenizer generates a bos and a eos token so we nee index -2
+        output_text = output_text.split(tokenizer.eos_token)[-2]
         output_text = output_text.replace(tokenizer.eos_token, "")
         if char:
             output_text = output_text.replace(" ", "")
@@ -67,6 +67,9 @@ def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name,
             writer.writerow([row["input"], options, expected, output_text])
 
 def normalize_text(text):
+    if text is None:
+        return ""
+    text = str(text)
     text = unicodedata.normalize("NFC", text)
-    text = text.lower()
-    return text
+    return text.lower()
+
