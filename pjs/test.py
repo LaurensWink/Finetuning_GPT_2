@@ -31,7 +31,7 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         
         output_text = tokenizer.decode(outputs[0])
         # the tokenizer generates a bos and a eos token so we nee index -2
-        output_text = output_text.split(tokenizer.eos_token)[-2]
+        output_text = output_text.split(tokenizer.eos_token)[-1]
         output_text = output_text.replace(tokenizer.eos_token, "")
         if char:
             output_text = output_text.replace(" ", "")

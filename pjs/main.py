@@ -2,7 +2,7 @@ import os
 from loguru import logger
 import torch
 from pjs.dataset import Data
-from transformers import PreTrainedTokenizerFast
+from transformers import AutoTokenizer, PreTrainedTokenizerFast
 
 from pjs.eval import evaluate
 from pjs.test import test_model, test_model_outlines
@@ -10,6 +10,8 @@ from pjs.train import finetune_model
 
 BASE_BPE_MODEL_NAME = "phonemetransformers/GPT2-85M-BPE-TXT"
 BASE_MODEL_NAME = "phonemetransformers/GPT2-85M-CHAR-TXT"
+TOKENIZER_CHAR =  AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')
+TOKENIZER_EN_BPE = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 logger.info(f'Device loaded: {device}')
@@ -24,7 +26,7 @@ data = Data()
 # ### CHAR BASE-MODEL DE ###
 
 # BASE_CHAR_MODEL_NAME_DE = "data/models/baby_lm_de_char/model/final"
-TOKENIZER_CHAR = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
+# TOKENIZER_CHAR = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
 # split_data = data.split_data
 
 # for task in split_data:
@@ -114,9 +116,9 @@ BASE_CHAR_MODEL_NAME_EN = BASE_MODEL_NAME
 # BASE_CHAR_MODEL_NAME_EN = "data/models/baby_lm_en_char/model/final"
 split_data = data.split_data
 
-# for task in split_data:
-#     test_data = split_data[task]['test']
-#     test_model_outlines(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/base_model_en', task.split('.')[0], True)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/base_model_en', task.split('.')[0], True)
 
 ### CHAR MODEL FINETUNIG AND TESTS EN ###
 tokenised_dict = data.get_tokenised_dict(TOKENIZER_CHAR)
@@ -155,7 +157,7 @@ for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR_EN):
 ###BPE BASE-MODEL EN###
 BASE_BPE_MODEL_NAME_EN = BASE_BPE_MODEL_NAME
 # BASE_BPE_MODEL_NAME_EN ='data/models/baby_lm_en_bpe/model/final'
-TOKENIZER_EN_BPE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
+# TOKENIZER_EN_BPE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
 split_data = data.split_data
 
 for task in split_data:
