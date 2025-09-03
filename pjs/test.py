@@ -1,13 +1,15 @@
 import csv
 import os
 import re
-from transformers import LlamaForCausalLM
+from transformers import LlamaForCausalLM, GPT2LMHeadModel
 import outlines
 import unicodedata
 
 
 def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_tokens, char, device):
-    model = LlamaForCausalLM.from_pretrained(model_name).to(device)
+    # model = LlamaForCausalLM.from_pretrained(model_name).to(device)
+    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
+
     for index, row in test_data.iterrows():
         input = row["input"] + tokenizer.eos_token
 
