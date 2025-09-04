@@ -43,7 +43,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which of the words ""cook"" and ""question"" comes first? A:","['cook', 'question']",cook,cook
 "Q: In an alphabetical order, which of the words ""diary"" and ""restroom"" comes first? A:","['diary', 'restroom']",diary,diary
 "Q: In an alphabetical order, which of the words ""interesting"" and ""wood"" comes first? A:","['interesting', 'wood']",interesting,interesting
-"Q: In an alphabetical order, which word comes first, ""entrance"" or ""ruler""? A:","['entrance', 'ruler']",entrance,entrance
+"Q: In an alphabetical order, which word comes first, ""entrance"" or ""ruler""? A:","['entrance', 'ruler']",entrance,ruler
 "Q: In an alphabetical order, which word comes first, ""visitor"" or ""identification""? A:","['visitor', 'identification']",identification,identification
 "Q: Of the words ""discount"" and ""queen"", which word comes first alphabetically? A:","['discount', 'queen']",discount,discount
 "Q: In an alphabetical order, which of the words ""expensive"" and ""useful"" comes first? A:","['expensive', 'useful']",expensive,expensive
@@ -145,12 +145,12 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""zoo"" and ""lemon"", which word comes first alphabetically? A:","['zoo', 'lemon']",lemon,lemon
 "Q: Of the words ""dry"" and ""quick"", which word comes first alphabetically? A:","['dry', 'quick']",dry,dry
 "Q: In an alphabetical order, which of the words ""gift"" and ""weekday"" comes first? A:","['gift', 'weekday']",gift,gift
-"Q: Of the words ""on"" and ""busy"", which word comes first alphabetically? A:","['on', 'busy']",busy,busy
+"Q: Of the words ""on"" and ""busy"", which word comes first alphabetically? A:","['on', 'busy']",busy,on
 "Q: Of the words ""garage"" and ""zoo"", which word comes first alphabetically? A:","['garage', 'zoo']",garage,garage
 "Q: Of the words ""jeans"" and ""zoo"", which word comes first alphabetically? A:","['jeans', 'zoo']",jeans,jeans
 "Q: In an alphabetical order, which of the words ""kick"" and ""you"" comes first? A:","['kick', 'you']",kick,kick
 "Q: In an alphabetical order, which word comes first, ""violin"" or ""carefully""? A:","['violin', 'carefully']",carefully,carefully
-"Q: Of the words ""advertisement"" and ""real"", which word comes first alphabetically? A:","['advertisement', 'real']",advertisement,advertisement
+"Q: Of the words ""advertisement"" and ""real"", which word comes first alphabetically? A:","['advertisement', 'real']",advertisement,real
 "Q: In an alphabetical order, which of the words ""tell"" and ""at"" comes first? A:","['tell', 'at']",at,at
 "Q: Of the words ""tennis"" and ""gift"", which word comes first alphabetically? A:","['tennis', 'gift']",gift,gift
 "Q: In an alphabetical order, which of the words ""job"" and ""you"" comes first? A:","['job', 'you']",job,job
@@ -169,7 +169,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""passport"" and ""baseball"", which word comes first alphabetically? A:","['passport', 'baseball']",baseball,baseball
 "Q: Of the words ""listen"" and ""zoo"", which word comes first alphabetically? A:","['listen', 'zoo']",listen,listen
 "Q: In an alphabetical order, which of the words ""unhappy"" and ""anybody"" comes first? A:","['unhappy', 'anybody']",anybody,anybody
-"Q: Of the words ""tourist"" and ""climb"", which word comes first alphabetically? A:","['tourist', 'climb']",climb,climb
+"Q: Of the words ""tourist"" and ""climb"", which word comes first alphabetically? A:","['tourist', 'climb']",climb,tourist
 "Q: Of the words ""begin"" and ""salt"", which word comes first alphabetically? A:","['begin', 'salt']",begin,begin
 "Q: In an alphabetical order, which word comes first, ""horse"" or ""zoo""? A:","['horse', 'zoo']",horse,horse
 "Q: In an alphabetical order, which of the words ""advice"" and ""vacation"" comes first? A:","['advice', 'vacation']",advice,advice
@@ -206,7 +206,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""pass"" or ""chain""? A:","['pass', 'chain']",chain,chain
 "Q: In an alphabetical order, which word comes first, ""baseball"" or ""quarter""? A:","['baseball', 'quarter']",baseball,baseball
 "Q: Of the words ""yard"" and ""fresh"", which word comes first alphabetically? A:","['yard', 'fresh']",fresh,fresh
-"Q: Of the words ""happen"" and ""war"", which word comes first alphabetically? A:","['happen', 'war']",happen,happen
+"Q: Of the words ""happen"" and ""war"", which word comes first alphabetically? A:","['happen', 'war']",happen,war
 "Q: In an alphabetical order, which of the words ""crowd"" and ""sing"" comes first? A:","['crowd', 'sing']",crowd,crowd
 "Q: Of the words ""zoo"" and ""mom"", which word comes first alphabetically? A:","['zoo', 'mom']",mom,mom
 "Q: Of the words ""juice"" and ""yours"", which word comes first alphabetically? A:","['juice', 'yours']",juice,juice
@@ -296,7 +296,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""watch"" or ""climb""? A:","['watch', 'climb']",climb,climb
 "Q: Of the words ""jacket"" and ""zoo"", which word comes first alphabetically? A:","['jacket', 'zoo']",jacket,jacket
 "Q: In an alphabetical order, which of the words ""week"" and ""jewelry"" comes first? A:","['week', 'jewelry']",jewelry,jewelry
-"Q: Of the words ""however"" and ""wastebasket"", which word comes first alphabetically? A:","['however', 'wastebasket']",however,however
+"Q: Of the words ""however"" and ""wastebasket"", which word comes first alphabetically? A:","['however', 'wastebasket']",however,wastebasket
 "Q: Of the words ""pain"" and ""attractive"", which word comes first alphabetically? A:","['pain', 'attractive']",attractive,attractive
 "Q: In an alphabetical order, which of the words ""teacher"" and ""grandma"" comes first? A:","['teacher', 'grandma']",grandma,grandma
 "Q: In an alphabetical order, which of the words ""question"" and ""animal"" comes first? A:","['question', 'animal']",animal,animal
@@ -503,7 +503,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which of the words ""all"" and ""printer"" comes first? A:","['all', 'printer']",all,all
 "Q: In an alphabetical order, which of the words ""pass"" and ""chain"" comes first? A:","['pass', 'chain']",chain,chain
 "Q: Of the words ""however"" and ""zoo"", which word comes first alphabetically? A:","['however', 'zoo']",however,however
-"Q: In an alphabetical order, which of the words ""receive"" and ""bring"" comes first? A:","['receive', 'bring']",bring,bring
+"Q: In an alphabetical order, which of the words ""receive"" and ""bring"" comes first? A:","['receive', 'bring']",bring,receive
 "Q: In an alphabetical order, which word comes first, ""boy"" or ""stomachache""? A:","['boy', 'stomachache']",boy,boy
 "Q: Of the words ""business"" and ""occupation"", which word comes first alphabetically? A:","['business', 'occupation']",business,business
 "Q: In an alphabetical order, which word comes first, ""food"" or ""sad""? A:","['food', 'sad']",food,food
@@ -532,7 +532,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""adverb"" and ""news"", which word comes first alphabetically? A:","['adverb', 'news']",adverb,adverb
 "Q: In an alphabetical order, which word comes first, ""puzzle"" or ""chat""? A:","['puzzle', 'chat']",chat,chat
 "Q: In an alphabetical order, which word comes first, ""carefully"" or ""spring""? A:","['carefully', 'spring']",carefully,carefully
-"Q: Of the words ""hear"" and ""volleyball"", which word comes first alphabetically? A:","['hear', 'volleyball']",hear,volleyball
+"Q: Of the words ""hear"" and ""volleyball"", which word comes first alphabetically? A:","['hear', 'volleyball']",hear,hear
 "Q: In an alphabetical order, which of the words ""zoo"" and ""loud"" comes first? A:","['zoo', 'loud']",loud,loud
 "Q: Of the words ""just"" and ""world"", which word comes first alphabetically? A:","['just', 'world']",just,just
 "Q: In an alphabetical order, which word comes first, ""year"" or ""identification""? A:","['year', 'identification']",identification,identification

@@ -8,11 +8,6 @@ from pjs.eval import evaluate
 from pjs.test import test_model, test_model_outlines
 from pjs.train import finetune_model
 
-BASE_BPE_MODEL_NAME = "data/models/baby_lm_en_char/model/final"
-BASE_MODEL_NAME = "data/models/baby_lm_en_bpe/model/final"
-TOKENIZER_CHAR =  AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-CHAR-TXT')
-TOKENIZER_EN_BPE = AutoTokenizer.from_pretrained('phonemetransformers/babble-tokenizers', subfolder='BABYLM-TOKENIZER-BPE-TXT')
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 logger.info(f'Device loaded: {device}')
 
@@ -26,7 +21,7 @@ data = Data()
 # ### CHAR BASE-MODEL DE ###
 
 # BASE_CHAR_MODEL_NAME_DE = "data/models/baby_lm_de_char/model/final"
-# TOKENIZER_CHAR = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
+TOKENIZER_CHAR = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
 # split_data = data.split_data
 
 # for task in split_data:
@@ -112,30 +107,29 @@ data = Data()
 
 ## CHAR BASE-MODEL EN ###
 data.load_split("data/dataset_splits/LMentry_en")
-BASE_CHAR_MODEL_NAME_EN = BASE_MODEL_NAME
-# BASE_CHAR_MODEL_NAME_EN = "data/models/baby_lm_en_char/model/final"
+BASE_CHAR_MODEL_NAME_EN = "data/models/baby_lm_en_char/model/final"
 split_data = data.split_data
 
-# for task in split_data:
-#     test_data = split_data[task]['test']
-#     test_model_outlines(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/base_model_en_char', task.split('.')[0], True)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/base_model_en_char', task.split('.')[0], True)
 
 ### CHAR MODEL FINETUNIG AND TESTS EN ###
-# tokenised_dict = data.get_tokenised_dict(TOKENIZER_CHAR)
-# merged_data = data.merge_tokenised_dict(tokenised_dict, TOKENIZER_CHAR)
+tokenised_dict = data.get_tokenised_dict(TOKENIZER_CHAR)
+merged_data = data.merge_tokenised_dict(tokenised_dict, TOKENIZER_CHAR)
 
-# finetune_model(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, merged_data, "data/models/full_data_train_en_char", 1000, 50, 3, device)
+finetune_model(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, merged_data, "data/models/full_data_train_en_char", 1000, 50, 3, device)
                
-# for key in tokenised_dict:
-#   finetune_model(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, tokenised_dict[key], f"data/models/task_data_train_en_char/{key}", 1000, 10, 3, device)
+for key in tokenised_dict:
+  finetune_model(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, tokenised_dict[key], f"data/models/task_data_train_en_char/{key}", 1000, 10, 3, device)
 
-# FULL_DATA_FINETUNED_MODEL_PATH_EN = "data/models/full_data_train_en_char/final"
+FULL_DATA_FINETUNED_MODEL_PATH_EN = "data/models/full_data_train_en_char/final"
 
 # for task in split_data:
 #     test_data = split_data[task]['test']
 #     test_model(FULL_DATA_FINETUNED_MODEL_PATH_EN, TOKENIZER_CHAR, test_data, 'data/outputs_raw/full_data_train_en_char', task.split('.')[0], 25, True, device)
 
-# TASK_DATA_FINETUNED_MODEL_DIR_EN = "data/models/task_data_train_en_char"
+TASK_DATA_FINETUNED_MODEL_DIR_EN = "data/models/task_data_train_en_char"
 
 # for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR_EN):
 #         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR_EN, subfolder)
@@ -144,18 +138,18 @@ split_data = data.split_data
 #         test_model(checkpoint_path, TOKENIZER_CHAR, test_data, 'data/outputs_raw/task_data_train_en_char', str(subfolder).split('.')[0], 25, True, device)
 
 
-# for task in split_data:
-#     test_data = split_data[task]['test']
-#     test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH_EN, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/full_data_train_en_char', task.split('.')[0], True)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(FULL_DATA_FINETUNED_MODEL_PATH_EN, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/full_data_train_en_char', task.split('.')[0], True)
 
-# for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR_EN):
-#         subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR_EN, subfolder)
-#         checkpoint_path = os.path.join(subfolder_path, "final") 
-#         test_data = split_data[str(subfolder)]['test']
-#         test_model_outlines(checkpoint_path, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/task_data_train_en_char', str(subfolder).split('.')[0], True)
+for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR_EN):
+        subfolder_path = os.path.join(TASK_DATA_FINETUNED_MODEL_DIR_EN, subfolder)
+        checkpoint_path = os.path.join(subfolder_path, "final") 
+        test_data = split_data[str(subfolder)]['test']
+        test_model_outlines(checkpoint_path, TOKENIZER_CHAR, test_data, 'data/outputs_outlines/task_data_train_en_char', str(subfolder).split('.')[0], True)
 
 ###BPE BASE-MODEL EN###
-BASE_BPE_MODEL_NAME_EN = BASE_BPE_MODEL_NAME
+# BASE_BPE_MODEL_NAME_EN = BASE_BPE_MODEL_NAME
 # BASE_BPE_MODEL_NAME_EN ='data/models/baby_lm_en_bpe/model/final'
 # TOKENIZER_EN_BPE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
 
@@ -175,7 +169,7 @@ BASE_BPE_MODEL_NAME_EN = BASE_BPE_MODEL_NAME
 # for key in tokenised_dict:
 #   finetune_model(BASE_BPE_MODEL_NAME_EN, TOKENIZER_EN_BPE, tokenised_dict[key], f"data/models/task_data_train_en_bpe/{key}", 1000, 10, 3, device)
 
-FULL_DATA_FINETUNED_MODEL_PATH_BPE_EN = "data/models/full_data_train_en_bpe/final"
+# FULL_DATA_FINETUNED_MODEL_PATH_BPE_EN = "data/models/full_data_train_en_bpe/final"
 
 # for task in split_data:
 #     test_data = split_data[task]['test']

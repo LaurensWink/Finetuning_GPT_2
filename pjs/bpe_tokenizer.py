@@ -12,11 +12,10 @@ from tokenizers.processors import TemplateProcessing
 from tokenizers.normalizers import Lowercase, Strip, NFC
 from transformers import PreTrainedTokenizerFast
 
-
 def gen_bpe_de_tokenizer(train_data, save_dir):
     special_tokens = ["PAD", "UNK", "UTT_BOUNDARY"]
     
-    tokenizer = Tokenizer(models.BPE(unk_token="UNK"))
+    tokenizer = Tokenizer(models.BPE())
     tokenizer.normalizer = normalizers.Sequence([
         Strip(), NFC(), Lowercase()
     ])
@@ -35,11 +34,12 @@ def gen_bpe_de_tokenizer(train_data, save_dir):
     
     wrapped_tokenizer = PreTrainedTokenizerFast(
         tokenizer_object=tokenizer,
-        unk_token="UNK",
         pad_token="PAD",
         bos_token="UTT_BOUNDARY",
         eos_token="UTT_BOUNDARY"
     )
+
+    wrapped_tokenizer.pad_token = wrapped_tokenizer.eos_token
 
     bos_id = wrapped_tokenizer.bos_token_id
     eos_id = wrapped_tokenizer.eos_token_id
@@ -50,7 +50,6 @@ def gen_bpe_de_tokenizer(train_data, save_dir):
             (wrapped_tokenizer.bos_token, bos_id),
             (wrapped_tokenizer.eos_token, eos_id),
             (wrapped_tokenizer.pad_token, wrapped_tokenizer.pad_token_id),
-            (wrapped_tokenizer.unk_token, wrapped_tokenizer.unk_token_id),
         ],
     )
     
