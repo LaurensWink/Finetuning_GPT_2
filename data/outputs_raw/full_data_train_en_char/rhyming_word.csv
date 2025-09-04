@@ -1,7 +1,7 @@
 Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""baby"", ""maybe"" or ""war""? A:","['maybe', 'war']",maybe,
-"Q: Which is a rhyme of the word ""bay"", ""advanced"" or ""away""? A:","['away', 'advanced']",away,away? away? away? away? a
-"Q: Which is a rhyme of the word ""not"", ""spot"" or ""individual""? A:","['spot', 'individual']",spot,"spot"" or ""individual""? a:"
+"Q: Which is a rhyme of the word ""bay"", ""advanced"" or ""away""? A:","['away', 'advanced']",away,
+"Q: Which is a rhyme of the word ""not"", ""spot"" or ""individual""? A:","['spot', 'individual']",spot,
 "Q: Which word rhymes with the word ""amusing"", ""confusing"" or ""frog""? A:","['confusing', 'frog']",confusing,
 "Q: Of the words ""guitar"" and ""kitchen"", which one rhymes with ""bar""? A:","['guitar', 'kitchen']",guitar,
 "Q: Which is a rhyme of the word ""pray"", ""stay"" or ""cold""? A:","['stay', 'cold']",stay,
@@ -15,7 +15,7 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""beat"", ""wide"" or ""heat""? A:","['heat', 'wide']",heat,
 "Q: Of the words ""sum"" and ""healthy"", which one rhymes with ""come""? A:","['sum', 'healthy']",sum,
 "Q: Which word rhymes with the word ""reason"", ""season"" or ""fail""? A:","['season', 'fail']",season,
-"Q: Which is a rhyme of the word ""rarely"", ""smoking"" or ""fairly""? A:","['fairly', 'smoking']",fairly,"fairly"" and ""smoking""? a:"
+"Q: Which is a rhyme of the word ""rarely"", ""smoking"" or ""fairly""? A:","['fairly', 'smoking']",fairly,
 "Q: Which word rhymes with the word ""shorts"", ""sports"" or ""atmosphere""? A:","['sports', 'atmosphere']",sports,
 "Q: Of the words ""salary"" and ""cut"", which one rhymes with ""gallery""? A:","['salary', 'cut']",salary,
 "Q: Of the words ""guard"" and ""inexpensive"", which one rhymes with ""card""? A:","['guard', 'inexpensive']",guard,
@@ -27,12 +27,12 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""identification"" and ""star"", which one rhymes with ""application""? A:","['identification', 'star']",identification,
 "Q: Of the words ""biography"" and ""trust"", which one rhymes with ""photography""? A:","['biography', 'trust']",biography,
 "Q: Which is a rhyme of the word ""involve"", ""solve"" or ""fever""? A:","['solve', 'fever']",solve,
-"Q: Which word rhymes with the word ""city"", ""beginner"" or ""pretty""? A:","['pretty', 'beginner']",pretty,
+"Q: Which word rhymes with the word ""city"", ""beginner"" or ""pretty""? A:","['pretty', 'beginner']",pretty,prettypering and the word
 "Q: Which is a rhyme of the word ""bored"", ""screen"" or ""board""? A:","['board', 'screen']",board,
 "Q: Which is a rhyme of the word ""sort"", ""arrest"" or ""support""? A:","['support', 'arrest']",support,
 "Q: Which is a rhyme of the word ""degree"", ""puppy"" or ""pea""? A:","['pea', 'puppy']",pea,
 "Q: Which word rhymes with the word ""fee"", ""left"" or ""she""? A:","['she', 'left']",she,
-"Q: Of the words ""cliff"" and ""inform"", which one rhymes with ""perform""? A:","['inform', 'cliff']",inform,"cliff, cliff, cliff, clif"
+"Q: Of the words ""cliff"" and ""inform"", which one rhymes with ""perform""? A:","['inform', 'cliff']",inform,
 "Q: Which word rhymes with the word ""registration"", ""warning"" or ""transportation""? A:","['transportation', 'warning']",transportation,
 "Q: Which word rhymes with the word ""stop"", ""shop"" or ""mail""? A:","['shop', 'mail']",shop,
 "Q: Of the words ""cheese"" and ""slim"", which one rhymes with ""please""? A:","['cheese', 'slim']",cheese,
@@ -42,8 +42,8 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""chain"", ""explain"" or ""folder""? A:","['explain', 'folder']",explain,
 "Q: Which word rhymes with the word ""whole"", ""goal"" or ""pen""? A:","['goal', 'pen']",goal,
 "Q: Which word rhymes with the word ""ache"", ""snake"" or ""rainy""? A:","['snake', 'rainy']",snake,
-"Q: Which word rhymes with the word ""skiing"", ""sightseeing"" or ""youth""? A:","['sightseeing', 'youth']",sightseeing,"sightseeing"" or ""sightsee"
-"Q: Which is a rhyme of the word ""far"", ""car"" or ""application""? A:","['car', 'application']",car,"car, car, car, car, car, "
+"Q: Which word rhymes with the word ""skiing"", ""sightseeing"" or ""youth""? A:","['sightseeing', 'youth']",sightseeing,
+"Q: Which is a rhyme of the word ""far"", ""car"" or ""application""? A:","['car', 'application']",car,
 "Q: Which is a rhyme of the word ""pet"", ""sauce"" or ""yet""? A:","['yet', 'sauce']",yet,
 "Q: Of the words ""run"" and ""nowadays"", which one rhymes with ""son""? A:","['run', 'nowadays']",run,
 "Q: Which word rhymes with the word ""stripe"", ""type"" or ""sensible""? A:","['type', 'sensible']",type,
@@ -55,37 +55,37 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""tired"" and ""zoo"", which one rhymes with ""view""? A:","['zoo', 'tired']",zoo,
 "Q: Which word rhymes with the word ""worse"", ""unfriendly"" or ""purse""? A:","['purse', 'unfriendly']",purse,
 "Q: Of the words ""honey"" and ""bean"", which one rhymes with ""routine""? A:","['bean', 'honey']",bean,
-"Q: Which is a rhyme of the word ""wear"", ""annual"" or ""declare""? A:","['declare', 'annual']",declare,declarededededededededede
+"Q: Which is a rhyme of the word ""wear"", ""annual"" or ""declare""? A:","['declare', 'annual']",declare,
 "Q: Which word rhymes with the word ""main"", ""plain"" or ""list""? A:","['plain', 'list']",plain,
-"Q: Of the words ""sky"" and ""signature"", which one rhymes with ""goodbye""? A:","['sky', 'signature']",sky,"signature, ""signature""? a"
-"Q: Which is a rhyme of the word ""together"", ""leather"" or ""neighbor""? A:","['leather', 'neighbor']",leather,"leather"" or ""leather""? a:"
+"Q: Of the words ""sky"" and ""signature"", which one rhymes with ""goodbye""? A:","['sky', 'signature']",sky,
+"Q: Which is a rhyme of the word ""together"", ""leather"" or ""neighbor""? A:","['leather', 'neighbor']",leather,
 "Q: Which word rhymes with the word ""compete"", ""silk"" or ""complete""? A:","['complete', 'silk']",complete,
 "Q: Which word rhymes with the word ""space"", ""case"" or ""winner""? A:","['case', 'winner']",case,
 "Q: Which word rhymes with the word ""spy"", ""tie"" or ""overnight""? A:","['tie', 'overnight']",tie,
 "Q: Which word rhymes with the word ""believe"", ""achieve"" or ""ski""? A:","['achieve', 'ski']",achieve,
-"Q: Which word rhymes with the word ""steak"", ""awake"" or ""area""? A:","['awake', 'area']",awake,area? area? area? area? a
+"Q: Which word rhymes with the word ""steak"", ""awake"" or ""area""? A:","['awake', 'area']",awake,
 "Q: Which is a rhyme of the word ""free"", ""knee"" or ""stuff""? A:","['knee', 'stuff']",knee,
 "Q: Which is a rhyme of the word ""cruise"", ""choose"" or ""campsite""? A:","['choose', 'campsite']",choose,
 "Q: Which is a rhyme of the word ""greet"", ""sunbathe"" or ""defeat""? A:","['defeat', 'sunbathe']",defeat,
 "Q: Which is a rhyme of the word ""home"", ""easy"" or ""comb""? A:","['comb', 'easy']",comb,
 "Q: Which word rhymes with the word ""type"", ""stripe"" or ""punctuation""? A:","['stripe', 'punctuation']",stripe,
-"Q: Which is a rhyme of the word ""spider"", ""membership"" or ""rider""? A:","['rider', 'membership']",rider,
+"Q: Which is a rhyme of the word ""spider"", ""membership"" or ""rider""? A:","['rider', 'membership']",rider,"ridereredes the word ""med"
 "Q: Of the words ""sure"" and ""goal"", which one rhymes with ""tour""? A:","['sure', 'goal']",sure,
 "Q: Of the words ""hopeful"" and ""post"", which one rhymes with ""coast""? A:","['post', 'hopeful']",post,
 "Q: Which is a rhyme of the word ""fight"", ""invite"" or ""fresh""? A:","['invite', 'fresh']",invite,
 "Q: Which word rhymes with the word ""main"", ""cycle"" or ""stain""? A:","['stain', 'cycle']",stain,
 "Q: Which word rhymes with the word ""destroy"", ""toy"" or ""truck""? A:","['toy', 'truck']",toy,
 "Q: Of the words ""sea"" and ""skiing"", which one rhymes with ""sightseeing""? A:","['skiing', 'sea']",skiing,
-"Q: Of the words ""tip"" and ""invention"", which one rhymes with ""slip""? A:","['tip', 'invention']",tip,"tip, tip, tip, tip, tip, "
-"Q: Of the words ""bean"" and ""succeed"", which one rhymes with ""queen""? A:","['bean', 'succeed']",bean,
+"Q: Of the words ""tip"" and ""invention"", which one rhymes with ""slip""? A:","['tip', 'invention']",tip,
+"Q: Of the words ""bean"" and ""succeed"", which one rhymes with ""queen""? A:","['bean', 'succeed']",bean,"succeeds the word ""peanut"
 "Q: Of the words ""gain"" and ""curly"", which one rhymes with ""brain""? A:","['gain', 'curly']",gain,
 "Q: Which is a rhyme of the word ""spy"", ""tie"" or ""overnight""? A:","['tie', 'overnight']",tie,
 "Q: Which is a rhyme of the word ""tire"", ""clear"" or ""buyer""? A:","['buyer', 'clear']",buyer,
 "Q: Which word rhymes with the word ""unwell"", ""virus"" or ""spell""? A:","['spell', 'virus']",spell,
 "Q: Which is a rhyme of the word ""throat"", ""yellow"" or ""promote""? A:","['promote', 'yellow']",promote,
-"Q: Of the words ""leather"" and ""neighbor"", which one rhymes with ""together""? A:","['leather', 'neighbor']",leather,"leather"" and ""leather""? a"
+"Q: Of the words ""leather"" and ""neighbor"", which one rhymes with ""together""? A:","['leather', 'neighbor']",leather,
 "Q: Which word rhymes with the word ""please"", ""cheese"" or ""slim""? A:","['cheese', 'slim']",cheese,
-"Q: Of the words ""complete"" and ""feeling"", which one rhymes with ""seat""? A:","['complete', 'feeling']",complete,"complete"" and ""feeling""? "
+"Q: Of the words ""complete"" and ""feeling"", which one rhymes with ""seat""? A:","['complete', 'feeling']",complete,
 "Q: Which is a rhyme of the word ""too"", ""disabled"" or ""you""? A:","['you', 'disabled']",you,
 "Q: Of the words ""few"" and ""development"", which one rhymes with ""crew""? A:","['few', 'development']",few,
 "Q: Of the words ""toe"" and ""sheet"", which one rhymes with ""low""? A:","['toe', 'sheet']",toe,
@@ -95,7 +95,7 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""exist"", ""prepared"" or ""list""? A:","['list', 'prepared']",list,
 "Q: Which is a rhyme of the word ""beginner"", ""winner"" or ""bike""? A:","['winner', 'bike']",winner,
 "Q: Which word rhymes with the word ""rough"", ""stuff"" or ""monkey""? A:","['stuff', 'monkey']",stuff,
-"Q: Of the words ""dancer"" and ""celebrate"", which one rhymes with ""answer""? A:","['dancer', 'celebrate']",dancer,
+"Q: Of the words ""dancer"" and ""celebrate"", which one rhymes with ""answer""? A:","['dancer', 'celebrate']",dancer,"dancersuated the word ""da"
 "Q: Of the words ""warning"" and ""transportation"", which one rhymes with ""registration""? A:","['transportation', 'warning']",transportation,
 "Q: Which word rhymes with the word ""funny"", ""money"" or ""sport""? A:","['money', 'sport']",money,
 "Q: Which is a rhyme of the word ""flood"", ""blood"" or ""about""? A:","['blood', 'about']",blood,
@@ -108,7 +108,7 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""sign"", ""mine"" or ""routine""? A:","['mine', 'routine']",mine,
 "Q: Which word rhymes with the word ""writer"", ""lighter"" or ""breast""? A:","['lighter', 'breast']",lighter,
 "Q: Which word rhymes with the word ""see"", ""clock"" or ""knee""? A:","['knee', 'clock']",knee,
-"Q: Which is a rhyme of the word ""folder"", ""brilliant"" or ""shoulder""? A:","['shoulder', 'brilliant']",shoulder,"brilliant"" or ""shoulder""?"
+"Q: Which is a rhyme of the word ""folder"", ""brilliant"" or ""shoulder""? A:","['shoulder', 'brilliant']",shoulder,
 "Q: Of the words ""create"" and ""strict"", which one rhymes with ""plate""? A:","['create', 'strict']",create,
 "Q: Which word rhymes with the word ""brain"", ""opportunity"" or ""champagne""? A:","['champagne', 'opportunity']",champagne,
 "Q: Of the words ""secretary"" and ""lamb"", which one rhymes with ""damn""? A:","['lamb', 'secretary']",lamb,
@@ -117,9 +117,9 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""bug"" and ""bulb"", which one rhymes with ""plug""? A:","['bug', 'bulb']",bug,
 "Q: Which word rhymes with the word ""declare"", ""beer"" or ""wear""? A:","['wear', 'beer']",wear,
 "Q: Which word rhymes with the word ""vote"", ""promote"" or ""island""? A:","['promote', 'island']",promote,
-"Q: Which is a rhyme of the word ""queen"", ""bean"" or ""succeed""? A:","['bean', 'succeed']",bean,
+"Q: Which is a rhyme of the word ""queen"", ""bean"" or ""succeed""? A:","['bean', 'succeed']",bean,"sueendeded the word ""pean"
 "Q: Which is a rhyme of the word ""hope"", ""hunger"" or ""soap""? A:","['soap', 'hunger']",soap,
-"Q: Of the words ""forever"" and ""suit"", which one rhymes with ""flute""? A:","['suit', 'forever']",suit,"forever"" and ""forever""? a"
+"Q: Of the words ""forever"" and ""suit"", which one rhymes with ""flute""? A:","['suit', 'forever']",suit,
 "Q: Which is a rhyme of the word ""shoulder"", ""folder"" or ""install""? A:","['folder', 'install']",folder,
 "Q: Which word rhymes with the word ""achieve"", ""hostel"" or ""believe""? A:","['believe', 'hostel']",believe,
 "Q: Which is a rhyme of the word ""hair"", ""fair"" or ""girl""? A:","['fair', 'girl']",fair,
@@ -132,7 +132,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""hide"" and ""harbor"", which one rhymes with ""barber""? A:","['harbor', 'hide']",harbor,
 "Q: Which is a rhyme of the word ""car"", ""initial"" or ""star""? A:","['star', 'initial']",star,
 "Q: Which is a rhyme of the word ""delay"", ""me"" or ""bay""? A:","['bay', 'me']",bay,
-"Q: Which is a rhyme of the word ""weak"", ""technique"" or ""partner""? A:","['technique', 'partner']",technique,
+"Q: Which is a rhyme of the word ""weak"", ""technique"" or ""partner""? A:","['technique', 'partner']",technique,"techniquee of the word ""t"
 "Q: Which word rhymes with the word ""lab"", ""grab"" or ""heavily""? A:","['grab', 'heavily']",grab,
 "Q: Which word rhymes with the word ""morning"", ""alike"" or ""warning""? A:","['warning', 'alike']",warning,
 "Q: Which word rhymes with the word ""plan"", ""television"" or ""pan""? A:","['pan', 'television']",pan,
@@ -142,12 +142,12 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""down"" and ""butter"", which one rhymes with ""town""? A:","['down', 'butter']",down,
 "Q: Which is a rhyme of the word ""bell"", ""hotel"" or ""thunder""? A:","['hotel', 'thunder']",hotel,
 "Q: Of the words ""touch"" and ""absolutely"", which one rhymes with ""much""? A:","['touch', 'absolutely']",touch,
-"Q: Of the words ""upstairs"" and ""yellow"", which one rhymes with ""downstairs""? A:","['upstairs', 'yellow']",upstairs,"upstairs"" and ""upstairs""?"
-"Q: Of the words ""dance"" and ""mile"", which one rhymes with ""chance""? A:","['dance', 'mile']",dance,
+"Q: Of the words ""upstairs"" and ""yellow"", which one rhymes with ""downstairs""? A:","['upstairs', 'yellow']",upstairs,
+"Q: Of the words ""dance"" and ""mile"", which one rhymes with ""chance""? A:","['dance', 'mile']",dance,dancersuated the word lea
 "Q: Which word rhymes with the word ""vacation"", ""foggy"" or ""operation""? A:","['operation', 'foggy']",operation,
 "Q: Of the words ""myself"" and ""accident"", which one rhymes with ""himself""? A:","['myself', 'accident']",myself,
-"Q: Of the words ""helpful"" and ""morning"", which one rhymes with ""warning""? A:","['morning', 'helpful']",morning,"helpful"" and ""helpful""? a"
-"Q: Of the words ""set"" and ""brush"", which one rhymes with ""cigarette""? A:","['set', 'brush']",set,"brush, brush, brush, brus"
+"Q: Of the words ""helpful"" and ""morning"", which one rhymes with ""warning""? A:","['morning', 'helpful']",morning,
+"Q: Of the words ""set"" and ""brush"", which one rhymes with ""cigarette""? A:","['set', 'brush']",set,
 "Q: Which word rhymes with the word ""cruise"", ""choose"" or ""campsite""? A:","['choose', 'campsite']",choose,
 "Q: Which is a rhyme of the word ""ride"", ""fair"" or ""decide""? A:","['decide', 'fair']",decide,
 "Q: Of the words ""exciting"" and ""wooden"", which one rhymes with ""writing""? A:","['exciting', 'wooden']",exciting,
@@ -156,7 +156,7 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""tiny"", ""garage"" or ""shiny""? A:","['shiny', 'garage']",shiny,
 "Q: Which is a rhyme of the word ""warning"", ""handle"" or ""morning""? A:","['morning', 'handle']",morning,
 "Q: Which word rhymes with the word ""then"", ""pen"" or ""death""? A:","['pen', 'death']",pen,
-"Q: Of the words ""postpone"" and ""grass"", which one rhymes with ""unknown""? A:","['postpone', 'grass']",postpone,"postpone"" and ""grass""? a:"
+"Q: Of the words ""postpone"" and ""grass"", which one rhymes with ""unknown""? A:","['postpone', 'grass']",postpone,
 "Q: Which is a rhyme of the word ""fan"", ""van"" or ""properly""? A:","['van', 'properly']",van,
 "Q: Of the words ""pharmacy"" and ""very"", which one rhymes with ""ferry""? A:","['very', 'pharmacy']",very,
 "Q: Which is a rhyme of the word ""rap"", ""check"" or ""map""? A:","['map', 'check']",map,
@@ -167,19 +167,19 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""application"", ""young"" or ""registration""? A:","['registration', 'young']",registration,
 "Q: Which word rhymes with the word ""flood"", ""blood"" or ""comedy""? A:","['blood', 'comedy']",blood,
 "Q: Of the words ""field"" and ""down"", which one rhymes with ""noun""? A:","['down', 'field']",down,
-"Q: Of the words ""compare"" and ""leather"", which one rhymes with ""chair""? A:","['compare', 'leather']",compare,"compare"" and ""compare""? a"
-"Q: Which word rhymes with the word ""grow"", ""so"" or ""stage""? A:","['so', 'stage']",so,something rhymes with the
-"Q: Of the words ""past"" and ""newspaper"", which one rhymes with ""last""? A:","['past', 'newspaper']",past,"past"" and ""newspaper""? a:"
+"Q: Of the words ""compare"" and ""leather"", which one rhymes with ""chair""? A:","['compare', 'leather']",compare,
+"Q: Which word rhymes with the word ""grow"", ""so"" or ""stage""? A:","['so', 'stage']",so,
+"Q: Of the words ""past"" and ""newspaper"", which one rhymes with ""last""? A:","['past', 'newspaper']",past,
 "Q: Of the words ""jog"" and ""spoil"", which one rhymes with ""boil""? A:","['spoil', 'jog']",spoil,
 "Q: Which is a rhyme of the word ""northeast"", ""priest"" or ""sew""? A:","['priest', 'sew']",priest,
 "Q: Which word rhymes with the word ""trip"", ""slip"" or ""player""? A:","['slip', 'player']",slip,
-"Q: Of the words ""phone"" and ""sociable"", which one rhymes with ""own""? A:","['phone', 'sociable']",phone,"sociable"" and ""sociable""?"
+"Q: Of the words ""phone"" and ""sociable"", which one rhymes with ""own""? A:","['phone', 'sociable']",phone,
 "Q: Which is a rhyme of the word ""population"", ""explanation"" or ""diagram""? A:","['explanation', 'diagram']",explanation,
 "Q: Of the words ""mushroom"" and ""baseball"", which one rhymes with ""stall""? A:","['baseball', 'mushroom']",baseball,
 "Q: Which is a rhyme of the word ""alone"", ""shine"" or ""phone""? A:","['phone', 'shine']",phone,
 "Q: Which word rhymes with the word ""fee"", ""key"" or ""quit""? A:","['key', 'quit']",key,
 "Q: Which is a rhyme of the word ""fee"", ""left"" or ""she""? A:","['she', 'left']",she,
-"Q: Which word rhymes with the word ""dad"", ""glad"" or ""checkout""? A:","['glad', 'checkout']",glad,
+"Q: Which word rhymes with the word ""dad"", ""glad"" or ""checkout""? A:","['glad', 'checkout']",glad,"checkouthe word ""dad""? a:"
 "Q: Of the words ""aim"" and ""architect"", which one rhymes with ""same""? A:","['aim', 'architect']",aim,
 "Q: Which is a rhyme of the word ""disease"", ""cheese"" or ""bicycle""? A:","['cheese', 'bicycle']",cheese,
 "Q: Of the words ""page"" and ""businesswoman"", which one rhymes with ""wage""? A:","['page', 'businesswoman']",page,
@@ -205,7 +205,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""father"" and ""allow"", which one rhymes with ""wow""? A:","['allow', 'father']",allow,
 "Q: Which is a rhyme of the word ""meet"", ""pedestrian"" or ""heat""? A:","['heat', 'pedestrian']",heat,
 "Q: Which is a rhyme of the word ""shiny"", ""pleasure"" or ""tiny""? A:","['tiny', 'pleasure']",tiny,
-"Q: Of the words ""friend"" and ""brush"", which one rhymes with ""defend""? A:","['friend', 'brush']",friend,"brush, brush, brush, brus"
+"Q: Of the words ""friend"" and ""brush"", which one rhymes with ""defend""? A:","['friend', 'brush']",friend,
 "Q: Of the words ""airplane"" and ""sum"", which one rhymes with ""from""? A:","['sum', 'airplane']",sum,
 "Q: Which word rhymes with the word ""wrong"", ""handwriting"" or ""song""? A:","['song', 'handwriting']",song,
 "Q: Of the words ""phrase"" and ""taste"", which one rhymes with ""waste""? A:","['taste', 'phrase']",taste,
@@ -213,15 +213,15 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""match"", ""attach"" or ""follow""? A:","['attach', 'follow']",attach,
 "Q: Which is a rhyme of the word ""heater"", ""reader"" or ""meter""? A:","['meter', 'reader']",meter,
 "Q: Of the words ""generation"" and ""champagne"", which one rhymes with ""situation""? A:","['generation', 'champagne']",generation,
-"Q: Which word rhymes with the word ""weak"", ""technique"" or ""partner""? A:","['technique', 'partner']",technique,
+"Q: Which word rhymes with the word ""weak"", ""technique"" or ""partner""? A:","['technique', 'partner']",technique,"techniquee of the word ""t"
 "Q: Which word rhymes with the word ""pronounce"", ""clap"" or ""bounce""? A:","['bounce', 'clap']",bounce,
-"Q: Which word rhymes with the word ""grade"", ""persuade"" or ""mango""? A:","['persuade', 'mango']",persuade,persuadededededededededed
+"Q: Which word rhymes with the word ""grade"", ""persuade"" or ""mango""? A:","['persuade', 'mango']",persuade,
 "Q: Which word rhymes with the word ""wing"", ""thing"" or ""picture""? A:","['thing', 'picture']",thing,
 "Q: Which is a rhyme of the word ""routine"", ""mouse"" or ""mean""? A:","['mean', 'mouse']",mean,
 "Q: Of the words ""much"" and ""speech"", which one rhymes with ""peach""? A:","['speech', 'much']",speech,
 "Q: Which is a rhyme of the word ""gallery"", ""salary"" or ""honeymoon""? A:","['salary', 'honeymoon']",salary,
 "Q: Which is a rhyme of the word ""wrong"", ""handwriting"" or ""song""? A:","['song', 'handwriting']",song,
-"Q: Which word rhymes with the word ""beach"", ""north"" or ""reach""? A:","['reach', 'north']",reach,"north, north, north, nort"
+"Q: Which word rhymes with the word ""beach"", ""north"" or ""reach""? A:","['reach', 'north']",reach,
 "Q: Of the words ""hit"" and ""mistake"", which one rhymes with ""kit""? A:","['hit', 'mistake']",hit,
 "Q: Which is a rhyme of the word ""let"", ""cigarette"" or ""greeting""? A:","['cigarette', 'greeting']",cigarette,
 "Q: Which word rhymes with the word ""clock"", ""title"" or ""rock""? A:","['rock', 'title']",rock,
@@ -230,7 +230,7 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""jam"", ""drama"" or ""tram""? A:","['tram', 'drama']",tram,
 "Q: Which word rhymes with the word ""location"", ""station"" or ""visit""? A:","['station', 'visit']",station,
 "Q: Which is a rhyme of the word ""chair"", ""pair"" or ""blank""? A:","['pair', 'blank']",pair,
-"Q: Which is a rhyme of the word ""lake"", ""unimportant"" or ""make""? A:","['make', 'unimportant']",make,"make"" is a rhyme of the w"
+"Q: Which is a rhyme of the word ""lake"", ""unimportant"" or ""make""? A:","['make', 'unimportant']",make,
 "Q: Of the words ""goal"" and ""cheap"", which one rhymes with ""deep""? A:","['cheap', 'goal']",cheap,
 "Q: Which word rhymes with the word ""house"", ""mouse"" or ""fight""? A:","['mouse', 'fight']",mouse,
 "Q: Which word rhymes with the word ""immigration"", ""celebration"" or ""totally""? A:","['celebration', 'totally']",celebration,
@@ -241,32 +241,32 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""routine"", ""instead"" or ""machine""? A:","['machine', 'instead']",machine,
 "Q: Of the words ""sports"" and ""atmosphere"", which one rhymes with ""shorts""? A:","['sports', 'atmosphere']",sports,
 "Q: Which word rhymes with the word ""not"", ""spot"" or ""individual""? A:","['spot', 'individual']",spot,
-"Q: Of the words ""surround"" and ""useless"", which one rhymes with ""sound""? A:","['surround', 'useless']",surround,surrounded by surrounded 
+"Q: Of the words ""surround"" and ""useless"", which one rhymes with ""sound""? A:","['surround', 'useless']",surround,
 "Q: Which is a rhyme of the word ""peach"", ""airline"" or ""teach""? A:","['teach', 'airline']",teach,
-"Q: Which word rhymes with the word ""station"", ""throw"" or ""immigration""? A:","['immigration', 'throw']",immigration,throw throw throw throw t
+"Q: Which word rhymes with the word ""station"", ""throw"" or ""immigration""? A:","['immigration', 'throw']",immigration,
 "Q: Which word rhymes with the word ""sleep"", ""helicopter"" or ""steep""? A:","['steep', 'helicopter']",steep,
 "Q: Which is a rhyme of the word ""funny"", ""money"" or ""sport""? A:","['money', 'sport']",money,
 "Q: Which word rhymes with the word ""wait"", ""textbook"" or ""state""? A:","['state', 'textbook']",state,
 "Q: Which word rhymes with the word ""low"", ""toe"" or ""sheet""? A:","['toe', 'sheet']",toe,
-"Q: Of the words ""player"" and ""announce"", which one rhymes with ""pronounce""? A:","['announce', 'player']",announce,"player"" announcer= = = pl"
+"Q: Of the words ""player"" and ""announce"", which one rhymes with ""pronounce""? A:","['announce', 'player']",announce,
 "Q: Which is a rhyme of the word ""stick"", ""steep"" or ""trick""? A:","['trick', 'steep']",trick,
 "Q: Which is a rhyme of the word ""bury"", ""stick"" or ""scary""? A:","['scary', 'stick']",scary,
 "Q: Which word rhymes with the word ""fast"", ""past"" or ""east""? A:","['past', 'east']",past,
 "Q: Which is a rhyme of the word ""machine"", ""routine"" or ""novel""? A:","['routine', 'novel']",routine,
 "Q: Of the words ""table"" and ""department"", which one rhymes with ""cable""? A:","['table', 'department']",table,
-"Q: Of the words ""first"" and ""punctuation"", which one rhymes with ""occupation""? A:","['punctuation', 'first']",punctuation,"firstly"" and ""firstly""? a"
+"Q: Of the words ""first"" and ""punctuation"", which one rhymes with ""occupation""? A:","['punctuation', 'first']",punctuation,
 "Q: Which is a rhyme of the word ""creature"", ""teacher"" or ""cabin""? A:","['teacher', 'cabin']",teacher,
 "Q: Of the words ""must"" and ""hey"", which one rhymes with ""dust""? A:","['must', 'hey']",must,
 "Q: Of the words ""put"" and ""election"", which one rhymes with ""foot""? A:","['put', 'election']",put,
 "Q: Of the words ""daughter"" and ""imagination"", which one rhymes with ""transportation""? A:","['imagination', 'daughter']",imagination,
 "Q: Which is a rhyme of the word ""bean"", ""clean"" or ""elbow""? A:","['clean', 'elbow']",clean,
-"Q: Which is a rhyme of the word ""install"", ""leader"" or ""baseball""? A:","['baseball', 'leader']",baseball,
-"Q: Which word rhymes with the word ""dance"", ""past"" or ""chance""? A:","['chance', 'past']",chance,
+"Q: Which is a rhyme of the word ""install"", ""leader"" or ""baseball""? A:","['baseball', 'leader']",baseball,"leader, which word comes "
+"Q: Which word rhymes with the word ""dance"", ""past"" or ""chance""? A:","['chance', 'past']",chance,"chancelen the word ""chanc"
 "Q: Which is a rhyme of the word ""spy"", ""try"" or ""frame""? A:","['try', 'frame']",try,
 "Q: Which word rhymes with the word ""side"", ""could"" or ""decide""? A:","['decide', 'could']",decide,
-"Q: Of the words ""advanced"" and ""away"", which one rhymes with ""bay""? A:","['away', 'advanced']",away,"advanced"" and ""advanced""?"
+"Q: Of the words ""advanced"" and ""away"", which one rhymes with ""bay""? A:","['away', 'advanced']",away,
 "Q: Of the words ""terribly"" and ""smell"", which one rhymes with ""hotel""? A:","['smell', 'terribly']",smell,
-"Q: Of the words ""coconut"" and ""square"", which one rhymes with ""spare""? A:","['square', 'coconut']",square,
+"Q: Of the words ""coconut"" and ""square"", which one rhymes with ""spare""? A:","['square', 'coconut']",square,"coconutcared the word ""co"
 "Q: Of the words ""expensive"" and ""wall"", which one rhymes with ""baseball""? A:","['wall', 'expensive']",wall,
 "Q: Which word rhymes with the word ""she"", ""place"" or ""sea""? A:","['sea', 'place']",sea,
 "Q: Which is a rhyme of the word ""flute"", ""forever"" or ""suit""? A:","['suit', 'forever']",suit,
@@ -278,7 +278,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""sell"" and ""certificate"", which one rhymes with ""hotel""? A:","['sell', 'certificate']",sell,
 "Q: Which is a rhyme of the word ""situation"", ""generation"" or ""champagne""? A:","['generation', 'champagne']",generation,
 "Q: Which word rhymes with the word ""range"", ""frame"" or ""change""? A:","['change', 'frame']",change,
-"Q: Which word rhymes with the word ""politely"", ""remind"" or ""lightly""? A:","['lightly', 'remind']",lightly,"remind me of the word ""po"
+"Q: Which word rhymes with the word ""politely"", ""remind"" or ""lightly""? A:","['lightly', 'remind']",lightly,
 "Q: Which is a rhyme of the word ""taste"", ""come"" or ""waste""? A:","['waste', 'come']",waste,
 "Q: Which word rhymes with the word ""sign"", ""mine"" or ""routine""? A:","['mine', 'routine']",mine,
 "Q: Which word rhymes with the word ""thick"", ""trick"" or ""hot""? A:","['trick', 'hot']",trick,
@@ -294,14 +294,14 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""ache"", ""snake"" or ""rainy""? A:","['snake', 'rainy']",snake,
 "Q: Which is a rhyme of the word ""noun"", ""disease"" or ""downtown""? A:","['downtown', 'disease']",downtown,
 "Q: Which is a rhyme of the word ""lab"", ""grab"" or ""heavily""? A:","['grab', 'heavily']",grab,
-"Q: Of the words ""contain"" and ""kangaroo"", which one rhymes with ""through""? A:","['kangaroo', 'contain']",kangaroo,"kangaroo, kangaroo, kanga"
+"Q: Of the words ""contain"" and ""kangaroo"", which one rhymes with ""through""? A:","['kangaroo', 'contain']",kangaroo,
 "Q: Which word rhymes with the word ""amusing"", ""confusing"" or ""peak""? A:","['confusing', 'peak']",confusing,
 "Q: Of the words ""port"" and ""table"", which one rhymes with ""label""? A:","['table', 'port']",table,
-"Q: Of the words ""thought"" and ""heater"", which one rhymes with ""liter""? A:","['heater', 'thought']",heater,"thought"" and ""thought""? a"
+"Q: Of the words ""thought"" and ""heater"", which one rhymes with ""liter""? A:","['heater', 'thought']",heater,
 "Q: Which word rhymes with the word ""short"", ""support"" or ""fill""? A:","['support', 'fill']",support,
 "Q: Which word rhymes with the word ""south"", ""shoot"" or ""mouth""? A:","['mouth', 'shoot']",mouth,
-"Q: Which is a rhyme of the word ""defend"", ""friend"" or ""brush""? A:","['friend', 'brush']",friend,
-"Q: Which word rhymes with the word ""rarely"", ""smoking"" or ""fairly""? A:","['fairly', 'smoking']",fairly,"fairly"" and ""smoking""? a:"
+"Q: Which is a rhyme of the word ""defend"", ""friend"" or ""brush""? A:","['friend', 'brush']",friend,"friendshievedimediately""?"
+"Q: Which word rhymes with the word ""rarely"", ""smoking"" or ""fairly""? A:","['fairly', 'smoking']",fairly,
 "Q: Which is a rhyme of the word ""tea"", ""father"" or ""we""? A:","['we', 'father']",we,
 "Q: Of the words ""area"" and ""kit"", which one rhymes with ""fit""? A:","['kit', 'area']",kit,
 "Q: Which word rhymes with the word ""sleep"", ""keep"" or ""common""? A:","['keep', 'common']",keep,
@@ -319,7 +319,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""nowadays"" and ""solve"", which one rhymes with ""involve""? A:","['solve', 'nowadays']",solve,
 "Q: Which is a rhyme of the word ""you"", ""kangaroo"" or ""curtain""? A:","['kangaroo', 'curtain']",kangaroo,
 "Q: Which is a rhyme of the word ""meal"", ""steal"" or ""border""? A:","['steal', 'border']",steal,
-"Q: Which is a rhyme of the word ""dance"", ""past"" or ""chance""? A:","['chance', 'past']",chance,
+"Q: Which is a rhyme of the word ""dance"", ""past"" or ""chance""? A:","['chance', 'past']",chance,"chancestion sangerous""? a"
 "Q: Which word rhymes with the word ""afternoon"", ""cartoon"" or ""milk""? A:","['cartoon', 'milk']",cartoon,
 "Q: Of the words ""how"" and ""style"", which one rhymes with ""smile""? A:","['style', 'how']",style,
 "Q: Of the words ""cabin"" and ""train"", which one rhymes with ""plain""? A:","['train', 'cabin']",train,
@@ -335,7 +335,7 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""rough"", ""stuff"" or ""basketball""? A:","['stuff', 'basketball']",stuff,
 "Q: Which is a rhyme of the word ""main"", ""cycle"" or ""stain""? A:","['stain', 'cycle']",stain,
 "Q: Of the words ""writer"" and ""exhibition"", which one rhymes with ""intermission""? A:","['exhibition', 'writer']",exhibition,
-"Q: Of the words ""disabled"" and ""you"", which one rhymes with ""too""? A:","['you', 'disabled']",you,"disabled"" and ""disabled""?"
+"Q: Of the words ""disabled"" and ""you"", which one rhymes with ""too""? A:","['you', 'disabled']",you,
 "Q: Which is a rhyme of the word ""main"", ""member"" or ""stain""? A:","['stain', 'member']",stain,
 "Q: Of the words ""folder"" and ""install"", which one rhymes with ""shoulder""? A:","['folder', 'install']",folder,
 "Q: Which is a rhyme of the word ""mean"", ""green"" or ""assignment""? A:","['green', 'assignment']",green,
@@ -354,12 +354,12 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""pack"", ""attack"" or ""since""? A:","['attack', 'since']",attack,
 "Q: Of the words ""drama"" and ""tram"", which one rhymes with ""jam""? A:","['tram', 'drama']",tram,
 "Q: Of the words ""check"" and ""map"", which one rhymes with ""rap""? A:","['map', 'check']",map,
-"Q: Which word rhymes with the word ""rise"", ""prize"" or ""murder""? A:","['prize', 'murder']",prize,
+"Q: Which word rhymes with the word ""rise"", ""prize"" or ""murder""? A:","['prize', 'murder']",prize,"murderedededed the word """
 "Q: Of the words ""silk"" and ""complete"", which one rhymes with ""compete""? A:","['complete', 'silk']",complete,
 "Q: Which word rhymes with the word ""ride"", ""fair"" or ""decide""? A:","['decide', 'fair']",decide,
 "Q: Of the words ""cat"" and ""shut"", which one rhymes with ""cut""? A:","['shut', 'cat']",shut,
 "Q: Which is a rhyme of the word ""star"", ""bar"" or ""prescription""? A:","['bar', 'prescription']",bar,
-"Q: Of the words ""airline"" and ""cartoon"", which one rhymes with ""noon""? A:","['cartoon', 'airline']",cartoon,"cartoons"" and ""cartoons""?"
+"Q: Of the words ""airline"" and ""cartoon"", which one rhymes with ""noon""? A:","['cartoon', 'airline']",cartoon,
 "Q: Of the words ""jazz"" and ""clear"", which one rhymes with ""engineer""? A:","['clear', 'jazz']",clear,
 "Q: Which is a rhyme of the word ""twice"", ""swimmer"" or ""slice""? A:","['slice', 'swimmer']",slice,
 "Q: Which word rhymes with the word ""daughter"", ""out"" or ""water""? A:","['water', 'out']",water,
@@ -368,9 +368,9 @@ Input,Options,Expected,Predicted
 "Q: Which is a rhyme of the word ""steak"", ""guide"" or ""lake""? A:","['lake', 'guide']",lake,
 "Q: Which is a rhyme of the word ""bored"", ""board"" or ""mall""? A:","['board', 'mall']",board,
 "Q: Which is a rhyme of the word ""case"", ""race"" or ""crowd""? A:","['race', 'crowd']",race,
-"Q: Of the words ""imagination"" and ""miss"", which one rhymes with ""transportation""? A:","['imagination', 'miss']",imagination,"miss, which one rhymes wi"
+"Q: Of the words ""imagination"" and ""miss"", which one rhymes with ""transportation""? A:","['imagination', 'miss']",imagination,
 "Q: Which word rhymes with the word ""key"", ""hidden"" or ""ski""? A:","['ski', 'hidden']",ski,
-"Q: Which word rhymes with the word ""pronounce"", ""player"" or ""announce""? A:","['announce', 'player']",announce,announcer= = = john and t
+"Q: Which word rhymes with the word ""pronounce"", ""player"" or ""announce""? A:","['announce', 'player']",announce,
 "Q: Which is a rhyme of the word ""coast"", ""hopeful"" or ""post""? A:","['post', 'hopeful']",post,
 "Q: Which is a rhyme of the word ""come"", ""sum"" or ""healthy""? A:","['sum', 'healthy']",sum,
 "Q: Which word rhymes with the word ""week"", ""baseball"" or ""antique""? A:","['antique', 'baseball']",antique,
@@ -422,7 +422,7 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""nearly"", ""clearly"" or ""engineer""? A:","['clearly', 'engineer']",clearly,
 "Q: Of the words ""deep"" and ""foot"", which one rhymes with ""asleep""? A:","['deep', 'foot']",deep,
 "Q: Which is a rhyme of the word ""hunt"", ""who"" or ""front""? A:","['front', 'who']",front,
-"Q: Which is a rhyme of the word ""pronounce"", ""clap"" or ""bounce""? A:","['bounce', 'clap']",bounce,
+"Q: Which is a rhyme of the word ""pronounce"", ""clap"" or ""bounce""? A:","['bounce', 'clap']",bounce,"claungerouse"", which word"
 "Q: Which word rhymes with the word ""ferry"", ""pharmacy"" or ""very""? A:","['very', 'pharmacy']",very,
 "Q: Which word rhymes with the word ""biology"", ""farm"" or ""apology""? A:","['apology', 'farm']",apology,
 "Q: Which word rhymes with the word ""fast"", ""past"" or ""cooking""? A:","['past', 'cooking']",past,
@@ -433,11 +433,11 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""fill"", ""hill"" or ""scientific""? A:","['hill', 'scientific']",hill,
 "Q: Of the words ""save"" and ""banking"", which one rhymes with ""shave""? A:","['save', 'banking']",save,
 "Q: Which is a rhyme of the word ""bad"", ""central"" or ""add""? A:","['add', 'central']",add,
-"Q: Which is a rhyme of the word ""weigh"", ""honest"" or ""bay""? A:","['bay', 'honest']",bay,"bay"" is a rhyme of the wo"
+"Q: Which is a rhyme of the word ""weigh"", ""honest"" or ""bay""? A:","['bay', 'honest']",bay,
 "Q: Which is a rhyme of the word ""could"", ""should"" or ""annoyed""? A:","['should', 'annoyed']",should,
 "Q: Which is a rhyme of the word ""suggest"", ""regularly"" or ""stressed""? A:","['stressed', 'regularly']",stressed,
-"Q: Which is a rhyme of the word ""together"", ""climb"" or ""weather""? A:","['weather', 'climb']",weather,"weather"" is a rhyme of th"
-"Q: Of the words ""canal"" and ""king"", which one rhymes with ""bring""? A:","['king', 'canal']",king,"king, king, king, king, k"
+"Q: Which is a rhyme of the word ""together"", ""climb"" or ""weather""? A:","['weather', 'climb']",weather,
+"Q: Of the words ""canal"" and ""king"", which one rhymes with ""bring""? A:","['king', 'canal']",king,
 "Q: Which word rhymes with the word ""same"", ""game"" or ""male""? A:","['game', 'male']",game,
 "Q: Which word rhymes with the word ""pray"", ""display"" or ""link""? A:","['display', 'link']",display,
 "Q: Which is a rhyme of the word ""mess"", ""stress"" or ""shelf""? A:","['stress', 'shelf']",stress,
@@ -449,18 +449,18 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""fat"" and ""dog"", which one rhymes with ""chat""? A:","['fat', 'dog']",fat,
 "Q: Which word rhymes with the word ""plain"", ""cabin"" or ""train""? A:","['train', 'cabin']",train,
 "Q: Of the words ""grilled"" and ""stage"", which one rhymes with ""build""? A:","['grilled', 'stage']",grilled,
-"Q: Of the words ""antique"" and ""not"", which one rhymes with ""cheek""? A:","['antique', 'not']",antique,"antique"" antique, which o"
+"Q: Of the words ""antique"" and ""not"", which one rhymes with ""cheek""? A:","['antique', 'not']",antique,
 "Q: Which is a rhyme of the word ""speed"", ""indeed"" or ""dusty""? A:","['indeed', 'dusty']",indeed,
-"Q: Of the words ""trade"" and ""succeed"", which one rhymes with ""indeed""? A:","['succeed', 'trade']",succeed,
+"Q: Of the words ""trade"" and ""succeed"", which one rhymes with ""indeed""? A:","['succeed', 'trade']",succeed,succeeds the word least a
 "Q: Which is a rhyme of the word ""juice"", ""loose"" or ""account""? A:","['loose', 'account']",loose,
 "Q: Which is a rhyme of the word ""lip"", ""priest"" or ""ship""? A:","['ship', 'priest']",ship,
-"Q: Which word rhymes with the word ""rent"", ""tent"" or ""man""? A:","['tent', 'man']",tent,
+"Q: Which word rhymes with the word ""rent"", ""tent"" or ""man""? A:","['tent', 'man']",tent,"tentence ""the many people"
 "Q: Which is a rhyme of the word ""silk"", ""nowadays"" or ""milk""? A:","['milk', 'nowadays']",milk,
 "Q: Which word rhymes with the word ""heater"", ""meter"" or ""benefit""? A:","['meter', 'benefit']",meter,
 "Q: Which word rhymes with the word ""cent"", ""invent"" or ""sir""? A:","['invent', 'sir']",invent,
 "Q: Which word rhymes with the word ""hall"", ""wall"" or ""scream""? A:","['wall', 'scream']",wall,
 "Q: Which is a rhyme of the word ""barber"", ""hide"" or ""harbor""? A:","['harbor', 'hide']",harbor,
-"Q: Which word rhymes with the word ""proud"", ""cloud"" or ""shoulder""? A:","['cloud', 'shoulder']",cloud,"shoulder"" or ""shoulder""? "
+"Q: Which word rhymes with the word ""proud"", ""cloud"" or ""shoulder""? A:","['cloud', 'shoulder']",cloud,
 "Q: Which word rhymes with the word ""conversation"", ""spider"" or ""station""? A:","['station', 'spider']",station,
 "Q: Which word rhymes with the word ""money"", ""iron"" or ""sunny""? A:","['sunny', 'iron']",sunny,
 "Q: Which is a rhyme of the word ""scared"", ""here"" or ""prepared""? A:","['prepared', 'here']",prepared,
@@ -468,18 +468,18 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""boil"", ""jog"" or ""spoil""? A:","['spoil', 'jog']",spoil,
 "Q: Which word rhymes with the word ""apply"", ""likely"" or ""high""? A:","['high', 'likely']",high,
 "Q: Which word rhymes with the word ""generation"", ""presentation"" or ""confident""? A:","['presentation', 'confident']",presentation,
-"Q: Of the words ""stone"" and ""delicious"", which one rhymes with ""alone""? A:","['stone', 'delicious']",stone,"stone"" and ""delicious""? a"
-"Q: Which word rhymes with the word ""joke"", ""temporary"" or ""folk""? A:","['folk', 'temporary']",folk,
+"Q: Of the words ""stone"" and ""delicious"", which one rhymes with ""alone""? A:","['stone', 'delicious']",stone,
+"Q: Which word rhymes with the word ""joke"", ""temporary"" or ""folk""? A:","['folk', 'temporary']",folk,"folked"", which word comes"
 "Q: Of the words ""bathroom"" and ""destroy"", which one rhymes with ""boy""? A:","['destroy', 'bathroom']",destroy,
 "Q: Of the words ""study"" and ""store"", which one rhymes with ""anymore""? A:","['store', 'study']",store,
 "Q: Which word rhymes with the word ""bounce"", ""sunny"" or ""pronounce""? A:","['pronounce', 'sunny']",pronounce,
 "Q: Of the words ""grape"" and ""quantity"", which one rhymes with ""escape""? A:","['grape', 'quantity']",grape,
-"Q: Of the words ""pantyhose"" and ""rich"", which one rhymes with ""switch""? A:","['rich', 'pantyhose']",rich,
-"Q: Of the words ""pair"" and ""blank"", which one rhymes with ""chair""? A:","['pair', 'blank']",pair,"blank, blank, blank, blan"
+"Q: Of the words ""pantyhose"" and ""rich"", which one rhymes with ""switch""? A:","['rich', 'pantyhose']",rich,"richelletters with ""state"
+"Q: Of the words ""pair"" and ""blank"", which one rhymes with ""chair""? A:","['pair', 'blank']",pair,
 "Q: Of the words ""those"" and ""trade"", which one rhymes with ""nose""? A:","['those', 'trade']",those,
 "Q: Which is a rhyme of the word ""wild"", ""child"" or ""store""? A:","['child', 'store']",child,
 "Q: Which is a rhyme of the word ""control"", ""hole"" or ""weigh""? A:","['hole', 'weigh']",hole,
-"Q: Of the words ""invent"" and ""weekly"", which one rhymes with ""percent""? A:","['invent', 'weekly']",invent,weeklyyyyyyyyyyyyyyyyyyyy
+"Q: Of the words ""invent"" and ""weekly"", which one rhymes with ""percent""? A:","['invent', 'weekly']",invent,
 "Q: Which word rhymes with the word ""long"", ""strong"" or ""press""? A:","['strong', 'press']",strong,
 "Q: Which is a rhyme of the word ""drag"", ""do"" or ""flag""? A:","['flag', 'do']",flag,
 "Q: Of the words ""badly"" and ""eye"", which one rhymes with ""guy""? A:","['eye', 'badly']",eye,
@@ -500,9 +500,9 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""slip"", ""tip"" or ""cook""? A:","['tip', 'cook']",tip,
 "Q: Of the words ""lightly"" and ""bell"", which one rhymes with ""smell""? A:","['bell', 'lightly']",bell,
 "Q: Which is a rhyme of the word ""unknown"", ""postpone"" or ""grass""? A:","['postpone', 'grass']",postpone,
-"Q: Which word rhymes with the word ""who"", ""through"" or ""athlete""? A:","['through', 'athlete']",through,"through word ""through""? a"
+"Q: Which word rhymes with the word ""who"", ""through"" or ""athlete""? A:","['through', 'athlete']",through,
 "Q: Which word rhymes with the word ""meet"", ""pedestrian"" or ""heat""? A:","['heat', 'pedestrian']",heat,
-"Q: Of the words ""winner"" and ""ring"", which one rhymes with ""wing""? A:","['ring', 'winner']",ring,ringringringringringringr
+"Q: Of the words ""winner"" and ""ring"", which one rhymes with ""wing""? A:","['ring', 'winner']",ring,
 "Q: Which word rhymes with the word ""killer"", ""curtain"" or ""thriller""? A:","['thriller', 'curtain']",thriller,
 "Q: Which is a rhyme of the word ""crop"", ""frightened"" or ""stop""? A:","['stop', 'frightened']",stop,
 "Q: Of the words ""per"" and ""server"", which one rhymes with ""fur""? A:","['per', 'server']",per,
@@ -519,7 +519,7 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""shut"", ""appearance"" or ""but""? A:","['but', 'appearance']",but,
 "Q: Which is a rhyme of the word ""improve"", ""angrily"" or ""remove""? A:","['remove', 'angrily']",remove,
 "Q: Which is a rhyme of the word ""information"", ""now"" or ""conversation""? A:","['conversation', 'now']",conversation,
-"Q: Which word rhymes with the word ""queen"", ""bean"" or ""succeed""? A:","['bean', 'succeed']",bean,
+"Q: Which word rhymes with the word ""queen"", ""bean"" or ""succeed""? A:","['bean', 'succeed']",bean,sueendededededededededed 
 "Q: Which word rhymes with the word ""half"", ""unforgettable"" or ""staff""? A:","['staff', 'unforgettable']",staff,
 "Q: Which is a rhyme of the word ""unwell"", ""smell"" or ""tablet""? A:","['smell', 'tablet']",smell,
 "Q: Which word rhymes with the word ""intermission"", ""writer"" or ""exhibition""? A:","['exhibition', 'writer']",exhibition,
@@ -529,7 +529,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""balcony"" and ""shoulder"", which one rhymes with ""folder""? A:","['shoulder', 'balcony']",shoulder,
 "Q: Which is a rhyme of the word ""afternoon"", ""cartoon"" or ""ages""? A:","['cartoon', 'ages']",cartoon,
 "Q: Of the words ""hat"" and ""granddaughter"", which one rhymes with ""bat""? A:","['hat', 'granddaughter']",hat,
-"Q: Of the words ""grilled"" and ""snowboard"", which one rhymes with ""rebuild""? A:","['grilled', 'snowboard']",grilled,"snowboard"" and ""grilled""?"
+"Q: Of the words ""grilled"" and ""snowboard"", which one rhymes with ""rebuild""? A:","['grilled', 'snowboard']",grilled,
 "Q: Which is a rhyme of the word ""fly"", ""fry"" or ""abroad""? A:","['fry', 'abroad']",fry,
 "Q: Which is a rhyme of the word ""guy"", ""fashion"" or ""lie""? A:","['lie', 'fashion']",lie,
 "Q: Of the words ""trumpet"" and ""site"", which one rhymes with ""quite""? A:","['site', 'trumpet']",site,
@@ -542,16 +542,16 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""instrument"" and ""sign"", which one rhymes with ""wine""? A:","['sign', 'instrument']",sign,
 "Q: Which is a rhyme of the word ""gallery"", ""salary"" or ""cut""? A:","['salary', 'cut']",salary,
 "Q: Which word rhymes with the word ""altogether"", ""unknown"" or ""weather""? A:","['weather', 'unknown']",weather,
-"Q: Of the words ""solution"" and ""butcher"", which one rhymes with ""pollution""? A:","['solution', 'butcher']",solution,"butcher, butcher, butcher"
+"Q: Of the words ""solution"" and ""butcher"", which one rhymes with ""pollution""? A:","['solution', 'butcher']",solution,
 "Q: Which word rhymes with the word ""dear"", ""souvenir"" or ""total""? A:","['souvenir', 'total']",souvenir,
 "Q: Which is a rhyme of the word ""mix"", ""icy"" or ""fix""? A:","['fix', 'icy']",fix,
 "Q: Which word rhymes with the word ""star"", ""bar"" or ""prescription""? A:","['bar', 'prescription']",bar,
-"Q: Of the words ""pop"" and ""surfing"", which one rhymes with ""stop""? A:","['pop', 'surfing']",pop,"surfing"" and ""surfing""? a"
+"Q: Of the words ""pop"" and ""surfing"", which one rhymes with ""stop""? A:","['pop', 'surfing']",pop,
 "Q: Of the words ""camp"" and ""agree"", which one rhymes with ""fee""? A:","['agree', 'camp']",agree,
 "Q: Which word rhymes with the word ""dig"", ""gray"" or ""big""? A:","['big', 'gray']",big,
 "Q: Which is a rhyme of the word ""intermission"", ""writer"" or ""exhibition""? A:","['exhibition', 'writer']",exhibition,
 "Q: Of the words ""drawer"" and ""generation"", which one rhymes with ""relation""? A:","['generation', 'drawer']",generation,
-"Q: Which word rhymes with the word ""leave"", ""believe"" or ""apartment""? A:","['believe', 'apartment']",believe,"believe"" or ""believe""? a:"
+"Q: Which word rhymes with the word ""leave"", ""believe"" or ""apartment""? A:","['believe', 'apartment']",believe,
 "Q: Which is a rhyme of the word ""groom"", ""perfume"" or ""identification""? A:","['perfume', 'identification']",perfume,
 "Q: Which word rhymes with the word ""could"", ""should"" or ""annoyed""? A:","['should', 'annoyed']",should,
 "Q: Of the words ""public"" and ""owe"", which one rhymes with ""snow""? A:","['owe', 'public']",owe,
@@ -572,11 +572,11 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""drive"", ""dive"" or ""choose""? A:","['dive', 'choose']",dive,
 "Q: Which word rhymes with the word ""main"", ""brain"" or ""crossing""? A:","['brain', 'crossing']",brain,
 "Q: Of the words ""souvenir"" and ""total"", which one rhymes with ""dear""? A:","['souvenir', 'total']",souvenir,
-"Q: Which is a rhyme of the word ""lonely"", ""only"" or ""photographer""? A:","['only', 'photographer']",only,
+"Q: Which is a rhyme of the word ""lonely"", ""only"" or ""photographer""? A:","['only', 'photographer']",only,"onlyonershutterstand""? a:"
 "Q: Of the words ""tall"" and ""stress"", which one rhymes with ""less""? A:","['stress', 'tall']",stress,
 "Q: Which word rhymes with the word ""apartment"", ""despite"" or ""department""? A:","['department', 'despite']",department,
-"Q: Which word rhymes with the word ""install"", ""leader"" or ""baseball""? A:","['baseball', 'leader']",baseball,
-"Q: Which word rhymes with the word ""ago"", ""poster"" or ""owe""? A:","['owe', 'poster']",owe,owe? ago? ago? ago? ago? 
+"Q: Which word rhymes with the word ""install"", ""leader"" or ""baseball""? A:","['baseball', 'leader']",baseball,"leader, which word comes "
+"Q: Which word rhymes with the word ""ago"", ""poster"" or ""owe""? A:","['owe', 'poster']",owe,
 "Q: Which is a rhyme of the word ""boy"", ""bathroom"" or ""destroy""? A:","['destroy', 'bathroom']",destroy,
 "Q: Which word rhymes with the word ""shoulder"", ""folder"" or ""think""? A:","['folder', 'think']",folder,
 "Q: Which word rhymes with the word ""kite"", ""airport"" or ""site""? A:","['site', 'airport']",site,
@@ -586,16 +586,16 @@ Input,Options,Expected,Predicted
 "Q: Which word rhymes with the word ""smile"", ""how"" or ""style""? A:","['style', 'how']",style,
 "Q: Which is a rhyme of the word ""farm"", ""rude"" or ""alarm""? A:","['alarm', 'rude']",alarm,
 "Q: Of the words ""attend"" and ""shoot"", which one rhymes with ""fruit""? A:","['shoot', 'attend']",shoot,
-"Q: Which is a rhyme of the word ""son"", ""fun"" or ""imagination""? A:","['fun', 'imagination']",fun,
+"Q: Which is a rhyme of the word ""son"", ""fun"" or ""imagination""? A:","['fun', 'imagination']",fun,"funnyather, ""weather""? a:"
 "Q: Which word rhymes with the word ""guest"", ""hit"" or ""suggest""? A:","['suggest', 'hit']",suggest,
 "Q: Which is a rhyme of the word ""pass"", ""glass"" or ""famous""? A:","['glass', 'famous']",glass,
 "Q: Of the words ""shop"" and ""mail"", which one rhymes with ""stop""? A:","['shop', 'mail']",shop,
-"Q: Of the words ""vet"" and ""type"", which one rhymes with ""yet""? A:","['vet', 'type']",vet,"vet, vet, vet, vet, vet, "
+"Q: Of the words ""vet"" and ""type"", which one rhymes with ""yet""? A:","['vet', 'type']",vet,
 "Q: Of the words ""rude"" and ""alarm"", which one rhymes with ""farm""? A:","['alarm', 'rude']",alarm,
 "Q: Which is a rhyme of the word ""style"", ""file"" or ""nearby""? A:","['file', 'nearby']",file,
 "Q: Which is a rhyme of the word ""relation"", ""drawer"" or ""generation""? A:","['generation', 'drawer']",generation,
 "Q: Which word rhymes with the word ""band"", ""shirt"" or ""demand""? A:","['demand', 'shirt']",demand,
-"Q: Of the words ""iron"" and ""sunny"", which one rhymes with ""money""? A:","['sunny', 'iron']",sunny,"sunny, sunny, sunny, sunn"
+"Q: Of the words ""iron"" and ""sunny"", which one rhymes with ""money""? A:","['sunny', 'iron']",sunny,
 "Q: Which word rhymes with the word ""gun"", ""sick"" or ""none""? A:","['none', 'sick']",none,
 "Q: Which is a rhyme of the word ""hand"", ""land"" or ""drama""? A:","['land', 'drama']",land,
 "Q: Which is a rhyme of the word ""much"", ""touch"" or ""absolutely""? A:","['touch', 'absolutely']",touch,

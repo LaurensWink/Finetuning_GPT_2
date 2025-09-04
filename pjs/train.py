@@ -16,8 +16,7 @@ def finetune_model(model_name, tokenizer, encodings, output_dir, save_steps, sav
                 key: val[idx] for key, val in self.encodings.items()
             }
         
-    # model = LlamaForCausalLM.from_pretrained(model_name).to(device)
-    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
+    model = LlamaForCausalLM.from_pretrained(model_name).to(device)
 
     dataset = CustomDataset(encodings)
 
