@@ -1,0 +1,119 @@
+=== Input IDs & Tokens (mein tokenizer)===
+    2  'UTT_BOUNDARY'
+   75  'ü'
+   43  'b'
+   46  'e'
+   59  'r'
+   59  'r'
+   42  'a'
+   60  's'
+   44  'c'
+   49  'h'
+   62  'u'
+   55  'n'
+   48  'g'
+    4  '!'
+    3  'W'
+   20  '1'
+   21  '2'
+   22  '3'
+   23  '4'
+   24  '5'
+   25  '6'
+   26  '7'
+   27  '8'
+   28  '9'
+   19  '0'
+    3  'W'
+   45  'd'
+   42  'a'
+   60  's'
+    3  'W'
+   50  'i'
+   60  's'
+   61  't'
+    3  'W'
+   75  'ü'
+   43  'b'
+   46  'e'
+   59  'r'
+   59  'r'
+   42  'a'
+   60  's'
+   44  'c'
+   49  'h'
+   46  'e'
+   55  'n'
+   45  'd'
+    2  'UTT_BOUNDARY'
+
+=== Decoded Text ===
+UTT_BOUNDARY ü b e r r a s c h u n g ! W 1 2 3 4 5 6 7 8 9 0 W d a s W i s t W ü b e r r a s c h e n d UTT_BOUNDARY
+
+=== Special Tokens ===
+All Special Tokens: ['UTT_BOUNDARY', 'UNK', 'PAD']
+All Special Token IDs: [2, 1, 0]
+BOS Token: UTT_BOUNDARY ID: 2
+EOS Token: UTT_BOUNDARY ID: 2
+PAD Token: PAD ID: 0
+UNK Token: UNK ID: 1
+
+
+=== Input IDs & Tokens (gpt-2 tokenizer)===
+    3  'UTT_BOUNDARY'
+   13  'u'
+   29  'b'
+    5  'e'
+   25  'r'
+   25  'r'
+    6  'a'
+   17  's'
+    9  'c'
+    7  'h'
+   13  'u'
+   14  'n'
+   20  'g'
+   38  '!'
+    2  'W'
+   40  '1'
+   35  '2'
+   43  '3'
+   47  '4'
+   48  '5'
+   44  '6'
+   52  '7'
+   51  '8'
+   45  '9'
+   49  '0'
+    2  'W'
+   15  'd'
+    6  'a'
+   17  's'
+    2  'W'
+   19  'i'
+   17  's'
+   18  't'
+    2  'W'
+   13  'u'
+   29  'b'
+    5  'e'
+   25  'r'
+   25  'r'
+    6  'a'
+   17  's'
+    9  'c'
+    7  'h'
+    5  'e'
+   14  'n'
+   15  'd'
+
+=== Decoded Text ===
+UTT_BOUNDARY u b e r r a s c h u n g! W 1 2 3 4 5 6 7 8 9 0 W d a s W i s t W u b e r r a s c h e n d
+
+=== Special Tokens ===
+All Special Tokens: ['UTT_BOUNDARY', 'UNK', 'PAD']
+All Special Token IDs: [3, 0, 1]
+BOS Token: UTT_BOUNDARY ID: 3
+EOS Token: UTT_BOUNDARY ID: 3
+PAD Token: PAD ID: 1
+UNK Token: UNK ID: 0
