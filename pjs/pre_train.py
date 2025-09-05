@@ -98,7 +98,7 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
     trainer.save_model(f'{output_dir}/model/final')
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-TOKENIZER_CHAR = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
+TOKENIZER_CHAR = AutoTokenizer.from_pretrained("data/tokenizer/char_tokenizer")
 # TOKENIZER_BPE_DE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
 # TOKENIZER_BPE_EN = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
 

@@ -21,7 +21,7 @@ data = Data()
 # ### CHAR BASE-MODEL DE ###
 
 # BASE_CHAR_MODEL_NAME_DE = "data/models/baby_lm_de_char/model/final"
-TOKENIZER_CHAR = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
+TOKENIZER_CHAR = AutoTokenizer.from_pretrained("data/tokenizer/char_tokenizer")
 # split_data = data.split_data
 
 # for task in split_data:

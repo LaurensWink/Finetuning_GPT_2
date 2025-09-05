@@ -1,17 +1,6 @@
 {
-  "bos_token": {
-    "content": "UTT_BOUNDARY",
-    "lstrip": false,
-    "normalized": false,
-    "rstrip": false,
-    "single_word": false
-  },
-  "eos_token": {
-    "content": "UTT_BOUNDARY",
-    "lstrip": false,
-    "normalized": false,
-    "rstrip": false,
-    "single_word": false
-  },
-  "pad_token": "UTT_BOUNDARY"
+  "bos_token": "UTT_BOUNDARY",
+  "eos_token": "UTT_BOUNDARY",
+  "pad_token": "PAD",
+  "unk_token": "UNK"
 }

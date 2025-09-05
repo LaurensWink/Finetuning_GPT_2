@@ -23,6 +23,7 @@ seaborn = "^0.13.2"
 trl = "^0.16.1"
 chardet = "^5.2.0"
 tokenizers = "^0.22.0"
+protobuf = "^6.32.0"
 
 [[tool.poetry.source]]
 name = "pytorch-gpu"
