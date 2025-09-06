@@ -2,7 +2,7 @@ from tokenizers import Tokenizer, models
 from tokenizers.normalizers import Lowercase, Sequence, Replace, NFC, Strip
 from tokenizers.pre_tokenizers import Whitespace
 from tokenizers.processors import TemplateProcessing
-from transformers import AutoTokenizer, GPT2TokenizerFast, PreTrainedTokenizerFast
+from transformers import AutoTokenizer, GPT2TokenizerFast, LlamaTokenizerFast, PreTrainedTokenizerFast
 import os, string
 from tokenizers.pre_tokenizers import Split
 
@@ -30,25 +30,12 @@ def gen_char_tokenizer():
     tokenizer.enable_truncation(max_length=512)
 
 
-    wrapped_tokenizer = GPT2TokenizerFast(
+    wrapped_tokenizer = LlamaTokenizerFast(
         tokenizer_object=tokenizer,
         unk_token="UNK",
         pad_token="PAD",
         bos_token="UTT_BOUNDARY",
         eos_token="UTT_BOUNDARY"
-    )
-
-    bos_id = wrapped_tokenizer.bos_token_id
-    eos_id = wrapped_tokenizer.eos_token_id
-    wrapped_tokenizer._tokenizer.post_processor = TemplateProcessing(
-        single=f"{wrapped_tokenizer.bos_token} $A {wrapped_tokenizer.eos_token}",
-        pair=f"{wrapped_tokenizer.bos_token} $A {wrapped_tokenizer.eos_token} {wrapped_tokenizer.bos_token} $B {wrapped_tokenizer.eos_token}",
-        special_tokens=[
-            (wrapped_tokenizer.bos_token, bos_id),
-            (wrapped_tokenizer.eos_token, eos_id),
-            (wrapped_tokenizer.pad_token, wrapped_tokenizer.pad_token_id),
-            (wrapped_tokenizer.unk_token, wrapped_tokenizer.unk_token_id),
-        ],
     )
 
     os.makedirs("data/tokenizer/char_tokenizer", exist_ok=True)

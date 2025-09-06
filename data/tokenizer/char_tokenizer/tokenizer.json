@@ -88,12 +88,6 @@
           "id": "A",
           "type_id": 0
         }
-      },
-      {
-        "SpecialToken": {
-          "id": "UTT_BOUNDARY",
-          "type_id": 0
-        }
       }
     ],
     "pair": [
@@ -112,47 +106,17 @@
       {
         "SpecialToken": {
           "id": "UTT_BOUNDARY",
-          "type_id": 0
-        }
-      },
-      {
-        "SpecialToken": {
-          "id": "UTT_BOUNDARY",
-          "type_id": 0
+          "type_id": 1
         }
       },
       {
         "Sequence": {
           "id": "B",
-          "type_id": 0
-        }
-      },
-      {
-        "SpecialToken": {
-          "id": "UTT_BOUNDARY",
-          "type_id": 0
+          "type_id": 1
         }
       }
     ],
     "special_tokens": {
-      "PAD": {
-        "id": "PAD",
-        "ids": [
-          0
-        ],
-        "tokens": [
-          "PAD"
-        ]
-      },
-      "UNK": {
-        "id": "UNK",
-        "ids": [
-          1
-        ],
-        "tokens": [
-          "UNK"
-        ]
-      },
       "UTT_BOUNDARY": {
         "id": "UTT_BOUNDARY",
         "ids": [
