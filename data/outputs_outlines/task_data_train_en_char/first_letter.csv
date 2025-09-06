@@ -22,7 +22,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""diploma""? A:","['d', 'i', 'p', 'l', 'o', 'm', 'a']",d,d
 "Q: What is the first letter of the word ""month""? A:","['m', 'o', 'n', 't', 'h']",m,m
 "Q: What is the first letter of the word ""site""? A:","['s', 'i', 't', 'e']",s,s
-"Write the first letter of the word ""cooking"": ","['c', 'o', 'o', 'k', 'i', 'n', 'g']",c,c
+"Write the first letter of the word ""cooking"": ","['c', 'o', 'o', 'k', 'i', 'n', 'g']",c,g
 "Q: Which letter does the word ""cover"" start with? A:","['c', 'o', 'v', 'e', 'r']",c,c
 "Write the first letter of the word ""broken"": ","['b', 'r', 'o', 'k', 'e', 'n']",b,b
 "Write the first letter of the word ""guy"": ","['g', 'u', 'y']",g,g
@@ -55,7 +55,7 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""competition"": ","['c', 'o', 'm', 'p', 'e', 't', 'i', 't', 'i', 'o', 'n']",c,c
 "Q: What is the first letter of the word ""sleep""? A:","['s', 'l', 'e', 'e', 'p']",s,s
 "Write the first letter of the word ""tour"": ","['t', 'o', 'u', 'r']",t,t
-"Q: Which letter does the word ""first"" start with? A:","['f', 'i', 'r', 's', 't']",f,f
+"Q: Which letter does the word ""first"" start with? A:","['f', 'i', 'r', 's', 't']",f,s
 "Q: What is the first letter of the word ""check""? A:","['c', 'h', 'e', 'c', 'k']",c,c
 "Write the first letter of the word ""luggage"": ","['l', 'u', 'g', 'g', 'a', 'g', 'e']",l,l
 "Q: Which letter does the word ""decide"" start with? A:","['d', 'e', 'c', 'i', 'd', 'e']",d,d
@@ -142,7 +142,7 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""useful"": ","['u', 's', 'e', 'f', 'u', 'l']",u,u
 "Q: Which letter does the word ""workbook"" start with? A:","['w', 'o', 'r', 'k', 'b', 'o', 'o', 'k']",w,w
 "Write the first letter of the word ""brother"": ","['b', 'r', 'o', 't', 'h', 'e', 'r']",b,b
-"Write the first letter of the word ""idea"": ","['i', 'd', 'e', 'a']",i,i
+"Write the first letter of the word ""idea"": ","['i', 'd', 'e', 'a']",i,a
 "Write the first letter of the word ""tired"": ","['t', 'i', 'r', 'e', 'd']",t,t
 "Q: What is the first letter of the word ""alone""? A:","['a', 'l', 'o', 'n', 'e']",a,a
 "Write the first letter of the word ""photographer"": ","['p', 'h', 'o', 't', 'o', 'g', 'r', 'a', 'p', 'h', 'e', 'r']",p,p
@@ -182,7 +182,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""always""? A:","['a', 'l', 'w', 'a', 'y', 's']",a,a
 "Write the first letter of the word ""ride"": ","['r', 'i', 'd', 'e']",r,r
 "Q: Which letter does the word ""grandpa"" start with? A:","['g', 'r', 'a', 'n', 'd', 'p', 'a']",g,g
-"Write the first letter of the word ""receptionist"": ","['r', 'e', 'c', 'e', 'p', 't', 'i', 'o', 'n', 'i', 's', 't']",r,r
+"Write the first letter of the word ""receptionist"": ","['r', 'e', 'c', 'e', 'p', 't', 'i', 'o', 'n', 'i', 's', 't']",r,n
 "Q: What is the first letter of the word ""often""? A:","['o', 'f', 't', 'e', 'n']",o,o
 "Q: What is the first letter of the word ""its""? A:","['i', 't', 's']",i,i
 "Q: What is the first letter of the word ""honey""? A:","['h', 'o', 'n', 'e', 'y']",h,h
@@ -218,7 +218,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""hurt""? A:","['h', 'u', 'r', 't']",h,h
 "Q: What is the first letter of the word ""coat""? A:","['c', 'o', 'a', 't']",c,c
 "Q: Which letter does the word ""south"" start with? A:","['s', 'o', 'u', 't', 'h']",s,s
-"Write the first letter of the word ""really"": ","['r', 'e', 'a', 'l', 'l', 'y']",r,r
+"Write the first letter of the word ""really"": ","['r', 'e', 'a', 'l', 'l', 'y']",r,y
 "Q: Which letter does the word ""long"" start with? A:","['l', 'o', 'n', 'g']",l,l
 "Q: Which letter does the word ""yard"" start with? A:","['y', 'a', 'r', 'd']",y,y
 "Q: What is the first letter of the word ""meat""? A:","['m', 'e', 'a', 't']",m,m
@@ -248,7 +248,7 @@ Input,Options,Expected,Predicted
 "Q: Which letter does the word ""agree"" start with? A:","['a', 'g', 'r', 'e', 'e']",a,a
 "Q: What is the first letter of the word ""who""? A:","['w', 'h', 'o']",w,w
 "Q: What is the first letter of the word ""outside""? A:","['o', 'u', 't', 's', 'i', 'd', 'e']",o,o
-"Write the first letter of the word ""receipt"": ","['r', 'e', 'c', 'e', 'i', 'p', 't']",r,r
+"Write the first letter of the word ""receipt"": ","['r', 'e', 'c', 'e', 'i', 'p', 't']",r,t
 "Q: Which letter does the word ""thunderstorm"" start with? A:","['t', 'h', 'u', 'n', 'd', 'e', 'r', 's', 't', 'o', 'r', 'm']",t,t
 "Q: Which letter does the word ""could"" start with? A:","['c', 'o', 'u', 'l', 'd']",c,c
 "Q: What is the first letter of the word ""tell""? A:","['t', 'e', 'l', 'l']",t,t
@@ -256,7 +256,7 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""sightseeing"": ","['s', 'i', 'g', 'h', 't', 's', 'e', 'e', 'i', 'n', 'g']",s,s
 "Write the first letter of the word ""show"": ","['s', 'h', 'o', 'w']",s,s
 "Q: Which letter does the word ""new"" start with? A:","['n', 'e', 'w']",n,n
-"Write the first letter of the word ""remember"": ","['r', 'e', 'm', 'e', 'm', 'b', 'e', 'r']",r,r
+"Write the first letter of the word ""remember"": ","['r', 'e', 'm', 'e', 'm', 'b', 'e', 'r']",r,m
 "Write the first letter of the word ""perfume"": ","['p', 'e', 'r', 'f', 'u', 'm', 'e']",p,p
 "Write the first letter of the word ""walking"": ","['w', 'a', 'l', 'k', 'i', 'n', 'g']",w,w
 "Q: Which letter does the word ""area"" start with? A:","['a', 'r', 'e', 'a']",a,a
@@ -279,9 +279,9 @@ Input,Options,Expected,Predicted
 "Q: Which letter does the word ""foreign"" start with? A:","['f', 'o', 'r', 'e', 'i', 'g', 'n']",f,f
 "Q: What is the first letter of the word ""save""? A:","['s', 'a', 'v', 'e']",s,s
 "Q: What is the first letter of the word ""instead""? A:","['i', 'n', 's', 't', 'e', 'a', 'd']",i,i
-"Q: Which letter does the word ""nurse"" start with? A:","['n', 'u', 'r', 's', 'e']",n,n
+"Q: Which letter does the word ""nurse"" start with? A:","['n', 'u', 'r', 's', 'e']",n,s
 "Q: What is the first letter of the word ""duck""? A:","['d', 'u', 'c', 'k']",d,d
-"Q: What is the first letter of the word ""awful""? A:","['a', 'w', 'f', 'u', 'l']",a,a
+"Q: What is the first letter of the word ""awful""? A:","['a', 'w', 'f', 'u', 'l']",a,u
 "Q: What is the first letter of the word ""dad""? A:","['d', 'a', 'd']",d,d
 "Q: What is the first letter of the word ""best""? A:","['b', 'e', 's', 't']",b,b
 "Q: Which letter does the word ""chocolate"" start with? A:","['c', 'h', 'o', 'c', 'o', 'l', 'a', 't', 'e']",c,c
@@ -317,7 +317,7 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""electricity"": ","['e', 'l', 'e', 'c', 't', 'r', 'i', 'c', 'i', 't', 'y']",e,e
 "Q: What is the first letter of the word ""forget""? A:","['f', 'o', 'r', 'g', 'e', 't']",f,f
 "Write the first letter of the word ""should"": ","['s', 'h', 'o', 'u', 'l', 'd']",s,s
-"Q: Which letter does the word ""finish"" start with? A:","['f', 'i', 'n', 'i', 's', 'h']",f,f
+"Q: Which letter does the word ""finish"" start with? A:","['f', 'i', 'n', 'i', 's', 'h']",f,s
 "Q: Which letter does the word ""wall"" start with? A:","['w', 'a', 'l', 'l']",w,w
 "Q: Which letter does the word ""money"" start with? A:","['m', 'o', 'n', 'e', 'y']",m,m
 "Q: What is the first letter of the word ""sausage""? A:","['s', 'a', 'u', 's', 'a', 'g', 'e']",s,s
@@ -339,7 +339,7 @@ Input,Options,Expected,Predicted
 "Q: Which letter does the word ""lose"" start with? A:","['l', 'o', 's', 'e']",l,l
 "Write the first letter of the word ""match"": ","['m', 'a', 't', 'c', 'h']",m,m
 "Q: Which letter does the word ""list"" start with? A:","['l', 'i', 's', 't']",l,l
-"Write the first letter of the word ""usually"": ","['u', 's', 'u', 'a', 'l', 'l', 'y']",u,u
+"Write the first letter of the word ""usually"": ","['u', 's', 'u', 'a', 'l', 'l', 'y']",u,s
 "Q: What is the first letter of the word ""things""? A:","['t', 'h', 'i', 'n', 'g', 's']",t,t
 "Q: Which letter does the word ""glass"" start with? A:","['g', 'l', 'a', 's', 's']",g,g
 "Write the first letter of the word ""one"": ","['o', 'n', 'e']",o,o
@@ -441,7 +441,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""king""? A:","['k', 'i', 'n', 'g']",k,k
 "Q: What is the first letter of the word ""excellent""? A:","['e', 'x', 'c', 'e', 'l', 'l', 'e', 'n', 't']",e,e
 "Q: Which letter does the word ""glad"" start with? A:","['g', 'l', 'a', 'd']",g,g
-"Write the first letter of the word ""concert"": ","['c', 'o', 'n', 'c', 'e', 'r', 't']",c,c
+"Write the first letter of the word ""concert"": ","['c', 'o', 'n', 'c', 'e', 'r', 't']",c,n
 "Q: Which letter does the word ""which"" start with? A:","['w', 'h', 'i', 'c', 'h']",w,w
 "Write the first letter of the word ""engineer"": ","['e', 'n', 'g', 'i', 'n', 'e', 'e', 'r']",e,e
 "Q: What is the first letter of the word ""tea""? A:","['t', 'e', 'a']",t,t
@@ -449,7 +449,7 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""weekly"": ","['w', 'e', 'e', 'k', 'l', 'y']",w,w
 "Q: What is the first letter of the word ""second""? A:","['s', 'e', 'c', 'o', 'n', 'd']",s,s
 "Write the first letter of the word ""win"": ","['w', 'i', 'n']",w,w
-"Write the first letter of the word ""delay"": ","['d', 'e', 'l', 'a', 'y']",d,d
+"Write the first letter of the word ""delay"": ","['d', 'e', 'l', 'a', 'y']",d,e
 "Q: Which letter does the word ""country"" start with? A:","['c', 'o', 'u', 'n', 't', 'r', 'y']",c,c
 "Write the first letter of the word ""parent"": ","['p', 'a', 'r', 'e', 'n', 't']",p,p
 "Q: Which letter does the word ""against"" start with? A:","['a', 'g', 'a', 'i', 'n', 's', 't']",a,a
@@ -501,11 +501,11 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""pilot"": ","['p', 'i', 'l', 'o', 't']",p,p
 "Q: Which letter does the word ""deep"" start with? A:","['d', 'e', 'e', 'p']",d,d
 "Q: What is the first letter of the word ""sometimes""? A:","['s', 'o', 'm', 'e', 't', 'i', 'm', 'e', 's']",s,s
-"Q: What is the first letter of the word ""fantastic""? A:","['f', 'a', 'n', 't', 'a', 's', 't', 'i', 'c']",f,f
+"Q: What is the first letter of the word ""fantastic""? A:","['f', 'a', 'n', 't', 'a', 's', 't', 'i', 'c']",f,s
 "Write the first letter of the word ""cool"": ","['c', 'o', 'o', 'l']",c,c
 "Q: What is the first letter of the word ""tomorrow""? A:","['t', 'o', 'm', 'o', 'r', 'r', 'o', 'w']",t,t
 "Q: Which letter does the word ""violin"" start with? A:","['v', 'i', 'o', 'l', 'i', 'n']",v,v
-"Write the first letter of the word ""every"": ","['e', 'v', 'e', 'r', 'y']",e,e
+"Write the first letter of the word ""every"": ","['e', 'v', 'e', 'r', 'y']",e,y
 "Q: Which letter does the word ""anyone"" start with? A:","['a', 'n', 'y', 'o', 'n', 'e']",a,a
 "Write the first letter of the word ""book"": ","['b', 'o', 'o', 'k']",b,b
 "Q: What is the first letter of the word ""toe""? A:","['t', 'o', 'e']",t,t
@@ -546,7 +546,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""ready""? A:","['r', 'e', 'a', 'd', 'y']",r,r
 "Q: Which letter does the word ""apartment"" start with? A:","['a', 'p', 'a', 'r', 't', 'm', 'e', 'n', 't']",a,a
 "Q: What is the first letter of the word ""elevator""? A:","['e', 'l', 'e', 'v', 'a', 't', 'o', 'r']",e,e
-"Write the first letter of the word ""regular"": ","['r', 'e', 'g', 'u', 'l', 'a', 'r']",r,r
+"Write the first letter of the word ""regular"": ","['r', 'e', 'g', 'u', 'l', 'a', 'r']",r,u
 "Write the first letter of the word ""father"": ","['f', 'a', 't', 'h', 'e', 'r']",f,f
 "Q: What is the first letter of the word ""armchair""? A:","['a', 'r', 'm', 'c', 'h', 'a', 'i', 'r']",a,a
 "Q: Which letter does the word ""wild"" start with? A:","['w', 'i', 'l', 'd']",w,w
@@ -560,7 +560,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""channel""? A:","['c', 'h', 'a', 'n', 'n', 'e', 'l']",c,c
 "Q: What is the first letter of the word ""real""? A:","['r', 'e', 'a', 'l']",r,r
 "Write the first letter of the word ""old"": ","['o', 'l', 'd']",o,o
-"Write the first letter of the word ""its"": ","['i', 't', 's']",i,i
+"Write the first letter of the word ""its"": ","['i', 't', 's']",i,s
 "Write the first letter of the word ""hurry"": ","['h', 'u', 'r', 'r', 'y']",h,h
 "Q: What is the first letter of the word ""not""? A:","['n', 'o', 't']",n,n
 "Q: What is the first letter of the word ""list""? A:","['l', 'i', 's', 't']",l,l
@@ -571,7 +571,7 @@ Input,Options,Expected,Predicted
 "Write the first letter of the word ""list"": ","['l', 'i', 's', 't']",l,l
 "Q: What is the first letter of the word ""weather""? A:","['w', 'e', 'a', 't', 'h', 'e', 'r']",w,w
 "Q: What is the first letter of the word ""grandmother""? A:","['g', 'r', 'a', 'n', 'd', 'm', 'o', 't', 'h', 'e', 'r']",g,g
-"Write the first letter of the word ""ready"": ","['r', 'e', 'a', 'd', 'y']",r,r
+"Write the first letter of the word ""ready"": ","['r', 'e', 'a', 'd', 'y']",r,y
 "Q: Which letter does the word ""us"" start with? A:","['u', 's']",u,u
 "Write the first letter of the word ""week"": ","['w', 'e', 'e', 'k']",w,w
 "Q: What is the first letter of the word ""cross""? A:","['c', 'r', 'o', 's', 's']",c,c

@@ -174,7 +174,7 @@ Input,Options,Expected,Predicted
 "Q: Which letter does the word ""singing"" start with? A:","['s', 'i', 'n', 'g', 'i', 'n', 'g']",s,s
 "Q: What is the first letter of the word ""bike""? A:","['b', 'i', 'k', 'e']",b,b
 "Write the first letter of the word ""salad"": ","['s', 'a', 'l', 'a', 'd']",s,s
-"Q: Which letter does the word ""nationality"" start with? A:","['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'y']",n,n
+"Q: Which letter does the word ""nationality"" start with? A:","['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'y']",n,a
 "Write the first letter of the word ""serve"": ","['s', 'e', 'r', 'v', 'e']",s,s
 "Q: Which letter does the word ""large"" start with? A:","['l', 'a', 'r', 'g', 'e']",l,l
 "Q: What is the first letter of the word ""conversation""? A:","['c', 'o', 'n', 'v', 'e', 'r', 's', 'a', 't', 'i', 'o', 'n']",c,c
@@ -516,7 +516,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first letter of the word ""draw""? A:","['d', 'r', 'a', 'w']",d,d
 "Write the first letter of the word ""video"": ","['v', 'i', 'd', 'e', 'o']",v,v
 "Q: What is the first letter of the word ""should""? A:","['s', 'h', 'o', 'u', 'l', 'd']",s,s
-"Q: What is the first letter of the word ""together""? A:","['t', 'o', 'g', 'e', 't', 'h', 'e', 'r']",t,t
+"Q: What is the first letter of the word ""together""? A:","['t', 'o', 'g', 'e', 't', 'h', 'e', 'r']",t,e
 "Q: Which letter does the word ""runner"" start with? A:","['r', 'u', 'n', 'n', 'e', 'r']",r,r
 "Q: Which letter does the word ""thanks"" start with? A:","['t', 'h', 'a', 'n', 'k', 's']",t,t
 "Q: What is the first letter of the word ""west""? A:","['w', 'e', 's', 't']",w,w

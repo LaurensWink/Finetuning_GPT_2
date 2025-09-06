@@ -13,9 +13,9 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""Paula hit the fence""? A:","['paula', 'hit', 'the', 'fence']",paula,paula
 "Q: What is the first word of the sentence ""The man killed the king with the knife""? A:","['the', 'man', 'killed', 'the', 'king', 'with', 'the', 'knife']",the,the
 "Q: In the sentence ""The student knew the answers"", what is the first word? A:","['the', 'student', 'knew', 'the', 'answers']",the,the
-"Write the first word of the sentence ""Celia brushed her hair"": ","['celia', 'brushed', 'her', 'hair']",celia,celia
+"Write the first word of the sentence ""Celia brushed her hair"": ","['celia', 'brushed', 'her', 'hair']",celia,brushed
 "Q: What is the first word of the sentence ""I served leek soup to my guests""? A:","['i', 'served', 'leek', 'soup', 'to', 'my', 'guests']",i,i
-"Q: In the sentence ""Never had Sir Thomas been so offended"", what is the first word? A:","['never', 'had', 'sir', 'thomas', 'been', 'so', 'offended']",never,never
+"Q: In the sentence ""Never had Sir Thomas been so offended"", what is the first word? A:","['never', 'had', 'sir', 'thomas', 'been', 'so', 'offended']",never,sir
 "Q: What is the first word of the sentence ""I will speak to Hector about this""? A:","['i', 'will', 'speak', 'to', 'hector', 'about', 'this']",i,i
 "Write the first word of the sentence ""Rosemary hates New York"": ","['rosemary', 'hates', 'new', 'york']",rosemary,rosemary
 "Write the first word of the sentence ""He planted the garden with roses last November"": ","['he', 'planted', 'the', 'garden', 'with', 'roses', 'last', 'november']",he,he
@@ -55,7 +55,7 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""Mary laughed at John"": ","['mary', 'laughed', 'at', 'john']",mary,mary
 "Q: What is the first word of the sentence ""Philippa cried herself to sleep""? A:","['philippa', 'cried', 'herself', 'to', 'sleep']",philippa,philippa
 "Write the first word of the sentence ""I served my guests"": ","['i', 'served', 'my', 'guests']",i,i
-"Q: In the sentence ""It is obvious to everybody that Tasha likes Misha"", what is the first word? A:","['it', 'is', 'obvious', 'to', 'everybody', 'that', 'tasha', 'likes', 'misha']",it,it
+"Q: In the sentence ""It is obvious to everybody that Tasha likes Misha"", what is the first word? A:","['it', 'is', 'obvious', 'to', 'everybody', 'that', 'tasha', 'likes', 'misha']",it,is
 "Q: What is the first word of the sentence ""John whispered that Mary left""? A:","['john', 'whispered', 'that', 'mary', 'left']",john,john
 "Write the first word of the sentence ""Doug went to Chicago"": ","['doug', 'went', 'to', 'chicago']",doug,doug
 "Q: In the sentence ""Donna fixed a sandwich for me"", what is the first word? A:","['donna', 'fixed', 'a', 'sandwich', 'for', 'me']",donna,donna
@@ -69,13 +69,13 @@ Input,Options,Expected,Predicted
 "Q: In the sentence ""He washed himself"", what is the first word? A:","['he', 'washed', 'himself']",he,he
 "Q: In the sentence ""Yesterday Lydia eloped with Wickham"", what is the first word? A:","['yesterday', 'lydia', 'eloped', 'with', 'wickham']",yesterday,yesterday
 "Q: What is the first word of the sentence ""The eggs and the cream mixed together""? A:","['the', 'eggs', 'and', 'the', 'cream', 'mixed', 'together']",the,the
-"Q: In the sentence ""You may pick almost any flower"", what is the first word? A:","['you', 'may', 'pick', 'almost', 'any', 'flower']",you,you
+"Q: In the sentence ""You may pick almost any flower"", what is the first word? A:","['you', 'may', 'pick', 'almost', 'any', 'flower']",you,may
 "Write the first word of the sentence ""The student enjoyed his English syntax class last semester"": ","['the', 'student', 'enjoyed', 'his', 'english', 'syntax', 'class', 'last', 'semester']",the,the
 "Write the first word of the sentence ""The terrier attacked the burglar"": ","['the', 'terrier', 'attacked', 'the', 'burglar']",the,the
 "Q: In the sentence ""She voted for herself"", what is the first word? A:","['she', 'voted', 'for', 'herself']",she,she
 "Q: What is the first word of the sentence ""John is as intelligent as Mary""? A:","['john', 'is', 'as', 'intelligent', 'as', 'mary']",john,john
 "Q: What is the first word of the sentence ""Rosie got struck by lightning""? A:","['rosie', 'got', 'struck', 'by', 'lightning']",rosie,rosie
-"Write the first word of the sentence ""Jane played the piano"": ","['jane', 'played', 'the', 'piano']",jane,jane
+"Write the first word of the sentence ""Jane played the piano"": ","['jane', 'played', 'the', 'piano']",jane,piano
 "Write the first word of the sentence ""Many of the people were dying of thirst"": ","['many', 'of', 'the', 'people', 'were', 'dying', 'of', 'thirst']",many,many
 "Write the first word of the sentence ""The beaver built a dam"": ","['the', 'beaver', 'built', 'a', 'dam']",the,the
 "Write the first word of the sentence ""They depend on Mary"": ","['they', 'depend', 'on', 'mary']",they,they
@@ -107,7 +107,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""The needle poked the cloth""? A:","['the', 'needle', 'poked', 'the', 'cloth']",the,the
 "Q: In the sentence ""Lou forgot the umbrella"", what is the first word? A:","['lou', 'forgot', 'the', 'umbrella']",lou,lou
 "Q: What is the first word of the sentence ""Fanny regretted having talked to Mary""? A:","['fanny', 'regretted', 'having', 'talked', 'to', 'mary']",fanny,fanny
-"Q: What is the first word of the sentence ""They talked to Kim and to each other""? A:","['they', 'talked', 'to', 'kim', 'and', 'to', 'each', 'other']",they,they
+"Q: What is the first word of the sentence ""They talked to Kim and to each other""? A:","['they', 'talked', 'to', 'kim', 'and', 'to', 'each', 'other']",they,to
 "Q: In the sentence ""The room reeked of onions"", what is the first word? A:","['the', 'room', 'reeked', 'of', 'onions']",the,the
 "Write the first word of the sentence ""John tried to leave"": ","['john', 'tried', 'to', 'leave']",john,john
 "Q: What is the first word of the sentence ""I showed Mary several portraits of herself""? A:","['i', 'showed', 'mary', 'several', 'portraits', 'of', 'herself']",i,i
@@ -135,7 +135,7 @@ Input,Options,Expected,Predicted
 "Q: In the sentence ""The computer will calculate the value of the variable"", what is the first word? A:","['the', 'computer', 'will', 'calculate', 'the', 'value', 'of', 'the', 'variable']",the,the
 "Q: What is the first word of the sentence ""That surprised me""? A:","['that', 'surprised', 'me']",that,that
 "Q: What is the first word of the sentence ""The jeweller decorated the ring""? A:","['the', 'jeweller', 'decorated', 'the', 'ring']",the,the
-"Q: What is the first word of the sentence ""Dana is longing for a sunny day""? A:","['dana', 'is', 'longing', 'for', 'a', 'sunny', 'day']",dana,day
+"Q: What is the first word of the sentence ""Dana is longing for a sunny day""? A:","['dana', 'is', 'longing', 'for', 'a', 'sunny', 'day']",dana,dana
 "Q: In the sentence ""She always wore purple dresses"", what is the first word? A:","['she', 'always', 'wore', 'purple', 'dresses']",she,she
 "Q: In the sentence ""The moon glows in the darkness"", what is the first word? A:","['the', 'moon', 'glows', 'in', 'the', 'darkness']",the,the
 "Write the first word of the sentence ""My eyes are itching"": ","['my', 'eyes', 'are', 'itching']",my,my
@@ -172,7 +172,7 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""Paul laughed at Mary"": ","['paul', 'laughed', 'at', 'mary']",paul,paul
 "Write the first word of the sentence ""I doubt you can help me in understanding this"": ","['i', 'doubt', 'you', 'can', 'help', 'me', 'in', 'understanding', 'this']",i,in
 "Q: In the sentence ""Bill dried the clothes"", what is the first word? A:","['bill', 'dried', 'the', 'clothes']",bill,bill
-"Q: What is the first word of the sentence ""Frank gave a piano to Jane Fairfax""? A:","['frank', 'gave', 'a', 'piano', 'to', 'jane', 'fairfax']",frank,frank
+"Q: What is the first word of the sentence ""Frank gave a piano to Jane Fairfax""? A:","['frank', 'gave', 'a', 'piano', 'to', 'jane', 'fairfax']",frank,fairfax
 "Write the first word of the sentence ""They want to be kind to her"": ","['they', 'want', 'to', 'be', 'kind', 'to', 'her']",they,they
 "Q: In the sentence ""I ate the sugar"", what is the first word? A:","['i', 'ate', 'the', 'sugar']",i,i
 "Write the first word of the sentence ""Jasmine pushed the door open"": ","['jasmine', 'pushed', 'the', 'door', 'open']",jasmine,jasmine
@@ -193,7 +193,7 @@ Input,Options,Expected,Predicted
 "Q: In the sentence ""I am more angry than sad"", what is the first word? A:","['i', 'am', 'more', 'angry', 'than', 'sad']",i,i
 "Q: In the sentence ""Lou forgot the umbrella in the closet"", what is the first word? A:","['lou', 'forgot', 'the', 'umbrella', 'in', 'the', 'closet']",lou,lou
 "Q: What is the first word of the sentence ""John is taller than Dill""? A:","['john', 'is', 'taller', 'than', 'dill']",john,john
-"Q: In the sentence ""few clues could be found"", what is the first word? A:","['few', 'clues', 'could', 'be', 'found']",few,few
+"Q: In the sentence ""few clues could be found"", what is the first word? A:","['few', 'clues', 'could', 'be', 'found']",few,found
 "Write the first word of the sentence ""Someone tried to leave the town"": ","['someone', 'tried', 'to', 'leave', 'the', 'town']",someone,someone
 "Q: What is the first word of the sentence ""I herded the cattle""? A:","['i', 'herded', 'the', 'cattle']",i,i
 "Write the first word of the sentence ""I saw these dancers and those musicians smoking something"": ","['i', 'saw', 'these', 'dancers', 'and', 'those', 'musicians', 'smoking', 'something']",i,i
@@ -209,7 +209,7 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""The sofa was longer than the desk was"": ","['the', 'sofa', 'was', 'longer', 'than', 'the', 'desk', 'was']",the,the
 "Q: What is the first word of the sentence ""I am drinking lemonade and eating a brownie""? A:","['i', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",i,i
 "Write the first word of the sentence ""Ellen and Helen conferred"": ","['ellen', 'and', 'helen', 'conferred']",ellen,ellen
-"Write the first word of the sentence ""They talked to Kim and to each other"": ","['they', 'talked', 'to', 'kim', 'and', 'to', 'each', 'other']",they,they
+"Write the first word of the sentence ""They talked to Kim and to each other"": ","['they', 'talked', 'to', 'kim', 'and', 'to', 'each', 'other']",they,to
 "Q: In the sentence ""The truck spread salts"", what is the first word? A:","['the', 'truck', 'spread', 'salts']",the,the
 "Q: In the sentence ""Mary regretted that she did anything to help him"", what is the first word? A:","['mary', 'regretted', 'that', 'she', 'did', 'anything', 'to', 'help', 'him']",mary,mary
 "Write the first word of the sentence ""They saw Bill leave"": ","['they', 'saw', 'bill', 'leave']",they,they
@@ -217,9 +217,9 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""Herman whipped the cream""? A:","['herman', 'whipped', 'the', 'cream']",herman,herman
 "Q: What is the first word of the sentence ""The fly fell into the soup""? A:","['the', 'fly', 'fell', 'into', 'the', 'soup']",the,the
 "Q: What is the first word of the sentence ""Brian was wiping the wall behind the stove""? A:","['brian', 'was', 'wiping', 'the', 'wall', 'behind', 'the', 'stove']",brian,brian
-"Q: In the sentence ""You will believe Bob"", what is the first word? A:","['you', 'will', 'believe', 'bob']",you,bob
+"Q: In the sentence ""You will believe Bob"", what is the first word? A:","['you', 'will', 'believe', 'bob']",you,you
 "Write the first word of the sentence ""That was why she looked so nice"": ","['that', 'was', 'why', 'she', 'looked', 'so', 'nice']",that,that
-"Q: In the sentence ""The king loved peanut butter cookies"", what is the first word? A:","['the', 'king', 'loved', 'peanut', 'butter', 'cookies']",the,the
+"Q: In the sentence ""The king loved peanut butter cookies"", what is the first word? A:","['the', 'king', 'loved', 'peanut', 'butter', 'cookies']",the,king
 "Q: In the sentence ""I am drinking lemonade and eating a brownie"", what is the first word? A:","['i', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",i,i
 "Q: What is the first word of the sentence ""I saw John on Sunday""? A:","['i', 'saw', 'john', 'on', 'sunday']",i,i
 "Write the first word of the sentence ""John wants to leave"": ","['john', 'wants', 'to', 'leave']",john,john
@@ -270,7 +270,7 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""David constructed a house from bricks"": ","['david', 'constructed', 'a', 'house', 'from', 'bricks']",david,david
 "Q: What is the first word of the sentence ""John asked whether she left""? A:","['john', 'asked', 'whether', 'she', 'left']",john,john
 "Q: In the sentence ""Lou put the umbrella in the closet"", what is the first word? A:","['lou', 'put', 'the', 'umbrella', 'in', 'the', 'closet']",lou,lou
-"Q: In the sentence ""Smith inscribed his name over the door"", what is the first word? A:","['smith', 'inscribed', 'his', 'name', 'over', 'the', 'door']",smith,smith
+"Q: In the sentence ""Smith inscribed his name over the door"", what is the first word? A:","['smith', 'inscribed', 'his', 'name', 'over', 'the', 'door']",smith,inscribed
 "Write the first word of the sentence ""Odysseus planned to hear the sirens"": ","['odysseus', 'planned', 'to', 'hear', 'the', 'sirens']",odysseus,odysseus
 "Q: What is the first word of the sentence ""Not speaking English is a disadvantage""? A:","['not', 'speaking', 'english', 'is', 'a', 'disadvantage']",not,not
 "Q: In the sentence ""The weights stretched the rope over the pulley"", what is the first word? A:","['the', 'weights', 'stretched', 'the', 'rope', 'over', 'the', 'pulley']",the,the
@@ -284,9 +284,9 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""The librarian likes books""? A:","['the', 'librarian', 'likes', 'books']",the,the
 "Q: What is the first word of the sentence ""I mixed the sugar into the butter""? A:","['i', 'mixed', 'the', 'sugar', 'into', 'the', 'butter']",i,into
 "Q: What is the first word of the sentence ""John arranged for himself to get the prize""? A:","['john', 'arranged', 'for', 'himself', 'to', 'get', 'the', 'prize']",john,john
-"Q: In the sentence ""Ted was bitten by the spider"", what is the first word? A:","['ted', 'was', 'bitten', 'by', 'the', 'spider']",ted,ted
+"Q: In the sentence ""Ted was bitten by the spider"", what is the first word? A:","['ted', 'was', 'bitten', 'by', 'the', 'spider']",ted,the
 "Q: What is the first word of the sentence ""Henry saw that Bill left""? A:","['henry', 'saw', 'that', 'bill', 'left']",henry,henry
-"Write the first word of the sentence ""Sandy removed her ballet shoes"": ","['sandy', 'removed', 'her', 'ballet', 'shoes']",sandy,shoes
+"Write the first word of the sentence ""Sandy removed her ballet shoes"": ","['sandy', 'removed', 'her', 'ballet', 'shoes']",sandy,sandy
 "Q: What is the first word of the sentence ""A choir sang in the church""? A:","['a', 'choir', 'sang', 'in', 'the', 'church']",a,a
 "Q: What is the first word of the sentence ""We contributed our paycheck to her""? A:","['we', 'contributed', 'our', 'paycheck', 'to', 'her']",we,we
 "Write the first word of the sentence ""The policeman kissed the puppy"": ","['the', 'policeman', 'kissed', 'the', 'puppy']",the,the
@@ -301,10 +301,10 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""I wanted him to leave""? A:","['i', 'wanted', 'him', 'to', 'leave']",i,i
 "Q: What is the first word of the sentence ""I like circus performers""? A:","['i', 'like', 'circus', 'performers']",i,i
 "Q: In the sentence ""The executive committee approved the new policy"", what is the first word? A:","['the', 'executive', 'committee', 'approved', 'the', 'new', 'policy']",the,the
-"Q: What is the first word of the sentence ""Never had Sir Thomas been so offended""? A:","['never', 'had', 'sir', 'thomas', 'been', 'so', 'offended']",never,never
+"Q: What is the first word of the sentence ""Never had Sir Thomas been so offended""? A:","['never', 'had', 'sir', 'thomas', 'been', 'so', 'offended']",never,sir
 "Q: In the sentence ""The oil and vinegar separated"", what is the first word? A:","['the', 'oil', 'and', 'vinegar', 'separated']",the,the
 "Write the first word of the sentence ""An old woman lived in the forest"": ","['an', 'old', 'woman', 'lived', 'in', 'the', 'forest']",an,an
-"Q: What is the first word of the sentence ""Stephen seemed to be intelligent""? A:","['stephen', 'seemed', 'to', 'be', 'intelligent']",stephen,stephen
+"Q: What is the first word of the sentence ""Stephen seemed to be intelligent""? A:","['stephen', 'seemed', 'to', 'be', 'intelligent']",stephen,seemed
 "Q: In the sentence ""The kids have arrived safely"", what is the first word? A:","['the', 'kids', 'have', 'arrived', 'safely']",the,the
 "Q: In the sentence ""Bill broke the bathtub"", what is the first word? A:","['bill', 'broke', 'the', 'bathtub']",bill,bill
 "Q: In the sentence ""Louis was forgiven by Susan"", what is the first word? A:","['louis', 'was', 'forgiven', 'by', 'susan']",louis,louis
@@ -359,7 +359,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""That movie always shocks people""? A:","['that', 'movie', 'always', 'shocks', 'people']",that,that
 "Write the first word of the sentence ""Susan frightens her"": ","['susan', 'frightens', 'her']",susan,susan
 "Q: In the sentence ""I bought some flowers for Manuel"", what is the first word? A:","['i', 'bought', 'some', 'flowers', 'for', 'manuel']",i,i
-"Write the first word of the sentence ""Maxwell is quite a doctor"": ","['maxwell', 'is', 'quite', 'a', 'doctor']",maxwell,maxwell
+"Write the first word of the sentence ""Maxwell is quite a doctor"": ","['maxwell', 'is', 'quite', 'a', 'doctor']",maxwell,a
 "Write the first word of the sentence ""Angus is not leaving"": ","['angus', 'is', 'not', 'leaving']",angus,angus
 "Q: In the sentence ""I saw that gas can explode"", what is the first word? A:","['i', 'saw', 'that', 'gas', 'can', 'explode']",i,i
 "Q: What is the first word of the sentence ""Nora brought the book to Pamela""? A:","['nora', 'brought', 'the', 'book', 'to', 'pamela']",nora,nora
@@ -385,14 +385,14 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""I want him to eat asparagus""? A:","['i', 'want', 'him', 'to', 'eat', 'asparagus']",i,i
 "Q: What is the first word of the sentence ""I know I bought the book you recommended""? A:","['i', 'know', 'i', 'bought', 'the', 'book', 'you', 'recommended']",i,i
 "Write the first word of the sentence ""Kim is easy to please"": ","['kim', 'is', 'easy', 'to', 'please']",kim,kim
-"Q: In the sentence ""His expectations are always lower than mine"", what is the first word? A:","['his', 'expectations', 'are', 'always', 'lower', 'than', 'mine']",his,always
+"Q: In the sentence ""His expectations are always lower than mine"", what is the first word? A:","['his', 'expectations', 'are', 'always', 'lower', 'than', 'mine']",his,his
 "Q: What is the first word of the sentence ""The car was driven by John to Maine""? A:","['the', 'car', 'was', 'driven', 'by', 'john', 'to', 'maine']",the,the
 "Q: What is the first word of the sentence ""The force of the wind broke the window""? A:","['the', 'force', 'of', 'the', 'wind', 'broke', 'the', 'window']",the,the
 "Q: In the sentence ""I compared Ginger to Fred"", what is the first word? A:","['i', 'compared', 'ginger', 'to', 'fred']",i,i
 "Write the first word of the sentence ""Clouds cleared from the sky"": ","['clouds', 'cleared', 'from', 'the', 'sky']",clouds,clouds
 "Q: In the sentence ""Drowning cats is against the law"", what is the first word? A:","['drowning', 'cats', 'is', 'against', 'the', 'law']",drowning,cats
 "Q: In the sentence ""A hundred men lifted the table together"", what is the first word? A:","['a', 'hundred', 'men', 'lifted', 'the', 'table', 'together']",a,a
-"Q: In the sentence ""Tamara poured water into the bowl"", what is the first word? A:","['tamara', 'poured', 'water', 'into', 'the', 'bowl']",tamara,tamara
+"Q: In the sentence ""Tamara poured water into the bowl"", what is the first word? A:","['tamara', 'poured', 'water', 'into', 'the', 'bowl']",tamara,the
 "Write the first word of the sentence ""I read a statement which was about that man"": ","['i', 'read', 'a', 'statement', 'which', 'was', 'about', 'that', 'man']",i,i
 "Q: In the sentence ""She was sent to Seoul"", what is the first word? A:","['she', 'was', 'sent', 'to', 'seoul']",she,she
 "Q: What is the first word of the sentence ""Oil spread over the sea shore""? A:","['oil', 'spread', 'over', 'the', 'sea', 'shore']",oil,oil
@@ -452,15 +452,15 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""The artist drew the child with a pencil"": ","['the', 'artist', 'drew', 'the', 'child', 'with', 'a', 'pencil']",the,the
 "Q: In the sentence ""They have no car"", what is the first word? A:","['they', 'have', 'no', 'car']",they,they
 "Write the first word of the sentence ""This teacher is a genius"": ","['this', 'teacher', 'is', 'a', 'genius']",this,this
-"Q: In the sentence ""Pat promised Leslie to be aggressive"", what is the first word? A:","['pat', 'promised', 'leslie', 'to', 'be', 'aggressive']",pat,pat
+"Q: In the sentence ""Pat promised Leslie to be aggressive"", what is the first word? A:","['pat', 'promised', 'leslie', 'to', 'be', 'aggressive']",pat,promised
 "Q: In the sentence ""A serious accident happened in front of them"", what is the first word? A:","['a', 'serious', 'accident', 'happened', 'in', 'front', 'of', 'them']",a,accident
 "Q: What is the first word of the sentence ""Someone attended every seminar""? A:","['someone', 'attended', 'every', 'seminar']",someone,someone
-"Q: In the sentence ""Almost no lawyer could answer that question"", what is the first word? A:","['almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",almost,almost
+"Q: In the sentence ""Almost no lawyer could answer that question"", what is the first word? A:","['almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",almost,answer
 "Q: What is the first word of the sentence ""The new policy was approved by the executive committee""? A:","['the', 'new', 'policy', 'was', 'approved', 'by', 'the', 'executive', 'committee']",the,policy
 "Q: What is the first word of the sentence ""Last year I saw this film several times""? A:","['last', 'year', 'i', 'saw', 'this', 'film', 'several', 'times']",last,last
 "Q: What is the first word of the sentence ""You married no one""? A:","['you', 'married', 'no', 'one']",you,you
 "Q: In the sentence ""I climbed up the tree"", what is the first word? A:","['i', 'climbed', 'up', 'the', 'tree']",i,i
-"Q: What is the first word of the sentence ""Several people are sick""? A:","['several', 'people', 'are', 'sick']",several,several
+"Q: What is the first word of the sentence ""Several people are sick""? A:","['several', 'people', 'are', 'sick']",several,sick
 "Q: What is the first word of the sentence ""It is certain that John has loved Mary""? A:","['it', 'is', 'certain', 'that', 'john', 'has', 'loved', 'mary']",it,it
 "Q: What is the first word of the sentence ""John made Mary cook Korean food""? A:","['john', 'made', 'mary', 'cook', 'korean', 'food']",john,john
 "Q: In the sentence ""John promised Mary that he would leave"", what is the first word? A:","['john', 'promised', 'mary', 'that', 'he', 'would', 'leave']",john,john
@@ -497,7 +497,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""Linda taped the picture to the wall""? A:","['linda', 'taped', 'the', 'picture', 'to', 'the', 'wall']",linda,linda
 "Q: What is the first word of the sentence ""John believes that Bill saw him""? A:","['john', 'believes', 'that', 'bill', 'saw', 'him']",john,john
 "Write the first word of the sentence ""John said Mary went to the store quickly"": ","['john', 'said', 'mary', 'went', 'to', 'the', 'store', 'quickly']",john,john
-"Q: What is the first word of the sentence ""The dog fears thunder""? A:","['the', 'dog', 'fears', 'thunder']",the,the
+"Q: What is the first word of the sentence ""The dog fears thunder""? A:","['the', 'dog', 'fears', 'thunder']",the,thunder
 "Write the first word of the sentence ""Dave was given the margarita mix"": ","['dave', 'was', 'given', 'the', 'margarita', 'mix']",dave,dave
 "Q: In the sentence ""Ron certainly will buy a dog"", what is the first word? A:","['ron', 'certainly', 'will', 'buy', 'a', 'dog']",ron,ron
 "Q: What is the first word of the sentence ""Jason expected Medea to be treated by the doctor""? A:","['jason', 'expected', 'medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",jason,jason
@@ -507,7 +507,7 @@ Input,Options,Expected,Predicted
 "Q: In the sentence ""I believe there to be no way out"", what is the first word? A:","['i', 'believe', 'there', 'to', 'be', 'no', 'way', 'out']",i,i
 "Write the first word of the sentence ""An owl hunts mice"": ","['an', 'owl', 'hunts', 'mice']",an,an
 "Q: In the sentence ""It is likely that Bill likes chocolate"", what is the first word? A:","['it', 'is', 'likely', 'that', 'bill', 'likes', 'chocolate']",it,it
-"Write the first word of the sentence ""Over the fort fluttered a large flag"": ","['over', 'the', 'fort', 'fluttered', 'a', 'large', 'flag']",over,over
+"Write the first word of the sentence ""Over the fort fluttered a large flag"": ","['over', 'the', 'fort', 'fluttered', 'a', 'large', 'flag']",over,a
 "Q: What is the first word of the sentence ""Some people yell at dogs""? A:","['some', 'people', 'yell', 'at', 'dogs']",some,some
 "Write the first word of the sentence ""John told Mary to kiss him"": ","['john', 'told', 'mary', 'to', 'kiss', 'him']",john,john
 "Q: What is the first word of the sentence ""the girls likes themselves""? A:","['the', 'girls', 'likes', 'themselves']",the,themselves
@@ -531,7 +531,7 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""He figured it out"": ","['he', 'figured', 'it', 'out']",he,he
 "Write the first word of the sentence ""It was Tom who spilled beer on this couch"": ","['it', 'was', 'tom', 'who', 'spilled', 'beer', 'on', 'this', 'couch']",it,it
 "Q: In the sentence ""John got the book from Bill"", what is the first word? A:","['john', 'got', 'the', 'book', 'from', 'bill']",john,john
-"Q: In the sentence ""Pat is either stupid or a liar"", what is the first word? A:","['pat', 'is', 'either', 'stupid', 'or', 'a', 'liar']",pat,either
+"Q: In the sentence ""Pat is either stupid or a liar"", what is the first word? A:","['pat', 'is', 'either', 'stupid', 'or', 'a', 'liar']",pat,pat
 "Write the first word of the sentence ""The witch poisoned the children"": ","['the', 'witch', 'poisoned', 'the', 'children']",the,the
 "Q: What is the first word of the sentence ""The news pleased the students""? A:","['the', 'news', 'pleased', 'the', 'students']",the,the
 "Write the first word of the sentence ""Paul had an affair"": ","['paul', 'had', 'an', 'affair']",paul,paul
@@ -571,7 +571,7 @@ Input,Options,Expected,Predicted
 "Write the first word of the sentence ""Mary believed John to have loved her"": ","['mary', 'believed', 'john', 'to', 'have', 'loved', 'her']",mary,mary
 "Q: What is the first word of the sentence ""Ellen talked with Helen about the problem""? A:","['ellen', 'talked', 'with', 'helen', 'about', 'the', 'problem']",ellen,ellen
 "Q: What is the first word of the sentence ""We ate at a really fancy restaurant""? A:","['we', 'ate', 'at', 'a', 'really', 'fancy', 'restaurant']",we,we
-"Write the first word of the sentence ""This flyer and that flyer differ"": ","['this', 'flyer', 'and', 'that', 'flyer', 'differ']",this,this
+"Write the first word of the sentence ""This flyer and that flyer differ"": ","['this', 'flyer', 'and', 'that', 'flyer', 'differ']",this,that
 "Q: In the sentence ""The farmer loaded apples into the cart"", what is the first word? A:","['the', 'farmer', 'loaded', 'apples', 'into', 'the', 'cart']",the,the
 "Write the first word of the sentence ""Brutus murdered Julius Caesar with a dagger"": ","['brutus', 'murdered', 'julius', 'caesar', 'with', 'a', 'dagger']",brutus,brutus
 "Q: What is the first word of the sentence ""John put a book on the table""? A:","['john', 'put', 'a', 'book', 'on', 'the', 'table']",john,john
@@ -586,7 +586,7 @@ Input,Options,Expected,Predicted
 "Q: What is the first word of the sentence ""Mary taught linguistics to John""? A:","['mary', 'taught', 'linguistics', 'to', 'john']",mary,mary
 "Q: In the sentence ""I hit the ball"", what is the first word? A:","['i', 'hit', 'the', 'ball']",i,i
 "Write the first word of the sentence ""He began writing poems"": ","['he', 'began', 'writing', 'poems']",he,he
-"Q: In the sentence ""John bit the apple"", what is the first word? A:","['john', 'bit', 'the', 'apple']",john,apple
+"Q: In the sentence ""John bit the apple"", what is the first word? A:","['john', 'bit', 'the', 'apple']",john,john
 "Q: What is the first word of the sentence ""Those monkeys are eating the banana""? A:","['those', 'monkeys', 'are', 'eating', 'the', 'banana']",those,those
 "Q: In the sentence ""Carmen obtained the spare part at the hardware store"", what is the first word? A:","['carmen', 'obtained', 'the', 'spare', 'part', 'at', 'the', 'hardware', 'store']",carmen,carmen
 "Write the first word of the sentence ""Jackie chased the thief"": ","['jackie', 'chased', 'the', 'thief']",jackie,jackie

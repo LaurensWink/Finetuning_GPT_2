@@ -7,39 +7,33 @@ import os, string
 from tokenizers.pre_tokenizers import Split
 
 def gen_char_tokenizer():
-    extra_chars = ["ä", "ö", "ü", "ß"]
+    tokenizer = Tokenizer(models.BPE())
     whitespace_token = "W"
-    special_tokens = ["PAD", "UNK", "UTT_BOUNDARY", whitespace_token]
-
-    vocab_chars = sorted(set(list(string.ascii_lowercase + string.digits + string.punctuation) + extra_chars))
-
-    vocab = {ch: idx for idx, ch in enumerate(special_tokens + vocab_chars)}
-
-    tokenizer = Tokenizer(models.WordLevel(vocab=vocab, unk_token="UNK"))
-
     tokenizer.normalizer = Sequence([
         NFC(),
         Lowercase(),
-        Strip(),
         Replace(" ", whitespace_token),
     ])
-
-    tokenizer.pre_tokenizer = Split(pattern="", behavior="isolated")
-
-    tokenizer.enable_padding(pad_id=vocab["PAD"], pad_token="PAD")
-    tokenizer.enable_truncation(max_length=512)
-
-
     wrapped_tokenizer = LlamaTokenizerFast(
         tokenizer_object=tokenizer,
-        unk_token="UNK",
         pad_token="PAD",
         bos_token="UTT_BOUNDARY",
-        eos_token="UTT_BOUNDARY"
+        eos_token="UTT_BOUNDARY",
     )
 
     os.makedirs("data/tokenizer/char_tokenizer", exist_ok=True)
     wrapped_tokenizer.save_pretrained("data/tokenizer/char_tokenizer")
+    tokenizer = AutoTokenizer.from_pretrained("data/tokenizer/char_tokenizer")
+    tokenizer.pad_token = tokenizer.eos_token
+    tokenizer._tokenizer.get_vocab_size(with_added_tokens=True)
+    ascii_list = []
+    ascii_string = string.printable
+    for char in ascii_string:
+        ascii_list.append(char)
+    tokenizer.add_tokens(ascii_list)
+    tokenizer.add_tokens(['ö','Ö','ä','Ä','ü','Ü','ß','ẞ'])
+
+    tokenizer.save_pretrained("data/tokenizer/char_tokenizer")
 
 gen_char_tokenizer()
 # Erzeugen

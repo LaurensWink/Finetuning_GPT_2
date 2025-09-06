@@ -107,7 +107,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which of the words ""give"" and ""quarter"" comes first? A:","['give', 'quarter']",give,give
 "Q: In an alphabetical order, which word comes first, ""listen"" or ""again""? A:","['listen', 'again']",again,again
 "Q: In an alphabetical order, which of the words ""map"" and ""rain"" comes first? A:","['map', 'rain']",map,map
-"Q: In an alphabetical order, which of the words ""grandmother"" and ""letter"" comes first? A:","['grandmother', 'letter']",grandmother,grandmother
+"Q: In an alphabetical order, which of the words ""grandmother"" and ""letter"" comes first? A:","['grandmother', 'letter']",grandmother,letter
 "Q: In an alphabetical order, which word comes first, ""oh"" or ""follow""? A:","['oh', 'follow']",follow,follow
 "Q: Of the words ""sneaker"" and ""thank"", which word comes first alphabetically? A:","['sneaker', 'thank']",sneaker,sneaker
 "Q: In an alphabetical order, which of the words ""ruler"" and ""jacket"" comes first? A:","['ruler', 'jacket']",jacket,jacket
@@ -184,7 +184,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""those"" or ""floor""? A:","['those', 'floor']",floor,floor
 "Q: Of the words ""give"" and ""quarter"", which word comes first alphabetically? A:","['give', 'quarter']",give,give
 "Q: In an alphabetical order, which of the words ""flight"" and ""queen"" comes first? A:","['flight', 'queen']",flight,flight
-"Q: In an alphabetical order, which of the words ""racket"" and ""you"" comes first? A:","['racket', 'you']",racket,racket
+"Q: In an alphabetical order, which of the words ""racket"" and ""you"" comes first? A:","['racket', 'you']",racket,you
 "Q: In an alphabetical order, which of the words ""immediately"" and ""beard"" comes first? A:","['immediately', 'beard']",beard,beard
 "Q: Of the words ""gas"" and ""write"", which word comes first alphabetically? A:","['gas', 'write']",gas,gas
 "Q: In an alphabetical order, which word comes first, ""wool"" or ""immediately""? A:","['wool', 'immediately']",immediately,immediately
@@ -209,7 +209,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""will"" and ""repeat"", which word comes first alphabetically? A:","['will', 'repeat']",repeat,repeat
 "Q: In an alphabetical order, which of the words ""photography"" and ""surf"" comes first? A:","['photography', 'surf']",photography,photography
 "Q: Of the words ""average"" and ""village"", which word comes first alphabetically? A:","['average', 'village']",average,average
-"Q: Of the words ""grandmother"" and ""letter"", which word comes first alphabetically? A:","['grandmother', 'letter']",grandmother,grandmother
+"Q: Of the words ""grandmother"" and ""letter"", which word comes first alphabetically? A:","['grandmother', 'letter']",grandmother,letter
 "Q: In an alphabetical order, which word comes first, ""zoo"" or ""test""? A:","['zoo', 'test']",test,test
 "Q: In an alphabetical order, which word comes first, ""hot"" or ""kitchen""? A:","['hot', 'kitchen']",hot,hot
 "Q: Of the words ""newspaper"" and ""zoo"", which word comes first alphabetically? A:","['newspaper', 'zoo']",newspaper,newspaper
@@ -243,7 +243,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which of the words ""various"" and ""tomato"" comes first? A:","['various', 'tomato']",tomato,tomato
 "Q: Of the words ""cheap"" and ""mom"", which word comes first alphabetically? A:","['cheap', 'mom']",cheap,cheap
 "Q: In an alphabetical order, which word comes first, ""know"" or ""eat""? A:","['know', 'eat']",eat,eat
-"Q: In an alphabetical order, which of the words ""identification"" and ""adjective"" comes first? A:","['identification', 'adjective']",adjective,adjective
+"Q: In an alphabetical order, which of the words ""identification"" and ""adjective"" comes first? A:","['identification', 'adjective']",adjective,identification
 "Q: In an alphabetical order, which of the words ""page"" and ""exercise"" comes first? A:","['page', 'exercise']",exercise,exercise
 "Q: In an alphabetical order, which word comes first, ""available"" or ""dry""? A:","['available', 'dry']",available,available
 "Q: In an alphabetical order, which of the words ""jacket"" and ""be"" comes first? A:","['jacket', 'be']",be,be
@@ -257,13 +257,13 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""yourself"" and ""juice"", which word comes first alphabetically? A:","['yourself', 'juice']",juice,juice
 "Q: In an alphabetical order, which word comes first, ""north"" or ""ticket""? A:","['north', 'ticket']",north,north
 "Q: Of the words ""bathroom"" and ""square"", which word comes first alphabetically? A:","['bathroom', 'square']",bathroom,bathroom
-"Q: Of the words ""extra"" and ""afraid"", which word comes first alphabetically? A:","['extra', 'afraid']",afraid,extra
+"Q: Of the words ""extra"" and ""afraid"", which word comes first alphabetically? A:","['extra', 'afraid']",afraid,afraid
 "Q: Of the words ""very"" and ""album"", which word comes first alphabetically? A:","['very', 'album']",album,album
 "Q: In an alphabetical order, which word comes first, ""very"" or ""of""? A:","['very', 'of']",of,of
 "Q: In an alphabetical order, which word comes first, ""quiet"" or ""throw""? A:","['quiet', 'throw']",quiet,quiet
-"Q: In an alphabetical order, which of the words ""most"" and ""art"" comes first? A:","['most', 'art']",art,most
+"Q: In an alphabetical order, which of the words ""most"" and ""art"" comes first? A:","['most', 'art']",art,art
 "Q: In an alphabetical order, which word comes first, ""join"" or ""include""? A:","['join', 'include']",include,include
-"Q: In an alphabetical order, which of the words ""pay"" and ""motorcycle"" comes first? A:","['pay', 'motorcycle']",motorcycle,motorcycle
+"Q: In an alphabetical order, which of the words ""pay"" and ""motorcycle"" comes first? A:","['pay', 'motorcycle']",motorcycle,pay
 "Q: Of the words ""wood"" and ""just"", which word comes first alphabetically? A:","['wood', 'just']",just,just
 "Q: Of the words ""lose"" and ""again"", which word comes first alphabetically? A:","['lose', 'again']",again,again
 "Q: Of the words ""area"" and ""view"", which word comes first alphabetically? A:","['area', 'view']",area,area
@@ -334,7 +334,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""hold"" or ""married""? A:","['hold', 'married']",hold,hold
 "Q: In an alphabetical order, which word comes first, ""grape"" or ""uniform""? A:","['grape', 'uniform']",grape,grape
 "Q: In an alphabetical order, which word comes first, ""however"" or ""indoor""? A:","['however', 'indoor']",however,however
-"Q: Of the words ""never"" and ""sweets"", which word comes first alphabetically? A:","['never', 'sweets']",never,never
+"Q: Of the words ""never"" and ""sweets"", which word comes first alphabetically? A:","['never', 'sweets']",never,sweets
 "Q: Of the words ""time"" and ""different"", which word comes first alphabetically? A:","['time', 'different']",different,different
 "Q: In an alphabetical order, which word comes first, ""of"" or ""mom""? A:","['of', 'mom']",mom,mom
 "Q: Of the words ""yourself"" and ""horrible"", which word comes first alphabetically? A:","['yourself', 'horrible']",horrible,horrible
@@ -403,7 +403,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""chain"" and ""itself"", which word comes first alphabetically? A:","['chain', 'itself']",chain,chain
 "Q: In an alphabetical order, which word comes first, ""volleyball"" or ""call""? A:","['volleyball', 'call']",call,call
 "Q: Of the words ""queen"" and ""sea"", which word comes first alphabetically? A:","['queen', 'sea']",queen,queen
-"Q: Of the words ""sunglasses"" and ""include"", which word comes first alphabetically? A:","['sunglasses', 'include']",include,include
+"Q: Of the words ""sunglasses"" and ""include"", which word comes first alphabetically? A:","['sunglasses', 'include']",include,sunglasses
 "Q: In an alphabetical order, which word comes first, ""guy"" or ""taxi""? A:","['guy', 'taxi']",guy,guy
 "Q: In an alphabetical order, which of the words ""oh"" and ""mom"" comes first? A:","['oh', 'mom']",mom,mom
 "Q: Of the words ""record"" and ""zoo"", which word comes first alphabetically? A:","['record', 'zoo']",record,record
@@ -425,7 +425,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""information"" or ""make""? A:","['information', 'make']",information,information
 "Q: In an alphabetical order, which of the words ""club"" and ""writing"" comes first? A:","['club', 'writing']",club,club
 "Q: In an alphabetical order, which of the words ""sleep"" and ""king"" comes first? A:","['sleep', 'king']",king,king
-"Q: In an alphabetical order, which of the words ""oh"" and ""eat"" comes first? A:","['oh', 'eat']",eat,oh
+"Q: In an alphabetical order, which of the words ""oh"" and ""eat"" comes first? A:","['oh', 'eat']",eat,eat
 "Q: In an alphabetical order, which of the words ""happy"" and ""question"" comes first? A:","['happy', 'question']",happy,happy
 "Q: In an alphabetical order, which of the words ""that"" and ""shower"" comes first? A:","['that', 'shower']",shower,shower
 "Q: In an alphabetical order, which of the words ""for"" and ""bracelet"" comes first? A:","['for', 'bracelet']",bracelet,bracelet
@@ -462,7 +462,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""grilled"" or ""wild""? A:","['grilled', 'wild']",grilled,grilled
 "Q: In an alphabetical order, which of the words ""raincoat"" and ""own"" comes first? A:","['raincoat', 'own']",own,own
 "Q: In an alphabetical order, which of the words ""news"" and ""various"" comes first? A:","['news', 'various']",news,news
-"Q: In an alphabetical order, which of the words ""west"" and ""that"" comes first? A:","['west', 'that']",that,west
+"Q: In an alphabetical order, which of the words ""west"" and ""that"" comes first? A:","['west', 'that']",that,that
 "Q: In an alphabetical order, which word comes first, ""rock"" or ""jump""? A:","['rock', 'jump']",jump,jump
 "Q: In an alphabetical order, which word comes first, ""ever"" or ""including""? A:","['ever', 'including']",ever,ever
 "Q: In an alphabetical order, which of the words ""shower"" and ""note"" comes first? A:","['shower', 'note']",note,note
@@ -471,7 +471,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""field"" and ""swim"", which word comes first alphabetically? A:","['field', 'swim']",field,field
 "Q: In an alphabetical order, which of the words ""evening"" and ""visitor"" comes first? A:","['evening', 'visitor']",evening,evening
 "Q: Of the words ""sometimes"" and ""quick"", which word comes first alphabetically? A:","['sometimes', 'quick']",quick,quick
-"Q: Of the words ""identification"" and ""kilometer"", which word comes first alphabetically? A:","['identification', 'kilometer']",identification,kilometer
+"Q: Of the words ""identification"" and ""kilometer"", which word comes first alphabetically? A:","['identification', 'kilometer']",identification,identification
 "Q: In an alphabetical order, which of the words ""restaurant"" and ""anymore"" comes first? A:","['restaurant', 'anymore']",anymore,anymore
 "Q: Of the words ""famous"" and ""use"", which word comes first alphabetically? A:","['famous', 'use']",famous,famous
 "Q: Of the words ""jewelry"" and ""it"", which word comes first alphabetically? A:","['jewelry', 'it']",it,it
@@ -504,7 +504,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which of the words ""second"" and ""face"" comes first? A:","['second', 'face']",face,face
 "Q: Of the words ""zoo"" and ""wide"", which word comes first alphabetically? A:","['zoo', 'wide']",wide,wide
 "Q: In an alphabetical order, which of the words ""except"" and ""dance"" comes first? A:","['except', 'dance']",dance,dance
-"Q: In an alphabetical order, which word comes first, ""instructions"" or ""large""? A:","['instructions', 'large']",instructions,instructions
+"Q: In an alphabetical order, which word comes first, ""instructions"" or ""large""? A:","['instructions', 'large']",instructions,large
 "Q: Of the words ""these"" and ""understand"", which word comes first alphabetically? A:","['these', 'understand']",these,these
 "Q: In an alphabetical order, which word comes first, ""movie"" or ""glove""? A:","['movie', 'glove']",glove,glove
 "Q: Of the words ""dream"" and ""football"", which word comes first alphabetically? A:","['dream', 'football']",dream,dream
@@ -521,7 +521,7 @@ Input,Options,Expected,Predicted
 "Q: In an alphabetical order, which word comes first, ""granddaughter"" or ""awesome""? A:","['granddaughter', 'awesome']",awesome,awesome
 "Q: In an alphabetical order, which of the words ""university"" and ""worse"" comes first? A:","['university', 'worse']",university,university
 "Q: In an alphabetical order, which of the words ""movie"" and ""headache"" comes first? A:","['movie', 'headache']",headache,headache
-"Q: In an alphabetical order, which word comes first, ""picture"" or ""fashion""? A:","['picture', 'fashion']",fashion,fashion
+"Q: In an alphabetical order, which word comes first, ""picture"" or ""fashion""? A:","['picture', 'fashion']",fashion,picture
 "Q: In an alphabetical order, which of the words ""never"" and ""sweets"" comes first? A:","['never', 'sweets']",never,never
 "Q: In an alphabetical order, which of the words ""raincoat"" and ""big"" comes first? A:","['raincoat', 'big']",big,big
 "Q: In an alphabetical order, which word comes first, ""zoo"" or ""thin""? A:","['zoo', 'thin']",thin,thin
@@ -593,7 +593,7 @@ Input,Options,Expected,Predicted
 "Q: Of the words ""tomato"" and ""identification"", which word comes first alphabetically? A:","['tomato', 'identification']",identification,identification
 "Q: Of the words ""man"" and ""keyboard"", which word comes first alphabetically? A:","['man', 'keyboard']",keyboard,keyboard
 "Q: In an alphabetical order, which word comes first, ""keep"" or ""tire""? A:","['keep', 'tire']",keep,keep
-"Q: In an alphabetical order, which word comes first, ""screen"" or ""might""? A:","['screen', 'might']",might,might
+"Q: In an alphabetical order, which word comes first, ""screen"" or ""might""? A:","['screen', 'might']",might,screen
 "Q: In an alphabetical order, which of the words ""number"" and ""quickly"" comes first? A:","['number', 'quickly']",number,number
 "Q: Of the words ""west"" and ""that"", which word comes first alphabetically? A:","['west', 'that']",that,that
 "Q: In an alphabetical order, which of the words ""bad"" and ""zoo"" comes first? A:","['bad', 'zoo']",bad,bad
