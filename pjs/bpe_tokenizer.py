@@ -9,15 +9,17 @@ from tokenizers import (
 
 from tokenizers.processors import TemplateProcessing
 
-from tokenizers.normalizers import Lowercase, Strip, NFC
-from transformers import PreTrainedTokenizerFast
+from tokenizers.normalizers import Lowercase, Strip, NFC, Sequence
+from transformers import LlamaTokenizerFast, PreTrainedTokenizerFast
 
 def gen_bpe_de_tokenizer(train_data, save_dir):
     special_tokens = ["PAD", "UNK", "UTT_BOUNDARY"]
     
-    tokenizer = Tokenizer(models.BPE())
-    tokenizer.normalizer = normalizers.Sequence([
-        Strip(), NFC(), Lowercase()
+    tokenizer = Tokenizer(models.BPE(unk_token="UNK"))
+    tokenizer.normalizer = Sequence([
+        NFC(),
+        Lowercase(),
+        Strip()
     ])
     
     tokenizer.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=True)
@@ -25,32 +27,20 @@ def gen_bpe_de_tokenizer(train_data, save_dir):
     
     trainer = trainers.BpeTrainer(
         vocab_size=16000,
-        special_tokens=special_tokens
+        special_tokens=special_tokens,
     )
     
-    with open(train_data, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f if line.strip()]
-    tokenizer.train_from_iterator(lines, trainer=trainer)
+    tokenizer.train(files = train_data, trainer=trainer)
+    pad_id = tokenizer.token_to_id("PAD")
+    tokenizer.enable_padding(pad_id=pad_id, pad_token="PAD")
+    tokenizer.enable_truncation(max_length=256)
     
-    wrapped_tokenizer = PreTrainedTokenizerFast(
+    wrapped_tokenizer = LlamaTokenizerFast(
         tokenizer_object=tokenizer,
         pad_token="PAD",
         bos_token="UTT_BOUNDARY",
-        eos_token="UTT_BOUNDARY"
-    )
-
-    wrapped_tokenizer.pad_token = wrapped_tokenizer.eos_token
-
-    bos_id = wrapped_tokenizer.bos_token_id
-    eos_id = wrapped_tokenizer.eos_token_id
-    wrapped_tokenizer._tokenizer.post_processor = TemplateProcessing(
-        single=f"{wrapped_tokenizer.bos_token} $A {wrapped_tokenizer.eos_token}",
-        pair=f"{wrapped_tokenizer.bos_token} $A {wrapped_tokenizer.eos_token} {wrapped_tokenizer.bos_token} $B {wrapped_tokenizer.eos_token}",
-        special_tokens=[
-            (wrapped_tokenizer.bos_token, bos_id),
-            (wrapped_tokenizer.eos_token, eos_id),
-            (wrapped_tokenizer.pad_token, wrapped_tokenizer.pad_token_id),
-        ],
+        eos_token="UTT_BOUNDARY",
+        unk_token="UNK"
     )
     
     os.makedirs(save_dir, exist_ok=True)
@@ -58,8 +48,8 @@ def gen_bpe_de_tokenizer(train_data, save_dir):
 
 
 # Trainieren & speichern
-gen_bpe_de_tokenizer("data/baby_LM/trimmed_babylm_de.txt", "data/tokenizer/bpe_de_tokenizer")
-gen_bpe_de_tokenizer("data/baby_LM/trimmed_babylm_en.txt", "data/tokenizer/bpe_en_tokenizer")
+gen_bpe_de_tokenizer(["data/baby_LM/trimmed_babylm_de.txt"], "data/tokenizer/bpe_de_tokenizer")
+gen_bpe_de_tokenizer(["data/baby_LM/trimmed_babylm_en.txt"], "data/tokenizer/bpe_en_tokenizer")
 
 # Laden & testen
 bpe_tokenizer = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
