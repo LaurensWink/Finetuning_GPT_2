@@ -123,7 +123,6 @@ class Data():
         split_data = {}
 
         try:
-  
             for filename in os.listdir(directory):
                 if filename.endswith(".json"):
  
@@ -141,7 +140,7 @@ class Data():
 
                     split_data[base_name][split_type] = df
 
-                    logger.info(f"loaded: {base_name}")
+                    logger.info(f"loaded: {filename}")
 
         except Exception as e:
             logger.error(f"Error while loading splits: {e}")

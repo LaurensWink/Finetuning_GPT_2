@@ -4,7 +4,6 @@ from datasets import load_dataset, DatasetDict
 import pandas as pd
 from transformers import (
     AutoTokenizer,
-    PreTrainedTokenizerFast, 
     set_seed, 
     Trainer, 
     TrainingArguments, 
@@ -14,11 +13,10 @@ from transformers import (
 
 
 def pretrain(training_files: list[str], tokenizer, output_dir, device):
-    # --- DATASET ---
     raw_datasets = load_dataset('text', data_files=training_files)
     split_datasets = raw_datasets['train'].train_test_split(test_size=0.05, seed=42)
     final_datasets = DatasetDict({'train': split_datasets['train'], 'validation': split_datasets['test']})
-    # --- TOKENIZER ---
+
     context_length = 64
 
     def tokenize(element):
@@ -36,7 +34,7 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
     tokenized_datasets = final_datasets.map(tokenize, 
                                             batched=True, 
                                             remove_columns=final_datasets["train"].column_names)
-    # --- MODEL CONFIG ---
+
     config = LlamaConfig(
         vocab_size=len(tokenizer),
         hidden_size=768,         
@@ -52,12 +50,10 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
     set_seed(42)
     model = LlamaForCausalLM(config)
 
-    # DEVICE INFO
     model.to(device)
     print(f"Training on device: {device}")
     print(f"Model parameters: {model.num_parameters()}")
 
-    # --- TRAINING ---
     data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
     training_args = TrainingArguments(
@@ -89,18 +85,16 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
 
     trainer.train()
 
-    # --- LOGGING ---
     df = pd.DataFrame(trainer.state.log_history)
     os.makedirs(f'{output_dir}/logs', exist_ok=True)
     df.to_csv(f'{output_dir}/logs/losses.csv')  
 
-    # --- FINAL SAVE ---
     trainer.save_model(f'{output_dir}/model/final')
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 TOKENIZER_CHAR = AutoTokenizer.from_pretrained("data/tokenizer/char_tokenizer")
-# TOKENIZER_BPE_DE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
-# TOKENIZER_BPE_EN = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
+TOKENIZER_BPE_DE = AutoTokenizer.from_pretrained("data/tokenizer/bpe_de_tokenizer")
+TOKENIZER_BPE_EN = AutoTokenizer.from_pretrained("data/tokenizer/bpe_en_tokenizer")
 
 LM_CHAR_DE = 'data/models/baby_lm_de_char'
 LM_CHAR_EN = 'data/models/baby_lm_en_char'
@@ -109,7 +103,7 @@ LM_BPE_EN = 'data/models/baby_lm_en_bpe'
 DATA_DE = ["data/baby_LM/trimmed_babylm_de.txt"]
 DATA_EN = ["data/baby_LM/trimmed_babylm_en.txt"]
 
-# pretrain(DATA_DE, TOKENIZER_CHAR, LM_CHAR_DE, device)
+pretrain(DATA_DE, TOKENIZER_CHAR, LM_CHAR_DE, device)
 pretrain(DATA_EN, TOKENIZER_CHAR, LM_CHAR_EN, device)
-# pretrain(DATA_DE, TOKENIZER_BPE_DE, LM_BPE_DE, device)
-# pretrain(DATA_EN, TOKENIZER_BPE_EN, LM_BPE_EN, device)
+pretrain(DATA_DE, TOKENIZER_BPE_DE, LM_BPE_DE, device)
+pretrain(DATA_EN, TOKENIZER_BPE_EN, LM_BPE_EN, device)

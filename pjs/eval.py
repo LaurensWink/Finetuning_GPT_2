@@ -1,3 +1,4 @@
+import os
 from loguru import logger
 import pandas as pd
 from pathlib import Path
@@ -46,9 +47,9 @@ def evaluate(dir_path, file_name):
             })
 
     results_df = pd.DataFrame(output_metrics)
-
-    output_file = Path(f"data/results/{file_name}.csv")
-
+    output_dir = "data/results/"
+    output_file = Path(f"{output_dir}{file_name}.csv")
+    os.makedirs(output_dir, exist_ok=True)
     if output_file.exists():
         logger.warning(f"'{output_file}' does already exist, it will be overwritten.")
 

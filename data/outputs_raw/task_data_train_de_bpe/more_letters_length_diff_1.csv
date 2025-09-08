@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"F: Welches Wort ist länger, ""namenlos"" oder ""wertlos""? A:","['namenlos', 'wertlos']",namenlos, namenlos? namenlos
+"F: Welches Wort ist länger, ""daran"" oder ""völlig""? A:","['daran', 'völlig']",völlig," völlig ungerne,"
+"F: Welches Wort ist länger, ""wertlos"" oder ""Abschied""? A:","['wertlos', 'Abschied']",abschied, abschied von den wörtern
+"F: Welches Wort hat mehr Buchstaben, ""um"" oder ""all""? A:","['um', 'all']",all," all diese namen"" oder"
+"Von den Wörtern ""Polarität"" und ""Fachbücher"", welches hat mehr Buchstaben? ","['Polarität', 'Fachbücher']",fachbücher,
+"F: Welches Wort ist länger, ""nicht"" oder ""jemand""? A:","['nicht', 'jemand']",jemand," jemand hat ein wort,"
+"F: Welches Wort ist länger, ""brüllen"" oder ""sollen""? A:","['brüllen', 'sollen']",brüllen," brüllen, weinen,"
+"Von den Wörtern ""variabel"" und ""Iteration"", welches hat mehr Buchstaben? ","['variabel', 'Iteration']",iteration," iteration"", welches"
+"F: Welches Wort hat mehr Buchstaben, ""ist"" oder ""muss""? A:","['ist', 'muss']",muss, muss man nicht. man
+"Von den Wörtern ""Bedeutung"" und ""Oligarchie"", welches hat mehr Buchstaben? ","['Bedeutung', 'Oligarchie']",oligarchie," oligarchie,"
+"Von den Wörtern ""Obduktion"" und ""offensiv"", welches hat mehr Buchstaben? ","['Obduktion', 'offensiv']",obduktion, obduktion oder ob
+"F: Welches Wort hat mehr Buchstaben, ""im"" oder ""weg""? A:","['im', 'weg']",weg," weg, weg, weg"
+"F: Welches Wort hat mehr Buchstaben, ""rot"" oder ""dann""? A:","['rot', 'dann']",dann, dann ist das auch egal
+"F: Welches Wort ist länger, ""ungerne"" oder ""Abschied""? A:","['ungerne', 'Abschied']",abschied, abschied von den wörtern
+"Von den Wörtern ""Plakatwand"" und ""Iteration"", welches hat mehr Buchstaben? ","['Plakatwand', 'Iteration']",plakatwand, plakatwand? tafelwasser
+"F: Welches Wort hat mehr Buchstaben, ""daran"" oder ""heut""? A:","['daran', 'heut']",daran," daran denken, dass sie"
+"F: Welches Wort ist länger, ""unter"" oder ""weinen""? A:","['unter', 'weinen']",weinen," weinen, weinen, weinen"
+"F: Welches Wort hat mehr Buchstaben, ""man"" oder ""bald""? A:","['man', 'bald']",bald,
+"Von den Wörtern ""Verzichts"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Verzichts', 'Robbenfell']",robbenfell," robbenfell oder ""h"
+"Von den Wörtern ""Machtwort"" und ""Wachmänner"", welches hat mehr Buchstaben? ","['Machtwort', 'Wachmänner']",wachmänner," wachmänner, die sich"
+"F: Welches Wort hat mehr Buchstaben, ""im"" oder ""ein""? A:","['im', 'ein']",ein," ein wort? ""diese"
+"F: Welches Wort hat mehr Buchstaben, ""sind"" oder ""der""? A:","['sind', 'der']",sind," sind das nicht mehr,"
+"F: Welches Wort hat mehr Buchstaben, ""sehr"" oder ""allen""? A:","['sehr', 'allen']",allen, allen voran? a:
+"Von den Wörtern ""bedeutet"" und ""Bedeutung"", welches hat mehr Buchstaben? ","['bedeutet', 'Bedeutung']",bedeutung, bedeutung hat. bedeutung hat
+"F: Welches Wort ist länger, ""erzählt"" oder ""Gebiss""? A:","['erzählt', 'Gebiss']",erzählt, erzählt von den wörtern
+"Von den Wörtern ""Erinnerung"" und ""Haarspitzen"", welches hat mehr Buchstaben? ","['Erinnerung', 'Haarspitzen']",haarspitzen, haarspitzen und haarspitzen
+"Von den Wörtern ""gemeinsam"" und ""entwickeln"", welches hat mehr Buchstaben? ","['gemeinsam', 'entwickeln']",entwickeln, entwickelnde oder auch jüngere
+"F: Welches Wort ist länger, ""fragen"" oder ""würde""? A:","['fragen', 'würde']",fragen," fragen, fragen, fragen"
+"F: Welches Wort hat mehr Buchstaben, ""sehr"" oder ""der""? A:","['sehr', 'der']",sehr," sehr viel mehr buchstaben,"
+"F: Welches Wort ist länger, ""könnt"" oder ""weinen""? A:","['könnt', 'weinen']",weinen," weinen, weinen, weinen"
+"F: Welches Wort ist länger, ""sowie"" oder ""Bagger""? A:","['sowie', 'Bagger']",bagger," baggerschaufel,"
+"F: Welches Wort ist länger, ""völlig"" oder ""gedanke""? A:","['völlig', 'gedanke']",gedanke," gedanke, die wahrheit ist"
+"F: Welches Wort hat mehr Buchstaben, ""dann"" oder ""daran""? A:","['dann', 'daran']",daran, daran hat sich nichts geändert
+"Von den Wörtern ""Kombination"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Kombination', 'Robbenfell']",kombination, kombination aus wissen und namen
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""der""? A:","['zeit', 'der']",zeit," zeit, sich zu besinnen"
+"F: Welches Wort hat mehr Buchstaben, ""will"" oder ""wurde""? A:","['will', 'wurde']",wurde, wurde von den wörtern
+"Von den Wörtern ""gemeinsam"" und ""irgendwo"", welches hat mehr Buchstaben? ","['gemeinsam', 'irgendwo']",gemeinsam, gemeinsam mit anderen fachk
+"F: Welches Wort hat mehr Buchstaben, ""nach"" oder ""und""? A:","['nach', 'und']",nach, nach und nach hat man
+"F: Welches Wort hat mehr Buchstaben, ""der"" oder ""sich""? A:","['der', 'sich']",sich, sich selbst? oder nicht
+"F: Welches Wort ist länger, ""Anteil"" oder ""ungerne""? A:","['Anteil', 'ungerne']",ungerne, ungerne und un
+"F: Welches Wort hat mehr Buchstaben, ""ab"" oder ""nun""? A:","['ab', 'nun']",nun," nun, das ist nicht"
+"F: Welches Wort hat mehr Buchstaben, ""es"" oder ""das""? A:","['es', 'das']",das," das ist ein wort,"
+"F: Welches Wort hat mehr Buchstaben, ""sie"" oder ""ganz""? A:","['sie', 'ganz']",ganz," ganz oben, ganz unten"
+"F: Welches Wort hat mehr Buchstaben, ""unter"" oder ""mehr""? A:","['unter', 'mehr']",unter, untertitel: renke
+"F: Welches Wort ist länger, ""bestens"" oder ""sehen ""? A:","['bestens', 'sehen ']",bestens,
+"F: Welches Wort ist länger, ""fragen"" oder ""mehrere""? A:","['fragen', 'mehrere']",mehrere, mehrere von ihnen sind schon
+"Von den Wörtern ""gasförmig"" und ""Fachbücher"", welches hat mehr Buchstaben? ","['gasförmig', 'Fachbücher']",fachbücher,
+"F: Welches Wort hat mehr Buchstaben, ""am"" oder ""nun""? A:","['am', 'nun']",nun," nun, das ist nicht"
+"Von den Wörtern ""verstehen"" und ""Verbindung"", welches hat mehr Buchstaben? ","['verstehen', 'Verbindung']",verbindung, verbindung zwischen den wörtern
+"F: Welches Wort ist länger, ""erzählt"" oder ""laufen""? A:","['erzählt', 'laufen']",erzählt, erzählt von den wörtern
+"F: Welches Wort ist länger, ""besser"" oder ""dabei""? A:","['besser', 'dabei']",besser," besser, mehr noch:"
+"Von den Wörtern ""Verzichts"" und ""variabel"", welches hat mehr Buchstaben? ","['Verzichts', 'variabel']",verzichts," verzichtsschreibung, bedeutung"
+"F: Welches Wort hat mehr Buchstaben, ""das"" oder ""ob""? A:","['das', 'ob']",das," das, was man von"
+"Von den Wörtern ""gasförmig"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['gasförmig', 'Robbenfell']",robbenfell," robbenfell, das ist"
+"F: Welches Wort hat mehr Buchstaben, ""du"" oder ""weg""? A:","['du', 'weg']",weg, weg von den wörtern
+"Von den Wörtern ""Gleichstand"" und ""Verhältnis"", welches hat mehr Buchstaben? ","['Gleichstand', 'Verhältnis']",gleichstand, gleichstand und vereinigung
+"F: Welches Wort ist länger, ""Gebiss"" oder ""anderen""? A:","['Gebiss', 'anderen']",anderen, anderen?igen?igen
+"F: Welches Wort hat mehr Buchstaben, ""kann"" oder ""allen""? A:","['kann', 'allen']",allen, allen voran? a:
+"Von den Wörtern ""Kreativen"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Kreativen', 'Robbenfell']",robbenfell," robbenfell oder ""h"
+"F: Welches Wort ist länger, ""haben"" oder ""völlig""? A:","['haben', 'völlig']",völlig," völlig ungerne,"
+"F: Welches Wort hat mehr Buchstaben, ""nach"" oder ""daran""? A:","['nach', 'daran']",daran, daran hat sich nichts geändert
+"F: Welches Wort hat mehr Buchstaben, ""bald"" oder ""nie""? A:","['bald', 'nie']",bald,
+"F: Welches Wort hat mehr Buchstaben, ""allen"" oder ""zeit""? A:","['allen', 'zeit']",allen," allen voran""? a:"
+"F: Welches Wort hat mehr Buchstaben, ""ja"" oder ""ist""? A:","['ja', 'ist']",ist," ist nicht dasselbe wie """
+"F: Welches Wort hat mehr Buchstaben, ""im"" oder ""all""? A:","['im', 'all']",all, all diese namen sind nicht
+"F: Welches Wort ist länger, ""reden"" oder ""besser""? A:","['reden', 'besser']",besser," besser: ""einmal"
+"F: Welches Wort ist länger, ""mulmig"" oder ""darüber""? A:","['mulmig', 'darüber']",darüber, darüber hinaus? darüber hinaus
+"F: Welches Wort ist länger, ""einmal"" oder ""brüllen""? A:","['einmal', 'brüllen']",brüllen," brüllen, weinen,"
+"F: Welches Wort ist länger, ""sehen "" oder ""gewinnt""? A:","['sehen ', 'gewinnt']",gewinnt,
+"F: Welches Wort hat mehr Buchstaben, ""weg"" oder ""noch""? A:","['weg', 'noch']",noch," noch ein wort, noch"
+"F: Welches Wort ist länger, ""einfach"" oder ""bedeutet""? A:","['einfach', 'bedeutet']",bedeutet, bedeutet: nichts. einfach
+"Von den Wörtern ""entwickeln"" und ""verlieren"", welches hat mehr Buchstaben? ","['entwickeln', 'verlieren']",entwickeln, entwickelnde oder auch kombination
+"Von den Wörtern ""Verzichts"" und ""Veranstalt"", welches hat mehr Buchstaben? ","['Verzichts', 'Veranstalt']",veranstalt," veranstaltverteilung,"
+"F: Welches Wort ist länger, ""entsteht"" oder ""mehrere""? A:","['entsteht', 'mehrere']",entsteht," entsteht, wenn man sich"
+"F: Welches Wort hat mehr Buchstaben, ""und"" oder ""da""? A:","['und', 'da']",und, und hier ist noch ein
+"F: Welches Wort hat mehr Buchstaben, ""haben"" oder ""noch""? A:","['haben', 'noch']",haben, haben haben haben haben.
+"Von den Wörtern ""geborene"" und ""idiotisch"", welches hat mehr Buchstaben? ","['geborene', 'idiotisch']",idiotisch," idiotisch, unabl"
+"Von den Wörtern ""Verteilung"" und ""Beweglich"", welches hat mehr Buchstaben? ","['Verteilung', 'Beweglich']",verteilung, verteilung von wissen und
+"Von den Wörtern ""idiotisch"" und ""offensiv"", welches hat mehr Buchstaben? ","['idiotisch', 'offensiv']",idiotisch," idiotisch, unabl"
+"Von den Wörtern ""Verhältnis"" und ""effizient"", welches hat mehr Buchstaben? ","['Verhältnis', 'effizient']",verhältnis, verhältnismäßig: gleichstand
+"F: Welches Wort ist länger, ""Beispiel"" oder ""bestens""? A:","['Beispiel', 'bestens']",beispiel, beispiel: £1
+"F: Welches Wort ist länger, ""gewinnt"" oder ""versucht""? A:","['gewinnt', 'versucht']",versucht," versucht, sich von den"
+"F: Welches Wort hat mehr Buchstaben, ""sowie"" oder ""muss""? A:","['sowie', 'muss']",sowie," sowie ""sich""? a"
+"F: Welches Wort ist länger, ""gewinnt"" oder ""bedeutet""? A:","['gewinnt', 'bedeutet']",bedeutet," gewinnt, gewinnt, gewinnt"
+"Von den Wörtern ""variabel"" und ""tüfteln"", welches hat mehr Buchstaben? ","['variabel', 'tüfteln']",variabel," variabel, blam"
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""du""? A:","['ein', 'du']",ein," ein wort, das heißt"
+"Von den Wörtern ""väterlich"" und ""Fachbücher"", welches hat mehr Buchstaben? ","['väterlich', 'Fachbücher']",fachbücher,
+"F: Welches Wort ist länger, ""Bagger"" oder ""darüber""? A:","['Bagger', 'darüber']",darüber, baggerschaufel?
+"Von den Wörtern ""effizient"" und ""unablässig"", welches hat mehr Buchstaben? ","['effizient', 'unablässig']",unablässig," unablässig, wenn"
+"Von den Wörtern ""allerdings"" und ""Tafelwasser"", welches hat mehr Buchstaben? ","['allerdings', 'Tafelwasser']",tafelwasser," tafelwasser, tafelwasser"
+"F: Welches Wort hat mehr Buchstaben, ""noch"" oder ""und""? A:","['noch', 'und']",noch," noch mehr namen, noch"
+"F: Welches Wort ist länger, ""mulmig"" oder ""wertlos""? A:","['mulmig', 'wertlos']",wertlos, wertlos? a:
+"Von den Wörtern ""offizielle"" und ""gasförmig"", welches hat mehr Buchstaben? ","['offizielle', 'gasförmig']",offizielle," offizielle bezeichnung für ""ab"
+"F: Welches Wort ist länger, ""lebende"" oder ""mulmig""? A:","['lebende', 'mulmig']",lebende," lebende wesen, die"
+"F: Welches Wort ist länger, ""ungerne"" oder ""geborene""? A:","['ungerne', 'geborene']",geborene," geborene, lebende"
+"F: Welches Wort hat mehr Buchstaben, ""ist"" oder ""sehr""? A:","['ist', 'sehr']",sehr," sehr viel mehr buchstaben,"
+"Von den Wörtern ""Erfahrung"" und ""Vereinigen"", welches hat mehr Buchstaben? ","['Erfahrung', 'Vereinigen']",vereinigen, vereinigende oder verein
+"Von den Wörtern ""Verzichts"" und ""versucht"", welches hat mehr Buchstaben? ","['Verzichts', 'versucht']",verzichts," verzichtsverlust,"
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""so""? A:","['nun', 'so']",nun," nun, das ist ein"
+"F: Welches Wort ist länger, ""beenden"" oder ""verloren""? A:","['beenden', 'verloren']",verloren, verlorene zeit? a
+"Von den Wörtern ""gasförmig"" und ""tadellos"", welches hat mehr Buchstaben? ","['gasförmig', 'tadellos']",gasförmig," gasförmig, gasförmig"
+"F: Welches Wort hat mehr Buchstaben, ""im"" oder ""sie""? A:","['im', 'sie']",sie, sie haben sich verändert.
+"F: Welches Wort hat mehr Buchstaben, ""auch"" oder ""unter""? A:","['auch', 'unter']",unter," unter den namen ""t"
+"F: Welches Wort ist länger, ""mehrere"" oder ""laufen""? A:","['mehrere', 'laufen']",mehrere, mehrere personen? namenlos
+"F: Welches Wort ist länger, ""graben"" oder ""würde""? A:","['graben', 'würde']",graben," graben, graben, graben"
+"F: Welches Wort hat mehr Buchstaben, ""ganz"" oder ""diese""? A:","['ganz', 'diese']",diese," diese beiden namen, diese"
+"F: Welches Wort ist länger, ""variabel"" oder ""darüber""? A:","['variabel', 'darüber']",variabel," variabel, variabel"
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""und""? A:","['zeit', 'und']",zeit," zeit, sich zu besinnen"
+"F: Welches Wort hat mehr Buchstaben, ""zu"" oder ""war""? A:","['zu', 'war']",war, war das nicht? war
+"F: Welches Wort ist länger, ""wertlos"" oder ""graben""? A:","['wertlos', 'graben']",wertlos, wertlos?ig?
+"Von den Wörtern ""Veranstalt"" und ""Haarspitzen"", welches hat mehr Buchstaben? ","['Veranstalt', 'Haarspitzen']",haarspitzen," haarspitzen, haarspitzen"
+"F: Welches Wort hat mehr Buchstaben, ""all"" oder ""kann""? A:","['all', 'kann']",kann, kann man nicht einfach so
+"Von den Wörtern ""Verhältnis"" und ""Täterprofil"", welches hat mehr Buchstaben? ","['Verhältnis', 'Täterprofil']",täterprofil, täterprofile?
+"Von den Wörtern ""ehrenlos"" und ""Erfahrung"", welches hat mehr Buchstaben? ","['ehrenlos', 'Erfahrung']",erfahrung," erfahrung, mit der man"
+"F: Welches Wort hat mehr Buchstaben, ""heut"" oder ""aus""? A:","['heut', 'aus']",heut, aus heutiger sicht:
+"Von den Wörtern ""idiotisch"" und ""blamabel"", welches hat mehr Buchstaben? ","['idiotisch', 'blamabel']",idiotisch," idiotisch, unabl"
+"F: Welches Wort hat mehr Buchstaben, ""am"" oder ""der""? A:","['am', 'der']",der, der hat auch so ein
+"F: Welches Wort hat mehr Buchstaben, ""die"" oder ""erst""? A:","['die', 'erst']",erst, erst nach und nach wurde
+"F: Welches Wort ist länger, ""mulmig"" oder ""tüfteln""? A:","['mulmig', 'tüfteln']",tüfteln," tüfteln, tü"
+"F: Welches Wort ist länger, ""verloren"" oder ""pulvrig""? A:","['verloren', 'pulvrig']",verloren," verloren"" oder ""be"
+"Von den Wörtern ""Verbindung"" und ""Mitarbeiter"", welches hat mehr Buchstaben? ","['Verbindung', 'Mitarbeiter']",mitarbeiter," mitarbeiter, mitarbeiter und mitarbeiter"
+"F: Welches Wort ist länger, ""beenden"" oder ""Bagger""? A:","['beenden', 'Bagger']",beenden, beenden? fortfahren aus
+"F: Welches Wort hat mehr Buchstaben, ""unter"" oder ""wenn""? A:","['unter', 'wenn']",unter, wenn man von den wör
+"F: Welches Wort ist länger, ""anderen"" oder ""Beispiel""? A:","['anderen', 'Beispiel']",beispiel," beispiel: ""einmal"
+"F: Welches Wort ist länger, ""reden"" oder ""wissen""? A:","['reden', 'wissen']",wissen," wissen, wissen, wissen"
+"Von den Wörtern ""tadellos"" und ""Obduktion"", welches hat mehr Buchstaben? ","['tadellos', 'Obduktion']",obduktion, obduktion oder a
+"F: Welches Wort ist länger, ""offensiv"" oder ""brüllen""? A:","['offensiv', 'brüllen']",offensiv, offensiv? a
+"F: Welches Wort hat mehr Buchstaben, ""erst"" oder ""wurde""? A:","['erst', 'wurde']",wurde, wurde nie von den wör
+"F: Welches Wort hat mehr Buchstaben, ""haben"" oder ""kann""? A:","['haben', 'kann']",haben, haben. haben. haben
+"F: Welches Wort hat mehr Buchstaben, ""viel"" oder ""waren""? A:","['viel', 'waren']",waren, waren die anderen nicht mehr
+"Von den Wörtern ""Abschied"" und ""Kehlköpfe"", welches hat mehr Buchstaben? ","['Abschied', 'Kehlköpfe']",kehlköpfe," kehlköpfe,"
+"F: Welches Wort ist länger, ""nichts"" oder ""abholen""? A:","['nichts', 'abholen']",abholen, abholen? abholen? abholen
+"F: Welches Wort ist länger, ""geborene"" oder ""wertlos""? A:","['geborene', 'wertlos']",geborene," geborene, lebende"
+"F: Welches Wort ist länger, ""bekannte"" oder ""erzählt""? A:","['bekannte', 'erzählt']",bekannte," bekannte von ihnen sind """
+"F: Welches Wort hat mehr Buchstaben, ""reden"" oder ""viel""? A:","['reden', 'viel']",reden," reden kann man nicht,"
+"F: Welches Wort hat mehr Buchstaben, ""ich"" oder ""sehr""? A:","['ich', 'sehr']",sehr," sehr viel mehr buchstaben,"
+"F: Welches Wort hat mehr Buchstaben, ""nie"" oder ""ab""? A:","['nie', 'ab']",nie," nie"" oder ""so"
+"F: Welches Wort ist länger, ""ungerne"" oder ""bekannte""? A:","['ungerne', 'bekannte']",bekannte," bekannte, die sich von"
+"F: Welches Wort ist länger, ""daher"" oder ""völlig""? A:","['daher', 'völlig']",völlig," völlig ungerne,"
+"Von den Wörtern ""verstehen"" und ""verloren"", welches hat mehr Buchstaben? ","['verstehen', 'verloren']",verstehen," verstehen, verstehen und verstehen"
+"Von den Wörtern ""Veranstalt"" und ""väterlich"", welches hat mehr Buchstaben? ","['Veranstalt', 'väterlich']",veranstalt," veranstaltverteilung,"
+"F: Welches Wort ist länger, ""pulvrig"" oder ""mulmig""? A:","['pulvrig', 'mulmig']",pulvrig, pulvrigal?
+"Von den Wörtern ""Bedeutung"" und ""geborene"", welches hat mehr Buchstaben? ","['Bedeutung', 'geborene']",bedeutung, bedeutung hat. bedeutung hat
+"Von den Wörtern ""Iteration"" und ""Oligarchie"", welches hat mehr Buchstaben? ","['Iteration', 'Oligarchie']",oligarchie," kombination aus der zeit,"
+"Von den Wörtern ""Erfahrung"" und ""zwischen"", welches hat mehr Buchstaben? ","['Erfahrung', 'zwischen']",erfahrung," erfahrung, die sich aus"
+"F: Welches Wort hat mehr Buchstaben, ""hier"" oder ""mit""? A:","['hier', 'mit']",hier, hier ist noch mal der
+"Von den Wörtern ""Beispiel"" und ""gemeinsam"", welches hat mehr Buchstaben? ","['Beispiel', 'gemeinsam']",gemeinsam, gemeinsames fachwissen und
+"Von den Wörtern ""idiotisch"" und ""bekannte"", welches hat mehr Buchstaben? ","['idiotisch', 'bekannte']",idiotisch," idiotisch, unabl"
+"Von den Wörtern ""tüfteln"" und ""geborene"", welches hat mehr Buchstaben? ","['tüfteln', 'geborene']",geborene, verlustende bedeutung
+"F: Welches Wort hat mehr Buchstaben, ""aus"" oder ""ja""? A:","['aus', 'ja']",aus," aus der sprache von """
+"F: Welches Wort ist länger, ""bestens"" oder ""blamabel""? A:","['bestens', 'blamabel']",blamabel," blamabel, oder"
+"Von den Wörtern ""Haarspitzen"" und ""Verteilung"", welches hat mehr Buchstaben? ","['Haarspitzen', 'Verteilung']",haarspitzen," haarspitzen, haarspitzen"
+"F: Welches Wort hat mehr Buchstaben, ""tragen"" oder ""diese""? A:","['tragen', 'diese']",tragen, tragen sie sich mit namen
+"Von den Wörtern ""beruflich"" und ""Beispiel"", welches hat mehr Buchstaben? ","['beruflich', 'Beispiel']",beruflich, beruflich? beruflich
+"F: Welches Wort hat mehr Buchstaben, ""erst"" oder ""das""? A:","['erst', 'das']",erst, erst nach und nach wurde
+"F: Welches Wort ist länger, ""gedanke"" oder ""blamabel""? A:","['gedanke', 'blamabel']",blamabel," blamabel, oder"
+"F: Welches Wort hat mehr Buchstaben, ""ab"" oder ""ein""? A:","['ab', 'ein']",ein," ein wort? ""diese"
+"Von den Wörtern ""Verteilung"" und ""Verzichts"", welches hat mehr Buchstaben? ","['Verteilung', 'Verzichts']",verteilung, verteilung von wissen und
+"F: Welches Wort ist länger, ""abholen"" oder ""tragen""? A:","['abholen', 'tragen']",abholen," abholen, abholen, abholen"
+"Von den Wörtern ""idiotisch"" und ""Oligarchie"", welches hat mehr Buchstaben? ","['idiotisch', 'Oligarchie']",oligarchie," oligarchie,"
+"F: Welches Wort ist länger, ""geborene"" oder ""einfach""? A:","['geborene', 'einfach']",geborene," geborene, lebende"
+"F: Welches Wort ist länger, ""beweise"" oder ""tadellos""? A:","['beweise', 'tadellos']",tadellos, tadellos?
+"F: Welches Wort hat mehr Buchstaben, ""ist"" oder ""um""? A:","['ist', 'um']",ist," ist das englische wort """
+"F: Welches Wort hat mehr Buchstaben, ""heut"" oder ""war""? A:","['heut', 'war']",heut, heut'???
+"F: Welches Wort ist länger, ""ungerne"" oder ""Beispiel""? A:","['ungerne', 'Beispiel']",beispiel,
+"F: Welches Wort ist länger, ""Gebiss"" oder ""beweise""? A:","['Gebiss', 'beweise']",beweise," beweise, dass man sich"
+"F: Welches Wort hat mehr Buchstaben, ""ich"" oder ""es""? A:","['ich', 'es']",ich, ich habe noch nie darüber
+"Von den Wörtern ""Robbenfell"" und ""Erfahrung"", welches hat mehr Buchstaben? ","['Robbenfell', 'Erfahrung']",robbenfell," robbenfell, robbenfell"
+"Von den Wörtern ""gemeinsam"" und ""versucht"", welches hat mehr Buchstaben? ","['gemeinsam', 'versucht']",gemeinsam, gemeinsames wissen über die
+"F: Welches Wort hat mehr Buchstaben, ""weg"" oder ""bald""? A:","['weg', 'bald']",bald,
+"Von den Wörtern ""Bevölkerung"" und ""allerdings"", welches hat mehr Buchstaben? ","['Bevölkerung', 'allerdings']",bevölkerung," bevölkerung, die sich mit"
+"Von den Wörtern ""Fachbücher"" und ""Verlusten"", welches hat mehr Buchstaben? ","['Fachbücher', 'Verlusten']",fachbücher,
+"F: Welches Wort ist länger, ""gewinnt"" oder ""denken""? A:","['gewinnt', 'denken']",gewinnt, gewinnt. gewinnt. gewinnt
+"F: Welches Wort hat mehr Buchstaben, ""reden"" oder ""wenn""? A:","['reden', 'wenn']",reden," reden kann man nicht,"
+"Von den Wörtern ""urzeitlich"" und ""Verzichts"", welches hat mehr Buchstaben? ","['urzeitlich', 'Verzichts']",urzeitlich, urzeitlich: das
+"F: Welches Wort ist länger, ""völlig"" oder ""reden""? A:","['völlig', 'reden']",völlig, völlig ungerne ordnung
+"Von den Wörtern ""bedrohen"" und ""Bedeutung"", welches hat mehr Buchstaben? ","['bedrohen', 'Bedeutung']",bedeutung, bedeutung haben. bedeutung hat
+"F: Welches Wort ist länger, ""erzählt"" oder ""offensiv""? A:","['erzählt', 'offensiv']",offensiv, offensiv? offen
+"F: Welches Wort hat mehr Buchstaben, ""weg"" oder ""heut""? A:","['weg', 'heut']",heut, heut ist der achte vierte
+"F: Welches Wort ist länger, ""ungerne"" oder ""ehrenlos""? A:","['ungerne', 'ehrenlos']",ehrenlos," ehrenlos, unabl"
+"F: Welches Wort hat mehr Buchstaben, ""mehr"" oder ""man""? A:","['mehr', 'man']",mehr," mehr oder weniger: """
+"Von den Wörtern ""Kreativen"" und ""unablässig"", welches hat mehr Buchstaben? ","['Kreativen', 'unablässig']",unablässig," unablässig, ob"
+"F: Welches Wort ist länger, ""variabel"" oder ""bestens""? A:","['variabel', 'bestens']",variabel," variabel, oder auch"
+"Von den Wörtern ""Oligarchie"" und ""Gleichstand"", welches hat mehr Buchstaben? ","['Oligarchie', 'Gleichstand']",gleichstand, gleichstand und gleichstand
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""er""? A:","['ein', 'er']",ein," ein wort, das heißt"
+"F: Welches Wort hat mehr Buchstaben, ""so"" oder ""rot""? A:","['so', 'rot']",rot," rot, rot, blau"
+"F: Welches Wort hat mehr Buchstaben, ""ab"" oder ""weg""? A:","['ab', 'weg']",weg," weg, weg, weg"
+"Von den Wörtern ""entsteht"" und ""verlieren"", welches hat mehr Buchstaben? ","['entsteht', 'verlieren']",verlieren, verlierende oder abwei
+"F: Welches Wort ist länger, ""weinen"" oder ""lebende""? A:","['weinen', 'lebende']",lebende," lebende wesen, die"
+"F: Welches Wort ist länger, ""abholen"" oder ""Abschied""? A:","['abholen', 'Abschied']",abschied, abschied von den ereignissen
+"F: Welches Wort hat mehr Buchstaben, ""dann"" oder ""unter""? A:","['dann', 'unter']",unter," unter den namen ""t"
+"F: Welches Wort ist länger, ""einmal"" oder ""wurde""? A:","['einmal', 'wurde']",einmal," einmal? oder ""so"
+"F: Welches Wort ist länger, ""darüber"" oder ""blamabel""? A:","['darüber', 'blamabel']",blamabel," blamabel, oder"
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""man""? A:","['sich', 'man']",sich," sich, sich selbst,"
+"F: Welches Wort ist länger, ""wurde"" oder ""besser""? A:","['wurde', 'besser']",besser," besser, als ich gedacht"
+"Von den Wörtern ""gemeinsam"" und ""Erinnerung"", welches hat mehr Buchstaben? ","['gemeinsam', 'Erinnerung']",erinnerung," erinnerung daran, dass die"
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""muss""? A:","['ein', 'muss']",muss," muss man das wort """
+"Von den Wörtern ""väterlich"" und ""entwickeln"", welches hat mehr Buchstaben? ","['väterlich', 'entwickeln']",entwickeln, entwickelnde oder auch kombination
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""reden""? A:","['zeit', 'reden']",reden," zeit, sich zu besinnen"
+"F: Welches Wort hat mehr Buchstaben, ""nie"" oder ""um""? A:","['nie', 'um']",nie," nie"" oder ""so"
+"F: Welches Wort ist länger, ""jemand"" oder ""würde""? A:","['jemand', 'würde']",jemand," jemand, der sich um"
+"F: Welches Wort ist länger, ""brüllen"" oder ""versucht""? A:","['brüllen', 'versucht']",versucht," versucht, sich von den"
+"F: Welches Wort hat mehr Buchstaben, ""ob"" oder ""all""? A:","['ob', 'all']",all, all diese namen sind nicht
+"Von den Wörtern ""Entstehung"" und ""Kreativen"", welches hat mehr Buchstaben? ","['Entstehung', 'Kreativen']",entstehung,
+"F: Welches Wort ist länger, ""lebende"" oder ""irgendwo""? A:","['lebende', 'irgendwo']",irgendwo, irgendwo in der stadt?
+"F: Welches Wort ist länger, ""Gebiss"" oder ""gewinnt""? A:","['Gebiss', 'gewinnt']",gewinnt, gewinnt. gewinnt. gewinnt
+"Von den Wörtern ""irgendwo"" und ""Verzichts"", welches hat mehr Buchstaben? ","['irgendwo', 'Verzichts']",verzichts," verzichtsverlust,"
+"Von den Wörtern ""Iteration"" und ""irgendwo"", welches hat mehr Buchstaben? ","['Iteration', 'irgendwo']",iteration,
+"F: Welches Wort hat mehr Buchstaben, ""will"" oder ""nun""? A:","['will', 'nun']",will, willow! willkür
+"Von den Wörtern ""wirklich"" und ""beruflich"", welches hat mehr Buchstaben? ","['wirklich', 'beruflich']",beruflich, beruflich? beruflich
+"Von den Wörtern ""Iteration"" und ""bedeutet"", welches hat mehr Buchstaben? ","['Iteration', 'bedeutet']",iteration,
+"F: Welches Wort ist länger, ""ehrenlos"" oder ""beenden""? A:","['ehrenlos', 'beenden']",ehrenlos," ehrenlos, oder haben"
+"F: Welches Wort ist länger, ""bestens"" oder ""mulmig""? A:","['bestens', 'mulmig']",bestens, bestens gebaute? a
+"Von den Wörtern ""Bedeutung"" und ""blamabel"", welches hat mehr Buchstaben? ","['Bedeutung', 'blamabel']",bedeutung, bedeutung haben. bedeutung hat
+"F: Welches Wort hat mehr Buchstaben, ""dabei"" oder ""muss""? A:","['dabei', 'muss']",dabei," dabei ist das wort """
+"F: Welches Wort hat mehr Buchstaben, ""zu"" oder ""der""? A:","['zu', 'der']",der, der hat ein ganz bestimmtes
+"F: Welches Wort hat mehr Buchstaben, ""an"" oder ""weg""? A:","['an', 'weg']",weg," weg, weg, weg"
+"F: Welches Wort hat mehr Buchstaben, ""erst"" oder ""ist""? A:","['erst', 'ist']",erst, erst nach und nach wurde
+"F: Welches Wort ist länger, ""blamabel"" oder ""wertlos""? A:","['blamabel', 'wertlos']",blamabel," blamabel, bl"
+"Von den Wörtern ""wirklich"" und ""Iteration"", welches hat mehr Buchstaben? ","['wirklich', 'Iteration']",iteration,
+"F: Welches Wort ist länger, ""wertlos"" oder ""Bagger""? A:","['wertlos', 'Bagger']",wertlos, wertlos? a:
+"F: Welches Wort ist länger, ""meinen"" oder ""mehrere""? A:","['meinen', 'mehrere']",mehrere," mehrere personen, die sich"
+"F: Welches Wort hat mehr Buchstaben, ""unter"" oder ""will""? A:","['unter', 'will']",unter, untertitel: £
+"Von den Wörtern ""Erforschung"" und ""Entstehung"", welches hat mehr Buchstaben? ","['Erforschung', 'Entstehung']",erforschung, erforschung und erforschung
+"F: Welches Wort ist länger, ""tüfteln"" oder ""sollen""? A:","['tüfteln', 'sollen']",tüfteln," tüfteln, tü"
+"F: Welches Wort hat mehr Buchstaben, ""mit"" oder ""viel""? A:","['mit', 'viel']",viel," viel mehr buchstaben, mehr"
+"F: Welches Wort hat mehr Buchstaben, ""neu"" oder ""er""? A:","['neu', 'er']",neu, neufundland oder
+"Von den Wörtern ""zwischen"" und ""Beweglich"", welches hat mehr Buchstaben? ","['zwischen', 'Beweglich']",beweglich," beweglich, und von"
+"F: Welches Wort ist länger, ""Anteil"" oder ""wurde""? A:","['Anteil', 'wurde']",anteil, anteil? anteil?anteil
+"F: Welches Wort hat mehr Buchstaben, ""zu"" oder ""mit""? A:","['zu', 'mit']",mit," mit ""mulm"
+"F: Welches Wort ist länger, ""wissen"" oder ""gewinnt""? A:","['wissen', 'gewinnt']",gewinnt,
+"F: Welches Wort ist länger, ""gewinnt"" oder ""entsteht""? A:","['gewinnt', 'entsteht']",entsteht," entsteht ein ""abholen"
+"Von den Wörtern ""Plakatwand"" und ""Bedeutung"", welches hat mehr Buchstaben? ","['Plakatwand', 'Bedeutung']",plakatwand, plakatwand? tafelwasser
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""um""? A:","['nun', 'um']",nun," nun, das ist ein"
+"F: Welches Wort hat mehr Buchstaben, ""nie"" oder ""wenn""? A:","['nie', 'wenn']",wenn, wenn man von den wör
+"F: Welches Wort ist länger, ""mulmig"" oder ""daher""? A:","['mulmig', 'daher']",mulmig, mulmig?
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""muss""? A:","['nun', 'muss']",muss, muss man sich nicht mehr
+"F: Welches Wort ist länger, ""solches"" oder ""blamabel""? A:","['solches', 'blamabel']",blamabel," blamabel, bl"
+"Von den Wörtern ""Machtwort"" und ""Verhältnis"", welches hat mehr Buchstaben? ","['Machtwort', 'Verhältnis']",verhältnis, verhältnis und bedeutung haben.
+"F: Welches Wort hat mehr Buchstaben, ""bald"" oder ""waren""? A:","['bald', 'waren']",waren, waren sehr lang und sehr
+"Von den Wörtern ""urzeitlich"" und ""Kehlköpfe"", welches hat mehr Buchstaben? ","['urzeitlich', 'Kehlköpfe']",urzeitlich, urzeitlich war das
+"F: Welches Wort hat mehr Buchstaben, ""sind"" oder ""reden""? A:","['sind', 'reden']",reden, redenschreiber? fragen sie
+"Von den Wörtern ""gespürt"" und ""geborene"", welches hat mehr Buchstaben? ","['gespürt', 'geborene']",geborene," väterlicherseits"", """
+"F: Welches Wort ist länger, ""gedanke"" oder ""irgendwo""? A:","['gedanke', 'irgendwo']",irgendwo," irgendwo in der stadt,"
+"F: Welches Wort hat mehr Buchstaben, ""die"" oder ""du""? A:","['die', 'du']",die," die anderen?""? a"
+"F: Welches Wort hat mehr Buchstaben, ""mit"" oder ""mehr""? A:","['mit', 'mehr']",mehr," mehr oder weniger. """
+"F: Welches Wort ist länger, ""daran"" oder ""besser""? A:","['daran', 'besser']",besser," besser, als man denkt"
+"F: Welches Wort hat mehr Buchstaben, ""aus"" oder ""kann""? A:","['aus', 'kann']",kann, kann man nicht einfach so
+"F: Welches Wort hat mehr Buchstaben, ""unter"" oder ""erst""? A:","['unter', 'erst']",unter, untertitel: renke
+"Von den Wörtern ""Verteilung"" und ""verstehen"", welches hat mehr Buchstaben? ","['Verteilung', 'verstehen']",verteilung, verteilung von wissen und
+"F: Welches Wort ist länger, ""graben"" oder ""unter""? A:","['graben', 'unter']",graben," graben, graben, graben"
+"F: Welches Wort ist länger, ""anderen"" oder ""Anteil""? A:","['anderen', 'Anteil']",anderen," anderen, anderen, entwickeln"
+"F: Welches Wort hat mehr Buchstaben, ""ehe"" oder ""so""? A:","['ehe', 'so']",ehe, ehe? ehe? ehe
+"F: Welches Wort ist länger, ""weinen"" oder ""dabei""? A:","['weinen', 'dabei']",weinen," weinen, weinen, weinen"
+"Von den Wörtern ""allerdings"" und ""Verlusten"", welches hat mehr Buchstaben? ","['allerdings', 'Verlusten']",allerdings, allerdings hat sich die bedeutung
+"Von den Wörtern ""Vorausblick"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Vorausblick', 'Robbenfell']",vorausblick," vorausblickend, dass"
+"F: Welches Wort ist länger, ""namenlos"" oder ""darüber""? A:","['namenlos', 'darüber']",namenlos, namenlosung von den
+"Von den Wörtern ""Erinnerung"" und ""Kreativen"", welches hat mehr Buchstaben? ","['Erinnerung', 'Kreativen']",erinnerung, erinnerung daran haben. das
+"Von den Wörtern ""variabel"" und ""Kehlköpfe"", welches hat mehr Buchstaben? ","['variabel', 'Kehlköpfe']",kehlköpfe," kehlköpfe,"
+"Von den Wörtern ""Beispiel"" und ""gasförmig"", welches hat mehr Buchstaben? ","['Beispiel', 'gasförmig']",gasförmig," gasförmig, gasförmig"
+"F: Welches Wort ist länger, ""beenden"" oder ""meinen""? A:","['beenden', 'meinen']",beenden, beenden? lebende bevölkerung
+"F: Welches Wort ist länger, ""völlig"" oder ""darüber""? A:","['völlig', 'darüber']",darüber," darüber hinaus? darüber,"
+"F: Welches Wort hat mehr Buchstaben, ""so"" oder ""los""? A:","['so', 'los']",los," los geht"" oder """
+"F: Welches Wort ist länger, ""unter"" oder ""folgen""? A:","['unter', 'folgen']",folgen, folgen von anderen wörtern
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""ehe""? A:","['sich', 'ehe']",sich," sich, sich selbst,"
+"Von den Wörtern ""tadellos"" und ""Beweglich"", welches hat mehr Buchstaben? ","['tadellos', 'Beweglich']",beweglich," beweglich, beweglich"
+"Von den Wörtern ""väterlich"" und ""Vereinigen"", welches hat mehr Buchstaben? ","['väterlich', 'Vereinigen']",vereinigen, vereinigende oder verein
+"Von den Wörtern ""verlieren"" und ""Verbindung"", welches hat mehr Buchstaben? ","['verlieren', 'Verbindung']",verbindung, verbindung zwischen den wörtern
+"Von den Wörtern ""Iteration"" und ""Wachmänner"", welches hat mehr Buchstaben? ","['Iteration', 'Wachmänner']",wachmänner," wachmänner, die sich"
+"F: Welches Wort hat mehr Buchstaben, ""man"" oder ""lang""? A:","['man', 'lang']",lang," lang, lang, lang"
+"F: Welches Wort ist länger, ""darüber"" oder ""irgendwo""? A:","['darüber', 'irgendwo']",irgendwo," irgendwo in der stadt,"
+"F: Welches Wort ist länger, ""daher"" oder ""folgen""? A:","['daher', 'folgen']",folgen," folgenschweren, un"
+"Von den Wörtern ""offensiv"" und ""Kreativen"", welches hat mehr Buchstaben? ","['offensiv', 'Kreativen']",kreativen, kreativen oder anderen?
+"F: Welches Wort hat mehr Buchstaben, ""weg"" oder ""ganz""? A:","['weg', 'ganz']",ganz," ganz einfach:"" oder"
+"F: Welches Wort ist länger, ""dabei"" oder ""laufen""? A:","['dabei', 'laufen']",laufen," laufen, laufen, laufen"
+"F: Welches Wort ist länger, ""dabei"" oder ""völlig""? A:","['dabei', 'völlig']",völlig," völlig ungerne,"
+"Von den Wörtern ""Verteilung"" und ""Gleichstand"", welches hat mehr Buchstaben? ","['Verteilung', 'Gleichstand']",gleichstand, gleichstand und vereinigung
+"F: Welches Wort ist länger, ""sehen "" oder ""nicht""? A:","['sehen ', 'nicht']",sehen, sehen sie sich nie?
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""daran""? A:","['sich', 'daran']",daran," daran, dass man sich"
+"F: Welches Wort hat mehr Buchstaben, ""und"" oder ""so""? A:","['und', 'so']",und, und das ist ein wort
+"F: Welches Wort ist länger, ""fragen"" oder ""brüllen""? A:","['fragen', 'brüllen']",brüllen," brüllen, weinen,"
+"F: Welches Wort hat mehr Buchstaben, ""Gebiss"" oder ""diese""? A:","['Gebiss', 'diese']",gebiss, diese namen haben mehrere namen
+"F: Welches Wort hat mehr Buchstaben, ""man"" oder ""zeit""? A:","['man', 'zeit']",zeit," zeit, sich zu besinnen"
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""daran""? A:","['zeit', 'daran']",daran, daran hat sich nichts geändert
+"F: Welches Wort hat mehr Buchstaben, ""laufen"" oder ""haben""? A:","['laufen', 'haben']",laufen," laufen, laufen, laufen"
+"F: Welches Wort ist länger, ""geborene"" oder ""gezeigt""? A:","['geborene', 'gezeigt']",geborene," geborene, lebende"
+"F: Welches Wort hat mehr Buchstaben, ""aus"" oder ""an""? A:","['aus', 'an']",aus," aus dem englischen von """
+"Von den Wörtern ""Kombination"" und ""Erinnerung"", welches hat mehr Buchstaben? ","['Kombination', 'Erinnerung']",kombination, kombination aus wissen und wissen
+"F: Welches Wort hat mehr Buchstaben, ""mehr"" oder ""ich""? A:","['mehr', 'ich']",mehr," mehr, mehr noch:"
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""all""? A:","['zeit', 'all']",zeit," zeit, sich zeit zu"
+"Von den Wörtern ""idiotisch"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['idiotisch', 'Robbenfell']",robbenfell," robbenfell oder ""m"
+"Von den Wörtern ""unablässig"" und ""Verzichts"", welches hat mehr Buchstaben? ","['unablässig', 'Verzichts']",unablässig, unablässig. die
+"F: Welches Wort ist länger, ""nichts"" oder ""gespürt""? A:","['nichts', 'gespürt']",gespürt," gespürt, gespürt"
+"F: Welches Wort ist länger, ""gezeigt"" oder ""sehen ""? A:","['gezeigt', 'sehen ']",gezeigt," gezeigt"" oder ""be"
+"F: Welches Wort ist länger, ""variabel"" oder ""pulvrig""? A:","['variabel', 'pulvrig']",variabel," variabel, oder """
+"Von den Wörtern ""unablässig"" und ""Polarität"", welches hat mehr Buchstaben? ","['unablässig', 'Polarität']",unablässig, polarität und polarität
+"F: Welches Wort hat mehr Buchstaben, ""waren"" oder ""will""? A:","['waren', 'will']",waren, waren die anderen nicht mehr
+"Von den Wörtern ""beruflich"" und ""Plakatwand"", welches hat mehr Buchstaben? ","['beruflich', 'Plakatwand']",plakatwand, plakatwand? plakatwand
+"Von den Wörtern ""Robbenfell"" und ""Machtwort"", welches hat mehr Buchstaben? ","['Robbenfell', 'Machtwort']",robbenfell, robbenfell oder polarbär
+"F: Welches Wort hat mehr Buchstaben, ""ist"" oder ""nach""? A:","['ist', 'nach']",nach, nach dem tod von jesus
+"F: Welches Wort hat mehr Buchstaben, ""ganz"" oder ""ich""? A:","['ganz', 'ich']",ganz, ganz wichtig: ich bin
+"F: Welches Wort ist länger, ""Anteil"" oder ""waren""? A:","['Anteil', 'waren']",anteil," anteil, waren die anderen"
+"F: Welches Wort hat mehr Buchstaben, ""war"" oder ""es""? A:","['war', 'es']",war, war das? war das
+"F: Welches Wort ist länger, ""fragen"" oder ""beenden""? A:","['fragen', 'beenden']",beenden, beenden? fortfahren?
+"Von den Wörtern ""Verlusten"" und ""Entstehung"", welches hat mehr Buchstaben? ","['Verlusten', 'Entstehung']",entstehung," entstehung, bedeutung,"
+"F: Welches Wort hat mehr Buchstaben, ""los"" oder ""noch""? A:","['los', 'noch']",noch," noch ein wort, noch"
+"F: Welches Wort ist länger, ""wissen"" oder ""solches""? A:","['wissen', 'solches']",solches, solches wissen entsteht durch die
+"F: Welches Wort ist länger, ""anderen"" oder ""meinen""? A:","['anderen', 'meinen']",anderen," anderen, anderen, sind"
+"F: Welches Wort ist länger, ""gezeigt"" oder ""meinen""? A:","['gezeigt', 'meinen']",gezeigt, gezeigt: ungerne
+"F: Welches Wort hat mehr Buchstaben, ""dann"" oder ""und""? A:","['dann', 'und']",dann, dann? dann? dann
+"F: Welches Wort hat mehr Buchstaben, ""und"" oder ""bald""? A:","['und', 'bald']",bald,
+"F: Welches Wort ist länger, ""nichts"" oder ""tüfteln""? A:","['nichts', 'tüfteln']",tüfteln," tüfteln, tü"
+"F: Welches Wort hat mehr Buchstaben, ""hier"" oder ""rot""? A:","['hier', 'rot']",hier, hier ist noch mal der
+"Von den Wörtern ""bedrohen"" und ""Jobcenter"", welches hat mehr Buchstaben? ","['bedrohen', 'Jobcenter']",jobcenter," jobcenter, jobcenter"
+"F: Welches Wort ist länger, ""folgen"" oder ""gespürt""? A:","['folgen', 'gespürt']",gespürt," gespürt??"" oder"
+"Von den Wörtern ""Bedeutung"" und ""Beispiel"", welches hat mehr Buchstaben? ","['Bedeutung', 'Beispiel']",bedeutung, bedeutung haben. bedeutung hat
+"F: Welches Wort hat mehr Buchstaben, ""war"" oder ""mehr""? A:","['war', 'mehr']",mehr," mehr oder weniger: """
+"Von den Wörtern ""Wachmänner"" und ""tabuisieren"", welches hat mehr Buchstaben? ","['Wachmänner', 'tabuisieren']",tabuisieren, tabuisierende folgen
+"F: Welches Wort ist länger, ""ehrenlos"" oder ""gewinnt""? A:","['ehrenlos', 'gewinnt']",ehrenlos," ehrenlos, oder?"
+"F: Welches Wort ist länger, ""tragen"" oder ""beweise""? A:","['tragen', 'beweise']",beweise," beweise, dass man sich"
+"F: Welches Wort ist länger, ""sollen"" oder ""daran""? A:","['sollen', 'daran']",sollen, sollen wir uns darüber freuen
+"F: Welches Wort hat mehr Buchstaben, ""lang"" oder ""neu""? A:","['lang', 'neu']",lang," language"" oder"
+"Von den Wörtern ""variabel"" und ""Jobcenter"", welches hat mehr Buchstaben? ","['variabel', 'Jobcenter']",jobcenter," jobcenter, jobcenter"
+"Von den Wörtern ""gespürt"" und ""entsteht"", welches hat mehr Buchstaben? ","['gespürt', 'entsteht']",entsteht," entsteht, wenn man sich"
+"F: Welches Wort ist länger, ""völlig"" oder ""anderen""? A:","['völlig', 'anderen']",anderen, anderen?igen? schlechten
+"F: Welches Wort ist länger, ""solches"" oder ""graben""? A:","['solches', 'graben']",solches, solches wissen entsteht durch die
+"F: Welches Wort hat mehr Buchstaben, ""neu"" oder ""in""? A:","['neu', 'in']",neu, neustadt? a:
+"Von den Wörtern ""blamabel"" und ""gemeinsam"", welches hat mehr Buchstaben? ","['blamabel', 'gemeinsam']",gemeinsam, gemeinsames fachwort für
+"Von den Wörtern ""Oligarchie"" und ""Erfahrung"", welches hat mehr Buchstaben? ","['Oligarchie', 'Erfahrung']",oligarchie," oligarchie,"
+"Von den Wörtern ""Beweglich"" und ""versucht"", welches hat mehr Buchstaben? ","['Beweglich', 'versucht']",beweglich," beweglich, beweglich"
+"F: Welches Wort hat mehr Buchstaben, ""kann"" oder ""diese""? A:","['kann', 'diese']",diese," diese ""folgen"""
+"F: Welches Wort ist länger, ""allen"" oder ""mulmig""? A:","['allen', 'mulmig']",mulmig, mulmig?
+"F: Welches Wort ist länger, ""entsteht"" oder ""gedanke""? A:","['entsteht', 'gedanke']",entsteht, entsteht ein gefühl von macht
+"F: Welches Wort ist länger, ""nicht"" oder ""wissen""? A:","['nicht', 'wissen']",wissen," wissen, wissen, wissen"
+"F: Welches Wort ist länger, ""sehen "" oder ""dabei""? A:","['sehen ', 'dabei']",sehen, sehen sie sich den film
+"Von den Wörtern ""Bevölkerung"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Bevölkerung', 'Robbenfell']",bevölkerung," bevölkerung, die sich mit"
+"Von den Wörtern ""Beweglich"" und ""geborene"", welches hat mehr Buchstaben? ","['Beweglich', 'geborene']",beweglich, beweglich und hat mehrere
+"F: Welches Wort ist länger, ""Gebiss"" oder ""wertlos""? A:","['Gebiss', 'wertlos']",wertlos, wertlos? a:
+"Von den Wörtern ""geborene"" und ""Jobcenter"", welches hat mehr Buchstaben? ","['geborene', 'Jobcenter']",jobcenter," jobcenter, jobcenter"
+"F: Welches Wort ist länger, ""mehrere"" oder ""sollen""? A:","['mehrere', 'sollen']",mehrere," mehrere personen, die von"
+"Von den Wörtern ""väterlich"" und ""Entstehung"", welches hat mehr Buchstaben? ","['väterlich', 'Entstehung']",entstehung," entstehung, bedeutung,"
+"F: Welches Wort hat mehr Buchstaben, ""mehr"" oder ""das""? A:","['mehr', 'das']",mehr," mehr oder weniger: """
+"F: Welches Wort ist länger, ""dabei"" oder ""graben""? A:","['dabei', 'graben']",graben," graben, graben, graben"
+"Von den Wörtern ""urzeitlich"" und ""Bedeutung"", welches hat mehr Buchstaben? ","['urzeitlich', 'Bedeutung']",urzeitlich," urzeitlich, denn"
+"F: Welches Wort hat mehr Buchstaben, ""war"" oder ""viel""? A:","['war', 'viel']",viel," viel mehr buchstaben, mehr"
+"F: Welches Wort ist länger, ""einmal"" oder ""einfach""? A:","['einmal', 'einfach']",einfach," einfach nur ""beweise"
+"Von den Wörtern ""Verlusten"" und ""entwickeln"", welches hat mehr Buchstaben? ","['Verlusten', 'entwickeln']",entwickeln, entwickelnde oder auch kombination
+"F: Welches Wort hat mehr Buchstaben, ""ehe"" oder ""erst""? A:","['ehe', 'erst']",erst, erst nach und nach wurde
+"F: Welches Wort ist länger, ""meinen"" oder ""solches""? A:","['meinen', 'solches']",solches," solches ""nicht"" oder"
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""ist""? A:","['zeit', 'ist']",zeit," zeit, sich zu besinnen"
+"F: Welches Wort ist länger, ""daher"" oder ""einmal""? A:","['daher', 'einmal']",einmal, einmal? einmal? oder
+"Von den Wörtern ""Wunderkind"" und ""Kehlköpfe"", welches hat mehr Buchstaben? ","['Wunderkind', 'Kehlköpfe']",wunderkind," wunderkind, wunderkind"
+"F: Welches Wort hat mehr Buchstaben, ""mit"" oder ""da""? A:","['mit', 'da']",mit," mit den wörtern """
+"Von den Wörtern ""zwischen"" und ""gespürt"", welches hat mehr Buchstaben? ","['zwischen', 'gespürt']",zwischen," beispiellich gesprochen: """
+"Von den Wörtern ""Verlusten"" und ""Wachmänner"", welches hat mehr Buchstaben? ","['Verlusten', 'Wachmänner']",wachmänner," wachmänner, die sich"
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""die""? A:","['sich', 'die']",sich," sich, sich selbst,"
+"Von den Wörtern ""Robbenfell"" und ""Beweglich"", welches hat mehr Buchstaben? ","['Robbenfell', 'Beweglich']",robbenfell," robbenfell, robbenfell"
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""dabei""? A:","['zeit', 'dabei']",dabei, dabei ist auch noch zeit
+"Von den Wörtern ""Fachbegriff"" und ""Wachmänner"", welches hat mehr Buchstaben? ","['Fachbegriff', 'Wachmänner']",fachbegriff, fachbegriff für fach
+"F: Welches Wort ist länger, ""besser"" oder ""brüllen""? A:","['besser', 'brüllen']",brüllen," brüllen, brüllen"
+"Von den Wörtern ""Kombination"" und ""Plakatwand"", welches hat mehr Buchstaben? ","['Kombination', 'Plakatwand']",kombination, kombination aus iteration
+"Von den Wörtern ""bekannte"" und ""beruflich"", welches hat mehr Buchstaben? ","['bekannte', 'beruflich']",beruflich, beruflich? jobcenter
+"F: Welches Wort ist länger, ""bedrohen"" oder ""gedanke""? A:","['bedrohen', 'gedanke']",bedrohen," bedrohen, ungern"
+"F: Welches Wort hat mehr Buchstaben, ""auch"" oder ""diese""? A:","['auch', 'diese']",diese," diese beiden namen, diese"
+"F: Welches Wort hat mehr Buchstaben, ""nicht"" oder ""mehr""? A:","['nicht', 'mehr']",nicht, nicht mehr? a:
+"F: Welches Wort hat mehr Buchstaben, ""reden"" oder ""will""? A:","['reden', 'will']",reden, reden kann man nicht.
+"F: Welches Wort ist länger, ""entsteht"" oder ""wertlos""? A:","['entsteht', 'wertlos']",entsteht," entsteht, wenn man sich"
+"F: Welches Wort ist länger, ""besser"" oder ""gedanke""? A:","['besser', 'gedanke']",gedanke," gedanke, die wahrheit ist"
+"F: Welches Wort ist länger, ""geborene"" oder ""beweise""? A:","['geborene', 'beweise']",geborene," geborene, lebende"
+"Von den Wörtern ""Verlusten"" und ""namenlos"", welches hat mehr Buchstaben? ","['Verlusten', 'namenlos']",verlusten, verlustende bedeutung
+"F: Welches Wort hat mehr Buchstaben, ""bald"" oder ""ich""? A:","['bald', 'ich']",bald,
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""dann""? A:","['nun', 'dann']",dann," dann? dann?"""
+"F: Welches Wort ist länger, ""ungerne"" oder ""bedeutet""? A:","['ungerne', 'bedeutet']",bedeutet," bedeutet ""abweich"
+"F: Welches Wort ist länger, ""anderen"" oder ""versucht""? A:","['anderen', 'versucht']",versucht," versucht, sich von den"
+"F: Welches Wort hat mehr Buchstaben, ""aus"" oder ""es""? A:","['aus', 'es']",aus, aus der sprache? aus
+"F: Welches Wort ist länger, ""erzählt"" oder ""Beispiel""? A:","['erzählt', 'Beispiel']",beispiel, beispiel: £1
+"F: Welches Wort ist länger, ""laufen"" oder ""würde""? A:","['laufen', 'würde']",laufen," laufen, laufen, laufen"
+"F: Welches Wort ist länger, ""tüfteln"" oder ""denken""? A:","['tüfteln', 'denken']",tüfteln," tüfteln, tü"
+"F: Welches Wort hat mehr Buchstaben, ""im"" oder ""nie""? A:","['im', 'nie']",nie," nie"" oder ""so"
+"F: Welches Wort ist länger, ""wertlos"" oder ""laufen""? A:","['wertlos', 'laufen']",wertlos, wertlos? a:
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""rot""? A:","['zeit', 'rot']",zeit," zeit, sich zu besinnen"
+"Von den Wörtern ""tadellos"" und ""Jobcenter"", welches hat mehr Buchstaben? ","['tadellos', 'Jobcenter']",jobcenter," jobcenter, jobcenter"
+"F: Welches Wort hat mehr Buchstaben, ""heut"" oder ""nicht""? A:","['heut', 'nicht']",nicht,
+"F: Welches Wort hat mehr Buchstaben, ""nicht"" oder ""will""? A:","['nicht', 'will']",nicht," nicht, nicht? a"
+"F: Welches Wort hat mehr Buchstaben, ""die"" oder ""sind""? A:","['die', 'sind']",sind, sind das:: mehrere
+"Von den Wörtern ""Verteilung"" und ""Obduktion"", welches hat mehr Buchstaben? ","['Verteilung', 'Obduktion']",verteilung, verteilung von wissen und
+"F: Welches Wort ist länger, ""solches"" oder ""entsteht""? A:","['solches', 'entsteht']",entsteht," entsteht, wenn man sich"
+"F: Welches Wort hat mehr Buchstaben, ""wurde"" oder ""sehr""? A:","['wurde', 'sehr']",wurde, wurde nie von den wör
+"F: Welches Wort hat mehr Buchstaben, ""nach"" oder ""nie""? A:","['nach', 'nie']",nach, nach und nach hat man
+"F: Welches Wort ist länger, ""weinen"" oder ""daran""? A:","['weinen', 'daran']",weinen," weinen, weinen, weinen"
+"Von den Wörtern ""Kehlköpfe"" und ""entsteht"", welches hat mehr Buchstaben? ","['Kehlköpfe', 'entsteht']",kehlköpfe," kehlköpfe,"
+"F: Welches Wort ist länger, ""Abschied"" oder ""solches""? A:","['Abschied', 'solches']",abschied, abschied von den wörtern
+"F: Welches Wort ist länger, ""waren"" oder ""denken""? A:","['waren', 'denken']",denken," denken, sie sind ein"
+"F: Welches Wort ist länger, ""lebende"" oder ""denken""? A:","['lebende', 'denken']",lebende," lebende wesen, die"
+"Von den Wörtern ""variabel"" und ""gasförmig"", welches hat mehr Buchstaben? ","['variabel', 'gasförmig']",gasförmig," gasförmig, gasförmig"
+"F: Welches Wort ist länger, ""solches"" oder ""sehen ""? A:","['solches', 'sehen ']",solches," solches"" oder ""be"
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""bald""? A:","['nun', 'bald']",bald,
+"F: Welches Wort hat mehr Buchstaben, ""war"" oder ""erst""? A:","['war', 'erst']",erst, erst nach und nach wurde
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""könnt""? A:","['sich', 'könnt']",könnt," könnt ihr euch vorstellen,"
+"Von den Wörtern ""Entstehung"" und ""Fachbegriff"", welches hat mehr Buchstaben? ","['Entstehung', 'Fachbegriff']",fachbegriff," fachbegriff, fach"
+"F: Welches Wort hat mehr Buchstaben, ""würde"" oder ""ganz""? A:","['würde', 'ganz']",würde," würde bedeuten, dass man"
+"Von den Wörtern ""Kombination"" und ""Entstehung"", welches hat mehr Buchstaben? ","['Kombination', 'Entstehung']",kombination, kombination aus wissen und wissen
+"F: Welches Wort ist länger, ""lebende"" oder ""meinen""? A:","['lebende', 'meinen']",lebende," lebende wesen, die"
+"Von den Wörtern ""verlieren"" und ""Veranstalt"", welches hat mehr Buchstaben? ","['verlieren', 'Veranstalt']",veranstalt," veranstalteil: """
+"Von den Wörtern ""Verbindung"" und ""Erfahrung"", welches hat mehr Buchstaben? ","['Verbindung', 'Erfahrung']",verbindung, verbindung zwischen den wörtern
+"F: Welches Wort ist länger, ""gespürt"" oder ""fragen""? A:","['gespürt', 'fragen']",gespürt," gespürt, gespürt"
+"F: Welches Wort hat mehr Buchstaben, ""er"" oder ""der""? A:","['er', 'der']",der, der hat ein ganz bestimmtes
+"Von den Wörtern ""Oligarchie"" und ""verlieren"", welches hat mehr Buchstaben? ","['Oligarchie', 'verlieren']",oligarchie," oligarchie,"
+"F: Welches Wort hat mehr Buchstaben, ""wurde"" oder ""sind""? A:","['wurde', 'sind']",wurde, waren die anderen nicht mehr
+"Von den Wörtern ""tadellos"" und ""beruflich"", welches hat mehr Buchstaben? ","['tadellos', 'beruflich']",beruflich, beruflich? a:
+"F: Welches Wort ist länger, ""tragen"" oder ""ungerne""? A:","['tragen', 'ungerne']",ungerne, ungerne tiere?
+"F: Welches Wort hat mehr Buchstaben, ""die"" oder ""ganz""? A:","['die', 'ganz']",ganz," ganz im norden , also"
+"F: Welches Wort ist länger, ""meinen"" oder ""gewinnt""? A:","['meinen', 'gewinnt']",gewinnt,
+"F: Welches Wort hat mehr Buchstaben, ""war"" oder ""in""? A:","['war', 'in']",war, war das? war das
+"F: Welches Wort hat mehr Buchstaben, ""all"" oder ""will""? A:","['all', 'will']",will, willow! willow
+"F: Welches Wort ist länger, ""besser"" oder ""beenden""? A:","['besser', 'beenden']",beenden, beenden? neueinbauen
+"F: Welches Wort ist länger, ""nichts"" oder ""gedanke""? A:","['nichts', 'gedanke']",gedanke," gedanke, die wahrheit ist"
+"F: Welches Wort hat mehr Buchstaben, ""da"" oder ""all""? A:","['da', 'all']",all," all diese namen"", welches"
+"F: Welches Wort ist länger, ""sehen "" oder ""ungerne""? A:","['sehen ', 'ungerne']",ungerne, ungerne tiere?
+"F: Welches Wort hat mehr Buchstaben, ""hier"" oder ""ist""? A:","['hier', 'ist']",hier, hier ist noch mal der
+"F: Welches Wort hat mehr Buchstaben, ""rot"" oder ""ob""? A:","['rot', 'ob']",rot," rot, oder ""rot"
+"Von den Wörtern ""blamabel"" und ""Obduktion"", welches hat mehr Buchstaben? ","['blamabel', 'Obduktion']",obduktion, obduktion oder a
+"F: Welches Wort ist länger, ""mehrere"" oder ""Anteil""? A:","['mehrere', 'Anteil']",mehrere, mehrere von ihnen lebende
+"F: Welches Wort ist länger, ""unter"" oder ""meinen""? A:","['unter', 'meinen']",meinen," meinen, es ist ein"
+"F: Welches Wort hat mehr Buchstaben, ""waren"" oder ""wenn""? A:","['waren', 'wenn']",waren, waren das nicht mehr?
+"F: Welches Wort hat mehr Buchstaben, ""nicht"" oder ""sehr""? A:","['nicht', 'sehr']",nicht," nicht ganz so groß,"
+"F: Welches Wort hat mehr Buchstaben, ""haben"" oder ""sind""? A:","['haben', 'sind']",haben, haben. haben haben haben
+"F: Welches Wort hat mehr Buchstaben, ""lang"" oder ""ich""? A:","['lang', 'ich']",lang, lang lebe ich nun wirklich
+"F: Welches Wort hat mehr Buchstaben, ""dann"" oder ""war""? A:","['dann', 'war']",dann, dann hat man das wort
+"F: Welches Wort hat mehr Buchstaben, ""wenn"" oder ""aus""? A:","['wenn', 'aus']",wenn, wenn man von den wör
+"Von den Wörtern ""unbesonnen"" und ""effizient"", welches hat mehr Buchstaben? ","['unbesonnen', 'effizient']",unbesonnen," unbesonnene,"
+"F: Welches Wort hat mehr Buchstaben, ""will"" oder ""sie""? A:","['will', 'sie']",will, willow ufgo
+"Von den Wörtern ""Kombination"" und ""entwickeln"", welches hat mehr Buchstaben? ","['Kombination', 'entwickeln']",kombination, entwickelnde fachbücher und
+"F: Welches Wort ist länger, ""reden"" oder ""analog""? A:","['reden', 'analog']",analog, analog? a:
+"F: Welches Wort ist länger, ""würde"" oder ""tragen""? A:","['würde', 'tragen']",tragen, tragen? tragen? tragen
+"F: Welches Wort ist länger, ""reden"" oder ""graben""? A:","['reden', 'graben']",graben," graben, graben, graben"
+"F: Welches Wort ist länger, ""gespürt"" oder ""mulmig""? A:","['gespürt', 'mulmig']",gespürt, gespürt?: offen
+"F: Welches Wort ist länger, ""pulvrig"" oder ""entsteht""? A:","['pulvrig', 'entsteht']",entsteht," entsteht, wenn man sich"
+"Von den Wörtern ""entsteht"" und ""Bedeutung"", welches hat mehr Buchstaben? ","['entsteht', 'Bedeutung']",bedeutung,
+"F: Welches Wort hat mehr Buchstaben, ""würde"" oder ""viel""? A:","['würde', 'viel']",würde," würde sich auch ändern,"
+"F: Welches Wort hat mehr Buchstaben, ""ehe"" oder ""er""? A:","['ehe', 'er']",ehe, ehebruch? wurde zeit
+"F: Welches Wort ist länger, ""bekannte"" oder ""anderen""? A:","['bekannte', 'anderen']",bekannte," bekannte, die sich von"
+"Von den Wörtern ""verlieren"" und ""Beispiel"", welches hat mehr Buchstaben? ","['verlieren', 'Beispiel']",verlieren, verlierende oder bedrohen
+"F: Welches Wort ist länger, ""denken"" oder ""solches""? A:","['denken', 'solches']",solches, solches wissen entsteht durch die
+"Von den Wörtern ""offensiv"" und ""Jobcenter"", welches hat mehr Buchstaben? ","['offensiv', 'Jobcenter']",jobcenter," jobcenter, jobcenter"
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""kann""? A:","['ein', 'kann']",kann, kann man nicht einfach so
+"Von den Wörtern ""gespürt"" und ""wirklich"", welches hat mehr Buchstaben? ","['gespürt', 'wirklich']",wirklich, wirklich? oder? darüber
+"Von den Wörtern ""Haarsträhne"" und ""Erinnerung"", welches hat mehr Buchstaben? ","['Haarsträhne', 'Erinnerung']",haarsträhne," haarsträhne,"
+"F: Welches Wort hat mehr Buchstaben, ""man"" oder ""an""? A:","['man', 'an']",man, man kann auch sagen:
+"Von den Wörtern ""Erinnerung"" und ""Polarität"", welches hat mehr Buchstaben? ","['Erinnerung', 'Polarität']",erinnerung, erinnerung daran haben. das
+"Von den Wörtern ""Verbindung"" und ""Kombination"", welches hat mehr Buchstaben? ","['Verbindung', 'Kombination']",kombination, kombination aus wissen und wissen
+"F: Welches Wort ist länger, ""daher"" oder ""Bagger""? A:","['daher', 'Bagger']",bagger, baggerschaufel?
+"Von den Wörtern ""Erforschung"" und ""Erinnerung"", welches hat mehr Buchstaben? ","['Erforschung', 'Erinnerung']",erforschung," erforschung oder ""ab"
+"F: Welches Wort ist länger, ""wertlos"" oder ""weinen""? A:","['wertlos', 'weinen']",wertlos, wertlos? a:
+"F: Welches Wort ist länger, ""pulvrig"" oder ""einmal""? A:","['pulvrig', 'einmal']",pulvrig, pulvrigal?
+"F: Welches Wort hat mehr Buchstaben, ""ab"" oder ""das""? A:","['ab', 'das']",das," das wort ""tü"
+"F: Welches Wort ist länger, ""allen"" oder ""nichts""? A:","['allen', 'nichts']",nichts," nichts? ""nicht"""
+"F: Welches Wort hat mehr Buchstaben, ""ab"" oder ""mit""? A:","['ab', 'mit']",mit," mit ""heut""?"
+"F: Welches Wort hat mehr Buchstaben, ""auch"" oder ""ich""? A:","['auch', 'ich']",auch," auch nicht"", ""diese"
+"F: Welches Wort hat mehr Buchstaben, ""aus"" oder ""so""? A:","['aus', 'so']",aus," aus der sprache von """
+"F: Welches Wort ist länger, ""solches"" oder ""nichts""? A:","['solches', 'nichts']",solches, solches wissen entsteht nicht nur
+"F: Welches Wort hat mehr Buchstaben, ""auch"" oder ""man""? A:","['auch', 'man']",auch," auch nicht"", ""diese"
+"F: Welches Wort hat mehr Buchstaben, ""im"" oder ""das""? A:","['im', 'das']",das," das ist ein wort,"
+"F: Welches Wort hat mehr Buchstaben, ""zu"" oder ""ich""? A:","['zu', 'ich']",ich, ich habe noch nie darüber
+"F: Welches Wort ist länger, ""gewinnt"" oder ""Bagger""? A:","['gewinnt', 'Bagger']",gewinnt, gewinnt. gewinnt. gewinnt
+"F: Welches Wort ist länger, ""solches"" oder ""versucht""? A:","['solches', 'versucht']",versucht," versucht, sich von den"
+"F: Welches Wort hat mehr Buchstaben, ""reden"" oder ""noch""? A:","['reden', 'noch']",reden, reden? reden? a
+"F: Welches Wort hat mehr Buchstaben, ""könnt"" oder ""heut""? A:","['könnt', 'heut']",könnt, könnt ihr nicht einfach so
+"F: Welches Wort hat mehr Buchstaben, ""nach"" oder ""der""? A:","['nach', 'der']",nach, nach dem tod von jesus
+"Von den Wörtern ""Kehlköpfe"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Kehlköpfe', 'Robbenfell']",robbenfell," robbenfell, das ist"
+"F: Welches Wort hat mehr Buchstaben, ""auch"" oder ""könnt""? A:","['auch', 'könnt']",könnt, könnt ihr nicht einfach so
+"Von den Wörtern ""bedeutet"" und ""Verlusten"", welches hat mehr Buchstaben? ","['bedeutet', 'Verlusten']",verlusten, verlustende bedeutung
+"Von den Wörtern ""beruflich"" und ""namenlos"", welches hat mehr Buchstaben? ","['beruflich', 'namenlos']",beruflich, beruflich? jobcenter
+"F: Welches Wort hat mehr Buchstaben, ""um"" oder ""los""? A:","['um', 'los']",los," los geht"" oder """
+"Von den Wörtern ""Verteilung"" und ""beruflich"", welches hat mehr Buchstaben? ","['Verteilung', 'beruflich']",verteilung, verteilung von wissen und
+"Von den Wörtern ""gemeinsam"" und ""offizielle"", welches hat mehr Buchstaben? ","['gemeinsam', 'offizielle']",offizielle, offizielle währung? neuere
+"Von den Wörtern ""Jobcenter"" und ""Verhältnis"", welches hat mehr Buchstaben? ","['Jobcenter', 'Verhältnis']",verhältnis, verhältnismäßig: mehrere von
+"Von den Wörtern ""allerdings"" und ""Täterprofil"", welches hat mehr Buchstaben? ","['allerdings', 'Täterprofil']",täterprofil, täterprofile?
+"F: Welches Wort ist länger, ""besser"" oder ""würde""? A:","['besser', 'würde']",besser," besser, besser noch:"
+"F: Welches Wort ist länger, ""wurde"" oder ""tragen""? A:","['wurde', 'tragen']",tragen," tragen, tragen, tragen"
+"Von den Wörtern ""Jobcenter"" und ""Wunderkind"", welches hat mehr Buchstaben? ","['Jobcenter', 'Wunderkind']",wunderkind," wunderkind, wunderkind"
+"F: Welches Wort hat mehr Buchstaben, ""man"" oder ""du""? A:","['man', 'du']",man, man kann auch sagen:
+"F: Welches Wort ist länger, ""solches"" oder ""wirklich""? A:","['solches', 'wirklich']",wirklich," wirklich, sehr viel,"
+"Von den Wörtern ""effizient"" und ""bekannte"", welches hat mehr Buchstaben? ","['effizient', 'bekannte']",effizient, effizientes beispiel
+"Von den Wörtern ""idiotisch"" und ""Abschied"", welches hat mehr Buchstaben? ","['idiotisch', 'Abschied']",idiotisch," idiotisch, unabl"
+"Von den Wörtern ""Jobcenter"" und ""Erinnerung"", welches hat mehr Buchstaben? ","['Jobcenter', 'Erinnerung']",erinnerung," erinnerung daran, dass die"
+"Von den Wörtern ""variabel"" und ""idiotisch"", welches hat mehr Buchstaben? ","['variabel', 'idiotisch']",idiotisch," idiotisch, unabl"
+"Von den Wörtern ""gasförmig"" und ""unablässig"", welches hat mehr Buchstaben? ","['gasförmig', 'unablässig']",unablässig," unablässig, un"
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""er""? A:","['nun', 'er']",nun," nun, das ist nicht"
+"Von den Wörtern ""Verteilung"" und ""Verabredung"", welches hat mehr Buchstaben? ","['Verteilung', 'Verabredung']",verabredung, verabredung? a:
+"F: Welches Wort hat mehr Buchstaben, ""reden"" oder ""hier""? A:","['reden', 'hier']",reden," reden kann man nicht,"
+"F: Welches Wort ist länger, ""wertlos"" oder ""ehrenlos""? A:","['wertlos', 'ehrenlos']",ehrenlos," ehrenlos, oder haben"
+"Von den Wörtern ""Kombination"" und ""Verteilung"", welches hat mehr Buchstaben? ","['Kombination', 'Verteilung']",kombination, kombination aus wissen und wissen
+"Von den Wörtern ""Haarsträhne"" und ""Veranstalt"", welches hat mehr Buchstaben? ","['Haarsträhne', 'Veranstalt']",haarsträhne," haarsträhne,"
+"F: Welches Wort ist länger, ""gezeigt"" oder ""wirklich""? A:","['gezeigt', 'wirklich']",wirklich,
+"F: Welches Wort hat mehr Buchstaben, ""sowie"" oder ""ganz""? A:","['sowie', 'ganz']",sowie," sowie ""sich""? a"
+"F: Welches Wort hat mehr Buchstaben, ""weg"" oder ""muss""? A:","['weg', 'muss']",muss, muss man sich erst mal
+"Von den Wörtern ""zwischen"" und ""Polarität"", welches hat mehr Buchstaben? ","['zwischen', 'Polarität']",polarität," polarität, polarität"
+"F: Welches Wort hat mehr Buchstaben, ""ich"" oder ""hier""? A:","['ich', 'hier']",hier, hier ist noch mal der
+"Von den Wörtern ""entwickeln"" und ""Verzichts"", welches hat mehr Buchstaben? ","['entwickeln', 'Verzichts']",entwickeln, entwickelnde oder auch namen
+"F: Welches Wort ist länger, ""solches"" oder ""bekannte""? A:","['solches', 'bekannte']",bekannte," bekannte, von den wör"
+"F: Welches Wort hat mehr Buchstaben, ""hier"" oder ""nie""? A:","['hier', 'nie']",hier, hier ist noch mal der
+"F: Welches Wort hat mehr Buchstaben, ""wurde"" oder ""lang""? A:","['wurde', 'lang']",wurde, wurde von den wörtern
+"Von den Wörtern ""unbesonnen"" und ""Mitarbeiter"", welches hat mehr Buchstaben? ","['unbesonnen', 'Mitarbeiter']",mitarbeiter," mitarbeiter der vereinten nationen,"
+"F: Welches Wort hat mehr Buchstaben, ""die"" oder ""in""? A:","['die', 'in']",die,
+"F: Welches Wort ist länger, ""mehrere"" oder ""tadellos""? A:","['mehrere', 'tadellos']",tadellos," tadellos,"
+"Von den Wörtern ""Obduktion"" und ""Vereinigen"", welches hat mehr Buchstaben? ","['Obduktion', 'Vereinigen']",vereinigen, vereinigende oder verein
+"F: Welches Wort ist länger, ""wurde"" oder ""folgen""? A:","['wurde', 'folgen']",folgen, folgen von unbesonnen
+"Von den Wörtern ""Fachbücher"" und ""beruflich"", welches hat mehr Buchstaben? ","['Fachbücher', 'beruflich']",fachbücher,
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""diese""? A:","['sich', 'diese']",diese," diese ""folgen"""
+"Von den Wörtern ""unbesonnen"" und ""verstehen"", welches hat mehr Buchstaben? ","['unbesonnen', 'verstehen']",unbesonnen," unbesonnene,"
+"F: Welches Wort hat mehr Buchstaben, ""war"" oder ""so""? A:","['war', 'so']",war, war das? a:
+"F: Welches Wort hat mehr Buchstaben, ""nun"" oder ""wenn""? A:","['nun', 'wenn']",wenn, wenn man sich mit den
+"F: Welches Wort ist länger, ""lebende"" oder ""bekannte""? A:","['lebende', 'bekannte']",bekannte," bekannte, die sich von"
+"F: Welches Wort hat mehr Buchstaben, ""sind"" oder ""dabei""? A:","['sind', 'dabei']",dabei," dabei ist das wort """
+"Von den Wörtern ""Verbindung"" und ""Kreativen"", welches hat mehr Buchstaben? ","['Verbindung', 'Kreativen']",verbindung, verbindung und verbindung sind wichtig
+"F: Welches Wort hat mehr Buchstaben, ""würde"" oder ""lang""? A:","['würde', 'lang']",würde," würde sich ändern, wenn"
+"F: Welches Wort hat mehr Buchstaben, ""weg"" oder ""will""? A:","['weg', 'will']",will, willow! willkür
+"F: Welches Wort ist länger, ""gespürt"" oder ""sollen""? A:","['gespürt', 'sollen']",gespürt," gespürt?: """
+"F: Welches Wort ist länger, ""laufen"" oder ""brüllen""? A:","['laufen', 'brüllen']",brüllen," brüllen, weinen,"
+"F: Welches Wort hat mehr Buchstaben, ""ja"" oder ""weg""? A:","['ja', 'weg']",weg," weg, weg, weg"
+"F: Welches Wort hat mehr Buchstaben, ""allen"" oder ""viel""? A:","['allen', 'viel']",allen, allen voran von den wör
+"F: Welches Wort ist länger, ""offensiv"" oder ""solches""? A:","['offensiv', 'solches']",offensiv, offensiv? a
+"F: Welches Wort hat mehr Buchstaben, ""könnt"" oder ""zeit""? A:","['könnt', 'zeit']",könnt, könnt ihr nicht einfach so
+"F: Welches Wort hat mehr Buchstaben, ""lang"" oder ""dabei""? A:","['lang', 'dabei']",dabei," dabei ist das wort """
+"F: Welches Wort ist länger, ""tragen"" oder ""erzählt""? A:","['tragen', 'erzählt']",erzählt," erzählt von sich selbst,"
+"Von den Wörtern ""Haarspitzen"" und ""Entstehung"", welches hat mehr Buchstaben? ","['Haarspitzen', 'Entstehung']",haarspitzen, haarspitzen und haarspitzen
+"Von den Wörtern ""geborene"" und ""gasförmig"", welches hat mehr Buchstaben? ","['geborene', 'gasförmig']",gasförmig," gasförmig, gasförmig"
+"F: Welches Wort ist länger, ""mehrere"" oder ""blamabel""? A:","['mehrere', 'blamabel']",blamabel," blamabel, oder"
+"Von den Wörtern ""Bedeutung"" und ""Wunderkind"", welches hat mehr Buchstaben? ","['Bedeutung', 'Wunderkind']",wunderkind," wunderkind, wunderkind"
+"Von den Wörtern ""verloren"" und ""gespürt"", welches hat mehr Buchstaben? ","['verloren', 'gespürt']",verloren," versucht, sich von den"
+"F: Welches Wort ist länger, ""fragen"" oder ""dabei""? A:","['fragen', 'dabei']",fragen," fragen, fragen, fragen"
+"F: Welches Wort ist länger, ""analog"" oder ""tüfteln""? A:","['analog', 'tüfteln']",tüfteln," tüfteln, tü"
+"Von den Wörtern ""allerdings"" und ""Gleichstand"", welches hat mehr Buchstaben? ","['allerdings', 'Gleichstand']",gleichstand," gleichstand und gäbe""?"
+"F: Welches Wort hat mehr Buchstaben, ""mit"" oder ""so""? A:","['mit', 'so']",mit," mit den wörtern """
+"Von den Wörtern ""Abschied"" und ""Jobcenter"", welches hat mehr Buchstaben? ","['Abschied', 'Jobcenter']",jobcenter," jobcenter, jobcenter"
+"F: Welches Wort ist länger, ""mehrere"" oder ""jemand""? A:","['mehrere', 'jemand']",mehrere, mehrere von ihnen sind schon
+"Von den Wörtern ""idiotisch"" und ""Wachmänner"", welches hat mehr Buchstaben? ","['idiotisch', 'Wachmänner']",wachmänner," wachmänner, die sich"
+"F: Welches Wort ist länger, ""sollen"" oder ""ungerne""? A:","['sollen', 'ungerne']",ungerne, ungerne kinder?
+"F: Welches Wort ist länger, ""würde"" oder ""sehen ""? A:","['würde', 'sehen ']",sehen, sehen sie sich nie wieder
+"Von den Wörtern ""bedrohen"" und ""Obduktion"", welches hat mehr Buchstaben? ","['bedrohen', 'Obduktion']",obduktion, obduktion oder ob
+"F: Welches Wort ist länger, ""solches"" oder ""bedrohen""? A:","['solches', 'bedrohen']",bedrohen," bedrohen, bedrohen"
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""will""? A:","['ein', 'will']",will, willow! willkür
+"Von den Wörtern ""gasförmig"" und ""versucht"", welches hat mehr Buchstaben? ","['gasförmig', 'versucht']",gasförmig," gasförmig, gasförmig"
+"F: Welches Wort hat mehr Buchstaben, ""unter"" oder ""ganz""? A:","['unter', 'ganz']",unter," unter den namen ""t"
+"F: Welches Wort ist länger, ""gewinnt"" oder ""Anteil""? A:","['gewinnt', 'Anteil']",gewinnt," gewinnt man, wenn man"
+"F: Welches Wort hat mehr Buchstaben, ""zeit"" oder ""das""? A:","['zeit', 'das']",zeit," zeit, sich zu besinnen"
+"Von den Wörtern ""offizielle"" und ""Obduktion"", welches hat mehr Buchstaben? ","['offizielle', 'Obduktion']",offizielle, offizielle informationen gibt es hier
+"Von den Wörtern ""entwickeln"" und ""Polarität"", welches hat mehr Buchstaben? ","['entwickeln', 'Polarität']",entwickeln, entwickelnde oder auch kombination
+"F: Welches Wort hat mehr Buchstaben, ""graben"" oder ""diese""? A:","['graben', 'diese']",graben," graben, graben, graben"
+"F: Welches Wort ist länger, ""offensiv"" oder ""bestens""? A:","['offensiv', 'bestens']",offensiv, offensiv? a
+"Von den Wörtern ""Beweglich"" und ""bekannte"", welches hat mehr Buchstaben? ","['Beweglich', 'bekannte']",beweglich," beweglich, beweglich"
+"F: Welches Wort hat mehr Buchstaben, ""sich"" oder ""aus""? A:","['sich', 'aus']",sich, sich von den wörtern
+"F: Welches Wort ist länger, ""tragen"" oder ""pulvrig""? A:","['tragen', 'pulvrig']",pulvrig," pulvrigale,"
+"F: Welches Wort hat mehr Buchstaben, ""ob"" oder ""aus""? A:","['ob', 'aus']",aus," aus der sprache von """
+"Von den Wörtern ""Kehlköpfe"" und ""Abweichung"", welches hat mehr Buchstaben? ","['Kehlköpfe', 'Abweichung']",abweichung, abweichung von
+"F: Welches Wort hat mehr Buchstaben, ""noch"" oder ""nie""? A:","['noch', 'nie']",noch," noch nicht"", ""so"
+"F: Welches Wort hat mehr Buchstaben, ""in"" oder ""ich""? A:","['in', 'ich']",ich, ich bin nicht mehr so
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""wenn""? A:","['ein', 'wenn']",wenn, wenn man von den wör
+"F: Welches Wort hat mehr Buchstaben, ""ehe"" oder ""noch""? A:","['ehe', 'noch']",noch," noch mehr noch: """
+"Von den Wörtern ""Tafelwasser"" und ""Robbenfell"", welches hat mehr Buchstaben? ","['Tafelwasser', 'Robbenfell']",tafelwasser," tafelwasser, tafelwasser"
+"Von den Wörtern ""effizient"" und ""tadellos"", welches hat mehr Buchstaben? ","['effizient', 'tadellos']",effizient, effizientes ab
+"Von den Wörtern ""gespürt"" und ""bedeutet"", welches hat mehr Buchstaben? ","['gespürt', 'bedeutet']",bedeutet," versucht, sich von den"
+"F: Welches Wort hat mehr Buchstaben, ""bald"" oder ""reden""? A:","['bald', 'reden']",reden," reden, reden, reden"
+"F: Welches Wort hat mehr Buchstaben, ""will"" oder ""ist""? A:","['will', 'ist']",will, willow ufgo
+"F: Welches Wort ist länger, ""mehrere"" oder ""versucht""? A:","['mehrere', 'versucht']",versucht," versucht, sich von den"
+"F: Welches Wort ist länger, ""gespürt"" oder ""laufen""? A:","['gespürt', 'laufen']",gespürt," gespürt, gespürt"
+"F: Welches Wort hat mehr Buchstaben, ""neu"" oder ""sich""? A:","['neu', 'sich']",sich, sich von den wörtern
+"F: Welches Wort ist länger, ""mulmig"" oder ""beweise""? A:","['mulmig', 'beweise']",beweise," beweise, dass man sich"
+"Von den Wörtern ""Verbindung"" und ""Obduktion"", welches hat mehr Buchstaben? ","['Verbindung', 'Obduktion']",verbindung, verbindung zwischen den wörtern
+"F: Welches Wort hat mehr Buchstaben, ""reden"" oder ""auch""? A:","['reden', 'auch']",reden, redenschreiber? reden sie
+"F: Welches Wort hat mehr Buchstaben, ""am"" oder ""ich""? A:","['am', 'ich']",ich," ich bin nicht der,"
+"Von den Wörtern ""Oligarchie"" und ""tabuisieren"", welches hat mehr Buchstaben? ","['Oligarchie', 'tabuisieren']",tabuisieren, tabuisierende bedeutung
+"F: Welches Wort ist länger, ""folgen"" oder ""reden""? A:","['folgen', 'reden']",folgen," folgen von wörtern """
+"Von den Wörtern ""zwischen"" und ""Iteration"", welches hat mehr Buchstaben? ","['zwischen', 'Iteration']",iteration,
+"F: Welches Wort hat mehr Buchstaben, ""heut"" oder ""ist""? A:","['heut', 'ist']",heut, heut ist der achte vierte
+"F: Welches Wort hat mehr Buchstaben, ""neu"" oder ""hier""? A:","['neu', 'hier']",hier, hier ist noch mal der
+"F: Welches Wort hat mehr Buchstaben, ""sind"" oder ""daher""? A:","['sind', 'daher']",daher, daher haben auch die meisten
+"F: Welches Wort ist länger, ""Bagger"" oder ""dabei""? A:","['Bagger', 'dabei']",bagger, bagger oder bagger? bagger
+"F: Welches Wort hat mehr Buchstaben, ""ab"" oder ""neu""? A:","['ab', 'neu']",neu, neufundland oder
+"F: Welches Wort hat mehr Buchstaben, ""mehr"" oder ""der""? A:","['mehr', 'der']",mehr," mehr oder weniger: """
+"F: Welches Wort hat mehr Buchstaben, ""all"" oder ""in""? A:","['all', 'in']",all,
+"Von den Wörtern ""Beweglich"" und ""Abweichung"", welches hat mehr Buchstaben? ","['Beweglich', 'Abweichung']",abweichung, abweichung von
+"Von den Wörtern ""Oligarchie"" und ""Erforschung"", welches hat mehr Buchstaben? ","['Oligarchie', 'Erforschung']",erforschung, erforschung und erforschung
+"F: Welches Wort hat mehr Buchstaben, ""zu"" oder ""nie""? A:","['zu', 'nie']",nie," nie"" oder ""so"
+"F: Welches Wort ist länger, ""mehrere"" oder ""sehen ""? A:","['mehrere', 'sehen ']",mehrere," lebende wesen""? a"
+"Von den Wörtern ""verstehen"" und ""Entstehung"", welches hat mehr Buchstaben? ","['verstehen', 'Entstehung']",entstehung, entstehung der entstehung
+"F: Welches Wort ist länger, ""laufen"" oder ""gezeigt""? A:","['laufen', 'gezeigt']",gezeigt," gezeigt, dass es sich"
+"F: Welches Wort hat mehr Buchstaben, ""neu"" oder ""sehr""? A:","['neu', 'sehr']",sehr, sehr viel mehr buchstaben?
+"F: Welches Wort ist länger, ""beweise"" oder ""Beispiel""? A:","['beweise', 'Beispiel']",beispiel, beispiel: £1
+"Von den Wörtern ""Iteration"" und ""Erinnerung"", welches hat mehr Buchstaben? ","['Iteration', 'Erinnerung']",erinnerung, erinnerung daran haben. das
+"Von den Wörtern ""Oligarchie"" und ""Mitarbeiter"", welches hat mehr Buchstaben? ","['Oligarchie', 'Mitarbeiter']",mitarbeiter, mitarbeiter der vereinten nationen haben
+"Von den Wörtern ""Bedeutung"" und ""Verbindung"", welches hat mehr Buchstaben? ","['Bedeutung', 'Verbindung']",verbindung,
+"F: Welches Wort ist länger, ""anderen"" oder ""sollen""? A:","['anderen', 'sollen']",anderen, anderen?ucht?igen
+"F: Welches Wort ist länger, ""darüber"" oder ""Gebiss""? A:","['darüber', 'Gebiss']",darüber, darüber hinaus? darüber hinaus
+"F: Welches Wort hat mehr Buchstaben, ""ein"" oder ""da""? A:","['ein', 'da']",ein," ein wort, das man"
+"Von den Wörtern ""verlieren"" und ""bedeutet"", welches hat mehr Buchstaben? ","['verlieren', 'bedeutet']",verlieren, verlierende oder unbes
+"F: Welches Wort hat mehr Buchstaben, ""ehe"" oder ""lang""? A:","['ehe', 'lang']",lang," language"" oder"
+"F: Welches Wort ist länger, ""bedrohen"" oder ""ungerne""? A:","['bedrohen', 'ungerne']",bedrohen," bedrohende, un"
+"F: Welches Wort ist länger, ""bestens"" oder ""Bagger""? A:","['bestens', 'Bagger']",bestens," bestens gebucht, aber"

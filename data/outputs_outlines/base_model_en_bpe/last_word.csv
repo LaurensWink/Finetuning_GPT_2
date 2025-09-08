@@ -1,0 +1,601 @@
+Input,Options,Expected,Predicted
+"Q: In the sentence ""John was lots more obnoxious than Fred"", what is the last word? A:","['john', 'was', 'lots', 'more', 'obnoxious', 'than', 'fred']",fred,more
+"Q: In the sentence ""A boy hit the ball"", what is the last word? A:","['a', 'boy', 'hit', 'the', 'ball']",ball,boy
+"Q: In the sentence ""I remembered having kissed Mary"", what is the last word? A:","['i', 'remembered', 'having', 'kissed', 'mary']",mary,mary
+"Q: What is the last word of the sentence ""I believe strongly that the world is round""? A:","['i', 'believe', 'strongly', 'that', 'the', 'world', 'is', 'round']",round,is
+"Write the last word of the sentence ""John will see you"": ","['john', 'will', 'see', 'you']",you,see
+"Q: In the sentence ""They gave the bicycle to me"", what is the last word? A:","['they', 'gave', 'the', 'bicycle', 'to', 'me']",me,me
+"Q: In the sentence ""An owl hunts mice"", what is the last word? A:","['an', 'owl', 'hunts', 'mice']",mice,an
+"Write the last word of the sentence ""Helen wiped the wall"": ","['helen', 'wiped', 'the', 'wall']",wall,the
+"Q: What is the last word of the sentence ""Elizabeth regretted that she had met Wickham""? A:","['elizabeth', 'regretted', 'that', 'she', 'had', 'met', 'wickham']",wickham,had
+"Write the last word of the sentence ""I told the story to Daniel"": ","['i', 'told', 'the', 'story', 'to', 'daniel']",daniel,i
+"Write the last word of the sentence ""Sonatas are easy to play on this violin"": ","['sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",violin,are
+"Q: What is the last word of the sentence ""Paula hit the fence""? A:","['paula', 'hit', 'the', 'fence']",fence,the
+"Q: What is the last word of the sentence ""The man killed the king with the knife""? A:","['the', 'man', 'killed', 'the', 'king', 'with', 'the', 'knife']",knife,killed
+"Q: In the sentence ""The student knew the answers"", what is the last word? A:","['the', 'student', 'knew', 'the', 'answers']",answers,answers
+"Write the last word of the sentence ""Celia brushed her hair"": ","['celia', 'brushed', 'her', 'hair']",hair,hair
+"Q: What is the last word of the sentence ""I served leek soup to my guests""? A:","['i', 'served', 'leek', 'soup', 'to', 'my', 'guests']",guests,to
+"Q: In the sentence ""Never had Sir Thomas been so offended"", what is the last word? A:","['never', 'had', 'sir', 'thomas', 'been', 'so', 'offended']",offended,thomas
+"Q: What is the last word of the sentence ""I will speak to Hector about this""? A:","['i', 'will', 'speak', 'to', 'hector', 'about', 'this']",this,hector
+"Write the last word of the sentence ""Rosemary hates New York"": ","['rosemary', 'hates', 'new', 'york']",york,hates
+"Write the last word of the sentence ""He planted the garden with roses last November"": ","['he', 'planted', 'the', 'garden', 'with', 'roses', 'last', 'november']",november,the
+"Q: What is the last word of the sentence ""Julie felt he was there""? A:","['julie', 'felt', 'he', 'was', 'there']",there,there
+"Q: What is the last word of the sentence ""Kim is fond of Lee""? A:","['kim', 'is', 'fond', 'of', 'lee']",lee,is
+"Q: What is the last word of the sentence ""I know the person whose mother died""? A:","['i', 'know', 'the', 'person', 'whose', 'mother', 'died']",died,mother
+"Write the last word of the sentence ""Almost every lawyer could answer that question"": ","['almost', 'every', 'lawyer', 'could', 'answer', 'that', 'question']",question,that
+"Q: In the sentence ""The boat sank"", what is the last word? A:","['the', 'boat', 'sank']",sank,the
+"Write the last word of the sentence ""Most of the fruit is rotten"": ","['most', 'of', 'the', 'fruit', 'is', 'rotten']",rotten,the
+"Write the last word of the sentence ""Don swatted the mosquito with the newspaper"": ","['don', 'swatted', 'the', 'mosquito', 'with', 'the', 'newspaper']",newspaper,swatted
+"Q: In the sentence ""Shannon sent Dan an email"", what is the last word? A:","['shannon', 'sent', 'dan', 'an', 'email']",email,an
+"Q: What is the last word of the sentence ""The defendant denied the accusation""? A:","['the', 'defendant', 'denied', 'the', 'accusation']",accusation,the
+"Q: In the sentence ""I have six more of them"", what is the last word? A:","['i', 'have', 'six', 'more', 'of', 'them']",them,more
+"Q: In the sentence ""The dog chased the cat for days"", what is the last word? A:","['the', 'dog', 'chased', 'the', 'cat', 'for', 'days']",days,cat
+"Q: In the sentence ""Fred kicked the ball over the fence"", what is the last word? A:","['fred', 'kicked', 'the', 'ball', 'over', 'the', 'fence']",fence,the
+"Q: What is the last word of the sentence ""John talked to any politician who is powerful""? A:","['john', 'talked', 'to', 'any', 'politician', 'who', 'is', 'powerful']",powerful,any
+"Write the last word of the sentence ""Jessica loaded boxes under the wagon"": ","['jessica', 'loaded', 'boxes', 'under', 'the', 'wagon']",wagon,the
+"Q: What is the last word of the sentence ""He looks so formidable""? A:","['he', 'looks', 'so', 'formidable']",formidable,so
+"Q: What is the last word of the sentence ""Jackie chased the thief""? A:","['jackie', 'chased', 'the', 'thief']",thief,chased
+"Write the last word of the sentence ""Doug cleared the table"": ","['doug', 'cleared', 'the', 'table']",table,cleared
+"Q: What is the last word of the sentence ""John promised Mary that he would leave""? A:","['john', 'promised', 'mary', 'that', 'he', 'would', 'leave']",leave,mary
+"Q: What is the last word of the sentence ""Henri will paint the floor for an hour""? A:","['henri', 'will', 'paint', 'the', 'floor', 'for', 'an', 'hour']",hour,an
+"Q: In the sentence ""Henri will paint the floor for an hour"", what is the last word? A:","['henri', 'will', 'paint', 'the', 'floor', 'for', 'an', 'hour']",hour,the
+"Q: What is the last word of the sentence ""I saw only the student""? A:","['i', 'saw', 'only', 'the', 'student']",student,only
+"Q: What is the last word of the sentence ""The strong winds cleared the skies""? A:","['the', 'strong', 'winds', 'cleared', 'the', 'skies']",skies,cleared
+"Q: What is the last word of the sentence ""Steve tossed the ball at Anna""? A:","['steve', 'tossed', 'the', 'ball', 'at', 'anna']",anna,anna
+"Q: What is the last word of the sentence ""Mary cuts the paper easily""? A:","['mary', 'cuts', 'the', 'paper', 'easily']",easily,paper
+"Q: In the sentence ""Jill embraced Sarah"", what is the last word? A:","['jill', 'embraced', 'sarah']",sarah,embraced
+"Q: In the sentence ""Few doctors approve of our remedy"", what is the last word? A:","['few', 'doctors', 'approve', 'of', 'our', 'remedy']",remedy,approve
+"Write the last word of the sentence ""George sang to himself"": ","['george', 'sang', 'to', 'himself']",himself,sang
+"Q: What is the last word of the sentence ""He continued writing poems""? A:","['he', 'continued', 'writing', 'poems']",poems,continued
+"Write the last word of the sentence ""I am drinking lemonade and eating a brownie"": ","['i', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",brownie,drinking
+"Q: In the sentence ""The thief smashed the window with a hammer"", what is the last word? A:","['the', 'thief', 'smashed', 'the', 'window', 'with', 'a', 'hammer']",hammer,hammer
+"Q: In the sentence ""He gave my binoculars to that girl"", what is the last word? A:","['he', 'gave', 'my', 'binoculars', 'to', 'that', 'girl']",girl,to
+"Write the last word of the sentence ""Fanny loved talking to Mary"": ","['fanny', 'loved', 'talking', 'to', 'mary']",mary,talking
+"Q: What is the last word of the sentence ""John has been chosen for the position""? A:","['john', 'has', 'been', 'chosen', 'for', 'the', 'position']",position,position
+"Write the last word of the sentence ""Mary laughed at John"": ","['mary', 'laughed', 'at', 'john']",john,at
+"Q: What is the last word of the sentence ""Philippa cried herself to sleep""? A:","['philippa', 'cried', 'herself', 'to', 'sleep']",sleep,sleep
+"Write the last word of the sentence ""I served my guests"": ","['i', 'served', 'my', 'guests']",guests,served
+"Q: In the sentence ""It is obvious to everybody that Tasha likes Misha"", what is the last word? A:","['it', 'is', 'obvious', 'to', 'everybody', 'that', 'tasha', 'likes', 'misha']",misha,everybody
+"Q: What is the last word of the sentence ""John whispered that Mary left""? A:","['john', 'whispered', 'that', 'mary', 'left']",left,mary
+"Write the last word of the sentence ""Doug went to Chicago"": ","['doug', 'went', 'to', 'chicago']",chicago,to
+"Q: In the sentence ""Donna fixed a sandwich for me"", what is the last word? A:","['donna', 'fixed', 'a', 'sandwich', 'for', 'me']",me,for
+"Q: What is the last word of the sentence ""These books disappoint me""? A:","['these', 'books', 'disappoint', 'me']",me,these
+"Q: What is the last word of the sentence ""The tiger bled to death""? A:","['the', 'tiger', 'bled', 'to', 'death']",death,the
+"Q: What is the last word of the sentence ""That acorn will grow into an oak tree""? A:","['that', 'acorn', 'will', 'grow', 'into', 'an', 'oak', 'tree']",tree,an
+"Q: What is the last word of the sentence ""Some tourists visited all the museums""? A:","['some', 'tourists', 'visited', 'all', 'the', 'museums']",museums,some
+"Q: What is the last word of the sentence ""I might eat deep fried muffins""? A:","['i', 'might', 'eat', 'deep', 'fried', 'muffins']",muffins,i
+"Q: In the sentence ""John seems to be honest"", what is the last word? A:","['john', 'seems', 'to', 'be', 'honest']",honest,seems
+"Q: In the sentence ""The music echoed"", what is the last word? A:","['the', 'music', 'echoed']",echoed,the
+"Q: In the sentence ""He washed himself"", what is the last word? A:","['he', 'washed', 'himself']",himself,himself
+"Q: In the sentence ""Yesterday Lydia eloped with Wickham"", what is the last word? A:","['yesterday', 'lydia', 'eloped', 'with', 'wickham']",wickham,eloped
+"Q: What is the last word of the sentence ""The eggs and the cream mixed together""? A:","['the', 'eggs', 'and', 'the', 'cream', 'mixed', 'together']",together,and
+"Q: In the sentence ""You may pick almost any flower"", what is the last word? A:","['you', 'may', 'pick', 'almost', 'any', 'flower']",flower,almost
+"Write the last word of the sentence ""The student enjoyed his English syntax class last semester"": ","['the', 'student', 'enjoyed', 'his', 'english', 'syntax', 'class', 'last', 'semester']",semester,class
+"Write the last word of the sentence ""The terrier attacked the burglar"": ","['the', 'terrier', 'attacked', 'the', 'burglar']",burglar,attacked
+"Q: In the sentence ""She voted for herself"", what is the last word? A:","['she', 'voted', 'for', 'herself']",herself,she
+"Q: What is the last word of the sentence ""John is as intelligent as Mary""? A:","['john', 'is', 'as', 'intelligent', 'as', 'mary']",mary,as
+"Q: What is the last word of the sentence ""Rosie got struck by lightning""? A:","['rosie', 'got', 'struck', 'by', 'lightning']",lightning,lightning
+"Write the last word of the sentence ""Jane played the piano"": ","['jane', 'played', 'the', 'piano']",piano,the
+"Write the last word of the sentence ""Many of the people were dying of thirst"": ","['many', 'of', 'the', 'people', 'were', 'dying', 'of', 'thirst']",thirst,of
+"Write the last word of the sentence ""The beaver built a dam"": ","['the', 'beaver', 'built', 'a', 'dam']",dam,the
+"Write the last word of the sentence ""They depend on Mary"": ","['they', 'depend', 'on', 'mary']",mary,on
+"Q: In the sentence ""That acorn will grow into an oak tree"", what is the last word? A:","['that', 'acorn', 'will', 'grow', 'into', 'an', 'oak', 'tree']",tree,an
+"Q: In the sentence ""Felicia kicked the ball off the bench"", what is the last word? A:","['felicia', 'kicked', 'the', 'ball', 'off', 'the', 'bench']",bench,the
+"Q: What is the last word of the sentence ""I gave Jack a picture of myself""? A:","['i', 'gave', 'jack', 'a', 'picture', 'of', 'myself']",myself,myself
+"Q: In the sentence ""Mary has always preferred lemons to limes"", what is the last word? A:","['mary', 'has', 'always', 'preferred', 'lemons', 'to', 'limes']",limes,to
+"Write the last word of the sentence ""Donna fixed a sandwich for me"": ","['donna', 'fixed', 'a', 'sandwich', 'for', 'me']",me,fixed
+"Q: What is the last word of the sentence ""Doug cleared the table""? A:","['doug', 'cleared', 'the', 'table']",table,the
+"Write the last word of the sentence ""Cynthia devoured the pizza"": ","['cynthia', 'devoured', 'the', 'pizza']",pizza,the
+"Q: In the sentence ""John put carrots from his garden in the salad"", what is the last word? A:","['john', 'put', 'carrots', 'from', 'his', 'garden', 'in', 'the', 'salad']",salad,in
+"Write the last word of the sentence ""Susan will never sing at weddings"": ","['susan', 'will', 'never', 'sing', 'at', 'weddings']",weddings,sing
+"Write the last word of the sentence ""We recommend to eat less cake and pastry"": ","['we', 'recommend', 'to', 'eat', 'less', 'cake', 'and', 'pastry']",pastry,and
+"Q: What is the last word of the sentence ""The king loved peanut butter cookies""? A:","['the', 'king', 'loved', 'peanut', 'butter', 'cookies']",cookies,loved
+"Q: In the sentence ""The roof of the building is leaking"", what is the last word? A:","['the', 'roof', 'of', 'the', 'building', 'is', 'leaking']",leaking,of
+"Write the last word of the sentence ""Brian was wiping the wall behind the stove"": ","['brian', 'was', 'wiping', 'the', 'wall', 'behind', 'the', 'stove']",stove,the
+"Q: In the sentence ""The child became a man"", what is the last word? A:","['the', 'child', 'became', 'a', 'man']",man,child
+"Q: In the sentence ""The contract is subject to approval by my committee"", what is the last word? A:","['the', 'contract', 'is', 'subject', 'to', 'approval', 'by', 'my', 'committee']",committee,my
+"Q: What is the last word of the sentence ""Mary sang for anyone who wanted to hear her""? A:","['mary', 'sang', 'for', 'anyone', 'who', 'wanted', 'to', 'hear', 'her']",her,who
+"Write the last word of the sentence ""I shipped the package halfway around the world"": ","['i', 'shipped', 'the', 'package', 'halfway', 'around', 'the', 'world']",world,the
+"Write the last word of the sentence ""He looks so formidable"": ","['he', 'looks', 'so', 'formidable']",formidable,so
+"Q: What is the last word of the sentence ""I know a taller man than John""? A:","['i', 'know', 'a', 'taller', 'man', 'than', 'john']",john,than
+"Q: In the sentence ""Most of the children are here"", what is the last word? A:","['most', 'of', 'the', 'children', 'are', 'here']",here,children
+"Write the last word of the sentence ""Steve tossed the ball into the garden"": ","['steve', 'tossed', 'the', 'ball', 'into', 'the', 'garden']",garden,steve
+"Q: What is the last word of the sentence ""Sally believes that she is brilliant""? A:","['sally', 'believes', 'that', 'she', 'is', 'brilliant']",brilliant,is
+"Q: What is the last word of the sentence ""John promised Bill to leave""? A:","['john', 'promised', 'bill', 'to', 'leave']",leave,promised
+"Q: In the sentence ""The fans were deliberately provoked by a rival group"", what is the last word? A:","['the', 'fans', 'were', 'deliberately', 'provoked', 'by', 'a', 'rival', 'group']",group,provoked
+"Q: In the sentence ""There appeared a ship on the horizon"", what is the last word? A:","['there', 'appeared', 'a', 'ship', 'on', 'the', 'horizon']",horizon,ship
+"Q: What is the last word of the sentence ""The needle poked the cloth""? A:","['the', 'needle', 'poked', 'the', 'cloth']",cloth,poked
+"Q: In the sentence ""Lou forgot the umbrella"", what is the last word? A:","['lou', 'forgot', 'the', 'umbrella']",umbrella,the
+"Q: What is the last word of the sentence ""Fanny regretted having talked to Mary""? A:","['fanny', 'regretted', 'having', 'talked', 'to', 'mary']",mary,talked
+"Q: What is the last word of the sentence ""They talked to Kim and to each other""? A:","['they', 'talked', 'to', 'kim', 'and', 'to', 'each', 'other']",other,to
+"Q: In the sentence ""The room reeked of onions"", what is the last word? A:","['the', 'room', 'reeked', 'of', 'onions']",onions,the
+"Write the last word of the sentence ""John tried to leave"": ","['john', 'tried', 'to', 'leave']",leave,john
+"Q: What is the last word of the sentence ""I showed Mary several portraits of herself""? A:","['i', 'showed', 'mary', 'several', 'portraits', 'of', 'herself']",herself,mary
+"Write the last word of the sentence ""Bill ate more peaches than Harry did grapes"": ","['bill', 'ate', 'more', 'peaches', 'than', 'harry', 'did', 'grapes']",grapes,peaches
+"Write the last word of the sentence ""Sally believes that she is brilliant"": ","['sally', 'believes', 'that', 'she', 'is', 'brilliant']",brilliant,sally
+"Q: What is the last word of the sentence ""Carmen obtained a spare part from Diana""? A:","['carmen', 'obtained', 'a', 'spare', 'part', 'from', 'diana']",diana,obtained
+"Write the last word of the sentence ""You are a student"": ","['you', 'are', 'a', 'student']",student,student
+"Q: What is the last word of the sentence ""He has left""? A:","['he', 'has', 'left']",left,left
+"Q: What is the last word of the sentence ""Dina posed as a lawyer""? A:","['dina', 'posed', 'as', 'a', 'lawyer']",lawyer,as
+"Q: In the sentence ""The beaver built a dam"", what is the last word? A:","['the', 'beaver', 'built', 'a', 'dam']",dam,built
+"Q: In the sentence ""The jury believed the defendant lied"", what is the last word? A:","['the', 'jury', 'believed', 'the', 'defendant', 'lied']",lied,the
+"Write the last word of the sentence ""Lou put the umbrella in the closet"": ","['lou', 'put', 'the', 'umbrella', 'in', 'the', 'closet']",closet,the
+"Q: In the sentence ""Rory eats muffins"", what is the last word? A:","['rory', 'eats', 'muffins']",muffins,muffins
+"Q: What is the last word of the sentence ""John learned French perfectly""? A:","['john', 'learned', 'french', 'perfectly']",perfectly,learned
+"Q: In the sentence ""Bill gave Sue the book"", what is the last word? A:","['bill', 'gave', 'sue', 'the', 'book']",book,book
+"Q: In the sentence ""I did it more in jest than in anger"", what is the last word? A:","['i', 'did', 'it', 'more', 'in', 'jest', 'than', 'in', 'anger']",anger,in
+"Write the last word of the sentence ""I know a taller man than John"": ","['i', 'know', 'a', 'taller', 'man', 'than', 'john']",john,know
+"Q: In the sentence ""John wants to leave"", what is the last word? A:","['john', 'wants', 'to', 'leave']",leave,to
+"Q: What is the last word of the sentence ""Penny skated around the rink""? A:","['penny', 'skated', 'around', 'the', 'rink']",rink,rink
+"Q: What is the last word of the sentence ""Alison poked the needle through the cloth""? A:","['alison', 'poked', 'the', 'needle', 'through', 'the', 'cloth']",cloth,the
+"Q: What is the last word of the sentence ""Visiting relatives can be boring""? A:","['visiting', 'relatives', 'can', 'be', 'boring']",boring,can
+"Write the last word of the sentence ""I climbed up the tree"": ","['i', 'climbed', 'up', 'the', 'tree']",tree,tree
+"Q: In the sentence ""It seems that John is likely to win"", what is the last word? A:","['it', 'seems', 'that', 'john', 'is', 'likely', 'to', 'win']",win,seems
+"Q: In the sentence ""The men will all leave"", what is the last word? A:","['the', 'men', 'will', 'all', 'leave']",leave,men
+"Q: In the sentence ""The computer will calculate the value of the variable"", what is the last word? A:","['the', 'computer', 'will', 'calculate', 'the', 'value', 'of', 'the', 'variable']",variable,of
+"Q: What is the last word of the sentence ""That surprised me""? A:","['that', 'surprised', 'me']",me,that
+"Q: What is the last word of the sentence ""The jeweller decorated the ring""? A:","['the', 'jeweller', 'decorated', 'the', 'ring']",ring,ring
+"Q: What is the last word of the sentence ""Dana is longing for a sunny day""? A:","['dana', 'is', 'longing', 'for', 'a', 'sunny', 'day']",day,a
+"Q: In the sentence ""She always wore purple dresses"", what is the last word? A:","['she', 'always', 'wore', 'purple', 'dresses']",dresses,she
+"Q: In the sentence ""The moon glows in the darkness"", what is the last word? A:","['the', 'moon', 'glows', 'in', 'the', 'darkness']",darkness,the
+"Write the last word of the sentence ""My eyes are itching"": ","['my', 'eyes', 'are', 'itching']",itching,eyes
+"Write the last word of the sentence ""John believes that Bill saw him"": ","['john', 'believes', 'that', 'bill', 'saw', 'him']",him,saw
+"Q: In the sentence ""Odysseus planned to hear the sirens"", what is the last word? A:","['odysseus', 'planned', 'to', 'hear', 'the', 'sirens']",sirens,the
+"Write the last word of the sentence ""The brave are not afraid to die"": ","['the', 'brave', 'are', 'not', 'afraid', 'to', 'die']",die,to
+"Write the last word of the sentence ""This should be the beginning of a beautiful friendship"": ","['this', 'should', 'be', 'the', 'beginning', 'of', 'a', 'beautiful', 'friendship']",friendship,should
+"Write the last word of the sentence ""The tree dropped fruit to the ground"": ","['the', 'tree', 'dropped', 'fruit', 'to', 'the', 'ground']",ground,tree
+"Q: What is the last word of the sentence ""The roses bloomed""? A:","['the', 'roses', 'bloomed']",bloomed,bloomed
+"Write the last word of the sentence ""I wonder if you will come back tomorrow"": ","['i', 'wonder', 'if', 'you', 'will', 'come', 'back', 'tomorrow']",tomorrow,tomorrow
+"Write the last word of the sentence ""The audience watched the movie"": ","['the', 'audience', 'watched', 'the', 'movie']",movie,the
+"Write the last word of the sentence ""Carla was shoveling the walk"": ","['carla', 'was', 'shoveling', 'the', 'walk']",walk,the
+"Q: What is the last word of the sentence ""The music echoed""? A:","['the', 'music', 'echoed']",echoed,echoed
+"Q: In the sentence ""That movie always shocks people"", what is the last word? A:","['that', 'movie', 'always', 'shocks', 'people']",people,always
+"Write the last word of the sentence ""Some people consider the dogs in my neighborhood dangerous"": ","['some', 'people', 'consider', 'the', 'dogs', 'in', 'my', 'neighborhood', 'dangerous']",dangerous,consider
+"Q: What is the last word of the sentence ""It annoys people that dogs bark""? A:","['it', 'annoys', 'people', 'that', 'dogs', 'bark']",bark,annoys
+"Write the last word of the sentence ""We persuaded the dentist to examine us"": ","['we', 'persuaded', 'the', 'dentist', 'to', 'examine', 'us']",us,persuaded
+"Q: What is the last word of the sentence ""Mary has more enemies than Bill has friends""? A:","['mary', 'has', 'more', 'enemies', 'than', 'bill', 'has', 'friends']",friends,enemies
+"Q: In the sentence ""The voices echoed in the hall"", what is the last word? A:","['the', 'voices', 'echoed', 'in', 'the', 'hall']",hall,echoed
+"Q: What is the last word of the sentence ""John received the parcel""? A:","['john', 'received', 'the', 'parcel']",parcel,parcel
+"Write the last word of the sentence ""Ron certainly will buy a dog"": ","['ron', 'certainly', 'will', 'buy', 'a', 'dog']",dog,buy
+"Q: In the sentence ""Max gave the car a shove"", what is the last word? A:","['max', 'gave', 'the', 'car', 'a', 'shove']",shove,gave
+"Write the last word of the sentence ""People from Tucson think very highly of themselves"": ","['people', 'from', 'tucson', 'think', 'very', 'highly', 'of', 'themselves']",themselves,think
+"Q: In the sentence ""John suddenly got off the bus"", what is the last word? A:","['john', 'suddenly', 'got', 'off', 'the', 'bus']",bus,off
+"Q: In the sentence ""Frances hid the presents in the drawer"", what is the last word? A:","['frances', 'hid', 'the', 'presents', 'in', 'the', 'drawer']",drawer,frances
+"Q: What is the last word of the sentence ""He did not leave""? A:","['he', 'did', 'not', 'leave']",leave,he
+"Q: What is the last word of the sentence ""John told Mary to kiss him""? A:","['john', 'told', 'mary', 'to', 'kiss', 'him']",him,mary
+"Q: In the sentence ""They want to be kind to her"", what is the last word? A:","['they', 'want', 'to', 'be', 'kind', 'to', 'her']",her,her
+"Q: In the sentence ""I asked where you found it"", what is the last word? A:","['i', 'asked', 'where', 'you', 'found', 'it']",it,you
+"Q: What is the last word of the sentence ""A magnificent diamond sparkled on his finger""? A:","['a', 'magnificent', 'diamond', 'sparkled', 'on', 'his', 'finger']",finger,his
+"Write the last word of the sentence ""The secretary transcribed the speech into the record"": ","['the', 'secretary', 'transcribed', 'the', 'speech', 'into', 'the', 'record']",record,into
+"Write the last word of the sentence ""They have no TV"": ","['they', 'have', 'no', 'tv']",tv,have
+"Q: What is the last word of the sentence ""Mary did not avoid Bill""? A:","['mary', 'did', 'not', 'avoid', 'bill']",bill,mary
+"Write the last word of the sentence ""Paul laughed at Mary"": ","['paul', 'laughed', 'at', 'mary']",mary,at
+"Write the last word of the sentence ""I doubt you can help me in understanding this"": ","['i', 'doubt', 'you', 'can', 'help', 'me', 'in', 'understanding', 'this']",this,this
+"Q: In the sentence ""Bill dried the clothes"", what is the last word? A:","['bill', 'dried', 'the', 'clothes']",clothes,the
+"Q: What is the last word of the sentence ""Frank gave a piano to Jane Fairfax""? A:","['frank', 'gave', 'a', 'piano', 'to', 'jane', 'fairfax']",fairfax,to
+"Write the last word of the sentence ""They want to be kind to her"": ","['they', 'want', 'to', 'be', 'kind', 'to', 'her']",her,be
+"Q: In the sentence ""I ate the sugar"", what is the last word? A:","['i', 'ate', 'the', 'sugar']",sugar,sugar
+"Write the last word of the sentence ""Jasmine pushed the door open"": ","['jasmine', 'pushed', 'the', 'door', 'open']",open,the
+"Q: In the sentence ""The soldier was given the medal by Phillip"", what is the last word? A:","['the', 'soldier', 'was', 'given', 'the', 'medal', 'by', 'phillip']",phillip,by
+"Q: What is the last word of the sentence ""A serious accident happened yesterday""? A:","['a', 'serious', 'accident', 'happened', 'yesterday']",yesterday,accident
+"Q: In the sentence ""John talked to any politician who is powerful"", what is the last word? A:","['john', 'talked', 'to', 'any', 'politician', 'who', 'is', 'powerful']",powerful,is
+"Q: What is the last word of the sentence ""Jennifer craned her neck""? A:","['jennifer', 'craned', 'her', 'neck']",neck,her
+"Write the last word of the sentence ""They pushed the prisoners into the truck"": ","['they', 'pushed', 'the', 'prisoners', 'into', 'the', 'truck']",truck,into
+"Q: In the sentence ""We pulled free"", what is the last word? A:","['we', 'pulled', 'free']",free,free
+"Write the last word of the sentence ""The needle poked the cloth"": ","['the', 'needle', 'poked', 'the', 'cloth']",cloth,the
+"Q: What is the last word of the sentence ""He planted the garden last November with roses""? A:","['he', 'planted', 'the', 'garden', 'last', 'november', 'with', 'roses']",roses,the
+"Q: What is the last word of the sentence ""I compared Ginger to Fred""? A:","['i', 'compared', 'ginger', 'to', 'fred']",fred,compared
+"Q: What is the last word of the sentence ""The child broke the teapot by accident""? A:","['the', 'child', 'broke', 'the', 'teapot', 'by', 'accident']",accident,teapot
+"Write the last word of the sentence ""The dentist was persuaded to examine Pat"": ","['the', 'dentist', 'was', 'persuaded', 'to', 'examine', 'pat']",pat,examine
+"Q: In the sentence ""Ellen warned against skating on thin ice"", what is the last word? A:","['ellen', 'warned', 'against', 'skating', 'on', 'thin', 'ice']",ice,on
+"Q: In the sentence ""Ellen talked with Helen about the problem"", what is the last word? A:","['ellen', 'talked', 'with', 'helen', 'about', 'the', 'problem']",problem,with
+"Q: What is the last word of the sentence ""His expectations are always lower than mine""? A:","['his', 'expectations', 'are', 'always', 'lower', 'than', 'mine']",mine,lower
+"Q: In the sentence ""I am more angry than sad"", what is the last word? A:","['i', 'am', 'more', 'angry', 'than', 'sad']",sad,than
+"Q: In the sentence ""Lou forgot the umbrella in the closet"", what is the last word? A:","['lou', 'forgot', 'the', 'umbrella', 'in', 'the', 'closet']",closet,the
+"Q: What is the last word of the sentence ""John is taller than Dill""? A:","['john', 'is', 'taller', 'than', 'dill']",dill,taller
+"Q: In the sentence ""few clues could be found"", what is the last word? A:","['few', 'clues', 'could', 'be', 'found']",found,could
+"Write the last word of the sentence ""Someone tried to leave the town"": ","['someone', 'tried', 'to', 'leave', 'the', 'town']",town,someone
+"Q: What is the last word of the sentence ""I herded the cattle""? A:","['i', 'herded', 'the', 'cattle']",cattle,the
+"Write the last word of the sentence ""I saw these dancers and those musicians smoking something"": ","['i', 'saw', 'these', 'dancers', 'and', 'those', 'musicians', 'smoking', 'something']",something,those
+"Q: What is the last word of the sentence ""Mira condemned Terry for the accident""? A:","['mira', 'condemned', 'terry', 'for', 'the', 'accident']",accident,the
+"Q: What is the last word of the sentence ""Tess was knocking at the door""? A:","['tess', 'was', 'knocking', 'at', 'the', 'door']",door,at
+"Q: In the sentence ""John hit the ball with a bat"", what is the last word? A:","['john', 'hit', 'the', 'ball', 'with', 'a', 'bat']",bat,a
+"Q: In the sentence ""It is a problem that he is here"", what is the last word? A:","['it', 'is', 'a', 'problem', 'that', 'he', 'is', 'here']",here,it
+"Q: What is the last word of the sentence ""I ate the sugar""? A:","['i', 'ate', 'the', 'sugar']",sugar,ate
+"Write the last word of the sentence ""I gave my brother a birthday present"": ","['i', 'gave', 'my', 'brother', 'a', 'birthday', 'present']",present,my
+"Q: In the sentence ""The storm arrived after the picnic"", what is the last word? A:","['the', 'storm', 'arrived', 'after', 'the', 'picnic']",picnic,after
+"Q: In the sentence ""There seems to be no student absent"", what is the last word? A:","['there', 'seems', 'to', 'be', 'no', 'student', 'absent']",absent,there
+"Write the last word of the sentence ""The executive committee approved the new policy"": ","['the', 'executive', 'committee', 'approved', 'the', 'new', 'policy']",policy,the
+"Write the last word of the sentence ""The sofa was longer than the desk was"": ","['the', 'sofa', 'was', 'longer', 'than', 'the', 'desk', 'was']",was,the
+"Q: What is the last word of the sentence ""I am drinking lemonade and eating a brownie""? A:","['i', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",brownie,and
+"Write the last word of the sentence ""Ellen and Helen conferred"": ","['ellen', 'and', 'helen', 'conferred']",conferred,and
+"Write the last word of the sentence ""They talked to Kim and to each other"": ","['they', 'talked', 'to', 'kim', 'and', 'to', 'each', 'other']",other,talked
+"Q: In the sentence ""The truck spread salts"", what is the last word? A:","['the', 'truck', 'spread', 'salts']",salts,the
+"Q: In the sentence ""Mary regretted that she did anything to help him"", what is the last word? A:","['mary', 'regretted', 'that', 'she', 'did', 'anything', 'to', 'help', 'him']",him,him
+"Write the last word of the sentence ""They saw Bill leave"": ","['they', 'saw', 'bill', 'leave']",leave,saw
+"Q: What is the last word of the sentence ""The computer will calculate the value of the variable""? A:","['the', 'computer', 'will', 'calculate', 'the', 'value', 'of', 'the', 'variable']",variable,the
+"Q: What is the last word of the sentence ""Herman whipped the cream""? A:","['herman', 'whipped', 'the', 'cream']",cream,cream
+"Q: What is the last word of the sentence ""The fly fell into the soup""? A:","['the', 'fly', 'fell', 'into', 'the', 'soup']",soup,fell
+"Q: What is the last word of the sentence ""Brian was wiping the wall behind the stove""? A:","['brian', 'was', 'wiping', 'the', 'wall', 'behind', 'the', 'stove']",stove,the
+"Q: In the sentence ""You will believe Bob"", what is the last word? A:","['you', 'will', 'believe', 'bob']",bob,will
+"Write the last word of the sentence ""That was why she looked so nice"": ","['that', 'was', 'why', 'she', 'looked', 'so', 'nice']",nice,looked
+"Q: In the sentence ""The king loved peanut butter cookies"", what is the last word? A:","['the', 'king', 'loved', 'peanut', 'butter', 'cookies']",cookies,butter
+"Q: In the sentence ""I am drinking lemonade and eating a brownie"", what is the last word? A:","['i', 'am', 'drinking', 'lemonade', 'and', 'eating', 'a', 'brownie']",brownie,eating
+"Q: What is the last word of the sentence ""I saw John on Sunday""? A:","['i', 'saw', 'john', 'on', 'sunday']",sunday,i
+"Write the last word of the sentence ""John wants to leave"": ","['john', 'wants', 'to', 'leave']",leave,to
+"Q: In the sentence ""John tried to kiss Mary"", what is the last word? A:","['john', 'tried', 'to', 'kiss', 'mary']",mary,mary
+"Q: What is the last word of the sentence ""There were several doctors available""? A:","['there', 'were', 'several', 'doctors', 'available']",available,there
+"Q: What is the last word of the sentence ""We were glad it was over""? A:","['we', 'were', 'glad', 'it', 'was', 'over']",over,were
+"Write the last word of the sentence ""That chisel carved the statue"": ","['that', 'chisel', 'carved', 'the', 'statue']",statue,statue
+"Q: In the sentence ""The river runs from the lake to the sea"", what is the last word? A:","['the', 'river', 'runs', 'from', 'the', 'lake', 'to', 'the', 'sea']",sea,runs
+"Q: What is the last word of the sentence ""I ate the apple""? A:","['i', 'ate', 'the', 'apple']",apple,the
+"Q: In the sentence ""The twins might have both been at the party"", what is the last word? A:","['the', 'twins', 'might', 'have', 'both', 'been', 'at', 'the', 'party']",party,both
+"Q: In the sentence ""I sent the package halfway around the world"", what is the last word? A:","['i', 'sent', 'the', 'package', 'halfway', 'around', 'the', 'world']",world,sent
+"Write the last word of the sentence ""Mary or Sue could tell you that"": ","['mary', 'or', 'sue', 'could', 'tell', 'you', 'that']",that,could
+"Q: What is the last word of the sentence ""Sonatas are easy to play on this violin""? A:","['sonatas', 'are', 'easy', 'to', 'play', 'on', 'this', 'violin']",violin,are
+"Q: What is the last word of the sentence ""Peter was at the party""? A:","['peter', 'was', 'at', 'the', 'party']",party,at
+"Q: In the sentence ""Julie felt he was there"", what is the last word? A:","['julie', 'felt', 'he', 'was', 'there']",there,there
+"Q: What is the last word of the sentence ""That whole wheat flour bakes wonderful bread""? A:","['that', 'whole', 'wheat', 'flour', 'bakes', 'wonderful', 'bread']",bread,that
+"Q: In the sentence ""Mary sang for everyone who wanted to hear her"", what is the last word? A:","['mary', 'sang', 'for', 'everyone', 'who', 'wanted', 'to', 'hear', 'her']",her,everyone
+"Write the last word of the sentence ""I hope nobody will hurt himself"": ","['i', 'hope', 'nobody', 'will', 'hurt', 'himself']",himself,himself
+"Q: What is the last word of the sentence ""Amanda carried the package to Pamela""? A:","['amanda', 'carried', 'the', 'package', 'to', 'pamela']",pamela,the
+"Write the last word of the sentence ""I will speak to Hector about this"": ","['i', 'will', 'speak', 'to', 'hector', 'about', 'this']",this,to
+"Q: What is the last word of the sentence ""I remembered having kissed Mary""? A:","['i', 'remembered', 'having', 'kissed', 'mary']",mary,remembered
+"Write the last word of the sentence ""Henry saw that Bill left"": ","['henry', 'saw', 'that', 'bill', 'left']",left,saw
+"Q: In the sentence ""The stream twists through the valley"", what is the last word? A:","['the', 'stream', 'twists', 'through', 'the', 'valley']",valley,through
+"Q: What is the last word of the sentence ""He was hoping for more than we offered""? A:","['he', 'was', 'hoping', 'for', 'more', 'than', 'we', 'offered']",offered,than
+"Q: What is the last word of the sentence ""Someone stole my car""? A:","['someone', 'stole', 'my', 'car']",car,someone
+"Q: In the sentence ""I know a taller man than John"", what is the last word? A:","['i', 'know', 'a', 'taller', 'man', 'than', 'john']",john,i
+"Q: What is the last word of the sentence ""There seems to be a nurse available""? A:","['there', 'seems', 'to', 'be', 'a', 'nurse', 'available']",available,available
+"Q: What is the last word of the sentence ""We recommend to eat less cake and pastry""? A:","['we', 'recommend', 'to', 'eat', 'less', 'cake', 'and', 'pastry']",pastry,less
+"Write the last word of the sentence ""Carla shoveled the snow from the walk"": ","['carla', 'shoveled', 'the', 'snow', 'from', 'the', 'walk']",walk,shoveled
+"Q: In the sentence ""I mixed the soap and the water"", what is the last word? A:","['i', 'mixed', 'the', 'soap', 'and', 'the', 'water']",water,the
+"Q: In the sentence ""John put his gold under the bathtub"", what is the last word? A:","['john', 'put', 'his', 'gold', 'under', 'the', 'bathtub']",bathtub,his
+"Q: What is the last word of the sentence ""Steve tossed the ball into the garden""? A:","['steve', 'tossed', 'the', 'ball', 'into', 'the', 'garden']",garden,the
+"Q: In the sentence ""Water fills the tub"", what is the last word? A:","['water', 'fills', 'the', 'tub']",tub,fills
+"Write the last word of the sentence ""It is likely that Jean will dance"": ","['it', 'is', 'likely', 'that', 'jean', 'will', 'dance']",dance,dance
+"Write the last word of the sentence ""We investigated the area for bombs"": ","['we', 'investigated', 'the', 'area', 'for', 'bombs']",bombs,investigated
+"Q: In the sentence ""The police sprayed water on the protesters"", what is the last word? A:","['the', 'police', 'sprayed', 'water', 'on', 'the', 'protesters']",protesters,on
+"Write the last word of the sentence ""He replied that he was happy"": ","['he', 'replied', 'that', 'he', 'was', 'happy']",happy,that
+"Write the last word of the sentence ""I ordered John to drink his beer"": ","['i', 'ordered', 'john', 'to', 'drink', 'his', 'beer']",beer,to
+"Write the last word of the sentence ""Gary and Kevin ran themselves into exhaustion"": ","['gary', 'and', 'kevin', 'ran', 'themselves', 'into', 'exhaustion']",exhaustion,gary
+"Q: In the sentence ""Amanda drove the package from Boston"", what is the last word? A:","['amanda', 'drove', 'the', 'package', 'from', 'boston']",boston,boston
+"Q: In the sentence ""Paula spanked the naughty child on the back"", what is the last word? A:","['paula', 'spanked', 'the', 'naughty', 'child', 'on', 'the', 'back']",back,the
+"Q: What is the last word of the sentence ""Dracula thought himself to be the Prince of Darkness""? A:","['dracula', 'thought', 'himself', 'to', 'be', 'the', 'prince', 'of', 'darkness']",darkness,prince
+"Q: In the sentence ""The tuna will be eaten"", what is the last word? A:","['the', 'tuna', 'will', 'be', 'eaten']",eaten,eaten
+"Q: What is the last word of the sentence ""Fiona persuaded Arthur to bake a cake""? A:","['fiona', 'persuaded', 'arthur', 'to', 'bake', 'a', 'cake']",cake,persuaded
+"Write the last word of the sentence ""A boy hit the ball"": ","['a', 'boy', 'hit', 'the', 'ball']",ball,ball
+"Write the last word of the sentence ""Dave and Alina left"": ","['dave', 'and', 'alina', 'left']",left,alina
+"Write the last word of the sentence ""Cats ate the spider"": ","['cats', 'ate', 'the', 'spider']",spider,cats
+"Write the last word of the sentence ""David constructed a house from bricks"": ","['david', 'constructed', 'a', 'house', 'from', 'bricks']",bricks,bricks
+"Q: What is the last word of the sentence ""John asked whether she left""? A:","['john', 'asked', 'whether', 'she', 'left']",left,whether
+"Q: In the sentence ""Lou put the umbrella in the closet"", what is the last word? A:","['lou', 'put', 'the', 'umbrella', 'in', 'the', 'closet']",closet,put
+"Q: In the sentence ""Smith inscribed his name over the door"", what is the last word? A:","['smith', 'inscribed', 'his', 'name', 'over', 'the', 'door']",door,the
+"Write the last word of the sentence ""Odysseus planned to hear the sirens"": ","['odysseus', 'planned', 'to', 'hear', 'the', 'sirens']",sirens,odysseus
+"Q: What is the last word of the sentence ""Not speaking English is a disadvantage""? A:","['not', 'speaking', 'english', 'is', 'a', 'disadvantage']",disadvantage,is
+"Q: In the sentence ""The weights stretched the rope over the pulley"", what is the last word? A:","['the', 'weights', 'stretched', 'the', 'rope', 'over', 'the', 'pulley']",pulley,the
+"Q: In the sentence ""John sang beautifully"", what is the last word? A:","['john', 'sang', 'beautifully']",beautifully,beautifully
+"Write the last word of the sentence ""Visiting relatives can be boring"": ","['visiting', 'relatives', 'can', 'be', 'boring']",boring,visiting
+"Q: In the sentence ""They saw Bill leave"", what is the last word? A:","['they', 'saw', 'bill', 'leave']",leave,they
+"Q: What is the last word of the sentence ""The guests dined""? A:","['the', 'guests', 'dined']",dined,guests
+"Q: What is the last word of the sentence ""I asked who she kissed""? A:","['i', 'asked', 'who', 'she', 'kissed']",kissed,i
+"Q: In the sentence ""The peanut butter has got moldy"", what is the last word? A:","['the', 'peanut', 'butter', 'has', 'got', 'moldy']",moldy,the
+"Q: What is the last word of the sentence ""Lou forgot the umbrella""? A:","['lou', 'forgot', 'the', 'umbrella']",umbrella,lou
+"Q: What is the last word of the sentence ""The librarian likes books""? A:","['the', 'librarian', 'likes', 'books']",books,the
+"Q: What is the last word of the sentence ""I mixed the sugar into the butter""? A:","['i', 'mixed', 'the', 'sugar', 'into', 'the', 'butter']",butter,the
+"Q: What is the last word of the sentence ""John arranged for himself to get the prize""? A:","['john', 'arranged', 'for', 'himself', 'to', 'get', 'the', 'prize']",prize,the
+"Q: In the sentence ""Ted was bitten by the spider"", what is the last word? A:","['ted', 'was', 'bitten', 'by', 'the', 'spider']",spider,ted
+"Q: What is the last word of the sentence ""Henry saw that Bill left""? A:","['henry', 'saw', 'that', 'bill', 'left']",left,that
+"Write the last word of the sentence ""Sandy removed her ballet shoes"": ","['sandy', 'removed', 'her', 'ballet', 'shoes']",shoes,shoes
+"Q: What is the last word of the sentence ""A choir sang in the church""? A:","['a', 'choir', 'sang', 'in', 'the', 'church']",church,a
+"Q: What is the last word of the sentence ""We contributed our paycheck to her""? A:","['we', 'contributed', 'our', 'paycheck', 'to', 'her']",her,to
+"Write the last word of the sentence ""The policeman kissed the puppy"": ","['the', 'policeman', 'kissed', 'the', 'puppy']",puppy,the
+"Write the last word of the sentence ""Carla mopped the floor under the furniture"": ","['carla', 'mopped', 'the', 'floor', 'under', 'the', 'furniture']",furniture,the
+"Q: In the sentence ""Steve tossed the ball at Anna"", what is the last word? A:","['steve', 'tossed', 'the', 'ball', 'at', 'anna']",anna,anna
+"Q: In the sentence ""The car collided with the fence"", what is the last word? A:","['the', 'car', 'collided', 'with', 'the', 'fence']",fence,collided
+"Q: In the sentence ""That surprised me"", what is the last word? A:","['that', 'surprised', 'me']",me,me
+"Write the last word of the sentence ""Few approve of our remedy"": ","['few', 'approve', 'of', 'our', 'remedy']",remedy,our
+"Q: What is the last word of the sentence ""The drooling dog kissed the big boy""? A:","['the', 'drooling', 'dog', 'kissed', 'the', 'big', 'boy']",boy,the
+"Write the last word of the sentence ""Leslie was in the flood zone"": ","['leslie', 'was', 'in', 'the', 'flood', 'zone']",zone,leslie
+"Write the last word of the sentence ""Paula swatted the fly"": ","['paula', 'swatted', 'the', 'fly']",fly,the
+"Q: What is the last word of the sentence ""I wanted him to leave""? A:","['i', 'wanted', 'him', 'to', 'leave']",leave,to
+"Q: What is the last word of the sentence ""I like circus performers""? A:","['i', 'like', 'circus', 'performers']",performers,like
+"Q: In the sentence ""The executive committee approved the new policy"", what is the last word? A:","['the', 'executive', 'committee', 'approved', 'the', 'new', 'policy']",policy,committee
+"Q: What is the last word of the sentence ""Never had Sir Thomas been so offended""? A:","['never', 'had', 'sir', 'thomas', 'been', 'so', 'offended']",offended,been
+"Q: In the sentence ""The oil and vinegar separated"", what is the last word? A:","['the', 'oil', 'and', 'vinegar', 'separated']",separated,and
+"Write the last word of the sentence ""An old woman lived in the forest"": ","['an', 'old', 'woman', 'lived', 'in', 'the', 'forest']",forest,in
+"Q: What is the last word of the sentence ""Stephen seemed to be intelligent""? A:","['stephen', 'seemed', 'to', 'be', 'intelligent']",intelligent,seemed
+"Q: In the sentence ""The kids have arrived safely"", what is the last word? A:","['the', 'kids', 'have', 'arrived', 'safely']",safely,the
+"Q: In the sentence ""Bill broke the bathtub"", what is the last word? A:","['bill', 'broke', 'the', 'bathtub']",bathtub,the
+"Q: In the sentence ""Louis was forgiven by Susan"", what is the last word? A:","['louis', 'was', 'forgiven', 'by', 'susan']",susan,louis
+"Q: What is the last word of the sentence ""John sang a song and danced to the music""? A:","['john', 'sang', 'a', 'song', 'and', 'danced', 'to', 'the', 'music']",music,sang
+"Q: What is the last word of the sentence ""Jane played the piano""? A:","['jane', 'played', 'the', 'piano']",piano,the
+"Q: In the sentence ""She writes more clearly than she speaks"", what is the last word? A:","['she', 'writes', 'more', 'clearly', 'than', 'she', 'speaks']",speaks,than
+"Q: What is the last word of the sentence ""A large ship appeared on the horizon""? A:","['a', 'large', 'ship', 'appeared', 'on', 'the', 'horizon']",horizon,appeared
+"Write the last word of the sentence ""The dog barked at the cat"": ","['the', 'dog', 'barked', 'at', 'the', 'cat']",cat,at
+"Q: In the sentence ""Not speaking English is a disadvantage"", what is the last word? A:","['not', 'speaking', 'english', 'is', 'a', 'disadvantage']",disadvantage,english
+"Write the last word of the sentence ""There remained just a few problems to be solved"": ","['there', 'remained', 'just', 'a', 'few', 'problems', 'to', 'be', 'solved']",solved,a
+"Q: What is the last word of the sentence ""The bed which Tom slept on was hard""? A:","['the', 'bed', 'which', 'tom', 'slept', 'on', 'was', 'hard']",hard,the
+"Write the last word of the sentence ""Susan told her a story"": ","['susan', 'told', 'her', 'a', 'story']",story,susan
+"Q: In the sentence ""John often meets Mary"", what is the last word? A:","['john', 'often', 'meets', 'mary']",mary,often
+"Q: In the sentence ""That barn has seven pine trees behind it"", what is the last word? A:","['that', 'barn', 'has', 'seven', 'pine', 'trees', 'behind', 'it']",it,trees
+"Q: In the sentence ""Dracula thought himself to be the Prince of Darkness"", what is the last word? A:","['dracula', 'thought', 'himself', 'to', 'be', 'the', 'prince', 'of', 'darkness']",darkness,of
+"Q: What is the last word of the sentence ""I saw him leaving the main building""? A:","['i', 'saw', 'him', 'leaving', 'the', 'main', 'building']",building,leaving
+"Write the last word of the sentence ""Mary taught linguistics to John"": ","['mary', 'taught', 'linguistics', 'to', 'john']",john,to
+"Write the last word of the sentence ""John fears dogs"": ","['john', 'fears', 'dogs']",dogs,john
+"Q: In the sentence ""Many people were dying of thirst"", what is the last word? A:","['many', 'people', 'were', 'dying', 'of', 'thirst']",thirst,thirst
+"Q: In the sentence ""Mira blamed Terry for the accident"", what is the last word? A:","['mira', 'blamed', 'terry', 'for', 'the', 'accident']",accident,the
+"Q: What is the last word of the sentence ""The dentist is likely to examine Pat""? A:","['the', 'dentist', 'is', 'likely', 'to', 'examine', 'pat']",pat,the
+"Write the last word of the sentence ""He planted the garden last November with roses"": ","['he', 'planted', 'the', 'garden', 'last', 'november', 'with', 'roses']",roses,the
+"Write the last word of the sentence ""Kim jogs over the hill"": ","['kim', 'jogs', 'over', 'the', 'hill']",hill,over
+"Write the last word of the sentence ""The agency classified the documents"": ","['the', 'agency', 'classified', 'the', 'documents']",documents,documents
+"Q: What is the last word of the sentence ""John whined that he was hungry""? A:","['john', 'whined', 'that', 'he', 'was', 'hungry']",hungry,hungry
+"Q: In the sentence ""He got what he wanted"", what is the last word? A:","['he', 'got', 'what', 'he', 'wanted']",wanted,wanted
+"Q: In the sentence ""John called the president a fool"", what is the last word? A:","['john', 'called', 'the', 'president', 'a', 'fool']",fool,called
+"Q: In the sentence ""John promised us to be gentle"", what is the last word? A:","['john', 'promised', 'us', 'to', 'be', 'gentle']",gentle,gentle
+"Q: In the sentence ""John is as intelligent as Mary"", what is the last word? A:","['john', 'is', 'as', 'intelligent', 'as', 'mary']",mary,mary
+"Write the last word of the sentence ""I sensed his eagerness"": ","['i', 'sensed', 'his', 'eagerness']",eagerness,his
+"Write the last word of the sentence ""John put carrots from his garden in the salad"": ","['john', 'put', 'carrots', 'from', 'his', 'garden', 'in', 'the', 'salad']",salad,the
+"Q: In the sentence ""Tony broke her arm"", what is the last word? A:","['tony', 'broke', 'her', 'arm']",arm,arm
+"Write the last word of the sentence ""Rory eats muffins"": ","['rory', 'eats', 'muffins']",muffins,eats
+"Q: In the sentence ""Mary believed John to have loved her"", what is the last word? A:","['mary', 'believed', 'john', 'to', 'have', 'loved', 'her']",her,believed
+"Write the last word of the sentence ""Susan whispered to Rachel"": ","['susan', 'whispered', 'to', 'rachel']",rachel,to
+"Q: What is the last word of the sentence ""The teacher made students happy""? A:","['the', 'teacher', 'made', 'students', 'happy']",happy,happy
+"Q: In the sentence ""You may pick any flower"", what is the last word? A:","['you', 'may', 'pick', 'any', 'flower']",flower,any
+"Write the last word of the sentence ""Tony broke the window"": ","['tony', 'broke', 'the', 'window']",window,the
+"Q: What is the last word of the sentence ""Martha climbed the mountain""? A:","['martha', 'climbed', 'the', 'mountain']",mountain,climbed
+"Q: In the sentence ""The butcher cuts the meat"", what is the last word? A:","['the', 'butcher', 'cuts', 'the', 'meat']",meat,butcher
+"Write the last word of the sentence ""Bill cooked the rice"": ","['bill', 'cooked', 'the', 'rice']",rice,the
+"Q: What is the last word of the sentence ""A fire raged all through the mountains""? A:","['a', 'fire', 'raged', 'all', 'through', 'the', 'mountains']",mountains,the
+"Q: In the sentence ""Martha climbed the mountain"", what is the last word? A:","['martha', 'climbed', 'the', 'mountain']",mountain,climbed
+"Q: What is the last word of the sentence ""An owl hunts mice""? A:","['an', 'owl', 'hunts', 'mice']",mice,hunts
+"Q: In the sentence ""There seems to be a fountain in the park"", what is the last word? A:","['there', 'seems', 'to', 'be', 'a', 'fountain', 'in', 'the', 'park']",park,in
+"Write the last word of the sentence ""Many people drink beer or wine"": ","['many', 'people', 'drink', 'beer', 'or', 'wine']",wine,or
+"Q: What is the last word of the sentence ""Margaret cut Bill on the arm""? A:","['margaret', 'cut', 'bill', 'on', 'the', 'arm']",arm,on
+"Write the last word of the sentence ""The river runs from the lake to the sea"": ","['the', 'river', 'runs', 'from', 'the', 'lake', 'to', 'the', 'sea']",sea,sea
+"Write the last word of the sentence ""John suddenly got off the bus"": ","['john', 'suddenly', 'got', 'off', 'the', 'bus']",bus,the
+"Q: What is the last word of the sentence ""They believed that everybody would pass the test""? A:","['they', 'believed', 'that', 'everybody', 'would', 'pass', 'the', 'test']",test,pass
+"Write the last word of the sentence ""These books disappoint me"": ","['these', 'books', 'disappoint', 'me']",me,these
+"Q: What is the last word of the sentence ""That movie always shocks people""? A:","['that', 'movie', 'always', 'shocks', 'people']",people,movie
+"Write the last word of the sentence ""Susan frightens her"": ","['susan', 'frightens', 'her']",her,susan
+"Q: In the sentence ""I bought some flowers for Manuel"", what is the last word? A:","['i', 'bought', 'some', 'flowers', 'for', 'manuel']",manuel,i
+"Write the last word of the sentence ""Maxwell is quite a doctor"": ","['maxwell', 'is', 'quite', 'a', 'doctor']",doctor,doctor
+"Write the last word of the sentence ""Angus is not leaving"": ","['angus', 'is', 'not', 'leaving']",leaving,is
+"Q: In the sentence ""I saw that gas can explode"", what is the last word? A:","['i', 'saw', 'that', 'gas', 'can', 'explode']",explode,can
+"Q: What is the last word of the sentence ""Nora brought the book to Pamela""? A:","['nora', 'brought', 'the', 'book', 'to', 'pamela']",pamela,nora
+"Q: What is the last word of the sentence ""little information was provided""? A:","['little', 'information', 'was', 'provided']",provided,little
+"Q: What is the last word of the sentence ""Maggie hurried through the museum""? A:","['maggie', 'hurried', 'through', 'the', 'museum']",museum,hurried
+"Q: In the sentence ""We persuaded Mary to leave and Sue to stay"", what is the last word? A:","['we', 'persuaded', 'mary', 'to', 'leave', 'and', 'sue', 'to', 'stay']",stay,leave
+"Q: In the sentence ""John deprived his sons of game cards"", what is the last word? A:","['john', 'deprived', 'his', 'sons', 'of', 'game', 'cards']",cards,cards
+"Q: In the sentence ""The gardener grew that acorn into an oak tree"", what is the last word? A:","['the', 'gardener', 'grew', 'that', 'acorn', 'into', 'an', 'oak', 'tree']",tree,into
+"Write the last word of the sentence ""I broke those twigs and branches apart"": ","['i', 'broke', 'those', 'twigs', 'and', 'branches', 'apart']",apart,i
+"Q: What is the last word of the sentence ""The men would not enjoy that""? A:","['the', 'men', 'would', 'not', 'enjoy', 'that']",that,men
+"Q: What is the last word of the sentence ""Carla shoveled the snow from the walk""? A:","['carla', 'shoveled', 'the', 'snow', 'from', 'the', 'walk']",walk,the
+"Q: In the sentence ""The terrier attacked the burglar"", what is the last word? A:","['the', 'terrier', 'attacked', 'the', 'burglar']",burglar,the
+"Q: In the sentence ""Celia brushed her hair"", what is the last word? A:","['celia', 'brushed', 'her', 'hair']",hair,celia
+"Q: What is the last word of the sentence ""Mary plays the violin beautifully""? A:","['mary', 'plays', 'the', 'violin', 'beautifully']",beautifully,the
+"Q: In the sentence ""I presented a solution yesterday"", what is the last word? A:","['i', 'presented', 'a', 'solution', 'yesterday']",yesterday,i
+"Q: In the sentence ""John is eager to find a new home"", what is the last word? A:","['john', 'is', 'eager', 'to', 'find', 'a', 'new', 'home']",home,is
+"Q: In the sentence ""Jennifer shook her finger at the naughty child"", what is the last word? A:","['jennifer', 'shook', 'her', 'finger', 'at', 'the', 'naughty', 'child']",child,child
+"Q: What is the last word of the sentence ""A man kicked that ball""? A:","['a', 'man', 'kicked', 'that', 'ball']",ball,man
+"Q: In the sentence ""Someone tried to leave the town"", what is the last word? A:","['someone', 'tried', 'to', 'leave', 'the', 'town']",town,the
+"Q: What is the last word of the sentence ""They went to the theater in London""? A:","['they', 'went', 'to', 'the', 'theater', 'in', 'london']",london,to
+"Write the last word of the sentence ""They praised the volunteers for their dedication"": ","['they', 'praised', 'the', 'volunteers', 'for', 'their', 'dedication']",dedication,their
+"Q: What is the last word of the sentence ""John tried to please Stephen""? A:","['john', 'tried', 'to', 'please', 'stephen']",stephen,stephen
+"Q: What is the last word of the sentence ""I want him to eat asparagus""? A:","['i', 'want', 'him', 'to', 'eat', 'asparagus']",asparagus,asparagus
+"Q: What is the last word of the sentence ""I know I bought the book you recommended""? A:","['i', 'know', 'i', 'bought', 'the', 'book', 'you', 'recommended']",recommended,recommended
+"Write the last word of the sentence ""Kim is easy to please"": ","['kim', 'is', 'easy', 'to', 'please']",please,to
+"Q: In the sentence ""His expectations are always lower than mine"", what is the last word? A:","['his', 'expectations', 'are', 'always', 'lower', 'than', 'mine']",mine,lower
+"Q: What is the last word of the sentence ""The car was driven by John to Maine""? A:","['the', 'car', 'was', 'driven', 'by', 'john', 'to', 'maine']",maine,maine
+"Q: What is the last word of the sentence ""The force of the wind broke the window""? A:","['the', 'force', 'of', 'the', 'wind', 'broke', 'the', 'window']",window,broke
+"Q: In the sentence ""I compared Ginger to Fred"", what is the last word? A:","['i', 'compared', 'ginger', 'to', 'fred']",fred,fred
+"Write the last word of the sentence ""Clouds cleared from the sky"": ","['clouds', 'cleared', 'from', 'the', 'sky']",sky,sky
+"Q: In the sentence ""Drowning cats is against the law"", what is the last word? A:","['drowning', 'cats', 'is', 'against', 'the', 'law']",law,drowning
+"Q: In the sentence ""A hundred men lifted the table together"", what is the last word? A:","['a', 'hundred', 'men', 'lifted', 'the', 'table', 'together']",together,hundred
+"Q: In the sentence ""Tamara poured water into the bowl"", what is the last word? A:","['tamara', 'poured', 'water', 'into', 'the', 'bowl']",bowl,tamara
+"Write the last word of the sentence ""I read a statement which was about that man"": ","['i', 'read', 'a', 'statement', 'which', 'was', 'about', 'that', 'man']",man,i
+"Q: In the sentence ""She was sent to Seoul"", what is the last word? A:","['she', 'was', 'sent', 'to', 'seoul']",seoul,to
+"Q: What is the last word of the sentence ""Oil spread over the sea shore""? A:","['oil', 'spread', 'over', 'the', 'sea', 'shore']",shore,sea
+"Q: What is the last word of the sentence ""I wonder what John bought""? A:","['i', 'wonder', 'what', 'john', 'bought']",bought,john
+"Q: What is the last word of the sentence ""A magazine appeared on the newsstands""? A:","['a', 'magazine', 'appeared', 'on', 'the', 'newsstands']",newsstands,on
+"Write the last word of the sentence ""I gave a book to Bill to read"": ","['i', 'gave', 'a', 'book', 'to', 'bill', 'to', 'read']",read,to
+"Q: What is the last word of the sentence ""Sharon fainted from hunger""? A:","['sharon', 'fainted', 'from', 'hunger']",hunger,sharon
+"Write the last word of the sentence ""I bought it to read"": ","['i', 'bought', 'it', 'to', 'read']",read,read
+"Q: In the sentence ""He began writing poems"", what is the last word? A:","['he', 'began', 'writing', 'poems']",poems,he
+"Write the last word of the sentence ""Carla shoveled the snow from near the bushes"": ","['carla', 'shoveled', 'the', 'snow', 'from', 'near', 'the', 'bushes']",bushes,shoveled
+"Write the last word of the sentence ""I could have been flying helicopters by now"": ","['i', 'could', 'have', 'been', 'flying', 'helicopters', 'by', 'now']",now,could
+"Q: In the sentence ""That is a bird"", what is the last word? A:","['that', 'is', 'a', 'bird']",bird,is
+"Q: What is the last word of the sentence ""John drove the car""? A:","['john', 'drove', 'the', 'car']",car,car
+"Write the last word of the sentence ""Many people were dying of thirst"": ","['many', 'people', 'were', 'dying', 'of', 'thirst']",thirst,thirst
+"Q: What is the last word of the sentence ""We want John to win""? A:","['we', 'want', 'john', 'to', 'win']",win,john
+"Write the last word of the sentence ""Gerry became quite conservative"": ","['gerry', 'became', 'quite', 'conservative']",conservative,gerry
+"Q: In the sentence ""The secretary transcribed the speech into the record"", what is the last word? A:","['the', 'secretary', 'transcribed', 'the', 'speech', 'into', 'the', 'record']",record,into
+"Q: What is the last word of the sentence ""I cycled around France""? A:","['i', 'cycled', 'around', 'france']",france,around
+"Q: In the sentence ""It will rain tomorrow"", what is the last word? A:","['it', 'will', 'rain', 'tomorrow']",tomorrow,tomorrow
+"Q: What is the last word of the sentence ""Brutus murdered Julius Caesar with a dagger""? A:","['brutus', 'murdered', 'julius', 'caesar', 'with', 'a', 'dagger']",dagger,brutus
+"Q: What is the last word of the sentence ""Amanda drove the package to Pamela""? A:","['amanda', 'drove', 'the', 'package', 'to', 'pamela']",pamela,drove
+"Q: In the sentence ""Roses flowered in the garden"", what is the last word? A:","['roses', 'flowered', 'in', 'the', 'garden']",garden,the
+"Q: In the sentence ""Jake threw the ball halfway to Bill"", what is the last word? A:","['jake', 'threw', 'the', 'ball', 'halfway', 'to', 'bill']",bill,bill
+"Q: What is the last word of the sentence ""Fanny loved talking to Mary""? A:","['fanny', 'loved', 'talking', 'to', 'mary']",mary,mary
+"Q: In the sentence ""We were thankful that no one had been hurt"", what is the last word? A:","['we', 'were', 'thankful', 'that', 'no', 'one', 'had', 'been', 'hurt']",hurt,that
+"Q: What is the last word of the sentence ""Nora sent the book to London""? A:","['nora', 'sent', 'the', 'book', 'to', 'london']",london,sent
+"Q: What is the last word of the sentence ""The judge offered a prize to the winner""? A:","['the', 'judge', 'offered', 'a', 'prize', 'to', 'the', 'winner']",winner,the
+"Write the last word of the sentence ""Andy promised we would go"": ","['andy', 'promised', 'we', 'would', 'go']",go,we
+"Q: In the sentence ""The dentist was persuaded to examine Pat"", what is the last word? A:","['the', 'dentist', 'was', 'persuaded', 'to', 'examine', 'pat']",pat,the
+"Q: In the sentence ""Herman whipped the cream"", what is the last word? A:","['herman', 'whipped', 'the', 'cream']",cream,the
+"Q: What is the last word of the sentence ""People from Tucson think very highly of themselves""? A:","['people', 'from', 'tucson', 'think', 'very', 'highly', 'of', 'themselves']",themselves,themselves
+"Q: What is the last word of the sentence ""The book which inspired them was very long""? A:","['the', 'book', 'which', 'inspired', 'them', 'was', 'very', 'long']",long,long
+"Q: What is the last word of the sentence ""John tried to be a good boy""? A:","['john', 'tried', 'to', 'be', 'a', 'good', 'boy']",boy,be
+"Q: What is the last word of the sentence ""The mouse was chased by the cat""? A:","['the', 'mouse', 'was', 'chased', 'by', 'the', 'cat']",cat,chased
+"Q: What is the last word of the sentence ""Jessica sprayed water at me""? A:","['jessica', 'sprayed', 'water', 'at', 'me']",me,sprayed
+"Q: What is the last word of the sentence ""Students sent letters to the teacher""? A:","['students', 'sent', 'letters', 'to', 'the', 'teacher']",teacher,sent
+"Write the last word of the sentence ""The butcher cuts the meat"": ","['the', 'butcher', 'cuts', 'the', 'meat']",meat,the
+"Q: What is the last word of the sentence ""Bill drank from the hose""? A:","['bill', 'drank', 'from', 'the', 'hose']",hose,the
+"Write the last word of the sentence ""I know the people that voted in the election"": ","['i', 'know', 'the', 'people', 'that', 'voted', 'in', 'the', 'election']",election,election
+"Q: In the sentence ""The child broke the teapot by accident"", what is the last word? A:","['the', 'child', 'broke', 'the', 'teapot', 'by', 'accident']",accident,teapot
+"Q: In the sentence ""That chisel carved the statue"", what is the last word? A:","['that', 'chisel', 'carved', 'the', 'statue']",statue,statue
+"Q: In the sentence ""John learned a lesson"", what is the last word? A:","['john', 'learned', 'a', 'lesson']",lesson,a
+"Q: In the sentence ""The boy swims"", what is the last word? A:","['the', 'boy', 'swims']",swims,the
+"Q: In the sentence ""The child put the toy on the table"", what is the last word? A:","['the', 'child', 'put', 'the', 'toy', 'on', 'the', 'table']",table,toy
+"Write the last word of the sentence ""I did not understand"": ","['i', 'did', 'not', 'understand']",understand,i
+"Q: What is the last word of the sentence ""A large dog chased a small cat""? A:","['a', 'large', 'dog', 'chased', 'a', 'small', 'cat']",cat,chased
+"Q: What is the last word of the sentence ""Mary talks to any student""? A:","['mary', 'talks', 'to', 'any', 'student']",student,to
+"Q: In the sentence ""John went to the store"", what is the last word? A:","['john', 'went', 'to', 'the', 'store']",store,the
+"Write the last word of the sentence ""Poseidon appears to own a dragon"": ","['poseidon', 'appears', 'to', 'own', 'a', 'dragon']",dragon,appears
+"Q: In the sentence ""Few approve of our remedy"", what is the last word? A:","['few', 'approve', 'of', 'our', 'remedy']",remedy,remedy
+"Write the last word of the sentence ""Tess was knocking at the door"": ","['tess', 'was', 'knocking', 'at', 'the', 'door']",door,tess
+"Q: What is the last word of the sentence ""Angus is not leaving""? A:","['angus', 'is', 'not', 'leaving']",leaving,angus
+"Write the last word of the sentence ""I sent it to you"": ","['i', 'sent', 'it', 'to', 'you']",you,to
+"Write the last word of the sentence ""John tried to please Stephen"": ","['john', 'tried', 'to', 'please', 'stephen']",stephen,please
+"Q: What is the last word of the sentence ""John fears dogs""? A:","['john', 'fears', 'dogs']",dogs,dogs
+"Write the last word of the sentence ""The scene of the movie was in Chicago"": ","['the', 'scene', 'of', 'the', 'movie', 'was', 'in', 'chicago']",chicago,in
+"Write the last word of the sentence ""The artist drew the child with a pencil"": ","['the', 'artist', 'drew', 'the', 'child', 'with', 'a', 'pencil']",pencil,child
+"Q: In the sentence ""They have no car"", what is the last word? A:","['they', 'have', 'no', 'car']",car,have
+"Write the last word of the sentence ""This teacher is a genius"": ","['this', 'teacher', 'is', 'a', 'genius']",genius,teacher
+"Q: In the sentence ""Pat promised Leslie to be aggressive"", what is the last word? A:","['pat', 'promised', 'leslie', 'to', 'be', 'aggressive']",aggressive,be
+"Q: In the sentence ""A serious accident happened in front of them"", what is the last word? A:","['a', 'serious', 'accident', 'happened', 'in', 'front', 'of', 'them']",them,in
+"Q: What is the last word of the sentence ""Someone attended every seminar""? A:","['someone', 'attended', 'every', 'seminar']",seminar,every
+"Q: In the sentence ""Almost no lawyer could answer that question"", what is the last word? A:","['almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",question,lawyer
+"Q: What is the last word of the sentence ""The new policy was approved by the executive committee""? A:","['the', 'new', 'policy', 'was', 'approved', 'by', 'the', 'executive', 'committee']",committee,approved
+"Q: What is the last word of the sentence ""Last year I saw this film several times""? A:","['last', 'year', 'i', 'saw', 'this', 'film', 'several', 'times']",times,year
+"Q: What is the last word of the sentence ""You married no one""? A:","['you', 'married', 'no', 'one']",one,married
+"Q: In the sentence ""I climbed up the tree"", what is the last word? A:","['i', 'climbed', 'up', 'the', 'tree']",tree,i
+"Q: What is the last word of the sentence ""Several people are sick""? A:","['several', 'people', 'are', 'sick']",sick,are
+"Q: What is the last word of the sentence ""It is certain that John has loved Mary""? A:","['it', 'is', 'certain', 'that', 'john', 'has', 'loved', 'mary']",mary,that
+"Q: What is the last word of the sentence ""John made Mary cook Korean food""? A:","['john', 'made', 'mary', 'cook', 'korean', 'food']",food,made
+"Q: In the sentence ""John promised Mary that he would leave"", what is the last word? A:","['john', 'promised', 'mary', 'that', 'he', 'would', 'leave']",leave,would
+"Q: In the sentence ""I read a statement about that man"", what is the last word? A:","['i', 'read', 'a', 'statement', 'about', 'that', 'man']",man,that
+"Q: What is the last word of the sentence ""I doubt you can help me in understanding this""? A:","['i', 'doubt', 'you', 'can', 'help', 'me', 'in', 'understanding', 'this']",this,doubt
+"Q: What is the last word of the sentence ""Mary was respected by John""? A:","['mary', 'was', 'respected', 'by', 'john']",john,respected
+"Q: What is the last word of the sentence ""The teacher is proud of his students""? A:","['the', 'teacher', 'is', 'proud', 'of', 'his', 'students']",students,of
+"Write the last word of the sentence ""He kissed her"": ","['he', 'kissed', 'her']",her,kissed
+"Q: What is the last word of the sentence ""The mushrooms were sliced by the cook""? A:","['the', 'mushrooms', 'were', 'sliced', 'by', 'the', 'cook']",cook,cook
+"Write the last word of the sentence ""I sent a surprise present to John"": ","['i', 'sent', 'a', 'surprise', 'present', 'to', 'john']",john,sent
+"Write the last word of the sentence ""Everyone thinks he is smart"": ","['everyone', 'thinks', 'he', 'is', 'smart']",smart,is
+"Q: What is the last word of the sentence ""Many fish are in the sea""? A:","['many', 'fish', 'are', 'in', 'the', 'sea']",sea,are
+"Write the last word of the sentence ""The man killed the king with the knife"": ","['the', 'man', 'killed', 'the', 'king', 'with', 'the', 'knife']",knife,with
+"Write the last word of the sentence ""A fire raged all through the mountains"": ","['a', 'fire', 'raged', 'all', 'through', 'the', 'mountains']",mountains,through
+"Write the last word of the sentence ""The twins might have both been at the party"": ","['the', 'twins', 'might', 'have', 'both', 'been', 'at', 'the', 'party']",party,at
+"Write the last word of the sentence ""He washed her"": ","['he', 'washed', 'her']",her,her
+"Q: In the sentence ""Joseph has forgotten how many matches he has won"", what is the last word? A:","['joseph', 'has', 'forgotten', 'how', 'many', 'matches', 'he', 'has', 'won']",won,how
+"Q: In the sentence ""John spoke intimately to Mary"", what is the last word? A:","['john', 'spoke', 'intimately', 'to', 'mary']",mary,mary
+"Write the last word of the sentence ""I hope to study in France"": ","['i', 'hope', 'to', 'study', 'in', 'france']",france,to
+"Q: What is the last word of the sentence ""The captain named the ship Seafarer""? A:","['the', 'captain', 'named', 'the', 'ship', 'seafarer']",seafarer,the
+"Q: In the sentence ""Fanny pulled the blanket over her"", what is the last word? A:","['fanny', 'pulled', 'the', 'blanket', 'over', 'her']",her,her
+"Write the last word of the sentence ""I was hunting in the woods"": ","['i', 'was', 'hunting', 'in', 'the', 'woods']",woods,the
+"Write the last word of the sentence ""She writes more clearly than she speaks"": ","['she', 'writes', 'more', 'clearly', 'than', 'she', 'speaks']",speaks,clearly
+"Write the last word of the sentence ""Tom will not leave"": ","['tom', 'will', 'not', 'leave']",leave,leave
+"Write the last word of the sentence ""The son took care of his parents"": ","['the', 'son', 'took', 'care', 'of', 'his', 'parents']",parents,son
+"Write the last word of the sentence ""Mary taught John linguistics"": ","['mary', 'taught', 'john', 'linguistics']",linguistics,linguistics
+"Q: What is the last word of the sentence ""Almost no lawyer could answer that question""? A:","['almost', 'no', 'lawyer', 'could', 'answer', 'that', 'question']",question,answer
+"Write the last word of the sentence ""A large dog chased a small cat"": ","['a', 'large', 'dog', 'chased', 'a', 'small', 'cat']",cat,large
+"Q: What is the last word of the sentence ""I sent the package halfway around the world""? A:","['i', 'sent', 'the', 'package', 'halfway', 'around', 'the', 'world']",world,sent
+"Q: In the sentence ""The weights made the rope stretch over the pulley"", what is the last word? A:","['the', 'weights', 'made', 'the', 'rope', 'stretch', 'over', 'the', 'pulley']",pulley,made
+"Write the last word of the sentence ""That surprised me"": ","['that', 'surprised', 'me']",me,that
+"Write the last word of the sentence ""I would prefer to leave"": ","['i', 'would', 'prefer', 'to', 'leave']",leave,leave
+"Q: In the sentence ""John can kick the ball"", what is the last word? A:","['john', 'can', 'kick', 'the', 'ball']",ball,the
+"Q: What is the last word of the sentence ""Linda taped the picture to the wall""? A:","['linda', 'taped', 'the', 'picture', 'to', 'the', 'wall']",wall,taped
+"Q: What is the last word of the sentence ""John believes that Bill saw him""? A:","['john', 'believes', 'that', 'bill', 'saw', 'him']",him,john
+"Write the last word of the sentence ""John said Mary went to the store quickly"": ","['john', 'said', 'mary', 'went', 'to', 'the', 'store', 'quickly']",quickly,the
+"Q: What is the last word of the sentence ""The dog fears thunder""? A:","['the', 'dog', 'fears', 'thunder']",thunder,the
+"Write the last word of the sentence ""Dave was given the margarita mix"": ","['dave', 'was', 'given', 'the', 'margarita', 'mix']",mix,mix
+"Q: In the sentence ""Ron certainly will buy a dog"", what is the last word? A:","['ron', 'certainly', 'will', 'buy', 'a', 'dog']",dog,ron
+"Q: What is the last word of the sentence ""Jason expected Medea to be treated by the doctor""? A:","['jason', 'expected', 'medea', 'to', 'be', 'treated', 'by', 'the', 'doctor']",doctor,by
+"Q: What is the last word of the sentence ""The storm arrived after the picnic""? A:","['the', 'storm', 'arrived', 'after', 'the', 'picnic']",picnic,arrived
+"Write the last word of the sentence ""John lay the ball in the box"": ","['john', 'lay', 'the', 'ball', 'in', 'the', 'box']",box,in
+"Q: What is the last word of the sentence ""Reading about herself in the tabloids always annoys Sandra""? A:","['reading', 'about', 'herself', 'in', 'the', 'tabloids', 'always', 'annoys', 'sandra']",sandra,annoys
+"Q: In the sentence ""I believe there to be no way out"", what is the last word? A:","['i', 'believe', 'there', 'to', 'be', 'no', 'way', 'out']",out,i
+"Write the last word of the sentence ""An owl hunts mice"": ","['an', 'owl', 'hunts', 'mice']",mice,an
+"Q: In the sentence ""It is likely that Bill likes chocolate"", what is the last word? A:","['it', 'is', 'likely', 'that', 'bill', 'likes', 'chocolate']",chocolate,likely
+"Write the last word of the sentence ""Over the fort fluttered a large flag"": ","['over', 'the', 'fort', 'fluttered', 'a', 'large', 'flag']",flag,large
+"Q: What is the last word of the sentence ""Some people yell at dogs""? A:","['some', 'people', 'yell', 'at', 'dogs']",dogs,dogs
+"Write the last word of the sentence ""John told Mary to kiss him"": ","['john', 'told', 'mary', 'to', 'kiss', 'him']",him,him
+"Q: What is the last word of the sentence ""the girls likes themselves""? A:","['the', 'girls', 'likes', 'themselves']",themselves,themselves
+"Q: What is the last word of the sentence ""That joke never fails to amuse""? A:","['that', 'joke', 'never', 'fails', 'to', 'amuse']",amuse,amuse
+"Q: In the sentence ""That picture of Susan offended her"", what is the last word? A:","['that', 'picture', 'of', 'susan', 'offended', 'her']",her,offended
+"Q: What is the last word of the sentence ""John owns the book""? A:","['john', 'owns', 'the', 'book']",book,owns
+"Write the last word of the sentence ""He became fond of peanuts"": ","['he', 'became', 'fond', 'of', 'peanuts']",peanuts,he
+"Q: What is the last word of the sentence ""Susan told her a story""? A:","['susan', 'told', 'her', 'a', 'story']",story,a
+"Q: What is the last word of the sentence ""Hard work resulted in high grades""? A:","['hard', 'work', 'resulted', 'in', 'high', 'grades']",grades,in
+"Q: In the sentence ""She fell in love"", what is the last word? A:","['she', 'fell', 'in', 'love']",love,she
+"Q: In the sentence ""Terry touched Bill on the shoulder"", what is the last word? A:","['terry', 'touched', 'bill', 'on', 'the', 'shoulder']",shoulder,shoulder
+"Q: What is the last word of the sentence ""The beaver built a dam""? A:","['the', 'beaver', 'built', 'a', 'dam']",dam,the
+"Q: What is the last word of the sentence ""I forgot how good beer tastes""? A:","['i', 'forgot', 'how', 'good', 'beer', 'tastes']",tastes,beer
+"Q: In the sentence ""The dog caught the cat"", what is the last word? A:","['the', 'dog', 'caught', 'the', 'cat']",cat,the
+"Q: What is the last word of the sentence ""I sensed his eagerness""? A:","['i', 'sensed', 'his', 'eagerness']",eagerness,sensed
+"Q: What is the last word of the sentence ""A chair was broken""? A:","['a', 'chair', 'was', 'broken']",broken,a
+"Q: In the sentence ""Ron definitely has bought a dog"", what is the last word? A:","['ron', 'definitely', 'has', 'bought', 'a', 'dog']",dog,ron
+"Write the last word of the sentence ""John talked to Bill about himself"": ","['john', 'talked', 'to', 'bill', 'about', 'himself']",himself,to
+"Write the last word of the sentence ""Her sister hurried"": ","['her', 'sister', 'hurried']",hurried,hurried
+"Q: In the sentence ""I know the person whose mother died"", what is the last word? A:","['i', 'know', 'the', 'person', 'whose', 'mother', 'died']",died,i
+"Write the last word of the sentence ""He figured it out"": ","['he', 'figured', 'it', 'out']",out,figured
+"Write the last word of the sentence ""It was Tom who spilled beer on this couch"": ","['it', 'was', 'tom', 'who', 'spilled', 'beer', 'on', 'this', 'couch']",couch,beer
+"Q: In the sentence ""John got the book from Bill"", what is the last word? A:","['john', 'got', 'the', 'book', 'from', 'bill']",bill,john
+"Q: In the sentence ""Pat is either stupid or a liar"", what is the last word? A:","['pat', 'is', 'either', 'stupid', 'or', 'a', 'liar']",liar,stupid
+"Write the last word of the sentence ""The witch poisoned the children"": ","['the', 'witch', 'poisoned', 'the', 'children']",children,children
+"Q: What is the last word of the sentence ""The news pleased the students""? A:","['the', 'news', 'pleased', 'the', 'students']",students,the
+"Write the last word of the sentence ""Paul had an affair"": ","['paul', 'had', 'an', 'affair']",affair,affair
+"Q: In the sentence ""Bill wants Susan to leave"", what is the last word? A:","['bill', 'wants', 'susan', 'to', 'leave']",leave,leave
+"Write the last word of the sentence ""Mary will play the violin soon"": ","['mary', 'will', 'play', 'the', 'violin', 'soon']",soon,mary
+"Q: In the sentence ""The student knows the answers"", what is the last word? A:","['the', 'student', 'knows', 'the', 'answers']",answers,knows
+"Q: In the sentence ""John wants him to leave"", what is the last word? A:","['john', 'wants', 'him', 'to', 'leave']",leave,leave
+"Write the last word of the sentence ""Amanda carried the package from Boston to New York"": ","['amanda', 'carried', 'the', 'package', 'from', 'boston', 'to', 'new', 'york']",york,york
+"Q: In the sentence ""Rosemary hates New York"", what is the last word? A:","['rosemary', 'hates', 'new', 'york']",york,york
+"Q: What is the last word of the sentence ""Mary was visited by Bill""? A:","['mary', 'was', 'visited', 'by', 'bill']",bill,visited
+"Write the last word of the sentence ""We made enough puddings to last for days"": ","['we', 'made', 'enough', 'puddings', 'to', 'last', 'for', 'days']",days,days
+"Q: What is the last word of the sentence ""This flyer and that flyer differ""? A:","['this', 'flyer', 'and', 'that', 'flyer', 'differ']",differ,differ
+"Q: In the sentence ""No one could remove the blood on the wall"", what is the last word? A:","['no', 'one', 'could', 'remove', 'the', 'blood', 'on', 'the', 'wall']",wall,no
+"Q: What is the last word of the sentence ""I bought some flowers for Manuel""? A:","['i', 'bought', 'some', 'flowers', 'for', 'manuel']",manuel,manuel
+"Write the last word of the sentence ""John is eager to please Kim"": ","['john', 'is', 'eager', 'to', 'please', 'kim']",kim,kim
+"Write the last word of the sentence ""They believe it to be easy to annoy Ben"": ","['they', 'believe', 'it', 'to', 'be', 'easy', 'to', 'annoy', 'ben']",ben,easy
+"Q: What is the last word of the sentence ""We forgot our invitations""? A:","['we', 'forgot', 'our', 'invitations']",invitations,forgot
+"Q: In the sentence ""I sensed his eagerness"", what is the last word? A:","['i', 'sensed', 'his', 'eagerness']",eagerness,i
+"Write the last word of the sentence ""My brother likes collecting jazz records"": ","['my', 'brother', 'likes', 'collecting', 'jazz', 'records']",records,records
+"Q: What is the last word of the sentence ""Those bandits attacked Emma and Harriet yesterday""? A:","['those', 'bandits', 'attacked', 'emma', 'and', 'harriet', 'yesterday']",yesterday,bandits
+"Q: In the sentence ""I broke twigs off those branches"", what is the last word? A:","['i', 'broke', 'twigs', 'off', 'those', 'branches']",branches,off
+"Q: What is the last word of the sentence ""John learned a lesson""? A:","['john', 'learned', 'a', 'lesson']",lesson,learned
+"Write the last word of the sentence ""The barber shaved my chin"": ","['the', 'barber', 'shaved', 'my', 'chin']",chin,barber
+"Q: What is the last word of the sentence ""Someone tried to leave the town""? A:","['someone', 'tried', 'to', 'leave', 'the', 'town']",town,leave
+"Q: What is the last word of the sentence ""John remained somewhat calm""? A:","['john', 'remained', 'somewhat', 'calm']",calm,remained
+"Q: What is the last word of the sentence ""There is a bench for you to sit on""? A:","['there', 'is', 'a', 'bench', 'for', 'you', 'to', 'sit', 'on']",on,there
+"Q: What is the last word of the sentence ""That monkey is eating the banana""? A:","['that', 'monkey', 'is', 'eating', 'the', 'banana']",banana,is
+"Write the last word of the sentence ""Nora sent Peter the book"": ","['nora', 'sent', 'peter', 'the', 'book']",book,the
+"Write the last word of the sentence ""I compared Ginger to Fred"": ","['i', 'compared', 'ginger', 'to', 'fred']",fred,compared
+"Write the last word of the sentence ""The meat cuts easily"": ","['the', 'meat', 'cuts', 'easily']",easily,the
+"Q: What is the last word of the sentence ""Carmen bought Mary a dress""? A:","['carmen', 'bought', 'mary', 'a', 'dress']",dress,a
+"Q: What is the last word of the sentence ""Mary believed John to have loved her""? A:","['mary', 'believed', 'john', 'to', 'have', 'loved', 'her']",her,mary
+"Q: In the sentence ""Nobody likes us"", what is the last word? A:","['nobody', 'likes', 'us']",us,likes
+"Q: In the sentence ""Mary is more than six feet tall"", what is the last word? A:","['mary', 'is', 'more', 'than', 'six', 'feet', 'tall']",tall,six
+"Q: What is the last word of the sentence ""Doug went to Chicago""? A:","['doug', 'went', 'to', 'chicago']",chicago,chicago
+"Q: In the sentence ""I ate deep fried muffins"", what is the last word? A:","['i', 'ate', 'deep', 'fried', 'muffins']",muffins,fried
+"Write the last word of the sentence ""Mary believed John to have loved her"": ","['mary', 'believed', 'john', 'to', 'have', 'loved', 'her']",her,to
+"Q: What is the last word of the sentence ""Ellen talked with Helen about the problem""? A:","['ellen', 'talked', 'with', 'helen', 'about', 'the', 'problem']",problem,helen
+"Q: What is the last word of the sentence ""We ate at a really fancy restaurant""? A:","['we', 'ate', 'at', 'a', 'really', 'fancy', 'restaurant']",restaurant,ate
+"Write the last word of the sentence ""This flyer and that flyer differ"": ","['this', 'flyer', 'and', 'that', 'flyer', 'differ']",differ,this
+"Q: In the sentence ""The farmer loaded apples into the cart"", what is the last word? A:","['the', 'farmer', 'loaded', 'apples', 'into', 'the', 'cart']",cart,apples
+"Write the last word of the sentence ""Brutus murdered Julius Caesar with a dagger"": ","['brutus', 'murdered', 'julius', 'caesar', 'with', 'a', 'dagger']",dagger,caesar
+"Q: What is the last word of the sentence ""John put a book on the table""? A:","['john', 'put', 'a', 'book', 'on', 'the', 'table']",table,table
+"Q: What is the last word of the sentence ""Paula spanked the naughty child on the back""? A:","['paula', 'spanked', 'the', 'naughty', 'child', 'on', 'the', 'back']",back,spanked
+"Q: What is the last word of the sentence ""The tub leaked water""? A:","['the', 'tub', 'leaked', 'water']",water,leaked
+"Q: In the sentence ""I sent a surprise present to John"", what is the last word? A:","['i', 'sent', 'a', 'surprise', 'present', 'to', 'john']",john,a
+"Q: What is the last word of the sentence ""even the student left""? A:","['even', 'the', 'student', 'left']",left,student
+"Q: What is the last word of the sentence ""Mike will sing if you will""? A:","['mike', 'will', 'sing', 'if', 'you', 'will']",will,if
+"Q: What is the last word of the sentence ""There appeared a ship on the horizon""? A:","['there', 'appeared', 'a', 'ship', 'on', 'the', 'horizon']",horizon,appeared
+"Write the last word of the sentence ""The termites destroyed the sand castle"": ","['the', 'termites', 'destroyed', 'the', 'sand', 'castle']",castle,castle
+"Write the last word of the sentence ""Frances hid the presents in the drawer"": ","['frances', 'hid', 'the', 'presents', 'in', 'the', 'drawer']",drawer,frances
+"Q: What is the last word of the sentence ""Mary taught linguistics to John""? A:","['mary', 'taught', 'linguistics', 'to', 'john']",john,taught
+"Q: In the sentence ""I hit the ball"", what is the last word? A:","['i', 'hit', 'the', 'ball']",ball,ball
+"Write the last word of the sentence ""He began writing poems"": ","['he', 'began', 'writing', 'poems']",poems,poems
+"Q: In the sentence ""John bit the apple"", what is the last word? A:","['john', 'bit', 'the', 'apple']",apple,apple
+"Q: What is the last word of the sentence ""Those monkeys are eating the banana""? A:","['those', 'monkeys', 'are', 'eating', 'the', 'banana']",banana,are
+"Q: In the sentence ""Carmen obtained the spare part at the hardware store"", what is the last word? A:","['carmen', 'obtained', 'the', 'spare', 'part', 'at', 'the', 'hardware', 'store']",store,obtained
+"Write the last word of the sentence ""Jackie chased the thief"": ","['jackie', 'chased', 'the', 'thief']",thief,the
+"Write the last word of the sentence ""Carrie touched that cat"": ","['carrie', 'touched', 'that', 'cat']",cat,touched
+"Write the last word of the sentence ""I hit the ball"": ","['i', 'hit', 'the', 'ball']",ball,i
+"Q: In the sentence ""John is in the room"", what is the last word? A:","['john', 'is', 'in', 'the', 'room']",room,room
+"Q: In the sentence ""My brother likes collecting jazz records"", what is the last word? A:","['my', 'brother', 'likes', 'collecting', 'jazz', 'records']",records,records
+"Q: What is the last word of the sentence ""Susan wanted Jane to study German""? A:","['susan', 'wanted', 'jane', 'to', 'study', 'german']",german,german
+"Write the last word of the sentence ""John made Mary cook Korean food"": ","['john', 'made', 'mary', 'cook', 'korean', 'food']",food,cook
+"Q: What is the last word of the sentence ""We took the car to the town""? A:","['we', 'took', 'the', 'car', 'to', 'the', 'town']",town,town
+"Q: In the sentence ""John scratched his arm and Mary did too"", what is the last word? A:","['john', 'scratched', 'his', 'arm', 'and', 'mary', 'did', 'too']",too,scratched
+"Q: In the sentence ""The brave are not afraid to die"", what is the last word? A:","['the', 'brave', 'are', 'not', 'afraid', 'to', 'die']",die,die

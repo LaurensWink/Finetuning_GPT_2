@@ -4,7 +4,13 @@ import re
 from transformers import LlamaForCausalLM, GPT2LMHeadModel
 import outlines
 import unicodedata
+from tokenizers.normalizers import Lowercase, Sequence, Replace, NFC, Strip
 
+normalizer = Sequence([
+        NFC(),
+        Lowercase(),
+        Strip(),
+    ])
 
 def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_tokens, char, device):
     model = LlamaForCausalLM.from_pretrained(model_name).to(device)
@@ -29,7 +35,6 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         )
         
         output_text = tokenizer.decode(outputs[0])
-        # the tokenizer generates a bos and a eos token so we nee index -2
         output_text = output_text.split(tokenizer.eos_token)[-1]
         output_text = output_text.replace(tokenizer.eos_token, "")
         if char:
@@ -42,19 +47,21 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
 
         file_exists = os.path.isfile(csv_path)
 
+        expected = normalizer.normalize_str(str(row["output"]))
+
         with open(csv_path, mode="a", newline="", encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
             if not file_exists:
                 writer.writerow(["Input", "Options", "Expected", "Predicted"])
-            writer.writerow([row["input"],row["options"], row["output"], output_text])
+            writer.writerow([row["input"],row["options"], expected, output_text])
 
 def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name, char):
     model = outlines.models.transformers(model_name)
     for index, row in test_data.iterrows():
         input = f'{tokenizer.eos_token} {row["input"]} {tokenizer.eos_token}'
-        options = [normalize_text(opt) for opt in row["options"]]
+        options = [normalizer.normalize_str(str(opt)) for opt in row["options"]]
         generator = outlines.generate.choice(model, options)
-        expected = normalize_text(row["output"])
+        expected = normalizer.normalize_str(str(row["output"]))
         output_text = generator(input)
         if char:
             output_text = output_text.replace(" ", "")
@@ -66,11 +73,3 @@ def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name,
             if not file_exists:
                 writer.writerow(["Input", "Options", "Expected", "Predicted",])
             writer.writerow([row["input"], options, expected, output_text])
-
-def normalize_text(text):
-    if text is None:
-        return ""
-    text = str(text)
-    text = unicodedata.normalize("NFC", text)
-    return text.lower()
-
