@@ -1,0 +1,4802 @@
+[
+  {
+    "input": "Q: Which is a rhyme of the word \"routine\", \"hurt\" or \"scene\"? A:",
+    "output": "scene",
+    "options": [
+      "scene",
+      "hurt"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"wow\", \"announce\" or \"cow\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "announce"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"begin\", \"pin\" or \"couple\"? A:",
+    "output": "pin",
+    "options": [
+      "pin",
+      "couple"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"frog\", \"diet\" or \"jog\"? A:",
+    "output": "jog",
+    "options": [
+      "jog",
+      "diet"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"discover\" and \"cinema\", which one rhymes with \"recover\"? A:",
+    "output": "discover",
+    "options": [
+      "discover",
+      "cinema"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"thick\", \"feel\" or \"sick\"? A:",
+    "output": "sick",
+    "options": [
+      "sick",
+      "feel"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dancer\", \"cancer\" or \"television\"? A:",
+    "output": "cancer",
+    "options": [
+      "cancer",
+      "television"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"nightclub\" and \"mess\", which one rhymes with \"stress\"? A:",
+    "output": "mess",
+    "options": [
+      "mess",
+      "nightclub"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"mean\", \"clean\" or \"bracelet\"? A:",
+    "output": "clean",
+    "options": [
+      "clean",
+      "bracelet"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pan\" and \"tell\", which one rhymes with \"plan\"? A:",
+    "output": "pan",
+    "options": [
+      "pan",
+      "tell"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stripe\" and \"dull\", which one rhymes with \"type\"? A:",
+    "output": "stripe",
+    "options": [
+      "stripe",
+      "dull"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"truck\", \"luck\" or \"breakfast\"? A:",
+    "output": "luck",
+    "options": [
+      "luck",
+      "breakfast"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"exchange\", \"location\" or \"strange\"? A:",
+    "output": "strange",
+    "options": [
+      "strange",
+      "location"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"beat\", \"eastern\" or \"defeat\"? A:",
+    "output": "defeat",
+    "options": [
+      "defeat",
+      "eastern"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"description\" and \"cigarette\", which one rhymes with \"prescription\"? A:",
+    "output": "description",
+    "options": [
+      "description",
+      "cigarette"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"ferry\", \"sex\" or \"very\"? A:",
+    "output": "very",
+    "options": [
+      "very",
+      "sex"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"blank\", \"thank\" or \"dot\"? A:",
+    "output": "thank",
+    "options": [
+      "thank",
+      "dot"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"thick\", \"trick\" or \"dead\"? A:",
+    "output": "trick",
+    "options": [
+      "trick",
+      "dead"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"possessive\" and \"main\", which one rhymes with \"rain\"? A:",
+    "output": "main",
+    "options": [
+      "main",
+      "possessive"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"identification\" and \"connect\", which one rhymes with \"application\"? A:",
+    "output": "identification",
+    "options": [
+      "identification",
+      "connect"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"hold\", \"cry\" or \"fold\"? A:",
+    "output": "fold",
+    "options": [
+      "fold",
+      "cry"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dish\", \"fish\" or \"blogger\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "blogger"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"morning\", \"warning\" or \"per\"? A:",
+    "output": "warning",
+    "options": [
+      "warning",
+      "per"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sick\" and \"coat\", which one rhymes with \"stick\"? A:",
+    "output": "sick",
+    "options": [
+      "sick",
+      "coat"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"pretty\", \"city\" or \"dangerous\"? A:",
+    "output": "city",
+    "options": [
+      "city",
+      "dangerous"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"house\" and \"definitely\", which one rhymes with \"blouse\"? A:",
+    "output": "house",
+    "options": [
+      "house",
+      "definitely"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pollution\" and \"trumpet\", which one rhymes with \"solution\"? A:",
+    "output": "pollution",
+    "options": [
+      "pollution",
+      "trumpet"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"warning\", \"morning\" or \"nightmare\"? A:",
+    "output": "morning",
+    "options": [
+      "morning",
+      "nightmare"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lamp\", \"camp\" or \"newspaper\"? A:",
+    "output": "camp",
+    "options": [
+      "camp",
+      "newspaper"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fare\", \"sing\" or \"square\"? A:",
+    "output": "square",
+    "options": [
+      "square",
+      "sing"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"child\", \"green\" or \"mild\"? A:",
+    "output": "mild",
+    "options": [
+      "mild",
+      "green"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"camp\", \"stamp\" or \"reader\"? A:",
+    "output": "stamp",
+    "options": [
+      "stamp",
+      "reader"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"join\", \"professional\" or \"coin\"? A:",
+    "output": "coin",
+    "options": [
+      "coin",
+      "professional"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"speech\" and \"purpose\", which one rhymes with \"each\"? A:",
+    "output": "speech",
+    "options": [
+      "speech",
+      "purpose"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"hut\", \"cut\" or \"bookcase\"? A:",
+    "output": "cut",
+    "options": [
+      "cut",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"possibility\", \"ability\" or \"feed\"? A:",
+    "output": "ability",
+    "options": [
+      "ability",
+      "feed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wrap\" and \"quiet\", which one rhymes with \"diet\"? A:",
+    "output": "quiet",
+    "options": [
+      "quiet",
+      "wrap"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"much\", \"touch\" or \"author\"? A:",
+    "output": "touch",
+    "options": [
+      "touch",
+      "author"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"bury\", \"careful\" or \"scary\"? A:",
+    "output": "scary",
+    "options": [
+      "scary",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bury\", \"careful\" or \"scary\"? A:",
+    "output": "scary",
+    "options": [
+      "scary",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"situation\", \"application\" or \"sweet\"? A:",
+    "output": "application",
+    "options": [
+      "application",
+      "sweet"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"anymore\", \"swim\" or \"store\"? A:",
+    "output": "store",
+    "options": [
+      "store",
+      "swim"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"car\", \"offense\" or \"star\"? A:",
+    "output": "star",
+    "options": [
+      "star",
+      "offense"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"pin\", \"escape\" or \"chin\"? A:",
+    "output": "chin",
+    "options": [
+      "chin",
+      "escape"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"far\", \"car\" or \"attach\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "attach"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"knit\", \"birthday\" or \"hit\"? A:",
+    "output": "hit",
+    "options": [
+      "hit",
+      "birthday"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mix\" and \"racket\", which one rhymes with \"fix\"? A:",
+    "output": "mix",
+    "options": [
+      "mix",
+      "racket"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sir\", \"dusty\" or \"stir\"? A:",
+    "output": "stir",
+    "options": [
+      "stir",
+      "dusty"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"policewoman\" and \"grill\", which one rhymes with \"bill\"? A:",
+    "output": "grill",
+    "options": [
+      "grill",
+      "policewoman"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"routine\", \"machine\" or \"granddad\"? A:",
+    "output": "machine",
+    "options": [
+      "machine",
+      "granddad"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"drink\", \"link\" or \"sheet\"? A:",
+    "output": "link",
+    "options": [
+      "link",
+      "sheet"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"union\" and \"bit\", which one rhymes with \"fit\"? A:",
+    "output": "bit",
+    "options": [
+      "bit",
+      "union"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"pill\", \"still\" or \"online\"? A:",
+    "output": "still",
+    "options": [
+      "still",
+      "online"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cupboard\" and \"city\", which one rhymes with \"pretty\"? A:",
+    "output": "city",
+    "options": [
+      "city",
+      "cupboard"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"letter\", \"guidebook\" or \"sweater\"? A:",
+    "output": "sweater",
+    "options": [
+      "sweater",
+      "guidebook"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"health\" and \"fly\", which one rhymes with \"apply\"? A:",
+    "output": "fly",
+    "options": [
+      "fly",
+      "health"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"wear\", \"engaged\" or \"bear\"? A:",
+    "output": "bear",
+    "options": [
+      "bear",
+      "engaged"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"main\", \"drum\" or \"explain\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "drum"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"put\" and \"water\", which one rhymes with \"daughter\"? A:",
+    "output": "water",
+    "options": [
+      "water",
+      "put"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"check\", \"kilo\" or \"deck\"? A:",
+    "output": "deck",
+    "options": [
+      "deck",
+      "kilo"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"pile\", \"mile\" or \"television\"? A:",
+    "output": "mile",
+    "options": [
+      "mile",
+      "television"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"deliver\", \"afraid\" or \"river\"? A:",
+    "output": "river",
+    "options": [
+      "river",
+      "afraid"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"mess\", \"ceiling\" or \"chess\"? A:",
+    "output": "chess",
+    "options": [
+      "chess",
+      "ceiling"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"plastic\", \"composition\" or \"fantastic\"? A:",
+    "output": "fantastic",
+    "options": [
+      "fantastic",
+      "composition"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"switch\", \"undress\" or \"rich\"? A:",
+    "output": "rich",
+    "options": [
+      "rich",
+      "undress"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"full\", \"meter\" or \"bull\"? A:",
+    "output": "bull",
+    "options": [
+      "bull",
+      "meter"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"face\", \"race\" or \"pork\"? A:",
+    "output": "race",
+    "options": [
+      "race",
+      "pork"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fan\", \"plan\" or \"hit\"? A:",
+    "output": "plan",
+    "options": [
+      "plan",
+      "hit"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"prize\", \"flu\" or \"size\"? A:",
+    "output": "size",
+    "options": [
+      "size",
+      "flu"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"rain\", \"complain\" or \"chef\"? A:",
+    "output": "complain",
+    "options": [
+      "complain",
+      "chef"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"space\", \"face\" or \"fry\"? A:",
+    "output": "face",
+    "options": [
+      "face",
+      "fry"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"amusing\" and \"squash\", which one rhymes with \"wash\"? A:",
+    "output": "squash",
+    "options": [
+      "squash",
+      "amusing"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pig\" and \"post\", which one rhymes with \"coast\"? A:",
+    "output": "post",
+    "options": [
+      "post",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"include\", \"rude\" or \"pattern\"? A:",
+    "output": "rude",
+    "options": [
+      "rude",
+      "pattern"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"per\", \"her\" or \"film\"? A:",
+    "output": "her",
+    "options": [
+      "her",
+      "film"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"wage\", \"cage\" or \"smell\"? A:",
+    "output": "cage",
+    "options": [
+      "cage",
+      "smell"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stress\" and \"black\", which one rhymes with \"attack\"? A:",
+    "output": "black",
+    "options": [
+      "black",
+      "stress"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"limit\" and \"find\", which one rhymes with \"kind\"? A:",
+    "output": "find",
+    "options": [
+      "find",
+      "limit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"election\" and \"few\", which one rhymes with \"section\"? A:",
+    "output": "election",
+    "options": [
+      "election",
+      "few"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"box\" and \"chess\", which one rhymes with \"success\"? A:",
+    "output": "chess",
+    "options": [
+      "chess",
+      "box"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"mess\", \"ceiling\" or \"chess\"? A:",
+    "output": "chess",
+    "options": [
+      "chess",
+      "ceiling"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"thriller\", \"rug\" or \"killer\"? A:",
+    "output": "killer",
+    "options": [
+      "killer",
+      "rug"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"kit\", \"terrified\" or \"sit\"? A:",
+    "output": "sit",
+    "options": [
+      "sit",
+      "terrified"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"wave\", \"save\" or \"join\"? A:",
+    "output": "save",
+    "options": [
+      "save",
+      "join"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"kilo\" and \"deck\", which one rhymes with \"check\"? A:",
+    "output": "deck",
+    "options": [
+      "deck",
+      "kilo"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"diet\", \"wrap\" or \"quiet\"? A:",
+    "output": "quiet",
+    "options": [
+      "quiet",
+      "wrap"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"contain\" and \"clearly\", which one rhymes with \"nearly\"? A:",
+    "output": "clearly",
+    "options": [
+      "clearly",
+      "contain"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"cancer\", \"virus\" or \"answer\"? A:",
+    "output": "answer",
+    "options": [
+      "answer",
+      "virus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"more\" and \"cloud\", which one rhymes with \"proud\"? A:",
+    "output": "cloud",
+    "options": [
+      "cloud",
+      "more"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"front\" and \"since\", which one rhymes with \"hunt\"? A:",
+    "output": "front",
+    "options": [
+      "front",
+      "since"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"how\", \"curriculum\" or \"allow\"? A:",
+    "output": "allow",
+    "options": [
+      "allow",
+      "curriculum"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fun\", \"quickly\" or \"sun\"? A:",
+    "output": "sun",
+    "options": [
+      "sun",
+      "quickly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"feel\" and \"tasty\", which one rhymes with \"heel\"? A:",
+    "output": "feel",
+    "options": [
+      "feel",
+      "tasty"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"computer\", \"disgusting\" or \"scooter\"? A:",
+    "output": "scooter",
+    "options": [
+      "scooter",
+      "disgusting"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"beginner\", \"winner\" or \"important\"? A:",
+    "output": "winner",
+    "options": [
+      "winner",
+      "important"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"apartment\", \"collar\" or \"department\"? A:",
+    "output": "department",
+    "options": [
+      "department",
+      "collar"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"yeah\" and \"skate\", which one rhymes with \"late\"? A:",
+    "output": "skate",
+    "options": [
+      "skate",
+      "yeah"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cut\" and \"bookcase\", which one rhymes with \"hut\"? A:",
+    "output": "cut",
+    "options": [
+      "cut",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dance\", \"cool\" or \"chance\"? A:",
+    "output": "chance",
+    "options": [
+      "chance",
+      "cool"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"writing\", \"exciting\" or \"pull\"? A:",
+    "output": "exciting",
+    "options": [
+      "exciting",
+      "pull"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shake\" and \"underneath\", which one rhymes with \"lake\"? A:",
+    "output": "shake",
+    "options": [
+      "shake",
+      "underneath"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"pig\", \"ad\" or \"dig\"? A:",
+    "output": "dig",
+    "options": [
+      "dig",
+      "ad"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"machine\", \"scene\" or \"ahead\"? A:",
+    "output": "scene",
+    "options": [
+      "scene",
+      "ahead"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"beach\", \"teach\" or \"guess\"? A:",
+    "output": "teach",
+    "options": [
+      "teach",
+      "guess"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"meet\", \"plastic\" or \"greet\"? A:",
+    "output": "greet",
+    "options": [
+      "greet",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"bath\", \"sticky\" or \"path\"? A:",
+    "output": "path",
+    "options": [
+      "path",
+      "sticky"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fairly\", \"free\" or \"rarely\"? A:",
+    "output": "rarely",
+    "options": [
+      "rarely",
+      "free"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"cake\", \"saleswoman\" or \"shake\"? A:",
+    "output": "shake",
+    "options": [
+      "shake",
+      "saleswoman"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"birth\", \"earth\" or \"club\"? A:",
+    "output": "earth",
+    "options": [
+      "earth",
+      "club"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"hand\", \"band\" or \"else\"? A:",
+    "output": "band",
+    "options": [
+      "band",
+      "else"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"rose\" and \"birth\", which one rhymes with \"nose\"? A:",
+    "output": "rose",
+    "options": [
+      "rose",
+      "birth"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"star\", \"product\" or \"jar\"? A:",
+    "output": "jar",
+    "options": [
+      "jar",
+      "product"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"blouse\" and \"password\", which one rhymes with \"house\"? A:",
+    "output": "blouse",
+    "options": [
+      "blouse",
+      "password"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"ad\" and \"dig\", which one rhymes with \"pig\"? A:",
+    "output": "dig",
+    "options": [
+      "dig",
+      "ad"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"pet\", \"let\" or \"ship\"? A:",
+    "output": "let",
+    "options": [
+      "let",
+      "ship"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"snowboard\" and \"annoy\", which one rhymes with \"boy\"? A:",
+    "output": "annoy",
+    "options": [
+      "annoy",
+      "snowboard"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"declare\", \"prepare\" or \"trash\"? A:",
+    "output": "prepare",
+    "options": [
+      "prepare",
+      "trash"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"many\", \"penny\" or \"water\"? A:",
+    "output": "penny",
+    "options": [
+      "penny",
+      "water"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"section\", \"election\" or \"few\"? A:",
+    "output": "election",
+    "options": [
+      "election",
+      "few"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"press\", \"guess\" or \"worker\"? A:",
+    "output": "guess",
+    "options": [
+      "guess",
+      "worker"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"worst\" and \"line\", which one rhymes with \"mine\"? A:",
+    "output": "line",
+    "options": [
+      "line",
+      "worst"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bleed\", \"plain\" or \"speed\"? A:",
+    "output": "speed",
+    "options": [
+      "speed",
+      "plain"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"champagne\", \"crop\" or \"plane\"? A:",
+    "output": "plane",
+    "options": [
+      "plane",
+      "crop"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"hair\", \"raise\" or \"their\"? A:",
+    "output": "their",
+    "options": [
+      "their",
+      "raise"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"under\", \"wonder\" or \"math\"? A:",
+    "output": "wonder",
+    "options": [
+      "wonder",
+      "math"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cool\" and \"chance\", which one rhymes with \"dance\"? A:",
+    "output": "chance",
+    "options": [
+      "chance",
+      "cool"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bag\", \"flag\" or \"workout\"? A:",
+    "output": "flag",
+    "options": [
+      "flag",
+      "workout"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"nose\", \"those\" or \"fat\"? A:",
+    "output": "those",
+    "options": [
+      "those",
+      "fat"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"scene\", \"stomach\" or \"routine\"? A:",
+    "output": "routine",
+    "options": [
+      "routine",
+      "stomach"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lab\", \"grab\" or \"finally\"? A:",
+    "output": "grab",
+    "options": [
+      "grab",
+      "finally"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"offense\" and \"homework\", which one rhymes with \"sense\"? A:",
+    "output": "offense",
+    "options": [
+      "offense",
+      "homework"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"pink\", \"drink\" or \"regularly\"? A:",
+    "output": "drink",
+    "options": [
+      "drink",
+      "regularly"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"land\", \"herself\" or \"demand\"? A:",
+    "output": "demand",
+    "options": [
+      "demand",
+      "herself"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"thief\", \"salon\" or \"beef\"? A:",
+    "output": "beef",
+    "options": [
+      "beef",
+      "salon"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"raise\", \"phrase\" or \"ceremony\"? A:",
+    "output": "phrase",
+    "options": [
+      "phrase",
+      "ceremony"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"quarter\", \"princess\" or \"reporter\"? A:",
+    "output": "reporter",
+    "options": [
+      "reporter",
+      "princess"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lift\", \"gift\" or \"local\"? A:",
+    "output": "gift",
+    "options": [
+      "gift",
+      "local"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"full\", \"pull\" or \"bike\"? A:",
+    "output": "pull",
+    "options": [
+      "pull",
+      "bike"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"divide\", \"wide\" or \"cool\"? A:",
+    "output": "wide",
+    "options": [
+      "wide",
+      "cool"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stay\" and \"doll\", which one rhymes with \"delay\"? A:",
+    "output": "stay",
+    "options": [
+      "stay",
+      "doll"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"run\" and \"cave\", which one rhymes with \"gun\"? A:",
+    "output": "run",
+    "options": [
+      "run",
+      "cave"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"double\", \"cab\" or \"trouble\"? A:",
+    "output": "trouble",
+    "options": [
+      "trouble",
+      "cab"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"celebrate\" and \"neck\", which one rhymes with \"deck\"? A:",
+    "output": "neck",
+    "options": [
+      "neck",
+      "celebrate"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pipe\" and \"exciting\", which one rhymes with \"writing\"? A:",
+    "output": "exciting",
+    "options": [
+      "exciting",
+      "pipe"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"commercial\" and \"speaker\", which one rhymes with \"sneaker\"? A:",
+    "output": "speaker",
+    "options": [
+      "speaker",
+      "commercial"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"vacation\", \"bus\" or \"operation\"? A:",
+    "output": "operation",
+    "options": [
+      "operation",
+      "bus"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sandy\" and \"throat\", which one rhymes with \"candy\"? A:",
+    "output": "sandy",
+    "options": [
+      "sandy",
+      "throat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shoot\" and \"housewife\", which one rhymes with \"boot\"? A:",
+    "output": "shoot",
+    "options": [
+      "shoot",
+      "housewife"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cancer\" and \"bunch\", which one rhymes with \"lunch\"? A:",
+    "output": "bunch",
+    "options": [
+      "bunch",
+      "cancer"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"face\", \"race\" or \"pork\"? A:",
+    "output": "race",
+    "options": [
+      "race",
+      "pork"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"annoyed\", \"unemployed\" or \"brain\"? A:",
+    "output": "unemployed",
+    "options": [
+      "unemployed",
+      "brain"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mug\" and \"expedition\", which one rhymes with \"rug\"? A:",
+    "output": "mug",
+    "options": [
+      "mug",
+      "expedition"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"southeast\", \"peak\" or \"northeast\"? A:",
+    "output": "northeast",
+    "options": [
+      "northeast",
+      "peak"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"map\" and \"arrange\", which one rhymes with \"wrap\"? A:",
+    "output": "map",
+    "options": [
+      "map",
+      "arrange"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"land\", \"band\" or \"dull\"? A:",
+    "output": "band",
+    "options": [
+      "band",
+      "dull"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"time\", \"equipment\" or \"crime\"? A:",
+    "output": "crime",
+    "options": [
+      "crime",
+      "equipment"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"squash\", \"athlete\" or \"wash\"? A:",
+    "output": "wash",
+    "options": [
+      "wash",
+      "athlete"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"honeymoon\" and \"reader\", which one rhymes with \"leader\"? A:",
+    "output": "reader",
+    "options": [
+      "reader",
+      "honeymoon"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"reduce\", \"juice\" or \"previously\"? A:",
+    "output": "juice",
+    "options": [
+      "juice",
+      "previously"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"grade\" and \"punctuation\", which one rhymes with \"reservation\"? A:",
+    "output": "punctuation",
+    "options": [
+      "punctuation",
+      "grade"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"hurry\", \"worry\" or \"space\"? A:",
+    "output": "worry",
+    "options": [
+      "worry",
+      "space"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"technique\", \"annoying\" or \"antique\"? A:",
+    "output": "antique",
+    "options": [
+      "antique",
+      "annoying"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"deep\", \"story\" or \"asleep\"? A:",
+    "output": "asleep",
+    "options": [
+      "asleep",
+      "story"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"rose\", \"maximum\" or \"nose\"? A:",
+    "output": "nose",
+    "options": [
+      "nose",
+      "maximum"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"line\", \"discuss\" or \"shine\"? A:",
+    "output": "shine",
+    "options": [
+      "shine",
+      "discuss"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"application\", \"maximum\" or \"registration\"? A:",
+    "output": "registration",
+    "options": [
+      "registration",
+      "maximum"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"chain\", \"smell\" or \"explain\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "smell"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"train\" and \"leader\", which one rhymes with \"brain\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "leader"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"curious\" and \"decide\", which one rhymes with \"hide\"? A:",
+    "output": "decide",
+    "options": [
+      "decide",
+      "curious"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"connection\", \"correction\" or \"consider\"? A:",
+    "output": "correction",
+    "options": [
+      "correction",
+      "consider"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"funny\" and \"teach\", which one rhymes with \"peach\"? A:",
+    "output": "teach",
+    "options": [
+      "teach",
+      "funny"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hardware\" and \"catch\", which one rhymes with \"attach\"? A:",
+    "output": "catch",
+    "options": [
+      "catch",
+      "hardware"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"now\", \"cow\" or \"cheek\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "cheek"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"trip\", \"slip\" or \"mom\"? A:",
+    "output": "slip",
+    "options": [
+      "slip",
+      "mom"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"discuss\" and \"shine\", which one rhymes with \"line\"? A:",
+    "output": "shine",
+    "options": [
+      "shine",
+      "discuss"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"ahead\", \"dead\" or \"defense\"? A:",
+    "output": "dead",
+    "options": [
+      "dead",
+      "defense"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"valley\" and \"rest\", which one rhymes with \"southwest\"? A:",
+    "output": "rest",
+    "options": [
+      "rest",
+      "valley"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"each\", \"nature\" or \"speech\"? A:",
+    "output": "speech",
+    "options": [
+      "speech",
+      "nature"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"tea\", \"necessary\" or \"sea\"? A:",
+    "output": "sea",
+    "options": [
+      "sea",
+      "necessary"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"join\", \"professional\" or \"coin\"? A:",
+    "output": "coin",
+    "options": [
+      "coin",
+      "professional"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fear\", \"pump\" or \"appear\"? A:",
+    "output": "appear",
+    "options": [
+      "appear",
+      "pump"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cartoon\" and \"fat\", which one rhymes with \"afternoon\"? A:",
+    "output": "cartoon",
+    "options": [
+      "cartoon",
+      "fat"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"heart\", \"part\" or \"ski\"? A:",
+    "output": "part",
+    "options": [
+      "part",
+      "ski"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sticky\" and \"path\", which one rhymes with \"bath\"? A:",
+    "output": "path",
+    "options": [
+      "path",
+      "sticky"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"liter\", \"trick\" or \"heater\"? A:",
+    "output": "heater",
+    "options": [
+      "heater",
+      "trick"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"screen\", \"green\" or \"sick\"? A:",
+    "output": "green",
+    "options": [
+      "green",
+      "sick"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"free\", \"favor\" or \"tree\"? A:",
+    "output": "tree",
+    "options": [
+      "tree",
+      "favor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"above\" and \"sports\", which one rhymes with \"love\"? A:",
+    "output": "above",
+    "options": [
+      "above",
+      "sports"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"small\", \"wall\" or \"choose\"? A:",
+    "output": "wall",
+    "options": [
+      "wall",
+      "choose"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"price\", \"homework\" or \"twice\"? A:",
+    "output": "twice",
+    "options": [
+      "twice",
+      "homework"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"red\", \"bed\" or \"logo\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "logo"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fee\", \"sticky\" or \"see\"? A:",
+    "output": "see",
+    "options": [
+      "see",
+      "sticky"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"shoot\", \"boot\" or \"inch\"? A:",
+    "output": "boot",
+    "options": [
+      "boot",
+      "inch"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"crew\", \"review\" or \"ant\"? A:",
+    "output": "review",
+    "options": [
+      "review",
+      "ant"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"money\", \"honey\" or \"comb\"? A:",
+    "output": "honey",
+    "options": [
+      "honey",
+      "comb"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hole\" and \"foot\", which one rhymes with \"role\"? A:",
+    "output": "hole",
+    "options": [
+      "hole",
+      "foot"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"choose\", \"cow\" or \"lose\"? A:",
+    "output": "lose",
+    "options": [
+      "lose",
+      "cow"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"polite\" and \"studio\", which one rhymes with \"bite\"? A:",
+    "output": "polite",
+    "options": [
+      "polite",
+      "studio"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"speak\", \"jealous\" or \"weak\"? A:",
+    "output": "weak",
+    "options": [
+      "weak",
+      "jealous"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"leather\", \"boy\" or \"weather\"? A:",
+    "output": "weather",
+    "options": [
+      "weather",
+      "boy"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"smoke\", \"lesson\" or \"joke\"? A:",
+    "output": "joke",
+    "options": [
+      "joke",
+      "lesson"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"mind\", \"behind\" or \"sleep\"? A:",
+    "output": "behind",
+    "options": [
+      "behind",
+      "sleep"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"ahead\", \"dead\" or \"defense\"? A:",
+    "output": "dead",
+    "options": [
+      "dead",
+      "defense"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"duck\" and \"full\", which one rhymes with \"bull\"? A:",
+    "output": "full",
+    "options": [
+      "full",
+      "duck"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"biography\", \"garlic\" or \"geography\"? A:",
+    "output": "geography",
+    "options": [
+      "geography",
+      "garlic"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"shiny\", \"outdoor\" or \"tiny\"? A:",
+    "output": "tiny",
+    "options": [
+      "tiny",
+      "outdoor"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"even\" and \"jump\", which one rhymes with \"pump\"? A:",
+    "output": "jump",
+    "options": [
+      "jump",
+      "even"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"answer\" and \"groom\", which one rhymes with \"cancer\"? A:",
+    "output": "answer",
+    "options": [
+      "answer",
+      "groom"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"bill\", \"policewoman\" or \"grill\"? A:",
+    "output": "grill",
+    "options": [
+      "grill",
+      "policewoman"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"session\" and \"brief\", which one rhymes with \"beef\"? A:",
+    "output": "brief",
+    "options": [
+      "brief",
+      "session"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"earth\" and \"club\", which one rhymes with \"birth\"? A:",
+    "output": "earth",
+    "options": [
+      "earth",
+      "club"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bear\", \"virus\" or \"pear\"? A:",
+    "output": "pear",
+    "options": [
+      "pear",
+      "virus"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dirt\", \"shirt\" or \"off\"? A:",
+    "output": "shirt",
+    "options": [
+      "shirt",
+      "off"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"attach\" and \"occasion\", which one rhymes with \"catch\"? A:",
+    "output": "attach",
+    "options": [
+      "attach",
+      "occasion"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"thief\", \"salon\" or \"beef\"? A:",
+    "output": "beef",
+    "options": [
+      "beef",
+      "salon"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"year\", \"fear\" or \"killing\"? A:",
+    "output": "fear",
+    "options": [
+      "fear",
+      "killing"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"examination\", \"population\" or \"peace\"? A:",
+    "output": "population",
+    "options": [
+      "population",
+      "peace"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"heel\", \"feel\" or \"tasty\"? A:",
+    "output": "feel",
+    "options": [
+      "feel",
+      "tasty"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"attach\", \"worse\" or \"match\"? A:",
+    "output": "match",
+    "options": [
+      "match",
+      "worse"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"killer\" and \"school\", which one rhymes with \"thriller\"? A:",
+    "output": "killer",
+    "options": [
+      "killer",
+      "school"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"how\", \"curriculum\" or \"allow\"? A:",
+    "output": "allow",
+    "options": [
+      "allow",
+      "curriculum"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bill\", \"policewoman\" or \"grill\"? A:",
+    "output": "grill",
+    "options": [
+      "grill",
+      "policewoman"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"communication\", \"agency\" or \"presentation\"? A:",
+    "output": "presentation",
+    "options": [
+      "presentation",
+      "agency"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"flag\" and \"workout\", which one rhymes with \"bag\"? A:",
+    "output": "flag",
+    "options": [
+      "flag",
+      "workout"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"sure\", \"pure\" or \"spill\"? A:",
+    "output": "pure",
+    "options": [
+      "pure",
+      "spill"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"shine\", \"car\" or \"mine\"? A:",
+    "output": "mine",
+    "options": [
+      "mine",
+      "car"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sound\", \"round\" or \"maybe\"? A:",
+    "output": "round",
+    "options": [
+      "round",
+      "maybe"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"chess\" and \"defeat\", which one rhymes with \"less\"? A:",
+    "output": "chess",
+    "options": [
+      "chess",
+      "defeat"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"scream\", \"team\" or \"shore\"? A:",
+    "output": "team",
+    "options": [
+      "team",
+      "shore"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"invent\", \"tent\" or \"bald\"? A:",
+    "output": "tent",
+    "options": [
+      "tent",
+      "bald"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"lonely\", \"only\" or \"bookcase\"? A:",
+    "output": "only",
+    "options": [
+      "only",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"blind\", \"past\" or \"mind\"? A:",
+    "output": "mind",
+    "options": [
+      "mind",
+      "past"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"however\" and \"registration\", which one rhymes with \"conversation\"? A:",
+    "output": "registration",
+    "options": [
+      "registration",
+      "however"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"type\", \"stripe\" or \"dull\"? A:",
+    "output": "stripe",
+    "options": [
+      "stripe",
+      "dull"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"immigration\", \"celebration\" or \"concentrate\"? A:",
+    "output": "celebration",
+    "options": [
+      "celebration",
+      "concentrate"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"hold\", \"cry\" or \"fold\"? A:",
+    "output": "fold",
+    "options": [
+      "fold",
+      "cry"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fruit\", \"shape\" or \"suit\"? A:",
+    "output": "suit",
+    "options": [
+      "suit",
+      "shape"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"cash\", \"crash\" or \"percent\"? A:",
+    "output": "crash",
+    "options": [
+      "crash",
+      "percent"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cave\" and \"intermission\", which one rhymes with \"shave\"? A:",
+    "output": "cave",
+    "options": [
+      "cave",
+      "intermission"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"tall\", \"hall\" or \"beef\"? A:",
+    "output": "hall",
+    "options": [
+      "hall",
+      "beef"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"trick\" and \"dead\", which one rhymes with \"thick\"? A:",
+    "output": "trick",
+    "options": [
+      "trick",
+      "dead"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"begin\", \"pin\" or \"couple\"? A:",
+    "output": "pin",
+    "options": [
+      "pin",
+      "couple"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"unemployed\" and \"social\", which one rhymes with \"annoyed\"? A:",
+    "output": "unemployed",
+    "options": [
+      "unemployed",
+      "social"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"spell\", \"bell\" or \"salesman\"? A:",
+    "output": "bell",
+    "options": [
+      "bell",
+      "salesman"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"please\", \"disease\" or \"collar\"? A:",
+    "output": "disease",
+    "options": [
+      "disease",
+      "collar"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"run\", \"fun\" or \"scared\"? A:",
+    "output": "fun",
+    "options": [
+      "fun",
+      "scared"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dance\", \"cool\" or \"chance\"? A:",
+    "output": "chance",
+    "options": [
+      "chance",
+      "cool"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"shut\", \"cut\" or \"pipe\"? A:",
+    "output": "cut",
+    "options": [
+      "cut",
+      "pipe"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"hunt\", \"front\" or \"since\"? A:",
+    "output": "front",
+    "options": [
+      "front",
+      "since"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"achieve\" and \"folk\", which one rhymes with \"sleeve\"? A:",
+    "output": "achieve",
+    "options": [
+      "achieve",
+      "folk"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"tense\", \"sock\" or \"offense\"? A:",
+    "output": "offense",
+    "options": [
+      "offense",
+      "sock"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"zone\", \"pencil\" or \"bone\"? A:",
+    "output": "bone",
+    "options": [
+      "bone",
+      "pencil"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lake\", \"shake\" or \"underneath\"? A:",
+    "output": "shake",
+    "options": [
+      "shake",
+      "underneath"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"smile\", \"conditions\" or \"style\"? A:",
+    "output": "style",
+    "options": [
+      "style",
+      "conditions"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"ending\" and \"speed\", which one rhymes with \"need\"? A:",
+    "output": "speed",
+    "options": [
+      "speed",
+      "ending"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"love\" and \"pan\", which one rhymes with \"above\"? A:",
+    "output": "love",
+    "options": [
+      "love",
+      "pan"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"station\", \"application\" or \"hockey\"? A:",
+    "output": "application",
+    "options": [
+      "application",
+      "hockey"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"hunt\" and \"poster\", which one rhymes with \"front\"? A:",
+    "output": "hunt",
+    "options": [
+      "hunt",
+      "poster"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cloud\" and \"brochure\", which one rhymes with \"proud\"? A:",
+    "output": "cloud",
+    "options": [
+      "cloud",
+      "brochure"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"break\" and \"industry\", which one rhymes with \"steak\"? A:",
+    "output": "break",
+    "options": [
+      "break",
+      "industry"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"politician\", \"musician\" or \"previous\"? A:",
+    "output": "musician",
+    "options": [
+      "musician",
+      "previous"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"strong\", \"university\" or \"long\"? A:",
+    "output": "long",
+    "options": [
+      "long",
+      "university"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"each\", \"damn\" or \"speech\"? A:",
+    "output": "speech",
+    "options": [
+      "speech",
+      "damn"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"peak\", \"inform\" or \"weak\"? A:",
+    "output": "weak",
+    "options": [
+      "weak",
+      "inform"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"side\", \"decide\" or \"sun\"? A:",
+    "output": "decide",
+    "options": [
+      "decide",
+      "sun"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"announce\" and \"cow\", which one rhymes with \"wow\"? A:",
+    "output": "cow",
+    "options": [
+      "cow",
+      "announce"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fill\" and \"reader\", which one rhymes with \"leader\"? A:",
+    "output": "reader",
+    "options": [
+      "reader",
+      "fill"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"catch\" and \"test\", which one rhymes with \"northwest\"? A:",
+    "output": "test",
+    "options": [
+      "test",
+      "catch"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"description\" and \"lab\", which one rhymes with \"prescription\"? A:",
+    "output": "description",
+    "options": [
+      "description",
+      "lab"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"friend\", \"recommend\" or \"antique\"? A:",
+    "output": "recommend",
+    "options": [
+      "recommend",
+      "antique"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"mine\", \"worst\" or \"line\"? A:",
+    "output": "line",
+    "options": [
+      "line",
+      "worst"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"trust\", \"dust\" or \"musician\"? A:",
+    "output": "dust",
+    "options": [
+      "dust",
+      "musician"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cab\" and \"trouble\", which one rhymes with \"double\"? A:",
+    "output": "trouble",
+    "options": [
+      "trouble",
+      "cab"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"quiet\", \"diet\" or \"air\"? A:",
+    "output": "diet",
+    "options": [
+      "diet",
+      "air"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"shock\", \"knock\" or \"organization\"? A:",
+    "output": "knock",
+    "options": [
+      "knock",
+      "organization"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"keep\", \"flu\" or \"deep\"? A:",
+    "output": "deep",
+    "options": [
+      "deep",
+      "flu"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"grab\" and \"finally\", which one rhymes with \"lab\"? A:",
+    "output": "grab",
+    "options": [
+      "grab",
+      "finally"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"catch\", \"attach\" or \"occasion\"? A:",
+    "output": "attach",
+    "options": [
+      "attach",
+      "occasion"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"southwest\", \"guest\" or \"platform\"? A:",
+    "output": "guest",
+    "options": [
+      "guest",
+      "platform"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"shiny\", \"bar\" or \"tiny\"? A:",
+    "output": "tiny",
+    "options": [
+      "tiny",
+      "bar"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"defense\", \"offense\" or \"through\"? A:",
+    "output": "offense",
+    "options": [
+      "offense",
+      "through"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fairly\", \"free\" or \"rarely\"? A:",
+    "output": "rarely",
+    "options": [
+      "rarely",
+      "free"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"snow\", \"coconut\" or \"row\"? A:",
+    "output": "row",
+    "options": [
+      "row",
+      "coconut"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"more\", \"bean\" or \"store\"? A:",
+    "output": "store",
+    "options": [
+      "store",
+      "bean"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"cap\", \"useful\" or \"rap\"? A:",
+    "output": "rap",
+    "options": [
+      "rap",
+      "useful"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"suggest\", \"only\" or \"northwest\"? A:",
+    "output": "northwest",
+    "options": [
+      "northwest",
+      "only"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"annoyed\", \"unemployed\" or \"social\"? A:",
+    "output": "unemployed",
+    "options": [
+      "unemployed",
+      "social"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bite\" and \"bury\", which one rhymes with \"kite\"? A:",
+    "output": "bite",
+    "options": [
+      "bite",
+      "bury"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sit\", \"deaf\" or \"kit\"? A:",
+    "output": "kit",
+    "options": [
+      "kit",
+      "deaf"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"hug\", \"rug\" or \"historic\"? A:",
+    "output": "rug",
+    "options": [
+      "rug",
+      "historic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"milk\" and \"end\", which one rhymes with \"silk\"? A:",
+    "output": "milk",
+    "options": [
+      "milk",
+      "end"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"irregular\" and \"call\", which one rhymes with \"tall\"? A:",
+    "output": "call",
+    "options": [
+      "call",
+      "irregular"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"car\", \"offense\" or \"star\"? A:",
+    "output": "star",
+    "options": [
+      "star",
+      "offense"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"wrong\", \"song\" or \"overnight\"? A:",
+    "output": "song",
+    "options": [
+      "song",
+      "overnight"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"raise\", \"phrase\" or \"ceremony\"? A:",
+    "output": "phrase",
+    "options": [
+      "phrase",
+      "ceremony"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sore\" and \"celebration\", which one rhymes with \"more\"? A:",
+    "output": "sore",
+    "options": [
+      "sore",
+      "celebration"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"insist\", \"list\" or \"solve\"? A:",
+    "output": "list",
+    "options": [
+      "list",
+      "solve"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"performance\" and \"rest\", which one rhymes with \"guest\"? A:",
+    "output": "rest",
+    "options": [
+      "rest",
+      "performance"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"luxury\" and \"bank\", which one rhymes with \"blank\"? A:",
+    "output": "bank",
+    "options": [
+      "bank",
+      "luxury"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"decide\", \"presentation\" or \"wide\"? A:",
+    "output": "wide",
+    "options": [
+      "wide",
+      "presentation"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"antique\", \"technique\" or \"clock\"? A:",
+    "output": "technique",
+    "options": [
+      "technique",
+      "clock"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"pump\", \"even\" or \"jump\"? A:",
+    "output": "jump",
+    "options": [
+      "jump",
+      "even"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"blank\", \"thank\" or \"dot\"? A:",
+    "output": "thank",
+    "options": [
+      "thank",
+      "dot"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"silk\", \"tip\" or \"milk\"? A:",
+    "output": "milk",
+    "options": [
+      "milk",
+      "tip"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"attach\" and \"forecast\", which one rhymes with \"match\"? A:",
+    "output": "attach",
+    "options": [
+      "attach",
+      "forecast"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"stain\", \"skateboard\" or \"main\"? A:",
+    "output": "main",
+    "options": [
+      "main",
+      "skateboard"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"morning\", \"above\" or \"warning\"? A:",
+    "output": "warning",
+    "options": [
+      "warning",
+      "above"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"reservation\", \"population\" or \"necklace\"? A:",
+    "output": "population",
+    "options": [
+      "population",
+      "necklace"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"neck\", \"download\" or \"check\"? A:",
+    "output": "check",
+    "options": [
+      "check",
+      "download"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"street\", \"repair\" or \"sweet\"? A:",
+    "output": "sweet",
+    "options": [
+      "sweet",
+      "repair"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"attack\", \"stress\" or \"black\"? A:",
+    "output": "black",
+    "options": [
+      "black",
+      "stress"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"frame\", \"same\" or \"kid\"? A:",
+    "output": "same",
+    "options": [
+      "same",
+      "kid"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fit\", \"wildlife\" or \"sit\"? A:",
+    "output": "sit",
+    "options": [
+      "sit",
+      "wildlife"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"blind\" and \"secondary\", which one rhymes with \"behind\"? A:",
+    "output": "blind",
+    "options": [
+      "blind",
+      "secondary"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"quiet\", \"diet\" or \"air\"? A:",
+    "output": "diet",
+    "options": [
+      "diet",
+      "air"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"otherwise\" and \"greeting\", which one rhymes with \"meeting\"? A:",
+    "output": "greeting",
+    "options": [
+      "greeting",
+      "otherwise"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"mix\", \"fix\" or \"loose\"? A:",
+    "output": "fix",
+    "options": [
+      "fix",
+      "loose"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pain\" and \"site\", which one rhymes with \"write\"? A:",
+    "output": "site",
+    "options": [
+      "site",
+      "pain"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fact\", \"map\" or \"attract\"? A:",
+    "output": "attract",
+    "options": [
+      "attract",
+      "map"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"send\", \"friend\" or \"aim\"? A:",
+    "output": "friend",
+    "options": [
+      "friend",
+      "aim"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"each\", \"damn\" or \"speech\"? A:",
+    "output": "speech",
+    "options": [
+      "speech",
+      "damn"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dust\", \"thriller\" or \"must\"? A:",
+    "output": "must",
+    "options": [
+      "must",
+      "thriller"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"connection\" and \"leader\", which one rhymes with \"election\"? A:",
+    "output": "connection",
+    "options": [
+      "connection",
+      "leader"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"alcoholic\" and \"dog\", which one rhymes with \"blog\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "alcoholic"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"myself\", \"herself\" or \"conclusion\"? A:",
+    "output": "herself",
+    "options": [
+      "herself",
+      "conclusion"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"compete\", \"way\" or \"complete\"? A:",
+    "output": "complete",
+    "options": [
+      "complete",
+      "way"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lemonade\", \"folk\" or \"trade\"? A:",
+    "output": "trade",
+    "options": [
+      "trade",
+      "folk"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"trick\" and \"heater\", which one rhymes with \"liter\"? A:",
+    "output": "heater",
+    "options": [
+      "heater",
+      "trick"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"insect\" and \"declare\", which one rhymes with \"square\"? A:",
+    "output": "declare",
+    "options": [
+      "declare",
+      "insect"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mix\" and \"course\", which one rhymes with \"horse\"? A:",
+    "output": "course",
+    "options": [
+      "course",
+      "mix"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"math\", \"granddaughter\" or \"path\"? A:",
+    "output": "path",
+    "options": [
+      "path",
+      "granddaughter"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"shop\", \"prize\" or \"pop\"? A:",
+    "output": "pop",
+    "options": [
+      "pop",
+      "prize"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"stay\", \"occasion\" or \"gay\"? A:",
+    "output": "gay",
+    "options": [
+      "gay",
+      "occasion"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"quiet\", \"diet\" or \"stain\"? A:",
+    "output": "diet",
+    "options": [
+      "diet",
+      "stain"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"per\", \"her\" or \"film\"? A:",
+    "output": "her",
+    "options": [
+      "her",
+      "film"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"final\" and \"inform\", which one rhymes with \"perform\"? A:",
+    "output": "inform",
+    "options": [
+      "inform",
+      "final"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"virus\" and \"answer\", which one rhymes with \"cancer\"? A:",
+    "output": "answer",
+    "options": [
+      "answer",
+      "virus"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"main\", \"backpack\" or \"contain\"? A:",
+    "output": "contain",
+    "options": [
+      "contain",
+      "backpack"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"plain\" and \"speed\", which one rhymes with \"bleed\"? A:",
+    "output": "speed",
+    "options": [
+      "speed",
+      "plain"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"theirs\", \"disagree\" or \"downstairs\"? A:",
+    "output": "downstairs",
+    "options": [
+      "downstairs",
+      "disagree"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cartoon\" and \"peach\", which one rhymes with \"reach\"? A:",
+    "output": "peach",
+    "options": [
+      "peach",
+      "cartoon"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sheep\", \"asleep\" or \"dancing\"? A:",
+    "output": "asleep",
+    "options": [
+      "asleep",
+      "dancing"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"recover\", \"society\" or \"lover\"? A:",
+    "output": "lover",
+    "options": [
+      "lover",
+      "society"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"routine\" and \"press\", which one rhymes with \"machine\"? A:",
+    "output": "routine",
+    "options": [
+      "routine",
+      "press"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"jet\", \"yet\" or \"teach\"? A:",
+    "output": "yet",
+    "options": [
+      "yet",
+      "teach"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"front\", \"finally\" or \"hunt\"? A:",
+    "output": "hunt",
+    "options": [
+      "hunt",
+      "finally"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bury\" and \"luck\", which one rhymes with \"truck\"? A:",
+    "output": "luck",
+    "options": [
+      "luck",
+      "bury"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"switch\", \"logo\" or \"rich\"? A:",
+    "output": "rich",
+    "options": [
+      "rich",
+      "logo"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"jet\", \"yet\" or \"teach\"? A:",
+    "output": "yet",
+    "options": [
+      "yet",
+      "teach"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dancer\", \"cancer\" or \"television\"? A:",
+    "output": "cancer",
+    "options": [
+      "cancer",
+      "television"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"successful\", \"exercise\" or \"stressful\"? A:",
+    "output": "stressful",
+    "options": [
+      "stressful",
+      "exercise"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sports\" and \"life\", which one rhymes with \"shorts\"? A:",
+    "output": "sports",
+    "options": [
+      "sports",
+      "life"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"stain\", \"park\" or \"explain\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "park"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"team\" and \"shore\", which one rhymes with \"scream\"? A:",
+    "output": "team",
+    "options": [
+      "team",
+      "shore"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"worry\" and \"space\", which one rhymes with \"hurry\"? A:",
+    "output": "worry",
+    "options": [
+      "worry",
+      "space"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"theirs\", \"spot\" or \"upstairs\"? A:",
+    "output": "upstairs",
+    "options": [
+      "upstairs",
+      "spot"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mile\" and \"television\", which one rhymes with \"pile\"? A:",
+    "output": "mile",
+    "options": [
+      "mile",
+      "television"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"annoyed\", \"unemployed\" or \"brain\"? A:",
+    "output": "unemployed",
+    "options": [
+      "unemployed",
+      "brain"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pop\" and \"path\", which one rhymes with \"shop\"? A:",
+    "output": "pop",
+    "options": [
+      "pop",
+      "path"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"strange\", \"change\" or \"quietly\"? A:",
+    "output": "change",
+    "options": [
+      "change",
+      "quietly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"select\" and \"these\", which one rhymes with \"disease\"? A:",
+    "output": "these",
+    "options": [
+      "these",
+      "select"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"car\" and \"fit\", which one rhymes with \"jar\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "fit"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"slow\", \"know\" or \"importance\"? A:",
+    "output": "know",
+    "options": [
+      "know",
+      "importance"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fact\", \"man\" or \"attract\"? A:",
+    "output": "attract",
+    "options": [
+      "attract",
+      "man"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"grab\", \"money\" or \"lab\"? A:",
+    "output": "lab",
+    "options": [
+      "lab",
+      "money"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"still\", \"rugby\" or \"skill\"? A:",
+    "output": "skill",
+    "options": [
+      "skill",
+      "rugby"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"upstairs\", \"wave\" or \"downstairs\"? A:",
+    "output": "downstairs",
+    "options": [
+      "downstairs",
+      "wave"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"plastic\", \"north\" or \"fantastic\"? A:",
+    "output": "fantastic",
+    "options": [
+      "fantastic",
+      "north"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"transportation\", \"apply\" or \"information\"? A:",
+    "output": "information",
+    "options": [
+      "information",
+      "apply"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"unemployed\" and \"violin\", which one rhymes with \"annoyed\"? A:",
+    "output": "unemployed",
+    "options": [
+      "unemployed",
+      "violin"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"never\", \"raincoat\" or \"however\"? A:",
+    "output": "however",
+    "options": [
+      "however",
+      "raincoat"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sleeve\", \"achieve\" or \"folk\"? A:",
+    "output": "achieve",
+    "options": [
+      "achieve",
+      "folk"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"coast\", \"pig\" or \"post\"? A:",
+    "output": "post",
+    "options": [
+      "post",
+      "pig"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"prescription\", \"description\" or \"cigarette\"? A:",
+    "output": "description",
+    "options": [
+      "description",
+      "cigarette"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"allow\", \"now\" or \"call\"? A:",
+    "output": "now",
+    "options": [
+      "now",
+      "call"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"complain\", \"itself\" or \"explain\"? A:",
+    "output": "explain",
+    "options": [
+      "explain",
+      "itself"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"tram\", \"gram\" or \"tights\"? A:",
+    "output": "gram",
+    "options": [
+      "gram",
+      "tights"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"tie\", \"lie\" or \"shrimp\"? A:",
+    "output": "lie",
+    "options": [
+      "lie",
+      "shrimp"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"reservation\", \"presentation\" or \"lift\"? A:",
+    "output": "presentation",
+    "options": [
+      "presentation",
+      "lift"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"role\", \"hole\" or \"foot\"? A:",
+    "output": "hole",
+    "options": [
+      "hole",
+      "foot"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"plate\", \"gate\" or \"branch\"? A:",
+    "output": "gate",
+    "options": [
+      "gate",
+      "branch"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"float\" and \"examination\", which one rhymes with \"goat\"? A:",
+    "output": "float",
+    "options": [
+      "float",
+      "examination"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"mention\", \"attention\" or \"poem\"? A:",
+    "output": "attention",
+    "options": [
+      "attention",
+      "poem"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sunny\", \"book\" or \"funny\"? A:",
+    "output": "funny",
+    "options": [
+      "funny",
+      "book"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"rarely\", \"meat\" or \"fairly\"? A:",
+    "output": "fairly",
+    "options": [
+      "fairly",
+      "meat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"shave\" and \"spot\", which one rhymes with \"not\"? A:",
+    "output": "spot",
+    "options": [
+      "spot",
+      "shave"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"red\", \"bed\" or \"logo\"? A:",
+    "output": "bed",
+    "options": [
+      "bed",
+      "logo"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"contain\", \"unexpected\" or \"stain\"? A:",
+    "output": "stain",
+    "options": [
+      "stain",
+      "unexpected"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"jam\", \"factory\" or \"exam\"? A:",
+    "output": "exam",
+    "options": [
+      "exam",
+      "factory"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"screen\", \"green\" or \"sick\"? A:",
+    "output": "green",
+    "options": [
+      "green",
+      "sick"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mug\" and \"topic\", which one rhymes with \"rug\"? A:",
+    "output": "mug",
+    "options": [
+      "mug",
+      "topic"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"soon\", \"noon\" or \"page\"? A:",
+    "output": "noon",
+    "options": [
+      "noon",
+      "page"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"himself\", \"myself\" or \"dinosaur\"? A:",
+    "output": "myself",
+    "options": [
+      "myself",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"first\", \"worst\" or \"blogger\"? A:",
+    "output": "worst",
+    "options": [
+      "worst",
+      "blogger"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"bitter\" and \"fold\", which one rhymes with \"hold\"? A:",
+    "output": "fold",
+    "options": [
+      "fold",
+      "bitter"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"steep\", \"sleep\" or \"punish\"? A:",
+    "output": "sleep",
+    "options": [
+      "sleep",
+      "punish"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"twice\", \"boil\" or \"spice\"? A:",
+    "output": "spice",
+    "options": [
+      "spice",
+      "boil"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"right\", \"pool\" or \"flight\"? A:",
+    "output": "flight",
+    "options": [
+      "flight",
+      "pool"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"shelf\", \"find\" or \"herself\"? A:",
+    "output": "herself",
+    "options": [
+      "herself",
+      "find"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"port\" and \"along\", which one rhymes with \"wrong\"? A:",
+    "output": "along",
+    "options": [
+      "along",
+      "port"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"succeed\", \"happily\" or \"indeed\"? A:",
+    "output": "indeed",
+    "options": [
+      "indeed",
+      "happily"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"tight\" and \"calf\", which one rhymes with \"bright\"? A:",
+    "output": "tight",
+    "options": [
+      "tight",
+      "calf"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"ring\", \"king\" or \"shoulder\"? A:",
+    "output": "king",
+    "options": [
+      "king",
+      "shoulder"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"lake\" and \"foggy\", which one rhymes with \"snake\"? A:",
+    "output": "lake",
+    "options": [
+      "lake",
+      "foggy"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"agree\" and \"math\", which one rhymes with \"fee\"? A:",
+    "output": "agree",
+    "options": [
+      "agree",
+      "math"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"jam\", \"ham\" or \"delicious\"? A:",
+    "output": "ham",
+    "options": [
+      "ham",
+      "delicious"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"depart\", \"case\" or \"apart\"? A:",
+    "output": "apart",
+    "options": [
+      "apart",
+      "case"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"herself\" and \"conclusion\", which one rhymes with \"myself\"? A:",
+    "output": "herself",
+    "options": [
+      "herself",
+      "conclusion"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"match\", \"tuna\" or \"catch\"? A:",
+    "output": "catch",
+    "options": [
+      "catch",
+      "tuna"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"city\" and \"builder\", which one rhymes with \"pretty\"? A:",
+    "output": "city",
+    "options": [
+      "city",
+      "builder"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"brain\", \"train\" or \"leader\"? A:",
+    "output": "train",
+    "options": [
+      "train",
+      "leader"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"driver\", \"spell\" or \"diver\"? A:",
+    "output": "diver",
+    "options": [
+      "diver",
+      "spell"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"amount\", \"therefore\" or \"count\"? A:",
+    "output": "count",
+    "options": [
+      "count",
+      "therefore"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"cage\", \"stage\" or \"variety\"? A:",
+    "output": "stage",
+    "options": [
+      "stage",
+      "variety"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"down\", \"downtown\" or \"hard\"? A:",
+    "output": "downtown",
+    "options": [
+      "downtown",
+      "hard"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dirt\", \"hurt\" or \"pupil\"? A:",
+    "output": "hurt",
+    "options": [
+      "hurt",
+      "pupil"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"may\", \"pay\" or \"summer\"? A:",
+    "output": "pay",
+    "options": [
+      "pay",
+      "summer"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fit\", \"union\" or \"bit\"? A:",
+    "output": "bit",
+    "options": [
+      "bit",
+      "union"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"press\", \"less\" or \"used\"? A:",
+    "output": "less",
+    "options": [
+      "less",
+      "used"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"tower\", \"sink\" or \"flower\"? A:",
+    "output": "flower",
+    "options": [
+      "flower",
+      "sink"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"remind\", \"blind\" or \"cable\"? A:",
+    "output": "blind",
+    "options": [
+      "blind",
+      "cable"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"agency\" and \"apartment\", which one rhymes with \"department\"? A:",
+    "output": "apartment",
+    "options": [
+      "apartment",
+      "agency"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"love\", \"above\" or \"sports\"? A:",
+    "output": "above",
+    "options": [
+      "above",
+      "sports"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"year\", \"fear\" or \"killing\"? A:",
+    "output": "fear",
+    "options": [
+      "fear",
+      "killing"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"reservation\", \"grade\" or \"punctuation\"? A:",
+    "output": "punctuation",
+    "options": [
+      "punctuation",
+      "grade"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"soup\", \"group\" or \"blame\"? A:",
+    "output": "group",
+    "options": [
+      "group",
+      "blame"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"invention\", \"gallery\" or \"mention\"? A:",
+    "output": "mention",
+    "options": [
+      "mention",
+      "gallery"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"correction\", \"connection\" or \"cat\"? A:",
+    "output": "connection",
+    "options": [
+      "connection",
+      "cat"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"card\", \"guard\" or \"imagine\"? A:",
+    "output": "guard",
+    "options": [
+      "guard",
+      "imagine"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dad\", \"sad\" or \"pair\"? A:",
+    "output": "sad",
+    "options": [
+      "sad",
+      "pair"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"finally\" and \"hunt\", which one rhymes with \"front\"? A:",
+    "output": "hunt",
+    "options": [
+      "hunt",
+      "finally"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"fan\", \"plan\" or \"excitedly\"? A:",
+    "output": "plan",
+    "options": [
+      "plan",
+      "excitedly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mother\" and \"invent\", which one rhymes with \"percent\"? A:",
+    "output": "invent",
+    "options": [
+      "invent",
+      "mother"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"free\", \"favor\" or \"tree\"? A:",
+    "output": "tree",
+    "options": [
+      "tree",
+      "favor"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"less\", \"chess\" or \"defeat\"? A:",
+    "output": "chess",
+    "options": [
+      "chess",
+      "defeat"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dressed\", \"depressed\" or \"ball\"? A:",
+    "output": "depressed",
+    "options": [
+      "depressed",
+      "ball"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"please\", \"takeout\" or \"disease\"? A:",
+    "output": "disease",
+    "options": [
+      "disease",
+      "takeout"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fool\", \"cool\" or \"ghost\"? A:",
+    "output": "cool",
+    "options": [
+      "cool",
+      "ghost"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"king\" and \"rest\", which one rhymes with \"guest\"? A:",
+    "output": "rest",
+    "options": [
+      "rest",
+      "king"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lake\", \"ambition\" or \"mistake\"? A:",
+    "output": "mistake",
+    "options": [
+      "mistake",
+      "ambition"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"remind\", \"apple\" or \"unkind\"? A:",
+    "output": "unkind",
+    "options": [
+      "unkind",
+      "apple"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"word\", \"bird\" or \"cable\"? A:",
+    "output": "bird",
+    "options": [
+      "bird",
+      "cable"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"should\" and \"speaker\", which one rhymes with \"sneaker\"? A:",
+    "output": "speaker",
+    "options": [
+      "speaker",
+      "should"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"more\", \"sore\" or \"celebration\"? A:",
+    "output": "sore",
+    "options": [
+      "sore",
+      "celebration"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"boy\" and \"weather\", which one rhymes with \"leather\"? A:",
+    "output": "weather",
+    "options": [
+      "weather",
+      "boy"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"jar\", \"car\" or \"fit\"? A:",
+    "output": "car",
+    "options": [
+      "car",
+      "fit"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"destroy\" and \"wave\", which one rhymes with \"boy\"? A:",
+    "output": "destroy",
+    "options": [
+      "destroy",
+      "wave"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"attention\" and \"poem\", which one rhymes with \"mention\"? A:",
+    "output": "attention",
+    "options": [
+      "attention",
+      "poem"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"blog\", \"alcoholic\" or \"dog\"? A:",
+    "output": "dog",
+    "options": [
+      "dog",
+      "alcoholic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"father\" and \"ready\", which one rhymes with \"bother\"? A:",
+    "output": "father",
+    "options": [
+      "father",
+      "ready"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"list\" and \"easily\", which one rhymes with \"insist\"? A:",
+    "output": "list",
+    "options": [
+      "list",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"gallery\", \"things\" or \"salary\"? A:",
+    "output": "salary",
+    "options": [
+      "salary",
+      "things"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"wave\" and \"others\", which one rhymes with \"brave\"? A:",
+    "output": "wave",
+    "options": [
+      "wave",
+      "others"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"percent\", \"rent\" or \"advanced\"? A:",
+    "output": "rent",
+    "options": [
+      "rent",
+      "advanced"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"antique\", \"smoking\" or \"technique\"? A:",
+    "output": "technique",
+    "options": [
+      "technique",
+      "smoking"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"stone\", \"sailor\" or \"bone\"? A:",
+    "output": "bone",
+    "options": [
+      "bone",
+      "sailor"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"prince\", \"bat\" or \"convince\"? A:",
+    "output": "convince",
+    "options": [
+      "convince",
+      "bat"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"feeling\", \"solve\" or \"ceiling\"? A:",
+    "output": "ceiling",
+    "options": [
+      "ceiling",
+      "solve"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"drive\", \"session\" or \"alive\"? A:",
+    "output": "alive",
+    "options": [
+      "alive",
+      "session"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"marry\", \"very\" or \"mustache\"? A:",
+    "output": "very",
+    "options": [
+      "very",
+      "mustache"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"sense\", \"offense\" or \"homework\"? A:",
+    "output": "offense",
+    "options": [
+      "offense",
+      "homework"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dive\", \"arrive\" or \"tight\"? A:",
+    "output": "arrive",
+    "options": [
+      "arrive",
+      "tight"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"rat\", \"fat\" or \"available\"? A:",
+    "output": "fat",
+    "options": [
+      "fat",
+      "available"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"boy\", \"pump\" or \"destroy\"? A:",
+    "output": "destroy",
+    "options": [
+      "destroy",
+      "pump"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"much\", \"touch\" or \"author\"? A:",
+    "output": "touch",
+    "options": [
+      "touch",
+      "author"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"position\", \"permission\" or \"under\"? A:",
+    "output": "permission",
+    "options": [
+      "permission",
+      "under"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"attach\", \"hardware\" or \"catch\"? A:",
+    "output": "catch",
+    "options": [
+      "catch",
+      "hardware"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"shop\", \"pop\" or \"hotel\"? A:",
+    "output": "pop",
+    "options": [
+      "pop",
+      "hotel"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"kite\", \"easily\" or \"polite\"? A:",
+    "output": "polite",
+    "options": [
+      "polite",
+      "easily"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"promote\" and \"glass\", which one rhymes with \"vote\"? A:",
+    "output": "promote",
+    "options": [
+      "promote",
+      "glass"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"herself\", \"barber\" or \"itself\"? A:",
+    "output": "itself",
+    "options": [
+      "itself",
+      "barber"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"seat\" and \"barber\", which one rhymes with \"heat\"? A:",
+    "output": "seat",
+    "options": [
+      "seat",
+      "barber"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"inform\" and \"wow\", which one rhymes with \"warm\"? A:",
+    "output": "inform",
+    "options": [
+      "inform",
+      "wow"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"neck\", \"mood\" or \"check\"? A:",
+    "output": "check",
+    "options": [
+      "check",
+      "mood"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"location\" and \"strange\", which one rhymes with \"exchange\"? A:",
+    "output": "strange",
+    "options": [
+      "strange",
+      "location"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"logo\" and \"rich\", which one rhymes with \"switch\"? A:",
+    "output": "rich",
+    "options": [
+      "rich",
+      "logo"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"only\" and \"bookcase\", which one rhymes with \"lonely\"? A:",
+    "output": "only",
+    "options": [
+      "only",
+      "bookcase"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"look\" and \"sense\", which one rhymes with \"offense\"? A:",
+    "output": "sense",
+    "options": [
+      "sense",
+      "look"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"thin\", \"pin\" or \"baker\"? A:",
+    "output": "pin",
+    "options": [
+      "pin",
+      "baker"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"know\", \"show\" or \"snack\"? A:",
+    "output": "show",
+    "options": [
+      "show",
+      "snack"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"invent\" and \"enjoyable\", which one rhymes with \"percent\"? A:",
+    "output": "invent",
+    "options": [
+      "invent",
+      "enjoyable"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"cloud\", \"cola\" or \"aloud\"? A:",
+    "output": "aloud",
+    "options": [
+      "aloud",
+      "cola"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"ghost\", \"hole\" or \"roast\"? A:",
+    "output": "roast",
+    "options": [
+      "roast",
+      "hole"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"difficult\" and \"buy\", which one rhymes with \"guy\"? A:",
+    "output": "buy",
+    "options": [
+      "buy",
+      "difficult"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"same\" and \"kid\", which one rhymes with \"frame\"? A:",
+    "output": "same",
+    "options": [
+      "same",
+      "kid"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"guy\" and \"attractive\", which one rhymes with \"buy\"? A:",
+    "output": "guy",
+    "options": [
+      "guy",
+      "attractive"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"achievement\" and \"free\", which one rhymes with \"see\"? A:",
+    "output": "free",
+    "options": [
+      "free",
+      "achievement"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"right\" and \"singer\", which one rhymes with \"sight\"? A:",
+    "output": "right",
+    "options": [
+      "right",
+      "singer"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"prince\", \"bat\" or \"convince\"? A:",
+    "output": "convince",
+    "options": [
+      "convince",
+      "bat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"ambition\" and \"mistake\", which one rhymes with \"lake\"? A:",
+    "output": "mistake",
+    "options": [
+      "mistake",
+      "ambition"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"blind\", \"past\" or \"mind\"? A:",
+    "output": "mind",
+    "options": [
+      "mind",
+      "past"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"wife\", \"knife\" or \"opera\"? A:",
+    "output": "knife",
+    "options": [
+      "knife",
+      "opera"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"phrase\" and \"ceremony\", which one rhymes with \"raise\"? A:",
+    "output": "phrase",
+    "options": [
+      "phrase",
+      "ceremony"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"useless\" and \"small\", which one rhymes with \"install\"? A:",
+    "output": "small",
+    "options": [
+      "small",
+      "useless"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"ham\", \"appointment\" or \"gram\"? A:",
+    "output": "gram",
+    "options": [
+      "gram",
+      "appointment"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"along\", \"size\" or \"strong\"? A:",
+    "output": "strong",
+    "options": [
+      "strong",
+      "size"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"gun\", \"run\" or \"cave\"? A:",
+    "output": "run",
+    "options": [
+      "run",
+      "cave"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"trumpet\" and \"lip\", which one rhymes with \"ship\"? A:",
+    "output": "lip",
+    "options": [
+      "lip",
+      "trumpet"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"seat\", \"slow\" or \"defeat\"? A:",
+    "output": "defeat",
+    "options": [
+      "defeat",
+      "slow"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"kit\" and \"dinosaur\", which one rhymes with \"bit\"? A:",
+    "output": "kit",
+    "options": [
+      "kit",
+      "dinosaur"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"leader\", \"honeymoon\" or \"reader\"? A:",
+    "output": "reader",
+    "options": [
+      "reader",
+      "honeymoon"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"learn\", \"bleed\" or \"turn\"? A:",
+    "output": "turn",
+    "options": [
+      "turn",
+      "bleed"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"biography\", \"garlic\" or \"geography\"? A:",
+    "output": "geography",
+    "options": [
+      "geography",
+      "garlic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"well\" and \"face\", which one rhymes with \"race\"? A:",
+    "output": "face",
+    "options": [
+      "face",
+      "well"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"technology\", \"short\" or \"apology\"? A:",
+    "output": "apology",
+    "options": [
+      "apology",
+      "short"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dance\", \"chance\" or \"careful\"? A:",
+    "output": "chance",
+    "options": [
+      "chance",
+      "careful"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cancer\" and \"television\", which one rhymes with \"dancer\"? A:",
+    "output": "cancer",
+    "options": [
+      "cancer",
+      "television"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"dish\", \"application\" or \"fish\"? A:",
+    "output": "fish",
+    "options": [
+      "fish",
+      "application"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"reduce\" and \"skill\", which one rhymes with \"fill\"? A:",
+    "output": "skill",
+    "options": [
+      "skill",
+      "reduce"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"ability\", \"recipe\" or \"possibility\"? A:",
+    "output": "possibility",
+    "options": [
+      "possibility",
+      "recipe"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"maximum\" and \"nose\", which one rhymes with \"rose\"? A:",
+    "output": "nose",
+    "options": [
+      "nose",
+      "maximum"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"brown\", \"finally\" or \"down\"? A:",
+    "output": "down",
+    "options": [
+      "down",
+      "finally"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"piece\", \"police\" or \"blow\"? A:",
+    "output": "police",
+    "options": [
+      "police",
+      "blow"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bride\", \"wash\" or \"guide\"? A:",
+    "output": "guide",
+    "options": [
+      "guide",
+      "wash"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"allow\", \"how\" or \"railroad\"? A:",
+    "output": "how",
+    "options": [
+      "how",
+      "railroad"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pear\" and \"name\", which one rhymes with \"blame\"? A:",
+    "output": "name",
+    "options": [
+      "name",
+      "pear"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"write\", \"pain\" or \"site\"? A:",
+    "output": "site",
+    "options": [
+      "site",
+      "pain"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"myself\", \"himself\" or \"animated\"? A:",
+    "output": "himself",
+    "options": [
+      "himself",
+      "animated"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"week\", \"oh\" or \"cheek\"? A:",
+    "output": "cheek",
+    "options": [
+      "cheek",
+      "oh"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"space\", \"face\" or \"metal\"? A:",
+    "output": "face",
+    "options": [
+      "face",
+      "metal"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"section\", \"election\" or \"few\"? A:",
+    "output": "election",
+    "options": [
+      "election",
+      "few"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"lock\", \"rock\" or \"theirs\"? A:",
+    "output": "rock",
+    "options": [
+      "rock",
+      "theirs"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"northeast\", \"comedy\" or \"priest\"? A:",
+    "output": "priest",
+    "options": [
+      "priest",
+      "comedy"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"perform\", \"final\" or \"inform\"? A:",
+    "output": "inform",
+    "options": [
+      "inform",
+      "final"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"attend\", \"defend\" or \"owe\"? A:",
+    "output": "defend",
+    "options": [
+      "defend",
+      "owe"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"sleep\", \"deep\" or \"list\"? A:",
+    "output": "deep",
+    "options": [
+      "deep",
+      "list"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"gold\" and \"lab\", which one rhymes with \"cold\"? A:",
+    "output": "gold",
+    "options": [
+      "gold",
+      "lab"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"connection\" and \"literature\", which one rhymes with \"section\"? A:",
+    "output": "connection",
+    "options": [
+      "connection",
+      "literature"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"morning\", \"warning\" or \"per\"? A:",
+    "output": "warning",
+    "options": [
+      "warning",
+      "per"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"poster\" and \"hat\", which one rhymes with \"bat\"? A:",
+    "output": "hat",
+    "options": [
+      "hat",
+      "poster"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"trade\" and \"fool\", which one rhymes with \"grade\"? A:",
+    "output": "trade",
+    "options": [
+      "trade",
+      "fool"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"technology\", \"successful\" or \"biology\"? A:",
+    "output": "biology",
+    "options": [
+      "biology",
+      "successful"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bright\", \"overnight\" or \"never\"? A:",
+    "output": "overnight",
+    "options": [
+      "overnight",
+      "never"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pupil\" and \"tax\", which one rhymes with \"fax\"? A:",
+    "output": "tax",
+    "options": [
+      "tax",
+      "pupil"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"child\", \"potato\" or \"wild\"? A:",
+    "output": "wild",
+    "options": [
+      "wild",
+      "potato"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"remind\" and \"compete\", which one rhymes with \"delete\"? A:",
+    "output": "compete",
+    "options": [
+      "compete",
+      "remind"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"these\", \"dear\" or \"please\"? A:",
+    "output": "please",
+    "options": [
+      "please",
+      "dear"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fax\" and \"prince\", which one rhymes with \"since\"? A:",
+    "output": "prince",
+    "options": [
+      "prince",
+      "fax"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"demand\", \"hand\" or \"apart\"? A:",
+    "output": "hand",
+    "options": [
+      "hand",
+      "apart"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"net\", \"park\" or \"set\"? A:",
+    "output": "set",
+    "options": [
+      "set",
+      "park"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"very\" and \"instructions\", which one rhymes with \"ferry\"? A:",
+    "output": "very",
+    "options": [
+      "very",
+      "instructions"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"rain\", \"possessive\" or \"main\"? A:",
+    "output": "main",
+    "options": [
+      "main",
+      "possessive"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"hit\", \"reduce\" or \"knit\"? A:",
+    "output": "knit",
+    "options": [
+      "knit",
+      "reduce"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"advanced\" and \"learn\", which one rhymes with \"burn\"? A:",
+    "output": "learn",
+    "options": [
+      "learn",
+      "advanced"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"explore\", \"cut\" or \"more\"? A:",
+    "output": "more",
+    "options": [
+      "more",
+      "cut"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bring\", \"border\" or \"king\"? A:",
+    "output": "king",
+    "options": [
+      "king",
+      "border"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"strange\", \"change\" or \"quietly\"? A:",
+    "output": "change",
+    "options": [
+      "change",
+      "quietly"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"mistake\" and \"uninteresting\", which one rhymes with \"shake\"? A:",
+    "output": "mistake",
+    "options": [
+      "mistake",
+      "uninteresting"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"surround\" and \"mall\", which one rhymes with \"sound\"? A:",
+    "output": "surround",
+    "options": [
+      "surround",
+      "mall"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dig\", \"big\" or \"sunshine\"? A:",
+    "output": "big",
+    "options": [
+      "big",
+      "sunshine"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"perform\", \"final\" or \"inform\"? A:",
+    "output": "inform",
+    "options": [
+      "inform",
+      "final"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stranger\" and \"soon\", which one rhymes with \"afternoon\"? A:",
+    "output": "soon",
+    "options": [
+      "soon",
+      "stranger"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"neck\", \"check\" or \"likely\"? A:",
+    "output": "check",
+    "options": [
+      "check",
+      "likely"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"decide\", \"provide\" or \"busy\"? A:",
+    "output": "provide",
+    "options": [
+      "provide",
+      "busy"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"dressed\", \"depressed\" or \"ball\"? A:",
+    "output": "depressed",
+    "options": [
+      "depressed",
+      "ball"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"annoyed\" and \"operation\", which one rhymes with \"unemployed\"? A:",
+    "output": "annoyed",
+    "options": [
+      "annoyed",
+      "operation"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"role\", \"hole\" or \"foot\"? A:",
+    "output": "hole",
+    "options": [
+      "hole",
+      "foot"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"sure\", \"admit\" or \"brochure\"? A:",
+    "output": "brochure",
+    "options": [
+      "brochure",
+      "admit"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"burn\", \"ache\" or \"turn\"? A:",
+    "output": "turn",
+    "options": [
+      "turn",
+      "ache"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"exact\", \"fact\" or \"football\"? A:",
+    "output": "fact",
+    "options": [
+      "fact",
+      "football"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"comma\" and \"population\", which one rhymes with \"application\"? A:",
+    "output": "population",
+    "options": [
+      "population",
+      "comma"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"green\" and \"sick\", which one rhymes with \"screen\"? A:",
+    "output": "green",
+    "options": [
+      "green",
+      "sick"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cabin\" and \"sleep\", which one rhymes with \"sheep\"? A:",
+    "output": "sleep",
+    "options": [
+      "sleep",
+      "cabin"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"yet\", \"net\" or \"lemon\"? A:",
+    "output": "net",
+    "options": [
+      "net",
+      "lemon"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"theirs\", \"disagree\" or \"downstairs\"? A:",
+    "output": "downstairs",
+    "options": [
+      "downstairs",
+      "disagree"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"pot\", \"not\" or \"loudly\"? A:",
+    "output": "not",
+    "options": [
+      "not",
+      "loudly"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"fan\", \"van\" or \"license\"? A:",
+    "output": "van",
+    "options": [
+      "van",
+      "license"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"daughter\", \"put\" or \"water\"? A:",
+    "output": "water",
+    "options": [
+      "water",
+      "put"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"station\", \"application\" or \"photography\"? A:",
+    "output": "application",
+    "options": [
+      "application",
+      "photography"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"disagree\" and \"downstairs\", which one rhymes with \"theirs\"? A:",
+    "output": "downstairs",
+    "options": [
+      "downstairs",
+      "disagree"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"price\", \"homework\" or \"twice\"? A:",
+    "output": "twice",
+    "options": [
+      "twice",
+      "homework"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"please\", \"anything\" or \"these\"? A:",
+    "output": "these",
+    "options": [
+      "these",
+      "anything"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"cut\" and \"more\", which one rhymes with \"explore\"? A:",
+    "output": "more",
+    "options": [
+      "more",
+      "cut"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"deck\", \"heat\" or \"neck\"? A:",
+    "output": "neck",
+    "options": [
+      "neck",
+      "heat"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"stage\" and \"variety\", which one rhymes with \"cage\"? A:",
+    "output": "stage",
+    "options": [
+      "stage",
+      "variety"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"wing\", \"thing\" or \"butter\"? A:",
+    "output": "thing",
+    "options": [
+      "thing",
+      "butter"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"strong\", \"university\" or \"long\"? A:",
+    "output": "long",
+    "options": [
+      "long",
+      "university"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"bed\", \"red\" or \"library\"? A:",
+    "output": "red",
+    "options": [
+      "red",
+      "library"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"heat\", \"seat\" or \"barber\"? A:",
+    "output": "seat",
+    "options": [
+      "seat",
+      "barber"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"reduce\", \"rarely\" or \"juice\"? A:",
+    "output": "juice",
+    "options": [
+      "juice",
+      "rarely"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"chair\", \"repair\" or \"permanent\"? A:",
+    "output": "repair",
+    "options": [
+      "repair",
+      "permanent"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"meet\", \"plastic\" or \"greet\"? A:",
+    "output": "greet",
+    "options": [
+      "greet",
+      "plastic"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"myself\" and \"same\", which one rhymes with \"frame\"? A:",
+    "output": "same",
+    "options": [
+      "same",
+      "myself"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"annoying\" and \"antique\", which one rhymes with \"technique\"? A:",
+    "output": "antique",
+    "options": [
+      "antique",
+      "annoying"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"election\", \"connection\" or \"leader\"? A:",
+    "output": "connection",
+    "options": [
+      "connection",
+      "leader"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"bank\", \"sport\" or \"thank\"? A:",
+    "output": "thank",
+    "options": [
+      "thank",
+      "sport"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"king\" and \"shoulder\", which one rhymes with \"ring\"? A:",
+    "output": "king",
+    "options": [
+      "king",
+      "shoulder"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"south\", \"mouth\" or \"clever\"? A:",
+    "output": "mouth",
+    "options": [
+      "mouth",
+      "clever"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"goodbye\", \"eye\" or \"forecast\"? A:",
+    "output": "eye",
+    "options": [
+      "eye",
+      "forecast"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"last\", \"terrible\" or \"past\"? A:",
+    "output": "past",
+    "options": [
+      "past",
+      "terrible"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"ability\" and \"feed\", which one rhymes with \"possibility\"? A:",
+    "output": "ability",
+    "options": [
+      "ability",
+      "feed"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"fear\" and \"test\", which one rhymes with \"dear\"? A:",
+    "output": "fear",
+    "options": [
+      "fear",
+      "test"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"sport\" and \"thank\", which one rhymes with \"bank\"? A:",
+    "output": "thank",
+    "options": [
+      "thank",
+      "sport"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"escape\", \"grape\" or \"final\"? A:",
+    "output": "grape",
+    "options": [
+      "grape",
+      "final"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"afternoon\", \"stranger\" or \"soon\"? A:",
+    "output": "soon",
+    "options": [
+      "soon",
+      "stranger"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"bake\", \"smell\" or \"brake\"? A:",
+    "output": "brake",
+    "options": [
+      "brake",
+      "smell"
+    ]
+  },
+  {
+    "input": "Q: Of the words \"pump\" and \"destroy\", which one rhymes with \"boy\"? A:",
+    "output": "destroy",
+    "options": [
+      "destroy",
+      "pump"
+    ]
+  },
+  {
+    "input": "Q: Which word rhymes with the word \"very\", \"preparation\" or \"ferry\"? A:",
+    "output": "ferry",
+    "options": [
+      "ferry",
+      "preparation"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"soup\", \"group\" or \"permanent\"? A:",
+    "output": "group",
+    "options": [
+      "group",
+      "permanent"
+    ]
+  },
+  {
+    "input": "Q: Which is a rhyme of the word \"deck\", \"celebrate\" or \"neck\"? A:",
+    "output": "neck",
+    "options": [
+      "neck",
+      "celebrate"
+    ]
+  }
+]
