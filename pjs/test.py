@@ -34,9 +34,9 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         pad_token_id=tokenizer.eos_token_id
         )
         
-        output_text = tokenizer.decode(outputs[0])
-        output_text = output_text.split(tokenizer.eos_token)[-1]
-        output_text = output_text.replace(tokenizer.eos_token, "")
+        output_text_raw = tokenizer.decode(outputs[0])
+        output_split = [part for part in output_text_raw.split(tokenizer.eos_token) if part]
+        output_text = output_split[-1]
         if char:
             output_text = output_text.replace(" ", "")
         output_text = output_text.replace("W", " ")
@@ -52,8 +52,8 @@ def test_model(model_name, tokenizer, test_data, output_dir, file_name, max_new_
         with open(csv_path, mode="a", newline="", encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
             if not file_exists:
-                writer.writerow(["Input", "Options", "Expected", "Predicted"])
-            writer.writerow([row["input"],row["options"], expected, output_text])
+                writer.writerow(["Input", "Options", "Expected", "Output (raw)", "Predicted"])
+            writer.writerow([row["input"],row["options"], expected, output_text_raw, output_text])
 
 def test_model_outlines(model_name, tokenizer, test_data, output_dir, file_name, char):
     model = outlines.models.transformers(model_name)
