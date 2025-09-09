@@ -36,8 +36,12 @@ def gen_char_tokenizer():
         unk_token="UNK",
         pad_token="PAD",
         bos_token="UTT_BOUNDARY",
-        eos_token="UTT_BOUNDARY"
+        eos_token="UTT_BOUNDARY",
+        legacy=False
     )
+
+    wrapped_tokenizer.model_max_length = 256
+
 
     os.makedirs("data/tokenizer/char_tokenizer", exist_ok=True)
     wrapped_tokenizer.save_pretrained("data/tokenizer/char_tokenizer")

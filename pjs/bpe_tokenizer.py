@@ -36,8 +36,11 @@ def gen_bpe_de_tokenizer(train_data, save_dir):
         pad_token="PAD",
         bos_token="UTT_BOUNDARY",
         eos_token="UTT_BOUNDARY",
-        unk_token="UNK"
+        unk_token="UNK",
+        legacy=False
     )
+
+    wrapped_tokenizer.model_max_length = 256
     
     os.makedirs(save_dir, exist_ok=True)
     wrapped_tokenizer.save_pretrained(save_dir)

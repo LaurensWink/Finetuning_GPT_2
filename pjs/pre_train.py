@@ -3,7 +3,7 @@ import torch
 from datasets import load_dataset, DatasetDict
 import pandas as pd
 from transformers import (
-    AutoTokenizer,
+    LlamaTokenizerFast,
     set_seed, 
     Trainer, 
     TrainingArguments, 
@@ -92,9 +92,9 @@ def pretrain(training_files: list[str], tokenizer, output_dir, device):
     trainer.save_model(f'{output_dir}/model/final')
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-TOKENIZER_CHAR = AutoTokenizer.from_pretrained("data/tokenizer/char_tokenizer")
-TOKENIZER_BPE_DE = AutoTokenizer.from_pretrained("data/tokenizer/bpe_de_tokenizer")
-TOKENIZER_BPE_EN = AutoTokenizer.from_pretrained("data/tokenizer/bpe_en_tokenizer")
+TOKENIZER_CHAR = LlamaTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
+TOKENIZER_BPE_DE = LlamaTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
+TOKENIZER_BPE_EN = LlamaTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
 
 LM_CHAR_DE = 'data/models/baby_lm_de_char'
 LM_CHAR_EN = 'data/models/baby_lm_en_char'

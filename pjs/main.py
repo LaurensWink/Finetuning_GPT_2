@@ -2,7 +2,7 @@ import os
 from loguru import logger
 import torch
 from pjs.dataset import Data
-from transformers import AutoTokenizer, PreTrainedTokenizerFast
+from transformers import LlamaTokenizerFast
 
 from pjs.eval import evaluate
 from pjs.test import test_model, test_model_outlines
@@ -21,7 +21,7 @@ logger.info(f'The dataset contains {token_counts} tokens')
 ### CHAR BASE-MODEL DE ###
 
 BASE_CHAR_MODEL_NAME_DE = "data/models/baby_lm_de_char/model/final"
-TOKENIZER_CHAR = AutoTokenizer.from_pretrained("data/tokenizer/char_tokenizer")
+TOKENIZER_CHAR = LlamaTokenizerFast.from_pretrained("data/tokenizer/char_tokenizer")
 split_data = data.split_data
 
 for task in split_data:
@@ -64,7 +64,7 @@ for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR_DE):
 
 ###BPE BASE-MODEL DE###
 BASE_BPE_MODEL_NAME_DE = 'data/models/baby_lm_de_bpe/model/final'
-TOKENIZER_DE_BPE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
+TOKENIZER_DE_BPE = LlamaTokenizerFast.from_pretrained("data/tokenizer/bpe_de_tokenizer")
 split_data = data.split_data
 
 for task in split_data:
@@ -153,7 +153,7 @@ for subfolder in os.listdir(TASK_DATA_FINETUNED_MODEL_DIR_EN):
 
 ###BPE BASE-MODEL EN###
 BASE_BPE_MODEL_NAME_EN ='data/models/baby_lm_en_bpe/model/final'
-TOKENIZER_EN_BPE = PreTrainedTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
+TOKENIZER_EN_BPE = LlamaTokenizerFast.from_pretrained("data/tokenizer/bpe_en_tokenizer")
 
 split_data = data.split_data
 
