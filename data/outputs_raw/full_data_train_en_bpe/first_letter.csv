@@ -1,0 +1,601 @@
+Input,Options,Expected,Output (raw),Predicted
+"Q: Which letter does the word ""arrive"" start with? A:","['a', 'r', 'r', 'i', 'v', 'e']",a,"UTT_BOUNDARY q: which letter does the word ""arrive"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""grandparent"" start with? A:","['g', 'r', 'a', 'n', 'd', 'p', 'a', 'r', 'e', 'n', 't']",g,"UTT_BOUNDARY q: which letter does the word ""grandparent"" start with? a:UTT_BOUNDARY gimmirez", gimmirez
+"Q: Which letter does the word ""small"" start with? A:","['s', 'm', 'a', 'l', 'l']",s,"UTT_BOUNDARY q: which letter does the word ""small"" start with? a:UTT_BOUNDARY sachine? a", sachine? a
+"Q: What is the first letter of the word ""soft""? A:","['s', 'o', 'f', 't']",s,"UTT_BOUNDARY q: what is the first letter of the word ""soft""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Write the first letter of the word ""coffee"": ","['c', 'o', 'f', 'f', 'e', 'e']",c,"UTT_BOUNDARY write the first letter of the word ""coffee"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: Which letter does the word ""borrow"" start with? A:","['b', 'o', 'r', 'r', 'o', 'w']",b,"UTT_BOUNDARY q: which letter does the word ""borrow"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""every"" start with? A:","['e', 'v', 'e', 'r', 'y']",e,"UTT_BOUNDARY q: which letter does the word ""every"" start with? a:UTT_BOUNDARY tights and tights", tights and tights
+"Write the first letter of the word ""left"": ","['l', 'e', 'f', 't']",l,"UTT_BOUNDARY write the first letter of the word ""left"":UTT_BOUNDARY lave"" or """," lave"" or """
+"Q: What is the first letter of the word ""downstairs""? A:","['d', 'o', 'w', 'n', 's', 't', 'a', 'i', 'r', 's']",d,"UTT_BOUNDARY q: what is the first letter of the word ""downstairs""? a:UTT_BOUNDARY dagreerescent", dagreerescent
+"Write the first letter of the word ""kite"": ","['k', 'i', 't', 'e']",k,"UTT_BOUNDARY write the first letter of the word ""kite"":UTT_BOUNDARY krishir"""," krishir"""
+"Write the first letter of the word ""chicken"": ","['c', 'h', 'i', 'c', 'k', 'e', 'n']",c,"UTT_BOUNDARY write the first letter of the word ""chicken"":UTT_BOUNDARY bitten by mary"":"," bitten by mary"":"
+"Q: What is the first letter of the word ""grass""? A:","['g', 'r', 'a', 's', 's']",g,"UTT_BOUNDARY q: what is the first letter of the word ""grass""? a:UTT_BOUNDARY gamb"", which word"," gamb"", which word"
+"Q: What is the first letter of the word ""it""? A:","['i', 't']",i,"UTT_BOUNDARY q: what is the first letter of the word ""it""? a:UTT_BOUNDARY i think that i might", i think that i might
+"Q: Which letter does the word ""leather"" start with? A:","['l', 'e', 'a', 't', 'h', 'e', 'r']",l,"UTT_BOUNDARY q: which letter does the word ""leather"" start with? a:UTT_BOUNDARY lyle or brent", lyle or brent
+"Write the first letter of the word ""rice"": ","['r', 'i', 'c', 'e']",r,"UTT_BOUNDARY write the first letter of the word ""rice"":UTT_BOUNDARY gambuke"":"," gambuke"":"
+"Q: What is the first letter of the word ""straight""? A:","['s', 't', 'r', 'a', 'i', 'g', 'h', 't']",s,"UTT_BOUNDARY q: what is the first letter of the word ""straight""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Q: Which letter does the word ""have"" start with? A:","['h', 'a', 'v', 'e']",h,"UTT_BOUNDARY q: which letter does the word ""have"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""cafeteria""? A:","['c', 'a', 'f', 'e', 't', 'e', 'r', 'i', 'a']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cafeteria""? a:UTT_BOUNDARY cafeteria,"," cafeteria,"
+"Write the first letter of the word ""beautiful"": ","['b', 'e', 'a', 'u', 't', 'i', 'f', 'u', 'l']",b,"UTT_BOUNDARY write the first letter of the word ""beautiful"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""several"": ","['s', 'e', 'v', 'e', 'r', 'a', 'l']",s,"UTT_BOUNDARY write the first letter of the word ""several"":UTT_BOUNDARY sansbandi"":"," sansbandi"":"
+"Q: What is the first letter of the word ""diploma""? A:","['d', 'i', 'p', 'l', 'o', 'm', 'a']",d,"UTT_BOUNDARY q: what is the first letter of the word ""diploma""? a:UTT_BOUNDARY hingo"" or"," hingo"" or"
+"Q: What is the first letter of the word ""month""? A:","['m', 'o', 'n', 't', 'h']",m,"UTT_BOUNDARY q: what is the first letter of the word ""month""? a:UTT_BOUNDARY mavorite""?"," mavorite""?"
+"Q: What is the first letter of the word ""site""? A:","['s', 'i', 't', 'e']",s,"UTT_BOUNDARY q: what is the first letter of the word ""site""? a:UTT_BOUNDARY sanssouci", sanssouci
+"Write the first letter of the word ""cooking"": ","['c', 'o', 'o', 'k', 'i', 'n', 'g']",c,"UTT_BOUNDARY write the first letter of the word ""cooking"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: Which letter does the word ""cover"" start with? A:","['c', 'o', 'v', 'e', 'r']",c,"UTT_BOUNDARY q: which letter does the word ""cover"" start with? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Write the first letter of the word ""broken"": ","['b', 'r', 'o', 'k', 'e', 'n']",b,"UTT_BOUNDARY write the first letter of the word ""broken"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""guy"": ","['g', 'u', 'y']",g,"UTT_BOUNDARY write the first letter of the word ""guy"":UTT_BOUNDARY gudrun"" or"," gudrun"" or"
+"Q: Which letter does the word ""invite"" start with? A:","['i', 'n', 'v', 'i', 't', 'e']",i,"UTT_BOUNDARY q: which letter does the word ""invite"" start with? a:UTT_BOUNDARY i write the first letter", i write the first letter
+"Q: What is the first letter of the word ""man""? A:","['m', 'a', 'n']",m,"UTT_BOUNDARY q: what is the first letter of the word ""man""? a:UTT_BOUNDARY moutine""? a"," moutine""? a"
+"Q: Which letter does the word ""television"" start with? A:","['t', 'e', 'l', 'e', 'v', 'i', 's', 'i', 'o', 'n']",t,"UTT_BOUNDARY q: which letter does the word ""television"" start with? a:UTT_BOUNDARY n n o p,"," n n o p,"
+"Q: Which letter does the word ""ice"" start with? A:","['i', 'c', 'e']",i,"UTT_BOUNDARY q: which letter does the word ""ice"" start with? a:UTT_BOUNDARY i know the word """," i know the word """
+"Q: Which letter does the word ""swim"" start with? A:","['s', 'w', 'i', 'm']",s,"UTT_BOUNDARY q: which letter does the word ""swim"" start with? a:UTT_BOUNDARY sachine on the", sachine on the
+"Q: What is the first letter of the word ""above""? A:","['a', 'b', 'o', 'v', 'e']",a,"UTT_BOUNDARY q: what is the first letter of the word ""above""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""here"": ","['h', 'e', 'r', 'e']",h,"UTT_BOUNDARY write the first letter of the word ""here"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""room""? A:","['r', 'o', 'o', 'm']",r,"UTT_BOUNDARY q: what is the first letter of the word ""room""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: What is the first letter of the word ""singer""? A:","['s', 'i', 'n', 'g', 'e', 'r']",s,"UTT_BOUNDARY q: what is the first letter of the word ""singer""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Write the first letter of the word ""way"": ","['w', 'a', 'y']",w,"UTT_BOUNDARY write the first letter of the word ""way"":UTT_BOUNDARY wateredi"":"," wateredi"":"
+"Q: What is the first letter of the word ""own""? A:","['o', 'w', 'n']",o,"UTT_BOUNDARY q: what is the first letter of the word ""own""? a:UTT_BOUNDARY dane dane""?"," dane dane""?"
+"Q: What is the first letter of the word ""student""? A:","['s', 't', 'u', 'd', 'e', 'n', 't']",s,"UTT_BOUNDARY q: what is the first letter of the word ""student""? a:UTT_BOUNDARY sachine in the", sachine in the
+"Q: Which letter does the word ""student"" start with? A:","['s', 't', 'u', 'd', 'e', 'n', 't']",s,"UTT_BOUNDARY q: which letter does the word ""student"" start with? a:UTT_BOUNDARY sutherford and london", sutherford and london
+"Q: What is the first letter of the word ""dressed""? A:","['d', 'r', 'e', 's', 's', 'e', 'd']",d,"UTT_BOUNDARY q: what is the first letter of the word ""dressed""? a:UTT_BOUNDARY dane"" or """," dane"" or """
+"Q: What is the first letter of the word ""wide""? A:","['w', 'i', 'd', 'e']",w,"UTT_BOUNDARY q: what is the first letter of the word ""wide""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""popular""? A:","['p', 'o', 'p', 'u', 'l', 'a', 'r']",p,"UTT_BOUNDARY q: what is the first letter of the word ""popular""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: What is the first letter of the word ""sell""? A:","['s', 'e', 'l', 'l']",s,"UTT_BOUNDARY q: what is the first letter of the word ""sell""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Q: Which letter does the word ""see"" start with? A:","['s', 'e', 'e']",s,"UTT_BOUNDARY q: which letter does the word ""see"" start with? a:UTT_BOUNDARY sampha dans", sampha dans
+"Q: Which letter does the word ""baseball"" start with? A:","['b', 'a', 's', 'e', 'b', 'a', 'l', 'l']",b,"UTT_BOUNDARY q: which letter does the word ""baseball"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""town"": ","['t', 'o', 'w', 'n']",t,"UTT_BOUNDARY write the first letter of the word ""town"":UTT_BOUNDARY tessa tessa t", tessa tessa t
+"Q: What is the first letter of the word ""clown""? A:","['c', 'l', 'o', 'w', 'n']",c,"UTT_BOUNDARY q: what is the first letter of the word ""clown""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Write the first letter of the word ""yard"": ","['y', 'a', 'r', 'd']",y,"UTT_BOUNDARY write the first letter of the word ""yard"":UTT_BOUNDARY fiona"":UTT_BOUNDARY"," fiona"":"
+"Q: Which letter does the word ""house"" start with? A:","['h', 'o', 'u', 's', 'e']",h,"UTT_BOUNDARY q: which letter does the word ""house"" start with? a:UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Q: Which letter does the word ""plural"" start with? A:","['p', 'l', 'u', 'r', 'a', 'l']",p,"UTT_BOUNDARY q: which letter does the word ""plural"" start with? a:UTT_BOUNDARY p p g seven?", p p g seven?
+"Write the first letter of the word ""surf"": ","['s', 'u', 'r', 'f']",s,"UTT_BOUNDARY write the first letter of the word ""surf"":UTT_BOUNDARY s o u s a", s o u s a
+"Q: What is the first letter of the word ""customer""? A:","['c', 'u', 's', 't', 'o', 'm', 'e', 'r']",c,"UTT_BOUNDARY q: what is the first letter of the word ""customer""? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Write the first letter of the word ""competition"": ","['c', 'o', 'm', 'p', 'e', 't', 'i', 't', 'i', 'o', 'n']",c,"UTT_BOUNDARY write the first letter of the word ""competition"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: What is the first letter of the word ""sleep""? A:","['s', 'l', 'e', 'e', 'p']",s,"UTT_BOUNDARY q: what is the first letter of the word ""sleep""? a:UTT_BOUNDARY sown""? a:"," sown""? a:"
+"Write the first letter of the word ""tour"": ","['t', 'o', 'u', 'r']",t,"UTT_BOUNDARY write the first letter of the word ""tour"":UTT_BOUNDARY tessa tights is", tessa tights is
+"Q: Which letter does the word ""first"" start with? A:","['f', 'i', 'r', 's', 't']",f,"UTT_BOUNDARY q: which letter does the word ""first"" start with? a:UTT_BOUNDARY fiona, the first"," fiona, the first"
+"Q: What is the first letter of the word ""check""? A:","['c', 'h', 'e', 'c', 'k']",c,"UTT_BOUNDARY q: what is the first letter of the word ""check""? a:UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Write the first letter of the word ""luggage"": ","['l', 'u', 'g', 'g', 'a', 'g', 'e']",l,"UTT_BOUNDARY write the first letter of the word ""luggage"":UTT_BOUNDARY lair"":UTT_BOUNDARY"," lair"":"
+"Q: Which letter does the word ""decide"" start with? A:","['d', 'e', 'c', 'i', 'd', 'e']",d,"UTT_BOUNDARY q: which letter does the word ""decide"" start with? a:UTT_BOUNDARY dmitry with a", dmitry with a
+"Q: What is the first letter of the word ""cleaner""? A:","['c', 'l', 'e', 'a', 'n', 'e', 'r']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cleaner""? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Q: What is the first letter of the word ""rent""? A:","['r', 'e', 'n', 't']",r,"UTT_BOUNDARY q: what is the first letter of the word ""rent""? a:UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Q: What is the first letter of the word ""eye""? A:","['e', 'y', 'e']",e,"UTT_BOUNDARY q: what is the first letter of the word ""eye""? a:UTT_BOUNDARY evelina no longer", evelina no longer
+"Q: What is the first letter of the word ""seat""? A:","['s', 'e', 'a', 't']",s,"UTT_BOUNDARY q: what is the first letter of the word ""seat""? a:UTT_BOUNDARY sutherford understands himself", sutherford understands himself
+"Q: What is the first letter of the word ""calendar""? A:","['c', 'a', 'l', 'e', 'n', 'd', 'a', 'r']",c,"UTT_BOUNDARY q: what is the first letter of the word ""calendar""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Q: Which letter does the word ""tights"" start with? A:","['t', 'i', 'g', 'h', 't', 's']",t,"UTT_BOUNDARY q: which letter does the word ""tights"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""dancer"" start with? A:","['d', 'a', 'n', 'c', 'e', 'r']",d,"UTT_BOUNDARY q: which letter does the word ""dancer"" start with? a:UTT_BOUNDARY dane"" bully"," dane"" bully"
+"Q: Which letter does the word ""any"" start with? A:","['a', 'n', 'y']",a,"UTT_BOUNDARY q: which letter does the word ""any"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""rat"" start with? A:","['r', 'a', 't']",r,"UTT_BOUNDARY q: which letter does the word ""rat"" start with? a:UTT_BOUNDARY rink? a:", rink? a:
+"Q: What is the first letter of the word ""jacket""? A:","['j', 'a', 'c', 'k', 'e', 't']",j,"UTT_BOUNDARY q: what is the first letter of the word ""jacket""? a:UTT_BOUNDARY jellies is a", jellies is a
+"Q: Which letter does the word ""boring"" start with? A:","['b', 'o', 'r', 'i', 'n', 'g']",b,"UTT_BOUNDARY q: which letter does the word ""boring"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""myself"": ","['m', 'y', 's', 'e', 'l', 'f']",m,"UTT_BOUNDARY write the first letter of the word ""myself"":UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Write the first letter of the word ""lemon"": ","['l', 'e', 'm', 'o', 'n']",l,"UTT_BOUNDARY write the first letter of the word ""lemon"":UTT_BOUNDARY lave"" or """," lave"" or """
+"Q: Which letter does the word ""sun"" start with? A:","['s', 'u', 'n']",s,"UTT_BOUNDARY q: which letter does the word ""sun"" start with? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Q: What is the first letter of the word ""worse""? A:","['w', 'o', 'r', 's', 'e']",w,"UTT_BOUNDARY q: what is the first letter of the word ""worse""? a:UTT_BOUNDARY wily, what is"," wily, what is"
+"Q: What is the first letter of the word ""off""? A:","['o', 'f', 'f']",o,"UTT_BOUNDARY q: what is the first letter of the word ""off""? a:UTT_BOUNDARY ocasekta""?"," ocasekta""?"
+"Write the first letter of the word ""air"": ","['a', 'i', 'r']",a,"UTT_BOUNDARY write the first letter of the word ""air"":UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Write the first letter of the word ""their"": ","['t', 'h', 'e', 'i', 'r']",t,"UTT_BOUNDARY write the first letter of the word ""their"":UTT_BOUNDARY tights and tights", tights and tights
+"Write the first letter of the word ""west"": ","['w', 'e', 's', 't']",w,"UTT_BOUNDARY write the first letter of the word ""west"":UTT_BOUNDARY ecola"":UTT_BOUNDARY"," ecola"":"
+"Write the first letter of the word ""health"": ","['h', 'e', 'a', 'l', 't', 'h']",h,"UTT_BOUNDARY write the first letter of the word ""health"":UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Q: Which letter does the word ""eye"" start with? A:","['e', 'y', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""eye"" start with? a:UTT_BOUNDARY eye""? a:UTT_BOUNDARY"," eye""? a:"
+"Q: Which letter does the word ""with"" start with? A:","['w', 'i', 't', 'h']",w,"UTT_BOUNDARY q: which letter does the word ""with"" start with? a:UTT_BOUNDARY w and w and w", w and w and w
+"Q: What is the first letter of the word ""cent""? A:","['c', 'e', 'n', 't']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cent""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Q: Which letter does the word ""hockey"" start with? A:","['h', 'o', 'c', 'k', 'e', 'y']",h,"UTT_BOUNDARY q: which letter does the word ""hockey"" start with? a:UTT_BOUNDARY hinges hose", hinges hose
+"Write the first letter of the word ""decide"": ","['d', 'e', 'c', 'i', 'd', 'e']",d,"UTT_BOUNDARY write the first letter of the word ""decide"":UTT_BOUNDARY d and ebook"","," d and ebook"","
+"Q: What is the first letter of the word ""way""? A:","['w', 'a', 'y']",w,"UTT_BOUNDARY q: what is the first letter of the word ""way""? a:UTT_BOUNDARY hucknaller", hucknaller
+"Write the first letter of the word ""chair"": ","['c', 'h', 'a', 'i', 'r']",c,"UTT_BOUNDARY write the first letter of the word ""chair"":UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Q: Which letter does the word ""climbing"" start with? A:","['c', 'l', 'i', 'm', 'b', 'i', 'n', 'g']",c,"UTT_BOUNDARY q: which letter does the word ""climbing"" start with? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Write the first letter of the word ""half"": ","['h', 'a', 'l', 'f']",h,"UTT_BOUNDARY write the first letter of the word ""half"":UTT_BOUNDARY hosselebr", hosselebr
+"Write the first letter of the word ""outside"": ","['o', 'u', 't', 's', 'i', 'd', 'e']",o,"UTT_BOUNDARY write the first letter of the word ""outside"":UTT_BOUNDARY oatesen"":UTT_BOUNDARY"," oatesen"":"
+"Q: What is the first letter of the word ""long""? A:","['l', 'o', 'n', 'g']",l,"UTT_BOUNDARY q: what is the first letter of the word ""long""? a:UTT_BOUNDARY lutherford""? a"," lutherford""? a"
+"Q: Which letter does the word ""get"" start with? A:","['g', 'e', 't']",g,"UTT_BOUNDARY q: which letter does the word ""get"" start with? a:UTT_BOUNDARY p: in the sentence", p: in the sentence
+"Write the first letter of the word ""coat"": ","['c', 'o', 'a', 't']",c,"UTT_BOUNDARY write the first letter of the word ""coat"":UTT_BOUNDARY c: which word comes", c: which word comes
+"Q: Which letter does the word ""year"" start with? A:","['y', 'e', 'a', 'r']",y,"UTT_BOUNDARY q: which letter does the word ""year"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: Which letter does the word ""queen"" start with? A:","['q', 'u', 'e', 'e', 'n']",q,"UTT_BOUNDARY q: which letter does the word ""queen"" start with? a:UTT_BOUNDARY oatesen"" in"," oatesen"" in"
+"Q: What is the first letter of the word ""yesterday""? A:","['y', 'e', 's', 't', 'e', 'r', 'd', 'a', 'y']",y,"UTT_BOUNDARY q: what is the first letter of the word ""yesterday""? a:UTT_BOUNDARY yogurt yog", yogurt yog
+"Write the first letter of the word ""enough"": ","['e', 'n', 'o', 'u', 'g', 'h']",e,"UTT_BOUNDARY write the first letter of the word ""enough"":UTT_BOUNDARY ephraims", ephraims
+"Write the first letter of the word ""room"": ","['r', 'o', 'o', 'm']",r,"UTT_BOUNDARY write the first letter of the word ""room"":UTT_BOUNDARY rcn hospital""?"," rcn hospital""?"
+"Q: What is the first letter of the word ""agree""? A:","['a', 'g', 'r', 'e', 'e']",a,"UTT_BOUNDARY q: what is the first letter of the word ""agree""? a:UTT_BOUNDARY oconelyot", oconelyot
+"Q: Which letter does the word ""friend"" start with? A:","['f', 'r', 'i', 'e', 'n', 'd']",f,"UTT_BOUNDARY q: which letter does the word ""friend"" start with? a:UTT_BOUNDARY fiona lee gaut", fiona lee gaut
+"Write the first letter of the word ""tell"": ","['t', 'e', 'l', 'l']",t,"UTT_BOUNDARY write the first letter of the word ""tell"":UTT_BOUNDARY tessa tessa t", tessa tessa t
+"Q: What is the first letter of the word ""watch""? A:","['w', 'a', 't', 'c', 'h']",w,"UTT_BOUNDARY q: what is the first letter of the word ""watch""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""mouse""? A:","['m', 'o', 'u', 's', 'e']",m,"UTT_BOUNDARY q: what is the first letter of the word ""mouse""? a:UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Q: Which letter does the word ""fit"" start with? A:","['f', 'i', 't']",f,"UTT_BOUNDARY q: which letter does the word ""fit"" start with? a:UTT_BOUNDARY ln the sentence """," ln the sentence """
+"Q: Which letter does the word ""thin"" start with? A:","['t', 'h', 'i', 'n']",t,"UTT_BOUNDARY q: which letter does the word ""thin"" start with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: What is the first letter of the word ""receptionist""? A:","['r', 'e', 'c', 'e', 'p', 't', 'i', 'o', 'n', 'i', 's', 't']",r,"UTT_BOUNDARY q: what is the first letter of the word ""receptionist""? a:UTT_BOUNDARY rinse"", which"," rinse"", which"
+"Q: Which letter does the word ""duck"" start with? A:","['d', 'u', 'c', 'k']",d,"UTT_BOUNDARY q: which letter does the word ""duck"" start with? a:UTT_BOUNDARY cafeteria g", cafeteria g
+"Q: What is the first letter of the word ""minute""? A:","['m', 'i', 'n', 'u', 't', 'e']",m,"UTT_BOUNDARY q: what is the first letter of the word ""minute""? a:UTT_BOUNDARY macy""? a:"," macy""? a:"
+"Q: What is the first letter of the word ""cousin""? A:","['c', 'o', 'u', 's', 'i', 'n']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cousin""? a:UTT_BOUNDARY ufosque""?"," ufosque""?"
+"Q: Which letter does the word ""midnight"" start with? A:","['m', 'i', 'd', 'n', 'i', 'g', 'h', 't']",m,"UTT_BOUNDARY q: which letter does the word ""midnight"" start with? a:UTT_BOUNDARY morrow""? a:"," morrow""? a:"
+"Write the first letter of the word ""can"": ","['c', 'a', 'n']",c,"UTT_BOUNDARY write the first letter of the word ""can"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: What is the first letter of the word ""window""? A:","['w', 'i', 'n', 'd', 'o', 'w']",w,"UTT_BOUNDARY q: what is the first letter of the word ""window""? a:UTT_BOUNDARY wily""? a:"," wily""? a:"
+"Write the first letter of the word ""healthy"": ","['h', 'e', 'a', 'l', 't', 'h', 'y']",h,"UTT_BOUNDARY write the first letter of the word ""healthy"":UTT_BOUNDARY hosemire"""," hosemire"""
+"Write the first letter of the word ""watch"": ","['w', 'a', 't', 'c', 'h']",w,"UTT_BOUNDARY write the first letter of the word ""watch"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""pig""? A:","['p', 'i', 'g']",p,"UTT_BOUNDARY q: what is the first letter of the word ""pig""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Write the first letter of the word ""writing"": ","['w', 'r', 'i', 't', 'i', 'n', 'g']",w,"UTT_BOUNDARY write the first letter of the word ""writing"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""beach""? A:","['b', 'e', 'a', 'c', 'h']",b,"UTT_BOUNDARY q: what is the first letter of the word ""beach""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""perfect""? A:","['p', 'e', 'r', 'f', 'e', 'c', 't']",p,"UTT_BOUNDARY q: what is the first letter of the word ""perfect""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""west"" start with? A:","['w', 'e', 's', 't']",w,"UTT_BOUNDARY q: which letter does the word ""west"" start with? a:UTT_BOUNDARY e and f q:", e and f q:
+"Q: Which letter does the word ""beginner"" start with? A:","['b', 'e', 'g', 'i', 'n', 'n', 'e', 'r']",b,"UTT_BOUNDARY q: which letter does the word ""beginner"" start with? a:UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Write the first letter of the word ""steak"": ","['s', 't', 'e', 'a', 'k']",s,"UTT_BOUNDARY write the first letter of the word ""steak"":UTT_BOUNDARY sachine"":UTT_BOUNDARY"," sachine"":"
+"Q: Which letter does the word ""match"" start with? A:","['m', 'a', 't', 'c', 'h']",m,"UTT_BOUNDARY q: which letter does the word ""match"" start with? a:UTT_BOUNDARY mire? a:", mire? a:
+"Q: What is the first letter of the word ""gym""? A:","['g', 'y', 'm']",g,"UTT_BOUNDARY q: what is the first letter of the word ""gym""? a:UTT_BOUNDARY geloucht and", geloucht and
+"Q: Which letter does the word ""thank"" start with? A:","['t', 'h', 'a', 'n', 'k']",t,"UTT_BOUNDARY q: which letter does the word ""thank"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""hard"" start with? A:","['h', 'a', 'r', 'd']",h,"UTT_BOUNDARY q: which letter does the word ""hard"" start with? a:UTT_BOUNDARY hose"", ""quick"," hose"", ""quick"
+"Write the first letter of the word ""agree"": ","['a', 'g', 'r', 'e', 'e']",a,"UTT_BOUNDARY write the first letter of the word ""agree"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""carrot"" start with? A:","['c', 'a', 'r', 'r', 'o', 't']",c,"UTT_BOUNDARY q: which letter does the word ""carrot"" start with? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Q: What is the first letter of the word ""we""? A:","['w', 'e']",w,"UTT_BOUNDARY q: what is the first letter of the word ""we""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""under""? A:","['u', 'n', 'd', 'e', 'r']",u,"UTT_BOUNDARY q: what is the first letter of the word ""under""? a:UTT_BOUNDARY ufosque""?"," ufosque""?"
+"Q: What is the first letter of the word ""loud""? A:","['l', 'o', 'u', 'd']",l,"UTT_BOUNDARY q: what is the first letter of the word ""loud""? a:UTT_BOUNDARY szewaxon", szewaxon
+"Write the first letter of the word ""behind"": ","['b', 'e', 'h', 'i', 'n', 'd']",b,"UTT_BOUNDARY write the first letter of the word ""behind"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""jump"" start with? A:","['j', 'u', 'm', 'p']",j,"UTT_BOUNDARY q: which letter does the word ""jump"" start with? a:UTT_BOUNDARY jellies are a", jellies are a
+"Q: Which letter does the word ""ham"" start with? A:","['h', 'a', 'm']",h,"UTT_BOUNDARY q: which letter does the word ""ham"" start with? a:UTT_BOUNDARY hoseminton is", hoseminton is
+"Q: Which letter does the word ""big"" start with? A:","['b', 'i', 'g']",b,"UTT_BOUNDARY q: which letter does the word ""big"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""discount""? A:","['d', 'i', 's', 'c', 'o', 'u', 'n', 't']",d,"UTT_BOUNDARY q: what is the first letter of the word ""discount""? a:UTT_BOUNDARY d a dagger?", d a dagger?
+"Q: What is the first letter of the word ""gift""? A:","['g', 'i', 'f', 't']",g,"UTT_BOUNDARY q: what is the first letter of the word ""gift""? a:UTT_BOUNDARY gamb""? a:"," gamb""? a:"
+"Q: What is the first letter of the word ""pencil""? A:","['p', 'e', 'n', 'c', 'i', 'l']",p,"UTT_BOUNDARY q: what is the first letter of the word ""pencil""? a:UTT_BOUNDARY peabody"" or"," peabody"" or"
+"Q: Which letter does the word ""staff"" start with? A:","['s', 't', 'a', 'f', 'f']",s,"UTT_BOUNDARY q: which letter does the word ""staff"" start with? a:UTT_BOUNDARY sachs or """," sachs or """
+"Q: Which letter does the word ""mirror"" start with? A:","['m', 'i', 'r', 'r', 'o', 'r']",m,"UTT_BOUNDARY q: which letter does the word ""mirror"" start with? a:UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Write the first letter of the word ""east"": ","['e', 'a', 's', 't']",e,"UTT_BOUNDARY write the first letter of the word ""east"":UTT_BOUNDARY toulouse"", which"," toulouse"", which"
+"Write the first letter of the word ""useful"": ","['u', 's', 'e', 'f', 'u', 'l']",u,"UTT_BOUNDARY write the first letter of the word ""useful"":UTT_BOUNDARY evelina is a", evelina is a
+"Q: Which letter does the word ""workbook"" start with? A:","['w', 'o', 'r', 'k', 'b', 'o', 'o', 'k']",w,"UTT_BOUNDARY q: which letter does the word ""workbook"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""brother"": ","['b', 'r', 'o', 't', 'h', 'e', 'r']",b,"UTT_BOUNDARY write the first letter of the word ""brother"":UTT_BOUNDARY fiona"":UTT_BOUNDARY"," fiona"":"
+"Write the first letter of the word ""idea"": ","['i', 'd', 'e', 'a']",i,"UTT_BOUNDARY write the first letter of the word ""idea"":UTT_BOUNDARY i believe that the sun", i believe that the sun
+"Write the first letter of the word ""tired"": ","['t', 'i', 'r', 'e', 'd']",t,"UTT_BOUNDARY write the first letter of the word ""tired"":UTT_BOUNDARY tessa tights is", tessa tights is
+"Q: What is the first letter of the word ""alone""? A:","['a', 'l', 'o', 'n', 'e']",a,"UTT_BOUNDARY q: what is the first letter of the word ""alone""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""photographer"": ","['p', 'h', 'o', 't', 'o', 'g', 'r', 'a', 'p', 'h', 'e', 'r']",p,"UTT_BOUNDARY write the first letter of the word ""photographer"":UTT_BOUNDARY p: which word comes", p: which word comes
+"Write the first letter of the word ""better"": ","['b', 'e', 't', 't', 'e', 'r']",b,"UTT_BOUNDARY write the first letter of the word ""better"":UTT_BOUNDARY sachine"":UTT_BOUNDARY"," sachine"":"
+"Write the first letter of the word ""afternoon"": ","['a', 'f', 't', 'e', 'r', 'n', 'o', 'o', 'n']",a,"UTT_BOUNDARY write the first letter of the word ""afternoon"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""dancer""? A:","['d', 'a', 'n', 'c', 'e', 'r']",d,"UTT_BOUNDARY q: what is the first letter of the word ""dancer""? a:UTT_BOUNDARY dane"" which one"," dane"" which one"
+"Q: Which letter does the word ""so"" start with? A:","['s', 'o']",s,"UTT_BOUNDARY q: which letter does the word ""so"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Write the first letter of the word ""where"": ","['w', 'h', 'e', 'r', 'e']",w,"UTT_BOUNDARY write the first letter of the word ""where"":UTT_BOUNDARY wight"":UTT_BOUNDARY"," wight"":"
+"Q: What is the first letter of the word ""skiing""? A:","['s', 'k', 'i', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: what is the first letter of the word ""skiing""? a:UTT_BOUNDARY sanssouci", sanssouci
+"Write the first letter of the word ""simple"": ","['s', 'i', 'm', 'p', 'l', 'e']",s,"UTT_BOUNDARY write the first letter of the word ""simple"":UTT_BOUNDARY saller"":UTT_BOUNDARY"," saller"":"
+"Q: What is the first letter of the word ""notebook""? A:","['n', 'o', 't', 'e', 'b', 'o', 'o', 'k']",n,"UTT_BOUNDARY q: what is the first letter of the word ""notebook""? a:UTT_BOUNDARY n yogurt""?"," n yogurt""?"
+"Q: Which letter does the word ""notes"" start with? A:","['n', 'o', 't', 'e', 's']",n,"UTT_BOUNDARY q: which letter does the word ""notes"" start with? a:UTT_BOUNDARY n n o two?", n n o two?
+"Q: What is the first letter of the word ""blouse""? A:","['b', 'l', 'o', 'u', 's', 'e']",b,"UTT_BOUNDARY q: what is the first letter of the word ""blouse""? a:UTT_BOUNDARY bitten by bitten", bitten by bitten
+"Write the first letter of the word ""deep"": ","['d', 'e', 'e', 'p']",d,"UTT_BOUNDARY write the first letter of the word ""deep"":UTT_BOUNDARY dany, what is"," dany, what is"
+"Q: Which letter does the word ""smoking"" start with? A:","['s', 'm', 'o', 'k', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: which letter does the word ""smoking"" start with? a:UTT_BOUNDARY sans a:UTT_BOUNDARY", sans a:
+"Write the first letter of the word ""vacation"": ","['v', 'a', 'c', 'a', 't', 'i', 'o', 'n']",v,"UTT_BOUNDARY write the first letter of the word ""vacation"":UTT_BOUNDARY ncis"":UTT_BOUNDARY"," ncis"":"
+"Q: Which letter does the word ""wind"" start with? A:","['w', 'i', 'n', 'd']",w,"UTT_BOUNDARY q: which letter does the word ""wind"" start with? a:UTT_BOUNDARY wily as the word", wily as the word
+"Q: Which letter does the word ""bus"" start with? A:","['b', 'u', 's']",b,"UTT_BOUNDARY q: which letter does the word ""bus"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""short""? A:","['s', 'h', 'o', 'r', 't']",s,"UTT_BOUNDARY q: what is the first letter of the word ""short""? a:UTT_BOUNDARY sutherford by g", sutherford by g
+"Q: What is the first letter of the word ""winner""? A:","['w', 'i', 'n', 'n', 'e', 'r']",w,"UTT_BOUNDARY q: what is the first letter of the word ""winner""? a:UTT_BOUNDARY wateredy""?"," wateredy""?"
+"Q: Which letter does the word ""salad"" start with? A:","['s', 'a', 'l', 'a', 'd']",s,"UTT_BOUNDARY q: which letter does the word ""salad"" start with? a:UTT_BOUNDARY sanshi? a", sanshi? a
+"Q: Which letter does the word ""exercise"" start with? A:","['e', 'x', 'e', 'r', 'c', 'i', 's', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""exercise"" start with? a:UTT_BOUNDARY email, which word"," email, which word"
+"Q: What is the first letter of the word ""hotel""? A:","['h', 'o', 't', 'e', 'l']",h,"UTT_BOUNDARY q: what is the first letter of the word ""hotel""? a:UTT_BOUNDARY hingesen"","," hingesen"","
+"Write the first letter of the word ""wheel"": ","['w', 'h', 'e', 'e', 'l']",w,"UTT_BOUNDARY write the first letter of the word ""wheel"":UTT_BOUNDARY szefing"":"," szefing"":"
+"Write the first letter of the word ""basketball"": ","['b', 'a', 's', 'k', 'e', 't', 'b', 'a', 'l', 'l']",b,"UTT_BOUNDARY write the first letter of the word ""basketball"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""present""? A:","['p', 'r', 'e', 's', 'e', 'n', 't']",p,"UTT_BOUNDARY q: what is the first letter of the word ""present""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Write the first letter of the word ""mad"": ","['m', 'a', 'd']",m,"UTT_BOUNDARY write the first letter of the word ""mad"":UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Write the first letter of the word ""take"": ","['t', 'a', 'k', 'e']",t,"UTT_BOUNDARY write the first letter of the word ""take"":UTT_BOUNDARY tessy"":UTT_BOUNDARY"," tessy"":"
+"Q: Which letter does the word ""singing"" start with? A:","['s', 'i', 'n', 'g', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: which letter does the word ""singing"" start with? a:UTT_BOUNDARY sachine in the", sachine in the
+"Q: What is the first letter of the word ""bike""? A:","['b', 'i', 'k', 'e']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bike""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""salad"": ","['s', 'a', 'l', 'a', 'd']",s,"UTT_BOUNDARY write the first letter of the word ""salad"":UTT_BOUNDARY sampha dans", sampha dans
+"Q: Which letter does the word ""nationality"" start with? A:","['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'y']",n,"UTT_BOUNDARY q: which letter does the word ""nationality"" start with? a:UTT_BOUNDARY nsafe""? a"," nsafe""? a"
+"Write the first letter of the word ""serve"": ","['s', 'e', 'r', 'v', 'e']",s,"UTT_BOUNDARY write the first letter of the word ""serve"":UTT_BOUNDARY sachs"", which"," sachs"", which"
+"Q: Which letter does the word ""large"" start with? A:","['l', 'a', 'r', 'g', 'e']",l,"UTT_BOUNDARY q: which letter does the word ""large"" start with? a:UTT_BOUNDARY cuspidea", cuspidea
+"Q: What is the first letter of the word ""conversation""? A:","['c', 'o', 'n', 'v', 'e', 'r', 's', 'a', 't', 'i', 'o', 'n']",c,"UTT_BOUNDARY q: what is the first letter of the word ""conversation""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Q: Which letter does the word ""above"" start with? A:","['a', 'b', 'o', 'v', 'e']",a,"UTT_BOUNDARY q: which letter does the word ""above"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""always""? A:","['a', 'l', 'w', 'a', 'y', 's']",a,"UTT_BOUNDARY q: what is the first letter of the word ""always""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""ride"": ","['r', 'i', 'd', 'e']",r,"UTT_BOUNDARY write the first letter of the word ""ride"":UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Q: Which letter does the word ""grandpa"" start with? A:","['g', 'r', 'a', 'n', 'd', 'p', 'a']",g,"UTT_BOUNDARY q: which letter does the word ""grandpa"" start with? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Write the first letter of the word ""receptionist"": ","['r', 'e', 'c', 'e', 'p', 't', 'i', 'o', 'n', 'i', 's', 't']",r,"UTT_BOUNDARY write the first letter of the word ""receptionist"":UTT_BOUNDARY rutherford cathedral"","," rutherford cathedral"","
+"Q: What is the first letter of the word ""often""? A:","['o', 'f', 't', 'e', 'n']",o,"UTT_BOUNDARY q: what is the first letter of the word ""often""? a:UTT_BOUNDARY sachine"" or"," sachine"" or"
+"Q: What is the first letter of the word ""its""? A:","['i', 't', 's']",i,"UTT_BOUNDARY q: what is the first letter of the word ""its""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: What is the first letter of the word ""honey""? A:","['h', 'o', 'n', 'e', 'y']",h,"UTT_BOUNDARY q: what is the first letter of the word ""honey""? a:UTT_BOUNDARY hin"", which word"," hin"", which word"
+"Write the first letter of the word ""memory"": ","['m', 'e', 'm', 'o', 'r', 'y']",m,"UTT_BOUNDARY write the first letter of the word ""memory"":UTT_BOUNDARY malthuspire", malthuspire
+"Q: Which letter does the word ""size"" start with? A:","['s', 'i', 'z', 'e']",s,"UTT_BOUNDARY q: which letter does the word ""size"" start with? a:UTT_BOUNDARY sillsseus", sillsseus
+"Q: Which letter does the word ""weather"" start with? A:","['w', 'e', 'a', 't', 'h', 'e', 'r']",w,"UTT_BOUNDARY q: which letter does the word ""weather"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""paint""? A:","['p', 'a', 'i', 'n', 't']",p,"UTT_BOUNDARY q: what is the first letter of the word ""paint""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""balloon"" start with? A:","['b', 'a', 'l', 'l', 'o', 'o', 'n']",b,"UTT_BOUNDARY q: which letter does the word ""balloon"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""learn"" start with? A:","['l', 'e', 'a', 'r', 'n']",l,"UTT_BOUNDARY q: which letter does the word ""learn"" start with? a:UTT_BOUNDARY lelouch""? a"," lelouch""? a"
+"Q: What is the first letter of the word ""travel""? A:","['t', 'r', 'a', 'v', 'e', 'l']",t,"UTT_BOUNDARY q: what is the first letter of the word ""travel""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""morning"" start with? A:","['m', 'o', 'r', 'n', 'i', 'n', 'g']",m,"UTT_BOUNDARY q: which letter does the word ""morning"" start with? a:UTT_BOUNDARY morrow""? a:"," morrow""? a:"
+"Write the first letter of the word ""yet"": ","['y', 'e', 't']",y,"UTT_BOUNDARY write the first letter of the word ""yet"":UTT_BOUNDARY yogurt kap", yogurt kap
+"Q: What is the first letter of the word ""snack""? A:","['s', 'n', 'a', 'c', 'k']",s,"UTT_BOUNDARY q: what is the first letter of the word ""snack""? a:UTT_BOUNDARY sutherford""? a"," sutherford""? a"
+"Write the first letter of the word ""pet"": ","['p', 'e', 't']",p,"UTT_BOUNDARY write the first letter of the word ""pet"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Q: What is the first letter of the word ""kid""? A:","['k', 'i', 'd']",k,"UTT_BOUNDARY q: what is the first letter of the word ""kid""? a:UTT_BOUNDARY kris donated a", kris donated a
+"Q: What is the first letter of the word ""engineer""? A:","['e', 'n', 'g', 'i', 'n', 'e', 'e', 'r']",e,"UTT_BOUNDARY q: what is the first letter of the word ""engineer""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""place"" start with? A:","['p', 'l', 'a', 'c', 'e']",p,"UTT_BOUNDARY q: which letter does the word ""place"" start with? a:UTT_BOUNDARY pamela"" or"," pamela"" or"
+"Q: Which letter does the word ""party"" start with? A:","['p', 'a', 'r', 't', 'y']",p,"UTT_BOUNDARY q: which letter does the word ""party"" start with? a:UTT_BOUNDARY peabody"" from"," peabody"" from"
+"Q: What is the first letter of the word ""nationality""? A:","['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'y']",n,"UTT_BOUNDARY q: what is the first letter of the word ""nationality""? a:UTT_BOUNDARY nsafe""? a"," nsafe""? a"
+"Write the first letter of the word ""milk"": ","['m', 'i', 'l', 'k']",m,"UTT_BOUNDARY write the first letter of the word ""milk"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: Which letter does the word ""fantastic"" start with? A:","['f', 'a', 'n', 't', 'a', 's', 't', 'i', 'c']",f,"UTT_BOUNDARY q: which letter does the word ""fantastic"" start with? a:UTT_BOUNDARY foudy, what"," foudy, what"
+"Q: Which letter does the word ""dinosaur"" start with? A:","['d', 'i', 'n', 'o', 's', 'a', 'u', 'r']",d,"UTT_BOUNDARY q: which letter does the word ""dinosaur"" start with? a:UTT_BOUNDARY sachin and i", sachin and i
+"Write the first letter of the word ""sea"": ","['s', 'e', 'a']",s,"UTT_BOUNDARY write the first letter of the word ""sea"":UTT_BOUNDARY sindra"":UTT_BOUNDARY"," sindra"":"
+"Write the first letter of the word ""read"": ","['r', 'e', 'a', 'd']",r,"UTT_BOUNDARY write the first letter of the word ""read"":UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Q: What is the first letter of the word ""yard""? A:","['y', 'a', 'r', 'd']",y,"UTT_BOUNDARY q: what is the first letter of the word ""yard""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Write the first letter of the word ""make"": ","['m', 'a', 'k', 'e']",m,"UTT_BOUNDARY write the first letter of the word ""make"":UTT_BOUNDARY mnemon"":"," mnemon"":"
+"Write the first letter of the word ""cousin"": ","['c', 'o', 'u', 's', 'i', 'n']",c,"UTT_BOUNDARY write the first letter of the word ""cousin"":UTT_BOUNDARY gudd and d", gudd and d
+"Q: Which letter does the word ""upset"" start with? A:","['u', 'p', 's', 'e', 't']",u,"UTT_BOUNDARY q: which letter does the word ""upset"" start with? a:UTT_BOUNDARY ufosque""?"," ufosque""?"
+"Q: Which letter does the word ""world"" start with? A:","['w', 'o', 'r', 'l', 'd']",w,"UTT_BOUNDARY q: which letter does the word ""world"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Write the first letter of the word ""foreign"": ","['f', 'o', 'r', 'e', 'i', 'g', 'n']",f,"UTT_BOUNDARY write the first letter of the word ""foreign"":UTT_BOUNDARY fiona"":UTT_BOUNDARY"," fiona"":"
+"Q: What is the first letter of the word ""big""? A:","['b', 'i', 'g']",b,"UTT_BOUNDARY q: what is the first letter of the word ""big""? a:UTT_BOUNDARY bitten by bitten", bitten by bitten
+"Q: What is the first letter of the word ""fog""? A:","['f', 'o', 'g']",f,"UTT_BOUNDARY q: what is the first letter of the word ""fog""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Q: What is the first letter of the word ""hurt""? A:","['h', 'u', 'r', 't']",h,"UTT_BOUNDARY q: what is the first letter of the word ""hurt""? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Q: What is the first letter of the word ""coat""? A:","['c', 'o', 'a', 't']",c,"UTT_BOUNDARY q: what is the first letter of the word ""coat""? a:UTT_BOUNDARY c: in an alphabet", c: in an alphabet
+"Q: Which letter does the word ""south"" start with? A:","['s', 'o', 'u', 't', 'h']",s,"UTT_BOUNDARY q: which letter does the word ""south"" start with? a:UTT_BOUNDARY sicily? a", sicily? a
+"Write the first letter of the word ""really"": ","['r', 'e', 'a', 'l', 'l', 'y']",r,"UTT_BOUNDARY write the first letter of the word ""really"":UTT_BOUNDARY yogurt malth", yogurt malth
+"Q: Which letter does the word ""long"" start with? A:","['l', 'o', 'n', 'g']",l,"UTT_BOUNDARY q: which letter does the word ""long"" start with? a:UTT_BOUNDARY fionazwine", fionazwine
+"Q: Which letter does the word ""yard"" start with? A:","['y', 'a', 'r', 'd']",y,"UTT_BOUNDARY q: which letter does the word ""yard"" start with? a:UTT_BOUNDARY sassof3", sassof3
+"Q: What is the first letter of the word ""meat""? A:","['m', 'e', 'a', 't']",m,"UTT_BOUNDARY q: what is the first letter of the word ""meat""? a:UTT_BOUNDARY mousseauce", mousseauce
+"Write the first letter of the word ""carrot"": ","['c', 'a', 'r', 'r', 'o', 't']",c,"UTT_BOUNDARY write the first letter of the word ""carrot"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: Which letter does the word ""comb"" start with? A:","['c', 'o', 'm', 'b']",c,"UTT_BOUNDARY q: which letter does the word ""comb"" start with? a:UTT_BOUNDARY cafeteria?", cafeteria?
+"Q: What is the first letter of the word ""pizza""? A:","['p', 'i', 'z', 'z', 'a']",p,"UTT_BOUNDARY q: what is the first letter of the word ""pizza""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: What is the first letter of the word ""cheese""? A:","['c', 'h', 'e', 'e', 's', 'e']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cheese""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Write the first letter of the word ""however"": ","['h', 'o', 'w', 'e', 'v', 'e', 'r']",h,"UTT_BOUNDARY write the first letter of the word ""however"":UTT_BOUNDARY houd hosen", houd hosen
+"Q: Which letter does the word ""street"" start with? A:","['s', 't', 'r', 'e', 'e', 't']",s,"UTT_BOUNDARY q: which letter does the word ""street"" start with? a:UTT_BOUNDARY sachs or the", sachs or the
+"Q: What is the first letter of the word ""everyone""? A:","['e', 'v', 'e', 'r', 'y', 'o', 'n', 'e']",e,"UTT_BOUNDARY q: what is the first letter of the word ""everyone""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""guest"" start with? A:","['g', 'u', 'e', 's', 't']",g,"UTT_BOUNDARY q: which letter does the word ""guest"" start with? a:UTT_BOUNDARY gudrun"" from"," gudrun"" from"
+"Q: Which letter does the word ""give"" start with? A:","['g', 'i', 'v', 'e']",g,"UTT_BOUNDARY q: which letter does the word ""give"" start with? a:UTT_BOUNDARY ssh ssh s", ssh ssh s
+"Write the first letter of the word ""grammar"": ","['g', 'r', 'a', 'm', 'm', 'a', 'r']",g,"UTT_BOUNDARY write the first letter of the word ""grammar"":UTT_BOUNDARY g: which word comes", g: which word comes
+"Q: What is the first letter of the word ""chicken""? A:","['c', 'h', 'i', 'c', 'k', 'e', 'n']",c,"UTT_BOUNDARY q: what is the first letter of the word ""chicken""? a:UTT_BOUNDARY bitten by the spider", bitten by the spider
+"Q: What is the first letter of the word ""banking""? A:","['b', 'a', 'n', 'k', 'i', 'n', 'g']",b,"UTT_BOUNDARY q: what is the first letter of the word ""banking""? a:UTT_BOUNDARY bully""? a:"," bully""? a:"
+"Q: Which letter does the word ""diploma"" start with? A:","['d', 'i', 'p', 'l', 'o', 'm', 'a']",d,"UTT_BOUNDARY q: which letter does the word ""diploma"" start with? a:UTT_BOUNDARY hooligans are", hooligans are
+"Q: What is the first letter of the word ""miss""? A:","['m', 'i', 's', 's']",m,"UTT_BOUNDARY q: what is the first letter of the word ""miss""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""appointment"" start with? A:","['a', 'p', 'p', 'o', 'i', 'n', 't', 'm', 'e', 'n', 't']",a,"UTT_BOUNDARY q: which letter does the word ""appointment"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""melon"": ","['m', 'e', 'l', 'o', 'n']",m,"UTT_BOUNDARY write the first letter of the word ""melon"":UTT_BOUNDARY moussele"","," moussele"","
+"Q: What is the first letter of the word ""leave""? A:","['l', 'e', 'a', 'v', 'e']",l,"UTT_BOUNDARY q: what is the first letter of the word ""leave""? a:UTT_BOUNDARY lutherford""? a"," lutherford""? a"
+"Write the first letter of the word ""cafeteria"": ","['c', 'a', 'f', 'e', 't', 'e', 'r', 'i', 'a']",c,"UTT_BOUNDARY write the first letter of the word ""cafeteria"":UTT_BOUNDARY cafeteria and", cafeteria and
+"Q: What is the first letter of the word ""small""? A:","['s', 'm', 'a', 'l', 'l']",s,"UTT_BOUNDARY q: what is the first letter of the word ""small""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""actor"": ","['a', 'c', 't', 'o', 'r']",a,"UTT_BOUNDARY write the first letter of the word ""actor"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""toothbrush"" start with? A:","['t', 'o', 'o', 't', 'h', 'b', 'r', 'u', 's', 'h']",t,"UTT_BOUNDARY q: which letter does the word ""toothbrush"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: What is the first letter of the word ""when""? A:","['w', 'h', 'e', 'n']",w,"UTT_BOUNDARY q: what is the first letter of the word ""when""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""mountain""? A:","['m', 'o', 'u', 'n', 't', 'a', 'i', 'n']",m,"UTT_BOUNDARY q: what is the first letter of the word ""mountain""? a:UTT_BOUNDARY mavanaghold", mavanaghold
+"Q: Which letter does the word ""agree"" start with? A:","['a', 'g', 'r', 'e', 'e']",a,"UTT_BOUNDARY q: which letter does the word ""agree"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""who""? A:","['w', 'h', 'o']",w,"UTT_BOUNDARY q: what is the first letter of the word ""who""? a:UTT_BOUNDARY wily wince?", wily wince?
+"Q: What is the first letter of the word ""outside""? A:","['o', 'u', 't', 's', 'i', 'd', 'e']",o,"UTT_BOUNDARY q: what is the first letter of the word ""outside""? a:UTT_BOUNDARY oatesen"", which"," oatesen"", which"
+"Write the first letter of the word ""receipt"": ","['r', 'e', 'c', 'e', 'i', 'p', 't']",r,"UTT_BOUNDARY write the first letter of the word ""receipt"":UTT_BOUNDARY rinse and r", rinse and r
+"Q: Which letter does the word ""thunderstorm"" start with? A:","['t', 'h', 'u', 'n', 'd', 'e', 'r', 's', 't', 'o', 'r', 'm']",t,"UTT_BOUNDARY q: which letter does the word ""thunderstorm"" start with? a:UTT_BOUNDARY s and a is a", s and a is a
+"Q: Which letter does the word ""could"" start with? A:","['c', 'o', 'u', 'l', 'd']",c,"UTT_BOUNDARY q: which letter does the word ""could"" start with? a:UTT_BOUNDARY cafeteria or", cafeteria or
+"Q: What is the first letter of the word ""tell""? A:","['t', 'e', 'l', 'l']",t,"UTT_BOUNDARY q: what is the first letter of the word ""tell""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: Which letter does the word ""once"" start with? A:","['o', 'n', 'c', 'e']",o,"UTT_BOUNDARY q: which letter does the word ""once"" start with? a:UTT_BOUNDARY email from the words", email from the words
+"Write the first letter of the word ""sightseeing"": ","['s', 'i', 'g', 'h', 't', 's', 'e', 'e', 'i', 'n', 'g']",s,"UTT_BOUNDARY write the first letter of the word ""sightseeing"":UTT_BOUNDARY sachine"":UTT_BOUNDARY"," sachine"":"
+"Write the first letter of the word ""show"": ","['s', 'h', 'o', 'w']",s,"UTT_BOUNDARY write the first letter of the word ""show"":UTT_BOUNDARY sutherforde"":"," sutherforde"":"
+"Q: Which letter does the word ""new"" start with? A:","['n', 'e', 'w']",n,"UTT_BOUNDARY q: which letter does the word ""new"" start with? a:UTT_BOUNDARY n y c y and", n y c y and
+"Write the first letter of the word ""remember"": ","['r', 'e', 'm', 'e', 'm', 'b', 'e', 'r']",r,"UTT_BOUNDARY write the first letter of the word ""remember"":UTT_BOUNDARY w w w w w", w w w w w
+"Write the first letter of the word ""perfume"": ","['p', 'e', 'r', 'f', 'u', 'm', 'e']",p,"UTT_BOUNDARY write the first letter of the word ""perfume"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Write the first letter of the word ""walking"": ","['w', 'a', 'l', 'k', 'i', 'n', 'g']",w,"UTT_BOUNDARY write the first letter of the word ""walking"":UTT_BOUNDARY sachine"":UTT_BOUNDARY"," sachine"":"
+"Q: Which letter does the word ""area"" start with? A:","['a', 'r', 'e', 'a']",a,"UTT_BOUNDARY q: which letter does the word ""area"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""spoon"" start with? A:","['s', 'p', 'o', 'o', 'n']",s,"UTT_BOUNDARY q: which letter does the word ""spoon"" start with? a:UTT_BOUNDARY sanssouci", sanssouci
+"Q: What is the first letter of the word ""money""? A:","['m', 'o', 'n', 'e', 'y']",m,"UTT_BOUNDARY q: what is the first letter of the word ""money""? a:UTT_BOUNDARY mousseauce", mousseauce
+"Q: Which letter does the word ""ever"" start with? A:","['e', 'v', 'e', 'r']",e,"UTT_BOUNDARY q: which letter does the word ""ever"" start with? a:UTT_BOUNDARY evelina is a", evelina is a
+"Q: What is the first letter of the word ""spring""? A:","['s', 'p', 'r', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: what is the first letter of the word ""spring""? a:UTT_BOUNDARY sowne""? a"," sowne""? a"
+"Write the first letter of the word ""grandparent"": ","['g', 'r', 'a', 'n', 'd', 'p', 'a', 'r', 'e', 'n', 't']",g,"UTT_BOUNDARY write the first letter of the word ""grandparent"":UTT_BOUNDARY gelouchingen", gelouchingen
+"Write the first letter of the word ""cloud"": ","['c', 'l', 'o', 'u', 'd']",c,"UTT_BOUNDARY write the first letter of the word ""cloud"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Write the first letter of the word ""cricket"": ","['c', 'r', 'i', 'c', 'k', 'e', 't']",c,"UTT_BOUNDARY write the first letter of the word ""cricket"":UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Write the first letter of the word ""lunchtime"": ","['l', 'u', 'n', 'c', 'h', 't', 'i', 'm', 'e']",l,"UTT_BOUNDARY write the first letter of the word ""lunchtime"":UTT_BOUNDARY lenny"" and """," lenny"" and """
+"Q: What is the first letter of the word ""bookshelf""? A:","['b', 'o', 'o', 'k', 's', 'h', 'e', 'l', 'f']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bookshelf""? a:UTT_BOUNDARY bitten by bitten", bitten by bitten
+"Q: Which letter does the word ""steak"" start with? A:","['s', 't', 'e', 'a', 'k']",s,"UTT_BOUNDARY q: which letter does the word ""steak"" start with? a:UTT_BOUNDARY ssh ssh s", ssh ssh s
+"Q: Which letter does the word ""all"" start with? A:","['a', 'l', 'l']",a,"UTT_BOUNDARY q: which letter does the word ""all"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""workbook"": ","['w', 'o', 'r', 'k', 'b', 'o', 'o', 'k']",w,"UTT_BOUNDARY write the first letter of the word ""workbook"":UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Q: What is the first letter of the word ""picture""? A:","['p', 'i', 'c', 't', 'u', 'r', 'e']",p,"UTT_BOUNDARY q: what is the first letter of the word ""picture""? a:UTT_BOUNDARY peabody or a", peabody or a
+"Q: Which letter does the word ""uniform"" start with? A:","['u', 'n', 'i', 'f', 'o', 'r', 'm']",u,"UTT_BOUNDARY q: which letter does the word ""uniform"" start with? a:UTT_BOUNDARY ufosque"""," ufosque"""
+"Q: Which letter does the word ""fly"" start with? A:","['f', 'l', 'y']",f,"UTT_BOUNDARY q: which letter does the word ""fly"" start with? a:UTT_BOUNDARY fiona lee gaut", fiona lee gaut
+"Write the first letter of the word ""loud"": ","['l', 'o', 'u', 'd']",l,"UTT_BOUNDARY write the first letter of the word ""loud"":UTT_BOUNDARY schizoo"""," schizoo"""
+"Q: Which letter does the word ""foreign"" start with? A:","['f', 'o', 'r', 'e', 'i', 'g', 'n']",f,"UTT_BOUNDARY q: which letter does the word ""foreign"" start with? a:UTT_BOUNDARY fiona lee sill", fiona lee sill
+"Q: What is the first letter of the word ""save""? A:","['s', 'a', 'v', 'e']",s,"UTT_BOUNDARY q: what is the first letter of the word ""save""? a:UTT_BOUNDARY sutherford understands himself", sutherford understands himself
+"Q: What is the first letter of the word ""instead""? A:","['i', 'n', 's', 't', 'e', 'a', 'd']",i,"UTT_BOUNDARY q: what is the first letter of the word ""instead""? a:UTT_BOUNDARY i believe that the sun", i believe that the sun
+"Q: Which letter does the word ""nurse"" start with? A:","['n', 'u', 'r', 's', 'e']",n,"UTT_BOUNDARY q: which letter does the word ""nurse"" start with? a:UTT_BOUNDARY nessert""? a"," nessert""? a"
+"Q: What is the first letter of the word ""duck""? A:","['d', 'u', 'c', 'k']",d,"UTT_BOUNDARY q: what is the first letter of the word ""duck""? a:UTT_BOUNDARY cafeteria is", cafeteria is
+"Q: What is the first letter of the word ""awful""? A:","['a', 'w', 'f', 'u', 'l']",a,"UTT_BOUNDARY q: what is the first letter of the word ""awful""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""dad""? A:","['d', 'a', 'd']",d,"UTT_BOUNDARY q: what is the first letter of the word ""dad""? a:UTT_BOUNDARY dina dina d", dina dina d
+"Q: What is the first letter of the word ""best""? A:","['b', 'e', 's', 't']",b,"UTT_BOUNDARY q: what is the first letter of the word ""best""? a:UTT_BOUNDARY m n o two?", m n o two?
+"Q: Which letter does the word ""chocolate"" start with? A:","['c', 'h', 'o', 'c', 'o', 'l', 'a', 't', 'e']",c,"UTT_BOUNDARY q: which letter does the word ""chocolate"" start with? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Q: What is the first letter of the word ""actor""? A:","['a', 'c', 't', 'o', 'r']",a,"UTT_BOUNDARY q: what is the first letter of the word ""actor""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""sure"": ","['s', 'u', 'r', 'e']",s,"UTT_BOUNDARY write the first letter of the word ""sure"":UTT_BOUNDARY s s e a t", s s e a t
+"Q: What is the first letter of the word ""vocabulary""? A:","['v', 'o', 'c', 'a', 'b', 'u', 'l', 'a', 'r', 'y']",v,"UTT_BOUNDARY q: what is the first letter of the word ""vocabulary""? a:UTT_BOUNDARY v a t c a", v a t c a
+"Q: What is the first letter of the word ""believe""? A:","['b', 'e', 'l', 'i', 'e', 'v', 'e']",b,"UTT_BOUNDARY q: what is the first letter of the word ""believe""? a:UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Write the first letter of the word ""quiet"": ","['q', 'u', 'i', 'e', 't']",q,"UTT_BOUNDARY write the first letter of the word ""quiet"":UTT_BOUNDARY q: in the sentence", q: in the sentence
+"Write the first letter of the word ""ceiling"": ","['c', 'e', 'i', 'l', 'i', 'n', 'g']",c,"UTT_BOUNDARY write the first letter of the word ""ceiling"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: Which letter does the word ""popular"" start with? A:","['p', 'o', 'p', 'u', 'l', 'a', 'r']",p,"UTT_BOUNDARY q: which letter does the word ""popular"" start with? a:UTT_BOUNDARY p p g seven?", p p g seven?
+"Q: Which letter does the word ""may"" start with? A:","['m', 'a', 'y']",m,"UTT_BOUNDARY q: which letter does the word ""may"" start with? a:UTT_BOUNDARY mnature is a", mnature is a
+"Q: Which letter does the word ""discount"" start with? A:","['d', 'i', 's', 'c', 'o', 'u', 'n', 't']",d,"UTT_BOUNDARY q: which letter does the word ""discount"" start with? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Write the first letter of the word ""which"": ","['w', 'h', 'i', 'c', 'h']",w,"UTT_BOUNDARY write the first letter of the word ""which"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""free""? A:","['f', 'r', 'e', 'e']",f,"UTT_BOUNDARY q: what is the first letter of the word ""free""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Write the first letter of the word ""mix"": ","['m', 'i', 'x']",m,"UTT_BOUNDARY write the first letter of the word ""mix"":UTT_BOUNDARY mnemon"":"," mnemon"":"
+"Write the first letter of the word ""some"": ","['s', 'o', 'm', 'e']",s,"UTT_BOUNDARY write the first letter of the word ""some"":UTT_BOUNDARY sachin"", which"," sachin"", which"
+"Q: What is the first letter of the word ""push""? A:","['p', 'u', 's', 'h']",p,"UTT_BOUNDARY q: what is the first letter of the word ""push""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: What is the first letter of the word ""skating""? A:","['s', 'k', 'a', 't', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: what is the first letter of the word ""skating""? a:UTT_BOUNDARY sanswer""? a"," sanswer""? a"
+"Q: Which letter does the word ""sea"" start with? A:","['s', 'e', 'a']",s,"UTT_BOUNDARY q: which letter does the word ""sea"" start with? a:UTT_BOUNDARY sindiott from", sindiott from
+"Q: What is the first letter of the word ""have""? A:","['h', 'a', 'v', 'e']",h,"UTT_BOUNDARY q: what is the first letter of the word ""have""? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Q: Which letter does the word ""software"" start with? A:","['s', 'o', 'f', 't', 'w', 'a', 'r', 'e']",s,"UTT_BOUNDARY q: which letter does the word ""software"" start with? a:UTT_BOUNDARY cafeteria or", cafeteria or
+"Write the first letter of the word ""welcome"": ","['w', 'e', 'l', 'c', 'o', 'm', 'e']",w,"UTT_BOUNDARY write the first letter of the word ""welcome"":UTT_BOUNDARY g: which word comes", g: which word comes
+"Q: What is the first letter of the word ""begin""? A:","['b', 'e', 'g', 'i', 'n']",b,"UTT_BOUNDARY q: what is the first letter of the word ""begin""? a:UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Q: Which letter does the word ""engine"" start with? A:","['e', 'n', 'g', 'i', 'n', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""engine"" start with? a:UTT_BOUNDARY email from the words", email from the words
+"Q: Which letter does the word ""bother"" start with? A:","['b', 'o', 't', 'h', 'e', 'r']",b,"UTT_BOUNDARY q: which letter does the word ""bother"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""necklace"" start with? A:","['n', 'e', 'c', 'k', 'l', 'a', 'c', 'e']",n,"UTT_BOUNDARY q: which letter does the word ""necklace"" start with? a:UTT_BOUNDARY nabloid with", nabloid with
+"Q: What is the first letter of the word ""married""? A:","['m', 'a', 'r', 'r', 'i', 'e', 'd']",m,"UTT_BOUNDARY q: what is the first letter of the word ""married""? a:UTT_BOUNDARY mclough""? a"," mclough""? a"
+"Q: What is the first letter of the word ""air""? A:","['a', 'i', 'r']",a,"UTT_BOUNDARY q: what is the first letter of the word ""air""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Q: Which letter does the word ""husband"" start with? A:","['h', 'u', 's', 'b', 'a', 'n', 'd']",h,"UTT_BOUNDARY q: which letter does the word ""husband"" start with? a:UTT_BOUNDARY hosseg,"," hosseg,"
+"Q: What is the first letter of the word ""wear""? A:","['w', 'e', 'a', 'r']",w,"UTT_BOUNDARY q: what is the first letter of the word ""wear""? a:UTT_BOUNDARY wimbledoner", wimbledoner
+"Write the first letter of the word ""twice"": ","['t', 'w', 'i', 'c', 'e']",t,"UTT_BOUNDARY write the first letter of the word ""twice"":UTT_BOUNDARY tessa tights is", tessa tights is
+"Q: Which letter does the word ""picture"" start with? A:","['p', 'i', 'c', 't', 'u', 'r', 'e']",p,"UTT_BOUNDARY q: which letter does the word ""picture"" start with? a:UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Write the first letter of the word ""electricity"": ","['e', 'l', 'e', 'c', 't', 'r', 'i', 'c', 'i', 't', 'y']",e,"UTT_BOUNDARY write the first letter of the word ""electricity"":UTT_BOUNDARY ecola"":UTT_BOUNDARY"," ecola"":"
+"Q: What is the first letter of the word ""forget""? A:","['f', 'o', 'r', 'g', 'e', 't']",f,"UTT_BOUNDARY q: what is the first letter of the word ""forget""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Write the first letter of the word ""should"": ","['s', 'h', 'o', 'u', 'l', 'd']",s,"UTT_BOUNDARY write the first letter of the word ""should"":UTT_BOUNDARY malthus"":UTT_BOUNDARY"," malthus"":"
+"Q: Which letter does the word ""finish"" start with? A:","['f', 'i', 'n', 'i', 's', 'h']",f,"UTT_BOUNDARY q: which letter does the word ""finish"" start with? a:UTT_BOUNDARY w and w and w", w and w and w
+"Q: Which letter does the word ""wall"" start with? A:","['w', 'a', 'l', 'l']",w,"UTT_BOUNDARY q: which letter does the word ""wall"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: Which letter does the word ""money"" start with? A:","['m', 'o', 'n', 'e', 'y']",m,"UTT_BOUNDARY q: which letter does the word ""money"" start with? a:UTT_BOUNDARY yogurt and y", yogurt and y
+"Q: What is the first letter of the word ""sausage""? A:","['s', 'a', 'u', 's', 'a', 'g', 'e']",s,"UTT_BOUNDARY q: what is the first letter of the word ""sausage""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Write the first letter of the word ""album"": ","['a', 'l', 'b', 'u', 'm']",a,"UTT_BOUNDARY write the first letter of the word ""album"":UTT_BOUNDARY malthus"" which"," malthus"" which"
+"Write the first letter of the word ""second"": ","['s', 'e', 'c', 'o', 'n', 'd']",s,"UTT_BOUNDARY write the first letter of the word ""second"":UTT_BOUNDARY sachine"":UTT_BOUNDARY"," sachine"":"
+"Q: Which letter does the word ""come"" start with? A:","['c', 'o', 'm', 'e']",c,"UTT_BOUNDARY q: which letter does the word ""come"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: Which letter does the word ""disco"" start with? A:","['d', 'i', 's', 'c', 'o']",d,"UTT_BOUNDARY q: which letter does the word ""disco"" start with? a:UTT_BOUNDARY dane"" which one"," dane"" which one"
+"Q: What is the first letter of the word ""write""? A:","['w', 'r', 'i', 't', 'e']",w,"UTT_BOUNDARY q: what is the first letter of the word ""write""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Write the first letter of the word ""often"": ","['o', 'f', 't', 'e', 'n']",o,"UTT_BOUNDARY write the first letter of the word ""often"":UTT_BOUNDARY urian is a doctor", urian is a doctor
+"Write the first letter of the word ""pop"": ","['p', 'o', 'p']",p,"UTT_BOUNDARY write the first letter of the word ""pop"":UTT_BOUNDARY p: which word comes", p: which word comes
+"Write the first letter of the word ""schoolchild"": ","['s', 'c', 'h', 'o', 'o', 'l', 'c', 'h', 'i', 'l', 'd']",s,"UTT_BOUNDARY write the first letter of the word ""schoolchild"":UTT_BOUNDARY sutherford understands himself", sutherford understands himself
+"Q: What is the first letter of the word ""table""? A:","['t', 'a', 'b', 'l', 'e']",t,"UTT_BOUNDARY q: what is the first letter of the word ""table""? a:UTT_BOUNDARY sfwa"" or"," sfwa"" or"
+"Q: Which letter does the word ""wrong"" start with? A:","['w', 'r', 'o', 'n', 'g']",w,"UTT_BOUNDARY q: which letter does the word ""wrong"" start with? a:UTT_BOUNDARY wongo"" or"," wongo"" or"
+"Q: Which letter does the word ""business"" start with? A:","['b', 'u', 's', 'i', 'n', 'e', 's', 's']",b,"UTT_BOUNDARY q: which letter does the word ""business"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""directions"" start with? A:","['d', 'i', 'r', 'e', 'c', 't', 'i', 'o', 'n', 's']",d,"UTT_BOUNDARY q: which letter does the word ""directions"" start with? a:UTT_BOUNDARY s s p gs", s s p gs
+"Q: Which letter does the word ""worse"" start with? A:","['w', 'o', 'r', 's', 'e']",w,"UTT_BOUNDARY q: which letter does the word ""worse"" start with? a:UTT_BOUNDARY wade"" which one"," wade"" which one"
+"Write the first letter of the word ""wild"": ","['w', 'i', 'l', 'd']",w,"UTT_BOUNDARY write the first letter of the word ""wild"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""climbing"": ","['c', 'l', 'i', 'm', 'b', 'i', 'n', 'g']",c,"UTT_BOUNDARY write the first letter of the word ""climbing"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: Which letter does the word ""lose"" start with? A:","['l', 'o', 's', 'e']",l,"UTT_BOUNDARY q: which letter does the word ""lose"" start with? a:UTT_BOUNDARY l"" or ""com"," l"" or ""com"
+"Write the first letter of the word ""match"": ","['m', 'a', 't', 'c', 'h']",m,"UTT_BOUNDARY write the first letter of the word ""match"":UTT_BOUNDARY mire"", which word"," mire"", which word"
+"Q: Which letter does the word ""list"" start with? A:","['l', 'i', 's', 't']",l,"UTT_BOUNDARY q: which letter does the word ""list"" start with? a:UTT_BOUNDARY sr e a d", sr e a d
+"Write the first letter of the word ""usually"": ","['u', 's', 'u', 'a', 'l', 'l', 'y']",u,"UTT_BOUNDARY write the first letter of the word ""usually"":UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: What is the first letter of the word ""things""? A:","['t', 'h', 'i', 'n', 'g', 's']",t,"UTT_BOUNDARY q: what is the first letter of the word ""things""? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""glass"" start with? A:","['g', 'l', 'a', 's', 's']",g,"UTT_BOUNDARY q: which letter does the word ""glass"" start with? a:UTT_BOUNDARY gnawed the floor", gnawed the floor
+"Write the first letter of the word ""one"": ","['o', 'n', 'e']",o,"UTT_BOUNDARY write the first letter of the word ""one"":UTT_BOUNDARY o, what is the"," o, what is the"
+"Q: What is the first letter of the word ""foggy""? A:","['f', 'o', 'g', 'g', 'y']",f,"UTT_BOUNDARY q: what is the first letter of the word ""foggy""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Q: Which letter does the word ""tram"" start with? A:","['t', 'r', 'a', 'm']",t,"UTT_BOUNDARY q: which letter does the word ""tram"" start with? a:UTT_BOUNDARY pamela"" which"," pamela"" which"
+"Write the first letter of the word ""speak"": ","['s', 'p', 'e', 'a', 'k']",s,"UTT_BOUNDARY write the first letter of the word ""speak"":UTT_BOUNDARY sachin"":UTT_BOUNDARY"," sachin"":"
+"Q: What is the first letter of the word ""grandma""? A:","['g', 'r', 'a', 'n', 'd', 'm', 'a']",g,"UTT_BOUNDARY q: what is the first letter of the word ""grandma""? a:UTT_BOUNDARY g: which word comes", g: which word comes
+"Q: Which letter does the word ""foggy"" start with? A:","['f', 'o', 'g', 'g', 'y']",f,"UTT_BOUNDARY q: which letter does the word ""foggy"" start with? a:UTT_BOUNDARY fiona, a:"," fiona, a:"
+"Q: What is the first letter of the word ""every""? A:","['e', 'v', 'e', 'r', 'y']",e,"UTT_BOUNDARY q: what is the first letter of the word ""every""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""computer"" start with? A:","['c', 'o', 'm', 'p', 'u', 't', 'e', 'r']",c,"UTT_BOUNDARY q: which letter does the word ""computer"" start with? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Write the first letter of the word ""headache"": ","['h', 'e', 'a', 'd', 'a', 'c', 'h', 'e']",h,"UTT_BOUNDARY write the first letter of the word ""headache"":UTT_BOUNDARY h5n8 and", h5n8 and
+"Q: What is the first letter of the word ""boat""? A:","['b', 'o', 'a', 't']",b,"UTT_BOUNDARY q: what is the first letter of the word ""boat""? a:UTT_BOUNDARY bully""? a:"," bully""? a:"
+"Write the first letter of the word ""street"": ","['s', 't', 'r', 'e', 'e', 't']",s,"UTT_BOUNDARY write the first letter of the word ""street"":UTT_BOUNDARY ssh tsk t", ssh tsk t
+"Write the first letter of the word ""wind"": ","['w', 'i', 'n', 'd']",w,"UTT_BOUNDARY write the first letter of the word ""wind"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""click""? A:","['c', 'l', 'i', 'c', 'k']",c,"UTT_BOUNDARY q: what is the first letter of the word ""click""? a:UTT_BOUNDARY cafeteria is", cafeteria is
+"Write the first letter of the word ""cleaner"": ","['c', 'l', 'e', 'a', 'n', 'e', 'r']",c,"UTT_BOUNDARY write the first letter of the word ""cleaner"":UTT_BOUNDARY cafeteria is", cafeteria is
+"Q: What is the first letter of the word ""so""? A:","['s', 'o']",s,"UTT_BOUNDARY q: what is the first letter of the word ""so""? a:UTT_BOUNDARY macy""? a:"," macy""? a:"
+"Write the first letter of the word ""identification"": ","['i', 'd', 'e', 'n', 't', 'i', 'f', 'i', 'c', 'a', 't', 'i', 'o', 'n']",i,"UTT_BOUNDARY write the first letter of the word ""identification"":UTT_BOUNDARY nude"":UTT_BOUNDARY"," nude"":"
+"Q: Which letter does the word ""elevator"" start with? A:","['e', 'l', 'e', 'v', 'a', 't', 'o', 'r']",e,"UTT_BOUNDARY q: which letter does the word ""elevator"" start with? a:UTT_BOUNDARY rong""? a:"," rong""? a:"
+"Write the first letter of the word ""cat"": ","['c', 'a', 't']",c,"UTT_BOUNDARY write the first letter of the word ""cat"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Write the first letter of the word ""tea"": ","['t', 'e', 'a']",t,"UTT_BOUNDARY write the first letter of the word ""tea"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""quiz"" start with? A:","['q', 'u', 'i', 'z']",q,"UTT_BOUNDARY q: which letter does the word ""quiz"" start with? a:UTT_BOUNDARY mio"" and """," mio"" and """
+"Q: What is the first letter of the word ""anyway""? A:","['a', 'n', 'y', 'w', 'a', 'y']",a,"UTT_BOUNDARY q: what is the first letter of the word ""anyway""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""anymore""? A:","['a', 'n', 'y', 'm', 'o', 'r', 'e']",a,"UTT_BOUNDARY q: what is the first letter of the word ""anymore""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""colleague""? A:","['c', 'o', 'l', 'l', 'e', 'a', 'g', 'u', 'e']",c,"UTT_BOUNDARY q: what is the first letter of the word ""colleague""? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Q: Which letter does the word ""you"" start with? A:","['y', 'o', 'u']",y,"UTT_BOUNDARY q: which letter does the word ""you"" start with? a:UTT_BOUNDARY yogurt and y", yogurt and y
+"Q: Which letter does the word ""number"" start with? A:","['n', 'u', 'm', 'b', 'e', 'r']",n,"UTT_BOUNDARY q: which letter does the word ""number"" start with? a:UTT_BOUNDARY n y and ""party"," n y and ""party"
+"Q: Which letter does the word ""stomachache"" start with? A:","['s', 't', 'o', 'm', 'a', 'c', 'h', 'a', 'c', 'h', 'e']",s,"UTT_BOUNDARY q: which letter does the word ""stomachache"" start with? a:UTT_BOUNDARY sachinu"""," sachinu"""
+"Write the first letter of the word ""shopping"": ","['s', 'h', 'o', 'p', 'p', 'i', 'n', 'g']",s,"UTT_BOUNDARY write the first letter of the word ""shopping"":UTT_BOUNDARY sowe"":UTT_BOUNDARY"," sowe"":"
+"Q: What is the first letter of the word ""college""? A:","['c', 'o', 'l', 'l', 'e', 'g', 'e']",c,"UTT_BOUNDARY q: what is the first letter of the word ""college""? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Q: What is the first letter of the word ""receipt""? A:","['r', 'e', 'c', 'e', 'i', 'p', 't']",r,"UTT_BOUNDARY q: what is the first letter of the word ""receipt""? a:UTT_BOUNDARY rinse ""d"," rinse ""d"
+"Q: Which letter does the word ""lemon"" start with? A:","['l', 'e', 'm', 'o', 'n']",l,"UTT_BOUNDARY q: which letter does the word ""lemon"" start with? a:UTT_BOUNDARY lavender""? a"," lavender""? a"
+"Q: Which letter does the word ""rice"" start with? A:","['r', 'i', 'c', 'e']",r,"UTT_BOUNDARY q: which letter does the word ""rice"" start with? a:UTT_BOUNDARY guddlesome", guddlesome
+"Q: What is the first letter of the word ""minus""? A:","['m', 'i', 'n', 'u', 's']",m,"UTT_BOUNDARY q: what is the first letter of the word ""minus""? a:UTT_BOUNDARY mnemonics", mnemonics
+"Q: Which letter does the word ""roof"" start with? A:","['r', 'o', 'o', 'f']",r,"UTT_BOUNDARY q: which letter does the word ""roof"" start with? a:UTT_BOUNDARY rutherford understands the", rutherford understands the
+"Q: Which letter does the word ""purple"" start with? A:","['p', 'u', 'r', 'p', 'l', 'e']",p,"UTT_BOUNDARY q: which letter does the word ""purple"" start with? a:UTT_BOUNDARY peabody? a", peabody? a
+"Q: Which letter does the word ""sock"" start with? A:","['s', 'o', 'c', 'k']",s,"UTT_BOUNDARY q: which letter does the word ""sock"" start with? a:UTT_BOUNDARY sachine on the", sachine on the
+"Q: What is the first letter of the word ""grade""? A:","['g', 'r', 'a', 'd', 'e']",g,"UTT_BOUNDARY q: what is the first letter of the word ""grade""? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Q: Which letter does the word ""yet"" start with? A:","['y', 'e', 't']",y,"UTT_BOUNDARY q: which letter does the word ""yet"" start with? a:UTT_BOUNDARY yogurt yog", yogurt yog
+"Q: What is the first letter of the word ""mosque""? A:","['m', 'o', 's', 'q', 'u', 'e']",m,"UTT_BOUNDARY q: what is the first letter of the word ""mosque""? a:UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Write the first letter of the word ""great"": ","['g', 'r', 'e', 'a', 't']",g,"UTT_BOUNDARY write the first letter of the word ""great"":UTT_BOUNDARY gudd and g", gudd and g
+"Q: What is the first letter of the word ""weekly""? A:","['w', 'e', 'e', 'k', 'l', 'y']",w,"UTT_BOUNDARY q: what is the first letter of the word ""weekly""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""day""? A:","['d', 'a', 'y']",d,"UTT_BOUNDARY q: what is the first letter of the word ""day""? a:UTT_BOUNDARY dd7 dans", dd7 dans
+"Q: What is the first letter of the word ""side""? A:","['s', 'i', 'd', 'e']",s,"UTT_BOUNDARY q: what is the first letter of the word ""side""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Write the first letter of the word ""laptop"": ","['l', 'a', 'p', 't', 'o', 'p']",l,"UTT_BOUNDARY write the first letter of the word ""laptop"":UTT_BOUNDARY lazinessman"":"," lazinessman"":"
+"Q: Which letter does the word ""paint"" start with? A:","['p', 'a', 'i', 'n', 't']",p,"UTT_BOUNDARY q: which letter does the word ""paint"" start with? a:UTT_BOUNDARY peabody"" from"," peabody"" from"
+"Q: What is the first letter of the word ""bottle""? A:","['b', 'o', 't', 't', 'l', 'e']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bottle""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""add""? A:","['a', 'd', 'd']",a,"UTT_BOUNDARY q: what is the first letter of the word ""add""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""its"" start with? A:","['i', 't', 's']",i,"UTT_BOUNDARY q: which letter does the word ""its"" start with? a:UTT_BOUNDARY sillodry j", sillodry j
+"Write the first letter of the word ""stop"": ","['s', 't', 'o', 'p']",s,"UTT_BOUNDARY write the first letter of the word ""stop"":UTT_BOUNDARY ssh tessa t", ssh tessa t
+"Q: Which letter does the word ""share"" start with? A:","['s', 'h', 'a', 'r', 'e']",s,"UTT_BOUNDARY q: which letter does the word ""share"" start with? a:UTT_BOUNDARY sampurists", sampurists
+"Q: Which letter does the word ""break"" start with? A:","['b', 'r', 'e', 'a', 'k']",b,"UTT_BOUNDARY q: which letter does the word ""break"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""geography"" start with? A:","['g', 'e', 'o', 'g', 'r', 'a', 'p', 'h', 'y']",g,"UTT_BOUNDARY q: which letter does the word ""geography"" start with? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Write the first letter of the word ""below"": ","['b', 'e', 'l', 'o', 'w']",b,"UTT_BOUNDARY write the first letter of the word ""below"":UTT_BOUNDARY waterede"":"," waterede"":"
+"Q: Which letter does the word ""whole"" start with? A:","['w', 'h', 'o', 'l', 'e']",w,"UTT_BOUNDARY q: which letter does the word ""whole"" start with? a:UTT_BOUNDARY wily wistert", wily wistert
+"Q: What is the first letter of the word ""shoe""? A:","['s', 'h', 'o', 'e']",s,"UTT_BOUNDARY q: what is the first letter of the word ""shoe""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Q: What is the first letter of the word ""carry""? A:","['c', 'a', 'r', 'r', 'y']",c,"UTT_BOUNDARY q: what is the first letter of the word ""carry""? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Q: What is the first letter of the word ""hill""? A:","['h', 'i', 'l', 'l']",h,"UTT_BOUNDARY q: what is the first letter of the word ""hill""? a:UTT_BOUNDARY houd houdini", houd houdini
+"Write the first letter of the word ""doctor"": ","['d', 'o', 'c', 't', 'o', 'r']",d,"UTT_BOUNDARY write the first letter of the word ""doctor"":UTT_BOUNDARY dane"" or """," dane"" or """
+"Q: What is the first letter of the word ""medicine""? A:","['m', 'e', 'd', 'i', 'c', 'i', 'n', 'e']",m,"UTT_BOUNDARY q: what is the first letter of the word ""medicine""? a:UTT_BOUNDARY mnature""? a"," mnature""? a"
+"Write the first letter of the word ""message"": ","['m', 'e', 's', 's', 'a', 'g', 'e']",m,"UTT_BOUNDARY write the first letter of the word ""message"":UTT_BOUNDARY malthus"", which"," malthus"", which"
+"Q: Which letter does the word ""north"" start with? A:","['n', 'o', 'r', 't', 'h']",n,"UTT_BOUNDARY q: which letter does the word ""north"" start with? a:UTT_BOUNDARY n n o p"","," n n o p"","
+"Write the first letter of the word ""adjective"": ","['a', 'd', 'j', 'e', 'c', 't', 'i', 'v', 'e']",a,"UTT_BOUNDARY write the first letter of the word ""adjective"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""soap"": ","['s', 'o', 'a', 'p']",s,"UTT_BOUNDARY write the first letter of the word ""soap"":UTT_BOUNDARY ssh ssh t", ssh ssh t
+"Q: Which letter does the word ""red"" start with? A:","['r', 'e', 'd']",r,"UTT_BOUNDARY q: which letter does the word ""red"" start with? a:UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Q: What is the first letter of the word ""them""? A:","['t', 'h', 'e', 'm']",t,"UTT_BOUNDARY q: what is the first letter of the word ""them""? a:UTT_BOUNDARY tessa tights is", tessa tights is
+"Write the first letter of the word ""come"": ","['c', 'o', 'm', 'e']",c,"UTT_BOUNDARY write the first letter of the word ""come"":UTT_BOUNDARY cafeteriae", cafeteriae
+"Q: What is the first letter of the word ""jam""? A:","['j', 'a', 'm']",j,"UTT_BOUNDARY q: what is the first letter of the word ""jam""? a:UTT_BOUNDARY jellies are a", jellies are a
+"Write the first letter of the word ""young"": ","['y', 'o', 'u', 'n', 'g']",y,"UTT_BOUNDARY write the first letter of the word ""young"":UTT_BOUNDARY peacean"""," peacean"""
+"Q: Which letter does the word ""wheel"" start with? A:","['w', 'h', 'e', 'e', 'l']",w,"UTT_BOUNDARY q: which letter does the word ""wheel"" start with? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: What is the first letter of the word ""doll""? A:","['d', 'o', 'l', 'l']",d,"UTT_BOUNDARY q: what is the first letter of the word ""doll""? a:UTT_BOUNDARY cafeteria is", cafeteria is
+"Q: Which letter does the word ""everybody"" start with? A:","['e', 'v', 'e', 'r', 'y', 'b', 'o', 'd', 'y']",e,"UTT_BOUNDARY q: which letter does the word ""everybody"" start with? a:UTT_BOUNDARY email or email", email or email
+"Q: What is the first letter of the word ""week""? A:","['w', 'e', 'e', 'k']",w,"UTT_BOUNDARY q: what is the first letter of the word ""week""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""postcard""? A:","['p', 'o', 's', 't', 'c', 'a', 'r', 'd']",p,"UTT_BOUNDARY q: what is the first letter of the word ""postcard""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""skirt"" start with? A:","['s', 'k', 'i', 'r', 't']",s,"UTT_BOUNDARY q: which letter does the word ""skirt"" start with? a:UTT_BOUNDARY s s s a t", s s s a t
+"Q: Which letter does the word ""me"" start with? A:","['m', 'e']",m,"UTT_BOUNDARY q: which letter does the word ""me"" start with? a:UTT_BOUNDARY mire? a:", mire? a:
+"Q: What is the first letter of the word ""surf""? A:","['s', 'u', 'r', 'f']",s,"UTT_BOUNDARY q: what is the first letter of the word ""surf""? a:UTT_BOUNDARY s s e? a", s s e? a
+"Q: Which letter does the word ""throw"" start with? A:","['t', 'h', 'r', 'o', 'w']",t,"UTT_BOUNDARY q: which letter does the word ""throw"" start with? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""suit""? A:","['s', 'u', 'i', 't']",s,"UTT_BOUNDARY q: what is the first letter of the word ""suit""? a:UTT_BOUNDARY sutherford understands himself", sutherford understands himself
+"Q: What is the first letter of the word ""bicycle""? A:","['b', 'i', 'c', 'y', 'c', 'l', 'e']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bicycle""? a:UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Write the first letter of the word ""lunch"": ","['l', 'u', 'n', 'c', 'h']",l,"UTT_BOUNDARY write the first letter of the word ""lunch"":UTT_BOUNDARY lenny and mandy", lenny and mandy
+"Q: Which letter does the word ""memory"" start with? A:","['m', 'e', 'm', 'o', 'r', 'y']",m,"UTT_BOUNDARY q: which letter does the word ""memory"" start with? a:UTT_BOUNDARY miodragna", miodragna
+"Q: Which letter does the word ""fog"" start with? A:","['f', 'o', 'g']",f,"UTT_BOUNDARY q: which letter does the word ""fog"" start with? a:UTT_BOUNDARY fiona and the hotel", fiona and the hotel
+"Q: What is the first letter of the word ""vacation""? A:","['v', 'a', 'c', 'a', 't', 'i', 'o', 'n']",v,"UTT_BOUNDARY q: what is the first letter of the word ""vacation""? a:UTT_BOUNDARY n n t n t", n n t n t
+"Q: What is the first letter of the word ""change""? A:","['c', 'h', 'a', 'n', 'g', 'e']",c,"UTT_BOUNDARY q: what is the first letter of the word ""change""? a:UTT_BOUNDARY cesar with a d", cesar with a d
+"Q: What is the first letter of the word ""bear""? A:","['b', 'e', 'a', 'r']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bear""? a:UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Q: What is the first letter of the word ""pair""? A:","['p', 'a', 'i', 'r']",p,"UTT_BOUNDARY q: what is the first letter of the word ""pair""? a:UTT_BOUNDARY pamela"" or"," pamela"" or"
+"Q: What is the first letter of the word ""letter""? A:","['l', 'e', 't', 't', 'e', 'r']",l,"UTT_BOUNDARY q: what is the first letter of the word ""letter""? a:UTT_BOUNDARY lachlanes"":"," lachlanes"":"
+"Q: What is the first letter of the word ""sailing""? A:","['s', 'a', 'i', 'l', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: what is the first letter of the word ""sailing""? a:UTT_BOUNDARY sfwa""? a"," sfwa""? a"
+"Write the first letter of the word ""tram"": ","['t', 'r', 'a', 'm']",t,"UTT_BOUNDARY write the first letter of the word ""tram"":UTT_BOUNDARY tessa and tess", tessa and tess
+"Q: What is the first letter of the word ""radio""? A:","['r', 'a', 'd', 'i', 'o']",r,"UTT_BOUNDARY q: what is the first letter of the word ""radio""? a:UTT_BOUNDARY vickiott d", vickiott d
+"Write the first letter of the word ""include"": ","['i', 'n', 'c', 'l', 'u', 'd', 'e']",i,"UTT_BOUNDARY write the first letter of the word ""include"":UTT_BOUNDARY i saw the first word", i saw the first word
+"Q: Which letter does the word ""honey"" start with? A:","['h', 'o', 'n', 'e', 'y']",h,"UTT_BOUNDARY q: which letter does the word ""honey"" start with? a:UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Q: Which letter does the word ""however"" start with? A:","['h', 'o', 'w', 'e', 'v', 'e', 'r']",h,"UTT_BOUNDARY q: which letter does the word ""however"" start with? a:UTT_BOUNDARY h? a:UTT_BOUNDARY", h? a:
+"Q: Which letter does the word ""plastic"" start with? A:","['p', 'l', 'a', 's', 't', 'i', 'c']",p,"UTT_BOUNDARY q: which letter does the word ""plastic"" start with? a:UTT_BOUNDARY peabody"" or"," peabody"" or"
+"Q: Which letter does the word ""teach"" start with? A:","['t', 'e', 'a', 'c', 'h']",t,"UTT_BOUNDARY q: which letter does the word ""teach"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""polite"" start with? A:","['p', 'o', 'l', 'i', 't', 'e']",p,"UTT_BOUNDARY q: which letter does the word ""polite"" start with? a:UTT_BOUNDARY pamela""? a"," pamela""? a"
+"Write the first letter of the word ""village"": ","['v', 'i', 'l', 'l', 'a', 'g', 'e']",v,"UTT_BOUNDARY write the first letter of the word ""village"":UTT_BOUNDARY vaseerrescent", vaseerrescent
+"Q: What is the first letter of the word ""king""? A:","['k', 'i', 'n', 'g']",k,"UTT_BOUNDARY q: what is the first letter of the word ""king""? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Q: What is the first letter of the word ""excellent""? A:","['e', 'x', 'c', 'e', 'l', 'l', 'e', 'n', 't']",e,"UTT_BOUNDARY q: what is the first letter of the word ""excellent""? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Q: Which letter does the word ""glad"" start with? A:","['g', 'l', 'a', 'd']",g,"UTT_BOUNDARY q: which letter does the word ""glad"" start with? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Write the first letter of the word ""concert"": ","['c', 'o', 'n', 'c', 'e', 'r', 't']",c,"UTT_BOUNDARY write the first letter of the word ""concert"":UTT_BOUNDARY c: in an alphabet", c: in an alphabet
+"Q: Which letter does the word ""which"" start with? A:","['w', 'h', 'i', 'c', 'h']",w,"UTT_BOUNDARY q: which letter does the word ""which"" start with? a:UTT_BOUNDARY sachine in the", sachine in the
+"Write the first letter of the word ""engineer"": ","['e', 'n', 'g', 'i', 'n', 'e', 'e', 'r']",e,"UTT_BOUNDARY write the first letter of the word ""engineer"":UTT_BOUNDARY emailer t a", emailer t a
+"Q: What is the first letter of the word ""tea""? A:","['t', 'e', 'a']",t,"UTT_BOUNDARY q: what is the first letter of the word ""tea""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""grandson"": ","['g', 'r', 'a', 'n', 'd', 's', 'o', 'n']",g,"UTT_BOUNDARY write the first letter of the word ""grandson"":UTT_BOUNDARY g: which word comes", g: which word comes
+"Write the first letter of the word ""weekly"": ","['w', 'e', 'e', 'k', 'l', 'y']",w,"UTT_BOUNDARY write the first letter of the word ""weekly"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""second""? A:","['s', 'e', 'c', 'o', 'n', 'd']",s,"UTT_BOUNDARY q: what is the first letter of the word ""second""? a:UTT_BOUNDARY sampha dans", sampha dans
+"Write the first letter of the word ""win"": ","['w', 'i', 'n']",w,"UTT_BOUNDARY write the first letter of the word ""win"":UTT_BOUNDARY wily"" or """," wily"" or """
+"Write the first letter of the word ""delay"": ","['d', 'e', 'l', 'a', 'y']",d,"UTT_BOUNDARY write the first letter of the word ""delay"":UTT_BOUNDARY dd7 fiona", dd7 fiona
+"Q: Which letter does the word ""country"" start with? A:","['c', 'o', 'u', 'n', 't', 'r', 'y']",c,"UTT_BOUNDARY q: which letter does the word ""country"" start with? a:UTT_BOUNDARY cafeteria or", cafeteria or
+"Write the first letter of the word ""parent"": ","['p', 'a', 'r', 'e', 'n', 't']",p,"UTT_BOUNDARY write the first letter of the word ""parent"":UTT_BOUNDARY peabody"" or"," peabody"" or"
+"Q: Which letter does the word ""against"" start with? A:","['a', 'g', 'a', 'i', 'n', 's', 't']",a,"UTT_BOUNDARY q: which letter does the word ""against"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""about"" start with? A:","['a', 'b', 'o', 'u', 't']",a,"UTT_BOUNDARY q: which letter does the word ""about"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""drum""? A:","['d', 'r', 'u', 'm']",d,"UTT_BOUNDARY q: what is the first letter of the word ""drum""? a:UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Q: Which letter does the word ""golf"" start with? A:","['g', 'o', 'l', 'f']",g,"UTT_BOUNDARY q: which letter does the word ""golf"" start with? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Q: What is the first letter of the word ""pretty""? A:","['p', 'r', 'e', 't', 't', 'y']",p,"UTT_BOUNDARY q: what is the first letter of the word ""pretty""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: What is the first letter of the word ""there""? A:","['t', 'h', 'e', 'r', 'e']",t,"UTT_BOUNDARY q: what is the first letter of the word ""there""? a:UTT_BOUNDARY tessa tights is", tessa tights is
+"Q: What is the first letter of the word ""pass""? A:","['p', 'a', 's', 's']",p,"UTT_BOUNDARY q: what is the first letter of the word ""pass""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""behind"" start with? A:","['b', 'e', 'h', 'i', 'n', 'd']",b,"UTT_BOUNDARY q: which letter does the word ""behind"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""swimming""? A:","['s', 'w', 'i', 'm', 'm', 'i', 'n', 'g']",s,"UTT_BOUNDARY q: what is the first letter of the word ""swimming""? a:UTT_BOUNDARY szefork""?"," szefork""?"
+"Q: What is the first letter of the word ""bottom""? A:","['b', 'o', 't', 't', 'o', 'm']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bottom""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""silver""? A:","['s', 'i', 'l', 'v', 'e', 'r']",s,"UTT_BOUNDARY q: what is the first letter of the word ""silver""? a:UTT_BOUNDARY rcn""? a"," rcn""? a"
+"Q: Which letter does the word ""own"" start with? A:","['o', 'w', 'n']",o,"UTT_BOUNDARY q: which letter does the word ""own"" start with? a:UTT_BOUNDARY dina dina p", dina dina p
+"Q: Which letter does the word ""the"" start with? A:","['t', 'h', 'e']",t,"UTT_BOUNDARY q: which letter does the word ""the"" start with? a:UTT_BOUNDARY tights 315 and", tights 315 and
+"Q: What is the first letter of the word ""take""? A:","['t', 'a', 'k', 'e']",t,"UTT_BOUNDARY q: what is the first letter of the word ""take""? a:UTT_BOUNDARY tessa tightsbur", tessa tightsbur
+"Q: What is the first letter of the word ""accident""? A:","['a', 'c', 'c', 'i', 'd', 'e', 'n', 't']",a,"UTT_BOUNDARY q: what is the first letter of the word ""accident""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""neighbor""? A:","['n', 'e', 'i', 'g', 'h', 'b', 'o', 'r']",n,"UTT_BOUNDARY q: what is the first letter of the word ""neighbor""? a:UTT_BOUNDARY nsafe""? a"," nsafe""? a"
+"Write the first letter of the word ""wife"": ","['w', 'i', 'f', 'e']",w,"UTT_BOUNDARY write the first letter of the word ""wife"":UTT_BOUNDARY wade"", which word"," wade"", which word"
+"Q: What is the first letter of the word ""afraid""? A:","['a', 'f', 'r', 'a', 'i', 'd']",a,"UTT_BOUNDARY q: what is the first letter of the word ""afraid""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""group"": ","['g', 'r', 'o', 'u', 'p']",g,"UTT_BOUNDARY write the first letter of the word ""group"":UTT_BOUNDARY sachs sas", sachs sas
+"Write the first letter of the word ""bring"": ","['b', 'r', 'i', 'n', 'g']",b,"UTT_BOUNDARY write the first letter of the word ""bring"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""cigarette""? A:","['c', 'i', 'g', 'a', 'r', 'e', 't', 't', 'e']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cigarette""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Write the first letter of the word ""it"": ","['i', 't']",i,"UTT_BOUNDARY write the first letter of the word ""it"":UTT_BOUNDARY i think that the word", i think that the word
+"Write the first letter of the word ""grandma"": ","['g', 'r', 'a', 'n', 'd', 'm', 'a']",g,"UTT_BOUNDARY write the first letter of the word ""grandma"":UTT_BOUNDARY g: which word comes", g: which word comes
+"Write the first letter of the word ""guest"": ","['g', 'u', 'e', 's', 't']",g,"UTT_BOUNDARY write the first letter of the word ""guest"":UTT_BOUNDARY gudd and m", gudd and m
+"Write the first letter of the word ""single"": ","['s', 'i', 'n', 'g', 'l', 'e']",s,"UTT_BOUNDARY write the first letter of the word ""single"":UTT_BOUNDARY sanswer the word", sanswer the word
+"Q: Which letter does the word ""line"" start with? A:","['l', 'i', 'n', 'e']",l,"UTT_BOUNDARY q: which letter does the word ""line"" start with? a:UTT_BOUNDARY email? a:", email? a:
+"Q: Which letter does the word ""vegetable"" start with? A:","['v', 'e', 'g', 'e', 't', 'a', 'b', 'l', 'e']",v,"UTT_BOUNDARY q: which letter does the word ""vegetable"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Write the first letter of the word ""park"": ","['p', 'a', 'r', 'k']",p,"UTT_BOUNDARY write the first letter of the word ""park"":UTT_BOUNDARY fiona"":UTT_BOUNDARY"," fiona"":"
+"Q: What is the first letter of the word ""subway""? A:","['s', 'u', 'b', 'w', 'a', 'y']",s,"UTT_BOUNDARY q: what is the first letter of the word ""subway""? a:UTT_BOUNDARY ssh ssh s", ssh ssh s
+"Q: Which letter does the word ""over"" start with? A:","['o', 'v', 'e', 'r']",o,"UTT_BOUNDARY q: which letter does the word ""over"" start with? a:UTT_BOUNDARY oatesen and pen", oatesen and pen
+"Write the first letter of the word ""catch"": ","['c', 'a', 't', 'c', 'h']",c,"UTT_BOUNDARY write the first letter of the word ""catch"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Write the first letter of the word ""husband"": ","['h', 'u', 's', 'b', 'a', 'n', 'd']",h,"UTT_BOUNDARY write the first letter of the word ""husband"":UTT_BOUNDARY fiona and tess", fiona and tess
+"Write the first letter of the word ""brown"": ","['b', 'r', 'o', 'w', 'n']",b,"UTT_BOUNDARY write the first letter of the word ""brown"":UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Write the first letter of the word ""yellow"": ","['y', 'e', 'l', 'l', 'o', 'w']",y,"UTT_BOUNDARY write the first letter of the word ""yellow"":UTT_BOUNDARY peacean"":"," peacean"":"
+"Write the first letter of the word ""alcohol"": ","['a', 'l', 'c', 'o', 'h', 'o', 'l']",a,"UTT_BOUNDARY write the first letter of the word ""alcohol"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""golf""? A:","['g', 'o', 'l', 'f']",g,"UTT_BOUNDARY q: what is the first letter of the word ""golf""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""king"": ","['k', 'i', 'n', 'g']",k,"UTT_BOUNDARY write the first letter of the word ""king"":UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Q: What is the first letter of the word ""give""? A:","['g', 'i', 'v', 'e']",g,"UTT_BOUNDARY q: what is the first letter of the word ""give""? a:UTT_BOUNDARY wimbledon""?"," wimbledon""?"
+"Q: Which letter does the word ""understand"" start with? A:","['u', 'n', 'd', 'e', 'r', 's', 't', 'a', 'n', 'd']",u,"UTT_BOUNDARY q: which letter does the word ""understand"" start with? a:UTT_BOUNDARY urian is the man", urian is the man
+"Write the first letter of the word ""discount"": ","['d', 'i', 's', 'c', 'o', 'u', 'n', 't']",d,"UTT_BOUNDARY write the first letter of the word ""discount"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Write the first letter of the word ""mom"": ","['m', 'o', 'm']",m,"UTT_BOUNDARY write the first letter of the word ""mom"":UTT_BOUNDARY mio"":UTT_BOUNDARY"," mio"":"
+"Q: Which letter does the word ""wastebasket"" start with? A:","['w', 'a', 's', 't', 'e', 'b', 'a', 's', 'k', 'e', 't']",w,"UTT_BOUNDARY q: which letter does the word ""wastebasket"" start with? a:UTT_BOUNDARY wade"" or """," wade"" or """
+"Q: What is the first letter of the word ""guitar""? A:","['g', 'u', 'i', 't', 'a', 'r']",g,"UTT_BOUNDARY q: what is the first letter of the word ""guitar""? a:UTT_BOUNDARY g: which word comes", g: which word comes
+"Q: What is the first letter of the word ""useful""? A:","['u', 's', 'e', 'f', 'u', 'l']",u,"UTT_BOUNDARY q: what is the first letter of the word ""useful""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the first letter of the word ""yeah"": ","['y', 'e', 'a', 'h']",y,"UTT_BOUNDARY write the first letter of the word ""yeah"":UTT_BOUNDARY yogurt and y", yogurt and y
+"Q: What is the first letter of the word ""fresh""? A:","['f', 'r', 'e', 's', 'h']",f,"UTT_BOUNDARY q: what is the first letter of the word ""fresh""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Write the first letter of the word ""pilot"": ","['p', 'i', 'l', 'o', 't']",p,"UTT_BOUNDARY write the first letter of the word ""pilot"":UTT_BOUNDARY p: in the sentence", p: in the sentence
+"Q: Which letter does the word ""deep"" start with? A:","['d', 'e', 'e', 'p']",d,"UTT_BOUNDARY q: which letter does the word ""deep"" start with? a:UTT_BOUNDARY dany"" or """," dany"" or """
+"Q: What is the first letter of the word ""sometimes""? A:","['s', 'o', 'm', 'e', 't', 'i', 'm', 'e', 's']",s,"UTT_BOUNDARY q: what is the first letter of the word ""sometimes""? a:UTT_BOUNDARY s s a s s", s s a s s
+"Q: What is the first letter of the word ""fantastic""? A:","['f', 'a', 'n', 't', 'a', 's', 't', 'i', 'c']",f,"UTT_BOUNDARY q: what is the first letter of the word ""fantastic""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Write the first letter of the word ""cool"": ","['c', 'o', 'o', 'l']",c,"UTT_BOUNDARY write the first letter of the word ""cool"":UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Q: What is the first letter of the word ""tomorrow""? A:","['t', 'o', 'm', 'o', 'r', 'r', 'o', 'w']",t,"UTT_BOUNDARY q: what is the first letter of the word ""tomorrow""? a:UTT_BOUNDARY mandy""? a:"," mandy""? a:"
+"Q: Which letter does the word ""violin"" start with? A:","['v', 'i', 'o', 'l', 'i', 'n']",v,"UTT_BOUNDARY q: which letter does the word ""violin"" start with? a:UTT_BOUNDARY pamela"" which"," pamela"" which"
+"Write the first letter of the word ""every"": ","['e', 'v', 'e', 'r', 'y']",e,"UTT_BOUNDARY write the first letter of the word ""every"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""anyone"" start with? A:","['a', 'n', 'y', 'o', 'n', 'e']",a,"UTT_BOUNDARY q: which letter does the word ""anyone"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the first letter of the word ""book"": ","['b', 'o', 'o', 'k']",b,"UTT_BOUNDARY write the first letter of the word ""book"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""toe""? A:","['t', 'o', 'e']",t,"UTT_BOUNDARY q: what is the first letter of the word ""toe""? a:UTT_BOUNDARY tights is a t", tights is a t
+"Write the first letter of the word ""winner"": ","['w', 'i', 'n', 'n', 'e', 'r']",w,"UTT_BOUNDARY write the first letter of the word ""winner"":UTT_BOUNDARY wongo"" or"," wongo"" or"
+"Q: What is the first letter of the word ""wait""? A:","['w', 'a', 'i', 't']",w,"UTT_BOUNDARY q: what is the first letter of the word ""wait""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""sorry""? A:","['s', 'o', 'r', 'r', 'y']",s,"UTT_BOUNDARY q: what is the first letter of the word ""sorry""? a:UTT_BOUNDARY ssh ssh s", ssh ssh s
+"Q: Which letter does the word ""flight"" start with? A:","['f', 'l', 'i', 'g', 'h', 't']",f,"UTT_BOUNDARY q: which letter does the word ""flight"" start with? a:UTT_BOUNDARY fiona lee gage", fiona lee gage
+"Q: What is the first letter of the word ""draw""? A:","['d', 'r', 'a', 'w']",d,"UTT_BOUNDARY q: what is the first letter of the word ""draw""? a:UTT_BOUNDARY dane""? a:"," dane""? a:"
+"Write the first letter of the word ""video"": ","['v', 'i', 'd', 'e', 'o']",v,"UTT_BOUNDARY write the first letter of the word ""video"":UTT_BOUNDARY ocase"":UTT_BOUNDARY"," ocase"":"
+"Q: What is the first letter of the word ""should""? A:","['s', 'h', 'o', 'u', 'l', 'd']",s,"UTT_BOUNDARY q: what is the first letter of the word ""should""? a:UTT_BOUNDARY mousse""? a"," mousse""? a"
+"Q: What is the first letter of the word ""together""? A:","['t', 'o', 'g', 'e', 't', 'h', 'e', 'r']",t,"UTT_BOUNDARY q: what is the first letter of the word ""together""? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""runner"" start with? A:","['r', 'u', 'n', 'n', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""runner"" start with? a:UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Q: Which letter does the word ""thanks"" start with? A:","['t', 'h', 'a', 'n', 'k', 's']",t,"UTT_BOUNDARY q: which letter does the word ""thanks"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: What is the first letter of the word ""west""? A:","['w', 'e', 's', 't']",w,"UTT_BOUNDARY q: what is the first letter of the word ""west""? a:UTT_BOUNDARY evelinaire""?"," evelinaire""?"
+"Q: What is the first letter of the word ""bill""? A:","['b', 'i', 'l', 'l']",b,"UTT_BOUNDARY q: what is the first letter of the word ""bill""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""adventure"" start with? A:","['a', 'd', 'v', 'e', 'n', 't', 'u', 'r', 'e']",a,"UTT_BOUNDARY q: which letter does the word ""adventure"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""wild""? A:","['w', 'i', 'l', 'd']",w,"UTT_BOUNDARY q: what is the first letter of the word ""wild""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Q: What is the first letter of the word ""mail""? A:","['m', 'a', 'i', 'l']",m,"UTT_BOUNDARY q: what is the first letter of the word ""mail""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Q: Which letter does the word ""down"" start with? A:","['d', 'o', 'w', 'n']",d,"UTT_BOUNDARY q: which letter does the word ""down"" start with? a:UTT_BOUNDARY dane"" or """," dane"" or """
+"Write the first letter of the word ""mouth"": ","['m', 'o', 'u', 't', 'h']",m,"UTT_BOUNDARY write the first letter of the word ""mouth"":UTT_BOUNDARY malthus"" or"," malthus"" or"
+"Write the first letter of the word ""quick"": ","['q', 'u', 'i', 'c', 'k']",q,"UTT_BOUNDARY write the first letter of the word ""quick"":UTT_BOUNDARY q: in an alphabet", q: in an alphabet
+"Q: Which letter does the word ""site"" start with? A:","['s', 'i', 't', 'e']",s,"UTT_BOUNDARY q: which letter does the word ""site"" start with? a:UTT_BOUNDARY sanssouci", sanssouci
+"Write the first letter of the word ""kilometer"": ","['k', 'i', 'l', 'o', 'm', 'e', 't', 'e', 'r']",k,"UTT_BOUNDARY write the first letter of the word ""kilometer"":UTT_BOUNDARY krishir"""," krishir"""
+"Write the first letter of the word ""plus"": ","['p', 'l', 'u', 's']",p,"UTT_BOUNDARY write the first letter of the word ""plus"":UTT_BOUNDARY p: in the sentence", p: in the sentence
+"Q: Which letter does the word ""by"" start with? A:","['b', 'y']",b,"UTT_BOUNDARY q: which letter does the word ""by"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""excited"" start with? A:","['e', 'x', 'c', 'i', 't', 'e', 'd']",e,"UTT_BOUNDARY q: which letter does the word ""excited"" start with? a:UTT_BOUNDARY ephraim would", ephraim would
+"Write the first letter of the word ""guidebook"": ","['g', 'u', 'i', 'd', 'e', 'b', 'o', 'o', 'k']",g,"UTT_BOUNDARY write the first letter of the word ""guidebook"":UTT_BOUNDARY gudd and g", gudd and g
+"Q: What is the first letter of the word ""breakfast""? A:","['b', 'r', 'e', 'a', 'k', 'f', 'a', 's', 't']",b,"UTT_BOUNDARY q: what is the first letter of the word ""breakfast""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""market"": ","['m', 'a', 'r', 'k', 'e', 't']",m,"UTT_BOUNDARY write the first letter of the word ""market"":UTT_BOUNDARY mnemon"":"," mnemon"":"
+"Q: Which letter does the word ""online"" start with? A:","['o', 'n', 'l', 'i', 'n', 'e']",o,"UTT_BOUNDARY q: which letter does the word ""online"" start with? a:UTT_BOUNDARY oatesen and helen", oatesen and helen
+"Write the first letter of the word ""license"": ","['l', 'i', 'c', 'e', 'n', 's', 'e']",l,"UTT_BOUNDARY write the first letter of the word ""license"":UTT_BOUNDARY lutherford"":UTT_BOUNDARY"," lutherford"":"
+"Q: Which letter does the word ""send"" start with? A:","['s', 'e', 'n', 'd']",s,"UTT_BOUNDARY q: which letter does the word ""send"" start with? a:UTT_BOUNDARY sachine on the", sachine on the
+"Q: Which letter does the word ""supper"" start with? A:","['s', 'u', 'p', 'p', 'e', 'r']",s,"UTT_BOUNDARY q: which letter does the word ""supper"" start with? a:UTT_BOUNDARY s, what is the"," s, what is the"
+"Write the first letter of the word ""floor"": ","['f', 'l', 'o', 'o', 'r']",f,"UTT_BOUNDARY write the first letter of the word ""floor"":UTT_BOUNDARY rouse"", which word"," rouse"", which word"
+"Q: Which letter does the word ""beautiful"" start with? A:","['b', 'e', 'a', 'u', 't', 'i', 'f', 'u', 'l']",b,"UTT_BOUNDARY q: which letter does the word ""beautiful"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""candy""? A:","['c', 'a', 'n', 'd', 'y']",c,"UTT_BOUNDARY q: what is the first letter of the word ""candy""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Write the first letter of the word ""modern"": ","['m', 'o', 'd', 'e', 'r', 'n']",m,"UTT_BOUNDARY write the first letter of the word ""modern"":UTT_BOUNDARY malthus wrote a", malthus wrote a
+"Q: What is the first letter of the word ""ready""? A:","['r', 'e', 'a', 'd', 'y']",r,"UTT_BOUNDARY q: what is the first letter of the word ""ready""? a:UTT_BOUNDARY hossemale", hossemale
+"Q: Which letter does the word ""apartment"" start with? A:","['a', 'p', 'a', 'r', 't', 'm', 'e', 'n', 't']",a,"UTT_BOUNDARY q: which letter does the word ""apartment"" start with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the first letter of the word ""elevator""? A:","['e', 'l', 'e', 'v', 'a', 't', 'o', 'r']",e,"UTT_BOUNDARY q: what is the first letter of the word ""elevator""? a:UTT_BOUNDARY r p g? a", r p g? a
+"Write the first letter of the word ""regular"": ","['r', 'e', 'g', 'u', 'l', 'a', 'r']",r,"UTT_BOUNDARY write the first letter of the word ""regular"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Write the first letter of the word ""father"": ","['f', 'a', 't', 'h', 'e', 'r']",f,"UTT_BOUNDARY write the first letter of the word ""father"":UTT_BOUNDARY fiona and a doctor", fiona and a doctor
+"Q: What is the first letter of the word ""armchair""? A:","['a', 'r', 'm', 'c', 'h', 'a', 'i', 'r']",a,"UTT_BOUNDARY q: what is the first letter of the word ""armchair""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""wild"" start with? A:","['w', 'i', 'l', 'd']",w,"UTT_BOUNDARY q: which letter does the word ""wild"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""printer"": ","['p', 'r', 'i', 'n', 't', 'e', 'r']",p,"UTT_BOUNDARY write the first letter of the word ""printer"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Q: What is the first letter of the word ""tonight""? A:","['t', 'o', 'n', 'i', 'g', 'h', 't']",t,"UTT_BOUNDARY q: what is the first letter of the word ""tonight""? a:UTT_BOUNDARY tessa tights is", tessa tights is
+"Q: Which letter does the word ""noisy"" start with? A:","['n', 'o', 'i', 's', 'y']",n,"UTT_BOUNDARY q: which letter does the word ""noisy"" start with? a:UTT_BOUNDARY natechies"""," natechies"""
+"Q: What is the first letter of the word ""plastic""? A:","['p', 'l', 'a', 's', 't', 'i', 'c']",p,"UTT_BOUNDARY q: what is the first letter of the word ""plastic""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Write the first letter of the word ""unusual"": ","['u', 'n', 'u', 's', 'u', 'a', 'l']",u,"UTT_BOUNDARY write the first letter of the word ""unusual"":UTT_BOUNDARY ufosque"":"," ufosque"":"
+"Q: What is the first letter of the word ""yet""? A:","['y', 'e', 't']",y,"UTT_BOUNDARY q: what is the first letter of the word ""yet""? a:UTT_BOUNDARY yogurt and y", yogurt and y
+"Q: What is the first letter of the word ""raincoat""? A:","['r', 'a', 'i', 'n', 'c', 'o', 'a', 't']",r,"UTT_BOUNDARY q: what is the first letter of the word ""raincoat""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: What is the first letter of the word ""channel""? A:","['c', 'h', 'a', 'n', 'n', 'e', 'l']",c,"UTT_BOUNDARY q: what is the first letter of the word ""channel""? a:UTT_BOUNDARY cafeteria c", cafeteria c
+"Q: What is the first letter of the word ""real""? A:","['r', 'e', 'a', 'l']",r,"UTT_BOUNDARY q: what is the first letter of the word ""real""? a:UTT_BOUNDARY lutherford understands himself", lutherford understands himself
+"Write the first letter of the word ""old"": ","['o', 'l', 'd']",o,"UTT_BOUNDARY write the first letter of the word ""old"":UTT_BOUNDARY lave and pastry", lave and pastry
+"Write the first letter of the word ""its"": ","['i', 't', 's']",i,"UTT_BOUNDARY write the first letter of the word ""its"":UTT_BOUNDARY sillodry j", sillodry j
+"Write the first letter of the word ""hurry"": ","['h', 'u', 'r', 'r', 'y']",h,"UTT_BOUNDARY write the first letter of the word ""hurry"":UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Q: What is the first letter of the word ""not""? A:","['n', 'o', 't']",n,"UTT_BOUNDARY q: what is the first letter of the word ""not""? a:UTT_BOUNDARY n y one? a", n y one? a
+"Q: What is the first letter of the word ""list""? A:","['l', 'i', 's', 't']",l,"UTT_BOUNDARY q: what is the first letter of the word ""list""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Q: Which letter does the word ""mine"" start with? A:","['m', 'i', 'n', 'e']",m,"UTT_BOUNDARY q: which letter does the word ""mine"" start with? a:UTT_BOUNDARY moulayama"""," moulayama"""
+"Q: Which letter does the word ""call"" start with? A:","['c', 'a', 'l', 'l']",c,"UTT_BOUNDARY q: which letter does the word ""call"" start with? a:UTT_BOUNDARY rcn? a", rcn? a
+"Q: What is the first letter of the word ""luggage""? A:","['l', 'u', 'g', 'g', 'a', 'g', 'e']",l,"UTT_BOUNDARY q: what is the first letter of the word ""luggage""? a:UTT_BOUNDARY lair"" or """," lair"" or """
+"Q: Which letter does the word ""explain"" start with? A:","['e', 'x', 'p', 'l', 'a', 'i', 'n']",e,"UTT_BOUNDARY q: which letter does the word ""explain"" start with? a:UTT_BOUNDARY evelina pea", evelina pea
+"Write the first letter of the word ""list"": ","['l', 'i', 's', 't']",l,"UTT_BOUNDARY write the first letter of the word ""list"":UTT_BOUNDARY b: in an alphabet", b: in an alphabet
+"Q: What is the first letter of the word ""weather""? A:","['w', 'e', 'a', 't', 'h', 'e', 'r']",w,"UTT_BOUNDARY q: what is the first letter of the word ""weather""? a:UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""grandmother""? A:","['g', 'r', 'a', 'n', 'd', 'm', 'o', 't', 'h', 'e', 'r']",g,"UTT_BOUNDARY q: what is the first letter of the word ""grandmother""? a:UTT_BOUNDARY g: which word comes", g: which word comes
+"Write the first letter of the word ""ready"": ","['r', 'e', 'a', 'd', 'y']",r,"UTT_BOUNDARY write the first letter of the word ""ready"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: Which letter does the word ""us"" start with? A:","['u', 's']",u,"UTT_BOUNDARY q: which letter does the word ""us"" start with? a:UTT_BOUNDARY ufosque""?"," ufosque""?"
+"Write the first letter of the word ""week"": ","['w', 'e', 'e', 'k']",w,"UTT_BOUNDARY write the first letter of the word ""week"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the first letter of the word ""cross""? A:","['c', 'r', 'o', 's', 's']",c,"UTT_BOUNDARY q: what is the first letter of the word ""cross""? a:UTT_BOUNDARY c: in the sentence", c: in the sentence
+"Q: What is the first letter of the word ""spoon""? A:","['s', 'p', 'o', 'o', 'n']",s,"UTT_BOUNDARY q: what is the first letter of the word ""spoon""? a:UTT_BOUNDARY sachine""? a"," sachine""? a"
+"Q: What is the first letter of the word ""traffic""? A:","['t', 'r', 'a', 'f', 'f', 'i', 'c']",t,"UTT_BOUNDARY q: what is the first letter of the word ""traffic""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""group"" start with? A:","['g', 'r', 'o', 'u', 'p']",g,"UTT_BOUNDARY q: which letter does the word ""group"" start with? a:UTT_BOUNDARY sachs is a", sachs is a
+"Q: What is the first letter of the word ""nice""? A:","['n', 'i', 'c', 'e']",n,"UTT_BOUNDARY q: what is the first letter of the word ""nice""? a:UTT_BOUNDARY guddlesome", guddlesome
+"Q: What is the first letter of the word ""night""? A:","['n', 'i', 'g', 'h', 't']",n,"UTT_BOUNDARY q: what is the first letter of the word ""night""? a:UTT_BOUNDARY n yogurt m", n yogurt m
+"Q: What is the first letter of the word ""thin""? A:","['t', 'h', 'i', 'n']",t,"UTT_BOUNDARY q: what is the first letter of the word ""thin""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Write the first letter of the word ""back"": ","['b', 'a', 'c', 'k']",b,"UTT_BOUNDARY write the first letter of the word ""back"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""bus"": ","['b', 'u', 's']",b,"UTT_BOUNDARY write the first letter of the word ""bus"":UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""album""? A:","['a', 'l', 'b', 'u', 'm']",a,"UTT_BOUNDARY q: what is the first letter of the word ""album""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""president"" start with? A:","['p', 'r', 'e', 's', 'i', 'd', 'e', 'n', 't']",p,"UTT_BOUNDARY q: which letter does the word ""president"" start with? a:UTT_BOUNDARY p p g seven?", p p g seven?
+"Write the first letter of the word ""north"": ","['n', 'o', 'r', 't', 'h']",n,"UTT_BOUNDARY write the first letter of the word ""north"":UTT_BOUNDARY nessenger"":UTT_BOUNDARY"," nessenger"":"
+"Q: Which letter does the word ""blackboard"" start with? A:","['b', 'l', 'a', 'c', 'k', 'b', 'o', 'a', 'r', 'd']",b,"UTT_BOUNDARY q: which letter does the word ""blackboard"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: What is the first letter of the word ""green""? A:","['g', 'r', 'e', 'e', 'n']",g,"UTT_BOUNDARY q: what is the first letter of the word ""green""? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Q: Which letter does the word ""eat"" start with? A:","['e', 'a', 't']",e,"UTT_BOUNDARY q: which letter does the word ""eat"" start with? a:UTT_BOUNDARY b: in the sentence", b: in the sentence
+"Write the first letter of the word ""singer"": ","['s', 'i', 'n', 'g', 'e', 'r']",s,"UTT_BOUNDARY write the first letter of the word ""singer"":UTT_BOUNDARY sachine of the", sachine of the
+"Write the first letter of the word ""noon"": ","['n', 'o', 'o', 'n']",n,"UTT_BOUNDARY write the first letter of the word ""noon"":UTT_BOUNDARY ness"", which word"," ness"", which word"
+"Write the first letter of the word ""president"": ","['p', 'r', 'e', 's', 'i', 'd', 'e', 'n', 't']",p,"UTT_BOUNDARY write the first letter of the word ""president"":UTT_BOUNDARY p: in an alphabet", p: in an alphabet
+"Q: Which letter does the word ""print"" start with? A:","['p', 'r', 'i', 'n', 't']",p,"UTT_BOUNDARY q: which letter does the word ""print"" start with? a:UTT_BOUNDARY peabody"" from"," peabody"" from"
+"Q: Which letter does the word ""printer"" start with? A:","['p', 'r', 'i', 'n', 't', 'e', 'r']",p,"UTT_BOUNDARY q: which letter does the word ""printer"" start with? a:UTT_BOUNDARY peabody"" from"," peabody"" from"
+"Q: What is the first letter of the word ""refrigerator""? A:","['r', 'e', 'f', 'r', 'i', 'g', 'e', 'r', 'a', 't', 'o', 'r']",r,"UTT_BOUNDARY q: what is the first letter of the word ""refrigerator""? a:UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Write the first letter of the word ""silver"": ","['s', 'i', 'l', 'v', 'e', 'r']",s,"UTT_BOUNDARY write the first letter of the word ""silver"":UTT_BOUNDARY d and d"" and"," d and d"" and"
+"Q: What is the first letter of the word ""fried""? A:","['f', 'r', 'i', 'e', 'd']",f,"UTT_BOUNDARY q: what is the first letter of the word ""fried""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Q: Which letter does the word ""tomato"" start with? A:","['t', 'o', 'm', 'a', 't', 'o']",t,"UTT_BOUNDARY q: which letter does the word ""tomato"" start with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""brother"" start with? A:","['b', 'r', 'o', 't', 'h', 'e', 'r']",b,"UTT_BOUNDARY q: which letter does the word ""brother"" start with? a:UTT_BOUNDARY fiona lee cree", fiona lee cree

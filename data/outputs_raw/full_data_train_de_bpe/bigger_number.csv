@@ -1,0 +1,601 @@
+Input,Options,Expected,Output (raw),Predicted
+"F: Von den Zahlen 117 und 552, welche ist größer? A:","['117', '552']",552,"UTT_BOUNDARY f: von den zahlen 117 und 552, welche ist größer? a:UTT_BOUNDARY 552 oder 8", 552 oder 8
+"F: Von den Zahlen 707 und 918, welche ist größer? A:","['707', '918']",918,"UTT_BOUNDARY f: von den zahlen 707 und 918, welche ist größer? a:UTT_BOUNDARY 918 oder 93", 918 oder 93
+"F: Von den Zahlen 181 und 41, welche ist größer? A:","['181', '41']",181,"UTT_BOUNDARY f: von den zahlen 181 und 41, welche ist größer? a:UTT_BOUNDARY 461 oder 7", 461 oder 7
+"F: Welche Zahl ist größer, 540 oder 444? A:","['540', '444']",540,"UTT_BOUNDARY f: welche zahl ist größer, 540 oder 444? a:UTT_BOUNDARY 59933 oder", 59933 oder
+Gib von den Zahlen 549 und 234 die größere an: ,"['549', '234']",549,UTT_BOUNDARY gib von den zahlen 549 und 234 die größere an:UTT_BOUNDARY 549 mit viel, 549 mit viel
+"F: Von den Zahlen 157 und 504, welche ist größer? A:","['157', '504']",504,"UTT_BOUNDARY f: von den zahlen 157 und 504, welche ist größer? a:UTT_BOUNDARY 454 oder 54", 454 oder 54
+"F: Von den Zahlen 616 und 193, welche ist größer? A:","['616', '193']",616,"UTT_BOUNDARY f: von den zahlen 616 und 193, welche ist größer? a:UTT_BOUNDARY 616 und 63", 616 und 63
+Gib von den Zahlen 264 und 107 die größere an: ,"['264', '107']",264,"UTT_BOUNDARY gib von den zahlen 264 und 107 die größere an:UTT_BOUNDARY 26433,"," 26433,"
+"F: Welche Zahl ist größer, 270 oder 846? A:","['270', '846']",846,"UTT_BOUNDARY f: welche zahl ist größer, 270 oder 846? a:UTT_BOUNDARY 846 oder 5", 846 oder 5
+Gib von den Zahlen 199 und 523 die größere an: ,"['199', '523']",523,UTT_BOUNDARY gib von den zahlen 199 und 523 die größere an:UTT_BOUNDARY 5123 in berlin, 5123 in berlin
+Gib von den Zahlen 176 und 270 die größere an: ,"['176', '270']",270,UTT_BOUNDARY gib von den zahlen 176 und 270 die größere an:UTT_BOUNDARY 170 und 55, 170 und 55
+"F: Welche Zahl ist größer, 726 oder 838? A:","['726', '838']",838,"UTT_BOUNDARY f: welche zahl ist größer, 726 oder 838? a:UTT_BOUNDARY 836 oder 5", 836 oder 5
+"F: Welche Zahl ist größer, 876 oder 134? A:","['876', '134']",876,"UTT_BOUNDARY f: welche zahl ist größer, 876 oder 134? a:UTT_BOUNDARY 876 oder 5", 876 oder 5
+"F: Von den Zahlen 691 und 565, welche ist größer? A:","['691', '565']",691,"UTT_BOUNDARY f: von den zahlen 691 und 565, welche ist größer? a:UTT_BOUNDARY 695 oder 5", 695 oder 5
+Gib von den Zahlen 82 und 605 die größere an: ,"['82', '605']",605,UTT_BOUNDARY gib von den zahlen 82 und 605 die größere an:UTT_BOUNDARY 852 die größere, 852 die größere
+"F: Welche Zahl ist größer, 709 oder 297? A:","['709', '297']",709,"UTT_BOUNDARY f: welche zahl ist größer, 709 oder 297? a:UTT_BOUNDARY 709 oder 89", 709 oder 89
+"F: Von den Zahlen 192 und 531, welche ist größer? A:","['192', '531']",531,"UTT_BOUNDARY f: von den zahlen 192 und 531, welche ist größer? a:UTT_BOUNDARY 531, 38"," 531, 38"
+"F: Welche Zahl ist größer, 950 oder 356? A:","['950', '356']",950,"UTT_BOUNDARY f: welche zahl ist größer, 950 oder 356? a:UTT_BOUNDARY 9006? a", 9006? a
+Gib von den Zahlen 900 und 752 die größere an: ,"['900', '752']",900,UTT_BOUNDARY gib von den zahlen 900 und 752 die größere an:UTT_BOUNDARY 752 die größere an, 752 die größere an
+Gib von den Zahlen 126 und 256 die größere an: ,"['126', '256']",256,UTT_BOUNDARY gib von den zahlen 126 und 256 die größere an:UTT_BOUNDARY 236 die kleinere:, 236 die kleinere:
+"F: Welche Zahl ist größer, 152 oder 332? A:","['152', '332']",332,"UTT_BOUNDARY f: welche zahl ist größer, 152 oder 332? a:UTT_BOUNDARY 332 oder 92", 332 oder 92
+"F: Welche Zahl ist größer, 560 oder 969? A:","['560', '969']",969,"UTT_BOUNDARY f: welche zahl ist größer, 560 oder 969? a:UTT_BOUNDARY 969 oder 8", 969 oder 8
+"F: Welche Zahl ist größer, 356 oder 553? A:","['356', '553']",553,"UTT_BOUNDARY f: welche zahl ist größer, 356 oder 553? a:UTT_BOUNDARY 553 oder 5", 553 oder 5
+Gib von den Zahlen 69 und 594 die größere an: ,"['69', '594']",594,UTT_BOUNDARY gib von den zahlen 69 und 594 die größere an:UTT_BOUNDARY 694 in der, 694 in der
+"F: Von den Zahlen 274 und 532, welche ist größer? A:","['274', '532']",532,"UTT_BOUNDARY f: von den zahlen 274 und 532, welche ist größer? a:UTT_BOUNDARY 532 oder 5", 532 oder 5
+Gib von den Zahlen 827 und 667 die größere an: ,"['827', '667']",827,"UTT_BOUNDARY gib von den zahlen 827 und 667 die größere an:UTT_BOUNDARY 827 alte,"," 827 alte,"
+Gib von den Zahlen 912 und 591 die größere an: ,"['912', '591']",912,UTT_BOUNDARY gib von den zahlen 912 und 591 die größere an:UTT_BOUNDARY 991 und 5, 991 und 5
+"F: Von den Zahlen 526 und 722, welche ist größer? A:","['526', '722']",722,"UTT_BOUNDARY f: von den zahlen 526 und 722, welche ist größer? a:UTT_BOUNDARY 726 oder 5", 726 oder 5
+"F: Welche Zahl ist größer, 459 oder 745? A:","['459', '745']",745,"UTT_BOUNDARY f: welche zahl ist größer, 459 oder 745? a:UTT_BOUNDARY 745: welche zahl", 745: welche zahl
+"F: Von den Zahlen 437 und 86, welche ist größer? A:","['437', '86']",437,"UTT_BOUNDARY f: von den zahlen 437 und 86, welche ist größer? a:UTT_BOUNDARY 437 oder 97", 437 oder 97
+"F: Von den Zahlen 381 und 496, welche ist größer? A:","['381', '496']",496,"UTT_BOUNDARY f: von den zahlen 381 und 496, welche ist größer? a:UTT_BOUNDARY 461 oder 6", 461 oder 6
+"F: Von den Zahlen 438 und 338, welche ist größer? A:","['438', '338']",438,"UTT_BOUNDARY f: von den zahlen 438 und 338, welche ist größer? a:UTT_BOUNDARY 338 oder 58", 338 oder 58
+"F: Welche Zahl ist größer, 81 oder 739? A:","['81', '739']",739,"UTT_BOUNDARY f: welche zahl ist größer, 81 oder 739? a:UTT_BOUNDARY 839 oder 5", 839 oder 5
+Gib von den Zahlen 53 und 619 die größere an: ,"['53', '619']",619,UTT_BOUNDARY gib von den zahlen 53 und 619 die größere an:UTT_BOUNDARY 539 oder 5, 539 oder 5
+"F: Welche Zahl ist größer, 466 oder 912? A:","['466', '912']",912,"UTT_BOUNDARY f: welche zahl ist größer, 466 oder 912? a:UTT_BOUNDARY 9126? a", 9126? a
+"F: Welche Zahl ist größer, 592 oder 363? A:","['592', '363']",592,"UTT_BOUNDARY f: welche zahl ist größer, 592 oder 363? a:UTT_BOUNDARY 592 oder 5", 592 oder 5
+Gib von den Zahlen 589 und 130 die größere an: ,"['589', '130']",589,UTT_BOUNDARY gib von den zahlen 589 und 130 die größere an:UTT_BOUNDARY 589 und 5, 589 und 5
+"F: Welche Zahl ist größer, 811 oder 843? A:","['811', '843']",843,"UTT_BOUNDARY f: welche zahl ist größer, 811 oder 843? a:UTT_BOUNDARY 8433 oder", 8433 oder
+"F: Welche Zahl ist größer, 168 oder 242? A:","['168', '242']",242,"UTT_BOUNDARY f: welche zahl ist größer, 168 oder 242? a:UTT_BOUNDARY 242er? a", 242er? a
+"F: Von den Zahlen 899 und 830, welche ist größer? A:","['899', '830']",899,"UTT_BOUNDARY f: von den zahlen 899 und 830, welche ist größer? a:UTT_BOUNDARY 8303 oder 5", 8303 oder 5
+"F: Welche Zahl ist größer, 31 oder 47? A:","['31', '47']",47,"UTT_BOUNDARY f: welche zahl ist größer, 31 oder 47? a:UTT_BOUNDARY 777 oder 7", 777 oder 7
+"F: Welche Zahl ist größer, 645 oder 140? A:","['645', '140']",645,"UTT_BOUNDARY f: welche zahl ist größer, 645 oder 140? a:UTT_BOUNDARY 616? a:", 616? a:
+"F: Welche Zahl ist größer, 532 oder 958? A:","['532', '958']",958,"UTT_BOUNDARY f: welche zahl ist größer, 532 oder 958? a:UTT_BOUNDARY 928? a", 928? a
+"F: Welche Zahl ist größer, 642 oder 907? A:","['642', '907']",907,"UTT_BOUNDARY f: welche zahl ist größer, 642 oder 907? a:UTT_BOUNDARY 904 oder 54", 904 oder 54
+"F: Von den Zahlen 224 und 970, welche ist größer? A:","['224', '970']",970,"UTT_BOUNDARY f: von den zahlen 224 und 970, welche ist größer? a:UTT_BOUNDARY 970 oder 8", 970 oder 8
+"F: Von den Zahlen 701 und 421, welche ist größer? A:","['701', '421']",701,"UTT_BOUNDARY f: von den zahlen 701 und 421, welche ist größer? a:UTT_BOUNDARY 701, 381"," 701, 381"
+Gib von den Zahlen 409 und 213 die größere an: ,"['409', '213']",409,UTT_BOUNDARY gib von den zahlen 409 und 213 die größere an:UTT_BOUNDARY 409 und 59, 409 und 59
+"F: Welche Zahl ist größer, 636 oder 582? A:","['636', '582']",636,"UTT_BOUNDARY f: welche zahl ist größer, 636 oder 582? a:UTT_BOUNDARY 632 oder 5", 632 oder 5
+Gib von den Zahlen 245 und 869 die größere an: ,"['245', '869']",869,UTT_BOUNDARY gib von den zahlen 245 und 869 die größere an:UTT_BOUNDARY 869 oder 8, 869 oder 8
+"F: Von den Zahlen 447 und 46, welche ist größer? A:","['447', '46']",447,"UTT_BOUNDARY f: von den zahlen 447 und 46, welche ist größer? a:UTT_BOUNDARY 467 oder 8", 467 oder 8
+"F: Von den Zahlen 397 und 786, welche ist größer? A:","['397', '786']",786,"UTT_BOUNDARY f: von den zahlen 397 und 786, welche ist größer? a:UTT_BOUNDARY 776 oder 7", 776 oder 7
+Gib von den Zahlen 864 und 876 die größere an: ,"['864', '876']",876,UTT_BOUNDARY gib von den zahlen 864 und 876 die größere an:UTT_BOUNDARY 866 die größere, 866 die größere
+"F: Welche Zahl ist größer, 778 oder 423? A:","['778', '423']",778,"UTT_BOUNDARY f: welche zahl ist größer, 778 oder 423? a:UTT_BOUNDARY 773 oder 7", 773 oder 7
+Gib von den Zahlen 274 und 976 die größere an: ,"['274', '976']",976,UTT_BOUNDARY gib von den zahlen 274 und 976 die größere an:UTT_BOUNDARY 976 und 9, 976 und 9
+"F: Welche Zahl ist größer, 173 oder 348? A:","['173', '348']",348,"UTT_BOUNDARY f: welche zahl ist größer, 173 oder 348? a:UTT_BOUNDARY 343 der 80er", 343 der 80er
+Gib von den Zahlen 785 und 882 die größere an: ,"['785', '882']",882,"UTT_BOUNDARY gib von den zahlen 785 und 882 die größere an:UTT_BOUNDARY 858es."""," 858es."""
+"F: Von den Zahlen 730 und 461, welche ist größer? A:","['730', '461']",730,"UTT_BOUNDARY f: von den zahlen 730 und 461, welche ist größer? a:UTT_BOUNDARY 761 oder 7", 761 oder 7
+"F: Welche Zahl ist größer, 534 oder 750? A:","['534', '750']",750,"UTT_BOUNDARY f: welche zahl ist größer, 534 oder 750? a:UTT_BOUNDARY 734 oder 5", 734 oder 5
+Gib von den Zahlen 229 und 108 die größere an: ,"['229', '108']",229,UTT_BOUNDARY gib von den zahlen 229 und 108 die größere an:UTT_BOUNDARY 229 oder 58, 229 oder 58
+"F: Von den Zahlen 367 und 570, welche ist größer? A:","['367', '570']",570,"UTT_BOUNDARY f: von den zahlen 367 und 570, welche ist größer? a:UTT_BOUNDARY 570? a", 570? a
+"F: Welche Zahl ist größer, 443 oder 622? A:","['443', '622']",622,"UTT_BOUNDARY f: welche zahl ist größer, 443 oder 622? a:UTT_BOUNDARY 69933 oder", 69933 oder
+"F: Welche Zahl ist größer, 195 oder 301? A:","['195', '301']",301,"UTT_BOUNDARY f: welche zahl ist größer, 195 oder 301? a:UTT_BOUNDARY 301, welche ist"," 301, welche ist"
+"F: Welche Zahl ist größer, 815 oder 399? A:","['815', '399']",815,"UTT_BOUNDARY f: welche zahl ist größer, 815 oder 399? a:UTT_BOUNDARY 899 oder 54", 899 oder 54
+"F: Welche Zahl ist größer, 169 oder 695? A:","['169', '695']",695,"UTT_BOUNDARY f: welche zahl ist größer, 169 oder 695? a:UTT_BOUNDARY 695 oder 5", 695 oder 5
+"F: Welche Zahl ist größer, 367 oder 363? A:","['367', '363']",367,"UTT_BOUNDARY f: welche zahl ist größer, 367 oder 363? a:UTT_BOUNDARY 363 oder 53", 363 oder 53
+"F: Von den Zahlen 678 und 184, welche ist größer? A:","['678', '184']",678,"UTT_BOUNDARY f: von den zahlen 678 und 184, welche ist größer? a:UTT_BOUNDARY 678 oder 5", 678 oder 5
+"F: Von den Zahlen 648 und 885, welche ist größer? A:","['648', '885']",885,"UTT_BOUNDARY f: von den zahlen 648 und 885, welche ist größer? a:UTT_BOUNDARY 885? a", 885? a
+"F: Von den Zahlen 5 und 977, welche ist größer? A:","['5', '977']",977,"UTT_BOUNDARY f: von den zahlen 5 und 977, welche ist größer? a:UTT_BOUNDARY 977 oder 9", 977 oder 9
+"F: Von den Zahlen 832 und 31, welche ist größer? A:","['832', '31']",832,"UTT_BOUNDARY f: von den zahlen 832 und 31, welche ist größer? a:UTT_BOUNDARY 832? a", 832? a
+"F: Welche Zahl ist größer, 497 oder 42? A:","['497', '42']",497,"UTT_BOUNDARY f: welche zahl ist größer, 497 oder 42? a:UTT_BOUNDARY 427 oder 97", 427 oder 97
+"F: Von den Zahlen 330 und 570, welche ist größer? A:","['330', '570']",570,"UTT_BOUNDARY f: von den zahlen 330 und 570, welche ist größer? a:UTT_BOUNDARY 557 oder 5", 557 oder 5
+Gib von den Zahlen 642 und 56 die größere an: ,"['642', '56']",642,UTT_BOUNDARY gib von den zahlen 642 und 56 die größere an:UTT_BOUNDARY 642 mit 5, 642 mit 5
+Gib von den Zahlen 852 und 700 die größere an: ,"['852', '700']",852,UTT_BOUNDARY gib von den zahlen 852 und 700 die größere an:UTT_BOUNDARY 852 die größere, 852 die größere
+"F: Von den Zahlen 768 und 423, welche ist größer? A:","['768', '423']",768,"UTT_BOUNDARY f: von den zahlen 768 und 423, welche ist größer? a:UTT_BOUNDARY 738 oder 5", 738 oder 5
+"F: Welche Zahl ist größer, 52 oder 469? A:","['52', '469']",469,"UTT_BOUNDARY f: welche zahl ist größer, 52 oder 469? a:UTT_BOUNDARY 469 oder 8", 469 oder 8
+"F: Welche Zahl ist größer, 199 oder 989? A:","['199', '989']",989,"UTT_BOUNDARY f: welche zahl ist größer, 199 oder 989? a:UTT_BOUNDARY 989 oder 9", 989 oder 9
+Gib von den Zahlen 751 und 546 die größere an: ,"['751', '546']",751,"UTT_BOUNDARY gib von den zahlen 751 und 546 die größere an:UTT_BOUNDARY 751, 101"," 751, 101"
+Gib von den Zahlen 750 und 588 die größere an: ,"['750', '588']",750,UTT_BOUNDARY gib von den zahlen 750 und 588 die größere an:UTT_BOUNDARY 5888 oder, 5888 oder
+Gib von den Zahlen 298 und 960 die größere an: ,"['298', '960']",960,UTT_BOUNDARY gib von den zahlen 298 und 960 die größere an:UTT_BOUNDARY 988 des umwelt, 988 des umwelt
+Gib von den Zahlen 907 und 544 die größere an: ,"['907', '544']",907,UTT_BOUNDARY gib von den zahlen 907 und 544 die größere an:UTT_BOUNDARY 9043 sm, 9043 sm
+"F: Von den Zahlen 339 und 215, welche ist größer? A:","['339', '215']",339,"UTT_BOUNDARY f: von den zahlen 339 und 215, welche ist größer? a:UTT_BOUNDARY 339 oder 59", 339 oder 59
+"F: Von den Zahlen 92 und 246, welche ist größer? A:","['92', '246']",246,"UTT_BOUNDARY f: von den zahlen 92 und 246, welche ist größer? a:UTT_BOUNDARY 9232 oder", 9232 oder
+"F: Welche Zahl ist größer, 430 oder 837? A:","['430', '837']",837,"UTT_BOUNDARY f: welche zahl ist größer, 430 oder 837? a:UTT_BOUNDARY 870 oder 5", 870 oder 5
+"F: Von den Zahlen 535 und 140, welche ist größer? A:","['535', '140']",535,"UTT_BOUNDARY f: von den zahlen 535 und 140, welche ist größer? a:UTT_BOUNDARY 535 oder 5", 535 oder 5
+Gib von den Zahlen 150 und 232 die größere an: ,"['150', '232']",232,UTT_BOUNDARY gib von den zahlen 150 und 232 die größere an:UTT_BOUNDARY 232 und 52, 232 und 52
+"F: Welche Zahl ist größer, 42 oder 605? A:","['42', '605']",605,"UTT_BOUNDARY f: welche zahl ist größer, 42 oder 605? a:UTT_BOUNDARY 605 oder 55", 605 oder 55
+Gib von den Zahlen 458 und 704 die größere an: ,"['458', '704']",704,"UTT_BOUNDARY gib von den zahlen 458 und 704 die größere an:UTT_BOUNDARY 708, 904"," 708, 904"
+"F: Von den Zahlen 447 und 737, welche ist größer? A:","['447', '737']",737,"UTT_BOUNDARY f: von den zahlen 447 und 737, welche ist größer? a:UTT_BOUNDARY 777 oder 7", 777 oder 7
+Gib von den Zahlen 674 und 81 die größere an: ,"['674', '81']",674,UTT_BOUNDARY gib von den zahlen 674 und 81 die größere an:UTT_BOUNDARY 874 oder 8, 874 oder 8
+Gib von den Zahlen 857 und 213 die größere an: ,"['857', '213']",857,UTT_BOUNDARY gib von den zahlen 857 und 213 die größere an:UTT_BOUNDARY 857 die größere, 857 die größere
+"F: Welche Zahl ist größer, 988 oder 624? A:","['988', '624']",988,"UTT_BOUNDARY f: welche zahl ist größer, 988 oder 624? a:UTT_BOUNDARY 924 oder 5", 924 oder 5
+"F: Von den Zahlen 330 und 535, welche ist größer? A:","['330', '535']",535,"UTT_BOUNDARY f: von den zahlen 330 und 535, welche ist größer? a:UTT_BOUNDARY 535 oder 5", 535 oder 5
+Gib von den Zahlen 233 und 543 die größere an: ,"['233', '543']",543,UTT_BOUNDARY gib von den zahlen 233 und 543 die größere an:UTT_BOUNDARY 53333, 53333
+"F: Von den Zahlen 513 und 2, welche ist größer? A:","['513', '2']",513,"UTT_BOUNDARY f: von den zahlen 513 und 2, welche ist größer? a:UTT_BOUNDARY 5136? a", 5136? a
+"F: Von den Zahlen 618 und 63, welche ist größer? A:","['618', '63']",618,"UTT_BOUNDARY f: von den zahlen 618 und 63, welche ist größer? a:UTT_BOUNDARY 618 oder 53", 618 oder 53
+"F: Welche Zahl ist größer, 420 oder 74? A:","['420', '74']",420,"UTT_BOUNDARY f: welche zahl ist größer, 420 oder 74? a:UTT_BOUNDARY 720 oder 73", 720 oder 73
+Gib von den Zahlen 137 und 814 die größere an: ,"['137', '814']",814,UTT_BOUNDARY gib von den zahlen 137 und 814 die größere an:UTT_BOUNDARY 814 oder 98, 814 oder 98
+Gib von den Zahlen 147 und 799 die größere an: ,"['147', '799']",799,UTT_BOUNDARY gib von den zahlen 147 und 799 die größere an:UTT_BOUNDARY 777 und 5, 777 und 5
+"F: Welche Zahl ist größer, 76 oder 411? A:","['76', '411']",411,"UTT_BOUNDARY f: welche zahl ist größer, 76 oder 411? a:UTT_BOUNDARY 711: welche ist", 711: welche ist
+"F: Von den Zahlen 319 und 713, welche ist größer? A:","['319', '713']",713,"UTT_BOUNDARY f: von den zahlen 319 und 713, welche ist größer? a:UTT_BOUNDARY 719 oder 919", 719 oder 919
+Gib von den Zahlen 532 und 193 die größere an: ,"['532', '193']",532,UTT_BOUNDARY gib von den zahlen 532 und 193 die größere an:UTT_BOUNDARY 532 und 5, 532 und 5
+"F: Welche Zahl ist größer, 559 oder 632? A:","['559', '632']",632,"UTT_BOUNDARY f: welche zahl ist größer, 559 oder 632? a:UTT_BOUNDARY 629 oder 5", 629 oder 5
+"F: Welche Zahl ist größer, 751 oder 513? A:","['751', '513']",751,"UTT_BOUNDARY f: welche zahl ist größer, 751 oder 513? a:UTT_BOUNDARY 751, welche ist"," 751, welche ist"
+"F: Von den Zahlen 289 und 452, welche ist größer? A:","['289', '452']",452,"UTT_BOUNDARY f: von den zahlen 289 und 452, welche ist größer? a:UTT_BOUNDARY 452 oder 59", 452 oder 59
+"F: Von den Zahlen 981 und 660, welche ist größer? A:","['981', '660']",981,"UTT_BOUNDARY f: von den zahlen 981 und 660, welche ist größer? a:UTT_BOUNDARY 981 oder 8", 981 oder 8
+"F: Welche Zahl ist größer, 599 oder 197? A:","['599', '197']",599,"UTT_BOUNDARY f: welche zahl ist größer, 599 oder 197? a:UTT_BOUNDARY 599 oder 53", 599 oder 53
+"F: Von den Zahlen 75 und 177, welche ist größer? A:","['75', '177']",177,"UTT_BOUNDARY f: von den zahlen 75 und 177, welche ist größer? a:UTT_BOUNDARY 757? a:", 757? a:
+"F: Welche Zahl ist größer, 981 oder 460? A:","['981', '460']",981,"UTT_BOUNDARY f: welche zahl ist größer, 981 oder 460? a:UTT_BOUNDARY 981 oder 7", 981 oder 7
+"F: Welche Zahl ist größer, 335 oder 237? A:","['335', '237']",335,"UTT_BOUNDARY f: welche zahl ist größer, 335 oder 237? a:UTT_BOUNDARY 335? a:", 335? a:
+"F: Von den Zahlen 614 und 514, welche ist größer? A:","['614', '514']",614,"UTT_BOUNDARY f: von den zahlen 614 und 514, welche ist größer? a:UTT_BOUNDARY 614 oder 58", 614 oder 58
+Gib von den Zahlen 317 und 540 die größere an: ,"['317', '540']",540,UTT_BOUNDARY gib von den zahlen 317 und 540 die größere an:UTT_BOUNDARY 5403note, 5403note
+"F: Welche Zahl ist größer, 725 oder 636? A:","['725', '636']",725,"UTT_BOUNDARY f: welche zahl ist größer, 725 oder 636? a:UTT_BOUNDARY 736 oder 5", 736 oder 5
+Gib von den Zahlen 513 und 950 die größere an: ,"['513', '950']",950,"UTT_BOUNDARY gib von den zahlen 513 und 950 die größere an:UTT_BOUNDARY 913 mehren."""," 913 mehren."""
+Gib von den Zahlen 220 und 26 die größere an: ,"['220', '26']",220,UTT_BOUNDARY gib von den zahlen 220 und 26 die größere an:UTT_BOUNDARY 220 220 und, 220 220 und
+"F: Welche Zahl ist größer, 833 oder 214? A:","['833', '214']",833,"UTT_BOUNDARY f: welche zahl ist größer, 833 oder 214? a:UTT_BOUNDARY 83333", 83333
+Gib von den Zahlen 559 und 666 die größere an: ,"['559', '666']",666,UTT_BOUNDARY gib von den zahlen 559 und 666 die größere an:UTT_BOUNDARY 666 oder 5, 666 oder 5
+"F: Welche Zahl ist größer, 915 oder 948? A:","['915', '948']",948,"UTT_BOUNDARY f: welche zahl ist größer, 915 oder 948? a:UTT_BOUNDARY 945 ist die erste", 945 ist die erste
+"F: Welche Zahl ist größer, 373 oder 482? A:","['373', '482']",482,"UTT_BOUNDARY f: welche zahl ist größer, 373 oder 482? a:UTT_BOUNDARY 482 oder 5", 482 oder 5
+"F: Von den Zahlen 589 und 696, welche ist größer? A:","['589', '696']",696,"UTT_BOUNDARY f: von den zahlen 589 und 696, welche ist größer? a:UTT_BOUNDARY 698 und 5", 698 und 5
+"F: Von den Zahlen 39 und 188, welche ist größer? A:","['39', '188']",188,"UTT_BOUNDARY f: von den zahlen 39 und 188, welche ist größer? a:UTT_BOUNDARY 1889 oder 9", 1889 oder 9
+Gib von den Zahlen 260 und 706 die größere an: ,"['260', '706']",706,UTT_BOUNDARY gib von den zahlen 260 und 706 die größere an:UTT_BOUNDARY 706 und 56, 706 und 56
+"F: Von den Zahlen 170 und 193, welche ist größer? A:","['170', '193']",193,"UTT_BOUNDARY f: von den zahlen 170 und 193, welche ist größer? a:UTT_BOUNDARY 170 oder 919", 170 oder 919
+"F: Welche Zahl ist größer, 260 oder 650? A:","['260', '650']",650,"UTT_BOUNDARY f: welche zahl ist größer, 260 oder 650? a:UTT_BOUNDARY 6503? a", 6503? a
+"F: Von den Zahlen 526 und 27, welche ist größer? A:","['526', '27']",526,"UTT_BOUNDARY f: von den zahlen 526 und 27, welche ist größer? a:UTT_BOUNDARY 2766 oder 7", 2766 oder 7
+"F: Von den Zahlen 550 und 429, welche ist größer? A:","['550', '429']",550,"UTT_BOUNDARY f: von den zahlen 550 und 429, welche ist größer? a:UTT_BOUNDARY 5809 oder 5", 5809 oder 5
+Gib von den Zahlen 991 und 742 die größere an: ,"['991', '742']",991,UTT_BOUNDARY gib von den zahlen 991 und 742 die größere an:UTT_BOUNDARY 992 und 5, 992 und 5
+"F: Von den Zahlen 226 und 882, welche ist größer? A:","['226', '882']",882,"UTT_BOUNDARY f: von den zahlen 226 und 882, welche ist größer? a:UTT_BOUNDARY 882 oder 8", 882 oder 8
+"F: Welche Zahl ist größer, 790 oder 344? A:","['790', '344']",790,"UTT_BOUNDARY f: welche zahl ist größer, 790 oder 344? a:UTT_BOUNDARY 7104 oder 5", 7104 oder 5
+"F: Welche Zahl ist größer, 727 oder 453? A:","['727', '453']",727,"UTT_BOUNDARY f: welche zahl ist größer, 727 oder 453? a:UTT_BOUNDARY 727? a", 727? a
+"F: Welche Zahl ist größer, 510 oder 856? A:","['510', '856']",856,"UTT_BOUNDARY f: welche zahl ist größer, 510 oder 856? a:UTT_BOUNDARY 886? a", 886? a
+Gib von den Zahlen 899 und 823 die größere an: ,"['899', '823']",899,UTT_BOUNDARY gib von den zahlen 899 und 823 die größere an:UTT_BOUNDARY 823 der 6, 823 der 6
+"F: Von den Zahlen 406 und 934, welche ist größer? A:","['406', '934']",934,"UTT_BOUNDARY f: von den zahlen 406 und 934, welche ist größer? a:UTT_BOUNDARY 934 oder 5", 934 oder 5
+"F: Von den Zahlen 961 und 99, welche ist größer? A:","['961', '99']",961,"UTT_BOUNDARY f: von den zahlen 961 und 99, welche ist größer? a:UTT_BOUNDARY 961 oder 8", 961 oder 8
+"F: Von den Zahlen 477 und 861, welche ist größer? A:","['477', '861']",861,"UTT_BOUNDARY f: von den zahlen 477 und 861, welche ist größer? a:UTT_BOUNDARY 861 oder 8", 861 oder 8
+"F: Welche Zahl ist größer, 262 oder 96? A:","['262', '96']",262,"UTT_BOUNDARY f: welche zahl ist größer, 262 oder 96? a:UTT_BOUNDARY 923 oder 5", 923 oder 5
+"F: Welche Zahl ist größer, 914 oder 792? A:","['914', '792']",914,"UTT_BOUNDARY f: welche zahl ist größer, 914 oder 792? a:UTT_BOUNDARY 992 oder 5", 992 oder 5
+"F: Welche Zahl ist größer, 419 oder 272? A:","['419', '272']",419,"UTT_BOUNDARY f: welche zahl ist größer, 419 oder 272? a:UTT_BOUNDARY 4192 und 5", 4192 und 5
+"F: Von den Zahlen 21 und 744, welche ist größer? A:","['21', '744']",744,"UTT_BOUNDARY f: von den zahlen 21 und 744, welche ist größer? a:UTT_BOUNDARY 744 oder 5", 744 oder 5
+"F: Von den Zahlen 567 und 932, welche ist größer? A:","['567', '932']",932,"UTT_BOUNDARY f: von den zahlen 567 und 932, welche ist größer? a:UTT_BOUNDARY 936 oder 5", 936 oder 5
+Gib von den Zahlen 461 und 91 die größere an: ,"['461', '91']",461,"UTT_BOUNDARY gib von den zahlen 461 und 91 die größere an:UTT_BOUNDARY 961, 8"," 961, 8"
+Gib von den Zahlen 638 und 433 die größere an: ,"['638', '433']",638,UTT_BOUNDARY gib von den zahlen 638 und 433 die größere an:UTT_BOUNDARY 638 oder 5, 638 oder 5
+"F: Von den Zahlen 950 und 559, welche ist größer? A:","['950', '559']",950,"UTT_BOUNDARY f: von den zahlen 950 und 559, welche ist größer? a:UTT_BOUNDARY 959 oder 8", 959 oder 8
+Gib von den Zahlen 272 und 341 die größere an: ,"['272', '341']",341,"UTT_BOUNDARY gib von den zahlen 272 und 341 die größere an:UTT_BOUNDARY 3421, welche"," 3421, welche"
+Gib von den Zahlen 981 und 135 die größere an: ,"['981', '135']",981,UTT_BOUNDARY gib von den zahlen 981 und 135 die größere an:UTT_BOUNDARY 985 oder 8, 985 oder 8
+Gib von den Zahlen 203 und 744 die größere an: ,"['203', '744']",744,UTT_BOUNDARY gib von den zahlen 203 und 744 die größere an:UTT_BOUNDARY 744 mit 5, 744 mit 5
+"F: Welche Zahl ist größer, 720 oder 416? A:","['720', '416']",720,"UTT_BOUNDARY f: welche zahl ist größer, 720 oder 416? a:UTT_BOUNDARY 720toffel,"," 720toffel,"
+Gib von den Zahlen 625 und 850 die größere an: ,"['625', '850']",850,UTT_BOUNDARY gib von den zahlen 625 und 850 die größere an:UTT_BOUNDARY 625 u s a, 625 u s a
+Gib von den Zahlen 946 und 402 die größere an: ,"['946', '402']",946,UTT_BOUNDARY gib von den zahlen 946 und 402 die größere an:UTT_BOUNDARY 926 oder 8, 926 oder 8
+Gib von den Zahlen 650 und 733 die größere an: ,"['650', '733']",733,"UTT_BOUNDARY gib von den zahlen 650 und 733 die größere an:UTT_BOUNDARY 733m."""," 733m."""
+"F: Welche Zahl ist größer, 48 oder 105? A:","['48', '105']",105,"UTT_BOUNDARY f: welche zahl ist größer, 48 oder 105? a:UTT_BOUNDARY 485? a", 485? a
+"F: Von den Zahlen 623 und 187, welche ist größer? A:","['623', '187']",623,"UTT_BOUNDARY f: von den zahlen 623 und 187, welche ist größer? a:UTT_BOUNDARY 623 oder 5", 623 oder 5
+Gib von den Zahlen 268 und 729 die größere an: ,"['268', '729']",729,UTT_BOUNDARY gib von den zahlen 268 und 729 die größere an:UTT_BOUNDARY 792 und 5, 792 und 5
+"F: Welche Zahl ist größer, 361 oder 966? A:","['361', '966']",966,"UTT_BOUNDARY f: welche zahl ist größer, 361 oder 966? a:UTT_BOUNDARY 961 oder 7", 961 oder 7
+Gib von den Zahlen 816 und 17 die größere an: ,"['816', '17']",816,"UTT_BOUNDARY gib von den zahlen 816 und 17 die größere an:UTT_BOUNDARY 816, 93"," 816, 93"
+"F: Welche Zahl ist größer, 583 oder 790? A:","['583', '790']",790,"UTT_BOUNDARY f: welche zahl ist größer, 583 oder 790? a:UTT_BOUNDARY 788immbad", 788immbad
+"F: Von den Zahlen 368 und 719, welche ist größer? A:","['368', '719']",719,"UTT_BOUNDARY f: von den zahlen 368 und 719, welche ist größer? a:UTT_BOUNDARY 719 oder 98", 719 oder 98
+"F: Welche Zahl ist größer, 530 oder 252? A:","['530', '252']",530,"UTT_BOUNDARY f: welche zahl ist größer, 530 oder 252? a:UTT_BOUNDARY 520 oder 52", 520 oder 52
+Gib von den Zahlen 681 und 968 die größere an: ,"['681', '968']",968,"UTT_BOUNDARY gib von den zahlen 681 und 968 die größere an:UTT_BOUNDARY 961, 8"," 961, 8"
+"F: Von den Zahlen 586 und 591, welche ist größer? A:","['586', '591']",591,"UTT_BOUNDARY f: von den zahlen 586 und 591, welche ist größer? a:UTT_BOUNDARY 581, 5"," 581, 5"
+Gib von den Zahlen 750 und 785 die größere an: ,"['750', '785']",785,UTT_BOUNDARY gib von den zahlen 750 und 785 die größere an:UTT_BOUNDARY 785 altes wasser, 785 altes wasser
+"F: Von den Zahlen 373 und 520, welche ist größer? A:","['373', '520']",520,"UTT_BOUNDARY f: von den zahlen 373 und 520, welche ist größer? a:UTT_BOUNDARY 52016, 10"," 52016, 10"
+"F: Von den Zahlen 654 und 631, welche ist größer? A:","['654', '631']",654,"UTT_BOUNDARY f: von den zahlen 654 und 631, welche ist größer? a:UTT_BOUNDARY 641, 38"," 641, 38"
+"F: Welche Zahl ist größer, 969 oder 93? A:","['969', '93']",969,"UTT_BOUNDARY f: welche zahl ist größer, 969 oder 93? a:UTT_BOUNDARY 969 oder 8", 969 oder 8
+"F: Welche Zahl ist größer, 873 oder 262? A:","['873', '262']",873,"UTT_BOUNDARY f: welche zahl ist größer, 873 oder 262? a:UTT_BOUNDARY 823 oder 5", 823 oder 5
+"F: Von den Zahlen 893 und 542, welche ist größer? A:","['893', '542']",893,"UTT_BOUNDARY f: von den zahlen 893 und 542, welche ist größer? a:UTT_BOUNDARY 842 mit 5", 842 mit 5
+"F: Von den Zahlen 954 und 509, welche ist größer? A:","['954', '509']",954,"UTT_BOUNDARY f: von den zahlen 954 und 509, welche ist größer? a:UTT_BOUNDARY 954 oder 8", 954 oder 8
+"F: Welche Zahl ist größer, 140 oder 432? A:","['140', '432']",432,"UTT_BOUNDARY f: welche zahl ist größer, 140 oder 432? a:UTT_BOUNDARY 432 oder 52", 432 oder 52
+Gib von den Zahlen 48 und 790 die größere an: ,"['48', '790']",790,"UTT_BOUNDARY gib von den zahlen 48 und 790 die größere an:UTT_BOUNDARY 714"":UTT_BOUNDARY"," 714"":"
+Gib von den Zahlen 297 und 636 die größere an: ,"['297', '636']",636,UTT_BOUNDARY gib von den zahlen 297 und 636 die größere an:UTT_BOUNDARY 636 oder 6, 636 oder 6
+"F: Welche Zahl ist größer, 880 oder 727? A:","['880', '727']",880,"UTT_BOUNDARY f: welche zahl ist größer, 880 oder 727? a:UTT_BOUNDARY 827""? a"," 827""? a"
+Gib von den Zahlen 641 und 167 die größere an: ,"['641', '167']",641,UTT_BOUNDARY gib von den zahlen 641 und 167 die größere an:UTT_BOUNDARY 641 oder 6, 641 oder 6
+Gib von den Zahlen 39 und 544 die größere an: ,"['39', '544']",544,UTT_BOUNDARY gib von den zahlen 39 und 544 die größere an:UTT_BOUNDARY 544 oder 5, 544 oder 5
+"F: Von den Zahlen 464 und 244, welche ist größer? A:","['464', '244']",464,"UTT_BOUNDARY f: von den zahlen 464 und 244, welche ist größer? a:UTT_BOUNDARY 464 oder 5", 464 oder 5
+"F: Welche Zahl ist größer, 726 oder 629? A:","['726', '629']",726,"UTT_BOUNDARY f: welche zahl ist größer, 726 oder 629? a:UTT_BOUNDARY 726 oder 5", 726 oder 5
+Gib von den Zahlen 773 und 537 die größere an: ,"['773', '537']",773,UTT_BOUNDARY gib von den zahlen 773 und 537 die größere an:UTT_BOUNDARY 73333, 73333
+"F: Von den Zahlen 928 und 406, welche ist größer? A:","['928', '406']",928,"UTT_BOUNDARY f: von den zahlen 928 und 406, welche ist größer? a:UTT_BOUNDARY 928? a", 928? a
+Gib von den Zahlen 184 und 209 die größere an: ,"['184', '209']",209,UTT_BOUNDARY gib von den zahlen 184 und 209 die größere an:UTT_BOUNDARY 1892 in der, 1892 in der
+"F: Von den Zahlen 802 und 747, welche ist größer? A:","['802', '747']",802,"UTT_BOUNDARY f: von den zahlen 802 und 747, welche ist größer? a:UTT_BOUNDARY 742 oder 5", 742 oder 5
+"F: Welche Zahl ist größer, 250 oder 829? A:","['250', '829']",829,"UTT_BOUNDARY f: welche zahl ist größer, 250 oder 829? a:UTT_BOUNDARY 829? a", 829? a
+"F: Von den Zahlen 944 und 526, welche ist größer? A:","['944', '526']",944,"UTT_BOUNDARY f: von den zahlen 944 und 526, welche ist größer? a:UTT_BOUNDARY 946? a", 946? a
+"F: Welche Zahl ist größer, 58 oder 305? A:","['58', '305']",305,"UTT_BOUNDARY f: welche zahl ist größer, 58 oder 305? a:UTT_BOUNDARY 305 oder 55", 305 oder 55
+Gib von den Zahlen 475 und 797 die größere an: ,"['475', '797']",797,UTT_BOUNDARY gib von den zahlen 475 und 797 die größere an:UTT_BOUNDARY 775 oder 8, 775 oder 8
+"F: Von den Zahlen 699 und 657, welche ist größer? A:","['699', '657']",699,"UTT_BOUNDARY f: von den zahlen 699 und 657, welche ist größer? a:UTT_BOUNDARY 657? a:", 657? a:
+Gib von den Zahlen 76 und 538 die größere an: ,"['76', '538']",538,UTT_BOUNDARY gib von den zahlen 76 und 538 die größere an:UTT_BOUNDARY 768 oder 5, 768 oder 5
+"F: Welche Zahl ist größer, 967 oder 870? A:","['967', '870']",967,"UTT_BOUNDARY f: welche zahl ist größer, 967 oder 870? a:UTT_BOUNDARY 970 oder 8", 970 oder 8
+"F: Welche Zahl ist größer, 181 oder 7? A:","['181', '7']",181,"UTT_BOUNDARY f: welche zahl ist größer, 181 oder 7? a:UTT_BOUNDARY 791 oder 7", 791 oder 7
+"F: Welche Zahl ist größer, 31 oder 788? A:","['31', '788']",788,"UTT_BOUNDARY f: welche zahl ist größer, 31 oder 788? a:UTT_BOUNDARY 788? a", 788? a
+Gib von den Zahlen 481 und 662 die größere an: ,"['481', '662']",662,UTT_BOUNDARY gib von den zahlen 481 und 662 die größere an:UTT_BOUNDARY 662 oder 5, 662 oder 5
+"F: Von den Zahlen 503 und 535, welche ist größer? A:","['503', '535']",535,"UTT_BOUNDARY f: von den zahlen 503 und 535, welche ist größer? a:UTT_BOUNDARY 503 oder 53", 503 oder 53
+"F: Von den Zahlen 823 und 739, welche ist größer? A:","['823', '739']",823,"UTT_BOUNDARY f: von den zahlen 823 und 739, welche ist größer? a:UTT_BOUNDARY 83333", 83333
+"F: Welche Zahl ist größer, 776 oder 462? A:","['776', '462']",776,"UTT_BOUNDARY f: welche zahl ist größer, 776 oder 462? a:UTT_BOUNDARY 766 oder 7", 766 oder 7
+"F: Von den Zahlen 580 und 258, welche ist größer? A:","['580', '258']",580,"UTT_BOUNDARY f: von den zahlen 580 und 258, welche ist größer? a:UTT_BOUNDARY 5808? a", 5808? a
+"F: Von den Zahlen 727 und 974, welche ist größer? A:","['727', '974']",974,"UTT_BOUNDARY f: von den zahlen 727 und 974, welche ist größer? a:UTT_BOUNDARY 974 oder 8", 974 oder 8
+"F: Welche Zahl ist größer, 228 oder 190? A:","['228', '190']",228,"UTT_BOUNDARY f: welche zahl ist größer, 228 oder 190? a:UTT_BOUNDARY 170 oder 76", 170 oder 76
+"F: Von den Zahlen 56 und 489, welche ist größer? A:","['56', '489']",489,"UTT_BOUNDARY f: von den zahlen 56 und 489, welche ist größer? a:UTT_BOUNDARY 589 oder 5", 589 oder 5
+Gib von den Zahlen 837 und 17 die größere an: ,"['837', '17']",837,UTT_BOUNDARY gib von den zahlen 837 und 17 die größere an:UTT_BOUNDARY 8370 im, 8370 im
+"F: Welche Zahl ist größer, 998 oder 201? A:","['998', '201']",998,"UTT_BOUNDARY f: welche zahl ist größer, 998 oder 201? a:UTT_BOUNDARY 988? a", 988? a
+Gib von den Zahlen 47 und 836 die größere an: ,"['47', '836']",836,UTT_BOUNDARY gib von den zahlen 47 und 836 die größere an:UTT_BOUNDARY 836 die kleinere, 836 die kleinere
+"F: Welche Zahl ist größer, 236 oder 41? A:","['236', '41']",236,"UTT_BOUNDARY f: welche zahl ist größer, 236 oder 41? a:UTT_BOUNDARY 466 oder 8", 466 oder 8
+"F: Welche Zahl ist größer, 702 oder 156? A:","['702', '156']",702,"UTT_BOUNDARY f: welche zahl ist größer, 702 oder 156? a:UTT_BOUNDARY 702? a:", 702? a:
+"F: Von den Zahlen 403 und 424, welche ist größer? A:","['403', '424']",424,"UTT_BOUNDARY f: von den zahlen 403 und 424, welche ist größer? a:UTT_BOUNDARY 4233 oder 5", 4233 oder 5
+"F: Von den Zahlen 508 und 98, welche ist größer? A:","['508', '98']",508,"UTT_BOUNDARY f: von den zahlen 508 und 98, welche ist größer? a:UTT_BOUNDARY 988 oder 8", 988 oder 8
+"F: Welche Zahl ist größer, 332 oder 701? A:","['332', '701']",701,"UTT_BOUNDARY f: welche zahl ist größer, 332 oder 701? a:UTT_BOUNDARY 752? a:", 752? a:
+Gib von den Zahlen 289 und 11 die größere an: ,"['289', '11']",289,UTT_BOUNDARY gib von den zahlen 289 und 11 die größere an:UTT_BOUNDARY 289 die größere an, 289 die größere an
+"F: Von den Zahlen 772 und 105, welche ist größer? A:","['772', '105']",772,"UTT_BOUNDARY f: von den zahlen 772 und 105, welche ist größer? a:UTT_BOUNDARY 728? a", 728? a
+"F: Von den Zahlen 220 und 299, welche ist größer? A:","['220', '299']",299,"UTT_BOUNDARY f: von den zahlen 220 und 299, welche ist größer? a:UTT_BOUNDARY 220 219 oder", 220 219 oder
+Gib von den Zahlen 557 und 927 die größere an: ,"['557', '927']",927,UTT_BOUNDARY gib von den zahlen 557 und 927 die größere an:UTT_BOUNDARY 957ende-, 957ende-
+Gib von den Zahlen 801 und 514 die größere an: ,"['801', '514']",801,"UTT_BOUNDARY gib von den zahlen 801 und 514 die größere an:UTT_BOUNDARY 801, welche ist"," 801, welche ist"
+"F: Welche Zahl ist größer, 23 oder 974? A:","['23', '974']",974,"UTT_BOUNDARY f: welche zahl ist größer, 23 oder 974? a:UTT_BOUNDARY 974 oder 8", 974 oder 8
+Gib von den Zahlen 502 und 862 die größere an: ,"['502', '862']",862,"UTT_BOUNDARY gib von den zahlen 502 und 862 die größere an:UTT_BOUNDARY 828, 12"," 828, 12"
+Gib von den Zahlen 546 und 942 die größere an: ,"['546', '942']",942,"UTT_BOUNDARY gib von den zahlen 546 und 942 die größere an:UTT_BOUNDARY 942, 9"," 942, 9"
+"F: Von den Zahlen 889 und 508, welche ist größer? A:","['889', '508']",889,"UTT_BOUNDARY f: von den zahlen 889 und 508, welche ist größer? a:UTT_BOUNDARY 888 oder 5", 888 oder 5
+"F: Von den Zahlen 590 und 169, welche ist größer? A:","['590', '169']",590,"UTT_BOUNDARY f: von den zahlen 590 und 169, welche ist größer? a:UTT_BOUNDARY 5906? a", 5906? a
+Gib von den Zahlen 47 und 103 die größere an: ,"['47', '103']",103,UTT_BOUNDARY gib von den zahlen 47 und 103 die größere an:UTT_BOUNDARY 4633 oder, 4633 oder
+"F: Welche Zahl ist größer, 327 oder 194? A:","['327', '194']",327,"UTT_BOUNDARY f: welche zahl ist größer, 327 oder 194? a:UTT_BOUNDARY 327? a:", 327? a:
+"F: Welche Zahl ist größer, 845 oder 521? A:","['845', '521']",845,"UTT_BOUNDARY f: welche zahl ist größer, 845 oder 521? a:UTT_BOUNDARY 821, welche"," 821, welche"
+"F: Welche Zahl ist größer, 186 oder 768? A:","['186', '768']",768,"UTT_BOUNDARY f: welche zahl ist größer, 186 oder 768? a:UTT_BOUNDARY 768 oder 7", 768 oder 7
+"F: Welche Zahl ist größer, 761 oder 448? A:","['761', '448']",761,"UTT_BOUNDARY f: welche zahl ist größer, 761 oder 448? a:UTT_BOUNDARY 761 oder 7", 761 oder 7
+"F: Von den Zahlen 695 und 50, welche ist größer? A:","['695', '50']",695,"UTT_BOUNDARY f: von den zahlen 695 und 50, welche ist größer? a:UTT_BOUNDARY 695 oder 5", 695 oder 5
+Gib von den Zahlen 126 und 311 die größere an: ,"['126', '311']",311,UTT_BOUNDARY gib von den zahlen 126 und 311 die größere an:UTT_BOUNDARY 31163 und, 31163 und
+"F: Von den Zahlen 334 und 271, welche ist größer? A:","['334', '271']",334,"UTT_BOUNDARY f: von den zahlen 334 und 271, welche ist größer? a:UTT_BOUNDARY 331, 294"," 331, 294"
+"F: Von den Zahlen 92 und 139, welche ist größer? A:","['92', '139']",139,"UTT_BOUNDARY f: von den zahlen 92 und 139, welche ist größer? a:UTT_BOUNDARY 929 oder 8", 929 oder 8
+"F: Welche Zahl ist größer, 223 oder 316? A:","['223', '316']",316,"UTT_BOUNDARY f: welche zahl ist größer, 223 oder 316? a:UTT_BOUNDARY 223 oder 53", 223 oder 53
+Gib von den Zahlen 481 und 381 die größere an: ,"['481', '381']",481,UTT_BOUNDARY gib von den zahlen 481 und 381 die größere an:UTT_BOUNDARY 481 oder 6, 481 oder 6
+"F: Von den Zahlen 32 und 746, welche ist größer? A:","['32', '746']",746,"UTT_BOUNDARY f: von den zahlen 32 und 746, welche ist größer? a:UTT_BOUNDARY 746? a", 746? a
+"F: Welche Zahl ist größer, 223 oder 636? A:","['223', '636']",636,"UTT_BOUNDARY f: welche zahl ist größer, 223 oder 636? a:UTT_BOUNDARY 633 oder 5", 633 oder 5
+"F: Welche Zahl ist größer, 596 oder 692? A:","['596', '692']",692,"UTT_BOUNDARY f: welche zahl ist größer, 596 oder 692? a:UTT_BOUNDARY 692 und 5", 692 und 5
+Gib von den Zahlen 470 und 446 die größere an: ,"['470', '446']",470,UTT_BOUNDARY gib von den zahlen 470 und 446 die größere an:UTT_BOUNDARY 467 in berlin, 467 in berlin
+"F: Von den Zahlen 72 und 179, welche ist größer? A:","['72', '179']",179,"UTT_BOUNDARY f: von den zahlen 72 und 179, welche ist größer? a:UTT_BOUNDARY 172? a:", 172? a:
+"F: Welche Zahl ist größer, 25 oder 611? A:","['25', '611']",611,"UTT_BOUNDARY f: welche zahl ist größer, 25 oder 611? a:UTT_BOUNDARY 611 und 54", 611 und 54
+"F: Von den Zahlen 997 und 270, welche ist größer? A:","['997', '270']",997,"UTT_BOUNDARY f: von den zahlen 997 und 270, welche ist größer? a:UTT_BOUNDARY 970 oder 8", 970 oder 8
+"F: Von den Zahlen 574 und 177, welche ist größer? A:","['574', '177']",574,"UTT_BOUNDARY f: von den zahlen 574 und 177, welche ist größer? a:UTT_BOUNDARY 574 oder 5", 574 oder 5
+Gib von den Zahlen 102 und 550 die größere an: ,"['102', '550']",550,"UTT_BOUNDARY gib von den zahlen 102 und 550 die größere an:UTT_BOUNDARY 528."" a"," 528."" a"
+"F: Welche Zahl ist größer, 75 oder 474? A:","['75', '474']",474,"UTT_BOUNDARY f: welche zahl ist größer, 75 oder 474? a:UTT_BOUNDARY 754, 434"," 754, 434"
+"F: Welche Zahl ist größer, 130 oder 895? A:","['130', '895']",895,"UTT_BOUNDARY f: welche zahl ist größer, 130 oder 895? a:UTT_BOUNDARY 895 oder 8", 895 oder 8
+"F: Von den Zahlen 52 und 866, welche ist größer? A:","['52', '866']",866,"UTT_BOUNDARY f: von den zahlen 52 und 866, welche ist größer? a:UTT_BOUNDARY 866? a", 866? a
+"F: Welche Zahl ist größer, 773 oder 539? A:","['773', '539']",773,"UTT_BOUNDARY f: welche zahl ist größer, 773 oder 539? a:UTT_BOUNDARY 7333 oder", 7333 oder
+"F: Von den Zahlen 319 und 983, welche ist größer? A:","['319', '983']",983,"UTT_BOUNDARY f: von den zahlen 319 und 983, welche ist größer? a:UTT_BOUNDARY 983 oder 5", 983 oder 5
+Gib von den Zahlen 718 und 934 die größere an: ,"['718', '934']",934,UTT_BOUNDARY gib von den zahlen 718 und 934 die größere an:UTT_BOUNDARY 934 in der, 934 in der
+"F: Welche Zahl ist größer, 533 oder 392? A:","['533', '392']",533,"UTT_BOUNDARY f: welche zahl ist größer, 533 oder 392? a:UTT_BOUNDARY 53333", 53333
+Gib von den Zahlen 986 und 469 die größere an: ,"['986', '469']",986,UTT_BOUNDARY gib von den zahlen 986 und 469 die größere an:UTT_BOUNDARY 966 oder 8, 966 oder 8
+"F: Welche Zahl ist größer, 701 oder 967? A:","['701', '967']",967,"UTT_BOUNDARY f: welche zahl ist größer, 701 oder 967? a:UTT_BOUNDARY 961 oder 8", 961 oder 8
+Gib von den Zahlen 160 und 111 die größere an: ,"['160', '111']",160,UTT_BOUNDARY gib von den zahlen 160 und 111 die größere an:UTT_BOUNDARY 110 oder 53, 110 oder 53
+"F: Von den Zahlen 641 und 373, welche ist größer? A:","['641', '373']",641,"UTT_BOUNDARY f: von den zahlen 641 und 373, welche ist größer? a:UTT_BOUNDARY 643 oder 5", 643 oder 5
+"F: Welche Zahl ist größer, 946 oder 911? A:","['946', '911']",946,"UTT_BOUNDARY f: welche zahl ist größer, 946 oder 911? a:UTT_BOUNDARY 946 oder 8", 946 oder 8
+"F: Welche Zahl ist größer, 715 oder 650? A:","['715', '650']",715,"UTT_BOUNDARY f: welche zahl ist größer, 715 oder 650? a:UTT_BOUNDARY 715 oder 52", 715 oder 52
+"F: Von den Zahlen 500 und 181, welche ist größer? A:","['500', '181']",500,"UTT_BOUNDARY f: von den zahlen 500 und 181, welche ist größer? a:UTT_BOUNDARY 1921 und 72", 1921 und 72
+"F: Welche Zahl ist größer, 140 oder 529? A:","['140', '529']",529,"UTT_BOUNDARY f: welche zahl ist größer, 140 oder 529? a:UTT_BOUNDARY 529? a", 529? a
+"F: Welche Zahl ist größer, 660 oder 165? A:","['660', '165']",660,"UTT_BOUNDARY f: welche zahl ist größer, 660 oder 165? a:UTT_BOUNDARY 6302 oder 5", 6302 oder 5
+Gib von den Zahlen 218 und 215 die größere an: ,"['218', '215']",218,UTT_BOUNDARY gib von den zahlen 218 und 215 die größere an:UTT_BOUNDARY 218 die kleinere:, 218 die kleinere:
+"F: Von den Zahlen 107 und 408, welche ist größer? A:","['107', '408']",408,"UTT_BOUNDARY f: von den zahlen 107 und 408, welche ist größer? a:UTT_BOUNDARY 408 oder 58", 408 oder 58
+"F: Von den Zahlen 497 und 667, welche ist größer? A:","['497', '667']",667,"UTT_BOUNDARY f: von den zahlen 497 und 667, welche ist größer? a:UTT_BOUNDARY 677 oder 5", 677 oder 5
+"F: Welche Zahl ist größer, 134 oder 41? A:","['134', '41']",134,"UTT_BOUNDARY f: welche zahl ist größer, 134 oder 41? a:UTT_BOUNDARY 464 oder 5", 464 oder 5
+"F: Von den Zahlen 10 und 564, welche ist größer? A:","['10', '564']",564,"UTT_BOUNDARY f: von den zahlen 10 und 564, welche ist größer? a:UTT_BOUNDARY 564 oder 5", 564 oder 5
+Gib von den Zahlen 823 und 868 die größere an: ,"['823', '868']",868,UTT_BOUNDARY gib von den zahlen 823 und 868 die größere an:UTT_BOUNDARY 828meeri, 828meeri
+Gib von den Zahlen 764 und 853 die größere an: ,"['764', '853']",853,UTT_BOUNDARY gib von den zahlen 764 und 853 die größere an:UTT_BOUNDARY 854e 10, 854e 10
+"F: Von den Zahlen 28 und 250, welche ist größer? A:","['28', '250']",250,"UTT_BOUNDARY f: von den zahlen 28 und 250, welche ist größer? a:UTT_BOUNDARY 280? a:", 280? a:
+Gib von den Zahlen 101 und 566 die größere an: ,"['101', '566']",566,UTT_BOUNDARY gib von den zahlen 101 und 566 die größere an:UTT_BOUNDARY 561 und 6, 561 und 6
+Gib von den Zahlen 429 und 749 die größere an: ,"['429', '749']",749,"UTT_BOUNDARY gib von den zahlen 429 und 749 die größere an:UTT_BOUNDARY 749, 9"," 749, 9"
+Gib von den Zahlen 543 und 741 die größere an: ,"['543', '741']",741,UTT_BOUNDARY gib von den zahlen 543 und 741 die größere an:UTT_BOUNDARY 743 oder 6, 743 oder 6
+"F: Von den Zahlen 675 und 973, welche ist größer? A:","['675', '973']",973,"UTT_BOUNDARY f: von den zahlen 675 und 973, welche ist größer? a:UTT_BOUNDARY 976 oder 8", 976 oder 8
+"F: Von den Zahlen 969 und 863, welche ist größer? A:","['969', '863']",969,"UTT_BOUNDARY f: von den zahlen 969 und 863, welche ist größer? a:UTT_BOUNDARY 966 oder 8", 966 oder 8
+"F: Welche Zahl ist größer, 961 oder 899? A:","['961', '899']",961,"UTT_BOUNDARY f: welche zahl ist größer, 961 oder 899? a:UTT_BOUNDARY 9001 oder 7", 9001 oder 7
+"F: Von den Zahlen 531 und 218, welche ist größer? A:","['531', '218']",531,"UTT_BOUNDARY f: von den zahlen 531 und 218, welche ist größer? a:UTT_BOUNDARY 581, 22"," 581, 22"
+"F: Welche Zahl ist größer, 753 oder 61? A:","['753', '61']",753,"UTT_BOUNDARY f: welche zahl ist größer, 753 oder 61? a:UTT_BOUNDARY 633 oder 5", 633 oder 5
+Gib von den Zahlen 314 und 880 die größere an: ,"['314', '880']",880,UTT_BOUNDARY gib von den zahlen 314 und 880 die größere an:UTT_BOUNDARY 84033ki, 84033ki
+Gib von den Zahlen 91 und 812 die größere an: ,"['91', '812']",812,UTT_BOUNDARY gib von den zahlen 91 und 812 die größere an:UTT_BOUNDARY 911 und 945, 911 und 945
+Gib von den Zahlen 786 und 918 die größere an: ,"['786', '918']",918,UTT_BOUNDARY gib von den zahlen 786 und 918 die größere an:UTT_BOUNDARY 986 in berlin, 986 in berlin
+Gib von den Zahlen 58 und 282 die größere an: ,"['58', '282']",282,UTT_BOUNDARY gib von den zahlen 58 und 282 die größere an:UTT_BOUNDARY 582 die kleinere, 582 die kleinere
+"F: Welche Zahl ist größer, 872 oder 114? A:","['872', '114']",872,"UTT_BOUNDARY f: welche zahl ist größer, 872 oder 114? a:UTT_BOUNDARY 872 oder 8", 872 oder 8
+"F: Von den Zahlen 688 und 998, welche ist größer? A:","['688', '998']",998,"UTT_BOUNDARY f: von den zahlen 688 und 998, welche ist größer? a:UTT_BOUNDARY 988 oder 8", 988 oder 8
+"F: Von den Zahlen 474 und 207, welche ist größer? A:","['474', '207']",474,"UTT_BOUNDARY f: von den zahlen 474 und 207, welche ist größer? a:UTT_BOUNDARY 474? a", 474? a
+Gib von den Zahlen 447 und 789 die größere an: ,"['447', '789']",789,UTT_BOUNDARY gib von den zahlen 447 und 789 die größere an:UTT_BOUNDARY 789 oder 8, 789 oder 8
+"F: Welche Zahl ist größer, 461 oder 865? A:","['461', '865']",865,"UTT_BOUNDARY f: welche zahl ist größer, 461 oder 865? a:UTT_BOUNDARY 865 oder 5", 865 oder 5
+"F: Von den Zahlen 431 und 45, welche ist größer? A:","['431', '45']",431,"UTT_BOUNDARY f: von den zahlen 431 und 45, welche ist größer? a:UTT_BOUNDARY 451, welche ist"," 451, welche ist"
+"F: Von den Zahlen 383 und 986, welche ist größer? A:","['383', '986']",986,"UTT_BOUNDARY f: von den zahlen 383 und 986, welche ist größer? a:UTT_BOUNDARY 983 oder 8", 983 oder 8
+Gib von den Zahlen 780 und 758 die größere an: ,"['780', '758']",780,"UTT_BOUNDARY gib von den zahlen 780 und 758 die größere an:UTT_BOUNDARY 750."" und 9"," 750."" und 9"
+"F: Von den Zahlen 147 und 606, welche ist größer? A:","['147', '606']",606,"UTT_BOUNDARY f: von den zahlen 147 und 606, welche ist größer? a:UTT_BOUNDARY 606 oder 56", 606 oder 56
+"F: Welche Zahl ist größer, 388 oder 412? A:","['388', '412']",412,"UTT_BOUNDARY f: welche zahl ist größer, 388 oder 412? a:UTT_BOUNDARY 4122 oder 5", 4122 oder 5
+"F: Welche Zahl ist größer, 623 oder 843? A:","['623', '843']",843,"UTT_BOUNDARY f: welche zahl ist größer, 623 oder 843? a:UTT_BOUNDARY 84333", 84333
+"F: Von den Zahlen 789 und 358, welche ist größer? A:","['789', '358']",789,"UTT_BOUNDARY f: von den zahlen 789 und 358, welche ist größer? a:UTT_BOUNDARY 788 oder 5", 788 oder 5
+"F: Welche Zahl ist größer, 937 oder 893? A:","['937', '893']",937,"UTT_BOUNDARY f: welche zahl ist größer, 937 oder 893? a:UTT_BOUNDARY 937 oder 8", 937 oder 8
+"F: Welche Zahl ist größer, 829 oder 740? A:","['829', '740']",829,"UTT_BOUNDARY f: welche zahl ist größer, 829 oder 740? a:UTT_BOUNDARY 829? a", 829? a
+"F: Welche Zahl ist größer, 763 oder 127? A:","['763', '127']",763,"UTT_BOUNDARY f: welche zahl ist größer, 763 oder 127? a:UTT_BOUNDARY 763 oder 7", 763 oder 7
+"F: Welche Zahl ist größer, 971 oder 382? A:","['971', '382']",971,"UTT_BOUNDARY f: welche zahl ist größer, 971 oder 382? a:UTT_BOUNDARY 971 oder 6", 971 oder 6
+"F: Von den Zahlen 110 und 845, welche ist größer? A:","['110', '845']",845,"UTT_BOUNDARY f: von den zahlen 110 und 845, welche ist größer? a:UTT_BOUNDARY 845 oder 945", 845 oder 945
+"F: Welche Zahl ist größer, 259 oder 712? A:","['259', '712']",712,"UTT_BOUNDARY f: welche zahl ist größer, 259 oder 712? a:UTT_BOUNDARY 7129? a", 7129? a
+Gib von den Zahlen 75 und 901 die größere an: ,"['75', '901']",901,"UTT_BOUNDARY gib von den zahlen 75 und 901 die größere an:UTT_BOUNDARY 751, welche ist"," 751, welche ist"
+"F: Welche Zahl ist größer, 645 oder 397? A:","['645', '397']",645,"UTT_BOUNDARY f: welche zahl ist größer, 645 oder 397? a:UTT_BOUNDARY 697 oder 5", 697 oder 5
+"F: Welche Zahl ist größer, 602 oder 940? A:","['602', '940']",940,"UTT_BOUNDARY f: welche zahl ist größer, 602 oder 940? a:UTT_BOUNDARY 923 oder 5", 923 oder 5
+Gib von den Zahlen 301 und 862 die größere an: ,"['301', '862']",862,"UTT_BOUNDARY gib von den zahlen 301 und 862 die größere an:UTT_BOUNDARY 821, welche"," 821, welche"
+Gib von den Zahlen 39 und 148 die größere an: ,"['39', '148']",148,UTT_BOUNDARY gib von den zahlen 39 und 148 die größere an:UTT_BOUNDARY 398 und 5, 398 und 5
+"F: Von den Zahlen 471 und 118, welche ist größer? A:","['471', '118']",471,"UTT_BOUNDARY f: von den zahlen 471 und 118, welche ist größer? a:UTT_BOUNDARY 487 oder 5", 487 oder 5
+"F: Von den Zahlen 393 und 128, welche ist größer? A:","['393', '128']",393,"UTT_BOUNDARY f: von den zahlen 393 und 128, welche ist größer? a:UTT_BOUNDARY 393 oder 5", 393 oder 5
+"F: Von den Zahlen 594 und 264, welche ist größer? A:","['594', '264']",594,"UTT_BOUNDARY f: von den zahlen 594 und 264, welche ist größer? a:UTT_BOUNDARY 594 mit viel", 594 mit viel
+Gib von den Zahlen 184 und 134 die größere an: ,"['184', '134']",184,UTT_BOUNDARY gib von den zahlen 184 und 134 die größere an:UTT_BOUNDARY 184 in der kunst, 184 in der kunst
+"F: Welche Zahl ist größer, 228 oder 492? A:","['228', '492']",492,"UTT_BOUNDARY f: welche zahl ist größer, 228 oder 492? a:UTT_BOUNDARY 492 oder 5", 492 oder 5
+Gib von den Zahlen 835 und 91 die größere an: ,"['835', '91']",835,UTT_BOUNDARY gib von den zahlen 835 und 91 die größere an:UTT_BOUNDARY 835 im zimmer, 835 im zimmer
+Gib von den Zahlen 182 und 732 die größere an: ,"['182', '732']",732,UTT_BOUNDARY gib von den zahlen 182 und 732 die größere an:UTT_BOUNDARY 728 und 5, 728 und 5
+"F: Welche Zahl ist größer, 721 oder 35? A:","['721', '35']",721,"UTT_BOUNDARY f: welche zahl ist größer, 721 oder 35? a:UTT_BOUNDARY 351 oder 72", 351 oder 72
+"F: Welche Zahl ist größer, 291 oder 460? A:","['291', '460']",460,"UTT_BOUNDARY f: welche zahl ist größer, 291 oder 460? a:UTT_BOUNDARY 461 oder 6", 461 oder 6
+"F: Von den Zahlen 256 und 540, welche ist größer? A:","['256', '540']",540,"UTT_BOUNDARY f: von den zahlen 256 und 540, welche ist größer? a:UTT_BOUNDARY 5406? a", 5406? a
+"F: Welche Zahl ist größer, 63 oder 309? A:","['63', '309']",309,"UTT_BOUNDARY f: welche zahl ist größer, 63 oder 309? a:UTT_BOUNDARY 639 oder 5", 639 oder 5
+"F: Von den Zahlen 85 und 153, welche ist größer? A:","['85', '153']",153,"UTT_BOUNDARY f: von den zahlen 85 und 153, welche ist größer? a:UTT_BOUNDARY 853 oder 5", 853 oder 5
+Gib von den Zahlen 190 und 623 die größere an: ,"['190', '623']",623,UTT_BOUNDARY gib von den zahlen 190 und 623 die größere an:UTT_BOUNDARY 623 und 5, 623 und 5
+"F: Welche Zahl ist größer, 405 oder 202? A:","['405', '202']",405,"UTT_BOUNDARY f: welche zahl ist größer, 405 oder 202? a:UTT_BOUNDARY 405? a:", 405? a:
+"F: Von den Zahlen 198 und 168, welche ist größer? A:","['198', '168']",198,"UTT_BOUNDARY f: von den zahlen 198 und 168, welche ist größer? a:UTT_BOUNDARY 198 und 982", 198 und 982
+"F: Von den Zahlen 473 und 75, welche ist größer? A:","['473', '75']",473,"UTT_BOUNDARY f: von den zahlen 473 und 75, welche ist größer? a:UTT_BOUNDARY 7533 oder 5", 7533 oder 5
+"F: Von den Zahlen 857 und 140, welche ist größer? A:","['857', '140']",857,"UTT_BOUNDARY f: von den zahlen 857 und 140, welche ist größer? a:UTT_BOUNDARY 870 oder 5", 870 oder 5
+"F: Welche Zahl ist größer, 755 oder 757? A:","['755', '757']",757,"UTT_BOUNDARY f: welche zahl ist größer, 755 oder 757? a:UTT_BOUNDARY 755? a:", 755? a:
+"F: Welche Zahl ist größer, 919 oder 261? A:","['919', '261']",919,"UTT_BOUNDARY f: welche zahl ist größer, 919 oder 261? a:UTT_BOUNDARY 919: welches wort", 919: welches wort
+"F: Von den Zahlen 99 und 225, welche ist größer? A:","['99', '225']",225,"UTT_BOUNDARY f: von den zahlen 99 und 225, welche ist größer? a:UTT_BOUNDARY 995 oder 8", 995 oder 8
+"F: Welche Zahl ist größer, 78 oder 27? A:","['78', '27']",78,"UTT_BOUNDARY f: welche zahl ist größer, 78 oder 27? a:UTT_BOUNDARY 788 oder 7", 788 oder 7
+Gib von den Zahlen 544 und 407 die größere an: ,"['544', '407']",544,"UTT_BOUNDARY gib von den zahlen 544 und 407 die größere an:UTT_BOUNDARY 547ende,"," 547ende,"
+"F: Von den Zahlen 151 und 202, welche ist größer? A:","['151', '202']",202,"UTT_BOUNDARY f: von den zahlen 151 und 202, welche ist größer? a:UTT_BOUNDARY 151 oder 63", 151 oder 63
+Gib von den Zahlen 278 und 921 die größere an: ,"['278', '921']",921,UTT_BOUNDARY gib von den zahlen 278 und 921 die größere an:UTT_BOUNDARY 981 und 9, 981 und 9
+"F: Welche Zahl ist größer, 120 oder 924? A:","['120', '924']",924,"UTT_BOUNDARY f: welche zahl ist größer, 120 oder 924? a:UTT_BOUNDARY 924 oder 5", 924 oder 5
+Gib von den Zahlen 994 und 199 die größere an: ,"['994', '199']",994,UTT_BOUNDARY gib von den zahlen 994 und 199 die größere an:UTT_BOUNDARY 994 in der, 994 in der
+"F: Von den Zahlen 644 und 702, welche ist größer? A:","['644', '702']",702,"UTT_BOUNDARY f: von den zahlen 644 und 702, welche ist größer? a:UTT_BOUNDARY 804 oder 54", 804 oder 54
+"F: Von den Zahlen 704 und 71, welche ist größer? A:","['704', '71']",704,"UTT_BOUNDARY f: von den zahlen 704 und 71, welche ist größer? a:UTT_BOUNDARY 744? a", 744? a
+"F: Von den Zahlen 303 und 549, welche ist größer? A:","['303', '549']",549,"UTT_BOUNDARY f: von den zahlen 303 und 549, welche ist größer? a:UTT_BOUNDARY 549, 9"," 549, 9"
+"F: Welche Zahl ist größer, 901 oder 875? A:","['901', '875']",901,"UTT_BOUNDARY f: welche zahl ist größer, 901 oder 875? a:UTT_BOUNDARY 875 oder 5", 875 oder 5
+Gib von den Zahlen 210 und 632 die größere an: ,"['210', '632']",632,UTT_BOUNDARY gib von den zahlen 210 und 632 die größere an:UTT_BOUNDARY 6323 die, 6323 die
+Gib von den Zahlen 897 und 964 die größere an: ,"['897', '964']",964,UTT_BOUNDARY gib von den zahlen 897 und 964 die größere an:UTT_BOUNDARY 997 und 9, 997 und 9
+"F: Von den Zahlen 834 und 8, welche ist größer? A:","['834', '8']",834,"UTT_BOUNDARY f: von den zahlen 834 und 8, welche ist größer? a:UTT_BOUNDARY 834? a", 834? a
+"F: Von den Zahlen 667 und 100, welche ist größer? A:","['667', '100']",667,"UTT_BOUNDARY f: von den zahlen 667 und 100, welche ist größer? a:UTT_BOUNDARY 677? a", 677? a
+"F: Welche Zahl ist größer, 31 oder 378? A:","['31', '378']",378,"UTT_BOUNDARY f: welche zahl ist größer, 31 oder 378? a:UTT_BOUNDARY 3131 oder 7", 3131 oder 7
+Gib von den Zahlen 469 und 848 die größere an: ,"['469', '848']",848,UTT_BOUNDARY gib von den zahlen 469 und 848 die größere an:UTT_BOUNDARY 848 oder 5, 848 oder 5
+Gib von den Zahlen 812 und 531 die größere an: ,"['812', '531']",812,"UTT_BOUNDARY gib von den zahlen 812 und 531 die größere an:UTT_BOUNDARY 831, 22"," 831, 22"
+Gib von den Zahlen 638 und 886 die größere an: ,"['638', '886']",886,UTT_BOUNDARY gib von den zahlen 638 und 886 die größere an:UTT_BOUNDARY 888 oder 8, 888 oder 8
+"F: Welche Zahl ist größer, 618 oder 360? A:","['618', '360']",618,"UTT_BOUNDARY f: welche zahl ist größer, 618 oder 360? a:UTT_BOUNDARY 618 oder 56", 618 oder 56
+"F: Von den Zahlen 643 und 621, welche ist größer? A:","['643', '621']",643,"UTT_BOUNDARY f: von den zahlen 643 und 621, welche ist größer? a:UTT_BOUNDARY 642? a", 642? a
+"F: Von den Zahlen 566 und 132, welche ist größer? A:","['566', '132']",566,"UTT_BOUNDARY f: von den zahlen 566 und 132, welche ist größer? a:UTT_BOUNDARY 566 oder 5", 566 oder 5
+"F: Von den Zahlen 469 und 871, welche ist größer? A:","['469', '871']",871,"UTT_BOUNDARY f: von den zahlen 469 und 871, welche ist größer? a:UTT_BOUNDARY 861, welche"," 861, welche"
+"F: Von den Zahlen 440 und 580, welche ist größer? A:","['440', '580']",580,"UTT_BOUNDARY f: von den zahlen 440 und 580, welche ist größer? a:UTT_BOUNDARY 59027 würde", 59027 würde
+Gib von den Zahlen 270 und 184 die größere an: ,"['270', '184']",270,"UTT_BOUNDARY gib von den zahlen 270 und 184 die größere an:UTT_BOUNDARY 180, welche ist"," 180, welche ist"
+Gib von den Zahlen 344 und 249 die größere an: ,"['344', '249']",344,"UTT_BOUNDARY gib von den zahlen 344 und 249 die größere an:UTT_BOUNDARY 3491 ""j"," 3491 ""j"
+"F: Von den Zahlen 698 und 55, welche ist größer? A:","['698', '55']",698,"UTT_BOUNDARY f: von den zahlen 698 und 55, welche ist größer? a:UTT_BOUNDARY 698 oder 5", 698 oder 5
+Gib von den Zahlen 871 und 329 die größere an: ,"['871', '329']",871,"UTT_BOUNDARY gib von den zahlen 871 und 329 die größere an:UTT_BOUNDARY 871, die"," 871, die"
+"F: Von den Zahlen 428 und 250, welche ist größer? A:","['428', '250']",428,"UTT_BOUNDARY f: von den zahlen 428 und 250, welche ist größer? a:UTT_BOUNDARY 428 und 58", 428 und 58
+Gib von den Zahlen 718 und 567 die größere an: ,"['718', '567']",718,UTT_BOUNDARY gib von den zahlen 718 und 567 die größere an:UTT_BOUNDARY 770 und 5, 770 und 5
+"F: Welche Zahl ist größer, 727 oder 585? A:","['727', '585']",727,"UTT_BOUNDARY f: welche zahl ist größer, 727 oder 585? a:UTT_BOUNDARY 725hollen", 725hollen
+"F: Von den Zahlen 242 und 796, welche ist größer? A:","['242', '796']",796,"UTT_BOUNDARY f: von den zahlen 242 und 796, welche ist größer? a:UTT_BOUNDARY 792? a", 792? a
+Gib von den Zahlen 592 und 435 die größere an: ,"['592', '435']",592,UTT_BOUNDARY gib von den zahlen 592 und 435 die größere an:UTT_BOUNDARY 552 die größere, 552 die größere
+"F: Welche Zahl ist größer, 952 oder 635? A:","['952', '635']",952,"UTT_BOUNDARY f: welche zahl ist größer, 952 oder 635? a:UTT_BOUNDARY 955 oder 8", 955 oder 8
+"F: Von den Zahlen 249 und 963, welche ist größer? A:","['249', '963']",963,"UTT_BOUNDARY f: von den zahlen 249 und 963, welche ist größer? a:UTT_BOUNDARY 939 oder 8", 939 oder 8
+Gib von den Zahlen 928 und 269 die größere an: ,"['928', '269']",928,UTT_BOUNDARY gib von den zahlen 928 und 269 die größere an:UTT_BOUNDARY 928 des wasser, 928 des wasser
+"F: Welche Zahl ist größer, 792 oder 832? A:","['792', '832']",832,"UTT_BOUNDARY f: welche zahl ist größer, 792 oder 832? a:UTT_BOUNDARY 8232 oder", 8232 oder
+"F: Von den Zahlen 544 und 640, welche ist größer? A:","['544', '640']",640,"UTT_BOUNDARY f: von den zahlen 544 und 640, welche ist größer? a:UTT_BOUNDARY 644, 9"," 644, 9"
+"F: Welche Zahl ist größer, 457 oder 192? A:","['457', '192']",457,"UTT_BOUNDARY f: welche zahl ist größer, 457 oder 192? a:UTT_BOUNDARY 457? a:", 457? a:
+"F: Von den Zahlen 405 und 648, welche ist größer? A:","['405', '648']",648,"UTT_BOUNDARY f: von den zahlen 405 und 648, welche ist größer? a:UTT_BOUNDARY 648 oder 5", 648 oder 5
+Gib von den Zahlen 35 und 820 die größere an: ,"['35', '820']",820,UTT_BOUNDARY gib von den zahlen 35 und 820 die größere an:UTT_BOUNDARY 820 oder 820, 820 oder 820
+"F: Welche Zahl ist größer, 546 oder 432? A:","['546', '432']",546,"UTT_BOUNDARY f: welche zahl ist größer, 546 oder 432? a:UTT_BOUNDARY 546 oder 5", 546 oder 5
+Gib von den Zahlen 40 und 998 die größere an: ,"['40', '998']",998,UTT_BOUNDARY gib von den zahlen 40 und 998 die größere an:UTT_BOUNDARY 988 und 9, 988 und 9
+Gib von den Zahlen 997 und 448 die größere an: ,"['997', '448']",997,UTT_BOUNDARY gib von den zahlen 997 und 448 die größere an:UTT_BOUNDARY 997 und 5, 997 und 5
+"F: Welche Zahl ist größer, 938 oder 643? A:","['938', '643']",938,"UTT_BOUNDARY f: welche zahl ist größer, 938 oder 643? a:UTT_BOUNDARY 933 oder 5", 933 oder 5
+Gib von den Zahlen 754 und 545 die größere an: ,"['754', '545']",754,"UTT_BOUNDARY gib von den zahlen 754 und 545 die größere an:UTT_BOUNDARY 754, 94"," 754, 94"
+"F: Welche Zahl ist größer, 841 oder 527? A:","['841', '527']",841,"UTT_BOUNDARY f: welche zahl ist größer, 841 oder 527? a:UTT_BOUNDARY 821 oder 5", 821 oder 5
+Gib von den Zahlen 392 und 598 die größere an: ,"['392', '598']",598,UTT_BOUNDARY gib von den zahlen 392 und 598 die größere an:UTT_BOUNDARY 592 in der, 592 in der
+"F: Von den Zahlen 921 und 449, welche ist größer? A:","['921', '449']",921,"UTT_BOUNDARY f: von den zahlen 921 und 449, welche ist größer? a:UTT_BOUNDARY 921 oder 8", 921 oder 8
+Gib von den Zahlen 735 und 610 die größere an: ,"['735', '610']",735,UTT_BOUNDARY gib von den zahlen 735 und 610 die größere an:UTT_BOUNDARY 735 sollen die, 735 sollen die
+Gib von den Zahlen 926 und 372 die größere an: ,"['926', '372']",926,"UTT_BOUNDARY gib von den zahlen 926 und 372 die größere an:UTT_BOUNDARY 926, welche"," 926, welche"
+"F: Von den Zahlen 992 und 223, welche ist größer? A:","['992', '223']",992,"UTT_BOUNDARY f: von den zahlen 992 und 223, welche ist größer? a:UTT_BOUNDARY 992 oder 8", 992 oder 8
+"F: Welche Zahl ist größer, 137 oder 211? A:","['137', '211']",211,"UTT_BOUNDARY f: welche zahl ist größer, 137 oder 211? a:UTT_BOUNDARY 137? a:", 137? a:
+"F: Welche Zahl ist größer, 333 oder 26? A:","['333', '26']",333,"UTT_BOUNDARY f: welche zahl ist größer, 333 oder 26? a:UTT_BOUNDARY 333 oder 93", 333 oder 93
+"F: Welche Zahl ist größer, 964 oder 152? A:","['964', '152']",964,"UTT_BOUNDARY f: welche zahl ist größer, 964 oder 152? a:UTT_BOUNDARY 924 oder 5", 924 oder 5
+"F: Von den Zahlen 665 und 219, welche ist größer? A:","['665', '219']",665,"UTT_BOUNDARY f: von den zahlen 665 und 219, welche ist größer? a:UTT_BOUNDARY 665 oder 5", 665 oder 5
+"F: Von den Zahlen 563 und 640, welche ist größer? A:","['563', '640']",640,"UTT_BOUNDARY f: von den zahlen 563 und 640, welche ist größer? a:UTT_BOUNDARY 633 oder 5", 633 oder 5
+"F: Von den Zahlen 91 und 629, welche ist größer? A:","['91', '629']",629,"UTT_BOUNDARY f: von den zahlen 91 und 629, welche ist größer? a:UTT_BOUNDARY 921 oder 8", 921 oder 8
+Gib von den Zahlen 802 und 467 die größere an: ,"['802', '467']",802,UTT_BOUNDARY gib von den zahlen 802 und 467 die größere an:UTT_BOUNDARY 802 die kleinere:, 802 die kleinere:
+"F: Welche Zahl ist größer, 721 oder 432? A:","['721', '432']",721,"UTT_BOUNDARY f: welche zahl ist größer, 721 oder 432? a:UTT_BOUNDARY 721 oder 5", 721 oder 5
+"F: Welche Zahl ist größer, 683 oder 355? A:","['683', '355']",683,"UTT_BOUNDARY f: welche zahl ist größer, 683 oder 355? a:UTT_BOUNDARY 685 oder 83", 685 oder 83
+"F: Von den Zahlen 125 und 145, welche ist größer? A:","['125', '145']",145,"UTT_BOUNDARY f: von den zahlen 125 und 145, welche ist größer? a:UTT_BOUNDARY 125 oder 73", 125 oder 73
+"F: Von den Zahlen 959 und 190, welche ist größer? A:","['959', '190']",959,"UTT_BOUNDARY f: von den zahlen 959 und 190, welche ist größer? a:UTT_BOUNDARY 959 oder 8", 959 oder 8
+"F: Welche Zahl ist größer, 389 oder 139? A:","['389', '139']",389,"UTT_BOUNDARY f: welche zahl ist größer, 389 oder 139? a:UTT_BOUNDARY 389 oder 89", 389 oder 89
+"F: Von den Zahlen 224 und 801, welche ist größer? A:","['224', '801']",801,"UTT_BOUNDARY f: von den zahlen 224 und 801, welche ist größer? a:UTT_BOUNDARY 801, 384"," 801, 384"
+"F: Von den Zahlen 932 und 236, welche ist größer? A:","['932', '236']",932,"UTT_BOUNDARY f: von den zahlen 932 und 236, welche ist größer? a:UTT_BOUNDARY 936 oder 8", 936 oder 8
+"F: Von den Zahlen 841 und 179, welche ist größer? A:","['841', '179']",841,"UTT_BOUNDARY f: von den zahlen 841 und 179, welche ist größer? a:UTT_BOUNDARY 841 oder 6", 841 oder 6
+"F: Welche Zahl ist größer, 727 oder 628? A:","['727', '628']",727,"UTT_BOUNDARY f: welche zahl ist größer, 727 oder 628? a:UTT_BOUNDARY 728 oder 5", 728 oder 5
+"F: Von den Zahlen 117 und 95, welche ist größer? A:","['117', '95']",117,"UTT_BOUNDARY f: von den zahlen 117 und 95, welche ist größer? a:UTT_BOUNDARY 977 oder 9", 977 oder 9
+"F: Welche Zahl ist größer, 27 oder 153? A:","['27', '153']",153,"UTT_BOUNDARY f: welche zahl ist größer, 27 oder 153? a:UTT_BOUNDARY 1533 oder 5", 1533 oder 5
+Gib von den Zahlen 757 und 730 die größere an: ,"['757', '730']",757,UTT_BOUNDARY gib von den zahlen 757 und 730 die größere an:UTT_BOUNDARY 7570 und 6, 7570 und 6
+"F: Welche Zahl ist größer, 880 oder 542? A:","['880', '542']",880,"UTT_BOUNDARY f: welche zahl ist größer, 880 oder 542? a:UTT_BOUNDARY 842? a", 842? a
+"F: Welche Zahl ist größer, 167 oder 781? A:","['167', '781']",781,"UTT_BOUNDARY f: welche zahl ist größer, 167 oder 781? a:UTT_BOUNDARY 771 oder 7", 771 oder 7
+"F: Welche Zahl ist größer, 265 oder 788? A:","['265', '788']",788,"UTT_BOUNDARY f: welche zahl ist größer, 265 oder 788? a:UTT_BOUNDARY 788 oder 5", 788 oder 5
+Gib von den Zahlen 712 und 621 die größere an: ,"['712', '621']",712,UTT_BOUNDARY gib von den zahlen 712 und 621 die größere an:UTT_BOUNDARY 7122 und 5, 7122 und 5
+"F: Von den Zahlen 100 und 430, welche ist größer? A:","['100', '430']",430,"UTT_BOUNDARY f: von den zahlen 100 und 430, welche ist größer? a:UTT_BOUNDARY 4504 oder 5", 4504 oder 5
+"F: Welche Zahl ist größer, 567 oder 564? A:","['567', '564']",567,"UTT_BOUNDARY f: welche zahl ist größer, 567 oder 564? a:UTT_BOUNDARY 564 oder 5", 564 oder 5
+"F: Welche Zahl ist größer, 294 oder 110? A:","['294', '110']",294,"UTT_BOUNDARY f: welche zahl ist größer, 294 oder 110? a:UTT_BOUNDARY 290? a:", 290? a:
+"F: Von den Zahlen 655 und 270, welche ist größer? A:","['655', '270']",655,"UTT_BOUNDARY f: von den zahlen 655 und 270, welche ist größer? a:UTT_BOUNDARY 655 oder 55", 655 oder 55
+Gib von den Zahlen 947 und 959 die größere an: ,"['947', '959']",959,UTT_BOUNDARY gib von den zahlen 947 und 959 die größere an:UTT_BOUNDARY 957 oder 8, 957 oder 8
+"F: Von den Zahlen 723 und 475, welche ist größer? A:","['723', '475']",723,"UTT_BOUNDARY f: von den zahlen 723 und 475, welche ist größer? a:UTT_BOUNDARY 727? a", 727? a
+"F: Von den Zahlen 603 und 583, welche ist größer? A:","['603', '583']",603,"UTT_BOUNDARY f: von den zahlen 603 und 583, welche ist größer? a:UTT_BOUNDARY 533 oder 5", 533 oder 5
+"F: Von den Zahlen 781 und 5, welche ist größer? A:","['781', '5']",781,"UTT_BOUNDARY f: von den zahlen 781 und 5, welche ist größer? a:UTT_BOUNDARY 781 oder 7", 781 oder 7
+Gib von den Zahlen 654 und 664 die größere an: ,"['654', '664']",664,"UTT_BOUNDARY gib von den zahlen 654 und 664 die größere an:UTT_BOUNDARY 644, 9"," 644, 9"
+"F: Von den Zahlen 190 und 347, welche ist größer? A:","['190', '347']",347,"UTT_BOUNDARY f: von den zahlen 190 und 347, welche ist größer? a:UTT_BOUNDARY 198 oder 919?", 198 oder 919?
+"F: Welche Zahl ist größer, 19 oder 32? A:","['19', '32']",32,"UTT_BOUNDARY f: welche zahl ist größer, 19 oder 32? a:UTT_BOUNDARY 327? a:", 327? a:
+"F: Welche Zahl ist größer, 584 oder 65? A:","['584', '65']",584,"UTT_BOUNDARY f: welche zahl ist größer, 584 oder 65? a:UTT_BOUNDARY 654 oder 54", 654 oder 54
+"F: Welche Zahl ist größer, 543 oder 135? A:","['543', '135']",543,"UTT_BOUNDARY f: welche zahl ist größer, 543 oder 135? a:UTT_BOUNDARY 533 oder 5", 533 oder 5
+Gib von den Zahlen 503 und 228 die größere an: ,"['503', '228']",503,UTT_BOUNDARY gib von den zahlen 503 und 228 die größere an:UTT_BOUNDARY 508 und 58, 508 und 58
+"F: Welche Zahl ist größer, 45 oder 420? A:","['45', '420']",420,"UTT_BOUNDARY f: welche zahl ist größer, 45 oder 420? a:UTT_BOUNDARY 420 oder 92", 420 oder 92
+Gib von den Zahlen 657 und 558 die größere an: ,"['657', '558']",657,"UTT_BOUNDARY gib von den zahlen 657 und 558 die größere an:UTT_BOUNDARY 658, 115"," 658, 115"
+"F: Von den Zahlen 733 und 607, welche ist größer? A:","['733', '607']",733,"UTT_BOUNDARY f: von den zahlen 733 und 607, welche ist größer? a:UTT_BOUNDARY 733 oder 5", 733 oder 5
+Gib von den Zahlen 77 und 704 die größere an: ,"['77', '704']",704,UTT_BOUNDARY gib von den zahlen 77 und 704 die größere an:UTT_BOUNDARY 770 die größere, 770 die größere
+Gib von den Zahlen 648 und 393 die größere an: ,"['648', '393']",648,UTT_BOUNDARY gib von den zahlen 648 und 393 die größere an:UTT_BOUNDARY 648 oder 5, 648 oder 5
+"F: Von den Zahlen 724 und 582, welche ist größer? A:","['724', '582']",724,"UTT_BOUNDARY f: von den zahlen 724 und 582, welche ist größer? a:UTT_BOUNDARY 724? a", 724? a
+"F: Welche Zahl ist größer, 779 oder 522? A:","['779', '522']",779,"UTT_BOUNDARY f: welche zahl ist größer, 779 oder 522? a:UTT_BOUNDARY 779? a", 779? a
+Gib von den Zahlen 561 und 515 die größere an: ,"['561', '515']",561,"UTT_BOUNDARY gib von den zahlen 561 und 515 die größere an:UTT_BOUNDARY 561, 22"," 561, 22"
+"F: Welche Zahl ist größer, 152 oder 441? A:","['152', '441']",441,"UTT_BOUNDARY f: welche zahl ist größer, 152 oder 441? a:UTT_BOUNDARY 441 oder 73", 441 oder 73
+Gib von den Zahlen 704 und 149 die größere an: ,"['704', '149']",704,UTT_BOUNDARY gib von den zahlen 704 und 149 die größere an:UTT_BOUNDARY 704 oder 54, 704 oder 54
+"F: Von den Zahlen 32 und 145, welche ist größer? A:","['32', '145']",145,"UTT_BOUNDARY f: von den zahlen 32 und 145, welche ist größer? a:UTT_BOUNDARY 325 oder 55", 325 oder 55
+"F: Welche Zahl ist größer, 781 oder 126? A:","['781', '126']",781,"UTT_BOUNDARY f: welche zahl ist größer, 781 oder 126? a:UTT_BOUNDARY 781 oder 7", 781 oder 7
+"F: Von den Zahlen 346 und 366, welche ist größer? A:","['346', '366']",366,"UTT_BOUNDARY f: von den zahlen 346 und 366, welche ist größer? a:UTT_BOUNDARY 346 und 76", 346 und 76
+"F: Welche Zahl ist größer, 907 oder 849? A:","['907', '849']",907,"UTT_BOUNDARY f: welche zahl ist größer, 907 oder 849? a:UTT_BOUNDARY 849 oder 5", 849 oder 5
+"F: Welche Zahl ist größer, 600 oder 863? A:","['600', '863']",863,"UTT_BOUNDARY f: welche zahl ist größer, 600 oder 863? a:UTT_BOUNDARY 833 oder 5", 833 oder 5
+"F: Von den Zahlen 399 und 812, welche ist größer? A:","['399', '812']",812,"UTT_BOUNDARY f: von den zahlen 399 und 812, welche ist größer? a:UTT_BOUNDARY 899"" oder """," 899"" oder """
+"F: Von den Zahlen 335 und 343, welche ist größer? A:","['335', '343']",343,"UTT_BOUNDARY f: von den zahlen 335 und 343, welche ist größer? a:UTT_BOUNDARY 335 oder 53", 335 oder 53
+"F: Welche Zahl ist größer, 917 oder 492? A:","['917', '492']",917,"UTT_BOUNDARY f: welche zahl ist größer, 917 oder 492? a:UTT_BOUNDARY 992 oder 5", 992 oder 5
+"F: Von den Zahlen 87 und 611, welche ist größer? A:","['87', '611']",611,"UTT_BOUNDARY f: von den zahlen 87 und 611, welche ist größer? a:UTT_BOUNDARY 81177 """," 81177 """
+"F: Welche Zahl ist größer, 637 oder 363? A:","['637', '363']",637,"UTT_BOUNDARY f: welche zahl ist größer, 637 oder 363? a:UTT_BOUNDARY 36333 oder", 36333 oder
+"F: Welche Zahl ist größer, 664 oder 634? A:","['664', '634']",664,"UTT_BOUNDARY f: welche zahl ist größer, 664 oder 634? a:UTT_BOUNDARY 634 oder 5", 634 oder 5
+Gib von den Zahlen 291 und 523 die größere an: ,"['291', '523']",523,UTT_BOUNDARY gib von den zahlen 291 und 523 die größere an:UTT_BOUNDARY 533 die größere, 533 die größere
+"F: Von den Zahlen 960 und 643, welche ist größer? A:","['960', '643']",960,"UTT_BOUNDARY f: von den zahlen 960 und 643, welche ist größer? a:UTT_BOUNDARY 943 oder 5", 943 oder 5
+"F: Von den Zahlen 449 und 844, welche ist größer? A:","['449', '844']",844,"UTT_BOUNDARY f: von den zahlen 449 und 844, welche ist größer? a:UTT_BOUNDARY 844 oder 5", 844 oder 5
+"F: Welche Zahl ist größer, 746 oder 283? A:","['746', '283']",746,"UTT_BOUNDARY f: welche zahl ist größer, 746 oder 283? a:UTT_BOUNDARY 763 oder 5", 763 oder 5
+"F: Welche Zahl ist größer, 392 oder 691? A:","['392', '691']",691,"UTT_BOUNDARY f: welche zahl ist größer, 392 oder 691? a:UTT_BOUNDARY 692 oder 5", 692 oder 5
+"F: Welche Zahl ist größer, 196 oder 741? A:","['196', '741']",741,"UTT_BOUNDARY f: welche zahl ist größer, 196 oder 741? a:UTT_BOUNDARY 741 oder 6", 741 oder 6
+"F: Welche Zahl ist größer, 218 oder 318? A:","['218', '318']",318,"UTT_BOUNDARY f: welche zahl ist größer, 218 oder 318? a:UTT_BOUNDARY 390 oder 78", 390 oder 78
+"F: Welche Zahl ist größer, 811 oder 875? A:","['811', '875']",875,"UTT_BOUNDARY f: welche zahl ist größer, 811 oder 875? a:UTT_BOUNDARY 875 oder 8", 875 oder 8
+"F: Welche Zahl ist größer, 483 oder 561? A:","['483', '561']",561,"UTT_BOUNDARY f: welche zahl ist größer, 483 oder 561? a:UTT_BOUNDARY 561 oder 5", 561 oder 5
+Gib von den Zahlen 294 und 3 die größere an: ,"['294', '3']",294,"UTT_BOUNDARY gib von den zahlen 294 und 3 die größere an:UTT_BOUNDARY 311"" oder """," 311"" oder """
+"F: Welche Zahl ist größer, 401 oder 752? A:","['401', '752']",752,"UTT_BOUNDARY f: welche zahl ist größer, 401 oder 752? a:UTT_BOUNDARY 751, welche ist"," 751, welche ist"
+Gib von den Zahlen 208 und 850 die größere an: ,"['208', '850']",850,"UTT_BOUNDARY gib von den zahlen 208 und 850 die größere an:UTT_BOUNDARY 880"" oder """," 880"" oder """
+"F: Von den Zahlen 362 und 135, welche ist größer? A:","['362', '135']",362,"UTT_BOUNDARY f: von den zahlen 362 und 135, welche ist größer? a:UTT_BOUNDARY 365? a:", 365? a:
+"F: Von den Zahlen 557 und 516, welche ist größer? A:","['557', '516']",557,"UTT_BOUNDARY f: von den zahlen 557 und 516, welche ist größer? a:UTT_BOUNDARY 557 oder 5", 557 oder 5
+"F: Von den Zahlen 687 und 680, welche ist größer? A:","['687', '680']",687,"UTT_BOUNDARY f: von den zahlen 687 und 680, welche ist größer? a:UTT_BOUNDARY 640us, 10"," 640us, 10"
+"F: Von den Zahlen 924 und 838, welche ist größer? A:","['924', '838']",924,"UTT_BOUNDARY f: von den zahlen 924 und 838, welche ist größer? a:UTT_BOUNDARY 932 oder 8", 932 oder 8
+"F: Von den Zahlen 624 und 323, welche ist größer? A:","['624', '323']",624,"UTT_BOUNDARY f: von den zahlen 624 und 323, welche ist größer? a:UTT_BOUNDARY 643 oder 5", 643 oder 5
+Gib von den Zahlen 495 und 709 die größere an: ,"['495', '709']",709,UTT_BOUNDARY gib von den zahlen 495 und 709 die größere an:UTT_BOUNDARY 495 oder 8, 495 oder 8
+"F: Welche Zahl ist größer, 961 oder 446? A:","['961', '446']",961,"UTT_BOUNDARY f: welche zahl ist größer, 961 oder 446? a:UTT_BOUNDARY 961 oder 8", 961 oder 8
+"F: Welche Zahl ist größer, 720 oder 126? A:","['720', '126']",720,"UTT_BOUNDARY f: welche zahl ist größer, 720 oder 126? a:UTT_BOUNDARY 720toffel,"," 720toffel,"
+"F: Von den Zahlen 810 und 278, welche ist größer? A:","['810', '278']",810,"UTT_BOUNDARY f: von den zahlen 810 und 278, welche ist größer? a:UTT_BOUNDARY 888 oder 5", 888 oder 5
+Gib von den Zahlen 367 und 17 die größere an: ,"['367', '17']",367,UTT_BOUNDARY gib von den zahlen 367 und 17 die größere an:UTT_BOUNDARY 367 und 57, 367 und 57
+"F: Von den Zahlen 445 und 57, welche ist größer? A:","['445', '57']",445,"UTT_BOUNDARY f: von den zahlen 445 und 57, welche ist größer? a:UTT_BOUNDARY 445, 49"," 445, 49"
+Gib von den Zahlen 367 und 248 die größere an: ,"['367', '248']",367,UTT_BOUNDARY gib von den zahlen 367 und 248 die größere an:UTT_BOUNDARY 248 und 58, 248 und 58
+"F: Welche Zahl ist größer, 182 oder 442? A:","['182', '442']",442,"UTT_BOUNDARY f: welche zahl ist größer, 182 oder 442? a:UTT_BOUNDARY 442? a:", 442? a:
+Gib von den Zahlen 166 und 832 die größere an: ,"['166', '832']",832,UTT_BOUNDARY gib von den zahlen 166 und 832 die größere an:UTT_BOUNDARY 83233, 83233
+Gib von den Zahlen 557 und 183 die größere an: ,"['557', '183']",557,UTT_BOUNDARY gib von den zahlen 557 und 183 die größere an:UTT_BOUNDARY 573 im 15, 573 im 15
+"F: Welche Zahl ist größer, 253 oder 24? A:","['253', '24']",253,"UTT_BOUNDARY f: welche zahl ist größer, 253 oder 24? a:UTT_BOUNDARY 2433 oder 5", 2433 oder 5
+Gib von den Zahlen 237 und 755 die größere an: ,"['237', '755']",755,UTT_BOUNDARY gib von den zahlen 237 und 755 die größere an:UTT_BOUNDARY 757 die größere an, 757 die größere an
+Gib von den Zahlen 432 und 537 die größere an: ,"['432', '537']",537,UTT_BOUNDARY gib von den zahlen 432 und 537 die größere an:UTT_BOUNDARY 537 die kleinere, 537 die kleinere
+"F: Von den Zahlen 17 und 503, welche ist größer? A:","['17', '503']",503,"UTT_BOUNDARY f: von den zahlen 17 und 503, welche ist größer? a:UTT_BOUNDARY 703 oder 53", 703 oder 53
+Gib von den Zahlen 302 und 182 die größere an: ,"['302', '182']",302,UTT_BOUNDARY gib von den zahlen 302 und 182 die größere an:UTT_BOUNDARY 302 die größere an, 302 die größere an
+"F: Von den Zahlen 11 und 179, welche ist größer? A:","['11', '179']",179,"UTT_BOUNDARY f: von den zahlen 11 und 179, welche ist größer? a:UTT_BOUNDARY 179 oder 93", 179 oder 93
+"F: Von den Zahlen 983 und 646, welche ist größer? A:","['983', '646']",983,"UTT_BOUNDARY f: von den zahlen 983 und 646, welche ist größer? a:UTT_BOUNDARY 946 oder 5", 946 oder 5
+"F: Welche Zahl ist größer, 908 oder 857? A:","['908', '857']",908,"UTT_BOUNDARY f: welche zahl ist größer, 908 oder 857? a:UTT_BOUNDARY 857? a", 857? a
+"F: Von den Zahlen 76 und 486, welche ist größer? A:","['76', '486']",486,"UTT_BOUNDARY f: von den zahlen 76 und 486, welche ist größer? a:UTT_BOUNDARY 766 oder 7", 766 oder 7
+"F: Welche Zahl ist größer, 379 oder 258? A:","['379', '258']",379,"UTT_BOUNDARY f: welche zahl ist größer, 379 oder 258? a:UTT_BOUNDARY 378 oder 98", 378 oder 98
+"F: Welche Zahl ist größer, 762 oder 464? A:","['762', '464']",762,"UTT_BOUNDARY f: welche zahl ist größer, 762 oder 464? a:UTT_BOUNDARY 764 oder 5", 764 oder 5
+"F: Welche Zahl ist größer, 281 oder 378? A:","['281', '378']",378,"UTT_BOUNDARY f: welche zahl ist größer, 281 oder 378? a:UTT_BOUNDARY 281, welche ist"," 281, welche ist"
+"F: Von den Zahlen 725 und 79, welche ist größer? A:","['725', '79']",725,"UTT_BOUNDARY f: von den zahlen 725 und 79, welche ist größer? a:UTT_BOUNDARY 798 oder 5", 798 oder 5
+"F: Welche Zahl ist größer, 358 oder 143? A:","['358', '143']",358,"UTT_BOUNDARY f: welche zahl ist größer, 358 oder 143? a:UTT_BOUNDARY 353 oder 53", 353 oder 53
+"F: Welche Zahl ist größer, 766 oder 466? A:","['766', '466']",766,"UTT_BOUNDARY f: welche zahl ist größer, 766 oder 466? a:UTT_BOUNDARY 766 oder 7", 766 oder 7
+"F: Welche Zahl ist größer, 900 oder 680? A:","['900', '680']",900,"UTT_BOUNDARY f: welche zahl ist größer, 900 oder 680? a:UTT_BOUNDARY 9004 ist größer", 9004 ist größer
+"F: Von den Zahlen 308 und 980, welche ist größer? A:","['308', '980']",980,"UTT_BOUNDARY f: von den zahlen 308 und 980, welche ist größer? a:UTT_BOUNDARY 988? a", 988? a
+"F: Von den Zahlen 295 und 484, welche ist größer? A:","['295', '484']",484,"UTT_BOUNDARY f: von den zahlen 295 und 484, welche ist größer? a:UTT_BOUNDARY 484? a", 484? a
+"F: Welche Zahl ist größer, 460 oder 528? A:","['460', '528']",528,"UTT_BOUNDARY f: welche zahl ist größer, 460 oder 528? a:UTT_BOUNDARY 528, welche"," 528, welche"
+"F: Welche Zahl ist größer, 969 oder 75? A:","['969', '75']",969,"UTT_BOUNDARY f: welche zahl ist größer, 969 oder 75? a:UTT_BOUNDARY 969? a", 969? a
+"F: Welche Zahl ist größer, 653 oder 949? A:","['653', '949']",949,"UTT_BOUNDARY f: welche zahl ist größer, 653 oder 949? a:UTT_BOUNDARY 949 oder 5", 949 oder 5
+Gib von den Zahlen 759 und 673 die größere an: ,"['759', '673']",759,UTT_BOUNDARY gib von den zahlen 759 und 673 die größere an:UTT_BOUNDARY 673 oder 5, 673 oder 5
+"F: Welche Zahl ist größer, 791 oder 88? A:","['791', '88']",791,"UTT_BOUNDARY f: welche zahl ist größer, 791 oder 88? a:UTT_BOUNDARY 881 oder 7", 881 oder 7
+Gib von den Zahlen 421 und 549 die größere an: ,"['421', '549']",549,"UTT_BOUNDARY gib von den zahlen 421 und 549 die größere an:UTT_BOUNDARY 549, welche"," 549, welche"
+Gib von den Zahlen 861 und 444 die größere an: ,"['861', '444']",861,"UTT_BOUNDARY gib von den zahlen 861 und 444 die größere an:UTT_BOUNDARY 861, 22"," 861, 22"
+"F: Welche Zahl ist größer, 851 oder 797? A:","['851', '797']",851,"UTT_BOUNDARY f: welche zahl ist größer, 851 oder 797? a:UTT_BOUNDARY 857""? a"," 857""? a"
+Gib von den Zahlen 903 und 72 die größere an: ,"['903', '72']",903,"UTT_BOUNDARY gib von den zahlen 903 und 72 die größere an:UTT_BOUNDARY 733m,"," 733m,"
+Gib von den Zahlen 57 und 953 die größere an: ,"['57', '953']",953,UTT_BOUNDARY gib von den zahlen 57 und 953 die größere an:UTT_BOUNDARY 9533 oder, 9533 oder
+Gib von den Zahlen 416 und 234 die größere an: ,"['416', '234']",416,UTT_BOUNDARY gib von den zahlen 416 und 234 die größere an:UTT_BOUNDARY 2343 oder 5, 2343 oder 5
+Gib von den Zahlen 970 und 184 die größere an: ,"['970', '184']",970,UTT_BOUNDARY gib von den zahlen 970 und 184 die größere an:UTT_BOUNDARY 970 und 5, 970 und 5
+"F: Von den Zahlen 78 und 761, welche ist größer? A:","['78', '761']",761,"UTT_BOUNDARY f: von den zahlen 78 und 761, welche ist größer? a:UTT_BOUNDARY 761 oder 7", 761 oder 7
+"F: Von den Zahlen 373 und 549, welche ist größer? A:","['373', '549']",549,"UTT_BOUNDARY f: von den zahlen 373 und 549, welche ist größer? a:UTT_BOUNDARY 549 oder 5", 549 oder 5
+Gib von den Zahlen 655 und 483 die größere an: ,"['655', '483']",655,UTT_BOUNDARY gib von den zahlen 655 und 483 die größere an:UTT_BOUNDARY 655 oder 85, 655 oder 85
+"F: Welche Zahl ist größer, 95 oder 179? A:","['95', '179']",179,"UTT_BOUNDARY f: welche zahl ist größer, 95 oder 179? a:UTT_BOUNDARY 959 oder 8", 959 oder 8
+"F: Von den Zahlen 695 und 212, welche ist größer? A:","['695', '212']",695,"UTT_BOUNDARY f: von den zahlen 695 und 212, welche ist größer? a:UTT_BOUNDARY 695 oder 5", 695 oder 5
+Gib von den Zahlen 892 und 284 die größere an: ,"['892', '284']",892,UTT_BOUNDARY gib von den zahlen 892 und 284 die größere an:UTT_BOUNDARY 892 mit 8, 892 mit 8
+Gib von den Zahlen 375 und 361 die größere an: ,"['375', '361']",375,UTT_BOUNDARY gib von den zahlen 375 und 361 die größere an:UTT_BOUNDARY 371 oder 77, 371 oder 77
+Gib von den Zahlen 164 und 892 die größere an: ,"['164', '892']",892,UTT_BOUNDARY gib von den zahlen 164 und 892 die größere an:UTT_BOUNDARY 892 und 5, 892 und 5
+Gib von den Zahlen 359 und 486 die größere an: ,"['359', '486']",486,UTT_BOUNDARY gib von den zahlen 359 und 486 die größere an:UTT_BOUNDARY 488 oder 8, 488 oder 8
+Gib von den Zahlen 959 und 232 die größere an: ,"['959', '232']",959,UTT_BOUNDARY gib von den zahlen 959 und 232 die größere an:UTT_BOUNDARY 959 oder 8, 959 oder 8
+"F: Welche Zahl ist größer, 89 oder 374? A:","['89', '374']",374,"UTT_BOUNDARY f: welche zahl ist größer, 89 oder 374? a:UTT_BOUNDARY 894 oder 5", 894 oder 5
+Gib von den Zahlen 512 und 154 die größere an: ,"['512', '154']",512,UTT_BOUNDARY gib von den zahlen 512 und 154 die größere an:UTT_BOUNDARY 512433, 512433
+"F: Welche Zahl ist größer, 796 oder 117? A:","['796', '117']",796,"UTT_BOUNDARY f: welche zahl ist größer, 796 oder 117? a:UTT_BOUNDARY 779 oder 9", 779 oder 9
+"F: Von den Zahlen 519 und 287, welche ist größer? A:","['519', '287']",519,"UTT_BOUNDARY f: von den zahlen 519 und 287, welche ist größer? a:UTT_BOUNDARY 519 oder 919", 519 oder 919
+Gib von den Zahlen 108 und 312 die größere an: ,"['108', '312']",312,UTT_BOUNDARY gib von den zahlen 108 und 312 die größere an:UTT_BOUNDARY 1088 des wasser, 1088 des wasser
+Gib von den Zahlen 980 und 390 die größere an: ,"['980', '390']",980,UTT_BOUNDARY gib von den zahlen 980 und 390 die größere an:UTT_BOUNDARY 9903 oder 5, 9903 oder 5
+"F: Von den Zahlen 353 und 752, welche ist größer? A:","['353', '752']",752,"UTT_BOUNDARY f: von den zahlen 353 und 752, welche ist größer? a:UTT_BOUNDARY 752n oder 6", 752n oder 6
+"F: Welche Zahl ist größer, 410 oder 553? A:","['410', '553']",553,"UTT_BOUNDARY f: welche zahl ist größer, 410 oder 553? a:UTT_BOUNDARY 553 oder 5", 553 oder 5
+"F: Welche Zahl ist größer, 475 oder 463? A:","['475', '463']",475,"UTT_BOUNDARY f: welche zahl ist größer, 475 oder 463? a:UTT_BOUNDARY 465 oder 8", 465 oder 8
+Gib von den Zahlen 41 und 80 die größere an: ,"['41', '80']",80,"UTT_BOUNDARY gib von den zahlen 41 und 80 die größere an:UTT_BOUNDARY 461, 4"," 461, 4"
+"F: Welche Zahl ist größer, 554 oder 113? A:","['554', '113']",554,"UTT_BOUNDARY f: welche zahl ist größer, 554 oder 113? a:UTT_BOUNDARY 554 oder 5", 554 oder 5
+Gib von den Zahlen 472 und 393 die größere an: ,"['472', '393']",472,UTT_BOUNDARY gib von den zahlen 472 und 393 die größere an:UTT_BOUNDARY 4927 des, 4927 des
+"F: Von den Zahlen 973 und 673, welche ist größer? A:","['973', '673']",973,"UTT_BOUNDARY f: von den zahlen 973 und 673, welche ist größer? a:UTT_BOUNDARY 973 oder 8", 973 oder 8
+"F: Welche Zahl ist größer, 233 oder 489? A:","['233', '489']",489,"UTT_BOUNDARY f: welche zahl ist größer, 233 oder 489? a:UTT_BOUNDARY 489 oder 5", 489 oder 5
+"F: Welche Zahl ist größer, 19 oder 488? A:","['19', '488']",488,"UTT_BOUNDARY f: welche zahl ist größer, 19 oder 488? a:UTT_BOUNDARY 488 oder 5", 488 oder 5
+Gib von den Zahlen 41 und 629 die größere an: ,"['41', '629']",629,UTT_BOUNDARY gib von den zahlen 41 und 629 die größere an:UTT_BOUNDARY 492 und 5, 492 und 5
+"F: Welche Zahl ist größer, 264 oder 468? A:","['264', '468']",468,"UTT_BOUNDARY f: welche zahl ist größer, 264 oder 468? a:UTT_BOUNDARY 468 oder 5", 468 oder 5
+"F: Von den Zahlen 679 und 436, welche ist größer? A:","['679', '436']",679,"UTT_BOUNDARY f: von den zahlen 679 und 436, welche ist größer? a:UTT_BOUNDARY 679 oder 5", 679 oder 5
+Gib von den Zahlen 594 und 509 die größere an: ,"['594', '509']",594,"UTT_BOUNDARY gib von den zahlen 594 und 509 die größere an:UTT_BOUNDARY 909 ""glocke"," 909 ""glocke"
+"F: Von den Zahlen 317 und 197, welche ist größer? A:","['317', '197']",317,"UTT_BOUNDARY f: von den zahlen 317 und 197, welche ist größer? a:UTT_BOUNDARY 319 oder 59", 319 oder 59
+Gib von den Zahlen 695 und 656 die größere an: ,"['695', '656']",695,UTT_BOUNDARY gib von den zahlen 695 und 656 die größere an:UTT_BOUNDARY 695 und 5, 695 und 5
+"F: Welche Zahl ist größer, 732 oder 240? A:","['732', '240']",732,"UTT_BOUNDARY f: welche zahl ist größer, 732 oder 240? a:UTT_BOUNDARY 732 oder 5", 732 oder 5
+Gib von den Zahlen 862 und 767 die größere an: ,"['862', '767']",862,UTT_BOUNDARY gib von den zahlen 862 und 767 die größere an:UTT_BOUNDARY 862 die kleinere, 862 die kleinere
+"F: Welche Zahl ist größer, 392 oder 203? A:","['392', '203']",392,"UTT_BOUNDARY f: welche zahl ist größer, 392 oder 203? a:UTT_BOUNDARY 392 oder 5", 392 oder 5
+"F: Welche Zahl ist größer, 664 oder 92? A:","['664', '92']",664,"UTT_BOUNDARY f: welche zahl ist größer, 664 oder 92? a:UTT_BOUNDARY 924 oder 5", 924 oder 5
+"F: Von den Zahlen 734 und 688, welche ist größer? A:","['734', '688']",734,"UTT_BOUNDARY f: von den zahlen 734 und 688, welche ist größer? a:UTT_BOUNDARY 734 oder 5", 734 oder 5
+"F: Welche Zahl ist größer, 701 oder 528? A:","['701', '528']",701,"UTT_BOUNDARY f: welche zahl ist größer, 701 oder 528? a:UTT_BOUNDARY 521, welche"," 521, welche"
+Gib von den Zahlen 836 und 856 die größere an: ,"['836', '856']",856,UTT_BOUNDARY gib von den zahlen 836 und 856 die größere an:UTT_BOUNDARY 856 die größere, 856 die größere
+"F: Welche Zahl ist größer, 953 oder 758? A:","['953', '758']",953,"UTT_BOUNDARY f: welche zahl ist größer, 953 oder 758? a:UTT_BOUNDARY 953 oder 8", 953 oder 8
+"F: Welche Zahl ist größer, 312 oder 974? A:","['312', '974']",974,"UTT_BOUNDARY f: welche zahl ist größer, 312 oder 974? a:UTT_BOUNDARY 974e mit", 974e mit
+"F: Von den Zahlen 353 und 273, welche ist größer? A:","['353', '273']",353,"UTT_BOUNDARY f: von den zahlen 353 und 273, welche ist größer? a:UTT_BOUNDARY 353 oder 83", 353 oder 83
+"F: Von den Zahlen 140 und 271, welche ist größer? A:","['140', '271']",271,"UTT_BOUNDARY f: von den zahlen 140 und 271, welche ist größer? a:UTT_BOUNDARY 270 oder 73", 270 oder 73
+"F: Welche Zahl ist größer, 372 oder 170? A:","['372', '170']",372,"UTT_BOUNDARY f: welche zahl ist größer, 372 oder 170? a:UTT_BOUNDARY 370 oder 92", 370 oder 92
+"F: Welche Zahl ist größer, 411 oder 427? A:","['411', '427']",427,"UTT_BOUNDARY f: welche zahl ist größer, 411 oder 427? a:UTT_BOUNDARY 427er, 5"," 427er, 5"
+"F: Von den Zahlen 169 und 149, welche ist größer? A:","['169', '149']",169,"UTT_BOUNDARY f: von den zahlen 169 und 149, welche ist größer? a:UTT_BOUNDARY 169 oder 99", 169 oder 99
+"F: Welche Zahl ist größer, 228 oder 936? A:","['228', '936']",936,"UTT_BOUNDARY f: welche zahl ist größer, 228 oder 936? a:UTT_BOUNDARY 936 oder 5", 936 oder 5
+"F: Welche Zahl ist größer, 700 oder 255? A:","['700', '255']",700,"UTT_BOUNDARY f: welche zahl ist größer, 700 oder 255? a:UTT_BOUNDARY 710? a:", 710? a:
+"F: Von den Zahlen 451 und 667, welche ist größer? A:","['451', '667']",667,"UTT_BOUNDARY f: von den zahlen 451 und 667, welche ist größer? a:UTT_BOUNDARY 671 oder 6", 671 oder 6
+Gib von den Zahlen 374 und 447 die größere an: ,"['374', '447']",447,"UTT_BOUNDARY gib von den zahlen 374 und 447 die größere an:UTT_BOUNDARY 4470, 5"," 4470, 5"
+Gib von den Zahlen 619 und 857 die größere an: ,"['619', '857']",857,UTT_BOUNDARY gib von den zahlen 619 und 857 die größere an:UTT_BOUNDARY 819 oder 819, 819 oder 819
+"F: Von den Zahlen 445 und 906, welche ist größer? A:","['445', '906']",906,"UTT_BOUNDARY f: von den zahlen 445 und 906, welche ist größer? a:UTT_BOUNDARY 906 oder 56", 906 oder 56
+Gib von den Zahlen 50 und 561 die größere an: ,"['50', '561']",561,"UTT_BOUNDARY gib von den zahlen 50 und 561 die größere an:UTT_BOUNDARY 501, 381"," 501, 381"
+Gib von den Zahlen 815 und 603 die größere an: ,"['815', '603']",815,UTT_BOUNDARY gib von den zahlen 815 und 603 die größere an:UTT_BOUNDARY 840 oder 53, 840 oder 53
+"F: Von den Zahlen 921 und 766, welche ist größer? A:","['921', '766']",921,"UTT_BOUNDARY f: von den zahlen 921 und 766, welche ist größer? a:UTT_BOUNDARY 921, welche"," 921, welche"
+"F: Von den Zahlen 872 und 224, welche ist größer? A:","['872', '224']",872,"UTT_BOUNDARY f: von den zahlen 872 und 224, welche ist größer? a:UTT_BOUNDARY 872 oder 8", 872 oder 8
+Gib von den Zahlen 901 und 884 die größere an: ,"['901', '884']",901,"UTT_BOUNDARY gib von den zahlen 901 und 884 die größere an:UTT_BOUNDARY 881, welche"," 881, welche"
+"F: Welche Zahl ist größer, 465 oder 267? A:","['465', '267']",465,"UTT_BOUNDARY f: welche zahl ist größer, 465 oder 267? a:UTT_BOUNDARY 465 oder 8", 465 oder 8
+Gib von den Zahlen 48 und 353 die größere an: ,"['48', '353']",353,UTT_BOUNDARY gib von den zahlen 48 und 353 die größere an:UTT_BOUNDARY 463 oder 8, 463 oder 8
+"F: Von den Zahlen 689 und 493, welche ist größer? A:","['689', '493']",689,"UTT_BOUNDARY f: von den zahlen 689 und 493, welche ist größer? a:UTT_BOUNDARY 689 oder 83", 689 oder 83
+Gib von den Zahlen 361 und 510 die größere an: ,"['361', '510']",510,UTT_BOUNDARY gib von den zahlen 361 und 510 die größere an:UTT_BOUNDARY 5101 oder 5, 5101 oder 5
+"F: Von den Zahlen 680 und 192, welche ist größer? A:","['680', '192']",680,"UTT_BOUNDARY f: von den zahlen 680 und 192, welche ist größer? a:UTT_BOUNDARY 69032 oder", 69032 oder
+"F: Von den Zahlen 231 und 589, welche ist größer? A:","['231', '589']",589,"UTT_BOUNDARY f: von den zahlen 231 und 589, welche ist größer? a:UTT_BOUNDARY 581, 22"," 581, 22"
+Gib von den Zahlen 630 und 757 die größere an: ,"['630', '757']",757,UTT_BOUNDARY gib von den zahlen 630 und 757 die größere an:UTT_BOUNDARY 7570 und 6, 7570 und 6
+"F: Von den Zahlen 668 und 447, welche ist größer? A:","['668', '447']",668,"UTT_BOUNDARY f: von den zahlen 668 und 447, welche ist größer? a:UTT_BOUNDARY 668 oder 5", 668 oder 5
+"F: Welche Zahl ist größer, 149 oder 711? A:","['149', '711']",711,"UTT_BOUNDARY f: welche zahl ist größer, 149 oder 711? a:UTT_BOUNDARY 711 oder 54", 711 oder 54
+Gib von den Zahlen 525 und 499 die größere an: ,"['525', '499']",525,"UTT_BOUNDARY gib von den zahlen 525 und 499 die größere an:UTT_BOUNDARY 599"" oder """," 599"" oder """
+"F: Welche Zahl ist größer, 155 oder 205? A:","['155', '205']",205,"UTT_BOUNDARY f: welche zahl ist größer, 155 oder 205? a:UTT_BOUNDARY 205? a:", 205? a:
+"F: Von den Zahlen 249 und 589, welche ist größer? A:","['249', '589']",589,"UTT_BOUNDARY f: von den zahlen 249 und 589, welche ist größer? a:UTT_BOUNDARY 589 oder 5", 589 oder 5
+"F: Welche Zahl ist größer, 740 oder 425? A:","['740', '425']",740,"UTT_BOUNDARY f: welche zahl ist größer, 740 oder 425? a:UTT_BOUNDARY 714 oder 98", 714 oder 98
+Gib von den Zahlen 270 und 241 die größere an: ,"['270', '241']",270,UTT_BOUNDARY gib von den zahlen 270 und 241 die größere an:UTT_BOUNDARY 240 und 52, 240 und 52
+Gib von den Zahlen 88 und 446 die größere an: ,"['88', '446']",446,UTT_BOUNDARY gib von den zahlen 88 und 446 die größere an:UTT_BOUNDARY 886 oder 8, 886 oder 8
+"F: Welche Zahl ist größer, 784 oder 257? A:","['784', '257']",784,"UTT_BOUNDARY f: welche zahl ist größer, 784 oder 257? a:UTT_BOUNDARY 774 oder 7", 774 oder 7
+"F: Von den Zahlen 861 und 423, welche ist größer? A:","['861', '423']",861,"UTT_BOUNDARY f: von den zahlen 861 und 423, welche ist größer? a:UTT_BOUNDARY 861 oder 6", 861 oder 6
+Gib von den Zahlen 380 und 770 die größere an: ,"['380', '770']",770,UTT_BOUNDARY gib von den zahlen 380 und 770 die größere an:UTT_BOUNDARY 770 und 5, 770 und 5
+"F: Welche Zahl ist größer, 42 oder 325? A:","['42', '325']",325,"UTT_BOUNDARY f: welche zahl ist größer, 42 oder 325? a:UTT_BOUNDARY 425? a:", 425? a:
+"F: Von den Zahlen 779 und 156, welche ist größer? A:","['779', '156']",779,"UTT_BOUNDARY f: von den zahlen 779 und 156, welche ist größer? a:UTT_BOUNDARY 779 oder 5", 779 oder 5
+"F: Welche Zahl ist größer, 289 oder 558? A:","['289', '558']",558,"UTT_BOUNDARY f: welche zahl ist größer, 289 oder 558? a:UTT_BOUNDARY 558 oder 5", 558 oder 5
+Gib von den Zahlen 79 und 198 die größere an: ,"['79', '198']",198,UTT_BOUNDARY gib von den zahlen 79 und 198 die größere an:UTT_BOUNDARY 7932 in, 7932 in
+"F: Welche Zahl ist größer, 636 oder 946? A:","['636', '946']",946,"UTT_BOUNDARY f: welche zahl ist größer, 636 oder 946? a:UTT_BOUNDARY 936 oder 5", 936 oder 5
+"F: Welche Zahl ist größer, 808 oder 10? A:","['808', '10']",808,"UTT_BOUNDARY f: welche zahl ist größer, 808 oder 10? a:UTT_BOUNDARY 808? a:", 808? a:
+"F: Welche Zahl ist größer, 948 oder 16? A:","['948', '16']",948,"UTT_BOUNDARY f: welche zahl ist größer, 948 oder 16? a:UTT_BOUNDARY 948? a", 948? a
+"F: Welche Zahl ist größer, 118 oder 355? A:","['118', '355']",355,"UTT_BOUNDARY f: welche zahl ist größer, 118 oder 355? a:UTT_BOUNDARY 355 oder 88", 355 oder 88
+Gib von den Zahlen 727 und 188 die größere an: ,"['727', '188']",727,UTT_BOUNDARY gib von den zahlen 727 und 188 die größere an:UTT_BOUNDARY 777 und 9, 777 und 9
+Gib von den Zahlen 756 und 62 die größere an: ,"['756', '62']",756,UTT_BOUNDARY gib von den zahlen 756 und 62 die größere an:UTT_BOUNDARY 756 oder 63, 756 oder 63
+Gib von den Zahlen 97 und 343 die größere an: ,"['97', '343']",343,UTT_BOUNDARY gib von den zahlen 97 und 343 die größere an:UTT_BOUNDARY 34333 die, 34333 die
+"F: Welche Zahl ist größer, 125 oder 773? A:","['125', '773']",773,"UTT_BOUNDARY f: welche zahl ist größer, 125 oder 773? a:UTT_BOUNDARY 773 oder 7", 773 oder 7
+"F: Welche Zahl ist größer, 400 oder 730? A:","['400', '730']",730,"UTT_BOUNDARY f: welche zahl ist größer, 400 oder 730? a:UTT_BOUNDARY 730 oder 680", 730 oder 680
+"F: Von den Zahlen 838 und 154, welche ist größer? A:","['838', '154']",838,"UTT_BOUNDARY f: von den zahlen 838 und 154, welche ist größer? a:UTT_BOUNDARY 888 oder 5", 888 oder 5
+"F: Von den Zahlen 436 und 411, welche ist größer? A:","['436', '411']",436,"UTT_BOUNDARY f: von den zahlen 436 und 411, welche ist größer? a:UTT_BOUNDARY 499"" oder """," 499"" oder """
+"F: Welche Zahl ist größer, 641 oder 857? A:","['641', '857']",857,"UTT_BOUNDARY f: welche zahl ist größer, 641 oder 857? a:UTT_BOUNDARY 857e oder", 857e oder
+"F: Von den Zahlen 85 und 420, welche ist größer? A:","['85', '420']",420,"UTT_BOUNDARY f: von den zahlen 85 und 420, welche ist größer? a:UTT_BOUNDARY 820 oder 95", 820 oder 95
+Gib von den Zahlen 51 und 567 die größere an: ,"['51', '567']",567,UTT_BOUNDARY gib von den zahlen 51 und 567 die größere an:UTT_BOUNDARY 567 und 5, 567 und 5
+"F: Welche Zahl ist größer, 707 oder 154? A:","['707', '154']",707,"UTT_BOUNDARY f: welche zahl ist größer, 707 oder 154? a:UTT_BOUNDARY 704 oder 54", 704 oder 54
+"F: Welche Zahl ist größer, 59 oder 741? A:","['59', '741']",741,"UTT_BOUNDARY f: welche zahl ist größer, 59 oder 741? a:UTT_BOUNDARY 741 oder 6", 741 oder 6
+Gib von den Zahlen 96 und 462 die größere an: ,"['96', '462']",462,UTT_BOUNDARY gib von den zahlen 96 und 462 die größere an:UTT_BOUNDARY 962 die kleinere, 962 die kleinere
+"F: Von den Zahlen 0 und 200, welche ist größer? A:","['0', '200']",200,"UTT_BOUNDARY f: von den zahlen 0 und 200, welche ist größer? a:UTT_BOUNDARY 0,52 oder"," 0,52 oder"
+Gib von den Zahlen 730 und 770 die größere an: ,"['730', '770']",770,UTT_BOUNDARY gib von den zahlen 730 und 770 die größere an:UTT_BOUNDARY 770 und 7, 770 und 7
+"F: Welche Zahl ist größer, 409 oder 251? A:","['409', '251']",409,"UTT_BOUNDARY f: welche zahl ist größer, 409 oder 251? a:UTT_BOUNDARY 401, welche ist"," 401, welche ist"
+"F: Welche Zahl ist größer, 600 oder 563? A:","['600', '563']",600,"UTT_BOUNDARY f: welche zahl ist größer, 600 oder 563? a:UTT_BOUNDARY 5333 oder", 5333 oder
+"F: Welche Zahl ist größer, 200 oder 601? A:","['200', '601']",601,"UTT_BOUNDARY f: welche zahl ist größer, 200 oder 601? a:UTT_BOUNDARY 601, welche ist"," 601, welche ist"
+"F: Von den Zahlen 593 und 725, welche ist größer? A:","['593', '725']",725,"UTT_BOUNDARY f: von den zahlen 593 und 725, welche ist größer? a:UTT_BOUNDARY 725 625"""," 725 625"""
+"F: Welche Zahl ist größer, 374 oder 726? A:","['374', '726']",726,"UTT_BOUNDARY f: welche zahl ist größer, 374 oder 726? a:UTT_BOUNDARY 726 oder 6", 726 oder 6
+"F: Welche Zahl ist größer, 882 oder 106? A:","['882', '106']",882,"UTT_BOUNDARY f: welche zahl ist größer, 882 oder 106? a:UTT_BOUNDARY 882? a", 882? a
+"F: Welche Zahl ist größer, 399 oder 913? A:","['399', '913']",913,"UTT_BOUNDARY f: welche zahl ist größer, 399 oder 913? a:UTT_BOUNDARY 399 und 54", 399 und 54
+Gib von den Zahlen 192 und 229 die größere an: ,"['192', '229']",229,UTT_BOUNDARY gib von den zahlen 192 und 229 die größere an:UTT_BOUNDARY 1979 geborene , 1979 geborene 
+Gib von den Zahlen 474 und 701 die größere an: ,"['474', '701']",701,UTT_BOUNDARY gib von den zahlen 474 und 701 die größere an:UTT_BOUNDARY 474 mit 5, 474 mit 5
+"F: Welche Zahl ist größer, 371 oder 136? A:","['371', '136']",371,"UTT_BOUNDARY f: welche zahl ist größer, 371 oder 136? a:UTT_BOUNDARY 131, welche ist"," 131, welche ist"
+"F: Von den Zahlen 524 und 788, welche ist größer? A:","['524', '788']",788,"UTT_BOUNDARY f: von den zahlen 524 und 788, welche ist größer? a:UTT_BOUNDARY 782 oder 5", 782 oder 5
+Gib von den Zahlen 164 und 721 die größere an: ,"['164', '721']",721,"UTT_BOUNDARY gib von den zahlen 164 und 721 die größere an:UTT_BOUNDARY 721,2"," 721,2"
+"F: Von den Zahlen 696 und 110, welche ist größer? A:","['696', '110']",696,"UTT_BOUNDARY f: von den zahlen 696 und 110, welche ist größer? a:UTT_BOUNDARY 696? a", 696? a
+"F: Welche Zahl ist größer, 431 oder 660? A:","['431', '660']",660,"UTT_BOUNDARY f: welche zahl ist größer, 431 oder 660? a:UTT_BOUNDARY 622 oder 52", 622 oder 52
+"F: Von den Zahlen 411 und 162, welche ist größer? A:","['411', '162']",411,"UTT_BOUNDARY f: von den zahlen 411 und 162, welche ist größer? a:UTT_BOUNDARY 472, 4"," 472, 4"
+Gib von den Zahlen 590 und 531 die größere an: ,"['590', '531']",590,"UTT_BOUNDARY gib von den zahlen 590 und 531 die größere an:UTT_BOUNDARY 5403us,"," 5403us,"
+Gib von den Zahlen 462 und 942 die größere an: ,"['462', '942']",942,"UTT_BOUNDARY gib von den zahlen 462 und 942 die größere an:UTT_BOUNDARY 942, 9"," 942, 9"
+Gib von den Zahlen 371 und 815 die größere an: ,"['371', '815']",815,UTT_BOUNDARY gib von den zahlen 371 und 815 die größere an:UTT_BOUNDARY 8117 die kleinere, 8117 die kleinere
+"F: Von den Zahlen 490 und 341, welche ist größer? A:","['490', '341']",490,"UTT_BOUNDARY f: von den zahlen 490 und 341, welche ist größer? a:UTT_BOUNDARY 460wertig und", 460wertig und
+"F: Von den Zahlen 59 und 858, welche ist größer? A:","['59', '858']",858,"UTT_BOUNDARY f: von den zahlen 59 und 858, welche ist größer? a:UTT_BOUNDARY 888 oder 5", 888 oder 5
+"F: Welche Zahl ist größer, 454 oder 73? A:","['454', '73']",454,"UTT_BOUNDARY f: welche zahl ist größer, 454 oder 73? a:UTT_BOUNDARY 734 oder 5", 734 oder 5
+Gib von den Zahlen 965 und 102 die größere an: ,"['965', '102']",965,UTT_BOUNDARY gib von den zahlen 965 und 102 die größere an:UTT_BOUNDARY 955 die größere, 955 die größere
+"F: Welche Zahl ist größer, 851 oder 674? A:","['851', '674']",851,"UTT_BOUNDARY f: welche zahl ist größer, 851 oder 674? a:UTT_BOUNDARY 854 oder 5", 854 oder 5
+"F: Von den Zahlen 76 und 873, welche ist größer? A:","['76', '873']",873,"UTT_BOUNDARY f: von den zahlen 76 und 873, welche ist größer? a:UTT_BOUNDARY 863 oder 5", 863 oder 5
+"F: Von den Zahlen 573 und 580, welche ist größer? A:","['573', '580']",580,"UTT_BOUNDARY f: von den zahlen 573 und 580, welche ist größer? a:UTT_BOUNDARY 580333", 580333

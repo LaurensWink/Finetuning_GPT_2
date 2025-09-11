@@ -1,0 +1,601 @@
+Input,Options,Expected,Output (raw),Predicted
+"Q: Of the numbers 701 and 438, which is smaller? A:","['701', '438']",438,"UTT_BOUNDARY q: of the numbers 701 and 438, which is smaller? a:UTT_BOUNDARY 430 states that the", 430 states that the
+"Q: Of the numbers 486 and 491, which is smaller? A:","['486', '491']",486,"UTT_BOUNDARY q: of the numbers 486 and 491, which is smaller? a:UTT_BOUNDARY 498 who is a", 498 who is a
+"Q: Of the numbers 632 and 260, which is smaller? A:","['632', '260']",260,"UTT_BOUNDARY q: of the numbers 632 and 260, which is smaller? a:UTT_BOUNDARY 632 or 260", 632 or 260
+"Q: Which number is smaller, 787 or 50? A:","['787', '50']",50,"UTT_BOUNDARY q: which number is smaller, 787 or 50? a:UTT_BOUNDARY 507 or 506", 507 or 506
+"From the numbers 966 and 407, write the smaller number: ","['966', '407']",407,"UTT_BOUNDARY from the numbers 966 and 407, write the smaller number:UTT_BOUNDARY 404 or 538", 404 or 538
+"Q: Of the numbers 808 and 839, which is smaller? A:","['808', '839']",808,"UTT_BOUNDARY q: of the numbers 808 and 839, which is smaller? a:UTT_BOUNDARY 808 and 827", 808 and 827
+"Q: Of the numbers 496 and 558, which is smaller? A:","['496', '558']",496,"UTT_BOUNDARY q: of the numbers 496 and 558, which is smaller? a:UTT_BOUNDARY 486 and 935", 486 and 935
+"From the numbers 683 and 954, write the smaller number: ","['683', '954']",683,"UTT_BOUNDARY from the numbers 683 and 954, write the smaller number:UTT_BOUNDARY 683 and 423", 683 and 423
+"Q: Which number is smaller, 743 or 323? A:","['743', '323']",323,"UTT_BOUNDARY q: which number is smaller, 743 or 323? a:UTT_BOUNDARY 323? a:", 323? a:
+"From the numbers 719 and 480, write the smaller number: ","['719', '480']",480,"UTT_BOUNDARY from the numbers 719 and 480, write the smaller number:UTT_BOUNDARY 414 and 529", 414 and 529
+"From the numbers 751 and 410, write the smaller number: ","['751', '410']",410,"UTT_BOUNDARY from the numbers 751 and 410, write the smaller number:UTT_BOUNDARY 4104-c", 4104-c
+"Q: Which number is smaller, 555 or 660? A:","['555', '660']",555,"UTT_BOUNDARY q: which number is smaller, 555 or 660? a:UTT_BOUNDARY 555 or 542", 555 or 542
+"Q: Which number is smaller, 167 or 325? A:","['167', '325']",167,"UTT_BOUNDARY q: which number is smaller, 167 or 325? a:UTT_BOUNDARY 1679 or 16", 1679 or 16
+"Q: Of the numbers 717 and 614, which is smaller? A:","['717', '614']",614,"UTT_BOUNDARY q: of the numbers 717 and 614, which is smaller? a:UTT_BOUNDARY 614 and 612", 614 and 612
+"From the numbers 92 and 617, write the smaller number: ","['92', '617']",92,"UTT_BOUNDARY from the numbers 92 and 617, write the smaller number:UTT_BOUNDARY 741 or 628", 741 or 628
+"Q: Which number is smaller, 327 or 151? A:","['327', '151']",151,"UTT_BOUNDARY q: which number is smaller, 327 or 151? a:UTT_BOUNDARY 151 or 410", 151 or 410
+"Q: Of the numbers 116 and 570, which is smaller? A:","['116', '570']",116,"UTT_BOUNDARY q: of the numbers 116 and 570, which is smaller? a:UTT_BOUNDARY 116 and 236", 116 and 236
+"Q: Which number is smaller, 296 or 185? A:","['296', '185']",185,"UTT_BOUNDARY q: which number is smaller, 296 or 185? a:UTT_BOUNDARY 297. it is", 297. it is
+"From the numbers 760 and 515, write the smaller number: ","['760', '515']",515,"UTT_BOUNDARY from the numbers 760 and 515, write the smaller number:UTT_BOUNDARY 542? a:", 542? a:
+"From the numbers 595 and 506, write the smaller number: ","['595', '506']",506,"UTT_BOUNDARY from the numbers 595 and 506, write the smaller number:UTT_BOUNDARY 506 and 619", 506 and 619
+"Q: Which number is smaller, 26 or 783? A:","['26', '783']",26,"UTT_BOUNDARY q: which number is smaller, 26 or 783? a:UTT_BOUNDARY 263i. a", 263i. a
+"Q: Which number is smaller, 749 or 180? A:","['749', '180']",180,"UTT_BOUNDARY q: which number is smaller, 749 or 180? a:UTT_BOUNDARY 180 and 181,"," 180 and 181,"
+"Q: Which number is smaller, 992 or 635? A:","['992', '635']",635,"UTT_BOUNDARY q: which number is smaller, 992 or 635? a:UTT_BOUNDARY 6662 or 6", 6662 or 6
+"From the numbers 111 and 884, write the smaller number: ","['111', '884']",111,"UTT_BOUNDARY from the numbers 111 and 884, write the smaller number:UTT_BOUNDARY 111 supervisor", 111 supervisor
+"Q: Of the numbers 151 and 990, which is smaller? A:","['151', '990']",151,"UTT_BOUNDARY q: of the numbers 151 and 990, which is smaller? a:UTT_BOUNDARY 152:UTT_BOUNDARY", 152:
+"From the numbers 112 and 843, write the smaller number: ","['112', '843']",112,"UTT_BOUNDARY from the numbers 112 and 843, write the smaller number:UTT_BOUNDARY 111 and 323", 111 and 323
+"From the numbers 453 and 10, write the smaller number: ","['453', '10']",10,"UTT_BOUNDARY from the numbers 453 and 10, write the smaller number:UTT_BOUNDARY 104 or 660", 104 or 660
+"Q: Of the numbers 752 and 797, which is smaller? A:","['752', '797']",752,"UTT_BOUNDARY q: of the numbers 752 and 797, which is smaller? a:UTT_BOUNDARY 757 and 548", 757 and 548
+"Q: Which number is smaller, 534 or 981? A:","['534', '981']",534,"UTT_BOUNDARY q: which number is smaller, 534 or 981? a:UTT_BOUNDARY 717 and 323", 717 and 323
+"Q: Of the numbers 18 and 72, which is smaller? A:","['18', '72']",18,"UTT_BOUNDARY q: of the numbers 18 and 72, which is smaller? a:UTT_BOUNDARY 181, which is"," 181, which is"
+"Q: Of the numbers 562 and 675, which is smaller? A:","['562', '675']",562,"UTT_BOUNDARY q: of the numbers 562 and 675, which is smaller? a:UTT_BOUNDARY 6232 and 3", 6232 and 3
+"Q: Of the numbers 911 and 145, which is smaller? A:","['911', '145']",145,"UTT_BOUNDARY q: of the numbers 911 and 145, which is smaller? a:UTT_BOUNDARY 143-160", 143-160
+"Q: Which number is smaller, 459 or 931? A:","['459', '931']",459,"UTT_BOUNDARY q: which number is smaller, 459 or 931? a:UTT_BOUNDARY 4594 or 6", 4594 or 6
+"From the numbers 147 and 482, write the smaller number: ","['147', '482']",147,"UTT_BOUNDARY from the numbers 147 and 482, write the smaller number:UTT_BOUNDARY 142:UTT_BOUNDARY", 142:
+"Q: Which number is smaller, 404 or 130? A:","['404', '130']",130,"UTT_BOUNDARY q: which number is smaller, 404 or 130? a:UTT_BOUNDARY 130 or 161", 130 or 161
+"Q: Which number is smaller, 397 or 741? A:","['397', '741']",397,"UTT_BOUNDARY q: which number is smaller, 397 or 741? a:UTT_BOUNDARY 391 or 646", 391 or 646
+"From the numbers 672 and 250, write the smaller number: ","['672', '250']",250,"UTT_BOUNDARY from the numbers 672 and 250, write the smaller number:UTT_BOUNDARY 2502 or 7", 2502 or 7
+"Q: Which number is smaller, 116 or 920? A:","['116', '920']",116,"UTT_BOUNDARY q: which number is smaller, 116 or 920? a:UTT_BOUNDARY 1167 and 11", 1167 and 11
+"Q: Which number is smaller, 298 or 152? A:","['298', '152']",152,"UTT_BOUNDARY q: which number is smaller, 298 or 152? a:UTT_BOUNDARY 158 and 148", 158 and 148
+"Q: Of the numbers 298 and 152, which is smaller? A:","['298', '152']",152,"UTT_BOUNDARY q: of the numbers 298 and 152, which is smaller? a:UTT_BOUNDARY 158 and 416", 158 and 416
+"Q: Which number is smaller, 57 or 163? A:","['57', '163']",57,"UTT_BOUNDARY q: which number is smaller, 57 or 163? a:UTT_BOUNDARY 571 or 736", 571 or 736
+"Q: Which number is smaller, 174 or 414? A:","['174', '414']",174,"UTT_BOUNDARY q: which number is smaller, 174 or 414? a:UTT_BOUNDARY 173 or 156", 173 or 156
+"Q: Which number is smaller, 448 or 653? A:","['448', '653']",448,"UTT_BOUNDARY q: which number is smaller, 448 or 653? a:UTT_BOUNDARY 4482-h", 4482-h
+"Q: Which number is smaller, 749 or 535? A:","['749', '535']",535,"UTT_BOUNDARY q: which number is smaller, 749 or 535? a:UTT_BOUNDARY 542? a:", 542? a:
+"Q: Of the numbers 377 and 21, which is smaller? A:","['377', '21']",21,"UTT_BOUNDARY q: of the numbers 377 and 21, which is smaller? a:UTT_BOUNDARY 214} is the", 214} is the
+"Q: Of the numbers 962 and 416, which is smaller? A:","['962', '416']",416,"UTT_BOUNDARY q: of the numbers 962 and 416, which is smaller? a:UTT_BOUNDARY 4142 and 3", 4142 and 3
+"From the numbers 757 and 190, write the smaller number: ","['757', '190']",190,"UTT_BOUNDARY from the numbers 757 and 190, write the smaller number:UTT_BOUNDARY 190, 190, 190"," 190, 190, 190"
+"Q: Which number is smaller, 229 or 708? A:","['229', '708']",229,"UTT_BOUNDARY q: which number is smaller, 229 or 708? a:UTT_BOUNDARY 229 or 667", 229 or 667
+"From the numbers 467 and 552, write the smaller number: ","['467', '552']",467,"UTT_BOUNDARY from the numbers 467 and 552, write the smaller number:UTT_BOUNDARY 467 and 493", 467 and 493
+"Q: Of the numbers 786 and 179, which is smaller? A:","['786', '179']",179,"UTT_BOUNDARY q: of the numbers 786 and 179, which is smaller? a:UTT_BOUNDARY 1791, 1791"," 1791, 1791"
+"Q: Of the numbers 149 and 37, which is smaller? A:","['149', '37']",37,"UTT_BOUNDARY q: of the numbers 149 and 37, which is smaller? a:UTT_BOUNDARY 143 or 267", 143 or 267
+"From the numbers 928 and 160, write the smaller number: ","['928', '160']",160,"UTT_BOUNDARY from the numbers 928 and 160, write the smaller number:UTT_BOUNDARY 1606 or 14", 1606 or 14
+"Q: Which number is smaller, 794 or 976? A:","['794', '976']",794,"UTT_BOUNDARY q: which number is smaller, 794 or 976? a:UTT_BOUNDARY 793 or 266", 793 or 266
+"From the numbers 651 and 782, write the smaller number: ","['651', '782']",651,"UTT_BOUNDARY from the numbers 651 and 782, write the smaller number:UTT_BOUNDARY 65119 and 8", 65119 and 8
+"Q: Which number is smaller, 894 or 439? A:","['894', '439']",439,"UTT_BOUNDARY q: which number is smaller, 894 or 439? a:UTT_BOUNDARY 439, which is"," 439, which is"
+"From the numbers 127 and 535, write the smaller number: ","['127', '535']",127,"UTT_BOUNDARY from the numbers 127 and 535, write the smaller number:UTT_BOUNDARY 128 and a half", 128 and a half
+"Q: Of the numbers 700 and 450, which is smaller? A:","['700', '450']",450,"UTT_BOUNDARY q: of the numbers 700 and 450, which is smaller? a:UTT_BOUNDARY 410 and 542", 410 and 542
+"Q: Which number is smaller, 695 or 253? A:","['695', '253']",253,"UTT_BOUNDARY q: which number is smaller, 695 or 253? a:UTT_BOUNDARY 255 or 266", 255 or 266
+"From the numbers 573 and 381, write the smaller number: ","['573', '381']",381,"UTT_BOUNDARY from the numbers 573 and 381, write the smaller number:UTT_BOUNDARY 383 or 263", 383 or 263
+"Q: Of the numbers 487 and 110, which is smaller? A:","['487', '110']",110,"UTT_BOUNDARY q: of the numbers 487 and 110, which is smaller? a:UTT_BOUNDARY 1107 seventh avenue", 1107 seventh avenue
+"Q: Which number is smaller, 571 or 31? A:","['571', '31']",31,"UTT_BOUNDARY q: which number is smaller, 571 or 31? a:UTT_BOUNDARY 571 or 529", 571 or 529
+"Q: Which number is smaller, 764 or 430? A:","['764', '430']",430,"UTT_BOUNDARY q: which number is smaller, 764 or 430? a:UTT_BOUNDARY 430? a:", 430? a:
+"Q: Which number is smaller, 53 or 115? A:","['53', '115']",53,"UTT_BOUNDARY q: which number is smaller, 53 or 115? a:UTT_BOUNDARY 114] and """," 114] and """
+"Q: Which number is smaller, 278 or 334? A:","['278', '334']",278,"UTT_BOUNDARY q: which number is smaller, 278 or 334? a:UTT_BOUNDARY 278 of the numbers", 278 of the numbers
+"Q: Which number is smaller, 199 or 636? A:","['199', '636']",199,"UTT_BOUNDARY q: which number is smaller, 199 or 636? a:UTT_BOUNDARY 1992067 and", 1992067 and
+"Q: Of the numbers 393 and 309, which is smaller? A:","['393', '309']",309,"UTT_BOUNDARY q: of the numbers 393 and 309, which is smaller? a:UTT_BOUNDARY 309} is smaller", 309} is smaller
+"Q: Of the numbers 914 and 555, which is smaller? A:","['914', '555']",555,"UTT_BOUNDARY q: of the numbers 914 and 555, which is smaller? a:UTT_BOUNDARY 5556 and 5", 5556 and 5
+"Q: Of the numbers 747 and 602, which is smaller? A:","['747', '602']",602,"UTT_BOUNDARY q: of the numbers 747 and 602, which is smaller? a:UTT_BOUNDARY 602 and 380", 602 and 380
+"Q: Of the numbers 148 and 681, which is smaller? A:","['148', '681']",148,"UTT_BOUNDARY q: of the numbers 148 and 681, which is smaller? a:UTT_BOUNDARY 1488 and 27", 1488 and 27
+"Q: Which number is smaller, 864 or 400? A:","['864', '400']",400,"UTT_BOUNDARY q: which number is smaller, 864 or 400? a:UTT_BOUNDARY 400? a:UTT_BOUNDARY", 400? a:
+"Q: Of the numbers 595 and 235, which is smaller? A:","['595', '235']",235,"UTT_BOUNDARY q: of the numbers 595 and 235, which is smaller? a:UTT_BOUNDARY 235 american, 4"," 235 american, 4"
+"From the numbers 592 and 653, write the smaller number: ","['592', '653']",592,"UTT_BOUNDARY from the numbers 592 and 653, write the smaller number:UTT_BOUNDARY 592 or 760", 592 or 760
+"From the numbers 137 and 538, write the smaller number: ","['137', '538']",137,"UTT_BOUNDARY from the numbers 137 and 538, write the smaller number:UTT_BOUNDARY 137 and 812", 137 and 812
+"Q: Of the numbers 808 and 846, which is smaller? A:","['808', '846']",808,"UTT_BOUNDARY q: of the numbers 808 and 846, which is smaller? a:UTT_BOUNDARY 808 and 827", 808 and 827
+"Q: Which number is smaller, 307 or 594? A:","['307', '594']",307,"UTT_BOUNDARY q: which number is smaller, 307 or 594? a:UTT_BOUNDARY 307 or 480", 307 or 480
+"Q: Which number is smaller, 592 or 901? A:","['592', '901']",592,"UTT_BOUNDARY q: which number is smaller, 592 or 901? a:UTT_BOUNDARY 592? a:", 592? a:
+"From the numbers 610 and 890, write the smaller number: ","['610', '890']",610,"UTT_BOUNDARY from the numbers 610 and 890, write the smaller number:UTT_BOUNDARY 6148 and 6", 6148 and 6
+"From the numbers 528 and 409, write the smaller number: ","['528', '409']",409,"UTT_BOUNDARY from the numbers 528 and 409, write the smaller number:UTT_BOUNDARY 407 and 570", 407 and 570
+"From the numbers 829 and 369, write the smaller number: ","['829', '369']",369,"UTT_BOUNDARY from the numbers 829 and 369, write the smaller number:UTT_BOUNDARY 3697). the", 3697). the
+"From the numbers 131 and 522, write the smaller number: ","['131', '522']",131,"UTT_BOUNDARY from the numbers 131 and 522, write the smaller number:UTT_BOUNDARY 131st to 12", 131st to 12
+"Q: Of the numbers 53 and 115, which is smaller? A:","['53', '115']",53,"UTT_BOUNDARY q: of the numbers 53 and 115, which is smaller? a:UTT_BOUNDARY 1105 and 27", 1105 and 27
+"Q: Of the numbers 24 and 132, which is smaller? A:","['24', '132']",24,"UTT_BOUNDARY q: of the numbers 24 and 132, which is smaller? a:UTT_BOUNDARY 241 or 427", 241 or 427
+"Q: Which number is smaller, 508 or 391? A:","['508', '391']",391,"UTT_BOUNDARY q: which number is smaller, 508 or 391? a:UTT_BOUNDARY 391 or 640", 391 or 640
+"Q: Of the numbers 65 and 715, which is smaller? A:","['65', '715']",65,"UTT_BOUNDARY q: of the numbers 65 and 715, which is smaller? a:UTT_BOUNDARY 651 and 929", 651 and 929
+"From the numbers 487 and 110, write the smaller number: ","['487', '110']",110,"UTT_BOUNDARY from the numbers 487 and 110, write the smaller number:UTT_BOUNDARY 110, which is"," 110, which is"
+"Q: Which number is smaller, 672 or 250? A:","['672', '250']",250,"UTT_BOUNDARY q: which number is smaller, 672 or 250? a:UTT_BOUNDARY 25419 or 7", 25419 or 7
+"From the numbers 879 and 793, write the smaller number: ","['879', '793']",793,"UTT_BOUNDARY from the numbers 879 and 793, write the smaller number:UTT_BOUNDARY 791 or 628", 791 or 628
+"Q: Of the numbers 114 and 775, which is smaller? A:","['114', '775']",114,"UTT_BOUNDARY q: of the numbers 114 and 775, which is smaller? a:UTT_BOUNDARY 114 and 410", 114 and 410
+"From the numbers 363 and 269, write the smaller number: ","['363', '269']",269,"UTT_BOUNDARY from the numbers 363 and 269, write the smaller number:UTT_BOUNDARY 269 and 374", 269 and 374
+"From the numbers 390 and 587, write the smaller number: ","['390', '587']",390,"UTT_BOUNDARY from the numbers 390 and 587, write the smaller number:UTT_BOUNDARY 3287 and 3", 3287 and 3
+"Q: Which number is smaller, 138 or 300? A:","['138', '300']",138,"UTT_BOUNDARY q: which number is smaller, 138 or 300? a:UTT_BOUNDARY 137 and 128", 137 and 128
+"Q: Of the numbers 846 and 436, which is smaller? A:","['846', '436']",436,"UTT_BOUNDARY q: of the numbers 846 and 436, which is smaller? a:UTT_BOUNDARY 4306 and 5", 4306 and 5
+"From the numbers 309 and 466, write the smaller number: ","['309', '466']",309,"UTT_BOUNDARY from the numbers 309 and 466, write the smaller number:UTT_BOUNDARY 309 and 506", 309 and 506
+"Q: Of the numbers 348 and 15, which is smaller? A:","['348', '15']",15,"UTT_BOUNDARY q: of the numbers 348 and 15, which is smaller? a:UTT_BOUNDARY 152.] or 4", 152.] or 4
+"Q: Of the numbers 639 and 919, which is smaller? A:","['639', '919']",639,"UTT_BOUNDARY q: of the numbers 639 and 919, which is smaller? a:UTT_BOUNDARY 639;s a", 639;s a
+"Q: Which number is smaller, 221 or 562? A:","['221', '562']",221,"UTT_BOUNDARY q: which number is smaller, 221 or 562? a:UTT_BOUNDARY 221 or 628", 221 or 628
+"From the numbers 901 and 520, write the smaller number: ","['901', '520']",520,"UTT_BOUNDARY from the numbers 901 and 520, write the smaller number:UTT_BOUNDARY 520, 792"," 520, 792"
+"From the numbers 404 and 130, write the smaller number: ","['404', '130']",130,"UTT_BOUNDARY from the numbers 404 and 130, write the smaller number:UTT_BOUNDARY 1307 and 9", 1307 and 9
+"Q: Which number is smaller, 260 or 749? A:","['260', '749']",260,"UTT_BOUNDARY q: which number is smaller, 260 or 749? a:UTT_BOUNDARY 269 or 900", 269 or 900
+"Q: Of the numbers 305 and 60, which is smaller? A:","['305', '60']",60,"UTT_BOUNDARY q: of the numbers 305 and 60, which is smaller? a:UTT_BOUNDARY 305, which is"," 305, which is"
+"From the numbers 846 and 520, write the smaller number: ","['846', '520']",520,"UTT_BOUNDARY from the numbers 846 and 520, write the smaller number:UTT_BOUNDARY 520 and 739", 520 and 739
+"Q: Which number is smaller, 708 or 317? A:","['708', '317']",317,"UTT_BOUNDARY q: which number is smaller, 708 or 317? a:UTT_BOUNDARY 328 and 535", 328 and 535
+"Q: Which number is smaller, 892 or 335? A:","['892', '335']",335,"UTT_BOUNDARY q: which number is smaller, 892 or 335? a:UTT_BOUNDARY 334? a:", 334? a:
+"Q: Of the numbers 887 and 990, which is smaller? A:","['887', '990']",887,"UTT_BOUNDARY q: of the numbers 887 and 990, which is smaller? a:UTT_BOUNDARY 797 and 796", 797 and 796
+"Q: Of the numbers 516 and 292, which is smaller? A:","['516', '292']",292,"UTT_BOUNDARY q: of the numbers 516 and 292, which is smaller? a:UTT_BOUNDARY 292 and 380", 292 and 380
+"Q: Which number is smaller, 990 or 498? A:","['990', '498']",498,"UTT_BOUNDARY q: which number is smaller, 990 or 498? a:UTT_BOUNDARY 498 or the """," 498 or the """
+"Q: Of the numbers 308 and 97, which is smaller? A:","['308', '97']",97,"UTT_BOUNDARY q: of the numbers 308 and 97, which is smaller? a:UTT_BOUNDARY 309-167", 309-167
+"Q: Which number is smaller, 411 or 604? A:","['411', '604']",411,"UTT_BOUNDARY q: which number is smaller, 411 or 604? a:UTT_BOUNDARY 430 and 410", 430 and 410
+"Q: Which number is smaller, 221 or 552? A:","['221', '552']",221,"UTT_BOUNDARY q: which number is smaller, 221 or 552? a:UTT_BOUNDARY 221 or 627", 221 or 627
+"Q: Of the numbers 454 and 810, which is smaller? A:","['454', '810']",454,"UTT_BOUNDARY q: of the numbers 454 and 810, which is smaller? a:UTT_BOUNDARY 451 or 439", 451 or 439
+"From the numbers 510 and 188, write the smaller number: ","['510', '188']",188,"UTT_BOUNDARY from the numbers 510 and 188, write the smaller number:UTT_BOUNDARY 1885, 1908"," 1885, 1908"
+"Q: Which number is smaller, 507 or 512? A:","['507', '512']",507,"UTT_BOUNDARY q: which number is smaller, 507 or 512? a:UTT_BOUNDARY 507 or 538", 507 or 538
+"From the numbers 492 and 279, write the smaller number: ","['492', '279']",279,"UTT_BOUNDARY from the numbers 492 and 279, write the smaller number:UTT_BOUNDARY 272? a:", 272? a:
+"From the numbers 708 and 317, write the smaller number: ","['708', '317']",317,"UTT_BOUNDARY from the numbers 708 and 317, write the smaller number:UTT_BOUNDARY 3287 and 3", 3287 and 3
+"Q: Which number is smaller, 423 or 185? A:","['423', '185']",185,"UTT_BOUNDARY q: which number is smaller, 423 or 185? a:UTT_BOUNDARY 185 and 181,"," 185 and 181,"
+"From the numbers 950 and 369, write the smaller number: ","['950', '369']",369,"UTT_BOUNDARY from the numbers 950 and 369, write the smaller number:UTT_BOUNDARY 36119 or 6", 36119 or 6
+"Q: Which number is smaller, 101 or 723? A:","['101', '723']",101,"UTT_BOUNDARY q: which number is smaller, 101 or 723? a:UTT_BOUNDARY 1014-371", 1014-371
+"Q: Which number is smaller, 523 or 772? A:","['523', '772']",523,"UTT_BOUNDARY q: which number is smaller, 523 or 772? a:UTT_BOUNDARY 5232 is a", 5232 is a
+"Q: Of the numbers 829 and 369, which is smaller? A:","['829', '369']",369,"UTT_BOUNDARY q: of the numbers 829 and 369, which is smaller? a:UTT_BOUNDARY 3697 and 4", 3697 and 4
+"Q: Of the numbers 203 and 466, which is smaller? A:","['203', '466']",203,"UTT_BOUNDARY q: of the numbers 203 and 466, which is smaller? a:UTT_BOUNDARY 209 and 410", 209 and 410
+"From the numbers 854 and 342, write the smaller number: ","['854', '342']",342,"UTT_BOUNDARY from the numbers 854 and 342, write the smaller number:UTT_BOUNDARY 344 and 269", 344 and 269
+"Q: Of the numbers 651 and 142, which is smaller? A:","['651', '142']",142,"UTT_BOUNDARY q: of the numbers 651 and 142, which is smaller? a:UTT_BOUNDARY 142. a:", 142. a:
+"Q: Which number is smaller, 309 or 549? A:","['309', '549']",309,"UTT_BOUNDARY q: which number is smaller, 309 or 549? a:UTT_BOUNDARY 3094-16", 3094-16
+"Q: Of the numbers 564 and 140, which is smaller? A:","['564', '140']",140,"UTT_BOUNDARY q: of the numbers 564 and 140, which is smaller? a:UTT_BOUNDARY 140e:UTT_BOUNDARY", 140e:
+"Q: Of the numbers 20 and 883, which is smaller? A:","['20', '883']",20,"UTT_BOUNDARY q: of the numbers 20 and 883, which is smaller? a:UTT_BOUNDARY 205 or 602", 205 or 602
+"From the numbers 260 and 749, write the smaller number: ","['260', '749']",260,"UTT_BOUNDARY from the numbers 260 and 749, write the smaller number:UTT_BOUNDARY 260 or 374", 260 or 374
+"Q: Of the numbers 374 and 540, which is smaller? A:","['374', '540']",374,"UTT_BOUNDARY q: of the numbers 374 and 540, which is smaller? a:UTT_BOUNDARY 374 and 439", 374 and 439
+"Q: Which number is smaller, 881 or 248? A:","['881', '248']",248,"UTT_BOUNDARY q: which number is smaller, 881 or 248? a:UTT_BOUNDARY 241 or 620", 241 or 620
+"Q: Which number is smaller, 72 or 140? A:","['72', '140']",72,"UTT_BOUNDARY q: which number is smaller, 72 or 140? a:UTT_BOUNDARY 72 or 620?", 72 or 620?
+"Q: Which number is smaller, 74 or 866? A:","['74', '866']",74,"UTT_BOUNDARY q: which number is smaller, 74 or 866? a:UTT_BOUNDARY 74119-18", 74119-18
+"From the numbers 772 and 549, write the smaller number: ","['772', '549']",549,"UTT_BOUNDARY from the numbers 772 and 549, write the smaller number:UTT_BOUNDARY 523? a:", 523? a:
+"Q: Of the numbers 217 and 670, which is smaller? A:","['217', '670']",217,"UTT_BOUNDARY q: of the numbers 217 and 670, which is smaller? a:UTT_BOUNDARY 215-year-", 215-year-
+"Q: Of the numbers 23 and 696, which is smaller? A:","['23', '696']",23,"UTT_BOUNDARY q: of the numbers 23 and 696, which is smaller? a:UTT_BOUNDARY 237 and 237", 237 and 237
+"Q: Of the numbers 321 and 800, which is smaller? A:","['321', '800']",321,"UTT_BOUNDARY q: of the numbers 321 and 800, which is smaller? a:UTT_BOUNDARY 360 and 360", 360 and 360
+"Q: Which number is smaller, 948 or 547? A:","['948', '547']",547,"UTT_BOUNDARY q: which number is smaller, 948 or 547? a:UTT_BOUNDARY 5487-16", 5487-16
+"Q: Which number is smaller, 469 or 777? A:","['469', '777']",469,"UTT_BOUNDARY q: which number is smaller, 469 or 777? a:UTT_BOUNDARY 467 and 944", 467 and 944
+"Q: Which number is smaller, 540 or 207? A:","['540', '207']",207,"UTT_BOUNDARY q: which number is smaller, 540 or 207? a:UTT_BOUNDARY 205 or 206", 205 or 206
+"Q: Of the numbers 367 and 493, which is smaller? A:","['367', '493']",367,"UTT_BOUNDARY q: of the numbers 367 and 493, which is smaller? a:UTT_BOUNDARY 368 action and 49", 368 action and 49
+"Q: Of the numbers 210 and 872, which is smaller? A:","['210', '872']",210,"UTT_BOUNDARY q: of the numbers 210 and 872, which is smaller? a:UTT_BOUNDARY 210 total number 27", 210 total number 27
+"From the numbers 123 and 59, write the smaller number: ","['123', '59']",59,"UTT_BOUNDARY from the numbers 123 and 59, write the smaller number:UTT_BOUNDARY 594 or 427", 594 or 427
+"From the numbers 781 and 153, write the smaller number: ","['781', '153']",153,"UTT_BOUNDARY from the numbers 781 and 153, write the smaller number:UTT_BOUNDARY 152, which is"," 152, which is"
+"Q: Of the numbers 940 and 164, which is smaller? A:","['940', '164']",164,"UTT_BOUNDARY q: of the numbers 940 and 164, which is smaller? a:UTT_BOUNDARY 164 1606", 164 1606
+"From the numbers 929 and 842, write the smaller number: ","['929', '842']",842,"UTT_BOUNDARY from the numbers 929 and 842, write the smaller number:UTT_BOUNDARY 8143 and 6", 8143 and 6
+"From the numbers 915 and 448, write the smaller number: ","['915', '448']",448,"UTT_BOUNDARY from the numbers 915 and 448, write the smaller number:UTT_BOUNDARY 448”. the smaller", 448”. the smaller
+"From the numbers 720 and 576, write the smaller number: ","['720', '576']",576,"UTT_BOUNDARY from the numbers 720 and 576, write the smaller number:UTT_BOUNDARY 520 or 576", 520 or 576
+"Q: Which number is smaller, 62 or 802? A:","['62', '802']",62,"UTT_BOUNDARY q: which number is smaller, 62 or 802? a:UTT_BOUNDARY 52 is the 52nd", 52 is the 52nd
+"From the numbers 147 and 576, write the smaller number: ","['147', '576']",147,"UTT_BOUNDARY from the numbers 147 and 576, write the smaller number:UTT_BOUNDARY 147 and 147", 147 and 147
+"From the numbers 482 and 202, write the smaller number: ","['482', '202']",202,"UTT_BOUNDARY from the numbers 482 and 202, write the smaller number:UTT_BOUNDARY 202 and dialogue coach", 202 and dialogue coach
+"From the numbers 720 and 739, write the smaller number: ","['720', '739']",720,"UTT_BOUNDARY from the numbers 720 and 739, write the smaller number:UTT_BOUNDARY 720 and 822", 720 and 822
+"Q: Which number is smaller, 914 or 555? A:","['914', '555']",555,"UTT_BOUNDARY q: which number is smaller, 914 or 555? a:UTT_BOUNDARY 5556 and 6", 5556 and 6
+"Q: Of the numbers 546 and 350, which is smaller? A:","['546', '350']",350,"UTT_BOUNDARY q: of the numbers 546 and 350, which is smaller? a:UTT_BOUNDARY 326-395", 326-395
+"From the numbers 541 and 97, write the smaller number: ","['541', '97']",97,"UTT_BOUNDARY from the numbers 541 and 97, write the smaller number:UTT_BOUNDARY 977-905", 977-905
+"Q: Which number is smaller, 18 or 929? A:","['18', '929']",18,"UTT_BOUNDARY q: which number is smaller, 18 or 929? a:UTT_BOUNDARY 181, which is"," 181, which is"
+"From the numbers 839 and 45, write the smaller number: ","['839', '45']",45,"UTT_BOUNDARY from the numbers 839 and 45, write the smaller number:UTT_BOUNDARY 453} and the", 453} and the
+"Q: Which number is smaller, 383 or 675? A:","['383', '675']",383,"UTT_BOUNDARY q: which number is smaller, 383 or 675? a:UTT_BOUNDARY 383 or 223", 383 or 223
+"Q: Of the numbers 672 and 744, which is smaller? A:","['672', '744']",672,"UTT_BOUNDARY q: of the numbers 672 and 744, which is smaller? a:UTT_BOUNDARY 672 is 423", 672 is 423
+"Q: Which number is smaller, 740 or 187? A:","['740', '187']",187,"UTT_BOUNDARY q: which number is smaller, 740 or 187? a:UTT_BOUNDARY 1877, 1879"," 1877, 1879"
+"From the numbers 320 and 111, write the smaller number: ","['320', '111']",111,"UTT_BOUNDARY from the numbers 320 and 111, write the smaller number:UTT_BOUNDARY 111 and 866", 111 and 866
+"Q: Of the numbers 445 and 528, which is smaller? A:","['445', '528']",445,"UTT_BOUNDARY q: of the numbers 445 and 528, which is smaller? a:UTT_BOUNDARY 414 and 536", 414 and 536
+"From the numbers 157 and 694, write the smaller number: ","['157', '694']",157,"UTT_BOUNDARY from the numbers 157 and 694, write the smaller number:UTT_BOUNDARY 1584. the", 1584. the
+"Q: Of the numbers 912 and 28, which is smaller? A:","['912', '28']",28,"UTT_BOUNDARY q: of the numbers 912 and 28, which is smaller? a:UTT_BOUNDARY 284 seventh avenue 53", 284 seventh avenue 53
+"Q: Of the numbers 534 and 46, which is smaller? A:","['534', '46']",46,"UTT_BOUNDARY q: of the numbers 534 and 46, which is smaller? a:UTT_BOUNDARY 4697 and 4", 4697 and 4
+"Q: Which number is smaller, 206 or 306? A:","['206', '306']",206,"UTT_BOUNDARY q: which number is smaller, 206 or 306? a:UTT_BOUNDARY 206? a:", 206? a:
+"Q: Which number is smaller, 852 or 713? A:","['852', '713']",713,"UTT_BOUNDARY q: which number is smaller, 852 or 713? a:UTT_BOUNDARY 7372? a", 7372? a
+"Q: Of the numbers 11 and 847, which is smaller? A:","['11', '847']",11,"UTT_BOUNDARY q: of the numbers 11 and 847, which is smaller? a:UTT_BOUNDARY 11400 and 4", 11400 and 4
+"Q: Of the numbers 29 and 920, which is smaller? A:","['29', '920']",29,"UTT_BOUNDARY q: of the numbers 29 and 920, which is smaller? a:UTT_BOUNDARY 297 and 277", 297 and 277
+"Q: Which number is smaller, 194 or 262? A:","['194', '262']",194,"UTT_BOUNDARY q: which number is smaller, 194 or 262? a:UTT_BOUNDARY 262 is 262", 262 is 262
+"From the numbers 197 and 95, write the smaller number: ","['197', '95']",95,"UTT_BOUNDARY from the numbers 197 and 95, write the smaller number:UTT_BOUNDARY 712, which is"," 712, which is"
+"From the numbers 239 and 287, write the smaller number: ","['239', '287']",239,"UTT_BOUNDARY from the numbers 239 and 287, write the smaller number:UTT_BOUNDARY 2377 and 9", 2377 and 9
+"Q: Which number is smaller, 814 or 826? A:","['814', '826']",814,"UTT_BOUNDARY q: which number is smaller, 814 or 826? a:UTT_BOUNDARY 8708 and 8", 8708 and 8
+"From the numbers 658 and 588, write the smaller number: ","['658', '588']",588,"UTT_BOUNDARY from the numbers 658 and 588, write the smaller number:UTT_BOUNDARY 5888 and 8", 5888 and 8
+"From the numbers 462 and 438, write the smaller number: ","['462', '438']",438,"UTT_BOUNDARY from the numbers 462 and 438, write the smaller number:UTT_BOUNDARY 41 and 739", 41 and 739
+"Q: Of the numbers 593 and 269, which is smaller? A:","['593', '269']",269,"UTT_BOUNDARY q: of the numbers 593 and 269, which is smaller? a:UTT_BOUNDARY 269 or 416", 269 or 416
+"Q: Which number is smaller, 356 or 704? A:","['356', '704']",356,"UTT_BOUNDARY q: which number is smaller, 356 or 704? a:UTT_BOUNDARY 356 or 266", 356 or 266
+"From the numbers 11 and 847, write the smaller number: ","['11', '847']",11,"UTT_BOUNDARY from the numbers 11 and 847, write the smaller number:UTT_BOUNDARY 114 and 760", 114 and 760
+"Q: Of the numbers 738 and 497, which is smaller? A:","['738', '497']",497,"UTT_BOUNDARY q: of the numbers 738 and 497, which is smaller? a:UTT_BOUNDARY 494-3736", 494-3736
+"From the numbers 48 and 615, write the smaller number: ","['48', '615']",48,"UTT_BOUNDARY from the numbers 48 and 615, write the smaller number:UTT_BOUNDARY 484] from the", 484] from the
+"Q: Of the numbers 407 and 905, which is smaller? A:","['407', '905']",407,"UTT_BOUNDARY q: of the numbers 407 and 905, which is smaller? a:UTT_BOUNDARY 407 and 800,"," 407 and 800,"
+"Q: Which number is smaller, 299 or 784? A:","['299', '784']",299,"UTT_BOUNDARY q: which number is smaller, 299 or 784? a:UTT_BOUNDARY 297. it is", 297. it is
+"Q: Of the numbers 459 and 931, which is smaller? A:","['459', '931']",459,"UTT_BOUNDARY q: of the numbers 459 and 931, which is smaller? a:UTT_BOUNDARY 459/40 which", 459/40 which
+"Q: Which number is smaller, 342 or 650? A:","['342', '650']",342,"UTT_BOUNDARY q: which number is smaller, 342 or 650? a:UTT_BOUNDARY 342 or 262", 342 or 262
+"From the numbers 634 and 581, write the smaller number: ","['634', '581']",581,"UTT_BOUNDARY from the numbers 634 and 581, write the smaller number:UTT_BOUNDARY 582+ and 9", 582+ and 9
+"Q: Of the numbers 716 and 385, which is smaller? A:","['716', '385']",385,"UTT_BOUNDARY q: of the numbers 716 and 385, which is smaller? a:UTT_BOUNDARY 385 or 538", 385 or 538
+"From the numbers 990 and 498, write the smaller number: ","['990', '498']",498,"UTT_BOUNDARY from the numbers 990 and 498, write the smaller number:UTT_BOUNDARY 498 and 494", 498 and 494
+"Q: Which number is smaller, 749 or 441? A:","['749', '441']",441,"UTT_BOUNDARY q: which number is smaller, 749 or 441? a:UTT_BOUNDARY 442 or the 26", 442 or the 26
+"Q: Which number is smaller, 645 or 521? A:","['645', '521']",521,"UTT_BOUNDARY q: which number is smaller, 645 or 521? a:UTT_BOUNDARY 512 or 538", 512 or 538
+"Q: Which number is smaller, 538 or 732? A:","['538', '732']",538,"UTT_BOUNDARY q: which number is smaller, 538 or 732? a:UTT_BOUNDARY 542 or 542", 542 or 542
+"From the numbers 876 and 35, write the smaller number: ","['876', '35']",35,"UTT_BOUNDARY from the numbers 876 and 35, write the smaller number:UTT_BOUNDARY 353i, 35"," 353i, 35"
+"Q: Of the numbers 514 and 944, which is smaller? A:","['514', '944']",514,"UTT_BOUNDARY q: of the numbers 514 and 944, which is smaller? a:UTT_BOUNDARY 5146 and 5", 5146 and 5
+"Q: Of the numbers 444 and 901, which is smaller? A:","['444', '901']",444,"UTT_BOUNDARY q: of the numbers 444 and 901, which is smaller? a:UTT_BOUNDARY 444] and the", 444] and the
+"Q: Which number is smaller, 676 or 514? A:","['676', '514']",514,"UTT_BOUNDARY q: which number is smaller, 676 or 514? a:UTT_BOUNDARY 535 or 538", 535 or 538
+"Q: Of the numbers 954 and 358, which is smaller? A:","['954', '358']",358,"UTT_BOUNDARY q: of the numbers 954 and 358, which is smaller? a:UTT_BOUNDARY 356 and 935", 356 and 935
+"Q: Of the numbers 50 and 375, which is smaller? A:","['50', '375']",50,"UTT_BOUNDARY q: of the numbers 50 and 375, which is smaller? a:UTT_BOUNDARY 380-907", 380-907
+"Q: Which number is smaller, 437 or 280? A:","['437', '280']",280,"UTT_BOUNDARY q: which number is smaller, 437 or 280? a:UTT_BOUNDARY 280 number 274", 280 number 274
+"Q: Of the numbers 586 and 983, which is smaller? A:","['586', '983']",586,"UTT_BOUNDARY q: of the numbers 586 and 983, which is smaller? a:UTT_BOUNDARY 586 and 754", 586 and 754
+"From the numbers 455 and 45, write the smaller number: ","['455', '45']",45,"UTT_BOUNDARY from the numbers 455 and 45, write the smaller number:UTT_BOUNDARY 455, which is"," 455, which is"
+"Q: Which number is smaller, 902 or 427? A:","['902', '427']",427,"UTT_BOUNDARY q: which number is smaller, 902 or 427? a:UTT_BOUNDARY 427, 323"," 427, 323"
+"From the numbers 152 and 264, write the smaller number: ","['152', '264']",152,"UTT_BOUNDARY from the numbers 152 and 264, write the smaller number:UTT_BOUNDARY 152:UTT_BOUNDARY", 152:
+"Q: Which number is smaller, 737 or 196? A:","['737', '196']",196,"UTT_BOUNDARY q: which number is smaller, 737 or 196? a:UTT_BOUNDARY 737 and the 7", 737 and the 7
+"Q: Which number is smaller, 374 or 859? A:","['374', '859']",374,"UTT_BOUNDARY q: which number is smaller, 374 or 859? a:UTT_BOUNDARY 374 or 439", 374 or 439
+"Q: Of the numbers 810 and 529, which is smaller? A:","['810', '529']",529,"UTT_BOUNDARY q: of the numbers 810 and 529, which is smaller? a:UTT_BOUNDARY 529-37 5", 529-37 5
+"Q: Of the numbers 484 and 603, which is smaller? A:","['484', '603']",484,"UTT_BOUNDARY q: of the numbers 484 and 603, which is smaller? a:UTT_BOUNDARY 484} is smaller", 484} is smaller
+"Q: Which number is smaller, 738 or 497? A:","['738', '497']",497,"UTT_BOUNDARY q: which number is smaller, 738 or 497? a:UTT_BOUNDARY 494 or 386", 494 or 386
+"From the numbers 620 and 766, write the smaller number: ","['620', '766']",620,"UTT_BOUNDARY from the numbers 620 and 766, write the smaller number:UTT_BOUNDARY 520 or 920", 520 or 920
+"Q: Of the numbers 74 and 439, which is smaller? A:","['74', '439']",74,"UTT_BOUNDARY q: of the numbers 74 and 439, which is smaller? a:UTT_BOUNDARY 439 and a group", 439 and a group
+"Q: Of the numbers 231 and 397, which is smaller? A:","['231', '397']",231,"UTT_BOUNDARY q: of the numbers 231 and 397, which is smaller? a:UTT_BOUNDARY 231-167", 231-167
+"From the numbers 260 and 36, write the smaller number: ","['260', '36']",36,"UTT_BOUNDARY from the numbers 260 and 36, write the smaller number:UTT_BOUNDARY 369). this is", 369). this is
+"From the numbers 42 and 936, write the smaller number: ","['42', '936']",42,"UTT_BOUNDARY from the numbers 42 and 936, write the smaller number:UTT_BOUNDARY 42nd and 42nd", 42nd and 42nd
+"Q: Which number is smaller, 467 or 552? A:","['467', '552']",467,"UTT_BOUNDARY q: which number is smaller, 467 or 552? a:UTT_BOUNDARY 464 or 580", 464 or 580
+"From the numbers 520 and 997, write the smaller number: ","['520', '997']",520,"UTT_BOUNDARY from the numbers 520 and 997, write the smaller number:UTT_BOUNDARY 520, 921"," 520, 921"
+"From the numbers 221 and 552, write the smaller number: ","['221', '552']",221,"UTT_BOUNDARY from the numbers 221 and 552, write the smaller number:UTT_BOUNDARY 221 or 627", 221 or 627
+"Q: Of the numbers 676 and 306, which is smaller? A:","['676', '306']",306,"UTT_BOUNDARY q: of the numbers 676 and 306, which is smaller? a:UTT_BOUNDARY 306 and 506", 306 and 506
+"Q: Of the numbers 402 and 670, which is smaller? A:","['402', '670']",402,"UTT_BOUNDARY q: of the numbers 402 and 670, which is smaller? a:UTT_BOUNDARY 402-902", 402-902
+"From the numbers 767 and 564, write the smaller number: ","['767', '564']",564,"UTT_BOUNDARY from the numbers 767 and 564, write the smaller number:UTT_BOUNDARY 567 and 190,"," 567 and 190,"
+"Q: Which number is smaller, 321 or 800? A:","['321', '800']",321,"UTT_BOUNDARY q: which number is smaller, 321 or 800? a:UTT_BOUNDARY 390 or 640", 390 or 640
+"Q: Which number is smaller, 654 or 144? A:","['654', '144']",144,"UTT_BOUNDARY q: which number is smaller, 654 or 144? a:UTT_BOUNDARY 144 | 813", 144 | 813
+"Q: Which number is smaller, 924 or 911? A:","['924', '911']",911,"UTT_BOUNDARY q: which number is smaller, 924 or 911? a:UTT_BOUNDARY 6141 or 6", 6141 or 6
+"Q: Which number is smaller, 309 or 466? A:","['309', '466']",309,"UTT_BOUNDARY q: which number is smaller, 309 or 466? a:UTT_BOUNDARY 309 or 450", 309 or 450
+"Q: Of the numbers 741 and 817, which is smaller? A:","['741', '817']",741,"UTT_BOUNDARY q: of the numbers 741 and 817, which is smaller? a:UTT_BOUNDARY 741 and 946", 741 and 946
+"From the numbers 917 and 705, write the smaller number: ","['917', '705']",705,"UTT_BOUNDARY from the numbers 917 and 705, write the smaller number:UTT_BOUNDARY 705 and 966", 705 and 966
+"Q: Of the numbers 138 and 300, which is smaller? A:","['138', '300']",138,"UTT_BOUNDARY q: of the numbers 138 and 300, which is smaller? a:UTT_BOUNDARY 1388-18", 1388-18
+"Q: Of the numbers 467 and 552, which is smaller? A:","['467', '552']",467,"UTT_BOUNDARY q: of the numbers 467 and 552, which is smaller? a:UTT_BOUNDARY 467 action and 39", 467 action and 39
+"Q: Which number is smaller, 124 or 940? A:","['124', '940']",124,"UTT_BOUNDARY q: which number is smaller, 124 or 940? a:UTT_BOUNDARY 124:UTT_BOUNDARY", 124:
+"From the numbers 374 and 540, write the smaller number: ","['374', '540']",374,"UTT_BOUNDARY from the numbers 374 and 540, write the smaller number:UTT_BOUNDARY 374 or 427", 374 or 427
+"Q: Of the numbers 709 and 527, which is smaller? A:","['709', '527']",527,"UTT_BOUNDARY q: of the numbers 709 and 527, which is smaller? a:UTT_BOUNDARY 538-167", 538-167
+"Q: Which number is smaller, 74 or 948? A:","['74', '948']",74,"UTT_BOUNDARY q: which number is smaller, 74 or 948? a:UTT_BOUNDARY 74119-18", 74119-18
+"Q: Which number is smaller, 555 or 231? A:","['555', '231']",231,"UTT_BOUNDARY q: which number is smaller, 555 or 231? a:UTT_BOUNDARY 231 236 and", 231 236 and
+"From the numbers 636 and 826, write the smaller number: ","['636', '826']",636,"UTT_BOUNDARY from the numbers 636 and 826, write the smaller number:UTT_BOUNDARY 6148 and 6", 6148 and 6
+"Q: Of the numbers 355 and 817, which is smaller? A:","['355', '817']",355,"UTT_BOUNDARY q: of the numbers 355 and 817, which is smaller? a:UTT_BOUNDARY 355} is the", 355} is the
+"Q: Which number is smaller, 941 or 632? A:","['941', '632']",632,"UTT_BOUNDARY q: which number is smaller, 941 or 632? a:UTT_BOUNDARY 632 is smaller?", 632 is smaller?
+"Q: Of the numbers 403 and 386, which is smaller? A:","['403', '386']",386,"UTT_BOUNDARY q: of the numbers 403 and 386, which is smaller? a:UTT_BOUNDARY 386 or 223", 386 or 223
+"Q: Of the numbers 383 and 226, which is smaller? A:","['383', '226']",226,"UTT_BOUNDARY q: of the numbers 383 and 226, which is smaller? a:UTT_BOUNDARY 229 or 221", 229 or 221
+"From the numbers 863 and 860, write the smaller number: ","['863', '860']",860,"UTT_BOUNDARY from the numbers 863 and 860, write the smaller number:UTT_BOUNDARY 840 and 493", 840 and 493
+"Q: Which number is smaller, 751 or 410? A:","['751', '410']",410,"UTT_BOUNDARY q: which number is smaller, 751 or 410? a:UTT_BOUNDARY 41/220", 41/220
+"Q: Which number is smaller, 275 or 435? A:","['275', '435']",275,"UTT_BOUNDARY q: which number is smaller, 275 or 435? a:UTT_BOUNDARY 275 or 580", 275 or 580
+"Q: Of the numbers 26 and 783, which is smaller? A:","['26', '783']",26,"UTT_BOUNDARY q: of the numbers 26 and 783, which is smaller? a:UTT_BOUNDARY 263i, 3"," 263i, 3"
+"Q: Which number is smaller, 766 or 978? A:","['766', '978']",766,"UTT_BOUNDARY q: which number is smaller, 766 or 978? a:UTT_BOUNDARY 766, which is"," 766, which is"
+"Q: Of the numbers 774 and 926, which is smaller? A:","['774', '926']",774,"UTT_BOUNDARY q: of the numbers 774 and 926, which is smaller? a:UTT_BOUNDARY 773 and 269", 773 and 269
+"From the numbers 995 and 163, write the smaller number: ","['995', '163']",163,"UTT_BOUNDARY from the numbers 995 and 163, write the smaller number:UTT_BOUNDARY 163, 410"," 163, 410"
+"Q: Which number is smaller, 605 or 642? A:","['605', '642']",605,"UTT_BOUNDARY q: which number is smaller, 605 or 642? a:UTT_BOUNDARY 605? a:", 605? a:
+"From the numbers 296 and 185, write the smaller number: ","['296', '185']",185,"UTT_BOUNDARY from the numbers 296 and 185, write the smaller number:UTT_BOUNDARY 297. 186 190", 297. 186 190
+"Q: Which number is smaller, 632 or 260? A:","['632', '260']",260,"UTT_BOUNDARY q: which number is smaller, 632 or 260? a:UTT_BOUNDARY 632? a:", 632? a:
+"From the numbers 946 and 761, write the smaller number: ","['946', '761']",761,"UTT_BOUNDARY from the numbers 946 and 761, write the smaller number:UTT_BOUNDARY 763; a:", 763; a:
+"Q: Of the numbers 328 and 843, which is smaller? A:","['328', '843']",328,"UTT_BOUNDARY q: of the numbers 328 and 843, which is smaller? a:UTT_BOUNDARY 3282 is 3", 3282 is 3
+"Q: Which number is smaller, 508 or 249? A:","['508', '249']",249,"UTT_BOUNDARY q: which number is smaller, 508 or 249? a:UTT_BOUNDARY 248. 186 and", 248. 186 and
+"Q: Which number is smaller, 642 or 273? A:","['642', '273']",273,"UTT_BOUNDARY q: which number is smaller, 642 or 273? a:UTT_BOUNDARY 273 or 263", 273 or 263
+"Q: Of the numbers 260 and 749, which is smaller? A:","['260', '749']",260,"UTT_BOUNDARY q: of the numbers 260 and 749, which is smaller? a:UTT_BOUNDARY 269 or 374", 269 or 374
+"Q: Which number is smaller, 573 or 550? A:","['573', '550']",550,"UTT_BOUNDARY q: which number is smaller, 573 or 550? a:UTT_BOUNDARY 542 or 548", 542 or 548
+"Q: Which number is smaller, 390 or 587? A:","['390', '587']",390,"UTT_BOUNDARY q: which number is smaller, 390 or 587? a:UTT_BOUNDARY 328 and 548", 328 and 548
+"From the numbers 678 and 278, write the smaller number: ","['678', '278']",278,"UTT_BOUNDARY from the numbers 678 and 278, write the smaller number:UTT_BOUNDARY 278 and 278", 278 and 278
+"Q: Of the numbers 586 and 393, which is smaller? A:","['586', '393']",393,"UTT_BOUNDARY q: of the numbers 586 and 393, which is smaller? a:UTT_BOUNDARY 393 and 269", 393 and 269
+"Q: Of the numbers 721 and 829, which is smaller? A:","['721', '829']",721,"UTT_BOUNDARY q: of the numbers 721 and 829, which is smaller? a:UTT_BOUNDARY 721 and 410", 721 and 410
+"Q: Which number is smaller, 846 or 520? A:","['846', '520']",520,"UTT_BOUNDARY q: which number is smaller, 846 or 520? a:UTT_BOUNDARY 520? a:", 520? a:
+"Q: Of the numbers 284 and 388, which is smaller? A:","['284', '388']",284,"UTT_BOUNDARY q: of the numbers 284 and 388, which is smaller? a:UTT_BOUNDARY 294 or 416", 294 or 416
+"From the numbers 451 and 21, write the smaller number: ","['451', '21']",21,"UTT_BOUNDARY from the numbers 451 and 21, write the smaller number:UTT_BOUNDARY 211 or 766", 211 or 766
+"From the numbers 677 and 477, write the smaller number: ","['677', '477']",477,"UTT_BOUNDARY from the numbers 677 and 477, write the smaller number:UTT_BOUNDARY 797 and 797", 797 and 797
+"Q: Of the numbers 432 and 729, which is smaller? A:","['432', '729']",432,"UTT_BOUNDARY q: of the numbers 432 and 729, which is smaller? a:UTT_BOUNDARY 432 and 380", 432 and 380
+"From the numbers 366 and 277, write the smaller number: ","['366', '277']",277,"UTT_BOUNDARY from the numbers 366 and 277, write the smaller number:UTT_BOUNDARY 277 and 278", 277 and 278
+"From the numbers 629 and 512, write the smaller number: ","['629', '512']",512,"UTT_BOUNDARY from the numbers 629 and 512, write the smaller number:UTT_BOUNDARY 5124-16", 5124-16
+"From the numbers 97 and 393, write the smaller number: ","['97', '393']",97,"UTT_BOUNDARY from the numbers 97 and 393, write the smaller number:UTT_BOUNDARY 973i and the", 973i and the
+"Q: Of the numbers 986 and 619, which is smaller? A:","['986', '619']",619,"UTT_BOUNDARY q: of the numbers 986 and 619, which is smaller? a:UTT_BOUNDARY 6236 and 6", 6236 and 6
+"Q: Of the numbers 449 and 926, which is smaller? A:","['449', '926']",449,"UTT_BOUNDARY q: of the numbers 449 and 926, which is smaller? a:UTT_BOUNDARY 444] and the", 444] and the
+"Q: Which number is smaller, 913 or 350? A:","['913', '350']",350,"UTT_BOUNDARY q: which number is smaller, 913 or 350? a:UTT_BOUNDARY 3102-h", 3102-h
+"Q: Of the numbers 609 and 293, which is smaller? A:","['609', '293']",293,"UTT_BOUNDARY q: of the numbers 609 and 293, which is smaller? a:UTT_BOUNDARY 293 and 430", 293 and 430
+"Q: Which number is smaller, 415 or 253? A:","['415', '253']",253,"UTT_BOUNDARY q: which number is smaller, 415 or 253? a:UTT_BOUNDARY 253 or 766", 253 or 766
+"From the numbers 486 and 491, write the smaller number: ","['486', '491']",486,"UTT_BOUNDARY from the numbers 486 and 491, write the smaller number:UTT_BOUNDARY 493i and another", 493i and another
+"From the numbers 351 and 599, write the smaller number: ","['351', '599']",351,"UTT_BOUNDARY from the numbers 351 and 599, write the smaller number:UTT_BOUNDARY 351 or 900", 351 or 900
+"From the numbers 867 and 755, write the smaller number: ","['867', '755']",755,"UTT_BOUNDARY from the numbers 867 and 755, write the smaller number:UTT_BOUNDARY 755 words in the", 755 words in the
+"From the numbers 60 and 395, write the smaller number: ","['60', '395']",60,"UTT_BOUNDARY from the numbers 60 and 395, write the smaller number:UTT_BOUNDARY 605 and 430", 605 and 430
+"Q: Which number is smaller, 576 or 569? A:","['576', '569']",569,"UTT_BOUNDARY q: which number is smaller, 576 or 569? a:UTT_BOUNDARY 569 and 229", 569 and 229
+"Q: Of the numbers 854 and 342, which is smaller? A:","['854', '342']",342,"UTT_BOUNDARY q: of the numbers 854 and 342, which is smaller? a:UTT_BOUNDARY 344 and 439", 344 and 439
+"Q: Of the numbers 681 and 432, which is smaller? A:","['681', '432']",432,"UTT_BOUNDARY q: of the numbers 681 and 432, which is smaller? a:UTT_BOUNDARY 432 is smaller?", 432 is smaller?
+"From the numbers 940 and 164, write the smaller number: ","['940', '164']",164,"UTT_BOUNDARY from the numbers 940 and 164, write the smaller number:UTT_BOUNDARY 164 or 163", 164 or 163
+"Q: Which number is smaller, 114 or 83? A:","['114', '83']",83,"UTT_BOUNDARY q: which number is smaller, 114 or 83? a:UTT_BOUNDARY 114? a:", 114? a:
+"Q: Of the numbers 190 and 939, which is smaller? A:","['190', '939']",190,"UTT_BOUNDARY q: of the numbers 190 and 939, which is smaller? a:UTT_BOUNDARY 190 and 190, which"," 190 and 190, which"
+"Q: Of the numbers 351 and 948, which is smaller? A:","['351', '948']",351,"UTT_BOUNDARY q: of the numbers 351 and 948, which is smaller? a:UTT_BOUNDARY 351 or 580", 351 or 580
+"From the numbers 74 and 866, write the smaller number: ","['74', '866']",74,"UTT_BOUNDARY from the numbers 74 and 866, write the smaller number:UTT_BOUNDARY 741, which is"," 741, which is"
+"Q: Of the numbers 767 and 564, which is smaller? A:","['767', '564']",564,"UTT_BOUNDARY q: of the numbers 767 and 564, which is smaller? a:UTT_BOUNDARY 564-2019", 564-2019
+"Q: Which number is smaller, 395 or 119? A:","['395', '119']",119,"UTT_BOUNDARY q: which number is smaller, 395 or 119? a:UTT_BOUNDARY 235} is the", 235} is the
+"Q: Which number is smaller, 830 or 419? A:","['830', '419']",419,"UTT_BOUNDARY q: which number is smaller, 830 or 419? a:UTT_BOUNDARY 4142 and 6", 4142 and 6
+"Q: Of the numbers 838 and 696, which is smaller? A:","['838', '696']",696,"UTT_BOUNDARY q: of the numbers 838 and 696, which is smaller? a:UTT_BOUNDARY 696 and 416", 696 and 416
+"Q: Which number is smaller, 308 or 97? A:","['308', '97']",97,"UTT_BOUNDARY q: which number is smaller, 308 or 97? a:UTT_BOUNDARY 309 or 480", 309 or 480
+"Q: Which number is smaller, 529 or 813? A:","['529', '813']",529,"UTT_BOUNDARY q: which number is smaller, 529 or 813? a:UTT_BOUNDARY 529 or 512", 529 or 512
+"Q: Which number is smaller, 736 or 243? A:","['736', '243']",243,"UTT_BOUNDARY q: which number is smaller, 736 or 243? a:UTT_BOUNDARY 243:UTT_BOUNDARY", 243:
+"Q: Which number is smaller, 891 or 777? A:","['891', '777']",777,"UTT_BOUNDARY q: which number is smaller, 891 or 777? a:UTT_BOUNDARY 777 and 946", 777 and 946
+"Q: Of the numbers 679 and 400, which is smaller? A:","['679', '400']",400,"UTT_BOUNDARY q: of the numbers 679 and 400, which is smaller? a:UTT_BOUNDARY 4002 or 800,"," 4002 or 800,"
+"Q: Which number is smaller, 946 or 761? A:","['946', '761']",761,"UTT_BOUNDARY q: which number is smaller, 946 or 761? a:UTT_BOUNDARY 76117? a", 76117? a
+"From the numbers 116 and 934, write the smaller number: ","['116', '934']",116,"UTT_BOUNDARY from the numbers 116 and 934, write the smaller number:UTT_BOUNDARY 116 and 966", 116 and 966
+"Q: Which number is smaller, 137 or 442? A:","['137', '442']",137,"UTT_BOUNDARY q: which number is smaller, 137 or 442? a:UTT_BOUNDARY 137 and 162", 137 and 162
+"Q: Which number is smaller, 249 or 39? A:","['249', '39']",39,"UTT_BOUNDARY q: which number is smaller, 249 or 39? a:UTT_BOUNDARY 249 or 427", 249 or 427
+"From the numbers 157 and 134, write the smaller number: ","['157', '134']",134,"UTT_BOUNDARY from the numbers 157 and 134, write the smaller number:UTT_BOUNDARY 137. 1867", 137. 1867
+"From the numbers 65 and 601, write the smaller number: ","['65', '601']",65,"UTT_BOUNDARY from the numbers 65 and 601, write the smaller number:UTT_BOUNDARY 651 or 982", 651 or 982
+"Q: Of the numbers 448 and 653, which is smaller? A:","['448', '653']",448,"UTT_BOUNDARY q: of the numbers 448 and 653, which is smaller? a:UTT_BOUNDARY 448-905", 448-905
+"Q: Of the numbers 608 and 524, which is smaller? A:","['608', '524']",524,"UTT_BOUNDARY q: of the numbers 608 and 524, which is smaller? a:UTT_BOUNDARY 555 and 642", 555 and 642
+"Q: Of the numbers 948 and 547, which is smaller? A:","['948', '547']",547,"UTT_BOUNDARY q: of the numbers 948 and 547, which is smaller? a:UTT_BOUNDARY 5487-18", 5487-18
+"From the numbers 940 and 508, write the smaller number: ","['940', '508']",508,"UTT_BOUNDARY from the numbers 940 and 508, write the smaller number:UTT_BOUNDARY 505 and 538", 505 and 538
+"Q: Which number is smaller, 206 or 817? A:","['206', '817']",206,"UTT_BOUNDARY q: which number is smaller, 206 or 817? a:UTT_BOUNDARY 206 or 410", 206 or 410
+"From the numbers 278 and 585, write the smaller number: ","['278', '585']",278,"UTT_BOUNDARY from the numbers 278 and 585, write the smaller number:UTT_BOUNDARY 278 american, 21"," 278 american, 21"
+"From the numbers 533 and 486, write the smaller number: ","['533', '486']",486,"UTT_BOUNDARY from the numbers 533 and 486, write the smaller number:UTT_BOUNDARY 486 and 528", 486 and 528
+"Q: Which number is smaller, 195 or 72? A:","['195', '72']",72,"UTT_BOUNDARY q: which number is smaller, 195 or 72? a:UTT_BOUNDARY 72 or 221?", 72 or 221?
+"Q: Which number is smaller, 257 or 606? A:","['257', '606']",257,"UTT_BOUNDARY q: which number is smaller, 257 or 606? a:UTT_BOUNDARY 257 and 278", 257 and 278
+"Q: Of the numbers 260 and 36, which is smaller? A:","['260', '36']",36,"UTT_BOUNDARY q: of the numbers 260 and 36, which is smaller? a:UTT_BOUNDARY 369 total number:", 369 total number:
+"Q: Which number is smaller, 116 or 570? A:","['116', '570']",116,"UTT_BOUNDARY q: which number is smaller, 116 or 570? a:UTT_BOUNDARY 116 and 920", 116 and 920
+"Q: Of the numbers 457 and 74, which is smaller? A:","['457', '74']",74,"UTT_BOUNDARY q: of the numbers 457 and 74, which is smaller? a:UTT_BOUNDARY 457 and 494", 457 and 494
+"From the numbers 597 and 105, write the smaller number: ","['597', '105']",105,"UTT_BOUNDARY from the numbers 597 and 105, write the smaller number:UTT_BOUNDARY 105, which is"," 105, which is"
+"Q: Which number is smaller, 998 or 763? A:","['998', '763']",763,"UTT_BOUNDARY q: which number is smaller, 998 or 763? a:UTT_BOUNDARY 768 and 736", 768 and 736
+"Q: Of the numbers 571 and 73, which is smaller? A:","['571', '73']",73,"UTT_BOUNDARY q: of the numbers 571 and 73, which is smaller? a:UTT_BOUNDARY 571 and 828", 571 and 828
+"Q: Of the numbers 451 and 173, which is smaller? A:","['451', '173']",173,"UTT_BOUNDARY q: of the numbers 451 and 173, which is smaller? a:UTT_BOUNDARY 173:UTT_BOUNDARY", 173:
+"Q: Of the numbers 538 and 370, which is smaller? A:","['538', '370']",370,"UTT_BOUNDARY q: of the numbers 538 and 370, which is smaller? a:UTT_BOUNDARY 3702-h", 3702-h
+"Q: Which number is smaller, 460 or 272? A:","['460', '272']",272,"UTT_BOUNDARY q: which number is smaller, 460 or 272? a:UTT_BOUNDARY 272? a:", 272? a:
+"Q: Which number is smaller, 610 or 890? A:","['610', '890']",610,"UTT_BOUNDARY q: which number is smaller, 610 or 890? a:UTT_BOUNDARY 690 or 690", 690 or 690
+"Q: Of the numbers 450 and 986, which is smaller? A:","['450', '986']",450,"UTT_BOUNDARY q: of the numbers 450 and 986, which is smaller? a:UTT_BOUNDARY 437 and 439", 437 and 439
+"Q: Which number is smaller, 966 or 846? A:","['966', '846']",846,"UTT_BOUNDARY q: which number is smaller, 966 or 846? a:UTT_BOUNDARY 8708 and a", 8708 and a
+"From the numbers 129 and 526, write the smaller number: ","['129', '526']",129,"UTT_BOUNDARY from the numbers 129 and 526, write the smaller number:UTT_BOUNDARY 128 and a 5", 128 and a 5
+"Q: Of the numbers 114 and 83, which is smaller? A:","['114', '83']",83,"UTT_BOUNDARY q: of the numbers 114 and 83, which is smaller? a:UTT_BOUNDARY 114 and 935", 114 and 935
+"From the numbers 586 and 701, write the smaller number: ","['586', '701']",586,"UTT_BOUNDARY from the numbers 586 and 701, write the smaller number:UTT_BOUNDARY 586-1836", 586-1836
+"Q: Which number is smaller, 909 or 859? A:","['909', '859']",859,"UTT_BOUNDARY q: which number is smaller, 909 or 859? a:UTT_BOUNDARY 6797 or 29", 6797 or 29
+"From the numbers 697 and 972, write the smaller number: ","['697', '972']",697,"UTT_BOUNDARY from the numbers 697 and 972, write the smaller number:UTT_BOUNDARY 592-180", 592-180
+"Q: Of the numbers 885 and 558, which is smaller? A:","['885', '558']",558,"UTT_BOUNDARY q: of the numbers 885 and 558, which is smaller? a:UTT_BOUNDARY 555t class 3", 555t class 3
+"Q: Of the numbers 78 and 38, which is smaller? A:","['78', '38']",38,"UTT_BOUNDARY q: of the numbers 78 and 38, which is smaller? a:UTT_BOUNDARY 389 or 476", 389 or 476
+"Q: Of the numbers 913 and 350, which is smaller? A:","['913', '350']",350,"UTT_BOUNDARY q: of the numbers 913 and 350, which is smaller? a:UTT_BOUNDARY 3162-?", 3162-?
+"Q: Which number is smaller, 748 or 964? A:","['748', '964']",748,"UTT_BOUNDARY q: which number is smaller, 748 or 964? a:UTT_BOUNDARY 748? a:", 748? a:
+"From the numbers 587 and 942, write the smaller number: ","['587', '942']",587,"UTT_BOUNDARY from the numbers 587 and 942, write the smaller number:UTT_BOUNDARY 5877 and 8", 5877 and 8
+"From the numbers 957 and 676, write the smaller number: ","['957', '676']",676,"UTT_BOUNDARY from the numbers 957 and 676, write the smaller number:UTT_BOUNDARY 6287 and 6", 6287 and 6
+"Q: Of the numbers 187 and 945, which is smaller? A:","['187', '945']",187,"UTT_BOUNDARY q: of the numbers 187 and 945, which is smaller? a:UTT_BOUNDARY 187 and 430 name", 187 and 430 name
+"Q: Of the numbers 269 and 827, which is smaller? A:","['269', '827']",269,"UTT_BOUNDARY q: of the numbers 269 and 827, which is smaller? a:UTT_BOUNDARY 2697-16", 2697-16
+"Q: Which number is smaller, 490 or 274? A:","['490', '274']",274,"UTT_BOUNDARY q: which number is smaller, 490 or 274? a:UTT_BOUNDARY 274/2120", 274/2120
+"From the numbers 749 and 441, write the smaller number: ","['749', '441']",441,"UTT_BOUNDARY from the numbers 749 and 441, write the smaller number:UTT_BOUNDARY 441 or 430", 441 or 430
+"From the numbers 853 and 251, write the smaller number: ","['853', '251']",251,"UTT_BOUNDARY from the numbers 853 and 251, write the smaller number:UTT_BOUNDARY 252-163", 252-163
+"From the numbers 848 and 981, write the smaller number: ","['848', '981']",848,"UTT_BOUNDARY from the numbers 848 and 981, write the smaller number:UTT_BOUNDARY 8482 is the", 8482 is the
+"Q: Which number is smaller, 463 or 654? A:","['463', '654']",463,"UTT_BOUNDARY q: which number is smaller, 463 or 654? a:UTT_BOUNDARY 463 or 680", 463 or 680
+"Q: Of the numbers 994 and 624, which is smaller? A:","['994', '624']",624,"UTT_BOUNDARY q: of the numbers 994 and 624, which is smaller? a:UTT_BOUNDARY 624 and 623", 624 and 623
+"Q: Of the numbers 268 and 441, which is smaller? A:","['268', '441']",268,"UTT_BOUNDARY q: of the numbers 268 and 441, which is smaller? a:UTT_BOUNDARY 269-161", 269-161
+"Q: Of the numbers 670 and 982, which is smaller? A:","['670', '982']",670,"UTT_BOUNDARY q: of the numbers 670 and 982, which is smaller? a:UTT_BOUNDARY 6902 and 3", 6902 and 3
+"Q: Of the numbers 307 and 594, which is smaller? A:","['307', '594']",307,"UTT_BOUNDARY q: of the numbers 307 and 594, which is smaller? a:UTT_BOUNDARY 307 and 800,"," 307 and 800,"
+"From the numbers 946 and 228, write the smaller number: ","['946', '228']",228,"UTT_BOUNDARY from the numbers 946 and 228, write the smaller number:UTT_BOUNDARY 228 and 298", 228 and 298
+"From the numbers 114 and 775, write the smaller number: ","['114', '775']",114,"UTT_BOUNDARY from the numbers 114 and 775, write the smaller number:UTT_BOUNDARY 114 and 410", 114 and 410
+"Q: Of the numbers 888 and 15, which is smaller? A:","['888', '15']",15,"UTT_BOUNDARY q: of the numbers 888 and 15, which is smaller? a:UTT_BOUNDARY 1588 and 14", 1588 and 14
+"From the numbers 651 and 142, write the smaller number: ","['651', '142']",142,"UTT_BOUNDARY from the numbers 651 and 142, write the smaller number:UTT_BOUNDARY 142. the number", 142. the number
+"Q: Of the numbers 675 and 246, which is smaller? A:","['675', '246']",246,"UTT_BOUNDARY q: of the numbers 675 and 246, which is smaller? a:UTT_BOUNDARY 246-161", 246-161
+"From the numbers 734 and 428, write the smaller number: ","['734', '428']",428,"UTT_BOUNDARY from the numbers 734 and 428, write the smaller number:UTT_BOUNDARY 436 and 739", 436 and 739
+"Q: Which number is smaller, 604 or 446? A:","['604', '446']",446,"UTT_BOUNDARY q: which number is smaller, 604 or 446? a:UTT_BOUNDARY 444 or 642", 444 or 642
+"Q: Of the numbers 835 and 52, which is smaller? A:","['835', '52']",52,"UTT_BOUNDARY q: of the numbers 835 and 52, which is smaller? a:UTT_BOUNDARY 52ator is smaller?", 52ator is smaller?
+"From the numbers 274 and 565, write the smaller number: ","['274', '565']",274,"UTT_BOUNDARY from the numbers 274 and 565, write the smaller number:UTT_BOUNDARY 274 or 273", 274 or 273
+"Q: Which number is smaller, 143 or 248? A:","['143', '248']",143,"UTT_BOUNDARY q: which number is smaller, 143 or 248? a:UTT_BOUNDARY 143 or 266", 143 or 266
+"Q: Of the numbers 893 and 793, which is smaller? A:","['893', '793']",793,"UTT_BOUNDARY q: of the numbers 893 and 793, which is smaller? a:UTT_BOUNDARY 793 and 267", 793 and 267
+"From the numbers 952 and 257, write the smaller number: ","['952', '257']",257,"UTT_BOUNDARY from the numbers 952 and 257, write the smaller number:UTT_BOUNDARY 252 and 750", 252 and 750
+"Q: Which number is smaller, 63 or 378? A:","['63', '378']",63,"UTT_BOUNDARY q: which number is smaller, 63 or 378? a:UTT_BOUNDARY 632 or 267", 632 or 267
+"Q: Of the numbers 143 and 248, which is smaller? A:","['143', '248']",143,"UTT_BOUNDARY q: of the numbers 143 and 248, which is smaller? a:UTT_BOUNDARY 143 and 410", 143 and 410
+"Q: Which number is smaller, 496 or 558? A:","['496', '558']",496,"UTT_BOUNDARY q: which number is smaller, 496 or 558? a:UTT_BOUNDARY 766 and i will", 766 and i will
+"Q: Of the numbers 829 and 138, which is smaller? A:","['829', '138']",138,"UTT_BOUNDARY q: of the numbers 829 and 138, which is smaller? a:UTT_BOUNDARY 1388-18", 1388-18
+"From the numbers 986 and 464, write the smaller number: ","['986', '464']",464,"UTT_BOUNDARY from the numbers 986 and 464, write the smaller number:UTT_BOUNDARY 466 and 374", 466 and 374
+"Q: Which number is smaller, 198 or 894? A:","['198', '894']",198,"UTT_BOUNDARY q: which number is smaller, 198 or 894? a:UTT_BOUNDARY 198 or 266,"," 198 or 266,"
+"From the numbers 355 and 817, write the smaller number: ","['355', '817']",355,"UTT_BOUNDARY from the numbers 355 and 817, write the smaller number:UTT_BOUNDARY 355. it is", 355. it is
+"From the numbers 912 and 28, write the smaller number: ","['912', '28']",28,"UTT_BOUNDARY from the numbers 912 and 28, write the smaller number:UTT_BOUNDARY 284 - 7419", 284 - 7419
+"Q: Which number is smaller, 389 or 611? A:","['389', '611']",389,"UTT_BOUNDARY q: which number is smaller, 389 or 611? a:UTT_BOUNDARY 389 or 639", 389 or 639
+"From the numbers 571 and 31, write the smaller number: ","['571', '31']",31,"UTT_BOUNDARY from the numbers 571 and 31, write the smaller number:UTT_BOUNDARY 31, the smaller number"," 31, the smaller number"
+"Q: Which number is smaller, 546 or 350? A:","['546', '350']",350,"UTT_BOUNDARY q: which number is smaller, 546 or 350? a:UTT_BOUNDARY 380? a:", 380? a:
+"From the numbers 703 and 290, write the smaller number: ","['703', '290']",290,"UTT_BOUNDARY from the numbers 703 and 290, write the smaller number:UTT_BOUNDARY 290 and 847", 290 and 847
+"Q: Of the numbers 260 and 553, which is smaller? A:","['260', '553']",260,"UTT_BOUNDARY q: of the numbers 260 and 553, which is smaller? a:UTT_BOUNDARY 260 and 374", 260 and 374
+"From the numbers 411 and 389, write the smaller number: ","['411', '389']",389,"UTT_BOUNDARY from the numbers 411 and 389, write the smaller number:UTT_BOUNDARY 389 and 739", 389 and 739
+"From the numbers 891 and 359, write the smaller number: ","['891', '359']",359,"UTT_BOUNDARY from the numbers 891 and 359, write the smaller number:UTT_BOUNDARY 3593 or 26", 3593 or 26
+"Q: Of the numbers 96 and 402, which is smaller? A:","['96', '402']",96,"UTT_BOUNDARY q: of the numbers 96 and 402, which is smaller? a:UTT_BOUNDARY 402-902", 402-902
+"Q: Which number is smaller, 867 or 756? A:","['867', '756']",756,"UTT_BOUNDARY q: which number is smaller, 867 or 756? a:UTT_BOUNDARY 756 or 266", 756 or 266
+"Q: Which number is smaller, 464 or 941? A:","['464', '941']",464,"UTT_BOUNDARY q: which number is smaller, 464 or 941? a:UTT_BOUNDARY 464-167", 464-167
+"Q: Which number is smaller, 607 or 773? A:","['607', '773']",607,"UTT_BOUNDARY q: which number is smaller, 607 or 773? a:UTT_BOUNDARY 605 or 642", 605 or 642
+"Q: Of the numbers 161 and 759, which is smaller? A:","['161', '759']",161,"UTT_BOUNDARY q: of the numbers 161 and 759, which is smaller? a:UTT_BOUNDARY 161 or 131", 161 or 131
+"Q: Of the numbers 595 and 495, which is smaller? A:","['595', '495']",495,"UTT_BOUNDARY q: of the numbers 595 and 495, which is smaller? a:UTT_BOUNDARY 495 and 535", 495 and 535
+"Q: Of the numbers 741 and 816, which is smaller? A:","['741', '816']",741,"UTT_BOUNDARY q: of the numbers 741 and 816, which is smaller? a:UTT_BOUNDARY 741 620 and", 741 620 and
+"From the numbers 179 and 643, write the smaller number: ","['179', '643']",179,"UTT_BOUNDARY from the numbers 179 and 643, write the smaller number:UTT_BOUNDARY 1791, which is"," 1791, which is"
+"Q: Which number is smaller, 845 or 981? A:","['845', '981']",845,"UTT_BOUNDARY q: which number is smaller, 845 or 981? a:UTT_BOUNDARY 821 or 627", 821 or 627
+"Q: Which number is smaller, 678 or 278? A:","['678', '278']",278,"UTT_BOUNDARY q: which number is smaller, 678 or 278? a:UTT_BOUNDARY 278 or 427", 278 or 427
+"Q: Of the numbers 137 and 538, which is smaller? A:","['137', '538']",137,"UTT_BOUNDARY q: of the numbers 137 and 538, which is smaller? a:UTT_BOUNDARY 137 and 535", 137 and 535
+"Q: Of the numbers 92 and 617, which is smaller? A:","['92', '617']",92,"UTT_BOUNDARY q: of the numbers 92 and 617, which is smaller? a:UTT_BOUNDARY 632 or 675", 632 or 675
+"Q: Which number is smaller, 158 or 292? A:","['158', '292']",158,"UTT_BOUNDARY q: which number is smaller, 158 or 292? a:UTT_BOUNDARY 158 and 168", 158 and 168
+"Q: Of the numbers 864 and 530, which is smaller? A:","['864', '530']",530,"UTT_BOUNDARY q: of the numbers 864 and 530, which is smaller? a:UTT_BOUNDARY 523 and 576", 523 and 576
+"Q: Of the numbers 982 and 26, which is smaller? A:","['982', '26']",26,"UTT_BOUNDARY q: of the numbers 982 and 26, which is smaller? a:UTT_BOUNDARY 263i, 3"," 263i, 3"
+"Q: Of the numbers 153 and 406, which is smaller? A:","['153', '406']",153,"UTT_BOUNDARY q: of the numbers 153 and 406, which is smaller? a:UTT_BOUNDARY 156 and 602", 156 and 602
+"Q: Which number is smaller, 212 or 858? A:","['212', '858']",212,"UTT_BOUNDARY q: which number is smaller, 212 or 858? a:UTT_BOUNDARY 214-161", 214-161
+"Q: Of the numbers 455 and 45, which is smaller? A:","['455', '45']",45,"UTT_BOUNDARY q: of the numbers 455 and 45, which is smaller? a:UTT_BOUNDARY 455, and 5"," 455, and 5"
+"Q: Which number is smaller, 773 or 142? A:","['773', '142']",142,"UTT_BOUNDARY q: which number is smaller, 773 or 142? a:UTT_BOUNDARY 142:UTT_BOUNDARY", 142:
+"From the numbers 942 and 736, write the smaller number: ","['942', '736']",736,"UTT_BOUNDARY from the numbers 942 and 736, write the smaller number:UTT_BOUNDARY 7194 and 7", 7194 and 7
+"Q: Which number is smaller, 480 or 93? A:","['480', '93']",93,"UTT_BOUNDARY q: which number is smaller, 480 or 93? a:UTT_BOUNDARY 436? a:", 436? a:
+"Q: Which number is smaller, 795 or 75? A:","['795', '75']",75,"UTT_BOUNDARY q: which number is smaller, 795 or 75? a:UTT_BOUNDARY 797 or 190,"," 797 or 190,"
+"Q: Which number is smaller, 196 or 694? A:","['196', '694']",196,"UTT_BOUNDARY q: which number is smaller, 196 or 694? a:UTT_BOUNDARY 3441907", 3441907
+"From the numbers 953 and 229, write the smaller number: ","['953', '229']",229,"UTT_BOUNDARY from the numbers 953 and 229, write the smaller number:UTT_BOUNDARY 229 or 226", 229 or 226
+"Q: Of the numbers 676 and 514, which is smaller? A:","['676', '514']",514,"UTT_BOUNDARY q: of the numbers 676 and 514, which is smaller? a:UTT_BOUNDARY 535 and 576", 535 and 576
+"Q: Which number is smaller, 355 or 723? A:","['355', '723']",355,"UTT_BOUNDARY q: which number is smaller, 355 or 723? a:UTT_BOUNDARY 3564 or 6", 3564 or 6
+"Q: Which number is smaller, 188 or 872? A:","['188', '872']",188,"UTT_BOUNDARY q: which number is smaller, 188 or 872? a:UTT_BOUNDARY 1886, which is"," 1886, which is"
+"Q: Of the numbers 645 and 521, which is smaller? A:","['645', '521']",521,"UTT_BOUNDARY q: of the numbers 645 and 521, which is smaller? a:UTT_BOUNDARY 5144-8", 5144-8
+"From the numbers 707 and 884, write the smaller number: ","['707', '884']",707,"UTT_BOUNDARY from the numbers 707 and 884, write the smaller number:UTT_BOUNDARY 707 and 494", 707 and 494
+"Q: Of the numbers 473 and 152, which is smaller? A:","['473', '152']",152,"UTT_BOUNDARY q: of the numbers 473 and 152, which is smaller? a:UTT_BOUNDARY 152. it is", 152. it is
+"Q: Of the numbers 766 and 847, which is smaller? A:","['766', '847']",766,"UTT_BOUNDARY q: of the numbers 766 and 847, which is smaller? a:UTT_BOUNDARY 7372 and 3", 7372 and 3
+"Q: Of the numbers 702 and 80, which is smaller? A:","['702', '80']",80,"UTT_BOUNDARY q: of the numbers 702 and 80, which is smaller? a:UTT_BOUNDARY 802 or 262", 802 or 262
+"From the numbers 25 and 343, write the smaller number: ","['25', '343']",25,"UTT_BOUNDARY from the numbers 25 and 343, write the smaller number:UTT_BOUNDARY 254-167", 254-167
+"Q: Of the numbers 994 and 361, which is smaller? A:","['994', '361']",361,"UTT_BOUNDARY q: of the numbers 994 and 361, which is smaller? a:UTT_BOUNDARY 361-09", 361-09
+"Q: Which number is smaller, 343 or 351? A:","['343', '351']",343,"UTT_BOUNDARY q: which number is smaller, 343 or 351? a:UTT_BOUNDARY 344 or 269", 344 or 269
+"Q: Which number is smaller, 852 or 58? A:","['852', '58']",58,"UTT_BOUNDARY q: which number is smaller, 852 or 58? a:UTT_BOUNDARY 582 or 267", 582 or 267
+"Q: Which number is smaller, 723 or 488? A:","['723', '488']",488,"UTT_BOUNDARY q: which number is smaller, 723 or 488? a:UTT_BOUNDARY 488 and 163", 488 and 163
+"From the numbers 809 and 605, write the smaller number: ","['809', '605']",605,"UTT_BOUNDARY from the numbers 809 and 605, write the smaller number:UTT_BOUNDARY 605 and 606", 605 and 606
+"Q: Which number is smaller, 320 or 52? A:","['320', '52']",52,"UTT_BOUNDARY q: which number is smaller, 320 or 52? a:UTT_BOUNDARY 52nd and 846", 52nd and 846
+"From the numbers 374 and 390, write the smaller number: ","['374', '390']",374,"UTT_BOUNDARY from the numbers 374 and 390, write the smaller number:UTT_BOUNDARY 374 and 939", 374 and 939
+"Q: Of the numbers 839 and 879, which is smaller? A:","['839', '879']",839,"UTT_BOUNDARY q: of the numbers 839 and 879, which is smaller? a:UTT_BOUNDARY 839 or 427", 839 or 427
+"From the numbers 283 and 160, write the smaller number: ","['283', '160']",160,"UTT_BOUNDARY from the numbers 283 and 160, write the smaller number:UTT_BOUNDARY 1604i,"," 1604i,"
+"From the numbers 158 and 816, write the smaller number: ","['158', '816']",158,"UTT_BOUNDARY from the numbers 158 and 816, write the smaller number:UTT_BOUNDARY 1588, which"," 1588, which"
+"Q: Of the numbers 589 and 247, which is smaller? A:","['589', '247']",247,"UTT_BOUNDARY q: of the numbers 589 and 247, which is smaller? a:UTT_BOUNDARY 247 and 416", 247 and 416
+"Q: Which number is smaller, 803 or 137? A:","['803', '137']",137,"UTT_BOUNDARY q: which number is smaller, 803 or 137? a:UTT_BOUNDARY 137 and 518", 137 and 518
+"From the numbers 187 and 945, write the smaller number: ","['187', '945']",187,"UTT_BOUNDARY from the numbers 187 and 945, write the smaller number:UTT_BOUNDARY 187 and 128,"," 187 and 128,"
+"Q: Which number is smaller, 192 or 827? A:","['192', '827']",192,"UTT_BOUNDARY q: which number is smaller, 192 or 827? a:UTT_BOUNDARY 7194 or 4", 7194 or 4
+"From the numbers 619 and 150, write the smaller number: ","['619', '150']",150,"UTT_BOUNDARY from the numbers 619 and 150, write the smaller number:UTT_BOUNDARY 300 and 800, which"," 300 and 800, which"
+"Q: Of the numbers 197 and 95, which is smaller? A:","['197', '95']",95,"UTT_BOUNDARY q: of the numbers 197 and 95, which is smaller? a:UTT_BOUNDARY 1974 and 529", 1974 and 529
+"Q: Which number is smaller, 360 or 601? A:","['360', '601']",360,"UTT_BOUNDARY q: which number is smaller, 360 or 601? a:UTT_BOUNDARY 3602 is a", 3602 is a
+"Q: Of the numbers 162 and 737, which is smaller? A:","['162', '737']",162,"UTT_BOUNDARY q: of the numbers 162 and 737, which is smaller? a:UTT_BOUNDARY 162 or 750", 162 or 750
+"Q: Which number is smaller, 949 or 578? A:","['949', '578']",578,"UTT_BOUNDARY q: which number is smaller, 949 or 578? a:UTT_BOUNDARY 578 and 168", 578 and 168
+"Q: Which number is smaller, 899 or 100? A:","['899', '100']",100,"UTT_BOUNDARY q: which number is smaller, 899 or 100? a:UTT_BOUNDARY 100? a:UTT_BOUNDARY", 100? a:
+"Q: Of the numbers 704 and 893, which is smaller? A:","['704', '893']",704,"UTT_BOUNDARY q: of the numbers 704 and 893, which is smaller? a:UTT_BOUNDARY 704 and 946", 704 and 946
+"Q: Of the numbers 124 and 977, which is smaller? A:","['124', '977']",124,"UTT_BOUNDARY q: of the numbers 124 and 977, which is smaller? a:UTT_BOUNDARY 124 and 410", 124 and 410
+"Q: Which number is smaller, 928 or 160? A:","['928', '160']",160,"UTT_BOUNDARY q: which number is smaller, 928 or 160? a:UTT_BOUNDARY 1606 or 5", 1606 or 5
+"Q: Of the numbers 58 and 451, which is smaller? A:","['58', '451']",58,"UTT_BOUNDARY q: of the numbers 58 and 451, which is smaller? a:UTT_BOUNDARY 58119 or 4", 58119 or 4
+"Q: Which number is smaller, 532 or 756? A:","['532', '756']",532,"UTT_BOUNDARY q: which number is smaller, 532 or 756? a:UTT_BOUNDARY 555-century", 555-century
+"Q: Which number is smaller, 127 or 76? A:","['127', '76']",76,"UTT_BOUNDARY q: which number is smaller, 127 or 76? a:UTT_BOUNDARY 128 and a 5", 128 and a 5
+"From the numbers 663 and 15, write the smaller number: ","['663', '15']",15,"UTT_BOUNDARY from the numbers 663 and 15, write the smaller number:UTT_BOUNDARY 152, which is"," 152, which is"
+"Q: Of the numbers 876 and 35, which is smaller? A:","['876', '35']",35,"UTT_BOUNDARY q: of the numbers 876 and 35, which is smaller? a:UTT_BOUNDARY 353i, 4"," 353i, 4"
+"Q: Of the numbers 654 and 144, which is smaller? A:","['654', '144']",144,"UTT_BOUNDARY q: of the numbers 654 and 144, which is smaller? a:UTT_BOUNDARY 144 | 813", 144 | 813
+"Q: Which number is smaller, 157 or 694? A:","['157', '694']",157,"UTT_BOUNDARY q: which number is smaller, 157 or 694? a:UTT_BOUNDARY 158 et seq", 158 et seq
+"Q: Which number is smaller, 300 or 197? A:","['300', '197']",197,"UTT_BOUNDARY q: which number is smaller, 300 or 197? a:UTT_BOUNDARY 300? a:UTT_BOUNDARY", 300? a:
+"Q: Which number is smaller, 456 or 811? A:","['456', '811']",456,"UTT_BOUNDARY q: which number is smaller, 456 or 811? a:UTT_BOUNDARY 456 and 166", 456 and 166
+"Q: Which number is smaller, 209 or 619? A:","['209', '619']",209,"UTT_BOUNDARY q: which number is smaller, 209 or 619? a:UTT_BOUNDARY 209 or 621", 209 or 621
+"Q: Which number is smaller, 433 or 56? A:","['433', '56']",56,"UTT_BOUNDARY q: which number is smaller, 433 or 56? a:UTT_BOUNDARY 564 or 427", 564 or 427
+"Q: Which number is smaller, 250 or 167? A:","['250', '167']",167,"UTT_BOUNDARY q: which number is smaller, 250 or 167? a:UTT_BOUNDARY 1606 or 5", 1606 or 5
+"From the numbers 893 and 793, write the smaller number: ","['893', '793']",793,"UTT_BOUNDARY from the numbers 893 and 793, write the smaller number:UTT_BOUNDARY 793i, 5"," 793i, 5"
+"Q: Which number is smaller, 265 or 65? A:","['265', '65']",65,"UTT_BOUNDARY q: which number is smaller, 265 or 65? a:UTT_BOUNDARY 264? a:", 264? a:
+"From the numbers 712 and 234, write the smaller number: ","['712', '234']",234,"UTT_BOUNDARY from the numbers 712 and 234, write the smaller number:UTT_BOUNDARY 231192,"," 231192,"
+"Q: Of the numbers 538 and 732, which is smaller? A:","['538', '732']",538,"UTT_BOUNDARY q: of the numbers 538 and 732, which is smaller? a:UTT_BOUNDARY 5232, which"," 5232, which"
+"Q: Of the numbers 636 and 826, which is smaller? A:","['636', '826']",636,"UTT_BOUNDARY q: of the numbers 636 and 826, which is smaller? a:UTT_BOUNDARY 6148 and 6", 6148 and 6
+"Q: Of the numbers 461 and 41, which is smaller? A:","['461', '41']",41,"UTT_BOUNDARY q: of the numbers 461 and 41, which is smaller? a:UTT_BOUNDARY 41 and 328", 41 and 328
+"Q: Of the numbers 804 and 101, which is smaller? A:","['804', '101']",101,"UTT_BOUNDARY q: of the numbers 804 and 101, which is smaller? a:UTT_BOUNDARY 1014 and 935", 1014 and 935
+"Q: Of the numbers 66 and 547, which is smaller? A:","['66', '547']",66,"UTT_BOUNDARY q: of the numbers 66 and 547, which is smaller? a:UTT_BOUNDARY 667 and 493", 667 and 493
+"From the numbers 634 and 336, write the smaller number: ","['634', '336']",336,"UTT_BOUNDARY from the numbers 634 and 336, write the smaller number:UTT_BOUNDARY 336 and 267", 336 and 267
+"Q: Which number is smaller, 102 or 980? A:","['102', '980']",102,"UTT_BOUNDARY q: which number is smaller, 102 or 980? a:UTT_BOUNDARY 102:UTT_BOUNDARY", 102:
+"Q: Which number is smaller, 951 or 505? A:","['951', '505']",505,"UTT_BOUNDARY q: which number is smaller, 951 or 505? a:UTT_BOUNDARY 505 or 538", 505 or 538
+"Q: Of the numbers 45 and 166, which is smaller? A:","['45', '166']",45,"UTT_BOUNDARY q: of the numbers 45 and 166, which is smaller? a:UTT_BOUNDARY 4597 and 16", 4597 and 16
+"From the numbers 737 and 788, write the smaller number: ","['737', '788']",737,"UTT_BOUNDARY from the numbers 737 and 788, write the smaller number:UTT_BOUNDARY 737 and the 7", 737 and the 7
+"Q: Of the numbers 940 and 508, which is smaller? A:","['940', '508']",508,"UTT_BOUNDARY q: of the numbers 940 and 508, which is smaller? a:UTT_BOUNDARY 505 and 538", 505 and 538
+"From the numbers 374 and 859, write the smaller number: ","['374', '859']",374,"UTT_BOUNDARY from the numbers 374 and 859, write the smaller number:UTT_BOUNDARY 374 or 438", 374 or 438
+"Q: Which number is smaller, 891 or 359? A:","['891', '359']",359,"UTT_BOUNDARY q: which number is smaller, 891 or 359? a:UTT_BOUNDARY 351 or 900", 351 or 900
+"From the numbers 40 and 318, write the smaller number: ","['40', '318']",40,"UTT_BOUNDARY from the numbers 40 and 318, write the smaller number:UTT_BOUNDARY 404 - 404", 404 - 404
+"From the numbers 480 and 93, write the smaller number: ","['480', '93']",93,"UTT_BOUNDARY from the numbers 480 and 93, write the smaller number:UTT_BOUNDARY 436, which is"," 436, which is"
+"Q: Which number is smaller, 957 or 676? A:","['957', '676']",676,"UTT_BOUNDARY q: which number is smaller, 957 or 676? a:UTT_BOUNDARY 6287 and 6", 6287 and 6
+"From the numbers 274 and 288, write the smaller number: ","['274', '288']",274,"UTT_BOUNDARY from the numbers 274 and 288, write the smaller number:UTT_BOUNDARY 274 and 926", 274 and 926
+"From the numbers 552 and 775, write the smaller number: ","['552', '775']",552,"UTT_BOUNDARY from the numbers 552 and 775, write the smaller number:UTT_BOUNDARY 55400 and 6", 55400 and 6
+"Q: Of the numbers 919 and 437, which is smaller? A:","['919', '437']",437,"UTT_BOUNDARY q: of the numbers 919 and 437, which is smaller? a:UTT_BOUNDARY 437 and 439", 437 and 439
+"From the numbers 886 and 554, write the smaller number: ","['886', '554']",554,"UTT_BOUNDARY from the numbers 886 and 554, write the smaller number:UTT_BOUNDARY 55400 and 49", 55400 and 49
+"Q: Of the numbers 650 and 442, which is smaller? A:","['650', '442']",442,"UTT_BOUNDARY q: of the numbers 650 and 442, which is smaller? a:UTT_BOUNDARY 442} and the", 442} and the
+"Q: Of the numbers 830 and 719, which is smaller? A:","['830', '719']",719,"UTT_BOUNDARY q: of the numbers 830 and 719, which is smaller? a:UTT_BOUNDARY 719][41", 719][41
+"Q: Which number is smaller, 942 or 230? A:","['942', '230']",230,"UTT_BOUNDARY q: which number is smaller, 942 or 230? a:UTT_BOUNDARY 23077 and", 23077 and
+"Q: Of the numbers 526 and 694, which is smaller? A:","['526', '694']",526,"UTT_BOUNDARY q: of the numbers 526 and 694, which is smaller? a:UTT_BOUNDARY 535 and 529", 535 and 529
+"Q: Which number is smaller, 115 or 98? A:","['115', '98']",98,"UTT_BOUNDARY q: which number is smaller, 115 or 98? a:UTT_BOUNDARY 114? a:", 114? a:
+"Q: Which number is smaller, 27 or 885? A:","['27', '885']",27,"UTT_BOUNDARY q: which number is smaller, 27 or 885? a:UTT_BOUNDARY 274 or 191", 274 or 191
+"Q: Which number is smaller, 90 or 166? A:","['90', '166']",90,"UTT_BOUNDARY q: which number is smaller, 90 or 166? a:UTT_BOUNDARY 166 or 137", 166 or 137
+"Q: Of the numbers 772 and 549, which is smaller? A:","['772', '549']",549,"UTT_BOUNDARY q: of the numbers 772 and 549, which is smaller? a:UTT_BOUNDARY 5232? a", 5232? a
+"Q: Which number is smaller, 647 or 178? A:","['647', '178']",178,"UTT_BOUNDARY q: which number is smaller, 647 or 178? a:UTT_BOUNDARY 178 and 1791 separate", 178 and 1791 separate
+"Q: Which number is smaller, 293 or 906? A:","['293', '906']",293,"UTT_BOUNDARY q: which number is smaller, 293 or 906? a:UTT_BOUNDARY 293 or 266", 293 or 266
+"Q: Which number is smaller, 452 or 974? A:","['452', '974']",452,"UTT_BOUNDARY q: which number is smaller, 452 or 974? a:UTT_BOUNDARY 452? a:", 452? a:
+"Q: Of the numbers 116 and 920, which is smaller? A:","['116', '920']",116,"UTT_BOUNDARY q: of the numbers 116 and 920, which is smaller? a:UTT_BOUNDARY 116 and 236", 116 and 236
+"Q: Of the numbers 228 and 100, which is smaller? A:","['228', '100']",100,"UTT_BOUNDARY q: of the numbers 228 and 100, which is smaller? a:UTT_BOUNDARY 229 and 920", 229 and 920
+"Q: Which number is smaller, 462 or 438? A:","['462', '438']",438,"UTT_BOUNDARY q: which number is smaller, 462 or 438? a:UTT_BOUNDARY 41 or 380", 41 or 380
+"Q: Which number is smaller, 49 or 871? A:","['49', '871']",49,"UTT_BOUNDARY q: which number is smaller, 49 or 871? a:UTT_BOUNDARY 494 or 451", 494 or 451
+"Q: Which number is smaller, 149 or 114? A:","['149', '114']",114,"UTT_BOUNDARY q: which number is smaller, 149 or 114? a:UTT_BOUNDARY 114/260", 114/260
+"From the numbers 386 and 221, write the smaller number: ","['386', '221']",221,"UTT_BOUNDARY from the numbers 386 and 221, write the smaller number:UTT_BOUNDARY 221 or 646", 221 or 646
+"Q: Which number is smaller, 251 or 178? A:","['251', '178']",178,"UTT_BOUNDARY q: which number is smaller, 251 or 178? a:UTT_BOUNDARY 1786 first or third", 1786 first or third
+"From the numbers 503 and 343, write the smaller number: ","['503', '343']",343,"UTT_BOUNDARY from the numbers 503 and 343, write the smaller number:UTT_BOUNDARY 344} the second", 344} the second
+"From the numbers 385 and 292, write the smaller number: ","['385', '292']",292,"UTT_BOUNDARY from the numbers 385 and 292, write the smaller number:UTT_BOUNDARY 292? a:", 292? a:
+"Q: Which number is smaller, 118 or 596? A:","['118', '596']",118,"UTT_BOUNDARY q: which number is smaller, 118 or 596? a:UTT_BOUNDARY 116 or 410", 116 or 410
+"From the numbers 167 and 325, write the smaller number: ","['167', '325']",167,"UTT_BOUNDARY from the numbers 167 and 325, write the smaller number:UTT_BOUNDARY 1677, 16"," 1677, 16"
+"From the numbers 63 and 378, write the smaller number: ","['63', '378']",63,"UTT_BOUNDARY from the numbers 63 and 378, write the smaller number:UTT_BOUNDARY 634 and 267", 634 and 267
+"From the numbers 403 and 386, write the smaller number: ","['403', '386']",386,"UTT_BOUNDARY from the numbers 403 and 386, write the smaller number:UTT_BOUNDARY 383 or 266", 383 or 266
+"From the numbers 389 and 983, write the smaller number: ","['389', '983']",389,"UTT_BOUNDARY from the numbers 389 and 983, write the smaller number:UTT_BOUNDARY 389 or 226", 389 or 226
+"Q: Of the numbers 506 and 855, which is smaller? A:","['506', '855']",506,"UTT_BOUNDARY q: of the numbers 506 and 855, which is smaller? a:UTT_BOUNDARY 506 and 506", 506 and 506
+"Q: Of the numbers 687 and 499, which is smaller? A:","['687', '499']",499,"UTT_BOUNDARY q: of the numbers 687 and 499, which is smaller? a:UTT_BOUNDARY 4142 and 3", 4142 and 3
+"From the numbers 96 and 354, write the smaller number: ","['96', '354']",96,"UTT_BOUNDARY from the numbers 96 and 354, write the smaller number:UTT_BOUNDARY 353 or 263", 353 or 263
+"Q: Which number is smaller, 27 or 404? A:","['27', '404']",27,"UTT_BOUNDARY q: which number is smaller, 27 or 404? a:UTT_BOUNDARY 274. a:", 274. a:
+"Q: Of the numbers 947 and 997, which is smaller? A:","['947', '997']",947,"UTT_BOUNDARY q: of the numbers 947 and 997, which is smaller? a:UTT_BOUNDARY 767-187", 767-187
+"From the numbers 690 and 461, write the smaller number: ","['690', '461']",461,"UTT_BOUNDARY from the numbers 690 and 461, write the smaller number:UTT_BOUNDARY 461 or 627", 461 or 627
+"From the numbers 450 and 986, write the smaller number: ","['450', '986']",450,"UTT_BOUNDARY from the numbers 450 and 986, write the smaller number:UTT_BOUNDARY 437 and 439", 437 and 439
+"From the numbers 64 and 905, write the smaller number: ","['64', '905']",64,"UTT_BOUNDARY from the numbers 64 and 905, write the smaller number:UTT_BOUNDARY 565 games. the", 565 games. the
+"From the numbers 769 and 639, write the smaller number: ","['769', '639']",639,"UTT_BOUNDARY from the numbers 769 and 639, write the smaller number:UTT_BOUNDARY 639;s =", 639;s =
+"From the numbers 749 and 43, write the smaller number: ","['749', '43']",43,"UTT_BOUNDARY from the numbers 749 and 43, write the smaller number:UTT_BOUNDARY 434 and 966", 434 and 966
+"Q: Which number is smaller, 526 or 694? A:","['526', '694']",526,"UTT_BOUNDARY q: which number is smaller, 526 or 694? a:UTT_BOUNDARY 128? a:", 128? a:
+"From the numbers 102 and 980, write the smaller number: ","['102', '980']",102,"UTT_BOUNDARY from the numbers 102 and 980, write the smaller number:UTT_BOUNDARY 102:UTT_BOUNDARY", 102:
+"Q: Which number is smaller, 383 or 226? A:","['383', '226']",226,"UTT_BOUNDARY q: which number is smaller, 383 or 226? a:UTT_BOUNDARY 229 or 221", 229 or 221
+"Q: Of the numbers 591 and 642, which is smaller? A:","['591', '642']",591,"UTT_BOUNDARY q: of the numbers 591 and 642, which is smaller? a:UTT_BOUNDARY 592 or 642", 592 or 642
+"From the numbers 948 and 547, write the smaller number: ","['948', '547']",547,"UTT_BOUNDARY from the numbers 948 and 547, write the smaller number:UTT_BOUNDARY 5482-22", 5482-22
+"From the numbers 77 and 935, write the smaller number: ","['77', '935']",77,"UTT_BOUNDARY from the numbers 77 and 935, write the smaller number:UTT_BOUNDARY 773i, 3"," 773i, 3"
+"Q: Of the numbers 458 and 148, which is smaller? A:","['458', '148']",148,"UTT_BOUNDARY q: of the numbers 458 and 148, which is smaller? a:UTT_BOUNDARY 1488 street,"," 1488 street,"
+"Q: Which number is smaller, 219 or 483? A:","['219', '483']",219,"UTT_BOUNDARY q: which number is smaller, 219 or 483? a:UTT_BOUNDARY 6141-1", 6141-1
+"Q: Which number is smaller, 781 or 153? A:","['781', '153']",153,"UTT_BOUNDARY q: which number is smaller, 781 or 153? a:UTT_BOUNDARY 152 or 152", 152 or 152
+"From the numbers 900 and 834, write the smaller number: ","['900', '834']",834,"UTT_BOUNDARY from the numbers 900 and 834, write the smaller number:UTT_BOUNDARY 712 is smaller?", 712 is smaller?
+"Q: Which number is smaller, 444 or 916? A:","['444', '916']",444,"UTT_BOUNDARY q: which number is smaller, 444 or 916? a:UTT_BOUNDARY 444 or the 26", 444 or the 26
+"From the numbers 926 and 292, write the smaller number: ","['926', '292']",292,"UTT_BOUNDARY from the numbers 926 and 292, write the smaller number:UTT_BOUNDARY 292, which is"," 292, which is"
+"Q: Of the numbers 320 and 111, which is smaller? A:","['320', '111']",111,"UTT_BOUNDARY q: of the numbers 320 and 111, which is smaller? a:UTT_BOUNDARY 111 and 380", 111 and 380
+"Q: Which number is smaller, 620 or 291? A:","['620', '291']",291,"UTT_BOUNDARY q: which number is smaller, 620 or 291? a:UTT_BOUNDARY 291 or 427", 291 or 427
+"Q: Which number is smaller, 74 or 439? A:","['74', '439']",74,"UTT_BOUNDARY q: which number is smaller, 74 or 439? a:UTT_BOUNDARY 439 and 539", 439 and 539
+"From the numbers 581 and 629, write the smaller number: ","['581', '629']",581,"UTT_BOUNDARY from the numbers 581 and 629, write the smaller number:UTT_BOUNDARY 5811941 and", 5811941 and
+"Q: Which number is smaller, 875 or 311? A:","['875', '311']",311,"UTT_BOUNDARY q: which number is smaller, 875 or 311? a:UTT_BOUNDARY 3282? a", 3282? a
+"Q: Of the numbers 304 and 878, which is smaller? A:","['304', '878']",304,"UTT_BOUNDARY q: of the numbers 304 and 878, which is smaller? a:UTT_BOUNDARY 309 and 416", 309 and 416
+"From the numbers 496 and 558, write the smaller number: ","['496', '558']",496,"UTT_BOUNDARY from the numbers 496 and 558, write the smaller number:UTT_BOUNDARY 486 and 494", 486 and 494
+"Q: Of the numbers 281 and 102, which is smaller? A:","['281', '102']",102,"UTT_BOUNDARY q: of the numbers 281 and 102, which is smaller? a:UTT_BOUNDARY 102:UTT_BOUNDARY", 102:
+"From the numbers 661 and 378, write the smaller number: ","['661', '378']",378,"UTT_BOUNDARY from the numbers 661 and 378, write the smaller number:UTT_BOUNDARY 378 and 374", 378 and 374
+"Q: Which number is smaller, 707 or 937? A:","['707', '937']",707,"UTT_BOUNDARY q: which number is smaller, 707 or 937? a:UTT_BOUNDARY 707 and 190,"," 707 and 190,"
+"From the numbers 852 and 713, write the smaller number: ","['852', '713']",713,"UTT_BOUNDARY from the numbers 852 and 713, write the smaller number:UTT_BOUNDARY 7372 and 3", 7372 and 3
+"Q: Which number is smaller, 152 or 917? A:","['152', '917']",152,"UTT_BOUNDARY q: which number is smaller, 152 or 917? a:UTT_BOUNDARY 152:UTT_BOUNDARY", 152:
+"Q: Which number is smaller, 530 or 921? A:","['530', '921']",530,"UTT_BOUNDARY q: which number is smaller, 530 or 921? a:UTT_BOUNDARY 542? a:", 542? a:
+"Q: Of the numbers 177 and 820, which is smaller? A:","['177', '820']",177,"UTT_BOUNDARY q: of the numbers 177 and 820, which is smaller? a:UTT_BOUNDARY 177 and 177", 177 and 177
+"Q: Which number is smaller, 622 or 583? A:","['622', '583']",583,"UTT_BOUNDARY q: which number is smaller, 622 or 583? a:UTT_BOUNDARY 581 or 627", 581 or 627
+"From the numbers 324 and 214, write the smaller number: ","['324', '214']",214,"UTT_BOUNDARY from the numbers 324 and 214, write the smaller number:UTT_BOUNDARY 214, which is"," 214, which is"
+"Q: Which number is smaller, 697 or 972? A:","['697', '972']",697,"UTT_BOUNDARY q: which number is smaller, 697 or 972? a:UTT_BOUNDARY 494 or 267", 494 or 267
+"Q: Which number is smaller, 532 or 147? A:","['532', '147']",147,"UTT_BOUNDARY q: which number is smaller, 532 or 147? a:UTT_BOUNDARY 147 and 512", 147 and 512
+"Q: Of the numbers 359 and 254, which is smaller? A:","['359', '254']",254,"UTT_BOUNDARY q: of the numbers 359 and 254, which is smaller? a:UTT_BOUNDARY 251 episode 820", 251 episode 820
+"Q: Of the numbers 805 and 935, which is smaller? A:","['805', '935']",805,"UTT_BOUNDARY q: of the numbers 805 and 935, which is smaller? a:UTT_BOUNDARY 805 tape, 98"," 805 tape, 98"
+"Q: Which number is smaller, 829 or 369? A:","['829', '369']",369,"UTT_BOUNDARY q: which number is smaller, 829 or 369? a:UTT_BOUNDARY 3697&lt", 3697&lt
+"Q: Which number is smaller, 883 or 493? A:","['883', '493']",493,"UTT_BOUNDARY q: which number is smaller, 883 or 493? a:UTT_BOUNDARY 493 or 266", 493 or 266
+"Q: Of the numbers 973 and 619, which is smaller? A:","['973', '619']",619,"UTT_BOUNDARY q: of the numbers 973 and 619, which is smaller? a:UTT_BOUNDARY 619-180", 619-180
+"Q: Which number is smaller, 946 or 228? A:","['946', '228']",228,"UTT_BOUNDARY q: which number is smaller, 946 or 228? a:UTT_BOUNDARY 228 and 291", 228 and 291
+"Q: Which number is smaller, 830 or 874? A:","['830', '874']",830,"UTT_BOUNDARY q: which number is smaller, 830 or 874? a:UTT_BOUNDARY 820, which is"," 820, which is"
+"Q: Of the numbers 887 and 897, which is smaller? A:","['887', '897']",887,"UTT_BOUNDARY q: of the numbers 887 and 897, which is smaller? a:UTT_BOUNDARY 757 and 756", 757 and 756
+"From the numbers 596 and 553, write the smaller number: ","['596', '553']",553,"UTT_BOUNDARY from the numbers 596 and 553, write the smaller number:UTT_BOUNDARY 594 and 666", 594 and 666
+"From the numbers 285 and 997, write the smaller number: ","['285', '997']",285,"UTT_BOUNDARY from the numbers 285 and 997, write the smaller number:UTT_BOUNDARY 2805 and 9", 2805 and 9
+"Q: Of the numbers 992 and 635, which is smaller? A:","['992', '635']",635,"UTT_BOUNDARY q: of the numbers 992 and 635, which is smaller? a:UTT_BOUNDARY 6303 and 6", 6303 and 6
+"From the numbers 314 and 367, write the smaller number: ","['314', '367']",314,"UTT_BOUNDARY from the numbers 314 and 367, write the smaller number:UTT_BOUNDARY 316._ from the", 316._ from the
+"From the numbers 276 and 702, write the smaller number: ","['276', '702']",276,"UTT_BOUNDARY from the numbers 276 and 702, write the smaller number:UTT_BOUNDARY 271 or 266", 271 or 266
+"Q: Of the numbers 746 and 673, which is smaller? A:","['746', '673']",673,"UTT_BOUNDARY q: of the numbers 746 and 673, which is smaller? a:UTT_BOUNDARY 6232 and 3", 6232 and 3
+"Q: Of the numbers 645 and 564, which is smaller? A:","['645', '564']",564,"UTT_BOUNDARY q: of the numbers 645 and 564, which is smaller? a:UTT_BOUNDARY 56400 and 4", 56400 and 4
+"From the numbers 880 and 33, write the smaller number: ","['880', '33']",33,"UTT_BOUNDARY from the numbers 880 and 33, write the smaller number:UTT_BOUNDARY 335, 986"," 335, 986"
+"Q: Which number is smaller, 738 or 34? A:","['738', '34']",34,"UTT_BOUNDARY q: which number is smaller, 738 or 34? a:UTT_BOUNDARY 344⁄", 344⁄
+"From the numbers 427 and 866, write the smaller number: ","['427', '866']",427,"UTT_BOUNDARY from the numbers 427 and 866, write the smaller number:UTT_BOUNDARY 414 and 439", 414 and 439
+"Q: Of the numbers 363 and 400, which is smaller? A:","['363', '400']",363,"UTT_BOUNDARY q: of the numbers 363 and 400, which is smaller? a:UTT_BOUNDARY 363} is the", 363} is the
+"From the numbers 215 and 986, write the smaller number: ","['215', '986']",215,"UTT_BOUNDARY from the numbers 215 and 986, write the smaller number:UTT_BOUNDARY 215 and 277", 215 and 277
+"Q: Of the numbers 88 and 475, which is smaller? A:","['88', '475']",88,"UTT_BOUNDARY q: of the numbers 88 and 475, which is smaller? a:UTT_BOUNDARY 4142 and 3", 4142 and 3
+"Q: Of the numbers 659 and 573, which is smaller? A:","['659', '573']",573,"UTT_BOUNDARY q: of the numbers 659 and 573, which is smaller? a:UTT_BOUNDARY 573 or 439", 573 or 439
+"From the numbers 458 and 536, write the smaller number: ","['458', '536']",458,"UTT_BOUNDARY from the numbers 458 and 536, write the smaller number:UTT_BOUNDARY 458, the first"," 458, the first"
+"Q: Of the numbers 760 and 515, which is smaller? A:","['760', '515']",515,"UTT_BOUNDARY q: of the numbers 760 and 515, which is smaller? a:UTT_BOUNDARY 542 or 542", 542 or 542
+"Q: Which number is smaller, 569 or 981? A:","['569', '981']",569,"UTT_BOUNDARY q: which number is smaller, 569 or 981? a:UTT_BOUNDARY 569 and 221", 569 and 221
+"From the numbers 494 and 977, write the smaller number: ","['494', '977']",494,"UTT_BOUNDARY from the numbers 494 and 977, write the smaller number:UTT_BOUNDARY 494 and 846", 494 and 846
+"Q: Which number is smaller, 763 or 794? A:","['763', '794']",763,"UTT_BOUNDARY q: which number is smaller, 763 or 794? a:UTT_BOUNDARY 763 or 646", 763 or 646
+"Q: Of the numbers 234 and 111, which is smaller? A:","['234', '111']",111,"UTT_BOUNDARY q: of the numbers 234 and 111, which is smaller? a:UTT_BOUNDARY 111 episode of the", 111 episode of the
+"Q: Which number is smaller, 260 or 553? A:","['260', '553']",260,"UTT_BOUNDARY q: which number is smaller, 260 or 553? a:UTT_BOUNDARY 260 or 260", 260 or 260
+"From the numbers 571 and 984, write the smaller number: ","['571', '984']",571,"UTT_BOUNDARY from the numbers 571 and 984, write the smaller number:UTT_BOUNDARY 571 or 627", 571 or 627
+"From the numbers 608 and 547, write the smaller number: ","['608', '547']",547,"UTT_BOUNDARY from the numbers 608 and 547, write the smaller number:UTT_BOUNDARY 555 and 642", 555 and 642
+"Q: Which number is smaller, 464 or 277? A:","['464', '277']",277,"UTT_BOUNDARY q: which number is smaller, 464 or 277? a:UTT_BOUNDARY 464-167", 464-167
+"Q: Of the numbers 946 and 228, which is smaller? A:","['946', '228']",228,"UTT_BOUNDARY q: of the numbers 946 and 228, which is smaller? a:UTT_BOUNDARY 228 and 820", 228 and 820
+"From the numbers 167 and 402, write the smaller number: ","['167', '402']",167,"UTT_BOUNDARY from the numbers 167 and 402, write the smaller number:UTT_BOUNDARY 161 or 162", 161 or 162
+"Q: Which number is smaller, 36 or 221? A:","['36', '221']",36,"UTT_BOUNDARY q: which number is smaller, 36 or 221? a:UTT_BOUNDARY 361 or 627", 361 or 627
+"Q: Of the numbers 921 and 128, which is smaller? A:","['921', '128']",128,"UTT_BOUNDARY q: of the numbers 921 and 128, which is smaller? a:UTT_BOUNDARY 1288 and 5", 1288 and 5
+"Q: Which number is smaller, 461 or 41? A:","['461', '41']",41,"UTT_BOUNDARY q: which number is smaller, 461 or 41? a:UTT_BOUNDARY 41 or 380", 41 or 380
+"From the numbers 262 and 336, write the smaller number: ","['262', '336']",262,"UTT_BOUNDARY from the numbers 262 and 336, write the smaller number:UTT_BOUNDARY 267 and 739", 267 and 739
+"Q: Which number is smaller, 455 or 45? A:","['455', '45']",45,"UTT_BOUNDARY q: which number is smaller, 455 or 45? a:UTT_BOUNDARY 455 or 190,"," 455 or 190,"
+"Q: Which number is smaller, 267 or 900? A:","['267', '900']",267,"UTT_BOUNDARY q: which number is smaller, 267 or 900? a:UTT_BOUNDARY 267 and 410", 267 and 410
+"Q: Which number is smaller, 405 or 569? A:","['405', '569']",405,"UTT_BOUNDARY q: which number is smaller, 405 or 569? a:UTT_BOUNDARY 405 or 229", 405 or 229
+"Q: Which number is smaller, 490 or 150? A:","['490', '150']",150,"UTT_BOUNDARY q: which number is smaller, 490 or 150? a:UTT_BOUNDARY 1505 or 190,"," 1505 or 190,"
+"From the numbers 692 and 547, write the smaller number: ","['692', '547']",547,"UTT_BOUNDARY from the numbers 692 and 547, write the smaller number:UTT_BOUNDARY 538-century", 538-century
+"From the numbers 645 and 521, write the smaller number: ","['645', '521']",521,"UTT_BOUNDARY from the numbers 645 and 521, write the smaller number:UTT_BOUNDARY 5144-16", 5144-16
+"From the numbers 315 and 701, write the smaller number: ","['315', '701']",315,"UTT_BOUNDARY from the numbers 315 and 701, write the smaller number:UTT_BOUNDARY 3162-?", 3162-?
+"Q: Which number is smaller, 614 or 134? A:","['614', '134']",134,"UTT_BOUNDARY q: which number is smaller, 614 or 134? a:UTT_BOUNDARY 13119-18", 13119-18
+"Q: Which number is smaller, 675 or 246? A:","['675', '246']",246,"UTT_BOUNDARY q: which number is smaller, 675 or 246? a:UTT_BOUNDARY 246 or 646", 246 or 646
+"Q: Of the numbers 144 and 620, which is smaller? A:","['144', '620']",144,"UTT_BOUNDARY q: of the numbers 144 and 620, which is smaller? a:UTT_BOUNDARY 14419 or 5", 14419 or 5
+"Q: Of the numbers 469 and 59, which is smaller? A:","['469', '59']",59,"UTT_BOUNDARY q: of the numbers 469 and 59, which is smaller? a:UTT_BOUNDARY 594} is smaller", 594} is smaller
+"Q: Which number is smaller, 573 or 381? A:","['573', '381']",381,"UTT_BOUNDARY q: which number is smaller, 573 or 381? a:UTT_BOUNDARY 382 or 628", 382 or 628
+"Q: Of the numbers 336 and 503, which is smaller? A:","['336', '503']",336,"UTT_BOUNDARY q: of the numbers 336 and 503, which is smaller? a:UTT_BOUNDARY 336 and 376", 336 and 376
+"From the numbers 675 and 246, write the smaller number: ","['675', '246']",246,"UTT_BOUNDARY from the numbers 675 and 246, write the smaller number:UTT_BOUNDARY 246 and 739", 246 and 739
+"Q: Which number is smaller, 444 or 901? A:","['444', '901']",444,"UTT_BOUNDARY q: which number is smaller, 444 or 901? a:UTT_BOUNDARY 444}. a", 444}. a
+"Q: Which number is smaller, 317 or 936? A:","['317', '936']",317,"UTT_BOUNDARY q: which number is smaller, 317 or 936? a:UTT_BOUNDARY 3282-h", 3282-h
+"From the numbers 763 and 794, write the smaller number: ","['763', '794']",763,"UTT_BOUNDARY from the numbers 763 and 794, write the smaller number:UTT_BOUNDARY 694-167", 694-167
+"Q: Of the numbers 904 and 161, which is smaller? A:","['904', '161']",161,"UTT_BOUNDARY q: of the numbers 904 and 161, which is smaller? a:UTT_BOUNDARY 161 or 131", 161 or 131
+"From the numbers 949 and 578, write the smaller number: ","['949', '578']",578,"UTT_BOUNDARY from the numbers 949 and 578, write the smaller number:UTT_BOUNDARY 578 and 494", 578 and 494
+"Q: Which number is smaller, 541 or 819? A:","['541', '819']",541,"UTT_BOUNDARY q: which number is smaller, 541 or 819? a:UTT_BOUNDARY 542 or 576", 542 or 576
+"Q: Which number is smaller, 449 or 926? A:","['449', '926']",449,"UTT_BOUNDARY q: which number is smaller, 449 or 926? a:UTT_BOUNDARY 444 or 173", 444 or 173
+"Q: Which number is smaller, 862 or 743? A:","['862', '743']",743,"UTT_BOUNDARY q: which number is smaller, 862 or 743? a:UTT_BOUNDARY 7372? a", 7372? a
+"Q: Of the numbers 503 and 343, which is smaller? A:","['503', '343']",343,"UTT_BOUNDARY q: of the numbers 503 and 343, which is smaller? a:UTT_BOUNDARY 343}, which"," 343}, which"
+"Q: Which number is smaller, 568 or 387? A:","['568', '387']",387,"UTT_BOUNDARY q: which number is smaller, 568 or 387? a:UTT_BOUNDARY 385 or 226", 385 or 226
+"Q: Which number is smaller, 978 or 273? A:","['978', '273']",273,"UTT_BOUNDARY q: which number is smaller, 978 or 273? a:UTT_BOUNDARY 273 or 266", 273 or 266
+"Q: Which number is smaller, 516 or 292? A:","['516', '292']",292,"UTT_BOUNDARY q: which number is smaller, 516 or 292? a:UTT_BOUNDARY 292 and 766", 292 and 766
+"From the numbers 307 and 702, write the smaller number: ","['307', '702']",307,"UTT_BOUNDARY from the numbers 307 and 702, write the smaller number:UTT_BOUNDARY 307-century", 307-century
+"From the numbers 534 and 46, write the smaller number: ","['534', '46']",46,"UTT_BOUNDARY from the numbers 534 and 46, write the smaller number:UTT_BOUNDARY 464-180", 464-180
+"Q: Which number is smaller, 587 or 942? A:","['587', '942']",587,"UTT_BOUNDARY q: which number is smaller, 587 or 942? a:UTT_BOUNDARY 587 and 946", 587 and 946
+"Q: Of the numbers 754 and 792, which is smaller? A:","['754', '792']",754,"UTT_BOUNDARY q: of the numbers 754 and 792, which is smaller? a:UTT_BOUNDARY 571 or 538", 571 or 538
+"From the numbers 839 and 879, write the smaller number: ","['839', '879']",839,"UTT_BOUNDARY from the numbers 839 and 879, write the smaller number:UTT_BOUNDARY 8149 and 6", 8149 and 6
+"Q: Of the numbers 118 and 19, which is smaller? A:","['118', '19']",19,"UTT_BOUNDARY q: of the numbers 118 and 19, which is smaller? a:UTT_BOUNDARY 191 novelist or", 191 novelist or
+"Q: Which number is smaller, 579 or 294? A:","['579', '294']",294,"UTT_BOUNDARY q: which number is smaller, 579 or 294? a:UTT_BOUNDARY 297, which is"," 297, which is"
+"Q: Of the numbers 773 and 225, which is smaller? A:","['773', '225']",225,"UTT_BOUNDARY q: of the numbers 773 and 225, which is smaller? a:UTT_BOUNDARY 229 and 548", 229 and 548
+"From the numbers 397 and 741, write the smaller number: ","['397', '741']",397,"UTT_BOUNDARY from the numbers 397 and 741, write the smaller number:UTT_BOUNDARY 393-903", 393-903
+"From the numbers 313 and 220, write the smaller number: ","['313', '220']",220,"UTT_BOUNDARY from the numbers 313 and 220, write the smaller number:UTT_BOUNDARY 320 and 320", 320 and 320
+"From the numbers 754 and 792, write the smaller number: ","['754', '792']",754,"UTT_BOUNDARY from the numbers 754 and 792, write the smaller number:UTT_BOUNDARY 752-h.", 752-h.
+"Q: Of the numbers 717 and 940, which is smaller? A:","['717', '940']",717,"UTT_BOUNDARY q: of the numbers 717 and 940, which is smaller? a:UTT_BOUNDARY 717 and 323", 717 and 323
+"Q: Of the numbers 167 and 402, which is smaller? A:","['167', '402']",167,"UTT_BOUNDARY q: of the numbers 167 and 402, which is smaller? a:UTT_BOUNDARY 167 and 512", 167 and 512
+"Q: Which number is smaller, 983 or 377? A:","['983', '377']",377,"UTT_BOUNDARY q: which number is smaller, 983 or 377? a:UTT_BOUNDARY 374 and 900", 374 and 900
+"From the numbers 452 and 974, write the smaller number: ","['452', '974']",452,"UTT_BOUNDARY from the numbers 452 and 974, write the smaller number:UTT_BOUNDARY 452, which is"," 452, which is"
+"Q: Which number is smaller, 841 or 991? A:","['841', '991']",841,"UTT_BOUNDARY q: which number is smaller, 841 or 991? a:UTT_BOUNDARY 552 or 646", 552 or 646
+"Q: Of the numbers 498 and 334, which is smaller? A:","['498', '334']",334,"UTT_BOUNDARY q: of the numbers 498 and 334, which is smaller? a:UTT_BOUNDARY 3367 and the", 3367 and the
+"Q: Of the numbers 929 and 842, which is smaller? A:","['929', '842']",842,"UTT_BOUNDARY q: of the numbers 929 and 842, which is smaller? a:UTT_BOUNDARY 843 or 642", 843 or 642

@@ -1,0 +1,601 @@
+Input,Options,Expected,Output (raw),Predicted
+"Q: Of the numbers 701 and 438, which is bigger? A:","['701', '438']",701,"UTT_BOUNDARY q: of the numbers 701 and 438, which is bigger? a:UTT_BOUNDARY 701 and 438", 701 and 438
+"Q: Of the numbers 486 and 491, which is bigger? A:","['486', '491']",491,"UTT_BOUNDARY q: of the numbers 486 and 491, which is bigger? a:UTT_BOUNDARY 492 is bigger?", 492 is bigger?
+"Q: Of the numbers 632 and 260, which is bigger? A:","['632', '260']",632,"UTT_BOUNDARY q: of the numbers 632 and 260, which is bigger? a:UTT_BOUNDARY 632 is bigger?", 632 is bigger?
+"Q: Which number is bigger, 787 or 50? A:","['787', '50']",787,"UTT_BOUNDARY q: which number is bigger, 787 or 50? a:UTT_BOUNDARY 786 census area.", 786 census area.
+"From the numbers 966 and 407, write the bigger number: ","['966', '407']",966,"UTT_BOUNDARY from the numbers 966 and 407, write the bigger number:UTT_BOUNDARY 966, which is"," 966, which is"
+"Q: Of the numbers 808 and 839, which is bigger? A:","['808', '839']",839,"UTT_BOUNDARY q: of the numbers 808 and 839, which is bigger? a:UTT_BOUNDARY 839. it is", 839. it is
+"Q: Of the numbers 496 and 558, which is bigger? A:","['496', '558']",558,"UTT_BOUNDARY q: of the numbers 496 and 558, which is bigger? a:UTT_BOUNDARY 888 and 498", 888 and 498
+"From the numbers 683 and 954, write the bigger number: ","['683', '954']",954,"UTT_BOUNDARY from the numbers 683 and 954, write the bigger number:UTT_BOUNDARY 953 and 269", 953 and 269
+"Q: Which number is bigger, 743 or 323? A:","['743', '323']",743,"UTT_BOUNDARY q: which number is bigger, 743 or 323? a:UTT_BOUNDARY 736? a:", 736? a:
+"From the numbers 719 and 480, write the bigger number: ","['719', '480']",719,"UTT_BOUNDARY from the numbers 719 and 480, write the bigger number:UTT_BOUNDARY 719, which is"," 719, which is"
+"From the numbers 751 and 410, write the bigger number: ","['751', '410']",751,"UTT_BOUNDARY from the numbers 751 and 410, write the bigger number:UTT_BOUNDARY 759 and 394", 759 and 394
+"Q: Which number is bigger, 555 or 660? A:","['555', '660']",660,"UTT_BOUNDARY q: which number is bigger, 555 or 660? a:UTT_BOUNDARY 6605 or 5", 6605 or 5
+"Q: Which number is bigger, 167 or 325? A:","['167', '325']",325,"UTT_BOUNDARY q: which number is bigger, 167 or 325? a:UTT_BOUNDARY 32877?", 32877?
+"Q: Of the numbers 717 and 614, which is bigger? A:","['717', '614']",717,"UTT_BOUNDARY q: of the numbers 717 and 614, which is bigger? a:UTT_BOUNDARY 717 and 700", 717 and 700
+"From the numbers 92 and 617, write the bigger number: ","['92', '617']",617,"UTT_BOUNDARY from the numbers 92 and 617, write the bigger number:UTT_BOUNDARY 6179 and 7", 6179 and 7
+"Q: Which number is bigger, 327 or 151? A:","['327', '151']",327,"UTT_BOUNDARY q: which number is bigger, 327 or 151? a:UTT_BOUNDARY 328, which is"," 328, which is"
+"Q: Of the numbers 116 and 570, which is bigger? A:","['116', '570']",570,"UTT_BOUNDARY q: of the numbers 116 and 570, which is bigger? a:UTT_BOUNDARY 570, which is"," 570, which is"
+"Q: Which number is bigger, 296 or 185? A:","['296', '185']",296,"UTT_BOUNDARY q: which number is bigger, 296 or 185? a:UTT_BOUNDARY 296? a:", 296? a:
+"From the numbers 760 and 515, write the bigger number: ","['760', '515']",760,"UTT_BOUNDARY from the numbers 760 and 515, write the bigger number:UTT_BOUNDARY 7604 and 9", 7604 and 9
+"From the numbers 595 and 506, write the bigger number: ","['595', '506']",595,"UTT_BOUNDARY from the numbers 595 and 506, write the bigger number:UTT_BOUNDARY 595 and 493", 595 and 493
+"Q: Which number is bigger, 26 or 783? A:","['26', '783']",783,"UTT_BOUNDARY q: which number is bigger, 26 or 783? a:UTT_BOUNDARY 783? a:", 783? a:
+"Q: Which number is bigger, 749 or 180? A:","['749', '180']",749,"UTT_BOUNDARY q: which number is bigger, 749 or 180? a:UTT_BOUNDARY 749? a:", 749? a:
+"Q: Which number is bigger, 992 or 635? A:","['992', '635']",992,"UTT_BOUNDARY q: which number is bigger, 992 or 635? a:UTT_BOUNDARY 992 or 635", 992 or 635
+"From the numbers 111 and 884, write the bigger number: ","['111', '884']",884,"UTT_BOUNDARY from the numbers 111 and 884, write the bigger number:UTT_BOUNDARY 884/89", 884/89
+"Q: Of the numbers 151 and 990, which is bigger? A:","['151', '990']",990,"UTT_BOUNDARY q: of the numbers 151 and 990, which is bigger? a:UTT_BOUNDARY 990 or 680", 990 or 680
+"From the numbers 112 and 843, write the bigger number: ","['112', '843']",843,"UTT_BOUNDARY from the numbers 112 and 843, write the bigger number:UTT_BOUNDARY 843 and 646", 843 and 646
+"From the numbers 453 and 10, write the bigger number: ","['453', '10']",453,"UTT_BOUNDARY from the numbers 453 and 10, write the bigger number:UTT_BOUNDARY 453, which is"," 453, which is"
+"Q: Of the numbers 752 and 797, which is bigger? A:","['752', '797']",797,"UTT_BOUNDARY q: of the numbers 752 and 797, which is bigger? a:UTT_BOUNDARY 792? a:", 792? a:
+"Q: Which number is bigger, 534 or 981? A:","['534', '981']",981,"UTT_BOUNDARY q: which number is bigger, 534 or 981? a:UTT_BOUNDARY 981 or 646", 981 or 646
+"Q: Of the numbers 18 and 72, which is bigger? A:","['18', '72']",72,"UTT_BOUNDARY q: of the numbers 18 and 72, which is bigger? a:UTT_BOUNDARY 182, by the"," 182, by the"
+"Q: Of the numbers 562 and 675, which is bigger? A:","['562', '675']",675,"UTT_BOUNDARY q: of the numbers 562 and 675, which is bigger? a:UTT_BOUNDARY 675 and 775", 675 and 775
+"Q: Of the numbers 911 and 145, which is bigger? A:","['911', '145']",911,"UTT_BOUNDARY q: of the numbers 911 and 145, which is bigger? a:UTT_BOUNDARY 924 and 536", 924 and 536
+"Q: Which number is bigger, 459 or 931? A:","['459', '931']",931,"UTT_BOUNDARY q: which number is bigger, 459 or 931? a:UTT_BOUNDARY 942 formula one day", 942 formula one day
+"From the numbers 147 and 482, write the bigger number: ","['147', '482']",482,"UTT_BOUNDARY from the numbers 147 and 482, write the bigger number:UTT_BOUNDARY 482 is 982", 482 is 982
+"Q: Which number is bigger, 404 or 130? A:","['404', '130']",404,"UTT_BOUNDARY q: which number is bigger, 404 or 130? a:UTT_BOUNDARY 404 or 680", 404 or 680
+"Q: Which number is bigger, 397 or 741? A:","['397', '741']",741,"UTT_BOUNDARY q: which number is bigger, 397 or 741? a:UTT_BOUNDARY 391 or 627", 391 or 627
+"From the numbers 672 and 250, write the bigger number: ","['672', '250']",672,"UTT_BOUNDARY from the numbers 672 and 250, write the bigger number:UTT_BOUNDARY 772 is 982", 772 is 982
+"Q: Which number is bigger, 116 or 920? A:","['116', '920']",920,"UTT_BOUNDARY q: which number is bigger, 116 or 920? a:UTT_BOUNDARY 920, which is"," 920, which is"
+"Q: Which number is bigger, 298 or 152? A:","['298', '152']",298,"UTT_BOUNDARY q: which number is bigger, 298 or 152? a:UTT_BOUNDARY 298? a:", 298? a:
+"Q: Of the numbers 298 and 152, which is bigger? A:","['298', '152']",298,"UTT_BOUNDARY q: of the numbers 298 and 152, which is bigger? a:UTT_BOUNDARY 298, which is"," 298, which is"
+"Q: Which number is bigger, 57 or 163? A:","['57', '163']",163,"UTT_BOUNDARY q: which number is bigger, 57 or 163? a:UTT_BOUNDARY 163 or 266", 163 or 266
+"Q: Which number is bigger, 174 or 414? A:","['174', '414']",414,"UTT_BOUNDARY q: which number is bigger, 174 or 414? a:UTT_BOUNDARY 416 world war ii", 416 world war ii
+"Q: Which number is bigger, 448 or 653? A:","['448', '653']",653,"UTT_BOUNDARY q: which number is bigger, 448 or 653? a:UTT_BOUNDARY 673 or 438", 673 or 438
+"Q: Which number is bigger, 749 or 535? A:","['749', '535']",749,"UTT_BOUNDARY q: which number is bigger, 749 or 535? a:UTT_BOUNDARY 749? a:", 749? a:
+"Q: Of the numbers 377 and 21, which is bigger? A:","['377', '21']",377,"UTT_BOUNDARY q: of the numbers 377 and 21, which is bigger? a:UTT_BOUNDARY 377? a:", 377? a:
+"Q: Of the numbers 962 and 416, which is bigger? A:","['962', '416']",962,"UTT_BOUNDARY q: of the numbers 962 and 416, which is bigger? a:UTT_BOUNDARY 962? a:", 962? a:
+"From the numbers 757 and 190, write the bigger number: ","['757', '190']",757,"UTT_BOUNDARY from the numbers 757 and 190, write the bigger number:UTT_BOUNDARY 757, which is"," 757, which is"
+"Q: Which number is bigger, 229 or 708? A:","['229', '708']",708,"UTT_BOUNDARY q: which number is bigger, 229 or 708? a:UTT_BOUNDARY 708 or 190,"," 708 or 190,"
+"From the numbers 467 and 552, write the bigger number: ","['467', '552']",552,"UTT_BOUNDARY from the numbers 467 and 552, write the bigger number:UTT_BOUNDARY 772 is a japanese", 772 is a japanese
+"Q: Of the numbers 786 and 179, which is bigger? A:","['786', '179']",786,"UTT_BOUNDARY q: of the numbers 786 and 179, which is bigger? a:UTT_BOUNDARY 786.506", 786.506
+"Q: Of the numbers 149 and 37, which is bigger? A:","['149', '37']",149,"UTT_BOUNDARY q: of the numbers 149 and 37, which is bigger? a:UTT_BOUNDARY 1499-18", 1499-18
+"From the numbers 928 and 160, write the bigger number: ","['928', '160']",928,"UTT_BOUNDARY from the numbers 928 and 160, write the bigger number:UTT_BOUNDARY 9356 and 9", 9356 and 9
+"Q: Which number is bigger, 794 or 976? A:","['794', '976']",976,"UTT_BOUNDARY q: which number is bigger, 794 or 976? a:UTT_BOUNDARY 976? a:", 976? a:
+"From the numbers 651 and 782, write the bigger number: ","['651', '782']",782,"UTT_BOUNDARY from the numbers 651 and 782, write the bigger number:UTT_BOUNDARY 782 is 982", 782 is 982
+"Q: Which number is bigger, 894 or 439? A:","['894', '439']",894,"UTT_BOUNDARY q: which number is bigger, 894 or 439? a:UTT_BOUNDARY 894-h.", 894-h.
+"From the numbers 127 and 535, write the bigger number: ","['127', '535']",535,"UTT_BOUNDARY from the numbers 127 and 535, write the bigger number:UTT_BOUNDARY 535? a:", 535? a:
+"Q: Of the numbers 700 and 450, which is bigger? A:","['700', '450']",700,"UTT_BOUNDARY q: of the numbers 700 and 450, which is bigger? a:UTT_BOUNDARY 750, which is"," 750, which is"
+"Q: Which number is bigger, 695 or 253? A:","['695', '253']",695,"UTT_BOUNDARY q: which number is bigger, 695 or 253? a:UTT_BOUNDARY 695? a:", 695? a:
+"From the numbers 573 and 381, write the bigger number: ","['573', '381']",573,"UTT_BOUNDARY from the numbers 573 and 381, write the bigger number:UTT_BOUNDARY 383, which is"," 383, which is"
+"Q: Of the numbers 487 and 110, which is bigger? A:","['487', '110']",487,"UTT_BOUNDARY q: of the numbers 487 and 110, which is bigger? a:UTT_BOUNDARY 486 and 924", 486 and 924
+"Q: Which number is bigger, 571 or 31? A:","['571', '31']",571,"UTT_BOUNDARY q: which number is bigger, 571 or 31? a:UTT_BOUNDARY 651? a:", 651? a:
+"Q: Which number is bigger, 764 or 430? A:","['764', '430']",764,"UTT_BOUNDARY q: which number is bigger, 764 or 430? a:UTT_BOUNDARY 764 or 480", 764 or 480
+"Q: Which number is bigger, 53 or 115? A:","['53', '115']",115,"UTT_BOUNDARY q: which number is bigger, 53 or 115? a:UTT_BOUNDARY 717? a:", 717? a:
+"Q: Which number is bigger, 278 or 334? A:","['278', '334']",334,"UTT_BOUNDARY q: which number is bigger, 278 or 334? a:UTT_BOUNDARY 334? a:", 334? a:
+"Q: Which number is bigger, 199 or 636? A:","['199', '636']",636,"UTT_BOUNDARY q: which number is bigger, 199 or 636? a:UTT_BOUNDARY 635 or 635", 635 or 635
+"Q: Of the numbers 393 and 309, which is bigger? A:","['393', '309']",393,"UTT_BOUNDARY q: of the numbers 393 and 309, which is bigger? a:UTT_BOUNDARY 393 or 266", 393 or 266
+"Q: Of the numbers 914 and 555, which is bigger? A:","['914', '555']",914,"UTT_BOUNDARY q: of the numbers 914 and 555, which is bigger? a:UTT_BOUNDARY 9356 and a", 9356 and a
+"Q: Of the numbers 747 and 602, which is bigger? A:","['747', '602']",747,"UTT_BOUNDARY q: of the numbers 747 and 602, which is bigger? a:UTT_BOUNDARY 747, which is"," 747, which is"
+"Q: Of the numbers 148 and 681, which is bigger? A:","['148', '681']",681,"UTT_BOUNDARY q: of the numbers 148 and 681, which is bigger? a:UTT_BOUNDARY 689 and 736", 689 and 736
+"Q: Which number is bigger, 864 or 400? A:","['864', '400']",864,"UTT_BOUNDARY q: which number is bigger, 864 or 400? a:UTT_BOUNDARY 864? a:", 864? a:
+"Q: Of the numbers 595 and 235, which is bigger? A:","['595', '235']",595,"UTT_BOUNDARY q: of the numbers 595 and 235, which is bigger? a:UTT_BOUNDARY 595 and 495", 595 and 495
+"From the numbers 592 and 653, write the bigger number: ","['592', '653']",653,"UTT_BOUNDARY from the numbers 592 and 653, write the bigger number:UTT_BOUNDARY 593 or 260", 593 or 260
+"From the numbers 137 and 538, write the bigger number: ","['137', '538']",538,"UTT_BOUNDARY from the numbers 137 and 538, write the bigger number:UTT_BOUNDARY 538-year-", 538-year-
+"Q: Of the numbers 808 and 846, which is bigger? A:","['808', '846']",846,"UTT_BOUNDARY q: of the numbers 808 and 846, which is bigger? a:UTT_BOUNDARY 846? a:", 846? a:
+"Q: Which number is bigger, 307 or 594? A:","['307', '594']",594,"UTT_BOUNDARY q: which number is bigger, 307 or 594? a:UTT_BOUNDARY 595 or 580", 595 or 580
+"Q: Which number is bigger, 592 or 901? A:","['592', '901']",901,"UTT_BOUNDARY q: which number is bigger, 592 or 901? a:UTT_BOUNDARY 901 or 680", 901 or 680
+"From the numbers 610 and 890, write the bigger number: ","['610', '890']",890,"UTT_BOUNDARY from the numbers 610 and 890, write the bigger number:UTT_BOUNDARY 840 and 623", 840 and 623
+"From the numbers 528 and 409, write the bigger number: ","['528', '409']",528,"UTT_BOUNDARY from the numbers 528 and 409, write the bigger number:UTT_BOUNDARY 528, 434"," 528, 434"
+"From the numbers 829 and 369, write the bigger number: ","['829', '369']",829,"UTT_BOUNDARY from the numbers 829 and 369, write the bigger number:UTT_BOUNDARY 829, which is"," 829, which is"
+"From the numbers 131 and 522, write the bigger number: ","['131', '522']",522,"UTT_BOUNDARY from the numbers 131 and 522, write the bigger number:UTT_BOUNDARY 551. it is", 551. it is
+"Q: Of the numbers 53 and 115, which is bigger? A:","['53', '115']",115,"UTT_BOUNDARY q: of the numbers 53 and 115, which is bigger? a:UTT_BOUNDARY 717? a:", 717? a:
+"Q: Of the numbers 24 and 132, which is bigger? A:","['24', '132']",132,"UTT_BOUNDARY q: of the numbers 24 and 132, which is bigger? a:UTT_BOUNDARY 282. the number", 282. the number
+"Q: Which number is bigger, 508 or 391? A:","['508', '391']",508,"UTT_BOUNDARY q: which number is bigger, 508 or 391? a:UTT_BOUNDARY 509 or 646", 509 or 646
+"Q: Of the numbers 65 and 715, which is bigger? A:","['65', '715']",715,"UTT_BOUNDARY q: of the numbers 65 and 715, which is bigger? a:UTT_BOUNDARY 716 and 946", 716 and 946
+"From the numbers 487 and 110, write the bigger number: ","['487', '110']",487,"UTT_BOUNDARY from the numbers 487 and 110, write the bigger number:UTT_BOUNDARY 4869 551", 4869 551
+"Q: Which number is bigger, 672 or 250? A:","['672', '250']",672,"UTT_BOUNDARY q: which number is bigger, 672 or 250? a:UTT_BOUNDARY 672 is 989", 672 is 989
+"From the numbers 879 and 793, write the bigger number: ","['879', '793']",879,"UTT_BOUNDARY from the numbers 879 and 793, write the bigger number:UTT_BOUNDARY 879 and 794", 879 and 794
+"Q: Of the numbers 114 and 775, which is bigger? A:","['114', '775']",775,"UTT_BOUNDARY q: of the numbers 114 and 775, which is bigger? a:UTT_BOUNDARY 775 is bigger?", 775 is bigger?
+"From the numbers 363 and 269, write the bigger number: ","['363', '269']",363,"UTT_BOUNDARY from the numbers 363 and 269, write the bigger number:UTT_BOUNDARY 363 or 260", 363 or 260
+"From the numbers 390 and 587, write the bigger number: ","['390', '587']",587,"UTT_BOUNDARY from the numbers 390 and 587, write the bigger number:UTT_BOUNDARY 567 and 570", 567 and 570
+"Q: Which number is bigger, 138 or 300? A:","['138', '300']",300,"UTT_BOUNDARY q: which number is bigger, 138 or 300? a:UTT_BOUNDARY 300-seven or eight", 300-seven or eight
+"Q: Of the numbers 846 and 436, which is bigger? A:","['846', '436']",846,"UTT_BOUNDARY q: of the numbers 846 and 436, which is bigger? a:UTT_BOUNDARY 846? a:", 846? a:
+"From the numbers 309 and 466, write the bigger number: ","['309', '466']",466,"UTT_BOUNDARY from the numbers 309 and 466, write the bigger number:UTT_BOUNDARY 466, which is"," 466, which is"
+"Q: Of the numbers 348 and 15, which is bigger? A:","['348', '15']",348,"UTT_BOUNDARY q: of the numbers 348 and 15, which is bigger? a:UTT_BOUNDARY 3704 or 3", 3704 or 3
+"Q: Of the numbers 639 and 919, which is bigger? A:","['639', '919']",919,"UTT_BOUNDARY q: of the numbers 639 and 919, which is bigger? a:UTT_BOUNDARY 919 was the first", 919 was the first
+"Q: Which number is bigger, 221 or 562? A:","['221', '562']",562,"UTT_BOUNDARY q: which number is bigger, 221 or 562? a:UTT_BOUNDARY 562 and 380", 562 and 380
+"From the numbers 901 and 520, write the bigger number: ","['901', '520']",901,"UTT_BOUNDARY from the numbers 901 and 520, write the bigger number:UTT_BOUNDARY 901 or 909", 901 or 909
+"From the numbers 404 and 130, write the bigger number: ","['404', '130']",404,"UTT_BOUNDARY from the numbers 404 and 130, write the bigger number:UTT_BOUNDARY 404 or 670", 404 or 670
+"Q: Which number is bigger, 260 or 749? A:","['260', '749']",749,"UTT_BOUNDARY q: which number is bigger, 260 or 749? a:UTT_BOUNDARY 749? a:", 749? a:
+"Q: Of the numbers 305 and 60, which is bigger? A:","['305', '60']",305,"UTT_BOUNDARY q: of the numbers 305 and 60, which is bigger? a:UTT_BOUNDARY 605 ephram", 605 ephram
+"From the numbers 846 and 520, write the bigger number: ","['846', '520']",846,"UTT_BOUNDARY from the numbers 846 and 520, write the bigger number:UTT_BOUNDARY 846, which is"," 846, which is"
+"Q: Which number is bigger, 708 or 317? A:","['708', '317']",708,"UTT_BOUNDARY q: which number is bigger, 708 or 317? a:UTT_BOUNDARY 708? a:", 708? a:
+"Q: Which number is bigger, 892 or 335? A:","['892', '335']",892,"UTT_BOUNDARY q: which number is bigger, 892 or 335? a:UTT_BOUNDARY 892? a:", 892? a:
+"Q: Of the numbers 887 and 990, which is bigger? A:","['887', '990']",990,"UTT_BOUNDARY q: of the numbers 887 and 990, which is bigger? a:UTT_BOUNDARY 990 or 990", 990 or 990
+"Q: Of the numbers 516 and 292, which is bigger? A:","['516', '292']",516,"UTT_BOUNDARY q: of the numbers 516 and 292, which is bigger? a:UTT_BOUNDARY 510, which is"," 510, which is"
+"Q: Which number is bigger, 990 or 498? A:","['990', '498']",990,"UTT_BOUNDARY q: which number is bigger, 990 or 498? a:UTT_BOUNDARY 990 or 680", 990 or 680
+"Q: Of the numbers 308 and 97, which is bigger? A:","['308', '97']",308,"UTT_BOUNDARY q: of the numbers 308 and 97, which is bigger? a:UTT_BOUNDARY 978, which is"," 978, which is"
+"Q: Which number is bigger, 411 or 604? A:","['411', '604']",604,"UTT_BOUNDARY q: which number is bigger, 411 or 604? a:UTT_BOUNDARY 604/4076", 604/4076
+"Q: Which number is bigger, 221 or 552? A:","['221', '552']",552,"UTT_BOUNDARY q: which number is bigger, 221 or 552? a:UTT_BOUNDARY 552 is bigger?", 552 is bigger?
+"Q: Of the numbers 454 and 810, which is bigger? A:","['454', '810']",810,"UTT_BOUNDARY q: of the numbers 454 and 810, which is bigger? a:UTT_BOUNDARY 810, which is"," 810, which is"
+"From the numbers 510 and 188, write the bigger number: ","['510', '188']",510,"UTT_BOUNDARY from the numbers 510 and 188, write the bigger number:UTT_BOUNDARY 51091 or", 51091 or
+"Q: Which number is bigger, 507 or 512? A:","['507', '512']",512,"UTT_BOUNDARY q: which number is bigger, 507 or 512? a:UTT_BOUNDARY 536 or 536", 536 or 536
+"From the numbers 492 and 279, write the bigger number: ","['492', '279']",492,"UTT_BOUNDARY from the numbers 492 and 279, write the bigger number:UTT_BOUNDARY 492 is 982", 492 is 982
+"From the numbers 708 and 317, write the bigger number: ","['708', '317']",708,"UTT_BOUNDARY from the numbers 708 and 317, write the bigger number:UTT_BOUNDARY 708 and 918", 708 and 918
+"Q: Which number is bigger, 423 or 185? A:","['423', '185']",423,"UTT_BOUNDARY q: which number is bigger, 423 or 185? a:UTT_BOUNDARY 423? a:", 423? a:
+"From the numbers 950 and 369, write the bigger number: ","['950', '369']",950,"UTT_BOUNDARY from the numbers 950 and 369, write the bigger number:UTT_BOUNDARY 950, which is"," 950, which is"
+"Q: Which number is bigger, 101 or 723? A:","['101', '723']",723,"UTT_BOUNDARY q: which number is bigger, 101 or 723? a:UTT_BOUNDARY 723 or 621", 723 or 621
+"Q: Which number is bigger, 523 or 772? A:","['523', '772']",772,"UTT_BOUNDARY q: which number is bigger, 523 or 772? a:UTT_BOUNDARY 772 is a type", 772 is a type
+"Q: Of the numbers 829 and 369, which is bigger? A:","['829', '369']",829,"UTT_BOUNDARY q: of the numbers 829 and 369, which is bigger? a:UTT_BOUNDARY 829. a:", 829. a:
+"Q: Of the numbers 203 and 466, which is bigger? A:","['203', '466']",466,"UTT_BOUNDARY q: of the numbers 203 and 466, which is bigger? a:UTT_BOUNDARY 466-bret", 466-bret
+"From the numbers 854 and 342, write the bigger number: ","['854', '342']",854,"UTT_BOUNDARY from the numbers 854 and 342, write the bigger number:UTT_BOUNDARY 852? a:", 852? a:
+"Q: Of the numbers 651 and 142, which is bigger? A:","['651', '142']",651,"UTT_BOUNDARY q: of the numbers 651 and 142, which is bigger? a:UTT_BOUNDARY 651 and 628", 651 and 628
+"Q: Which number is bigger, 309 or 549? A:","['309', '549']",549,"UTT_BOUNDARY q: which number is bigger, 309 or 549? a:UTT_BOUNDARY 568. 666", 568. 666
+"Q: Of the numbers 564 and 140, which is bigger? A:","['564', '140']",564,"UTT_BOUNDARY q: of the numbers 564 and 140, which is bigger? a:UTT_BOUNDARY 5691 or 9", 5691 or 9
+"Q: Of the numbers 20 and 883, which is bigger? A:","['20', '883']",883,"UTT_BOUNDARY q: of the numbers 20 and 883, which is bigger? a:UTT_BOUNDARY 883 or 909", 883 or 909
+"From the numbers 260 and 749, write the bigger number: ","['260', '749']",749,"UTT_BOUNDARY from the numbers 260 and 749, write the bigger number:UTT_BOUNDARY 749 and 747", 749 and 747
+"Q: Of the numbers 374 and 540, which is bigger? A:","['374', '540']",540,"UTT_BOUNDARY q: of the numbers 374 and 540, which is bigger? a:UTT_BOUNDARY 542? a:", 542? a:
+"Q: Which number is bigger, 881 or 248? A:","['881', '248']",881,"UTT_BOUNDARY q: which number is bigger, 881 or 248? a:UTT_BOUNDARY 888 and 243", 888 and 243
+"Q: Which number is bigger, 72 or 140? A:","['72', '140']",140,"UTT_BOUNDARY q: which number is bigger, 72 or 140? a:UTT_BOUNDARY 2809? a", 2809? a
+"Q: Which number is bigger, 74 or 866? A:","['74', '866']",866,"UTT_BOUNDARY q: which number is bigger, 74 or 866? a:UTT_BOUNDARY 866? a:", 866? a:
+"From the numbers 772 and 549, write the bigger number: ","['772', '549']",772,"UTT_BOUNDARY from the numbers 772 and 549, write the bigger number:UTT_BOUNDARY 772? a:", 772? a:
+"Q: Of the numbers 217 and 670, which is bigger? A:","['217', '670']",670,"UTT_BOUNDARY q: of the numbers 217 and 670, which is bigger? a:UTT_BOUNDARY 670 or 646", 670 or 646
+"Q: Of the numbers 23 and 696, which is bigger? A:","['23', '696']",696,"UTT_BOUNDARY q: of the numbers 23 and 696, which is bigger? a:UTT_BOUNDARY 696 and 221", 696 and 221
+"Q: Of the numbers 321 and 800, which is bigger? A:","['321', '800']",800,"UTT_BOUNDARY q: of the numbers 321 and 800, which is bigger? a:UTT_BOUNDARY 800? a:UTT_BOUNDARY", 800? a:
+"Q: Which number is bigger, 948 or 547? A:","['948', '547']",948,"UTT_BOUNDARY q: which number is bigger, 948 or 547? a:UTT_BOUNDARY 948, which is"," 948, which is"
+"Q: Which number is bigger, 469 or 777? A:","['469', '777']",777,"UTT_BOUNDARY q: which number is bigger, 469 or 777? a:UTT_BOUNDARY 777 while the americans", 777 while the americans
+"Q: Which number is bigger, 540 or 207? A:","['540', '207']",540,"UTT_BOUNDARY q: which number is bigger, 540 or 207? a:UTT_BOUNDARY 540? a:", 540? a:
+"Q: Of the numbers 367 and 493, which is bigger? A:","['367', '493']",493,"UTT_BOUNDARY q: of the numbers 367 and 493, which is bigger? a:UTT_BOUNDARY 493 or 260", 493 or 260
+"Q: Of the numbers 210 and 872, which is bigger? A:","['210', '872']",872,"UTT_BOUNDARY q: of the numbers 210 and 872, which is bigger? a:UTT_BOUNDARY 872 is bigger?", 872 is bigger?
+"From the numbers 123 and 59, write the bigger number: ","['123', '59']",123,"UTT_BOUNDARY from the numbers 123 and 59, write the bigger number:UTT_BOUNDARY 595 and 493", 595 and 493
+"From the numbers 781 and 153, write the bigger number: ","['781', '153']",781,"UTT_BOUNDARY from the numbers 781 and 153, write the bigger number:UTT_BOUNDARY 783.503", 783.503
+"Q: Of the numbers 940 and 164, which is bigger? A:","['940', '164']",940,"UTT_BOUNDARY q: of the numbers 940 and 164, which is bigger? a:UTT_BOUNDARY 928 and 427", 928 and 427
+"From the numbers 929 and 842, write the bigger number: ","['929', '842']",929,"UTT_BOUNDARY from the numbers 929 and 842, write the bigger number:UTT_BOUNDARY 929 and 900", 929 and 900
+"From the numbers 915 and 448, write the bigger number: ","['915', '448']",915,"UTT_BOUNDARY from the numbers 915 and 448, write the bigger number:UTT_BOUNDARY 9487 is the", 9487 is the
+"From the numbers 720 and 576, write the bigger number: ","['720', '576']",720,"UTT_BOUNDARY from the numbers 720 and 576, write the bigger number:UTT_BOUNDARY 720 and 720", 720 and 720
+"Q: Which number is bigger, 62 or 802? A:","['62', '802']",802,"UTT_BOUNDARY q: which number is bigger, 62 or 802? a:UTT_BOUNDARY 802 is 982", 802 is 982
+"From the numbers 147 and 576, write the bigger number: ","['147', '576']",576,"UTT_BOUNDARY from the numbers 147 and 576, write the bigger number:UTT_BOUNDARY 5762 is 98", 5762 is 98
+"From the numbers 482 and 202, write the bigger number: ","['482', '202']",482,"UTT_BOUNDARY from the numbers 482 and 202, write the bigger number:UTT_BOUNDARY 482 is 982", 482 is 982
+"From the numbers 720 and 739, write the bigger number: ","['720', '739']",739,"UTT_BOUNDARY from the numbers 720 and 739, write the bigger number:UTT_BOUNDARY 739 and 739", 739 and 739
+"Q: Which number is bigger, 914 or 555? A:","['914', '555']",914,"UTT_BOUNDARY q: which number is bigger, 914 or 555? a:UTT_BOUNDARY 944 or 646", 944 or 646
+"Q: Of the numbers 546 and 350, which is bigger? A:","['546', '350']",546,"UTT_BOUNDARY q: of the numbers 546 and 350, which is bigger? a:UTT_BOUNDARY 546? a:", 546? a:
+"From the numbers 541 and 97, write the bigger number: ","['541', '97']",541,"UTT_BOUNDARY from the numbers 541 and 97, write the bigger number:UTT_BOUNDARY 551, which is"," 551, which is"
+"Q: Which number is bigger, 18 or 929? A:","['18', '929']",929,"UTT_BOUNDARY q: which number is bigger, 18 or 929? a:UTT_BOUNDARY 929 or 136", 929 or 136
+"From the numbers 839 and 45, write the bigger number: ","['839', '45']",839,"UTT_BOUNDARY from the numbers 839 and 45, write the bigger number:UTT_BOUNDARY 839, which is"," 839, which is"
+"Q: Which number is bigger, 383 or 675? A:","['383', '675']",675,"UTT_BOUNDARY q: which number is bigger, 383 or 675? a:UTT_BOUNDARY 675? a:", 675? a:
+"Q: Of the numbers 672 and 744, which is bigger? A:","['672', '744']",744,"UTT_BOUNDARY q: of the numbers 672 and 744, which is bigger? a:UTT_BOUNDARY 744 is bigger?", 744 is bigger?
+"Q: Which number is bigger, 740 or 187? A:","['740', '187']",740,"UTT_BOUNDARY q: which number is bigger, 740 or 187? a:UTT_BOUNDARY 740? a:", 740? a:
+"From the numbers 320 and 111, write the bigger number: ","['320', '111']",320,"UTT_BOUNDARY from the numbers 320 and 111, write the bigger number:UTT_BOUNDARY 320, which is"," 320, which is"
+"Q: Of the numbers 445 and 528, which is bigger? A:","['445', '528']",528,"UTT_BOUNDARY q: of the numbers 445 and 528, which is bigger? a:UTT_BOUNDARY 528 and 427", 528 and 427
+"From the numbers 157 and 694, write the bigger number: ","['157', '694']",694,"UTT_BOUNDARY from the numbers 157 and 694, write the bigger number:UTT_BOUNDARY 696-1836", 696-1836
+"Q: Of the numbers 912 and 28, which is bigger? A:","['912', '28']",912,"UTT_BOUNDARY q: of the numbers 912 and 28, which is bigger? a:UTT_BOUNDARY 911 and 919", 911 and 919
+"Q: Of the numbers 534 and 46, which is bigger? A:","['534', '46']",534,"UTT_BOUNDARY q: of the numbers 534 and 46, which is bigger? a:UTT_BOUNDARY 39436 votes,"," 39436 votes,"
+"Q: Which number is bigger, 206 or 306? A:","['206', '306']",306,"UTT_BOUNDARY q: which number is bigger, 206 or 306? a:UTT_BOUNDARY 306? a:", 306? a:
+"Q: Which number is bigger, 852 or 713? A:","['852', '713']",852,"UTT_BOUNDARY q: which number is bigger, 852 or 713? a:UTT_BOUNDARY 852? a:", 852? a:
+"Q: Of the numbers 11 and 847, which is bigger? A:","['11', '847']",847,"UTT_BOUNDARY q: of the numbers 11 and 847, which is bigger? a:UTT_BOUNDARY 847, which is"," 847, which is"
+"Q: Of the numbers 29 and 920, which is bigger? A:","['29', '920']",920,"UTT_BOUNDARY q: of the numbers 29 and 920, which is bigger? a:UTT_BOUNDARY 920, which is"," 920, which is"
+"Q: Which number is bigger, 194 or 262? A:","['194', '262']",262,"UTT_BOUNDARY q: which number is bigger, 194 or 262? a:UTT_BOUNDARY 262? a:", 262? a:
+"From the numbers 197 and 95, write the bigger number: ","['197', '95']",197,"UTT_BOUNDARY from the numbers 197 and 95, write the bigger number:UTT_BOUNDARY 954 508 and", 954 508 and
+"From the numbers 239 and 287, write the bigger number: ","['239', '287']",287,"UTT_BOUNDARY from the numbers 239 and 287, write the bigger number:UTT_BOUNDARY 2897 and 9", 2897 and 9
+"Q: Which number is bigger, 814 or 826? A:","['814', '826']",826,"UTT_BOUNDARY q: which number is bigger, 814 or 826? a:UTT_BOUNDARY 826? a:", 826? a:
+"From the numbers 658 and 588, write the bigger number: ","['658', '588']",658,"UTT_BOUNDARY from the numbers 658 and 588, write the bigger number:UTT_BOUNDARY 6146 and 6", 6146 and 6
+"From the numbers 462 and 438, write the bigger number: ","['462', '438']",462,"UTT_BOUNDARY from the numbers 462 and 438, write the bigger number:UTT_BOUNDARY 438 and the 4", 438 and the 4
+"Q: Of the numbers 593 and 269, which is bigger? A:","['593', '269']",593,"UTT_BOUNDARY q: of the numbers 593 and 269, which is bigger? a:UTT_BOUNDARY 593 or 266", 593 or 266
+"Q: Which number is bigger, 356 or 704? A:","['356', '704']",704,"UTT_BOUNDARY q: which number is bigger, 356 or 704? a:UTT_BOUNDARY 704-905", 704-905
+"From the numbers 11 and 847, write the bigger number: ","['11', '847']",847,"UTT_BOUNDARY from the numbers 11 and 847, write the bigger number:UTT_BOUNDARY 847, which is"," 847, which is"
+"Q: Of the numbers 738 and 497, which is bigger? A:","['738', '497']",738,"UTT_BOUNDARY q: of the numbers 738 and 497, which is bigger? a:UTT_BOUNDARY 738? a:", 738? a:
+"From the numbers 48 and 615, write the bigger number: ","['48', '615']",615,"UTT_BOUNDARY from the numbers 48 and 615, write the bigger number:UTT_BOUNDARY 6156=10", 6156=10
+"Q: Of the numbers 407 and 905, which is bigger? A:","['407', '905']",905,"UTT_BOUNDARY q: of the numbers 407 and 905, which is bigger? a:UTT_BOUNDARY 908 and 836", 908 and 836
+"Q: Which number is bigger, 299 or 784? A:","['299', '784']",784,"UTT_BOUNDARY q: which number is bigger, 299 or 784? a:UTT_BOUNDARY 784. 604", 784. 604
+"Q: Of the numbers 459 and 931, which is bigger? A:","['459', '931']",931,"UTT_BOUNDARY q: of the numbers 459 and 931, which is bigger? a:UTT_BOUNDARY 921 or 646", 921 or 646
+"Q: Which number is bigger, 342 or 650? A:","['342', '650']",650,"UTT_BOUNDARY q: which number is bigger, 342 or 650? a:UTT_BOUNDARY 650? a:", 650? a:
+"From the numbers 634 and 581, write the bigger number: ","['634', '581']",634,"UTT_BOUNDARY from the numbers 634 and 581, write the bigger number:UTT_BOUNDARY 634% is known", 634% is known
+"Q: Of the numbers 716 and 385, which is bigger? A:","['716', '385']",716,"UTT_BOUNDARY q: of the numbers 716 and 385, which is bigger? a:UTT_BOUNDARY 740? a:", 740? a:
+"From the numbers 990 and 498, write the bigger number: ","['990', '498']",990,"UTT_BOUNDARY from the numbers 990 and 498, write the bigger number:UTT_BOUNDARY 990 and 690", 990 and 690
+"Q: Which number is bigger, 749 or 441? A:","['749', '441']",749,"UTT_BOUNDARY q: which number is bigger, 749 or 441? a:UTT_BOUNDARY 749? a:", 749? a:
+"Q: Which number is bigger, 645 or 521? A:","['645', '521']",645,"UTT_BOUNDARY q: which number is bigger, 645 or 521? a:UTT_BOUNDARY 6453 and 5", 6453 and 5
+"Q: Which number is bigger, 538 or 732? A:","['538', '732']",732,"UTT_BOUNDARY q: which number is bigger, 538 or 732? a:UTT_BOUNDARY 732 and 642", 732 and 642
+"From the numbers 876 and 35, write the bigger number: ","['876', '35']",876,"UTT_BOUNDARY from the numbers 876 and 35, write the bigger number:UTT_BOUNDARY 876, which is"," 876, which is"
+"Q: Of the numbers 514 and 944, which is bigger? A:","['514', '944']",944,"UTT_BOUNDARY q: of the numbers 514 and 944, which is bigger? a:UTT_BOUNDARY 944 surname?", 944 surname?
+"Q: Of the numbers 444 and 901, which is bigger? A:","['444', '901']",901,"UTT_BOUNDARY q: of the numbers 444 and 901, which is bigger? a:UTT_BOUNDARY 901-h/", 901-h/
+"Q: Which number is bigger, 676 or 514? A:","['676', '514']",676,"UTT_BOUNDARY q: which number is bigger, 676 or 514? a:UTT_BOUNDARY 6762? a", 6762? a
+"Q: Of the numbers 954 and 358, which is bigger? A:","['954', '358']",954,"UTT_BOUNDARY q: of the numbers 954 and 358, which is bigger? a:UTT_BOUNDARY 954 506 and", 954 506 and
+"Q: Of the numbers 50 and 375, which is bigger? A:","['50', '375']",375,"UTT_BOUNDARY q: of the numbers 50 and 375, which is bigger? a:UTT_BOUNDARY 375 and 375", 375 and 375
+"Q: Which number is bigger, 437 or 280? A:","['437', '280']",437,"UTT_BOUNDARY q: which number is bigger, 437 or 280? a:UTT_BOUNDARY 410, which is"," 410, which is"
+"Q: Of the numbers 586 and 983, which is bigger? A:","['586', '983']",983,"UTT_BOUNDARY q: of the numbers 586 and 983, which is bigger? a:UTT_BOUNDARY 986t and 8", 986t and 8
+"From the numbers 455 and 45, write the bigger number: ","['455', '45']",455,"UTT_BOUNDARY from the numbers 455 and 45, write the bigger number:UTT_BOUNDARY 455 or 190,"," 455 or 190,"
+"Q: Which number is bigger, 902 or 427? A:","['902', '427']",902,"UTT_BOUNDARY q: which number is bigger, 902 or 427? a:UTT_BOUNDARY 904-905", 904-905
+"From the numbers 152 and 264, write the bigger number: ","['152', '264']",264,"UTT_BOUNDARY from the numbers 152 and 264, write the bigger number:UTT_BOUNDARY 264 :16 99", 264 :16 99
+"Q: Which number is bigger, 737 or 196? A:","['737', '196']",737,"UTT_BOUNDARY q: which number is bigger, 737 or 196? a:UTT_BOUNDARY 737 or 438", 737 or 438
+"Q: Which number is bigger, 374 or 859? A:","['374', '859']",859,"UTT_BOUNDARY q: which number is bigger, 374 or 859? a:UTT_BOUNDARY 859. 186 and", 859. 186 and
+"Q: Of the numbers 810 and 529, which is bigger? A:","['810', '529']",810,"UTT_BOUNDARY q: of the numbers 810 and 529, which is bigger? a:UTT_BOUNDARY 813. a:", 813. a:
+"Q: Of the numbers 484 and 603, which is bigger? A:","['484', '603']",603,"UTT_BOUNDARY q: of the numbers 484 and 603, which is bigger? a:UTT_BOUNDARY 603 or 660", 603 or 660
+"Q: Which number is bigger, 738 or 497? A:","['738', '497']",738,"UTT_BOUNDARY q: which number is bigger, 738 or 497? a:UTT_BOUNDARY 738? a:", 738? a:
+"From the numbers 620 and 766, write the bigger number: ","['620', '766']",766,"UTT_BOUNDARY from the numbers 620 and 766, write the bigger number:UTT_BOUNDARY 766 and 766", 766 and 766
+"Q: Of the numbers 74 and 439, which is bigger? A:","['74', '439']",439,"UTT_BOUNDARY q: of the numbers 74 and 439, which is bigger? a:UTT_BOUNDARY 439 and 438", 439 and 438
+"Q: Of the numbers 231 and 397, which is bigger? A:","['231', '397']",397,"UTT_BOUNDARY q: of the numbers 231 and 397, which is bigger? a:UTT_BOUNDARY 394/2176", 394/2176
+"From the numbers 260 and 36, write the bigger number: ","['260', '36']",260,"UTT_BOUNDARY from the numbers 260 and 36, write the bigger number:UTT_BOUNDARY 2691 or 37", 2691 or 37
+"From the numbers 42 and 936, write the bigger number: ","['42', '936']",936,"UTT_BOUNDARY from the numbers 42 and 936, write the bigger number:UTT_BOUNDARY 9363 and 6", 9363 and 6
+"Q: Which number is bigger, 467 or 552? A:","['467', '552']",552,"UTT_BOUNDARY q: which number is bigger, 467 or 552? a:UTT_BOUNDARY 552 agent. the", 552 agent. the
+"From the numbers 520 and 997, write the bigger number: ","['520', '997']",997,"UTT_BOUNDARY from the numbers 520 and 997, write the bigger number:UTT_BOUNDARY 997 and 547", 997 and 547
+"From the numbers 221 and 552, write the bigger number: ","['221', '552']",552,"UTT_BOUNDARY from the numbers 221 and 552, write the bigger number:UTT_BOUNDARY 552 is 982", 552 is 982
+"Q: Of the numbers 676 and 306, which is bigger? A:","['676', '306']",676,"UTT_BOUNDARY q: of the numbers 676 and 306, which is bigger? a:UTT_BOUNDARY 6762 is bigger", 6762 is bigger
+"Q: Of the numbers 402 and 670, which is bigger? A:","['402', '670']",670,"UTT_BOUNDARY q: of the numbers 402 and 670, which is bigger? a:UTT_BOUNDARY 6602 is bigger", 6602 is bigger
+"From the numbers 767 and 564, write the bigger number: ","['767', '564']",767,"UTT_BOUNDARY from the numbers 767 and 564, write the bigger number:UTT_BOUNDARY 764 or 260", 764 or 260
+"Q: Which number is bigger, 321 or 800? A:","['321', '800']",800,"UTT_BOUNDARY q: which number is bigger, 321 or 800? a:UTT_BOUNDARY 390? a:", 390? a:
+"Q: Which number is bigger, 654 or 144? A:","['654', '144']",654,"UTT_BOUNDARY q: which number is bigger, 654 or 144? a:UTT_BOUNDARY 651 or 627", 651 or 627
+"Q: Which number is bigger, 924 or 911? A:","['924', '911']",924,"UTT_BOUNDARY q: which number is bigger, 924 or 911? a:UTT_BOUNDARY 924 north of the", 924 north of the
+"Q: Which number is bigger, 309 or 466? A:","['309', '466']",466,"UTT_BOUNDARY q: which number is bigger, 309 or 466? a:UTT_BOUNDARY 466 and the 4", 466 and the 4
+"Q: Of the numbers 741 and 817, which is bigger? A:","['741', '817']",817,"UTT_BOUNDARY q: of the numbers 741 and 817, which is bigger? a:UTT_BOUNDARY 817 [on the", 817 [on the
+"From the numbers 917 and 705, write the bigger number: ","['917', '705']",917,"UTT_BOUNDARY from the numbers 917 and 705, write the bigger number:UTT_BOUNDARY 917 and 900", 917 and 900
+"Q: Of the numbers 138 and 300, which is bigger? A:","['138', '300']",300,"UTT_BOUNDARY q: of the numbers 138 and 300, which is bigger? a:UTT_BOUNDARY 300, which is bigger"," 300, which is bigger"
+"Q: Of the numbers 467 and 552, which is bigger? A:","['467', '552']",552,"UTT_BOUNDARY q: of the numbers 467 and 552, which is bigger? a:UTT_BOUNDARY 772. is the", 772. is the
+"Q: Which number is bigger, 124 or 940? A:","['124', '940']",940,"UTT_BOUNDARY q: which number is bigger, 124 or 940? a:UTT_BOUNDARY 940? a:", 940? a:
+"From the numbers 374 and 540, write the bigger number: ","['374', '540']",540,"UTT_BOUNDARY from the numbers 374 and 540, write the bigger number:UTT_BOUNDARY 528 and 535", 528 and 535
+"Q: Of the numbers 709 and 527, which is bigger? A:","['709', '527']",709,"UTT_BOUNDARY q: of the numbers 709 and 527, which is bigger? a:UTT_BOUNDARY 701-h/", 701-h/
+"Q: Which number is bigger, 74 or 948? A:","['74', '948']",948,"UTT_BOUNDARY q: which number is bigger, 74 or 948? a:UTT_BOUNDARY 948 or 648", 948 or 648
+"Q: Which number is bigger, 555 or 231? A:","['555', '231']",555,"UTT_BOUNDARY q: which number is bigger, 555 or 231? a:UTT_BOUNDARY 5472? a", 5472? a
+"From the numbers 636 and 826, write the bigger number: ","['636', '826']",826,"UTT_BOUNDARY from the numbers 636 and 826, write the bigger number:UTT_BOUNDARY 826? a:", 826? a:
+"Q: Of the numbers 355 and 817, which is bigger? A:","['355', '817']",817,"UTT_BOUNDARY q: of the numbers 355 and 817, which is bigger? a:UTT_BOUNDARY 811 and 818", 811 and 818
+"Q: Which number is bigger, 941 or 632? A:","['941', '632']",941,"UTT_BOUNDARY q: which number is bigger, 941 or 632? a:UTT_BOUNDARY 968 and 944", 968 and 944
+"Q: Of the numbers 403 and 386, which is bigger? A:","['403', '386']",403,"UTT_BOUNDARY q: of the numbers 403 and 386, which is bigger? a:UTT_BOUNDARY 383 or 263", 383 or 263
+"Q: Of the numbers 383 and 226, which is bigger? A:","['383', '226']",383,"UTT_BOUNDARY q: of the numbers 383 and 226, which is bigger? a:UTT_BOUNDARY 383 and 263", 383 and 263
+"From the numbers 863 and 860, write the bigger number: ","['863', '860']",863,"UTT_BOUNDARY from the numbers 863 and 860, write the bigger number:UTT_BOUNDARY 863 and 260", 863 and 260
+"Q: Which number is bigger, 751 or 410? A:","['751', '410']",751,"UTT_BOUNDARY q: which number is bigger, 751 or 410? a:UTT_BOUNDARY 754? a:", 754? a:
+"Q: Which number is bigger, 275 or 435? A:","['275', '435']",435,"UTT_BOUNDARY q: which number is bigger, 275 or 435? a:UTT_BOUNDARY 435 and 535", 435 and 535
+"Q: Of the numbers 26 and 783, which is bigger? A:","['26', '783']",783,"UTT_BOUNDARY q: of the numbers 26 and 783, which is bigger? a:UTT_BOUNDARY 783 or 263", 783 or 263
+"Q: Which number is bigger, 766 or 978? A:","['766', '978']",978,"UTT_BOUNDARY q: which number is bigger, 766 or 978? a:UTT_BOUNDARY 977 and 447", 977 and 447
+"Q: Of the numbers 774 and 926, which is bigger? A:","['774', '926']",926,"UTT_BOUNDARY q: of the numbers 774 and 926, which is bigger? a:UTT_BOUNDARY 926? a:", 926? a:
+"From the numbers 995 and 163, write the bigger number: ","['995', '163']",995,"UTT_BOUNDARY from the numbers 995 and 163, write the bigger number:UTT_BOUNDARY 995 and 510", 995 and 510
+"Q: Which number is bigger, 605 or 642? A:","['605', '642']",642,"UTT_BOUNDARY q: which number is bigger, 605 or 642? a:UTT_BOUNDARY 642 bc, 6"," 642 bc, 6"
+"From the numbers 296 and 185, write the bigger number: ","['296', '185']",296,"UTT_BOUNDARY from the numbers 296 and 185, write the bigger number:UTT_BOUNDARY 296. the numbers", 296. the numbers
+"Q: Which number is bigger, 632 or 260? A:","['632', '260']",632,"UTT_BOUNDARY q: which number is bigger, 632 or 260? a:UTT_BOUNDARY 632? a:", 632? a:
+"From the numbers 946 and 761, write the bigger number: ","['946', '761']",946,"UTT_BOUNDARY from the numbers 946 and 761, write the bigger number:UTT_BOUNDARY 946 surname:", 946 surname:
+"Q: Of the numbers 328 and 843, which is bigger? A:","['328', '843']",843,"UTT_BOUNDARY q: of the numbers 328 and 843, which is bigger? a:UTT_BOUNDARY 843? a:", 843? a:
+"Q: Which number is bigger, 508 or 249? A:","['508', '249']",508,"UTT_BOUNDARY q: which number is bigger, 508 or 249? a:UTT_BOUNDARY 508 or 650", 508 or 650
+"Q: Which number is bigger, 642 or 273? A:","['642', '273']",642,"UTT_BOUNDARY q: which number is bigger, 642 or 273? a:UTT_BOUNDARY 642 or 642", 642 or 642
+"Q: Of the numbers 260 and 749, which is bigger? A:","['260', '749']",749,"UTT_BOUNDARY q: of the numbers 260 and 749, which is bigger? a:UTT_BOUNDARY 749, which is"," 749, which is"
+"Q: Which number is bigger, 573 or 550? A:","['573', '550']",573,"UTT_BOUNDARY q: which number is bigger, 573 or 550? a:UTT_BOUNDARY 573 or 906", 573 or 906
+"Q: Which number is bigger, 390 or 587? A:","['390', '587']",587,"UTT_BOUNDARY q: which number is bigger, 390 or 587? a:UTT_BOUNDARY 567 and 548", 567 and 548
+"From the numbers 678 and 278, write the bigger number: ","['678', '278']",678,"UTT_BOUNDARY from the numbers 678 and 278, write the bigger number:UTT_BOUNDARY 6789 and 8", 6789 and 8
+"Q: Of the numbers 586 and 393, which is bigger? A:","['586', '393']",586,"UTT_BOUNDARY q: of the numbers 586 and 393, which is bigger? a:UTT_BOUNDARY 586] and the", 586] and the
+"Q: Of the numbers 721 and 829, which is bigger? A:","['721', '829']",829,"UTT_BOUNDARY q: of the numbers 721 and 829, which is bigger? a:UTT_BOUNDARY 813. it is", 813. it is
+"Q: Which number is bigger, 846 or 520? A:","['846', '520']",846,"UTT_BOUNDARY q: which number is bigger, 846 or 520? a:UTT_BOUNDARY 846? a:", 846? a:
+"Q: Of the numbers 284 and 388, which is bigger? A:","['284', '388']",388,"UTT_BOUNDARY q: of the numbers 284 and 388, which is bigger? a:UTT_BOUNDARY 385, which is"," 385, which is"
+"From the numbers 451 and 21, write the bigger number: ","['451', '21']",451,"UTT_BOUNDARY from the numbers 451 and 21, write the bigger number:UTT_BOUNDARY 451 or 269", 451 or 269
+"From the numbers 677 and 477, write the bigger number: ","['677', '477']",677,"UTT_BOUNDARY from the numbers 677 and 477, write the bigger number:UTT_BOUNDARY 777 and 847", 777 and 847
+"Q: Of the numbers 432 and 729, which is bigger? A:","['432', '729']",729,"UTT_BOUNDARY q: of the numbers 432 and 729, which is bigger? a:UTT_BOUNDARY 729 is bigger?", 729 is bigger?
+"From the numbers 366 and 277, write the bigger number: ","['366', '277']",366,"UTT_BOUNDARY from the numbers 366 and 277, write the bigger number:UTT_BOUNDARY 3684). the", 3684). the
+"From the numbers 629 and 512, write the bigger number: ","['629', '512']",629,"UTT_BOUNDARY from the numbers 629 and 512, write the bigger number:UTT_BOUNDARY 629 and 629", 629 and 629
+"From the numbers 97 and 393, write the bigger number: ","['97', '393']",393,"UTT_BOUNDARY from the numbers 97 and 393, write the bigger number:UTT_BOUNDARY 971 or 921", 971 or 921
+"Q: Of the numbers 986 and 619, which is bigger? A:","['986', '619']",986,"UTT_BOUNDARY q: of the numbers 986 and 619, which is bigger? a:UTT_BOUNDARY 986-119", 986-119
+"Q: Of the numbers 449 and 926, which is bigger? A:","['449', '926']",926,"UTT_BOUNDARY q: of the numbers 449 and 926, which is bigger? a:UTT_BOUNDARY 926. 494", 926. 494
+"Q: Which number is bigger, 913 or 350? A:","['913', '350']",913,"UTT_BOUNDARY q: which number is bigger, 913 or 350? a:UTT_BOUNDARY 950? a:", 950? a:
+"Q: Of the numbers 609 and 293, which is bigger? A:","['609', '293']",609,"UTT_BOUNDARY q: of the numbers 609 and 293, which is bigger? a:UTT_BOUNDARY 606 and 593", 606 and 593
+"Q: Which number is bigger, 415 or 253? A:","['415', '253']",415,"UTT_BOUNDARY q: which number is bigger, 415 or 253? a:UTT_BOUNDARY 423? a:", 423? a:
+"From the numbers 486 and 491, write the bigger number: ","['486', '491']",491,"UTT_BOUNDARY from the numbers 486 and 491, write the bigger number:UTT_BOUNDARY 491 or 971", 491 or 971
+"From the numbers 351 and 599, write the bigger number: ","['351', '599']",599,"UTT_BOUNDARY from the numbers 351 and 599, write the bigger number:UTT_BOUNDARY 599. the number", 599. the number
+"From the numbers 867 and 755, write the bigger number: ","['867', '755']",867,"UTT_BOUNDARY from the numbers 867 and 755, write the bigger number:UTT_BOUNDARY 867 and 494", 867 and 494
+"From the numbers 60 and 395, write the bigger number: ","['60', '395']",395,"UTT_BOUNDARY from the numbers 60 and 395, write the bigger number:UTT_BOUNDARY 395? a:", 395? a:
+"Q: Which number is bigger, 576 or 569? A:","['576', '569']",576,"UTT_BOUNDARY q: which number is bigger, 576 or 569? a:UTT_BOUNDARY 5762? a", 5762? a
+"Q: Of the numbers 854 and 342, which is bigger? A:","['854', '342']",854,"UTT_BOUNDARY q: of the numbers 854 and 342, which is bigger? a:UTT_BOUNDARY 852? a:", 852? a:
+"Q: Of the numbers 681 and 432, which is bigger? A:","['681', '432']",681,"UTT_BOUNDARY q: of the numbers 681 and 432, which is bigger? a:UTT_BOUNDARY 682 is bigger?", 682 is bigger?
+"From the numbers 940 and 164, write the bigger number: ","['940', '164']",940,"UTT_BOUNDARY from the numbers 940 and 164, write the bigger number:UTT_BOUNDARY 929 and 646", 929 and 646
+"Q: Which number is bigger, 114 or 83? A:","['114', '83']",114,"UTT_BOUNDARY q: which number is bigger, 114 or 83? a:UTT_BOUNDARY 3282? a", 3282? a
+"Q: Of the numbers 190 and 939, which is bigger? A:","['190', '939']",939,"UTT_BOUNDARY q: of the numbers 190 and 939, which is bigger? a:UTT_BOUNDARY 939 and 919", 939 and 919
+"Q: Of the numbers 351 and 948, which is bigger? A:","['351', '948']",948,"UTT_BOUNDARY q: of the numbers 351 and 948, which is bigger? a:UTT_BOUNDARY 948 census area is", 948 census area is
+"From the numbers 74 and 866, write the bigger number: ","['74', '866']",866,"UTT_BOUNDARY from the numbers 74 and 866, write the bigger number:UTT_BOUNDARY 866 and 847", 866 and 847
+"Q: Of the numbers 767 and 564, which is bigger? A:","['767', '564']",767,"UTT_BOUNDARY q: of the numbers 767 and 564, which is bigger? a:UTT_BOUNDARY 769 and 946", 769 and 946
+"Q: Which number is bigger, 395 or 119? A:","['395', '119']",395,"UTT_BOUNDARY q: which number is bigger, 395 or 119? a:UTT_BOUNDARY 395? a:", 395? a:
+"Q: Which number is bigger, 830 or 419? A:","['830', '419']",830,"UTT_BOUNDARY q: which number is bigger, 830 or 419? a:UTT_BOUNDARY 810? a:", 810? a:
+"Q: Of the numbers 838 and 696, which is bigger? A:","['838', '696']",838,"UTT_BOUNDARY q: of the numbers 838 and 696, which is bigger? a:UTT_BOUNDARY 838? a:", 838? a:
+"Q: Which number is bigger, 308 or 97? A:","['308', '97']",308,"UTT_BOUNDARY q: which number is bigger, 308 or 97? a:UTT_BOUNDARY 977. it is", 977. it is
+"Q: Which number is bigger, 529 or 813? A:","['529', '813']",813,"UTT_BOUNDARY q: which number is bigger, 529 or 813? a:UTT_BOUNDARY 829? a:", 829? a:
+"Q: Which number is bigger, 736 or 243? A:","['736', '243']",736,"UTT_BOUNDARY q: which number is bigger, 736 or 243? a:UTT_BOUNDARY 736 or 480", 736 or 480
+"Q: Which number is bigger, 891 or 777? A:","['891', '777']",891,"UTT_BOUNDARY q: which number is bigger, 891 or 777? a:UTT_BOUNDARY 891 agent and 8", 891 agent and 8
+"Q: Of the numbers 679 and 400, which is bigger? A:","['679', '400']",679,"UTT_BOUNDARY q: of the numbers 679 and 400, which is bigger? a:UTT_BOUNDARY 6799e and", 6799e and
+"Q: Which number is bigger, 946 or 761? A:","['946', '761']",946,"UTT_BOUNDARY q: which number is bigger, 946 or 761? a:UTT_BOUNDARY 946? a:", 946? a:
+"From the numbers 116 and 934, write the bigger number: ","['116', '934']",934,"UTT_BOUNDARY from the numbers 116 and 934, write the bigger number:UTT_BOUNDARY 934 or 260", 934 or 260
+"Q: Which number is bigger, 137 or 442? A:","['137', '442']",442,"UTT_BOUNDARY q: which number is bigger, 137 or 442? a:UTT_BOUNDARY 592? a:", 592? a:
+"Q: Which number is bigger, 249 or 39? A:","['249', '39']",249,"UTT_BOUNDARY q: which number is bigger, 249 or 39? a:UTT_BOUNDARY 394-169", 394-169
+"From the numbers 157 and 134, write the bigger number: ","['157', '134']",157,"UTT_BOUNDARY from the numbers 157 and 134, write the bigger number:UTT_BOUNDARY 1664). the", 1664). the
+"From the numbers 65 and 601, write the bigger number: ","['65', '601']",601,"UTT_BOUNDARY from the numbers 65 and 601, write the bigger number:UTT_BOUNDARY 601 or 800,"," 601 or 800,"
+"Q: Of the numbers 448 and 653, which is bigger? A:","['448', '653']",653,"UTT_BOUNDARY q: of the numbers 448 and 653, which is bigger? a:UTT_BOUNDARY 673-903", 673-903
+"Q: Of the numbers 608 and 524, which is bigger? A:","['608', '524']",608,"UTT_BOUNDARY q: of the numbers 608 and 524, which is bigger? a:UTT_BOUNDARY 608 and 243", 608 and 243
+"Q: Of the numbers 948 and 547, which is bigger? A:","['948', '547']",948,"UTT_BOUNDARY q: of the numbers 948 and 547, which is bigger? a:UTT_BOUNDARY 948 surname?", 948 surname?
+"From the numbers 940 and 508, write the bigger number: ","['940', '508']",940,"UTT_BOUNDARY from the numbers 940 and 508, write the bigger number:UTT_BOUNDARY 900, which is"," 900, which is"
+"Q: Which number is bigger, 206 or 817? A:","['206', '817']",817,"UTT_BOUNDARY q: which number is bigger, 206 or 817? a:UTT_BOUNDARY 817? a:", 817? a:
+"From the numbers 278 and 585, write the bigger number: ","['278', '585']",585,"UTT_BOUNDARY from the numbers 278 and 585, write the bigger number:UTT_BOUNDARY 5884, which"," 5884, which"
+"From the numbers 533 and 486, write the bigger number: ","['533', '486']",533,"UTT_BOUNDARY from the numbers 533 and 486, write the bigger number:UTT_BOUNDARY 547 and also an", 547 and also an
+"Q: Which number is bigger, 195 or 72? A:","['195', '72']",195,"UTT_BOUNDARY q: which number is bigger, 195 or 72? a:UTT_BOUNDARY 689 or 627", 689 or 627
+"Q: Which number is bigger, 257 or 606? A:","['257', '606']",606,"UTT_BOUNDARY q: which number is bigger, 257 or 606? a:UTT_BOUNDARY 606? a:", 606? a:
+"Q: Of the numbers 260 and 36, which is bigger? A:","['260', '36']",260,"UTT_BOUNDARY q: of the numbers 260 and 36, which is bigger? a:UTT_BOUNDARY 3691 or 9", 3691 or 9
+"Q: Which number is bigger, 116 or 570? A:","['116', '570']",570,"UTT_BOUNDARY q: which number is bigger, 116 or 570? a:UTT_BOUNDARY 570? a:", 570? a:
+"Q: Of the numbers 457 and 74, which is bigger? A:","['457', '74']",457,"UTT_BOUNDARY q: of the numbers 457 and 74, which is bigger? a:UTT_BOUNDARY 4697 (cal", 4697 (cal
+"From the numbers 597 and 105, write the bigger number: ","['597', '105']",597,"UTT_BOUNDARY from the numbers 597 and 105, write the bigger number:UTT_BOUNDARY 595 or 493", 595 or 493
+"Q: Which number is bigger, 998 or 763? A:","['998', '763']",998,"UTT_BOUNDARY q: which number is bigger, 998 or 763? a:UTT_BOUNDARY 997 and 447", 997 and 447
+"Q: Of the numbers 571 and 73, which is bigger? A:","['571', '73']",571,"UTT_BOUNDARY q: of the numbers 571 and 73, which is bigger? a:UTT_BOUNDARY 732 is 981", 732 is 981
+"Q: Of the numbers 451 and 173, which is bigger? A:","['451', '173']",451,"UTT_BOUNDARY q: of the numbers 451 and 173, which is bigger? a:UTT_BOUNDARY 451e transmission of", 451e transmission of
+"Q: Of the numbers 538 and 370, which is bigger? A:","['538', '370']",538,"UTT_BOUNDARY q: of the numbers 538 and 370, which is bigger? a:UTT_BOUNDARY 538-bret", 538-bret
+"Q: Which number is bigger, 460 or 272? A:","['460', '272']",460,"UTT_BOUNDARY q: which number is bigger, 460 or 272? a:UTT_BOUNDARY 460? a:", 460? a:
+"Q: Which number is bigger, 610 or 890? A:","['610', '890']",890,"UTT_BOUNDARY q: which number is bigger, 610 or 890? a:UTT_BOUNDARY 840 or 640", 840 or 640
+"Q: Of the numbers 450 and 986, which is bigger? A:","['450', '986']",986,"UTT_BOUNDARY q: of the numbers 450 and 986, which is bigger? a:UTT_BOUNDARY 986 and 548", 986 and 548
+"Q: Which number is bigger, 966 or 846? A:","['966', '846']",966,"UTT_BOUNDARY q: which number is bigger, 966 or 846? a:UTT_BOUNDARY 926? a:", 926? a:
+"From the numbers 129 and 526, write the bigger number: ","['129', '526']",526,"UTT_BOUNDARY from the numbers 129 and 526, write the bigger number:UTT_BOUNDARY 526. 568", 526. 568
+"Q: Of the numbers 114 and 83, which is bigger? A:","['114', '83']",114,"UTT_BOUNDARY q: of the numbers 114 and 83, which is bigger? a:UTT_BOUNDARY 564/65", 564/65
+"From the numbers 586 and 701, write the bigger number: ","['586', '701']",701,"UTT_BOUNDARY from the numbers 586 and 701, write the bigger number:UTT_BOUNDARY 701 or 946", 701 or 946
+"Q: Which number is bigger, 909 or 859? A:","['909', '859']",909,"UTT_BOUNDARY q: which number is bigger, 909 or 859? a:UTT_BOUNDARY 9097-h", 9097-h
+"From the numbers 697 and 972, write the bigger number: ","['697', '972']",972,"UTT_BOUNDARY from the numbers 697 and 972, write the bigger number:UTT_BOUNDARY 972 is 982", 972 is 982
+"Q: Of the numbers 885 and 558, which is bigger? A:","['885', '558']",885,"UTT_BOUNDARY q: of the numbers 885 and 558, which is bigger? a:UTT_BOUNDARY 885 and 410", 885 and 410
+"Q: Of the numbers 78 and 38, which is bigger? A:","['78', '38']",78,"UTT_BOUNDARY q: of the numbers 78 and 38, which is bigger? a:UTT_BOUNDARY 786-180", 786-180
+"Q: Of the numbers 913 and 350, which is bigger? A:","['913', '350']",913,"UTT_BOUNDARY q: of the numbers 913 and 350, which is bigger? a:UTT_BOUNDARY 950 dyer made", 950 dyer made
+"Q: Which number is bigger, 748 or 964? A:","['748', '964']",964,"UTT_BOUNDARY q: which number is bigger, 748 or 964? a:UTT_BOUNDARY 964-h.", 964-h.
+"From the numbers 587 and 942, write the bigger number: ","['587', '942']",942,"UTT_BOUNDARY from the numbers 587 and 942, write the bigger number:UTT_BOUNDARY 942 or 944", 942 or 944
+"From the numbers 957 and 676, write the bigger number: ","['957', '676']",957,"UTT_BOUNDARY from the numbers 957 and 676, write the bigger number:UTT_BOUNDARY 957 and 846", 957 and 846
+"Q: Of the numbers 187 and 945, which is bigger? A:","['187', '945']",945,"UTT_BOUNDARY q: of the numbers 187 and 945, which is bigger? a:UTT_BOUNDARY 924 north of the", 924 north of the
+"Q: Of the numbers 269 and 827, which is bigger? A:","['269', '827']",827,"UTT_BOUNDARY q: of the numbers 269 and 827, which is bigger? a:UTT_BOUNDARY 827 street. a", 827 street. a
+"Q: Which number is bigger, 490 or 274? A:","['490', '274']",490,"UTT_BOUNDARY q: which number is bigger, 490 or 274? a:UTT_BOUNDARY 490 to 476", 490 to 476
+"From the numbers 749 and 441, write the bigger number: ","['749', '441']",749,"UTT_BOUNDARY from the numbers 749 and 441, write the bigger number:UTT_BOUNDARY 749 and 410", 749 and 410
+"From the numbers 853 and 251, write the bigger number: ","['853', '251']",853,"UTT_BOUNDARY from the numbers 853 and 251, write the bigger number:UTT_BOUNDARY 853i, which"," 853i, which"
+"From the numbers 848 and 981, write the bigger number: ","['848', '981']",981,"UTT_BOUNDARY from the numbers 848 and 981, write the bigger number:UTT_BOUNDARY 981 or 946", 981 or 946
+"Q: Which number is bigger, 463 or 654? A:","['463', '654']",654,"UTT_BOUNDARY q: which number is bigger, 463 or 654? a:UTT_BOUNDARY 653 or 646", 653 or 646
+"Q: Of the numbers 994 and 624, which is bigger? A:","['994', '624']",994,"UTT_BOUNDARY q: of the numbers 994 and 624, which is bigger? a:UTT_BOUNDARY 994 or 627", 994 or 627
+"Q: Of the numbers 268 and 441, which is bigger? A:","['268', '441']",441,"UTT_BOUNDARY q: of the numbers 268 and 441, which is bigger? a:UTT_BOUNDARY 441 or 374", 441 or 374
+"Q: Of the numbers 670 and 982, which is bigger? A:","['670', '982']",982,"UTT_BOUNDARY q: of the numbers 670 and 982, which is bigger? a:UTT_BOUNDARY 982 is bigger?", 982 is bigger?
+"Q: Of the numbers 307 and 594, which is bigger? A:","['307', '594']",594,"UTT_BOUNDARY q: of the numbers 307 and 594, which is bigger? a:UTT_BOUNDARY 594/89", 594/89
+"From the numbers 946 and 228, write the bigger number: ","['946', '228']",946,"UTT_BOUNDARY from the numbers 946 and 228, write the bigger number:UTT_BOUNDARY 946? a:", 946? a:
+"From the numbers 114 and 775, write the bigger number: ","['114', '775']",775,"UTT_BOUNDARY from the numbers 114 and 775, write the bigger number:UTT_BOUNDARY 775 is bigger?", 775 is bigger?
+"Q: Of the numbers 888 and 15, which is bigger? A:","['888', '15']",888,"UTT_BOUNDARY q: of the numbers 888 and 15, which is bigger? a:UTT_BOUNDARY 888 and 248", 888 and 248
+"From the numbers 651 and 142, write the bigger number: ","['651', '142']",651,"UTT_BOUNDARY from the numbers 651 and 142, write the bigger number:UTT_BOUNDARY 651 and 269", 651 and 269
+"Q: Of the numbers 675 and 246, which is bigger? A:","['675', '246']",675,"UTT_BOUNDARY q: of the numbers 675 and 246, which is bigger? a:UTT_BOUNDARY 675 and 775", 675 and 775
+"From the numbers 734 and 428, write the bigger number: ","['734', '428']",734,"UTT_BOUNDARY from the numbers 734 and 428, write the bigger number:UTT_BOUNDARY 734. a:", 734. a:
+"Q: Which number is bigger, 604 or 446? A:","['604', '446']",604,"UTT_BOUNDARY q: which number is bigger, 604 or 446? a:UTT_BOUNDARY 605 or 660", 605 or 660
+"Q: Of the numbers 835 and 52, which is bigger? A:","['835', '52']",835,"UTT_BOUNDARY q: of the numbers 835 and 52, which is bigger? a:UTT_BOUNDARY 813, which is"," 813, which is"
+"From the numbers 274 and 565, write the bigger number: ","['274', '565']",565,"UTT_BOUNDARY from the numbers 274 and 565, write the bigger number:UTT_BOUNDARY 569 and 986", 569 and 986
+"Q: Which number is bigger, 143 or 248? A:","['143', '248']",248,"UTT_BOUNDARY q: which number is bigger, 143 or 248? a:UTT_BOUNDARY 368 or 680", 368 or 680
+"Q: Of the numbers 893 and 793, which is bigger? A:","['893', '793']",893,"UTT_BOUNDARY q: of the numbers 893 and 793, which is bigger? a:UTT_BOUNDARY 893 or 269", 893 or 269
+"From the numbers 952 and 257, write the bigger number: ","['952', '257']",952,"UTT_BOUNDARY from the numbers 952 and 257, write the bigger number:UTT_BOUNDARY 952 is 982", 952 is 982
+"Q: Which number is bigger, 63 or 378? A:","['63', '378']",378,"UTT_BOUNDARY q: which number is bigger, 63 or 378? a:UTT_BOUNDARY 374? a:", 374? a:
+"Q: Of the numbers 143 and 248, which is bigger? A:","['143', '248']",248,"UTT_BOUNDARY q: of the numbers 143 and 248, which is bigger? a:UTT_BOUNDARY 3684 or 37", 3684 or 37
+"Q: Which number is bigger, 496 or 558? A:","['496', '558']",558,"UTT_BOUNDARY q: which number is bigger, 496 or 558? a:UTT_BOUNDARY 888 and 498", 888 and 498
+"Q: Of the numbers 829 and 138, which is bigger? A:","['829', '138']",829,"UTT_BOUNDARY q: of the numbers 829 and 138, which is bigger? a:UTT_BOUNDARY 829. 647", 829. 647
+"From the numbers 986 and 464, write the bigger number: ","['986', '464']",986,"UTT_BOUNDARY from the numbers 986 and 464, write the bigger number:UTT_BOUNDARY 986 and 376", 986 and 376
+"Q: Which number is bigger, 198 or 894? A:","['198', '894']",894,"UTT_BOUNDARY q: which number is bigger, 198 or 894? a:UTT_BOUNDARY 894 506?", 894 506?
+"From the numbers 355 and 817, write the bigger number: ","['355', '817']",817,"UTT_BOUNDARY from the numbers 355 and 817, write the bigger number:UTT_BOUNDARY 811 and 918", 811 and 918
+"From the numbers 912 and 28, write the bigger number: ","['912', '28']",912,"UTT_BOUNDARY from the numbers 912 and 28, write the bigger number:UTT_BOUNDARY 921, which is"," 921, which is"
+"Q: Which number is bigger, 389 or 611? A:","['389', '611']",611,"UTT_BOUNDARY q: which number is bigger, 389 or 611? a:UTT_BOUNDARY 611 or 629", 611 or 629
+"From the numbers 571 and 31, write the bigger number: ","['571', '31']",571,"UTT_BOUNDARY from the numbers 571 and 31, write the bigger number:UTT_BOUNDARY 309, which is"," 309, which is"
+"Q: Which number is bigger, 546 or 350? A:","['546', '350']",546,"UTT_BOUNDARY q: which number is bigger, 546 or 350? a:UTT_BOUNDARY 548? a:", 548? a:
+"From the numbers 703 and 290, write the bigger number: ","['703', '290']",703,"UTT_BOUNDARY from the numbers 703 and 290, write the bigger number:UTT_BOUNDARY 703 and 260", 703 and 260
+"Q: Of the numbers 260 and 553, which is bigger? A:","['260', '553']",553,"UTT_BOUNDARY q: of the numbers 260 and 553, which is bigger? a:UTT_BOUNDARY 553 and 260", 553 and 260
+"From the numbers 411 and 389, write the bigger number: ","['411', '389']",411,"UTT_BOUNDARY from the numbers 411 and 389, write the bigger number:UTT_BOUNDARY 410, which is"," 410, which is"
+"From the numbers 891 and 359, write the bigger number: ","['891', '359']",891,"UTT_BOUNDARY from the numbers 891 and 359, write the bigger number:UTT_BOUNDARY 891, which is"," 891, which is"
+"Q: Of the numbers 96 and 402, which is bigger? A:","['96', '402']",402,"UTT_BOUNDARY q: of the numbers 96 and 402, which is bigger? a:UTT_BOUNDARY 402-902", 402-902
+"Q: Which number is bigger, 867 or 756? A:","['867', '756']",867,"UTT_BOUNDARY q: which number is bigger, 867 or 756? a:UTT_BOUNDARY 867 or 667", 867 or 667
+"Q: Which number is bigger, 464 or 941? A:","['464', '941']",941,"UTT_BOUNDARY q: which number is bigger, 464 or 941? a:UTT_BOUNDARY 935 and 535", 935 and 535
+"Q: Which number is bigger, 607 or 773? A:","['607', '773']",773,"UTT_BOUNDARY q: which number is bigger, 607 or 773? a:UTT_BOUNDARY 773 or 646", 773 or 646
+"Q: Of the numbers 161 and 759, which is bigger? A:","['161', '759']",759,"UTT_BOUNDARY q: of the numbers 161 and 759, which is bigger? a:UTT_BOUNDARY 759e/50", 759e/50
+"Q: Of the numbers 595 and 495, which is bigger? A:","['595', '495']",595,"UTT_BOUNDARY q: of the numbers 595 and 495, which is bigger? a:UTT_BOUNDARY 595 and 495", 595 and 495
+"Q: Of the numbers 741 and 816, which is bigger? A:","['741', '816']",816,"UTT_BOUNDARY q: of the numbers 741 and 816, which is bigger? a:UTT_BOUNDARY 8111 and 8", 8111 and 8
+"From the numbers 179 and 643, write the bigger number: ","['179', '643']",643,"UTT_BOUNDARY from the numbers 179 and 643, write the bigger number:UTT_BOUNDARY 675, which is"," 675, which is"
+"Q: Which number is bigger, 845 or 981? A:","['845', '981']",981,"UTT_BOUNDARY q: which number is bigger, 845 or 981? a:UTT_BOUNDARY 981 or 646", 981 or 646
+"Q: Which number is bigger, 678 or 278? A:","['678', '278']",678,"UTT_BOUNDARY q: which number is bigger, 678 or 278? a:UTT_BOUNDARY 678 and 118", 678 and 118
+"Q: Of the numbers 137 and 538, which is bigger? A:","['137', '538']",538,"UTT_BOUNDARY q: of the numbers 137 and 538, which is bigger? a:UTT_BOUNDARY 538? a:", 538? a:
+"Q: Of the numbers 92 and 617, which is bigger? A:","['92', '617']",617,"UTT_BOUNDARY q: of the numbers 92 and 617, which is bigger? a:UTT_BOUNDARY 6179 or 6", 6179 or 6
+"Q: Which number is bigger, 158 or 292? A:","['158', '292']",292,"UTT_BOUNDARY q: which number is bigger, 158 or 292? a:UTT_BOUNDARY 296, which is"," 296, which is"
+"Q: Of the numbers 864 and 530, which is bigger? A:","['864', '530']",864,"UTT_BOUNDARY q: of the numbers 864 and 530, which is bigger? a:UTT_BOUNDARY 864208t", 864208t
+"Q: Of the numbers 982 and 26, which is bigger? A:","['982', '26']",982,"UTT_BOUNDARY q: of the numbers 982 and 26, which is bigger? a:UTT_BOUNDARY 982 and 675", 982 and 675
+"Q: Of the numbers 153 and 406, which is bigger? A:","['153', '406']",406,"UTT_BOUNDARY q: of the numbers 153 and 406, which is bigger? a:UTT_BOUNDARY 406 and 526", 406 and 526
+"Q: Which number is bigger, 212 or 858? A:","['212', '858']",858,"UTT_BOUNDARY q: which number is bigger, 212 or 858? a:UTT_BOUNDARY 859-379", 859-379
+"Q: Of the numbers 455 and 45, which is bigger? A:","['455', '45']",455,"UTT_BOUNDARY q: of the numbers 455 and 45, which is bigger? a:UTT_BOUNDARY 454 than 606", 454 than 606
+"Q: Which number is bigger, 773 or 142? A:","['773', '142']",773,"UTT_BOUNDARY q: which number is bigger, 773 or 142? a:UTT_BOUNDARY 773 or 646", 773 or 646
+"From the numbers 942 and 736, write the bigger number: ","['942', '736']",942,"UTT_BOUNDARY from the numbers 942 and 736, write the bigger number:UTT_BOUNDARY 942 or 646", 942 or 646
+"Q: Which number is bigger, 480 or 93? A:","['480', '93']",480,"UTT_BOUNDARY q: which number is bigger, 480 or 93? a:UTT_BOUNDARY 480. the name", 480. the name
+"Q: Which number is bigger, 795 or 75? A:","['795', '75']",795,"UTT_BOUNDARY q: which number is bigger, 795 or 75? a:UTT_BOUNDARY 797 and 190,"," 797 and 190,"
+"Q: Which number is bigger, 196 or 694? A:","['196', '694']",694,"UTT_BOUNDARY q: which number is bigger, 196 or 694? a:UTT_BOUNDARY 694? a:", 694? a:
+"From the numbers 953 and 229, write the bigger number: ","['953', '229']",953,"UTT_BOUNDARY from the numbers 953 and 229, write the bigger number:UTT_BOUNDARY 953 and 269", 953 and 269
+"Q: Of the numbers 676 and 514, which is bigger? A:","['676', '514']",676,"UTT_BOUNDARY q: of the numbers 676 and 514, which is bigger? a:UTT_BOUNDARY 6762 and 7", 6762 and 7
+"Q: Which number is bigger, 355 or 723? A:","['355', '723']",723,"UTT_BOUNDARY q: which number is bigger, 355 or 723? a:UTT_BOUNDARY 723? a:", 723? a:
+"Q: Which number is bigger, 188 or 872? A:","['188', '872']",872,"UTT_BOUNDARY q: which number is bigger, 188 or 872? a:UTT_BOUNDARY 879 q: which", 879 q: which
+"Q: Of the numbers 645 and 521, which is bigger? A:","['645', '521']",645,"UTT_BOUNDARY q: of the numbers 645 and 521, which is bigger? a:UTT_BOUNDARY 645 or 646", 645 or 646
+"From the numbers 707 and 884, write the bigger number: ","['707', '884']",884,"UTT_BOUNDARY from the numbers 707 and 884, write the bigger number:UTT_BOUNDARY 884 and 936", 884 and 936
+"Q: Of the numbers 473 and 152, which is bigger? A:","['473', '152']",473,"UTT_BOUNDARY q: of the numbers 473 and 152, which is bigger? a:UTT_BOUNDARY 473 or 260", 473 or 260
+"Q: Of the numbers 766 and 847, which is bigger? A:","['766', '847']",847,"UTT_BOUNDARY q: of the numbers 766 and 847, which is bigger? a:UTT_BOUNDARY 847, which is"," 847, which is"
+"Q: Of the numbers 702 and 80, which is bigger? A:","['702', '80']",702,"UTT_BOUNDARY q: of the numbers 702 and 80, which is bigger? a:UTT_BOUNDARY 802? a:", 802? a:
+"From the numbers 25 and 343, write the bigger number: ","['25', '343']",343,"UTT_BOUNDARY from the numbers 25 and 343, write the bigger number:UTT_BOUNDARY 263 is 269", 263 is 269
+"Q: Of the numbers 994 and 361, which is bigger? A:","['994', '361']",994,"UTT_BOUNDARY q: of the numbers 994 and 361, which is bigger? a:UTT_BOUNDARY 994-475", 994-475
+"Q: Which number is bigger, 343 or 351? A:","['343', '351']",351,"UTT_BOUNDARY q: which number is bigger, 343 or 351? a:UTT_BOUNDARY 351 or 646", 351 or 646
+"Q: Which number is bigger, 852 or 58? A:","['852', '58']",852,"UTT_BOUNDARY q: which number is bigger, 852 or 58? a:UTT_BOUNDARY 852? a:", 852? a:
+"Q: Which number is bigger, 723 or 488? A:","['723', '488']",723,"UTT_BOUNDARY q: which number is bigger, 723 or 488? a:UTT_BOUNDARY 721 or 623", 721 or 623
+"From the numbers 809 and 605, write the bigger number: ","['809', '605']",809,"UTT_BOUNDARY from the numbers 809 and 605, write the bigger number:UTT_BOUNDARY 809 or 986", 809 or 986
+"Q: Which number is bigger, 320 or 52? A:","['320', '52']",320,"UTT_BOUNDARY q: which number is bigger, 320 or 52? a:UTT_BOUNDARY 320, 320"," 320, 320"
+"From the numbers 374 and 390, write the bigger number: ","['374', '390']",390,"UTT_BOUNDARY from the numbers 374 and 390, write the bigger number:UTT_BOUNDARY 390 or 986", 390 or 986
+"Q: Of the numbers 839 and 879, which is bigger? A:","['839', '879']",879,"UTT_BOUNDARY q: of the numbers 839 and 879, which is bigger? a:UTT_BOUNDARY 879 and 494", 879 and 494
+"From the numbers 283 and 160, write the bigger number: ","['283', '160']",283,"UTT_BOUNDARY from the numbers 283 and 160, write the bigger number:UTT_BOUNDARY 283; start from", 283; start from
+"From the numbers 158 and 816, write the bigger number: ","['158', '816']",816,"UTT_BOUNDARY from the numbers 158 and 816, write the bigger number:UTT_BOUNDARY 816, which is"," 816, which is"
+"Q: Of the numbers 589 and 247, which is bigger? A:","['589', '247']",589,"UTT_BOUNDARY q: of the numbers 589 and 247, which is bigger? a:UTT_BOUNDARY 5869 or 6", 5869 or 6
+"Q: Which number is bigger, 803 or 137? A:","['803', '137']",803,"UTT_BOUNDARY q: which number is bigger, 803 or 137? a:UTT_BOUNDARY 803 or 260", 803 or 260
+"From the numbers 187 and 945, write the bigger number: ","['187', '945']",945,"UTT_BOUNDARY from the numbers 187 and 945, write the bigger number:UTT_BOUNDARY 990 and 690", 990 and 690
+"Q: Which number is bigger, 192 or 827? A:","['192', '827']",827,"UTT_BOUNDARY q: which number is bigger, 192 or 827? a:UTT_BOUNDARY 827? a:", 827? a:
+"From the numbers 619 and 150, write the bigger number: ","['619', '150']",619,"UTT_BOUNDARY from the numbers 619 and 150, write the bigger number:UTT_BOUNDARY 619 or 181", 619 or 181
+"Q: Of the numbers 197 and 95, which is bigger? A:","['197', '95']",197,"UTT_BOUNDARY q: of the numbers 197 and 95, which is bigger? a:UTT_BOUNDARY 957-h.", 957-h.
+"Q: Which number is bigger, 360 or 601? A:","['360', '601']",601,"UTT_BOUNDARY q: which number is bigger, 360 or 601? a:UTT_BOUNDARY 602 is a 48", 602 is a 48
+"Q: Of the numbers 162 and 737, which is bigger? A:","['162', '737']",737,"UTT_BOUNDARY q: of the numbers 162 and 737, which is bigger? a:UTT_BOUNDARY 737 or 436", 737 or 436
+"Q: Which number is bigger, 949 or 578? A:","['949', '578']",949,"UTT_BOUNDARY q: which number is bigger, 949 or 578? a:UTT_BOUNDARY 926 or 646", 926 or 646
+"Q: Which number is bigger, 899 or 100? A:","['899', '100']",899,"UTT_BOUNDARY q: which number is bigger, 899 or 100? a:UTT_BOUNDARY 899. 647", 899. 647
+"Q: Of the numbers 704 and 893, which is bigger? A:","['704', '893']",893,"UTT_BOUNDARY q: of the numbers 704 and 893, which is bigger? a:UTT_BOUNDARY 894. it is", 894. it is
+"Q: Of the numbers 124 and 977, which is bigger? A:","['124', '977']",977,"UTT_BOUNDARY q: of the numbers 124 and 977, which is bigger? a:UTT_BOUNDARY 977 and 847", 977 and 847
+"Q: Which number is bigger, 928 or 160? A:","['928', '160']",928,"UTT_BOUNDARY q: which number is bigger, 928 or 160? a:UTT_BOUNDARY 918 and 518", 918 and 518
+"Q: Of the numbers 58 and 451, which is bigger? A:","['58', '451']",451,"UTT_BOUNDARY q: of the numbers 58 and 451, which is bigger? a:UTT_BOUNDARY 451 or 111", 451 or 111
+"Q: Which number is bigger, 532 or 756? A:","['532', '756']",756,"UTT_BOUNDARY q: which number is bigger, 532 or 756? a:UTT_BOUNDARY 756? a:", 756? a:
+"Q: Which number is bigger, 127 or 76? A:","['127', '76']",127,"UTT_BOUNDARY q: which number is bigger, 127 or 76? a:UTT_BOUNDARY 551? a:", 551? a:
+"From the numbers 663 and 15, write the bigger number: ","['663', '15']",663,"UTT_BOUNDARY from the numbers 663 and 15, write the bigger number:UTT_BOUNDARY 669179,"," 669179,"
+"Q: Of the numbers 876 and 35, which is bigger? A:","['876', '35']",876,"UTT_BOUNDARY q: of the numbers 876 and 35, which is bigger? a:UTT_BOUNDARY 876 is bigger?", 876 is bigger?
+"Q: Of the numbers 654 and 144, which is bigger? A:","['654', '144']",654,"UTT_BOUNDARY q: of the numbers 654 and 144, which is bigger? a:UTT_BOUNDARY 654 or 675", 654 or 675
+"Q: Which number is bigger, 157 or 694? A:","['157', '694']",694,"UTT_BOUNDARY q: which number is bigger, 157 or 694? a:UTT_BOUNDARY 696 or 148", 696 or 148
+"Q: Which number is bigger, 300 or 197? A:","['300', '197']",300,"UTT_BOUNDARY q: which number is bigger, 300 or 197? a:UTT_BOUNDARY 300? a:UTT_BOUNDARY", 300? a:
+"Q: Which number is bigger, 456 or 811? A:","['456', '811']",811,"UTT_BOUNDARY q: which number is bigger, 456 or 811? a:UTT_BOUNDARY 811? a:", 811? a:
+"Q: Which number is bigger, 209 or 619? A:","['209', '619']",619,"UTT_BOUNDARY q: which number is bigger, 209 or 619? a:UTT_BOUNDARY 619 or 181", 619 or 181
+"Q: Which number is bigger, 433 or 56? A:","['433', '56']",433,"UTT_BOUNDARY q: which number is bigger, 433 or 56? a:UTT_BOUNDARY 433 and 535", 433 and 535
+"Q: Which number is bigger, 250 or 167? A:","['250', '167']",250,"UTT_BOUNDARY q: which number is bigger, 250 or 167? a:UTT_BOUNDARY 1677 or 14", 1677 or 14
+"From the numbers 893 and 793, write the bigger number: ","['893', '793']",893,"UTT_BOUNDARY from the numbers 893 and 793, write the bigger number:UTT_BOUNDARY 893 and 269", 893 and 269
+"Q: Which number is bigger, 265 or 65? A:","['265', '65']",265,"UTT_BOUNDARY q: which number is bigger, 265 or 65? a:UTT_BOUNDARY 264/69", 264/69
+"From the numbers 712 and 234, write the bigger number: ","['712', '234']",712,"UTT_BOUNDARY from the numbers 712 and 234, write the bigger number:UTT_BOUNDARY 721 or 621", 721 or 621
+"Q: Of the numbers 538 and 732, which is bigger? A:","['538', '732']",732,"UTT_BOUNDARY q: of the numbers 538 and 732, which is bigger? a:UTT_BOUNDARY 52 is bigger?", 52 is bigger?
+"Q: Of the numbers 636 and 826, which is bigger? A:","['636', '826']",826,"UTT_BOUNDARY q: of the numbers 636 and 826, which is bigger? a:UTT_BOUNDARY 826? a:", 826? a:
+"Q: Of the numbers 461 and 41, which is bigger? A:","['461', '41']",461,"UTT_BOUNDARY q: of the numbers 461 and 41, which is bigger? a:UTT_BOUNDARY 461 and 416", 461 and 416
+"Q: Of the numbers 804 and 101, which is bigger? A:","['804', '101']",804,"UTT_BOUNDARY q: of the numbers 804 and 101, which is bigger? a:UTT_BOUNDARY 804. a:", 804. a:
+"Q: Of the numbers 66 and 547, which is bigger? A:","['66', '547']",547,"UTT_BOUNDARY q: of the numbers 66 and 547, which is bigger? a:UTT_BOUNDARY 547? a:", 547? a:
+"From the numbers 634 and 336, write the bigger number: ","['634', '336']",634,"UTT_BOUNDARY from the numbers 634 and 336, write the bigger number:UTT_BOUNDARY 634% is known", 634% is known
+"Q: Which number is bigger, 102 or 980? A:","['102', '980']",980,"UTT_BOUNDARY q: which number is bigger, 102 or 980? a:UTT_BOUNDARY 921 or 646", 921 or 646
+"Q: Which number is bigger, 951 or 505? A:","['951', '505']",951,"UTT_BOUNDARY q: which number is bigger, 951 or 505? a:UTT_BOUNDARY 951 or 627", 951 or 627
+"Q: Of the numbers 45 and 166, which is bigger? A:","['45', '166']",166,"UTT_BOUNDARY q: of the numbers 45 and 166, which is bigger? a:UTT_BOUNDARY 1669-18", 1669-18
+"From the numbers 737 and 788, write the bigger number: ","['737', '788']",788,"UTT_BOUNDARY from the numbers 737 and 788, write the bigger number:UTT_BOUNDARY 7889, which"," 7889, which"
+"Q: Of the numbers 940 and 508, which is bigger? A:","['940', '508']",940,"UTT_BOUNDARY q: of the numbers 940 and 508, which is bigger? a:UTT_BOUNDARY 940 and 623", 940 and 623
+"From the numbers 374 and 859, write the bigger number: ","['374', '859']",859,"UTT_BOUNDARY from the numbers 374 and 859, write the bigger number:UTT_BOUNDARY 8597, which"," 8597, which"
+"Q: Which number is bigger, 891 or 359? A:","['891', '359']",891,"UTT_BOUNDARY q: which number is bigger, 891 or 359? a:UTT_BOUNDARY 891 or 646", 891 or 646
+"From the numbers 40 and 318, write the bigger number: ","['40', '318']",318,"UTT_BOUNDARY from the numbers 40 and 318, write the bigger number:UTT_BOUNDARY 318. it is", 318. it is
+"From the numbers 480 and 93, write the bigger number: ","['480', '93']",480,"UTT_BOUNDARY from the numbers 480 and 93, write the bigger number:UTT_BOUNDARY 436, which is"," 436, which is"
+"Q: Which number is bigger, 957 or 676? A:","['957', '676']",957,"UTT_BOUNDARY q: which number is bigger, 957 or 676? a:UTT_BOUNDARY 953 or 642", 953 or 642
+"From the numbers 274 and 288, write the bigger number: ","['274', '288']",288,"UTT_BOUNDARY from the numbers 274 and 288, write the bigger number:UTT_BOUNDARY 284 320,"," 284 320,"
+"From the numbers 552 and 775, write the bigger number: ","['552', '775']",775,"UTT_BOUNDARY from the numbers 552 and 775, write the bigger number:UTT_BOUNDARY 775 is the bigger", 775 is the bigger
+"Q: Of the numbers 919 and 437, which is bigger? A:","['919', '437']",919,"UTT_BOUNDARY q: of the numbers 919 and 437, which is bigger? a:UTT_BOUNDARY 918 is a:", 918 is a:
+"From the numbers 886 and 554, write the bigger number: ","['886', '554']",886,"UTT_BOUNDARY from the numbers 886 and 554, write the bigger number:UTT_BOUNDARY 888 and 244", 888 and 244
+"Q: Of the numbers 650 and 442, which is bigger? A:","['650', '442']",650,"UTT_BOUNDARY q: of the numbers 650 and 442, which is bigger? a:UTT_BOUNDARY 6505 or 6", 6505 or 6
+"Q: Of the numbers 830 and 719, which is bigger? A:","['830', '719']",830,"UTT_BOUNDARY q: of the numbers 830 and 719, which is bigger? a:UTT_BOUNDARY 830. 186 and", 830. 186 and
+"Q: Which number is bigger, 942 or 230? A:","['942', '230']",942,"UTT_BOUNDARY q: which number is bigger, 942 or 230? a:UTT_BOUNDARY 942 census area,"," 942 census area,"
+"Q: Of the numbers 526 and 694, which is bigger? A:","['526', '694']",694,"UTT_BOUNDARY q: of the numbers 526 and 694, which is bigger? a:UTT_BOUNDARY 526-year-", 526-year-
+"Q: Which number is bigger, 115 or 98? A:","['115', '98']",115,"UTT_BOUNDARY q: which number is bigger, 115 or 98? a:UTT_BOUNDARY 986? a:", 986? a:
+"Q: Which number is bigger, 27 or 885? A:","['27', '885']",885,"UTT_BOUNDARY q: which number is bigger, 27 or 885? a:UTT_BOUNDARY 885. 4 8", 885. 4 8
+"Q: Which number is bigger, 90 or 166? A:","['90', '166']",166,"UTT_BOUNDARY q: which number is bigger, 90 or 166? a:UTT_BOUNDARY 9097-18", 9097-18
+"Q: Of the numbers 772 and 549, which is bigger? A:","['772', '549']",772,"UTT_BOUNDARY q: of the numbers 772 and 549, which is bigger? a:UTT_BOUNDARY 773 is a census", 773 is a census
+"Q: Which number is bigger, 647 or 178? A:","['647', '178']",647,"UTT_BOUNDARY q: which number is bigger, 647 or 178? a:UTT_BOUNDARY 618:186", 618:186
+"Q: Which number is bigger, 293 or 906? A:","['293', '906']",906,"UTT_BOUNDARY q: which number is bigger, 293 or 906? a:UTT_BOUNDARY 9097t or", 9097t or
+"Q: Which number is bigger, 452 or 974? A:","['452', '974']",974,"UTT_BOUNDARY q: which number is bigger, 452 or 974? a:UTT_BOUNDARY 972-h/", 972-h/
+"Q: Of the numbers 116 and 920, which is bigger? A:","['116', '920']",920,"UTT_BOUNDARY q: of the numbers 116 and 920, which is bigger? a:UTT_BOUNDARY 920, which is"," 920, which is"
+"Q: Of the numbers 228 and 100, which is bigger? A:","['228', '100']",228,"UTT_BOUNDARY q: of the numbers 228 and 100, which is bigger? a:UTT_BOUNDARY 698, which is"," 698, which is"
+"Q: Which number is bigger, 462 or 438? A:","['462', '438']",462,"UTT_BOUNDARY q: which number is bigger, 462 or 438? a:UTT_BOUNDARY 438? a:", 438? a:
+"Q: Which number is bigger, 49 or 871? A:","['49', '871']",871,"UTT_BOUNDARY q: which number is bigger, 49 or 871? a:UTT_BOUNDARY 871 and 828", 871 and 828
+"Q: Which number is bigger, 149 or 114? A:","['149', '114']",149,"UTT_BOUNDARY q: which number is bigger, 149 or 114? a:UTT_BOUNDARY 28097-", 28097-
+"From the numbers 386 and 221, write the bigger number: ","['386', '221']",386,"UTT_BOUNDARY from the numbers 386 and 221, write the bigger number:UTT_BOUNDARY 381, which is"," 381, which is"
+"Q: Which number is bigger, 251 or 178? A:","['251', '178']",251,"UTT_BOUNDARY q: which number is bigger, 251 or 178? a:UTT_BOUNDARY 221st or 6", 221st or 6
+"From the numbers 503 and 343, write the bigger number: ","['503', '343']",503,"UTT_BOUNDARY from the numbers 503 and 343, write the bigger number:UTT_BOUNDARY 503i($", 503i($
+"From the numbers 385 and 292, write the bigger number: ","['385', '292']",385,"UTT_BOUNDARY from the numbers 385 and 292, write the bigger number:UTT_BOUNDARY 382? a:", 382? a:
+"Q: Which number is bigger, 118 or 596? A:","['118', '596']",596,"UTT_BOUNDARY q: which number is bigger, 118 or 596? a:UTT_BOUNDARY 598. 495", 598. 495
+"From the numbers 167 and 325, write the bigger number: ","['167', '325']",325,"UTT_BOUNDARY from the numbers 167 and 325, write the bigger number:UTT_BOUNDARY 3287 and 5", 3287 and 5
+"From the numbers 63 and 378, write the bigger number: ","['63', '378']",378,"UTT_BOUNDARY from the numbers 63 and 378, write the bigger number:UTT_BOUNDARY 378 and 148", 378 and 148
+"From the numbers 403 and 386, write the bigger number: ","['403', '386']",403,"UTT_BOUNDARY from the numbers 403 and 386, write the bigger number:UTT_BOUNDARY 383, which is"," 383, which is"
+"From the numbers 389 and 983, write the bigger number: ","['389', '983']",983,"UTT_BOUNDARY from the numbers 389 and 983, write the bigger number:UTT_BOUNDARY 983 and 269", 983 and 269
+"Q: Of the numbers 506 and 855, which is bigger? A:","['506', '855']",855,"UTT_BOUNDARY q: of the numbers 506 and 855, which is bigger? a:UTT_BOUNDARY 856-375", 856-375
+"Q: Of the numbers 687 and 499, which is bigger? A:","['687', '499']",687,"UTT_BOUNDARY q: of the numbers 687 and 499, which is bigger? a:UTT_BOUNDARY 689 and 427", 689 and 427
+"From the numbers 96 and 354, write the bigger number: ","['96', '354']",354,"UTT_BOUNDARY from the numbers 96 and 354, write the bigger number:UTT_BOUNDARY 964 or 986", 964 or 986
+"Q: Which number is bigger, 27 or 404? A:","['27', '404']",404,"UTT_BOUNDARY q: which number is bigger, 27 or 404? a:UTT_BOUNDARY 402. 602", 402. 602
+"Q: Of the numbers 947 and 997, which is bigger? A:","['947', '997']",997,"UTT_BOUNDARY q: of the numbers 947 and 997, which is bigger? a:UTT_BOUNDARY 997-371", 997-371
+"From the numbers 690 and 461, write the bigger number: ","['690', '461']",690,"UTT_BOUNDARY from the numbers 690 and 461, write the bigger number:UTT_BOUNDARY 690 and 690", 690 and 690
+"From the numbers 450 and 986, write the bigger number: ","['450', '986']",986,"UTT_BOUNDARY from the numbers 450 and 986, write the bigger number:UTT_BOUNDARY 986 and 548", 986 and 548
+"From the numbers 64 and 905, write the bigger number: ","['64', '905']",905,"UTT_BOUNDARY from the numbers 64 and 905, write the bigger number:UTT_BOUNDARY 905, which is"," 905, which is"
+"From the numbers 769 and 639, write the bigger number: ","['769', '639']",769,"UTT_BOUNDARY from the numbers 769 and 639, write the bigger number:UTT_BOUNDARY 769 9593", 769 9593
+"From the numbers 749 and 43, write the bigger number: ","['749', '43']",749,"UTT_BOUNDARY from the numbers 749 and 43, write the bigger number:UTT_BOUNDARY 749 and 864", 749 and 864
+"Q: Which number is bigger, 526 or 694? A:","['526', '694']",694,"UTT_BOUNDARY q: which number is bigger, 526 or 694? a:UTT_BOUNDARY 526 or 524", 526 or 524
+"From the numbers 102 and 980, write the bigger number: ","['102', '980']",980,"UTT_BOUNDARY from the numbers 102 and 980, write the bigger number:UTT_BOUNDARY 900 and 642", 900 and 642
+"Q: Which number is bigger, 383 or 226? A:","['383', '226']",383,"UTT_BOUNDARY q: which number is bigger, 383 or 226? a:UTT_BOUNDARY 383? a:", 383? a:
+"Q: Of the numbers 591 and 642, which is bigger? A:","['591', '642']",642,"UTT_BOUNDARY q: of the numbers 591 and 642, which is bigger? a:UTT_BOUNDARY 642 or 642", 642 or 642
+"From the numbers 948 and 547, write the bigger number: ","['948', '547']",948,"UTT_BOUNDARY from the numbers 948 and 547, write the bigger number:UTT_BOUNDARY 9487 and 9", 9487 and 9
+"From the numbers 77 and 935, write the bigger number: ","['77', '935']",935,"UTT_BOUNDARY from the numbers 77 and 935, write the bigger number:UTT_BOUNDARY 935? a:", 935? a:
+"Q: Of the numbers 458 and 148, which is bigger? A:","['458', '148']",458,"UTT_BOUNDARY q: of the numbers 458 and 148, which is bigger? a:UTT_BOUNDARY 458, 740"," 458, 740"
+"Q: Which number is bigger, 219 or 483? A:","['219', '483']",483,"UTT_BOUNDARY q: which number is bigger, 219 or 483? a:UTT_BOUNDARY 483 or 642", 483 or 642
+"Q: Which number is bigger, 781 or 153? A:","['781', '153']",781,"UTT_BOUNDARY q: which number is bigger, 781 or 153? a:UTT_BOUNDARY 783? a:", 783? a:
+"From the numbers 900 and 834, write the bigger number: ","['900', '834']",900,"UTT_BOUNDARY from the numbers 900 and 834, write the bigger number:UTT_BOUNDARY 900 and 642", 900 and 642
+"Q: Which number is bigger, 444 or 916? A:","['444', '916']",916,"UTT_BOUNDARY q: which number is bigger, 444 or 916? a:UTT_BOUNDARY 916 north street station", 916 north street station
+"From the numbers 926 and 292, write the bigger number: ","['926', '292']",926,"UTT_BOUNDARY from the numbers 926 and 292, write the bigger number:UTT_BOUNDARY 926 and 646", 926 and 646
+"Q: Of the numbers 320 and 111, which is bigger? A:","['320', '111']",320,"UTT_BOUNDARY q: of the numbers 320 and 111, which is bigger? a:UTT_BOUNDARY 320, 320"," 320, 320"
+"Q: Which number is bigger, 620 or 291? A:","['620', '291']",620,"UTT_BOUNDARY q: which number is bigger, 620 or 291? a:UTT_BOUNDARY 620, which is"," 620, which is"
+"Q: Which number is bigger, 74 or 439? A:","['74', '439']",439,"UTT_BOUNDARY q: which number is bigger, 74 or 439? a:UTT_BOUNDARY 439 and 548", 439 and 548
+"From the numbers 581 and 629, write the bigger number: ","['581', '629']",629,"UTT_BOUNDARY from the numbers 581 and 629, write the bigger number:UTT_BOUNDARY 629 and 646", 629 and 646
+"Q: Which number is bigger, 875 or 311? A:","['875', '311']",875,"UTT_BOUNDARY q: which number is bigger, 875 or 311? a:UTT_BOUNDARY 875? a:", 875? a:
+"Q: Of the numbers 304 and 878, which is bigger? A:","['304', '878']",878,"UTT_BOUNDARY q: of the numbers 304 and 878, which is bigger? a:UTT_BOUNDARY 879 and 394", 879 and 394
+"From the numbers 496 and 558, write the bigger number: ","['496', '558']",558,"UTT_BOUNDARY from the numbers 496 and 558, write the bigger number:UTT_BOUNDARY 547, which is"," 547, which is"
+"Q: Of the numbers 281 and 102, which is bigger? A:","['281', '102']",281,"UTT_BOUNDARY q: of the numbers 281 and 102, which is bigger? a:UTT_BOUNDARY 282 is bigger?", 282 is bigger?
+"From the numbers 661 and 378, write the bigger number: ","['661', '378']",661,"UTT_BOUNDARY from the numbers 661 and 378, write the bigger number:UTT_BOUNDARY 6691 or 98", 6691 or 98
+"Q: Which number is bigger, 707 or 937? A:","['707', '937']",937,"UTT_BOUNDARY q: which number is bigger, 707 or 937? a:UTT_BOUNDARY 935? a:", 935? a:
+"From the numbers 852 and 713, write the bigger number: ","['852', '713']",852,"UTT_BOUNDARY from the numbers 852 and 713, write the bigger number:UTT_BOUNDARY 852 is 982", 852 is 982
+"Q: Which number is bigger, 152 or 917? A:","['152', '917']",917,"UTT_BOUNDARY q: which number is bigger, 152 or 917? a:UTT_BOUNDARY 917 or 618", 917 or 618
+"Q: Which number is bigger, 530 or 921? A:","['530', '921']",921,"UTT_BOUNDARY q: which number is bigger, 530 or 921? a:UTT_BOUNDARY 921 or 642", 921 or 642
+"Q: Of the numbers 177 and 820, which is bigger? A:","['177', '820']",820,"UTT_BOUNDARY q: of the numbers 177 and 820, which is bigger? a:UTT_BOUNDARY 820, 1919"," 820, 1919"
+"Q: Which number is bigger, 622 or 583? A:","['622', '583']",622,"UTT_BOUNDARY q: which number is bigger, 622 or 583? a:UTT_BOUNDARY 659 or 646", 659 or 646
+"From the numbers 324 and 214, write the bigger number: ","['324', '214']",324,"UTT_BOUNDARY from the numbers 324 and 214, write the bigger number:UTT_BOUNDARY 3244, which"," 3244, which"
+"Q: Which number is bigger, 697 or 972? A:","['697', '972']",972,"UTT_BOUNDARY q: which number is bigger, 697 or 972? a:UTT_BOUNDARY 972? a:", 972? a:
+"Q: Which number is bigger, 532 or 147? A:","['532', '147']",532,"UTT_BOUNDARY q: which number is bigger, 532 or 147? a:UTT_BOUNDARY 551 or 538", 551 or 538
+"Q: Of the numbers 359 and 254, which is bigger? A:","['359', '254']",359,"UTT_BOUNDARY q: of the numbers 359 and 254, which is bigger? a:UTT_BOUNDARY 3594-16", 3594-16
+"Q: Of the numbers 805 and 935, which is bigger? A:","['805', '935']",935,"UTT_BOUNDARY q: of the numbers 805 and 935, which is bigger? a:UTT_BOUNDARY 935 is bigger?", 935 is bigger?
+"Q: Which number is bigger, 829 or 369? A:","['829', '369']",829,"UTT_BOUNDARY q: which number is bigger, 829 or 369? a:UTT_BOUNDARY 829, which is"," 829, which is"
+"Q: Which number is bigger, 883 or 493? A:","['883', '493']",883,"UTT_BOUNDARY q: which number is bigger, 883 or 493? a:UTT_BOUNDARY 883 and 438", 883 and 438
+"Q: Of the numbers 973 and 619, which is bigger? A:","['973', '619']",973,"UTT_BOUNDARY q: of the numbers 973 and 619, which is bigger? a:UTT_BOUNDARY 973 or 646", 973 or 646
+"Q: Which number is bigger, 946 or 228? A:","['946', '228']",946,"UTT_BOUNDARY q: which number is bigger, 946 or 228? a:UTT_BOUNDARY 946? a:", 946? a:
+"Q: Which number is bigger, 830 or 874? A:","['830', '874']",874,"UTT_BOUNDARY q: which number is bigger, 830 or 874? a:UTT_BOUNDARY 874 or 739", 874 or 739
+"Q: Of the numbers 887 and 897, which is bigger? A:","['887', '897']",897,"UTT_BOUNDARY q: of the numbers 887 and 897, which is bigger? a:UTT_BOUNDARY 897-h.", 897-h.
+"From the numbers 596 and 553, write the bigger number: ","['596', '553']",596,"UTT_BOUNDARY from the numbers 596 and 553, write the bigger number:UTT_BOUNDARY 595 and 493", 595 and 493
+"From the numbers 285 and 997, write the bigger number: ","['285', '997']",997,"UTT_BOUNDARY from the numbers 285 and 997, write the bigger number:UTT_BOUNDARY 997 and 497", 997 and 497
+"Q: Of the numbers 992 and 635, which is bigger? A:","['992', '635']",992,"UTT_BOUNDARY q: of the numbers 992 and 635, which is bigger? a:UTT_BOUNDARY 992 and 635", 992 and 635
+"From the numbers 314 and 367, write the bigger number: ","['314', '367']",367,"UTT_BOUNDARY from the numbers 314 and 367, write the bigger number:UTT_BOUNDARY 368 from the numbers", 368 from the numbers
+"From the numbers 276 and 702, write the bigger number: ","['276', '702']",702,"UTT_BOUNDARY from the numbers 276 and 702, write the bigger number:UTT_BOUNDARY 702, which is"," 702, which is"
+"Q: Of the numbers 746 and 673, which is bigger? A:","['746', '673']",746,"UTT_BOUNDARY q: of the numbers 746 and 673, which is bigger? a:UTT_BOUNDARY 746? a:", 746? a:
+"Q: Of the numbers 645 and 564, which is bigger? A:","['645', '564']",645,"UTT_BOUNDARY q: of the numbers 645 and 564, which is bigger? a:UTT_BOUNDARY 642 or 646", 642 or 646
+"From the numbers 880 and 33, write the bigger number: ","['880', '33']",880,"UTT_BOUNDARY from the numbers 880 and 33, write the bigger number:UTT_BOUNDARY 880, which is"," 880, which is"
+"Q: Which number is bigger, 738 or 34? A:","['738', '34']",738,"UTT_BOUNDARY q: which number is bigger, 738 or 34? a:UTT_BOUNDARY 738? a:", 738? a:
+"From the numbers 427 and 866, write the bigger number: ","['427', '866']",866,"UTT_BOUNDARY from the numbers 427 and 866, write the bigger number:UTT_BOUNDARY 866 and 747", 866 and 747
+"Q: Of the numbers 363 and 400, which is bigger? A:","['363', '400']",400,"UTT_BOUNDARY q: of the numbers 363 and 400, which is bigger? a:UTT_BOUNDARY 400 or 800? a", 400 or 800? a
+"From the numbers 215 and 986, write the bigger number: ","['215', '986']",986,"UTT_BOUNDARY from the numbers 215 and 986, write the bigger number:UTT_BOUNDARY 986 and 376", 986 and 376
+"Q: Of the numbers 88 and 475, which is bigger? A:","['88', '475']",475,"UTT_BOUNDARY q: of the numbers 88 and 475, which is bigger? a:UTT_BOUNDARY 475 and 375", 475 and 375
+"Q: Of the numbers 659 and 573, which is bigger? A:","['659', '573']",659,"UTT_BOUNDARY q: of the numbers 659 and 573, which is bigger? a:UTT_BOUNDARY 6593] and", 6593] and
+"From the numbers 458 and 536, write the bigger number: ","['458', '536']",536,"UTT_BOUNDARY from the numbers 458 and 536, write the bigger number:UTT_BOUNDARY 536440,"," 536440,"
+"Q: Of the numbers 760 and 515, which is bigger? A:","['760', '515']",760,"UTT_BOUNDARY q: of the numbers 760 and 515, which is bigger? a:UTT_BOUNDARY 760? a:", 760? a:
+"Q: Which number is bigger, 569 or 981? A:","['569', '981']",981,"UTT_BOUNDARY q: which number is bigger, 569 or 981? a:UTT_BOUNDARY 986? a:", 986? a:
+"From the numbers 494 and 977, write the bigger number: ","['494', '977']",977,"UTT_BOUNDARY from the numbers 494 and 977, write the bigger number:UTT_BOUNDARY 977 and 498", 977 and 498
+"Q: Which number is bigger, 763 or 794? A:","['763', '794']",794,"UTT_BOUNDARY q: which number is bigger, 763 or 794? a:UTT_BOUNDARY 793 or 260", 793 or 260
+"Q: Of the numbers 234 and 111, which is bigger? A:","['234', '111']",234,"UTT_BOUNDARY q: of the numbers 234 and 111, which is bigger? a:UTT_BOUNDARY 281 and 819", 281 and 819
+"Q: Which number is bigger, 260 or 553? A:","['260', '553']",553,"UTT_BOUNDARY q: which number is bigger, 260 or 553? a:UTT_BOUNDARY 393 or 260", 393 or 260
+"From the numbers 571 and 984, write the bigger number: ","['571', '984']",984,"UTT_BOUNDARY from the numbers 571 and 984, write the bigger number:UTT_BOUNDARY 981 or 981", 981 or 981
+"From the numbers 608 and 547, write the bigger number: ","['608', '547']",608,"UTT_BOUNDARY from the numbers 608 and 547, write the bigger number:UTT_BOUNDARY 608 and 243", 608 and 243
+"Q: Which number is bigger, 464 or 277? A:","['464', '277']",464,"UTT_BOUNDARY q: which number is bigger, 464 or 277? a:UTT_BOUNDARY 394-169", 394-169
+"Q: Of the numbers 946 and 228, which is bigger? A:","['946', '228']",946,"UTT_BOUNDARY q: of the numbers 946 and 228, which is bigger? a:UTT_BOUNDARY 946? a:", 946? a:
+"From the numbers 167 and 402, write the bigger number: ","['167', '402']",402,"UTT_BOUNDARY from the numbers 167 and 402, write the bigger number:UTT_BOUNDARY 402 is 982", 402 is 982
+"Q: Which number is bigger, 36 or 221? A:","['36', '221']",221,"UTT_BOUNDARY q: which number is bigger, 36 or 221? a:UTT_BOUNDARY 361 or 620", 361 or 620
+"Q: Of the numbers 921 and 128, which is bigger? A:","['921', '128']",921,"UTT_BOUNDARY q: of the numbers 921 and 128, which is bigger? a:UTT_BOUNDARY 921 or 646", 921 or 646
+"Q: Which number is bigger, 461 or 41? A:","['461', '41']",461,"UTT_BOUNDARY q: which number is bigger, 461 or 41? a:UTT_BOUNDARY 651 or 627", 651 or 627
+"From the numbers 262 and 336, write the bigger number: ","['262', '336']",336,"UTT_BOUNDARY from the numbers 262 and 336, write the bigger number:UTT_BOUNDARY 332? a:", 332? a:
+"Q: Which number is bigger, 455 or 45? A:","['455', '45']",455,"UTT_BOUNDARY q: which number is bigger, 455 or 45? a:UTT_BOUNDARY 454 or 191", 454 or 191
+"Q: Which number is bigger, 267 or 900? A:","['267', '900']",900,"UTT_BOUNDARY q: which number is bigger, 267 or 900? a:UTT_BOUNDARY 900? a:", 900? a:
+"Q: Which number is bigger, 405 or 569? A:","['405', '569']",569,"UTT_BOUNDARY q: which number is bigger, 405 or 569? a:UTT_BOUNDARY 4097-18", 4097-18
+"Q: Which number is bigger, 490 or 150? A:","['490', '150']",490,"UTT_BOUNDARY q: which number is bigger, 490 or 150? a:UTT_BOUNDARY 490 to the last", 490 to the last
+"From the numbers 692 and 547, write the bigger number: ","['692', '547']",692,"UTT_BOUNDARY from the numbers 692 and 547, write the bigger number:UTT_BOUNDARY 692? a:", 692? a:
+"From the numbers 645 and 521, write the bigger number: ","['645', '521']",645,"UTT_BOUNDARY from the numbers 645 and 521, write the bigger number:UTT_BOUNDARY 6422, which"," 6422, which"
+"From the numbers 315 and 701, write the bigger number: ","['315', '701']",701,"UTT_BOUNDARY from the numbers 315 and 701, write the bigger number:UTT_BOUNDARY 701 or 646", 701 or 646
+"Q: Which number is bigger, 614 or 134? A:","['614', '134']",614,"UTT_BOUNDARY q: which number is bigger, 614 or 134? a:UTT_BOUNDARY 6133 or 6", 6133 or 6
+"Q: Which number is bigger, 675 or 246? A:","['675', '246']",675,"UTT_BOUNDARY q: which number is bigger, 675 or 246? a:UTT_BOUNDARY 675 and 739", 675 and 739
+"Q: Of the numbers 144 and 620, which is bigger? A:","['144', '620']",620,"UTT_BOUNDARY q: of the numbers 144 and 620, which is bigger? a:UTT_BOUNDARY 6208 and 6", 6208 and 6
+"Q: Of the numbers 469 and 59, which is bigger? A:","['469', '59']",469,"UTT_BOUNDARY q: of the numbers 469 and 59, which is bigger? a:UTT_BOUNDARY 469 and 498", 469 and 498
+"Q: Which number is bigger, 573 or 381? A:","['573', '381']",573,"UTT_BOUNDARY q: which number is bigger, 573 or 381? a:UTT_BOUNDARY 383? a:", 383? a:
+"Q: Of the numbers 336 and 503, which is bigger? A:","['336', '503']",503,"UTT_BOUNDARY q: of the numbers 336 and 503, which is bigger? a:UTT_BOUNDARY 507 and 528", 507 and 528
+"From the numbers 675 and 246, write the bigger number: ","['675', '246']",675,"UTT_BOUNDARY from the numbers 675 and 246, write the bigger number:UTT_BOUNDARY 675 and 739", 675 and 739
+"Q: Which number is bigger, 444 or 901? A:","['444', '901']",901,"UTT_BOUNDARY q: which number is bigger, 444 or 901? a:UTT_BOUNDARY 90119 or 24", 90119 or 24
+"Q: Which number is bigger, 317 or 936? A:","['317', '936']",936,"UTT_BOUNDARY q: which number is bigger, 317 or 936? a:UTT_BOUNDARY 900 or 642", 900 or 642
+"From the numbers 763 and 794, write the bigger number: ","['763', '794']",794,"UTT_BOUNDARY from the numbers 763 and 794, write the bigger number:UTT_BOUNDARY 793 or 260", 793 or 260
+"Q: Of the numbers 904 and 161, which is bigger? A:","['904', '161']",904,"UTT_BOUNDARY q: of the numbers 904 and 161, which is bigger? a:UTT_BOUNDARY 901. it is", 901. it is
+"From the numbers 949 and 578, write the bigger number: ","['949', '578']",949,"UTT_BOUNDARY from the numbers 949 and 578, write the bigger number:UTT_BOUNDARY 968 state prison in", 968 state prison in
+"Q: Which number is bigger, 541 or 819? A:","['541', '819']",819,"UTT_BOUNDARY q: which number is bigger, 541 or 819? a:UTT_BOUNDARY 819? a:", 819? a:
+"Q: Which number is bigger, 449 or 926? A:","['449', '926']",926,"UTT_BOUNDARY q: which number is bigger, 449 or 926? a:UTT_BOUNDARY 926 or 646", 926 or 646
+"Q: Which number is bigger, 862 or 743? A:","['862', '743']",862,"UTT_BOUNDARY q: which number is bigger, 862 or 743? a:UTT_BOUNDARY 862? a:", 862? a:
+"Q: Of the numbers 503 and 343, which is bigger? A:","['503', '343']",503,"UTT_BOUNDARY q: of the numbers 503 and 343, which is bigger? a:UTT_BOUNDARY 503 or 260", 503 or 260
+"Q: Which number is bigger, 568 or 387? A:","['568', '387']",568,"UTT_BOUNDARY q: which number is bigger, 568 or 387? a:UTT_BOUNDARY 568 or 568", 568 or 568
+"Q: Which number is bigger, 978 or 273? A:","['978', '273']",978,"UTT_BOUNDARY q: which number is bigger, 978 or 273? a:UTT_BOUNDARY 977 and 847", 977 and 847
+"Q: Which number is bigger, 516 or 292? A:","['516', '292']",516,"UTT_BOUNDARY q: which number is bigger, 516 or 292? a:UTT_BOUNDARY 510? a:", 510? a:
+"From the numbers 307 and 702, write the bigger number: ","['307', '702']",702,"UTT_BOUNDARY from the numbers 307 and 702, write the bigger number:UTT_BOUNDARY 702, which is"," 702, which is"
+"From the numbers 534 and 46, write the bigger number: ","['534', '46']",534,"UTT_BOUNDARY from the numbers 534 and 46, write the bigger number:UTT_BOUNDARY 53417, which"," 53417, which"
+"Q: Which number is bigger, 587 or 942? A:","['587', '942']",942,"UTT_BOUNDARY q: which number is bigger, 587 or 942? a:UTT_BOUNDARY 942? a:", 942? a:
+"Q: Of the numbers 754 and 792, which is bigger? A:","['754', '792']",792,"UTT_BOUNDARY q: of the numbers 754 and 792, which is bigger? a:UTT_BOUNDARY 792? a:", 792? a:
+"From the numbers 839 and 879, write the bigger number: ","['839', '879']",879,"UTT_BOUNDARY from the numbers 839 and 879, write the bigger number:UTT_BOUNDARY 879 and 827", 879 and 827
+"Q: Of the numbers 118 and 19, which is bigger? A:","['118', '19']",118,"UTT_BOUNDARY q: of the numbers 118 and 19, which is bigger? a:UTT_BOUNDARY 1913, by the"," 1913, by the"
+"Q: Which number is bigger, 579 or 294? A:","['579', '294']",579,"UTT_BOUNDARY q: which number is bigger, 579 or 294? a:UTT_BOUNDARY 434-379", 434-379
+"Q: Of the numbers 773 and 225, which is bigger? A:","['773', '225']",773,"UTT_BOUNDARY q: of the numbers 773 and 225, which is bigger? a:UTT_BOUNDARY 773 or 260", 773 or 260
+"From the numbers 397 and 741, write the bigger number: ","['397', '741']",741,"UTT_BOUNDARY from the numbers 397 and 741, write the bigger number:UTT_BOUNDARY 741 or 269", 741 or 269
+"From the numbers 313 and 220, write the bigger number: ","['313', '220']",313,"UTT_BOUNDARY from the numbers 313 and 220, write the bigger number:UTT_BOUNDARY 313, which is"," 313, which is"
+"From the numbers 754 and 792, write the bigger number: ","['754', '792']",792,"UTT_BOUNDARY from the numbers 754 and 792, write the bigger number:UTT_BOUNDARY 792. it is", 792. it is
+"Q: Of the numbers 717 and 940, which is bigger? A:","['717', '940']",940,"UTT_BOUNDARY q: of the numbers 717 and 940, which is bigger? a:UTT_BOUNDARY 940? a:", 940? a:
+"Q: Of the numbers 167 and 402, which is bigger? A:","['167', '402']",402,"UTT_BOUNDARY q: of the numbers 167 and 402, which is bigger? a:UTT_BOUNDARY 402. the number", 402. the number
+"Q: Which number is bigger, 983 or 377? A:","['983', '377']",983,"UTT_BOUNDARY q: which number is bigger, 983 or 377? a:UTT_BOUNDARY 983 and 260", 983 and 260
+"From the numbers 452 and 974, write the bigger number: ","['452', '974']",974,"UTT_BOUNDARY from the numbers 452 and 974, write the bigger number:UTT_BOUNDARY 972 is 982", 972 is 982
+"Q: Which number is bigger, 841 or 991? A:","['841', '991']",991,"UTT_BOUNDARY q: which number is bigger, 841 or 991? a:UTT_BOUNDARY 991 or 627", 991 or 627
+"Q: Of the numbers 498 and 334, which is bigger? A:","['498', '334']",498,"UTT_BOUNDARY q: of the numbers 498 and 334, which is bigger? a:UTT_BOUNDARY 498 and 498", 498 and 498
+"Q: Of the numbers 929 and 842, which is bigger? A:","['929', '842']",929,"UTT_BOUNDARY q: of the numbers 929 and 842, which is bigger? a:UTT_BOUNDARY 929 surname?", 929 surname?

@@ -1,0 +1,601 @@
+Input,Options,Expected,Output (raw),Predicted
+"Q: Which letter does the word ""arrive"" end with? A:","['a', 'r', 'r', 'i', 'v', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""arrive"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""grandparent"" end with? A:","['g', 'r', 'a', 'n', 'd', 'p', 'a', 'r', 'e', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""grandparent"" end with? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: Which letter does the word ""small"" end with? A:","['s', 'm', 'a', 'l', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""small"" end with? a:UTT_BOUNDARY yogurt kree", yogurt kree
+"Q: What is the last letter of the word ""soft""? A:","['s', 'o', 'f', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""soft""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Write the last letter of the word ""coffee"": ","['c', 'o', 'f', 'f', 'e', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""coffee"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""borrow"" end with? A:","['b', 'o', 'r', 'r', 'o', 'w']",w,"UTT_BOUNDARY q: which letter does the word ""borrow"" end with? a:UTT_BOUNDARY watereds""?"," watereds""?"
+"Q: Which letter does the word ""every"" end with? A:","['e', 'v', 'e', 'r', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""every"" end with? a:UTT_BOUNDARY tights is a t", tights is a t
+"Write the last letter of the word ""left"": ","['l', 'e', 'f', 't']",t,"UTT_BOUNDARY write the last letter of the word ""left"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: What is the last letter of the word ""downstairs""? A:","['d', 'o', 'w', 'n', 's', 't', 'a', 'i', 'r', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""downstairs""? a:UTT_BOUNDARY s s a u s", s s a u s
+"Write the last letter of the word ""kite"": ","['k', 'i', 't', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""kite"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Write the last letter of the word ""chicken"": ","['c', 'h', 'i', 'c', 'k', 'e', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""chicken"":UTT_BOUNDARY noodle"":UTT_BOUNDARY"," noodle"":"
+"Q: What is the last letter of the word ""grass""? A:","['g', 'r', 'a', 's', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""grass""? a:UTT_BOUNDARY sutherford understands himself", sutherford understands himself
+"Q: What is the last letter of the word ""it""? A:","['i', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""it""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: Which letter does the word ""leather"" end with? A:","['l', 'e', 'a', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""leather"" end with? a:UTT_BOUNDARY lave of the word", lave of the word
+"Write the last letter of the word ""rice"": ","['r', 'i', 'c', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""rice"":UTT_BOUNDARY ego"":UTT_BOUNDARY"," ego"":"
+"Q: What is the last letter of the word ""straight""? A:","['s', 't', 'r', 'a', 'i', 'g', 'h', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""straight""? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: Which letter does the word ""have"" end with? A:","['h', 'a', 'v', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""have"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""cafeteria""? A:","['c', 'a', 'f', 'e', 't', 'e', 'r', 'i', 'a']",a,"UTT_BOUNDARY q: what is the last letter of the word ""cafeteria""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the last letter of the word ""beautiful"": ","['b', 'e', 'a', 'u', 't', 'i', 'f', 'u', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""beautiful"":UTT_BOUNDARY lusse"":UTT_BOUNDARY"," lusse"":"
+"Write the last letter of the word ""several"": ","['s', 'e', 'v', 'e', 'r', 'a', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""several"":UTT_BOUNDARY loosened trade restri", loosened trade restri
+"Q: What is the last letter of the word ""diploma""? A:","['d', 'i', 'p', 'l', 'o', 'm', 'a']",a,"UTT_BOUNDARY q: what is the last letter of the word ""diploma""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""month""? A:","['m', 'o', 'n', 't', 'h']",h,"UTT_BOUNDARY q: what is the last letter of the word ""month""? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Q: What is the last letter of the word ""site""? A:","['s', 'i', 't', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""site""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""cooking"": ","['c', 'o', 'o', 'k', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""cooking"":UTT_BOUNDARY ging 75"":UTT_BOUNDARY"," ging 75"":"
+"Q: Which letter does the word ""cover"" end with? A:","['c', 'o', 'v', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""cover"" end with? a:UTT_BOUNDARY dane"" or """," dane"" or """
+"Write the last letter of the word ""broken"": ","['b', 'r', 'o', 'k', 'e', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""broken"":UTT_BOUNDARY noodle"", which word"," noodle"", which word"
+"Write the last letter of the word ""guy"": ","['g', 'u', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""guy"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: Which letter does the word ""invite"" end with? A:","['i', 'n', 'v', 'i', 't', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""invite"" end with? a:UTT_BOUNDARY email"" from the"," email"" from the"
+"Q: What is the last letter of the word ""man""? A:","['m', 'a', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""man""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""television"" end with? A:","['t', 'e', 'l', 'e', 'v', 'i', 's', 'i', 'o', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""television"" end with? a:UTT_BOUNDARY ncis in the", ncis in the
+"Q: Which letter does the word ""ice"" end with? A:","['i', 'c', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""ice"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""swim"" end with? A:","['s', 'w', 'i', 'm']",m,"UTT_BOUNDARY q: which letter does the word ""swim"" end with? a:UTT_BOUNDARY mnemon t", mnemon t
+"Q: What is the last letter of the word ""above""? A:","['a', 'b', 'o', 'v', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""above""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""here"": ","['h', 'e', 'r', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""here"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""room""? A:","['r', 'o', 'o', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""room""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""singer""? A:","['s', 'i', 'n', 'g', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""singer""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""way"": ","['w', 'a', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""way"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: What is the last letter of the word ""own""? A:","['o', 'w', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""own""? a:UTT_BOUNDARY dina dina p", dina dina p
+"Q: What is the last letter of the word ""student""? A:","['s', 't', 'u', 'd', 'e', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""student""? a:UTT_BOUNDARY tights of the words", tights of the words
+"Q: Which letter does the word ""student"" end with? A:","['s', 't', 'u', 'd', 'e', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""student"" end with? a:UTT_BOUNDARY tucson of the", tucson of the
+"Q: What is the last letter of the word ""dressed""? A:","['d', 'r', 'e', 's', 's', 'e', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""dressed""? a:UTT_BOUNDARY dined""? a:"," dined""? a:"
+"Q: What is the last letter of the word ""wide""? A:","['w', 'i', 'd', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""wide""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""popular""? A:","['p', 'o', 'p', 'u', 'l', 'a', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""popular""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: What is the last letter of the word ""sell""? A:","['s', 'e', 'l', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""sell""? a:UTT_BOUNDARY loosened trade with", loosened trade with
+"Q: Which letter does the word ""see"" end with? A:","['s', 'e', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""see"" end with? a:UTT_BOUNDARY email"", ""dress"," email"", ""dress"
+"Q: Which letter does the word ""baseball"" end with? A:","['b', 'a', 's', 'e', 'b', 'a', 'l', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""baseball"" end with? a:UTT_BOUNDARY langerous""? a"," langerous""? a"
+"Write the last letter of the word ""town"": ","['t', 'o', 'w', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""town"":UTT_BOUNDARY noodle"", which word"," noodle"", which word"
+"Q: What is the last letter of the word ""clown""? A:","['c', 'l', 'o', 'w', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""clown""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Write the last letter of the word ""yard"": ","['y', 'a', 'r', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""yard"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: Which letter does the word ""house"" end with? A:","['h', 'o', 'u', 's', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""house"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Q: Which letter does the word ""plural"" end with? A:","['p', 'l', 'u', 'r', 'a', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""plural"" end with? a:UTT_BOUNDARY l l d e s", l l d e s
+"Write the last letter of the word ""surf"": ","['s', 'u', 'r', 'f']",f,"UTT_BOUNDARY write the last letter of the word ""surf"":UTT_BOUNDARY t e t t e", t e t t e
+"Q: What is the last letter of the word ""customer""? A:","['c', 'u', 's', 't', 'o', 'm', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""customer""? a:UTT_BOUNDARY rutherford cathedral""?"," rutherford cathedral""?"
+"Write the last letter of the word ""competition"": ","['c', 'o', 'm', 'p', 'e', 't', 'i', 't', 'i', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""competition"":UTT_BOUNDARY noodle"":UTT_BOUNDARY"," noodle"":"
+"Q: What is the last letter of the word ""sleep""? A:","['s', 'l', 'e', 'e', 'p']",p,"UTT_BOUNDARY q: what is the last letter of the word ""sleep""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Write the last letter of the word ""tour"": ","['t', 'o', 'u', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""tour"":UTT_BOUNDARY rt1"":UTT_BOUNDARY"," rt1"":"
+"Q: Which letter does the word ""first"" end with? A:","['f', 'i', 'r', 's', 't']",t,"UTT_BOUNDARY q: which letter does the word ""first"" end with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: What is the last letter of the word ""check""? A:","['c', 'h', 'e', 'c', 'k']",k,"UTT_BOUNDARY q: what is the last letter of the word ""check""? a:UTT_BOUNDARY krispital""?"," krispital""?"
+"Write the last letter of the word ""luggage"": ","['l', 'u', 'g', 'g', 'a', 'g', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""luggage"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""decide"" end with? A:","['d', 'e', 'c', 'i', 'd', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""decide"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""cleaner""? A:","['c', 'l', 'e', 'a', 'n', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""cleaner""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: What is the last letter of the word ""rent""? A:","['r', 'e', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""rent""? a:UTT_BOUNDARY tights of the words", tights of the words
+"Q: What is the last letter of the word ""eye""? A:","['e', 'y', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""eye""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""seat""? A:","['s', 'e', 'a', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""seat""? a:UTT_BOUNDARY tightsburger""?"," tightsburger""?"
+"Q: What is the last letter of the word ""calendar""? A:","['c', 'a', 'l', 'e', 'n', 'd', 'a', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""calendar""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""tights"" end with? A:","['t', 'i', 'g', 'h', 't', 's']",s,"UTT_BOUNDARY q: which letter does the word ""tights"" end with? a:UTT_BOUNDARY s s a t s", s s a t s
+"Q: Which letter does the word ""dancer"" end with? A:","['d', 'a', 'n', 'c', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""dancer"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""any"" end with? A:","['a', 'n', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""any"" end with? a:UTT_BOUNDARY yogurt and m", yogurt and m
+"Q: Which letter does the word ""rat"" end with? A:","['r', 'a', 't']",t,"UTT_BOUNDARY q: which letter does the word ""rat"" end with? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: What is the last letter of the word ""jacket""? A:","['j', 'a', 'c', 'k', 'e', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""jacket""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: Which letter does the word ""boring"" end with? A:","['b', 'o', 'r', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""boring"" end with? a:UTT_BOUNDARY guddlescent", guddlescent
+"Write the last letter of the word ""myself"": ","['m', 'y', 's', 'e', 'l', 'f']",f,"UTT_BOUNDARY write the last letter of the word ""myself"":UTT_BOUNDARY fiona"":UTT_BOUNDARY"," fiona"":"
+"Write the last letter of the word ""lemon"": ","['l', 'e', 'm', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""lemon"":UTT_BOUNDARY tsk t t t", tsk t t t
+"Q: Which letter does the word ""sun"" end with? A:","['s', 'u', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""sun"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""worse""? A:","['w', 'o', 'r', 's', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""worse""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: What is the last letter of the word ""off""? A:","['o', 'f', 'f']",f,"UTT_BOUNDARY q: what is the last letter of the word ""off""? a:UTT_BOUNDARY tights of the words", tights of the words
+"Write the last letter of the word ""air"": ","['a', 'i', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""air"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Write the last letter of the word ""their"": ","['t', 'h', 'e', 'i', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""their"":UTT_BOUNDARY runny"":UTT_BOUNDARY"," runny"":"
+"Write the last letter of the word ""west"": ","['w', 'e', 's', 't']",t,"UTT_BOUNDARY write the last letter of the word ""west"":UTT_BOUNDARY t"": which word comes"," t"": which word comes"
+"Write the last letter of the word ""health"": ","['h', 'e', 'a', 'l', 't', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""health"":UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Q: Which letter does the word ""eye"" end with? A:","['e', 'y', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""eye"" end with? a:UTT_BOUNDARY email"", ""swe"," email"", ""swe"
+"Q: Which letter does the word ""with"" end with? A:","['w', 'i', 't', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""with"" end with? a:UTT_BOUNDARY rutherford in the", rutherford in the
+"Q: What is the last letter of the word ""cent""? A:","['c', 'e', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""cent""? a:UTT_BOUNDARY tights of the word", tights of the word
+"Q: Which letter does the word ""hockey"" end with? A:","['h', 'o', 'c', 'k', 'e', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""hockey"" end with? a:UTT_BOUNDARY yogurticaler", yogurticaler
+"Write the last letter of the word ""decide"": ","['d', 'e', 'c', 'i', 'd', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""decide"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""way""? A:","['w', 'a', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""way""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Write the last letter of the word ""chair"": ","['c', 'h', 'a', 'i', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""chair"":UTT_BOUNDARY r ead"":UTT_BOUNDARY"," r ead"":"
+"Q: Which letter does the word ""climbing"" end with? A:","['c', 'l', 'i', 'm', 'b', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""climbing"" end with? a:UTT_BOUNDARY gauntlet""? a"," gauntlet""? a"
+"Write the last letter of the word ""half"": ","['h', 'a', 'l', 'f']",f,"UTT_BOUNDARY write the last letter of the word ""half"":UTT_BOUNDARY fiona"":UTT_BOUNDARY"," fiona"":"
+"Write the last letter of the word ""outside"": ","['o', 'u', 't', 's', 'i', 'd', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""outside"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""long""? A:","['l', 'o', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""long""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: Which letter does the word ""get"" end with? A:","['g', 'e', 't']",t,"UTT_BOUNDARY q: which letter does the word ""get"" end with? a:UTT_BOUNDARY tights of the words", tights of the words
+"Write the last letter of the word ""coat"": ","['c', 'o', 'a', 't']",t,"UTT_BOUNDARY write the last letter of the word ""coat"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: Which letter does the word ""year"" end with? A:","['y', 'e', 'a', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""year"" end with? a:UTT_BOUNDARY rutherford in the", rutherford in the
+"Q: Which letter does the word ""queen"" end with? A:","['q', 'u', 'e', 'e', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""queen"" end with? a:UTT_BOUNDARY nie dzu", nie dzu
+"Q: What is the last letter of the word ""yesterday""? A:","['y', 'e', 's', 't', 'e', 'r', 'd', 'a', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""yesterday""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Write the last letter of the word ""enough"": ","['e', 'n', 'o', 'u', 'g', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""enough"":UTT_BOUNDARY hose"":UTT_BOUNDARY"," hose"":"
+"Write the last letter of the word ""room"": ","['r', 'o', 'o', 'm']",m,"UTT_BOUNDARY write the last letter of the word ""room"":UTT_BOUNDARY ebook"":UTT_BOUNDARY"," ebook"":"
+"Q: What is the last letter of the word ""agree""? A:","['a', 'g', 'r', 'e', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""agree""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""friend"" end with? A:","['f', 'r', 'i', 'e', 'n', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""friend"" end with? a:UTT_BOUNDARY dooling the words", dooling the words
+"Write the last letter of the word ""tell"": ","['t', 'e', 'l', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""tell"":UTT_BOUNDARY wily"":UTT_BOUNDARY"," wily"":"
+"Q: What is the last letter of the word ""watch""? A:","['w', 'a', 't', 'c', 'h']",h,"UTT_BOUNDARY q: what is the last letter of the word ""watch""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""mouse""? A:","['m', 'o', 'u', 's', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""mouse""? a:UTT_BOUNDARY ego""? a:"," ego""? a:"
+"Q: Which letter does the word ""fit"" end with? A:","['f', 'i', 't']",t,"UTT_BOUNDARY q: which letter does the word ""fit"" end with? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: Which letter does the word ""thin"" end with? A:","['t', 'h', 'i', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""thin"" end with? a:UTT_BOUNDARY loosened"" or"," loosened"" or"
+"Q: What is the last letter of the word ""receptionist""? A:","['r', 'e', 'c', 'e', 'p', 't', 'i', 'o', 'n', 'i', 's', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""receptionist""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""duck"" end with? A:","['d', 'u', 'c', 'k']",k,"UTT_BOUNDARY q: which letter does the word ""duck"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""minute""? A:","['m', 'i', 'n', 'u', 't', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""minute""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""cousin""? A:","['c', 'o', 'u', 's', 'i', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""cousin""? a:UTT_BOUNDARY d s ead""?"," d s ead""?"
+"Q: Which letter does the word ""midnight"" end with? A:","['m', 'i', 'd', 'n', 'i', 'g', 'h', 't']",t,"UTT_BOUNDARY q: which letter does the word ""midnight"" end with? a:UTT_BOUNDARY tights 917""?"," tights 917""?"
+"Write the last letter of the word ""can"": ","['c', 'a', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""can"":UTT_BOUNDARY nixon"":UTT_BOUNDARY"," nixon"":"
+"Q: What is the last letter of the word ""window""? A:","['w', 'i', 'n', 'd', 'o', 'w']",w,"UTT_BOUNDARY q: what is the last letter of the word ""window""? a:UTT_BOUNDARY wateredy""?"," wateredy""?"
+"Write the last letter of the word ""healthy"": ","['h', 'e', 'a', 'l', 't', 'h', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""healthy"":UTT_BOUNDARY yogurtite"":"," yogurtite"":"
+"Write the last letter of the word ""watch"": ","['w', 'a', 't', 'c', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""watch"":UTT_BOUNDARY hinges hose", hinges hose
+"Q: What is the last letter of the word ""pig""? A:","['p', 'i', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""pig""? a:UTT_BOUNDARY gamb"", which word"," gamb"", which word"
+"Write the last letter of the word ""writing"": ","['w', 'r', 'i', 't', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""writing"":UTT_BOUNDARY g: which word comes", g: which word comes
+"Q: What is the last letter of the word ""beach""? A:","['b', 'e', 'a', 'c', 'h']",h,"UTT_BOUNDARY q: what is the last letter of the word ""beach""? a:UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Q: What is the last letter of the word ""perfect""? A:","['p', 'e', 'r', 'f', 'e', 'c', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""perfect""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""west"" end with? A:","['w', 'e', 's', 't']",t,"UTT_BOUNDARY q: which letter does the word ""west"" end with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""beginner"" end with? A:","['b', 'e', 'g', 'i', 'n', 'n', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""beginner"" end with? a:UTT_BOUNDARY rutherford in the", rutherford in the
+"Write the last letter of the word ""steak"": ","['s', 't', 'e', 'a', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""steak"":UTT_BOUNDARY kool"":UTT_BOUNDARY"," kool"":"
+"Q: Which letter does the word ""match"" end with? A:","['m', 'a', 't', 'c', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""match"" end with? a:UTT_BOUNDARY mire? a:", mire? a:
+"Q: What is the last letter of the word ""gym""? A:","['g', 'y', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""gym""? a:UTT_BOUNDARY mio""? a:"," mio""? a:"
+"Q: Which letter does the word ""thank"" end with? A:","['t', 'h', 'a', 'n', 'k']",k,"UTT_BOUNDARY q: which letter does the word ""thank"" end with? a:UTT_BOUNDARY noodle word ""s"," noodle word ""s"
+"Q: Which letter does the word ""hard"" end with? A:","['h', 'a', 'r', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""hard"" end with? a:UTT_BOUNDARY duffer"" from"," duffer"" from"
+"Write the last letter of the word ""agree"": ","['a', 'g', 'r', 'e', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""agree"":UTT_BOUNDARY e"":UTT_BOUNDARY"," e"":"
+"Q: Which letter does the word ""carrot"" end with? A:","['c', 'a', 'r', 'r', 'o', 't']",t,"UTT_BOUNDARY q: which letter does the word ""carrot"" end with? a:UTT_BOUNDARY sutherford""? a"," sutherford""? a"
+"Q: What is the last letter of the word ""we""? A:","['w', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""we""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""under""? A:","['u', 'n', 'd', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""under""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: What is the last letter of the word ""loud""? A:","['l', 'o', 'u', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""loud""? a:UTT_BOUNDARY duffer""? a"," duffer""? a"
+"Write the last letter of the word ""behind"": ","['b', 'e', 'h', 'i', 'n', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""behind"":UTT_BOUNDARY dadda"":UTT_BOUNDARY"," dadda"":"
+"Q: Which letter does the word ""jump"" end with? A:","['j', 'u', 'm', 'p']",p,"UTT_BOUNDARY q: which letter does the word ""jump"" end with? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""ham"" end with? A:","['h', 'a', 'm']",m,"UTT_BOUNDARY q: which letter does the word ""ham"" end with? a:UTT_BOUNDARY mire"" or """," mire"" or """
+"Q: Which letter does the word ""big"" end with? A:","['b', 'i', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""big"" end with? a:UTT_BOUNDARY gauntlet""? a"," gauntlet""? a"
+"Q: What is the last letter of the word ""discount""? A:","['d', 'i', 's', 'c', 'o', 'u', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""discount""? a:UTT_BOUNDARY s s a t s", s s a t s
+"Q: What is the last letter of the word ""gift""? A:","['g', 'i', 'f', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""gift""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""pencil""? A:","['p', 'e', 'n', 'c', 'i', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""pencil""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: Which letter does the word ""staff"" end with? A:","['s', 't', 'a', 'f', 'f']",f,"UTT_BOUNDARY q: which letter does the word ""staff"" end with? a:UTT_BOUNDARY f o r the r", f o r the r
+"Q: Which letter does the word ""mirror"" end with? A:","['m', 'i', 'r', 'r', 'o', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""mirror"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""east"": ","['e', 'a', 's', 't']",t,"UTT_BOUNDARY write the last letter of the word ""east"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Write the last letter of the word ""useful"": ","['u', 's', 'e', 'f', 'u', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""useful"":UTT_BOUNDARY loosened trade with", loosened trade with
+"Q: Which letter does the word ""workbook"" end with? A:","['w', 'o', 'r', 'k', 'b', 'o', 'o', 'k']",k,"UTT_BOUNDARY q: which letter does the word ""workbook"" end with? a:UTT_BOUNDARY krishik?", krishik?
+"Write the last letter of the word ""brother"": ","['b', 'r', 'o', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""brother"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Write the last letter of the word ""idea"": ","['i', 'd', 'e', 'a']",a,"UTT_BOUNDARY write the last letter of the word ""idea"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the last letter of the word ""tired"": ","['t', 'i', 'r', 'e', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""tired"":UTT_BOUNDARY dined"":UTT_BOUNDARY"," dined"":"
+"Q: What is the last letter of the word ""alone""? A:","['a', 'l', 'o', 'n', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""alone""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""photographer"": ","['p', 'h', 'o', 't', 'o', 'g', 'r', 'a', 'p', 'h', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""photographer"":UTT_BOUNDARY runny"", which word"," runny"", which word"
+"Write the last letter of the word ""better"": ","['b', 'e', 't', 't', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""better"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Write the last letter of the word ""afternoon"": ","['a', 'f', 't', 'e', 'r', 'n', 'o', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""afternoon"":UTT_BOUNDARY noodle"":UTT_BOUNDARY"," noodle"":"
+"Q: What is the last letter of the word ""dancer""? A:","['d', 'a', 'n', 'c', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""dancer""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: Which letter does the word ""so"" end with? A:","['s', 'o']",o,"UTT_BOUNDARY q: which letter does the word ""so"" end with? a:UTT_BOUNDARY sicily? a", sicily? a
+"Write the last letter of the word ""where"": ","['w', 'h', 'e', 'r', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""where"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""skiing""? A:","['s', 'k', 'i', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""skiing""? a:UTT_BOUNDARY gingo""? a"," gingo""? a"
+"Write the last letter of the word ""simple"": ","['s', 'i', 'm', 'p', 'l', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""simple"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""notebook""? A:","['n', 'o', 't', 'e', 'b', 'o', 'o', 'k']",k,"UTT_BOUNDARY q: what is the last letter of the word ""notebook""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""notes"" end with? A:","['n', 'o', 't', 'e', 's']",s,"UTT_BOUNDARY q: which letter does the word ""notes"" end with? a:UTT_BOUNDARY sachs or a", sachs or a
+"Q: What is the last letter of the word ""blouse""? A:","['b', 'l', 'o', 'u', 's', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""blouse""? a:UTT_BOUNDARY earthen""? a"," earthen""? a"
+"Write the last letter of the word ""deep"": ","['d', 'e', 'e', 'p']",p,"UTT_BOUNDARY write the last letter of the word ""deep"":UTT_BOUNDARY dazzle"":UTT_BOUNDARY"," dazzle"":"
+"Q: Which letter does the word ""smoking"" end with? A:","['s', 'm', 'o', 'k', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""smoking"" end with? a:UTT_BOUNDARY gauntlet""? a"," gauntlet""? a"
+"Write the last letter of the word ""vacation"": ","['v', 'a', 'c', 'a', 't', 'i', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""vacation"":UTT_BOUNDARY tessimagination", tessimagination
+"Q: Which letter does the word ""wind"" end with? A:","['w', 'i', 'n', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""wind"" end with? a:UTT_BOUNDARY wateredy""?"," wateredy""?"
+"Q: Which letter does the word ""bus"" end with? A:","['b', 'u', 's']",s,"UTT_BOUNDARY q: which letter does the word ""bus"" end with? a:UTT_BOUNDARY yogurt bitten", yogurt bitten
+"Q: What is the last letter of the word ""short""? A:","['s', 'h', 'o', 'r', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""short""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: What is the last letter of the word ""winner""? A:","['w', 'i', 'n', 'n', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""winner""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: Which letter does the word ""salad"" end with? A:","['s', 'a', 'l', 'a', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""salad"" end with? a:UTT_BOUNDARY doth the word """," doth the word """
+"Q: Which letter does the word ""exercise"" end with? A:","['e', 'x', 'e', 'r', 'c', 'i', 's', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""exercise"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""hotel""? A:","['h', 'o', 't', 'e', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""hotel""? a:UTT_BOUNDARY loosened a:", loosened a:
+"Write the last letter of the word ""wheel"": ","['w', 'h', 'e', 'e', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""wheel"":UTT_BOUNDARY l e t"", which"," l e t"", which"
+"Write the last letter of the word ""basketball"": ","['b', 'a', 's', 'k', 'e', 't', 'b', 'a', 'l', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""basketball"":UTT_BOUNDARY loosened"", which"," loosened"", which"
+"Q: What is the last letter of the word ""present""? A:","['p', 'r', 'e', 's', 'e', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""present""? a:UTT_BOUNDARY t n t t t", t n t t t
+"Write the last letter of the word ""mad"": ","['m', 'a', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""mad"":UTT_BOUNDARY dool"":UTT_BOUNDARY"," dool"":"
+"Write the last letter of the word ""take"": ","['t', 'a', 'k', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""take"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: Which letter does the word ""singing"" end with? A:","['s', 'i', 'n', 'g', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""singing"" end with? a:UTT_BOUNDARY ging"" or """," ging"" or """
+"Q: What is the last letter of the word ""bike""? A:","['b', 'i', 'k', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""bike""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""salad"": ","['s', 'a', 'l', 'a', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""salad"":UTT_BOUNDARY dined"":UTT_BOUNDARY"," dined"":"
+"Q: Which letter does the word ""nationality"" end with? A:","['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""nationality"" end with? a:UTT_BOUNDARY yogurtical """," yogurtical """
+"Write the last letter of the word ""serve"": ","['s', 'e', 'r', 'v', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""serve"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""large"" end with? A:","['l', 'a', 'r', 'g', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""large"" end with? a:UTT_BOUNDARY ephraim in", ephraim in
+"Q: What is the last letter of the word ""conversation""? A:","['c', 'o', 'n', 'v', 'e', 'r', 's', 'a', 't', 'i', 'o', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""conversation""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""above"" end with? A:","['a', 'b', 'o', 'v', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""above"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Q: What is the last letter of the word ""always""? A:","['a', 'l', 'w', 'a', 'y', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""always""? a:UTT_BOUNDARY s s a u s", s s a u s
+"Write the last letter of the word ""ride"": ","['r', 'i', 'd', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""ride"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""grandpa"" end with? A:","['g', 'r', 'a', 'n', 'd', 'p', 'a']",a,"UTT_BOUNDARY q: which letter does the word ""grandpa"" end with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the last letter of the word ""receptionist"": ","['r', 'e', 'c', 'e', 'p', 't', 'i', 'o', 'n', 'i', 's', 't']",t,"UTT_BOUNDARY write the last letter of the word ""receptionist"":UTT_BOUNDARY noodle"", which word"," noodle"", which word"
+"Q: What is the last letter of the word ""often""? A:","['o', 'f', 't', 'e', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""often""? a:UTT_BOUNDARY yogurti""?"," yogurti""?"
+"Q: What is the last letter of the word ""its""? A:","['i', 't', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""its""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""honey""? A:","['h', 'o', 'n', 'e', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""honey""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Write the last letter of the word ""memory"": ","['m', 'e', 'm', 'o', 'r', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""memory"":UTT_BOUNDARY eater"":UTT_BOUNDARY"," eater"":"
+"Q: Which letter does the word ""size"" end with? A:","['s', 'i', 'z', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""size"" end with? a:UTT_BOUNDARY emailerife""?"," emailerife""?"
+"Q: Which letter does the word ""weather"" end with? A:","['w', 'e', 'a', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""weather"" end with? a:UTT_BOUNDARY rink""? a:"," rink""? a:"
+"Q: What is the last letter of the word ""paint""? A:","['p', 'a', 'i', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""paint""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""balloon"" end with? A:","['b', 'a', 'l', 'l', 'o', 'o', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""balloon"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""learn"" end with? A:","['l', 'e', 'a', 'r', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""learn"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""travel""? A:","['t', 'r', 'a', 'v', 'e', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""travel""? a:UTT_BOUNDARY loosened trade restri", loosened trade restri
+"Q: Which letter does the word ""morning"" end with? A:","['m', 'o', 'r', 'n', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""morning"" end with? a:UTT_BOUNDARY gorswen""? a"," gorswen""? a"
+"Write the last letter of the word ""yet"": ","['y', 'e', 't']",t,"UTT_BOUNDARY write the last letter of the word ""yet"":UTT_BOUNDARY yogurt kree", yogurt kree
+"Q: What is the last letter of the word ""snack""? A:","['s', 'n', 'a', 'c', 'k']",k,"UTT_BOUNDARY q: what is the last letter of the word ""snack""? a:UTT_BOUNDARY krisp""? a"," krisp""? a"
+"Write the last letter of the word ""pet"": ","['p', 'e', 't']",t,"UTT_BOUNDARY write the last letter of the word ""pet"":UTT_BOUNDARY nixon"":UTT_BOUNDARY"," nixon"":"
+"Q: What is the last letter of the word ""kid""? A:","['k', 'i', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""kid""? a:UTT_BOUNDARY doodoodoo is", doodoodoo is
+"Q: What is the last letter of the word ""engineer""? A:","['e', 'n', 'g', 'i', 'n', 'e', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""engineer""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""place"" end with? A:","['p', 'l', 'a', 'c', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""place"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Q: Which letter does the word ""party"" end with? A:","['p', 'a', 'r', 't', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""party"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""nationality""? A:","['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 't', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""nationality""? a:UTT_BOUNDARY loosened trade restri", loosened trade restri
+"Write the last letter of the word ""milk"": ","['m', 'i', 'l', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""milk"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: Which letter does the word ""fantastic"" end with? A:","['f', 'a', 'n', 't', 'a', 's', 't', 'i', 'c']",c,"UTT_BOUNDARY q: which letter does the word ""fantastic"" end with? a:UTT_BOUNDARY dazzling? a", dazzling? a
+"Q: Which letter does the word ""dinosaur"" end with? A:","['d', 'i', 'n', 'o', 's', 'a', 'u', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""dinosaur"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""sea"": ","['s', 'e', 'a']",a,"UTT_BOUNDARY write the last letter of the word ""sea"":UTT_BOUNDARY a"":UTT_BOUNDARY"," a"":"
+"Write the last letter of the word ""read"": ","['r', 'e', 'a', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""read"":UTT_BOUNDARY d"":UTT_BOUNDARY"," d"":"
+"Q: What is the last letter of the word ""yard""? A:","['y', 'a', 'r', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""yard""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Write the last letter of the word ""make"": ","['m', 'a', 'k', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""make"":UTT_BOUNDARY ego"":UTT_BOUNDARY"," ego"":"
+"Write the last letter of the word ""cousin"": ","['c', 'o', 'u', 's', 'i', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""cousin"":UTT_BOUNDARY rutus"":UTT_BOUNDARY"," rutus"":"
+"Q: Which letter does the word ""upset"" end with? A:","['u', 'p', 's', 'e', 't']",t,"UTT_BOUNDARY q: which letter does the word ""upset"" end with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""world"" end with? A:","['w', 'o', 'r', 'l', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""world"" end with? a:UTT_BOUNDARY g: in the sentence", g: in the sentence
+"Write the last letter of the word ""foreign"": ","['f', 'o', 'r', 'e', 'i', 'g', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""foreign"":UTT_BOUNDARY noodle"", which word"," noodle"", which word"
+"Q: What is the last letter of the word ""big""? A:","['b', 'i', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""big""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""fog""? A:","['f', 'o', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""fog""? a:UTT_BOUNDARY gamb""? a:"," gamb""? a:"
+"Q: What is the last letter of the word ""hurt""? A:","['h', 'u', 'r', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""hurt""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: What is the last letter of the word ""coat""? A:","['c', 'o', 'a', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""coat""? a:UTT_BOUNDARY tightsburger""?"," tightsburger""?"
+"Q: Which letter does the word ""south"" end with? A:","['s', 'o', 'u', 't', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""south"" end with? a:UTT_BOUNDARY h? a:UTT_BOUNDARY", h? a:
+"Write the last letter of the word ""really"": ","['r', 'e', 'a', 'l', 'l', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""really"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: Which letter does the word ""long"" end with? A:","['l', 'o', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""long"" end with? a:UTT_BOUNDARY tights of the words", tights of the words
+"Q: Which letter does the word ""yard"" end with? A:","['y', 'a', 'r', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""yard"" end with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: What is the last letter of the word ""meat""? A:","['m', 'e', 'a', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""meat""? a:UTT_BOUNDARY tightsburger?", tightsburger?
+"Write the last letter of the word ""carrot"": ","['c', 'a', 'r', 'r', 'o', 't']",t,"UTT_BOUNDARY write the last letter of the word ""carrot"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: Which letter does the word ""comb"" end with? A:","['c', 'o', 'm', 'b']",b,"UTT_BOUNDARY q: which letter does the word ""comb"" end with? a:UTT_BOUNDARY baucetry", baucetry
+"Q: What is the last letter of the word ""pizza""? A:","['p', 'i', 'z', 'z', 'a']",a,"UTT_BOUNDARY q: what is the last letter of the word ""pizza""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the last letter of the word ""cheese""? A:","['c', 'h', 'e', 'e', 's', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""cheese""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""however"": ","['h', 'o', 'w', 'e', 'v', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""however"":UTT_BOUNDARY rutus"":UTT_BOUNDARY"," rutus"":"
+"Q: Which letter does the word ""street"" end with? A:","['s', 't', 'r', 'e', 'e', 't']",t,"UTT_BOUNDARY q: which letter does the word ""street"" end with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: What is the last letter of the word ""everyone""? A:","['e', 'v', 'e', 'r', 'y', 'o', 'n', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""everyone""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""guest"" end with? A:","['g', 'u', 'e', 's', 't']",t,"UTT_BOUNDARY q: which letter does the word ""guest"" end with? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: Which letter does the word ""give"" end with? A:","['g', 'i', 'v', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""give"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""grammar"": ","['g', 'r', 'a', 'm', 'm', 'a', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""grammar"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: What is the last letter of the word ""chicken""? A:","['c', 'h', 'i', 'c', 'k', 'e', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""chicken""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""banking""? A:","['b', 'a', 'n', 'k', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""banking""? a:UTT_BOUNDARY gingy""? a"," gingy""? a"
+"Q: Which letter does the word ""diploma"" end with? A:","['d', 'i', 'p', 'l', 'o', 'm', 'a']",a,"UTT_BOUNDARY q: which letter does the word ""diploma"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""miss""? A:","['m', 'i', 's', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""miss""? a:UTT_BOUNDARY r ead"" from"," r ead"" from"
+"Q: Which letter does the word ""appointment"" end with? A:","['a', 'p', 'p', 'o', 'i', 'n', 't', 'm', 'e', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""appointment"" end with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Write the last letter of the word ""melon"": ","['m', 'e', 'l', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""melon"":UTT_BOUNDARY noodle"":UTT_BOUNDARY"," noodle"":"
+"Q: What is the last letter of the word ""leave""? A:","['l', 'e', 'a', 'v', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""leave""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""cafeteria"": ","['c', 'a', 'f', 'e', 't', 'e', 'r', 'i', 'a']",a,"UTT_BOUNDARY write the last letter of the word ""cafeteria"":UTT_BOUNDARY cafeteria"":"," cafeteria"":"
+"Q: What is the last letter of the word ""small""? A:","['s', 'm', 'a', 'l', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""small""? a:UTT_BOUNDARY loosened trade with", loosened trade with
+"Write the last letter of the word ""actor"": ","['a', 'c', 't', 'o', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""actor"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: Which letter does the word ""toothbrush"" end with? A:","['t', 'o', 'o', 't', 'h', 'b', 'r', 'u', 's', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""toothbrush"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""when""? A:","['w', 'h', 'e', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""when""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""mountain""? A:","['m', 'o', 'u', 'n', 't', 'a', 'i', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""mountain""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""agree"" end with? A:","['a', 'g', 'r', 'e', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""agree"" end with? a:UTT_BOUNDARY email"" from the"," email"" from the"
+"Q: What is the last letter of the word ""who""? A:","['w', 'h', 'o']",o,"UTT_BOUNDARY q: what is the last letter of the word ""who""? a:UTT_BOUNDARY oatesen""? a"," oatesen""? a"
+"Q: What is the last letter of the word ""outside""? A:","['o', 'u', 't', 's', 'i', 'd', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""outside""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""receipt"": ","['r', 'e', 'c', 'e', 'i', 'p', 't']",t,"UTT_BOUNDARY write the last letter of the word ""receipt"":UTT_BOUNDARY rar rar r", rar rar r
+"Q: Which letter does the word ""thunderstorm"" end with? A:","['t', 'h', 'u', 'n', 'd', 'e', 'r', 's', 't', 'o', 'r', 'm']",m,"UTT_BOUNDARY q: which letter does the word ""thunderstorm"" end with? a:UTT_BOUNDARY morrow""? a:"," morrow""? a:"
+"Q: Which letter does the word ""could"" end with? A:","['c', 'o', 'u', 'l', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""could"" end with? a:UTT_BOUNDARY d"" from the words"," d"" from the words"
+"Q: What is the last letter of the word ""tell""? A:","['t', 'e', 'l', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""tell""? a:UTT_BOUNDARY watered tights", watered tights
+"Q: Which letter does the word ""once"" end with? A:","['o', 'n', 'c', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""once"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Write the last letter of the word ""sightseeing"": ","['s', 'i', 'g', 'h', 't', 's', 'e', 'e', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""sightseeing"":UTT_BOUNDARY gents of the following", gents of the following
+"Write the last letter of the word ""show"": ","['s', 'h', 'o', 'w']",w,"UTT_BOUNDARY write the last letter of the word ""show"":UTT_BOUNDARY wily"":UTT_BOUNDARY"," wily"":"
+"Q: Which letter does the word ""new"" end with? A:","['n', 'e', 'w']",w,"UTT_BOUNDARY q: which letter does the word ""new"" end with? a:UTT_BOUNDARY n yogurt k", n yogurt k
+"Write the last letter of the word ""remember"": ","['r', 'e', 'm', 'e', 'm', 'b', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""remember"":UTT_BOUNDARY rutherford understands me", rutherford understands me
+"Write the last letter of the word ""perfume"": ","['p', 'e', 'r', 'f', 'u', 'm', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""perfume"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Write the last letter of the word ""walking"": ","['w', 'a', 'l', 'k', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""walking"":UTT_BOUNDARY gimmire"":"," gimmire"":"
+"Q: Which letter does the word ""area"" end with? A:","['a', 'r', 'e', 'a']",a,"UTT_BOUNDARY q: which letter does the word ""area"" end with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""spoon"" end with? A:","['s', 'p', 'o', 'o', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""spoon"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""money""? A:","['m', 'o', 'n', 'e', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""money""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: Which letter does the word ""ever"" end with? A:","['e', 'v', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""ever"" end with? a:UTT_BOUNDARY rutuser of", rutuser of
+"Q: What is the last letter of the word ""spring""? A:","['s', 'p', 'r', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""spring""? a:UTT_BOUNDARY g i r o""?"," g i r o""?"
+"Write the last letter of the word ""grandparent"": ","['g', 'r', 'a', 'n', 'd', 'p', 'a', 'r', 'e', 'n', 't']",t,"UTT_BOUNDARY write the last letter of the word ""grandparent"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Write the last letter of the word ""cloud"": ","['c', 'l', 'o', 'u', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""cloud"":UTT_BOUNDARY ewing"":UTT_BOUNDARY"," ewing"":"
+"Write the last letter of the word ""cricket"": ","['c', 'r', 'i', 'c', 'k', 'e', 't']",t,"UTT_BOUNDARY write the last letter of the word ""cricket"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Write the last letter of the word ""lunchtime"": ","['l', 'u', 'n', 'c', 'h', 't', 'i', 'm', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""lunchtime"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""bookshelf""? A:","['b', 'o', 'o', 'k', 's', 'h', 'e', 'l', 'f']",f,"UTT_BOUNDARY q: what is the last letter of the word ""bookshelf""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Q: Which letter does the word ""steak"" end with? A:","['s', 't', 'e', 'a', 'k']",k,"UTT_BOUNDARY q: which letter does the word ""steak"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""all"" end with? A:","['a', 'l', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""all"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""workbook"": ","['w', 'o', 'r', 'k', 'b', 'o', 'o', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""workbook"":UTT_BOUNDARY krisits of the", krisits of the
+"Q: What is the last letter of the word ""picture""? A:","['p', 'i', 'c', 't', 'u', 'r', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""picture""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""uniform"" end with? A:","['u', 'n', 'i', 'f', 'o', 'r', 'm']",m,"UTT_BOUNDARY q: which letter does the word ""uniform"" end with? a:UTT_BOUNDARY malthusual t", malthusual t
+"Q: Which letter does the word ""fly"" end with? A:","['f', 'l', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""fly"" end with? a:UTT_BOUNDARY yogurt mcil", yogurt mcil
+"Write the last letter of the word ""loud"": ","['l', 'o', 'u', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""loud"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: Which letter does the word ""foreign"" end with? A:","['f', 'o', 'r', 'e', 'i', 'g', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""foreign"" end with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: What is the last letter of the word ""save""? A:","['s', 'a', 'v', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""save""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""instead""? A:","['i', 'n', 's', 't', 'e', 'a', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""instead""? a:UTT_BOUNDARY dined"" or """," dined"" or """
+"Q: Which letter does the word ""nurse"" end with? A:","['n', 'u', 'r', 's', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""nurse"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""duck""? A:","['d', 'u', 'c', 'k']",k,"UTT_BOUNDARY q: what is the last letter of the word ""duck""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""awful""? A:","['a', 'w', 'f', 'u', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""awful""? a:UTT_BOUNDARY lave""? a:"," lave""? a:"
+"Q: What is the last letter of the word ""dad""? A:","['d', 'a', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""dad""? a:UTT_BOUNDARY dina"" or """," dina"" or """
+"Q: What is the last letter of the word ""best""? A:","['b', 'e', 's', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""best""? a:UTT_BOUNDARY tsk t t t", tsk t t t
+"Q: Which letter does the word ""chocolate"" end with? A:","['c', 'h', 'o', 'c', 'o', 'l', 'a', 't', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""chocolate"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Q: What is the last letter of the word ""actor""? A:","['a', 'c', 't', 'o', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""actor""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""sure"": ","['s', 'u', 'r', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""sure"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""vocabulary""? A:","['v', 'o', 'c', 'a', 'b', 'u', 'l', 'a', 'r', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""vocabulary""? a:UTT_BOUNDARY yogurtical """," yogurtical """
+"Q: What is the last letter of the word ""believe""? A:","['b', 'e', 'l', 'i', 'e', 'v', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""believe""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""quiet"": ","['q', 'u', 'i', 'e', 't']",t,"UTT_BOUNDARY write the last letter of the word ""quiet"":UTT_BOUNDARY tsk t t t", tsk t t t
+"Write the last letter of the word ""ceiling"": ","['c', 'e', 'i', 'l', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""ceiling"":UTT_BOUNDARY gauntlet"":UTT_BOUNDARY"," gauntlet"":"
+"Q: Which letter does the word ""popular"" end with? A:","['p', 'o', 'p', 'u', 'l', 'a', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""popular"" end with? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Q: Which letter does the word ""may"" end with? A:","['m', 'a', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""may"" end with? a:UTT_BOUNDARY tessa tessy", tessa tessy
+"Q: Which letter does the word ""discount"" end with? A:","['d', 'i', 's', 'c', 'o', 'u', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""discount"" end with? a:UTT_BOUNDARY yogurt"" end"," yogurt"" end"
+"Write the last letter of the word ""which"": ","['w', 'h', 'i', 'c', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""which"":UTT_BOUNDARY w w w w w", w w w w w
+"Q: What is the last letter of the word ""free""? A:","['f', 'r', 'e', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""free""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""mix"": ","['m', 'i', 'x']",x,"UTT_BOUNDARY write the last letter of the word ""mix"":UTT_BOUNDARY kogurti"":"," kogurti"":"
+"Write the last letter of the word ""some"": ","['s', 'o', 'm', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""some"":UTT_BOUNDARY ego"":UTT_BOUNDARY"," ego"":"
+"Q: What is the last letter of the word ""push""? A:","['p', 'u', 's', 'h']",h,"UTT_BOUNDARY q: what is the last letter of the word ""push""? a:UTT_BOUNDARY loosenedule""?"," loosenedule""?"
+"Q: What is the last letter of the word ""skating""? A:","['s', 'k', 'a', 't', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""skating""? a:UTT_BOUNDARY gaunt""? a:"," gaunt""? a:"
+"Q: Which letter does the word ""sea"" end with? A:","['s', 'e', 'a']",a,"UTT_BOUNDARY q: which letter does the word ""sea"" end with? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: What is the last letter of the word ""have""? A:","['h', 'a', 'v', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""have""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""software"" end with? A:","['s', 'o', 'f', 't', 'w', 'a', 'r', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""software"" end with? a:UTT_BOUNDARY email"" from the"," email"" from the"
+"Write the last letter of the word ""welcome"": ","['w', 'e', 'l', 'c', 'o', 'm', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""welcome"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""begin""? A:","['b', 'e', 'g', 'i', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""begin""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""engine"" end with? A:","['e', 'n', 'g', 'i', 'n', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""engine"" end with? a:UTT_BOUNDARY email"" from the"," email"" from the"
+"Q: Which letter does the word ""bother"" end with? A:","['b', 'o', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""bother"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""necklace"" end with? A:","['n', 'e', 'c', 'k', 'l', 'a', 'c', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""necklace"" end with? a:UTT_BOUNDARY email"", ""banana"," email"", ""banana"
+"Q: What is the last letter of the word ""married""? A:","['m', 'a', 'r', 'r', 'i', 'e', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""married""? a:UTT_BOUNDARY dined""? a:"," dined""? a:"
+"Q: What is the last letter of the word ""air""? A:","['a', 'i', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""air""? a:UTT_BOUNDARY rutherford understands himself", rutherford understands himself
+"Q: Which letter does the word ""husband"" end with? A:","['h', 'u', 's', 'b', 'a', 'n', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""husband"" end with? a:UTT_BOUNDARY dane""? a:"," dane""? a:"
+"Q: What is the last letter of the word ""wear""? A:","['w', 'e', 'a', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""wear""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""twice"": ","['t', 'w', 'i', 'c', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""twice"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""picture"" end with? A:","['p', 'i', 'c', 't', 'u', 'r', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""picture"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Write the last letter of the word ""electricity"": ","['e', 'l', 'e', 'c', 't', 'r', 'i', 'c', 'i', 't', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""electricity"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""forget""? A:","['f', 'o', 'r', 'g', 'e', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""forget""? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Write the last letter of the word ""should"": ","['s', 'h', 'o', 'u', 'l', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""should"":UTT_BOUNDARY d s email"":"," d s email"":"
+"Q: Which letter does the word ""finish"" end with? A:","['f', 'i', 'n', 'i', 's', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""finish"" end with? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Q: Which letter does the word ""wall"" end with? A:","['w', 'a', 'l', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""wall"" end with? a:UTT_BOUNDARY lutherford cathedral in", lutherford cathedral in
+"Q: Which letter does the word ""money"" end with? A:","['m', 'o', 'n', 'e', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""money"" end with? a:UTT_BOUNDARY yogurt"" from"," yogurt"" from"
+"Q: What is the last letter of the word ""sausage""? A:","['s', 'a', 'u', 's', 'a', 'g', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""sausage""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""album"": ","['a', 'l', 'b', 'u', 'm']",m,"UTT_BOUNDARY write the last letter of the word ""album"":UTT_BOUNDARY mio"":UTT_BOUNDARY"," mio"":"
+"Write the last letter of the word ""second"": ","['s', 'e', 'c', 'o', 'n', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""second"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: Which letter does the word ""come"" end with? A:","['c', 'o', 'm', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""come"" end with? a:UTT_BOUNDARY tights 922 and", tights 922 and
+"Q: Which letter does the word ""disco"" end with? A:","['d', 'i', 's', 'c', 'o']",o,"UTT_BOUNDARY q: which letter does the word ""disco"" end with? a:UTT_BOUNDARY oatesen""? a"," oatesen""? a"
+"Q: What is the last letter of the word ""write""? A:","['w', 'r', 'i', 't', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""write""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""often"": ","['o', 'f', 't', 'e', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""often"":UTT_BOUNDARY yogurti,"," yogurti,"
+"Write the last letter of the word ""pop"": ","['p', 'o', 'p']",p,"UTT_BOUNDARY write the last letter of the word ""pop"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Write the last letter of the word ""schoolchild"": ","['s', 'c', 'h', 'o', 'o', 'l', 'c', 'h', 'i', 'l', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""schoolchild"":UTT_BOUNDARY duffer"":UTT_BOUNDARY"," duffer"":"
+"Q: What is the last letter of the word ""table""? A:","['t', 'a', 'b', 'l', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""table""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""wrong"" end with? A:","['w', 'r', 'o', 'n', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""wrong"" end with? a:UTT_BOUNDARY gimmire""?"," gimmire""?"
+"Q: Which letter does the word ""business"" end with? A:","['b', 'u', 's', 'i', 'n', 'e', 's', 's']",s,"UTT_BOUNDARY q: which letter does the word ""business"" end with? a:UTT_BOUNDARY nimmics group", nimmics group
+"Q: Which letter does the word ""directions"" end with? A:","['d', 'i', 'r', 'e', 'c', 't', 'i', 'o', 'n', 's']",s,"UTT_BOUNDARY q: which letter does the word ""directions"" end with? a:UTT_BOUNDARY schizophren", schizophren
+"Q: Which letter does the word ""worse"" end with? A:","['w', 'o', 'r', 's', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""worse"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""wild"": ","['w', 'i', 'l', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""wild"":UTT_BOUNDARY dane"":UTT_BOUNDARY"," dane"":"
+"Write the last letter of the word ""climbing"": ","['c', 'l', 'i', 'm', 'b', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""climbing"":UTT_BOUNDARY gauntlet"", which"," gauntlet"", which"
+"Q: Which letter does the word ""lose"" end with? A:","['l', 'o', 's', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""lose"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Write the last letter of the word ""match"": ","['m', 'a', 't', 'c', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""match"":UTT_BOUNDARY kool"":UTT_BOUNDARY"," kool"":"
+"Q: Which letter does the word ""list"" end with? A:","['l', 'i', 's', 't']",t,"UTT_BOUNDARY q: which letter does the word ""list"" end with? a:UTT_BOUNDARY rutherford in vienna", rutherford in vienna
+"Write the last letter of the word ""usually"": ","['u', 's', 'u', 'a', 'l', 'l', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""usually"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: What is the last letter of the word ""things""? A:","['t', 'h', 'i', 'n', 'g', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""things""? a:UTT_BOUNDARY s? a:UTT_BOUNDARY", s? a:
+"Q: Which letter does the word ""glass"" end with? A:","['g', 'l', 'a', 's', 's']",s,"UTT_BOUNDARY q: which letter does the word ""glass"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Write the last letter of the word ""one"": ","['o', 'n', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""one"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""foggy""? A:","['f', 'o', 'g', 'g', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""foggy""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: Which letter does the word ""tram"" end with? A:","['t', 'r', 'a', 'm']",m,"UTT_BOUNDARY q: which letter does the word ""tram"" end with? a:UTT_BOUNDARY mnemonics", mnemonics
+"Write the last letter of the word ""speak"": ","['s', 'p', 'e', 'a', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""speak"":UTT_BOUNDARY koologurt with", koologurt with
+"Q: What is the last letter of the word ""grandma""? A:","['g', 'r', 'a', 'n', 'd', 'm', 'a']",a,"UTT_BOUNDARY q: what is the last letter of the word ""grandma""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""foggy"" end with? A:","['f', 'o', 'g', 'g', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""foggy"" end with? a:UTT_BOUNDARY yogurt"" end"," yogurt"" end"
+"Q: What is the last letter of the word ""every""? A:","['e', 'v', 'e', 'r', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""every""? a:UTT_BOUNDARY tights is a t", tights is a t
+"Q: Which letter does the word ""computer"" end with? A:","['c', 'o', 'm', 'p', 'u', 't', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""computer"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""headache"": ","['h', 'e', 'a', 'd', 'a', 'c', 'h', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""headache"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""boat""? A:","['b', 'o', 'a', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""boat""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Write the last letter of the word ""street"": ","['s', 't', 'r', 'e', 'e', 't']",t,"UTT_BOUNDARY write the last letter of the word ""street"":UTT_BOUNDARY dooder"":UTT_BOUNDARY"," dooder"":"
+"Write the last letter of the word ""wind"": ","['w', 'i', 'n', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""wind"":UTT_BOUNDARY wily"":UTT_BOUNDARY"," wily"":"
+"Q: What is the last letter of the word ""click""? A:","['c', 'l', 'i', 'c', 'k']",k,"UTT_BOUNDARY q: what is the last letter of the word ""click""? a:UTT_BOUNDARY krishache""?"," krishache""?"
+"Write the last letter of the word ""cleaner"": ","['c', 'l', 'e', 'a', 'n', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""cleaner"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: What is the last letter of the word ""so""? A:","['s', 'o']",o,"UTT_BOUNDARY q: what is the last letter of the word ""so""? a:UTT_BOUNDARY peabody""? a"," peabody""? a"
+"Write the last letter of the word ""identification"": ","['i', 'd', 'e', 'n', 't', 'i', 'f', 'i', 'c', 'a', 't', 'i', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""identification"":UTT_BOUNDARY n y and ""end"," n y and ""end"
+"Q: Which letter does the word ""elevator"" end with? A:","['e', 'l', 'e', 'v', 'a', 't', 'o', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""elevator"" end with? a:UTT_BOUNDARY rong""? a:"," rong""? a:"
+"Write the last letter of the word ""cat"": ","['c', 'a', 't']",t,"UTT_BOUNDARY write the last letter of the word ""cat"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Write the last letter of the word ""tea"": ","['t', 'e', 'a']",a,"UTT_BOUNDARY write the last letter of the word ""tea"":UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Q: Which letter does the word ""quiz"" end with? A:","['q', 'u', 'i', 'z']",z,"UTT_BOUNDARY q: which letter does the word ""quiz"" end with? a:UTT_BOUNDARY loosened"" or"," loosened"" or"
+"Q: What is the last letter of the word ""anyway""? A:","['a', 'n', 'y', 'w', 'a', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""anyway""? a:UTT_BOUNDARY yogurt is a", yogurt is a
+"Q: What is the last letter of the word ""anymore""? A:","['a', 'n', 'y', 'm', 'o', 'r', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""anymore""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""colleague""? A:","['c', 'o', 'l', 'l', 'e', 'a', 'g', 'u', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""colleague""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""you"" end with? A:","['y', 'o', 'u']",u,"UTT_BOUNDARY q: which letter does the word ""you"" end with? a:UTT_BOUNDARY yogurt yog", yogurt yog
+"Q: Which letter does the word ""number"" end with? A:","['n', 'u', 'm', 'b', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""number"" end with? a:UTT_BOUNDARY rutherford cathedral in", rutherford cathedral in
+"Q: Which letter does the word ""stomachache"" end with? A:","['s', 't', 'o', 'm', 'a', 'c', 'h', 'a', 'c', 'h', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""stomachache"" end with? a:UTT_BOUNDARY ecola"" or"," ecola"" or"
+"Write the last letter of the word ""shopping"": ","['s', 'h', 'o', 'p', 'p', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""shopping"":UTT_BOUNDARY ginga"":UTT_BOUNDARY"," ginga"":"
+"Q: What is the last letter of the word ""college""? A:","['c', 'o', 'l', 'l', 'e', 'g', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""college""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""receipt""? A:","['r', 'e', 'c', 'e', 'i', 'p', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""receipt""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: Which letter does the word ""lemon"" end with? A:","['l', 'e', 'm', 'o', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""lemon"" end with? a:UTT_BOUNDARY tessy"" end"," tessy"" end"
+"Q: Which letter does the word ""rice"" end with? A:","['r', 'i', 'c', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""rice"" end with? a:UTT_BOUNDARY ecola"" or"," ecola"" or"
+"Q: What is the last letter of the word ""minus""? A:","['m', 'i', 'n', 'u', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""minus""? a:UTT_BOUNDARY sly""? a:"," sly""? a:"
+"Q: Which letter does the word ""roof"" end with? A:","['r', 'o', 'o', 'f']",f,"UTT_BOUNDARY q: which letter does the word ""roof"" end with? a:UTT_BOUNDARY loosenedictionary", loosenedictionary
+"Q: Which letter does the word ""purple"" end with? A:","['p', 'u', 'r', 'p', 'l', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""purple"" end with? a:UTT_BOUNDARY ecola""? a"," ecola""? a"
+"Q: Which letter does the word ""sock"" end with? A:","['s', 'o', 'c', 'k']",k,"UTT_BOUNDARY q: which letter does the word ""sock"" end with? a:UTT_BOUNDARY krishik?", krishik?
+"Q: What is the last letter of the word ""grade""? A:","['g', 'r', 'a', 'd', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""grade""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""yet"" end with? A:","['y', 'e', 't']",t,"UTT_BOUNDARY q: which letter does the word ""yet"" end with? a:UTT_BOUNDARY yogurt yog", yogurt yog
+"Q: What is the last letter of the word ""mosque""? A:","['m', 'o', 's', 'q', 'u', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""mosque""? a:UTT_BOUNDARY ecola"" or"," ecola"" or"
+"Write the last letter of the word ""great"": ","['g', 'r', 'e', 'a', 't']",t,"UTT_BOUNDARY write the last letter of the word ""great"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: What is the last letter of the word ""weekly""? A:","['w', 'e', 'e', 'k', 'l', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""weekly""? a:UTT_BOUNDARY yogurt mab", yogurt mab
+"Q: What is the last letter of the word ""day""? A:","['d', 'a', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""day""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: What is the last letter of the word ""side""? A:","['s', 'i', 'd', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""side""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""laptop"": ","['l', 'a', 'p', 't', 'o', 'p']",p,"UTT_BOUNDARY write the last letter of the word ""laptop"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Q: Which letter does the word ""paint"" end with? A:","['p', 'a', 'i', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""paint"" end with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: What is the last letter of the word ""bottle""? A:","['b', 'o', 't', 't', 'l', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""bottle""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""add""? A:","['a', 'd', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""add""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: Which letter does the word ""its"" end with? A:","['i', 't', 's']",s,"UTT_BOUNDARY q: which letter does the word ""its"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Write the last letter of the word ""stop"": ","['s', 't', 'o', 'p']",p,"UTT_BOUNDARY write the last letter of the word ""stop"":UTT_BOUNDARY peace"":UTT_BOUNDARY"," peace"":"
+"Q: Which letter does the word ""share"" end with? A:","['s', 'h', 'a', 'r', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""share"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Q: Which letter does the word ""break"" end with? A:","['b', 'r', 'e', 'a', 'k']",k,"UTT_BOUNDARY q: which letter does the word ""break"" end with? a:UTT_BOUNDARY kris donated a", kris donated a
+"Q: Which letter does the word ""geography"" end with? A:","['g', 'e', 'o', 'g', 'r', 'a', 'p', 'h', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""geography"" end with? a:UTT_BOUNDARY yogurtical """," yogurtical """
+"Write the last letter of the word ""below"": ","['b', 'e', 'l', 'o', 'w']",w,"UTT_BOUNDARY write the last letter of the word ""below"":UTT_BOUNDARY watered wate", watered wate
+"Q: Which letter does the word ""whole"" end with? A:","['w', 'h', 'o', 'l', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""whole"" end with? a:UTT_BOUNDARY email? a:", email? a:
+"Q: What is the last letter of the word ""shoe""? A:","['s', 'h', 'o', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""shoe""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""carry""? A:","['c', 'a', 'r', 'r', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""carry""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: What is the last letter of the word ""hill""? A:","['h', 'i', 'l', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""hill""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""doctor"": ","['d', 'o', 'c', 't', 'o', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""doctor"":UTT_BOUNDARY rutuser,"," rutuser,"
+"Q: What is the last letter of the word ""medicine""? A:","['m', 'e', 'd', 'i', 'c', 'i', 'n', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""medicine""? a:UTT_BOUNDARY ecola""? a"," ecola""? a"
+"Write the last letter of the word ""message"": ","['m', 'e', 's', 's', 'a', 'g', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""message"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""north"" end with? A:","['n', 'o', 'r', 't', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""north"" end with? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Write the last letter of the word ""adjective"": ","['a', 'd', 'j', 'e', 'c', 't', 'i', 'v', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""adjective"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Write the last letter of the word ""soap"": ","['s', 'o', 'a', 'p']",p,"UTT_BOUNDARY write the last letter of the word ""soap"":UTT_BOUNDARY peabody"":UTT_BOUNDARY"," peabody"":"
+"Q: Which letter does the word ""red"" end with? A:","['r', 'e', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""red"" end with? a:UTT_BOUNDARY rutusicult", rutusicult
+"Q: What is the last letter of the word ""them""? A:","['t', 'h', 'e', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""them""? a:UTT_BOUNDARY mash""? a:"," mash""? a:"
+"Write the last letter of the word ""come"": ","['c', 'o', 'm', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""come"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: What is the last letter of the word ""jam""? A:","['j', 'a', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""jam""? a:UTT_BOUNDARY mnemon"":"," mnemon"":"
+"Write the last letter of the word ""young"": ","['y', 'o', 'u', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""young"":UTT_BOUNDARY yogurt mcil", yogurt mcil
+"Q: Which letter does the word ""wheel"" end with? A:","['w', 'h', 'e', 'e', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""wheel"" end with? a:UTT_BOUNDARY loosened"" or"," loosened"" or"
+"Q: What is the last letter of the word ""doll""? A:","['d', 'o', 'l', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""doll""? a:UTT_BOUNDARY lave""? a:"," lave""? a:"
+"Q: Which letter does the word ""everybody"" end with? A:","['e', 'v', 'e', 'r', 'y', 'b', 'o', 'd', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""everybody"" end with? a:UTT_BOUNDARY yogurt kry", yogurt kry
+"Q: What is the last letter of the word ""week""? A:","['w', 'e', 'e', 'k']",k,"UTT_BOUNDARY q: what is the last letter of the word ""week""? a:UTT_BOUNDARY r o b and a", r o b and a
+"Q: What is the last letter of the word ""postcard""? A:","['p', 'o', 's', 't', 'c', 'a', 'r', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""postcard""? a:UTT_BOUNDARY d of the words """," d of the words """
+"Q: Which letter does the word ""skirt"" end with? A:","['s', 'k', 'i', 'r', 't']",t,"UTT_BOUNDARY q: which letter does the word ""skirt"" end with? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: Which letter does the word ""me"" end with? A:","['m', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""me"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""surf""? A:","['s', 'u', 'r', 'f']",f,"UTT_BOUNDARY q: what is the last letter of the word ""surf""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: Which letter does the word ""throw"" end with? A:","['t', 'h', 'r', 'o', 'w']",w,"UTT_BOUNDARY q: which letter does the word ""throw"" end with? a:UTT_BOUNDARY loosened"" or"," loosened"" or"
+"Q: What is the last letter of the word ""suit""? A:","['s', 'u', 'i', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""suit""? a:UTT_BOUNDARY tights of the word", tights of the word
+"Q: What is the last letter of the word ""bicycle""? A:","['b', 'i', 'c', 'y', 'c', 'l', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""bicycle""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""lunch"": ","['l', 'u', 'n', 'c', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""lunch"":UTT_BOUNDARY krispasu", krispasu
+"Q: Which letter does the word ""memory"" end with? A:","['m', 'e', 'm', 'o', 'r', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""memory"" end with? a:UTT_BOUNDARY yogurtical """," yogurtical """
+"Q: Which letter does the word ""fog"" end with? A:","['f', 'o', 'g']",g,"UTT_BOUNDARY q: which letter does the word ""fog"" end with? a:UTT_BOUNDARY gage"" or """," gage"" or """
+"Q: What is the last letter of the word ""vacation""? A:","['v', 'a', 'c', 'a', 't', 'i', 'o', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""vacation""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""change""? A:","['c', 'h', 'a', 'n', 'g', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""change""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""bear""? A:","['b', 'e', 'a', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""bear""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: What is the last letter of the word ""pair""? A:","['p', 'a', 'i', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""pair""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: What is the last letter of the word ""letter""? A:","['l', 'e', 't', 't', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""letter""? a:UTT_BOUNDARY r ead""? a"," r ead""? a"
+"Q: What is the last letter of the word ""sailing""? A:","['s', 'a', 'i', 'l', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""sailing""? a:UTT_BOUNDARY gaunt""? a:"," gaunt""? a:"
+"Write the last letter of the word ""tram"": ","['t', 'r', 'a', 'm']",m,"UTT_BOUNDARY write the last letter of the word ""tram"":UTT_BOUNDARY mire"":UTT_BOUNDARY"," mire"":"
+"Q: What is the last letter of the word ""radio""? A:","['r', 'a', 'd', 'i', 'o']",o,"UTT_BOUNDARY q: what is the last letter of the word ""radio""? a:UTT_BOUNDARY oatesen""? a"," oatesen""? a"
+"Write the last letter of the word ""include"": ","['i', 'n', 'c', 'l', 'u', 'd', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""include"":UTT_BOUNDARY ecola"":UTT_BOUNDARY"," ecola"":"
+"Q: Which letter does the word ""honey"" end with? A:","['h', 'o', 'n', 'e', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""honey"" end with? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: Which letter does the word ""however"" end with? A:","['h', 'o', 'w', 'e', 'v', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""however"" end with? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""plastic"" end with? A:","['p', 'l', 'a', 's', 't', 'i', 'c']",c,"UTT_BOUNDARY q: which letter does the word ""plastic"" end with? a:UTT_BOUNDARY cafeteria?", cafeteria?
+"Q: Which letter does the word ""teach"" end with? A:","['t', 'e', 'a', 'c', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""teach"" end with? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Q: Which letter does the word ""polite"" end with? A:","['p', 'o', 'l', 'i', 't', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""polite"" end with? a:UTT_BOUNDARY ekexual""?"," ekexual""?"
+"Write the last letter of the word ""village"": ","['v', 'i', 'l', 'l', 'a', 'g', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""village"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""king""? A:","['k', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""king""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""excellent""? A:","['e', 'x', 'c', 'e', 'l', 'l', 'e', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""excellent""? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: Which letter does the word ""glad"" end with? A:","['g', 'l', 'a', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""glad"" end with? a:UTT_BOUNDARY dined""? a:"," dined""? a:"
+"Write the last letter of the word ""concert"": ","['c', 'o', 'n', 'c', 'e', 'r', 't']",t,"UTT_BOUNDARY write the last letter of the word ""concert"":UTT_BOUNDARY tights is a t", tights is a t
+"Q: Which letter does the word ""which"" end with? A:","['w', 'h', 'i', 'c', 'h']",h,"UTT_BOUNDARY q: which letter does the word ""which"" end with? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Write the last letter of the word ""engineer"": ","['e', 'n', 'g', 'i', 'n', 'e', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""engineer"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: What is the last letter of the word ""tea""? A:","['t', 'e', 'a']",a,"UTT_BOUNDARY q: what is the last letter of the word ""tea""? a:UTT_BOUNDARY a:UTT_BOUNDARY", a:
+"Write the last letter of the word ""grandson"": ","['g', 'r', 'a', 'n', 'd', 's', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""grandson"":UTT_BOUNDARY noodle"", which word"," noodle"", which word"
+"Write the last letter of the word ""weekly"": ","['w', 'e', 'e', 'k', 'l', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""weekly"":UTT_BOUNDARY yogurtis"":"," yogurtis"":"
+"Q: What is the last letter of the word ""second""? A:","['s', 'e', 'c', 'o', 'n', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""second""? a:UTT_BOUNDARY tsk t t t", tsk t t t
+"Write the last letter of the word ""win"": ","['w', 'i', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""win"":UTT_BOUNDARY noodle"", which word"," noodle"", which word"
+"Write the last letter of the word ""delay"": ","['d', 'e', 'l', 'a', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""delay"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: Which letter does the word ""country"" end with? A:","['c', 'o', 'u', 'n', 't', 'r', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""country"" end with? a:UTT_BOUNDARY yogurtical """," yogurtical """
+"Write the last letter of the word ""parent"": ","['p', 'a', 'r', 'e', 'n', 't']",t,"UTT_BOUNDARY write the last letter of the word ""parent"":UTT_BOUNDARY tsk t t t", tsk t t t
+"Q: Which letter does the word ""against"" end with? A:","['a', 'g', 'a', 'i', 'n', 's', 't']",t,"UTT_BOUNDARY q: which letter does the word ""against"" end with? a:UTT_BOUNDARY noodle is a """," noodle is a """
+"Q: Which letter does the word ""about"" end with? A:","['a', 'b', 'o', 'u', 't']",t,"UTT_BOUNDARY q: which letter does the word ""about"" end with? a:UTT_BOUNDARY yogurtical """," yogurtical """
+"Q: What is the last letter of the word ""drum""? A:","['d', 'r', 'u', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""drum""? a:UTT_BOUNDARY mnemon kim", mnemon kim
+"Q: Which letter does the word ""golf"" end with? A:","['g', 'o', 'l', 'f']",f,"UTT_BOUNDARY q: which letter does the word ""golf"" end with? a:UTT_BOUNDARY rink? a:", rink? a:
+"Q: What is the last letter of the word ""pretty""? A:","['p', 'r', 'e', 't', 't', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""pretty""? a:UTT_BOUNDARY yogurt"" from"," yogurt"" from"
+"Q: What is the last letter of the word ""there""? A:","['t', 'h', 'e', 'r', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""there""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""pass""? A:","['p', 'a', 's', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""pass""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: Which letter does the word ""behind"" end with? A:","['b', 'e', 'h', 'i', 'n', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""behind"" end with? a:UTT_BOUNDARY dadda""? a"," dadda""? a"
+"Q: What is the last letter of the word ""swimming""? A:","['s', 'w', 'i', 'm', 'm', 'i', 'n', 'g']",g,"UTT_BOUNDARY q: what is the last letter of the word ""swimming""? a:UTT_BOUNDARY gauntlet""? a"," gauntlet""? a"
+"Q: What is the last letter of the word ""bottom""? A:","['b', 'o', 't', 't', 'o', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""bottom""? a:UTT_BOUNDARY malthus""? a"," malthus""? a"
+"Q: What is the last letter of the word ""silver""? A:","['s', 'i', 'l', 'v', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""silver""? a:UTT_BOUNDARY r? a:UTT_BOUNDARY", r? a:
+"Q: Which letter does the word ""own"" end with? A:","['o', 'w', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""own"" end with? a:UTT_BOUNDARY dina dina p", dina dina p
+"Q: Which letter does the word ""the"" end with? A:","['t', 'h', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""the"" end with? a:UTT_BOUNDARY r s t e?", r s t e?
+"Q: What is the last letter of the word ""take""? A:","['t', 'a', 'k', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""take""? a:UTT_BOUNDARY tights""? a:"," tights""? a:"
+"Q: What is the last letter of the word ""accident""? A:","['a', 'c', 'c', 'i', 'd', 'e', 'n', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""accident""? a:UTT_BOUNDARY t a t a t", t a t a t
+"Q: What is the last letter of the word ""neighbor""? A:","['n', 'e', 'i', 'g', 'h', 'b', 'o', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""neighbor""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Write the last letter of the word ""wife"": ","['w', 'i', 'f', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""wife"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""afraid""? A:","['a', 'f', 'r', 'a', 'i', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""afraid""? a:UTT_BOUNDARY dined""? a:"," dined""? a:"
+"Write the last letter of the word ""group"": ","['g', 'r', 'o', 'u', 'p']",p,"UTT_BOUNDARY write the last letter of the word ""group"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Write the last letter of the word ""bring"": ","['b', 'r', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""bring"":UTT_BOUNDARY ghew"":UTT_BOUNDARY"," ghew"":"
+"Q: What is the last letter of the word ""cigarette""? A:","['c', 'i', 'g', 'a', 'r', 'e', 't', 't', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""cigarette""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""it"": ","['i', 't']",t,"UTT_BOUNDARY write the last letter of the word ""it"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Write the last letter of the word ""grandma"": ","['g', 'r', 'a', 'n', 'd', 'm', 'a']",a,"UTT_BOUNDARY write the last letter of the word ""grandma"":UTT_BOUNDARY dined"":UTT_BOUNDARY"," dined"":"
+"Write the last letter of the word ""guest"": ","['g', 'u', 'e', 's', 't']",t,"UTT_BOUNDARY write the last letter of the word ""guest"":UTT_BOUNDARY tights of the word", tights of the word
+"Write the last letter of the word ""single"": ","['s', 'i', 'n', 'g', 'l', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""single"":UTT_BOUNDARY ego"":UTT_BOUNDARY"," ego"":"
+"Q: Which letter does the word ""line"" end with? A:","['l', 'i', 'n', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""line"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""vegetable"" end with? A:","['v', 'e', 'g', 'e', 't', 'a', 'b', 'l', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""vegetable"" end with? a:UTT_BOUNDARY ecola"" or"," ecola"" or"
+"Write the last letter of the word ""park"": ","['p', 'a', 'r', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""park"":UTT_BOUNDARY kry"":UTT_BOUNDARY"," kry"":"
+"Q: What is the last letter of the word ""subway""? A:","['s', 'u', 'b', 'w', 'a', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""subway""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: Which letter does the word ""over"" end with? A:","['o', 'v', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""over"" end with? a:UTT_BOUNDARY oatesen""? a"," oatesen""? a"
+"Write the last letter of the word ""catch"": ","['c', 'a', 't', 'c', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""catch"":UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Write the last letter of the word ""husband"": ","['h', 'u', 's', 'b', 'a', 'n', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""husband"":UTT_BOUNDARY dina dina p", dina dina p
+"Write the last letter of the word ""brown"": ","['b', 'r', 'o', 'w', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""brown"":UTT_BOUNDARY noodle"":UTT_BOUNDARY"," noodle"":"
+"Write the last letter of the word ""yellow"": ","['y', 'e', 'l', 'l', 'o', 'w']",w,"UTT_BOUNDARY write the last letter of the word ""yellow"":UTT_BOUNDARY ego"":UTT_BOUNDARY"," ego"":"
+"Write the last letter of the word ""alcohol"": ","['a', 'l', 'c', 'o', 'h', 'o', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""alcohol"":UTT_BOUNDARY loosened trade restri", loosened trade restri
+"Q: What is the last letter of the word ""golf""? A:","['g', 'o', 'l', 'f']",f,"UTT_BOUNDARY q: what is the last letter of the word ""golf""? a:UTT_BOUNDARY fiona""? a:"," fiona""? a:"
+"Write the last letter of the word ""king"": ","['k', 'i', 'n', 'g']",g,"UTT_BOUNDARY write the last letter of the word ""king"":UTT_BOUNDARY ging sachin", ging sachin
+"Q: What is the last letter of the word ""give""? A:","['g', 'i', 'v', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""give""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""understand"" end with? A:","['u', 'n', 'd', 'e', 'r', 's', 't', 'a', 'n', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""understand"" end with? a:UTT_BOUNDARY dooliganship", dooliganship
+"Write the last letter of the word ""discount"": ","['d', 'i', 's', 'c', 'o', 'u', 'n', 't']",t,"UTT_BOUNDARY write the last letter of the word ""discount"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Write the last letter of the word ""mom"": ","['m', 'o', 'm']",m,"UTT_BOUNDARY write the last letter of the word ""mom"":UTT_BOUNDARY mio"":UTT_BOUNDARY"," mio"":"
+"Q: Which letter does the word ""wastebasket"" end with? A:","['w', 'a', 's', 't', 'e', 'b', 'a', 's', 'k', 'e', 't']",t,"UTT_BOUNDARY q: which letter does the word ""wastebasket"" end with? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: What is the last letter of the word ""guitar""? A:","['g', 'u', 'i', 't', 'a', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""guitar""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: What is the last letter of the word ""useful""? A:","['u', 's', 'e', 'f', 'u', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""useful""? a:UTT_BOUNDARY loosened trade restri", loosened trade restri
+"Write the last letter of the word ""yeah"": ","['y', 'e', 'a', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""yeah"":UTT_BOUNDARY miogram"":UTT_BOUNDARY"," miogram"":"
+"Q: What is the last letter of the word ""fresh""? A:","['f', 'r', 'e', 's', 'h']",h,"UTT_BOUNDARY q: what is the last letter of the word ""fresh""? a:UTT_BOUNDARY hose""? a:"," hose""? a:"
+"Write the last letter of the word ""pilot"": ","['p', 'i', 'l', 'o', 't']",t,"UTT_BOUNDARY write the last letter of the word ""pilot"":UTT_BOUNDARY tsk t t t", tsk t t t
+"Q: Which letter does the word ""deep"" end with? A:","['d', 'e', 'e', 'p']",p,"UTT_BOUNDARY q: which letter does the word ""deep"" end with? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: What is the last letter of the word ""sometimes""? A:","['s', 'o', 'm', 'e', 't', 'i', 'm', 'e', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""sometimes""? a:UTT_BOUNDARY s s a t s", s s a t s
+"Q: What is the last letter of the word ""fantastic""? A:","['f', 'a', 'n', 't', 'a', 's', 't', 'i', 'c']",c,"UTT_BOUNDARY q: what is the last letter of the word ""fantastic""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Write the last letter of the word ""cool"": ","['c', 'o', 'o', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""cool"":UTT_BOUNDARY loosened"" or"," loosened"" or"
+"Q: What is the last letter of the word ""tomorrow""? A:","['t', 'o', 'm', 'o', 'r', 'r', 'o', 'w']",w,"UTT_BOUNDARY q: what is the last letter of the word ""tomorrow""? a:UTT_BOUNDARY hinges""? a"," hinges""? a"
+"Q: Which letter does the word ""violin"" end with? A:","['v', 'i', 'o', 'l', 'i', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""violin"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Write the last letter of the word ""every"": ","['e', 'v', 'e', 'r', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""every"":UTT_BOUNDARY tights"":UTT_BOUNDARY"," tights"":"
+"Q: Which letter does the word ""anyone"" end with? A:","['a', 'n', 'y', 'o', 'n', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""anyone"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""book"": ","['b', 'o', 'o', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""book"":UTT_BOUNDARY kix"", which word"," kix"", which word"
+"Q: What is the last letter of the word ""toe""? A:","['t', 'o', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""toe""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""winner"": ","['w', 'i', 'n', 'n', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""winner"":UTT_BOUNDARY rink"":UTT_BOUNDARY"," rink"":"
+"Q: What is the last letter of the word ""wait""? A:","['w', 'a', 'i', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""wait""? a:UTT_BOUNDARY wate""? a:"," wate""? a:"
+"Q: What is the last letter of the word ""sorry""? A:","['s', 'o', 'r', 'r', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""sorry""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Q: Which letter does the word ""flight"" end with? A:","['f', 'l', 'i', 'g', 'h', 't']",t,"UTT_BOUNDARY q: which letter does the word ""flight"" end with? a:UTT_BOUNDARY tights 922 and", tights 922 and
+"Q: What is the last letter of the word ""draw""? A:","['d', 'r', 'a', 'w']",w,"UTT_BOUNDARY q: what is the last letter of the word ""draw""? a:UTT_BOUNDARY d of the words """," d of the words """
+"Write the last letter of the word ""video"": ","['v', 'i', 'd', 'e', 'o']",o,"UTT_BOUNDARY write the last letter of the word ""video"":UTT_BOUNDARY ocase"":UTT_BOUNDARY"," ocase"":"
+"Q: What is the last letter of the word ""should""? A:","['s', 'h', 'o', 'u', 'l', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""should""? a:UTT_BOUNDARY d s ead""?"," d s ead""?"
+"Q: What is the last letter of the word ""together""? A:","['t', 'o', 'g', 'e', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""together""? a:UTT_BOUNDARY r o f t e", r o f t e
+"Q: Which letter does the word ""runner"" end with? A:","['r', 'u', 'n', 'n', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""runner"" end with? a:UTT_BOUNDARY rothschild is", rothschild is
+"Q: Which letter does the word ""thanks"" end with? A:","['t', 'h', 'a', 'n', 'k', 's']",s,"UTT_BOUNDARY q: which letter does the word ""thanks"" end with? a:UTT_BOUNDARY sillsics group", sillsics group
+"Q: What is the last letter of the word ""west""? A:","['w', 'e', 's', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""west""? a:UTT_BOUNDARY tucson""? a"," tucson""? a"
+"Q: What is the last letter of the word ""bill""? A:","['b', 'i', 'l', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""bill""? a:UTT_BOUNDARY loosened the table", loosened the table
+"Q: Which letter does the word ""adventure"" end with? A:","['a', 'd', 'v', 'e', 'n', 't', 'u', 'r', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""adventure"" end with? a:UTT_BOUNDARY email"" from the"," email"" from the"
+"Q: What is the last letter of the word ""wild""? A:","['w', 'i', 'l', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""wild""? a:UTT_BOUNDARY dane""? a:"," dane""? a:"
+"Q: What is the last letter of the word ""mail""? A:","['m', 'a', 'i', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""mail""? a:UTT_BOUNDARY l email""? a"," l email""? a"
+"Q: Which letter does the word ""down"" end with? A:","['d', 'o', 'w', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""down"" end with? a:UTT_BOUNDARY dadda"" end"," dadda"" end"
+"Write the last letter of the word ""mouth"": ","['m', 'o', 'u', 't', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""mouth"":UTT_BOUNDARY hose"", which word"," hose"", which word"
+"Write the last letter of the word ""quick"": ","['q', 'u', 'i', 'c', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""quick"":UTT_BOUNDARY noodle"":UTT_BOUNDARY"," noodle"":"
+"Q: Which letter does the word ""site"" end with? A:","['s', 'i', 't', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""site"" end with? a:UTT_BOUNDARY email"" from the"," email"" from the"
+"Write the last letter of the word ""kilometer"": ","['k', 'i', 'l', 'o', 'm', 'e', 't', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""kilometer"":UTT_BOUNDARY rutherford email", rutherford email
+"Write the last letter of the word ""plus"": ","['p', 'l', 'u', 's']",s,"UTT_BOUNDARY write the last letter of the word ""plus"":UTT_BOUNDARY s s a u"":"," s s a u"":"
+"Q: Which letter does the word ""by"" end with? A:","['b', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""by"" end with? a:UTT_BOUNDARY yogurt mastic", yogurt mastic
+"Q: Which letter does the word ""excited"" end with? A:","['e', 'x', 'c', 'i', 't', 'e', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""excited"" end with? a:UTT_BOUNDARY dane"" or """," dane"" or """
+"Write the last letter of the word ""guidebook"": ","['g', 'u', 'i', 'd', 'e', 'b', 'o', 'o', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""guidebook"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: What is the last letter of the word ""breakfast""? A:","['b', 'r', 'e', 'a', 'k', 'f', 'a', 's', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""breakfast""? a:UTT_BOUNDARY tights or a t", tights or a t
+"Write the last letter of the word ""market"": ","['m', 'a', 'r', 'k', 'e', 't']",t,"UTT_BOUNDARY write the last letter of the word ""market"":UTT_BOUNDARY mire"":UTT_BOUNDARY"," mire"":"
+"Q: Which letter does the word ""online"" end with? A:","['o', 'n', 'l', 'i', 'n', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""online"" end with? a:UTT_BOUNDARY email? a:", email? a:
+"Write the last letter of the word ""license"": ","['l', 'i', 'c', 'e', 'n', 's', 'e']",e,"UTT_BOUNDARY write the last letter of the word ""license"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""send"" end with? A:","['s', 'e', 'n', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""send"" end with? a:UTT_BOUNDARY d s e? a", d s e? a
+"Q: Which letter does the word ""supper"" end with? A:","['s', 'u', 'p', 'p', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""supper"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""floor"": ","['f', 'l', 'o', 'o', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""floor"":UTT_BOUNDARY rouse"":UTT_BOUNDARY"," rouse"":"
+"Q: Which letter does the word ""beautiful"" end with? A:","['b', 'e', 'a', 'u', 't', 'i', 'f', 'u', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""beautiful"" end with? a:UTT_BOUNDARY lusangerous to", lusangerous to
+"Q: What is the last letter of the word ""candy""? A:","['c', 'a', 'n', 'd', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""candy""? a:UTT_BOUNDARY yogurt""? a"," yogurt""? a"
+"Write the last letter of the word ""modern"": ","['m', 'o', 'd', 'e', 'r', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""modern"":UTT_BOUNDARY noodle"" or """," noodle"" or """
+"Q: What is the last letter of the word ""ready""? A:","['r', 'e', 'a', 'd', 'y']",y,"UTT_BOUNDARY q: what is the last letter of the word ""ready""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: Which letter does the word ""apartment"" end with? A:","['a', 'p', 'a', 'r', 't', 'm', 'e', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""apartment"" end with? a:UTT_BOUNDARY tessenger""? a"," tessenger""? a"
+"Q: What is the last letter of the word ""elevator""? A:","['e', 'l', 'e', 'v', 'a', 't', 'o', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""elevator""? a:UTT_BOUNDARY rink""? a:"," rink""? a:"
+"Write the last letter of the word ""regular"": ","['r', 'e', 'g', 'u', 'l', 'a', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""regular"":UTT_BOUNDARY runny"", which word"," runny"", which word"
+"Write the last letter of the word ""father"": ","['f', 'a', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""father"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: What is the last letter of the word ""armchair""? A:","['a', 'r', 'm', 'c', 'h', 'a', 'i', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""armchair""? a:UTT_BOUNDARY rutherford""? a"," rutherford""? a"
+"Q: Which letter does the word ""wild"" end with? A:","['w', 'i', 'l', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""wild"" end with? a:UTT_BOUNDARY dane"" or """," dane"" or """
+"Write the last letter of the word ""printer"": ","['p', 'r', 'i', 'n', 't', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""printer"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Q: What is the last letter of the word ""tonight""? A:","['t', 'o', 'n', 'i', 'g', 'h', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""tonight""? a:UTT_BOUNDARY tights of the words", tights of the words
+"Q: Which letter does the word ""noisy"" end with? A:","['n', 'o', 'i', 's', 'y']",y,"UTT_BOUNDARY q: which letter does the word ""noisy"" end with? a:UTT_BOUNDARY yogurt mcil", yogurt mcil
+"Q: What is the last letter of the word ""plastic""? A:","['p', 'l', 'a', 's', 't', 'i', 'c']",c,"UTT_BOUNDARY q: what is the last letter of the word ""plastic""? a:UTT_BOUNDARY cafeteria""?"," cafeteria""?"
+"Write the last letter of the word ""unusual"": ","['u', 'n', 'u', 's', 'u', 'a', 'l']",l,"UTT_BOUNDARY write the last letter of the word ""unusual"":UTT_BOUNDARY loosened trade restri", loosened trade restri
+"Q: What is the last letter of the word ""yet""? A:","['y', 'e', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""yet""? a:UTT_BOUNDARY yogurt kree", yogurt kree
+"Q: What is the last letter of the word ""raincoat""? A:","['r', 'a', 'i', 'n', 'c', 'o', 'a', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""raincoat""? a:UTT_BOUNDARY tightsburger s", tightsburger s
+"Q: What is the last letter of the word ""channel""? A:","['c', 'h', 'a', 'n', 'n', 'e', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""channel""? a:UTT_BOUNDARY laser""? a:"," laser""? a:"
+"Q: What is the last letter of the word ""real""? A:","['r', 'e', 'a', 'l']",l,"UTT_BOUNDARY q: what is the last letter of the word ""real""? a:UTT_BOUNDARY loosened""? a"," loosened""? a"
+"Write the last letter of the word ""old"": ","['o', 'l', 'd']",d,"UTT_BOUNDARY write the last letter of the word ""old"":UTT_BOUNDARY dined"" or """," dined"" or """
+"Write the last letter of the word ""its"": ","['i', 't', 's']",s,"UTT_BOUNDARY write the last letter of the word ""its"":UTT_BOUNDARY sill"":UTT_BOUNDARY"," sill"":"
+"Write the last letter of the word ""hurry"": ","['h', 'u', 'r', 'r', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""hurry"":UTT_BOUNDARY yogurt"":UTT_BOUNDARY"," yogurt"":"
+"Q: What is the last letter of the word ""not""? A:","['n', 'o', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""not""? a:UTT_BOUNDARY tsk t t t", tsk t t t
+"Q: What is the last letter of the word ""list""? A:","['l', 'i', 's', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""list""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""mine"" end with? A:","['m', 'i', 'n', 'e']",e,"UTT_BOUNDARY q: which letter does the word ""mine"" end with? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""call"" end with? A:","['c', 'a', 'l', 'l']",l,"UTT_BOUNDARY q: which letter does the word ""call"" end with? a:UTT_BOUNDARY larker"" or"," larker"" or"
+"Q: What is the last letter of the word ""luggage""? A:","['l', 'u', 'g', 'g', 'a', 'g', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""luggage""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: Which letter does the word ""explain"" end with? A:","['e', 'x', 'p', 'l', 'a', 'i', 'n']",n,"UTT_BOUNDARY q: which letter does the word ""explain"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Write the last letter of the word ""list"": ","['l', 'i', 's', 't']",t,"UTT_BOUNDARY write the last letter of the word ""list"":UTT_BOUNDARY runny"":UTT_BOUNDARY"," runny"":"
+"Q: What is the last letter of the word ""weather""? A:","['w', 'e', 'a', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""weather""? a:UTT_BOUNDARY rink""? a:"," rink""? a:"
+"Q: What is the last letter of the word ""grandmother""? A:","['g', 'r', 'a', 'n', 'd', 'm', 'o', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""grandmother""? a:UTT_BOUNDARY rutuser is", rutuser is
+"Write the last letter of the word ""ready"": ","['r', 'e', 'a', 'd', 'y']",y,"UTT_BOUNDARY write the last letter of the word ""ready"":UTT_BOUNDARY email"":UTT_BOUNDARY"," email"":"
+"Q: Which letter does the word ""us"" end with? A:","['u', 's']",s,"UTT_BOUNDARY q: which letter does the word ""us"" end with? a:UTT_BOUNDARY sutherford""? a"," sutherford""? a"
+"Write the last letter of the word ""week"": ","['w', 'e', 'e', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""week"":UTT_BOUNDARY wily"":UTT_BOUNDARY"," wily"":"
+"Q: What is the last letter of the word ""cross""? A:","['c', 'r', 'o', 's', 's']",s,"UTT_BOUNDARY q: what is the last letter of the word ""cross""? a:UTT_BOUNDARY sallow""? a"," sallow""? a"
+"Q: What is the last letter of the word ""spoon""? A:","['s', 'p', 'o', 'o', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""spoon""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: What is the last letter of the word ""traffic""? A:","['t', 'r', 'a', 'f', 'f', 'i', 'c']",c,"UTT_BOUNDARY q: what is the last letter of the word ""traffic""? a:UTT_BOUNDARY runny""? a:"," runny""? a:"
+"Q: Which letter does the word ""group"" end with? A:","['g', 'r', 'o', 'u', 'p']",p,"UTT_BOUNDARY q: which letter does the word ""group"" end with? a:UTT_BOUNDARY nixon"" or"," nixon"" or"
+"Q: What is the last letter of the word ""nice""? A:","['n', 'i', 'c', 'e']",e,"UTT_BOUNDARY q: what is the last letter of the word ""nice""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Q: What is the last letter of the word ""night""? A:","['n', 'i', 'g', 'h', 't']",t,"UTT_BOUNDARY q: what is the last letter of the word ""night""? a:UTT_BOUNDARY tightsburger""?"," tightsburger""?"
+"Q: What is the last letter of the word ""thin""? A:","['t', 'h', 'i', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""thin""? a:UTT_BOUNDARY email""? a:"," email""? a:"
+"Write the last letter of the word ""back"": ","['b', 'a', 'c', 'k']",k,"UTT_BOUNDARY write the last letter of the word ""back"":UTT_BOUNDARY kool"":UTT_BOUNDARY"," kool"":"
+"Write the last letter of the word ""bus"": ","['b', 'u', 's']",s,"UTT_BOUNDARY write the last letter of the word ""bus"":UTT_BOUNDARY oates"":UTT_BOUNDARY"," oates"":"
+"Q: What is the last letter of the word ""album""? A:","['a', 'l', 'b', 'u', 'm']",m,"UTT_BOUNDARY q: what is the last letter of the word ""album""? a:UTT_BOUNDARY mio""? a:"," mio""? a:"
+"Q: Which letter does the word ""president"" end with? A:","['p', 'r', 'e', 's', 'i', 'd', 'e', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""president"" end with? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Write the last letter of the word ""north"": ","['n', 'o', 'r', 't', 'h']",h,"UTT_BOUNDARY write the last letter of the word ""north"":UTT_BOUNDARY hose"":UTT_BOUNDARY"," hose"":"
+"Q: Which letter does the word ""blackboard"" end with? A:","['b', 'l', 'a', 'c', 'k', 'b', 'o', 'a', 'r', 'd']",d,"UTT_BOUNDARY q: which letter does the word ""blackboard"" end with? a:UTT_BOUNDARY dane""? a:"," dane""? a:"
+"Q: What is the last letter of the word ""green""? A:","['g', 'r', 'e', 'e', 'n']",n,"UTT_BOUNDARY q: what is the last letter of the word ""green""? a:UTT_BOUNDARY noodle""? a:"," noodle""? a:"
+"Q: Which letter does the word ""eat"" end with? A:","['e', 'a', 't']",t,"UTT_BOUNDARY q: which letter does the word ""eat"" end with? a:UTT_BOUNDARY email"" or """," email"" or """
+"Write the last letter of the word ""singer"": ","['s', 'i', 'n', 'g', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""singer"":UTT_BOUNDARY rutherford"":UTT_BOUNDARY"," rutherford"":"
+"Write the last letter of the word ""noon"": ","['n', 'o', 'o', 'n']",n,"UTT_BOUNDARY write the last letter of the word ""noon"":UTT_BOUNDARY nixon"":UTT_BOUNDARY"," nixon"":"
+"Write the last letter of the word ""president"": ","['p', 'r', 'e', 's', 'i', 'd', 'e', 'n', 't']",t,"UTT_BOUNDARY write the last letter of the word ""president"":UTT_BOUNDARY t n t t t", t n t t t
+"Q: Which letter does the word ""print"" end with? A:","['p', 'r', 'i', 'n', 't']",t,"UTT_BOUNDARY q: which letter does the word ""print"" end with? a:UTT_BOUNDARY tights 924 and", tights 924 and
+"Q: Which letter does the word ""printer"" end with? A:","['p', 'r', 'i', 'n', 't', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""printer"" end with? a:UTT_BOUNDARY rarity""? a"," rarity""? a"
+"Q: What is the last letter of the word ""refrigerator""? A:","['r', 'e', 'f', 'r', 'i', 'g', 'e', 'r', 'a', 't', 'o', 'r']",r,"UTT_BOUNDARY q: what is the last letter of the word ""refrigerator""? a:UTT_BOUNDARY rarity""? a"," rarity""? a"
+"Write the last letter of the word ""silver"": ","['s', 'i', 'l', 'v', 'e', 'r']",r,"UTT_BOUNDARY write the last letter of the word ""silver"":UTT_BOUNDARY r and d"":UTT_BOUNDARY"," r and d"":"
+"Q: What is the last letter of the word ""fried""? A:","['f', 'r', 'i', 'e', 'd']",d,"UTT_BOUNDARY q: what is the last letter of the word ""fried""? a:UTT_BOUNDARY dagger""? a:"," dagger""? a:"
+"Q: Which letter does the word ""tomato"" end with? A:","['t', 'o', 'm', 'a', 't', 'o']",o,"UTT_BOUNDARY q: which letter does the word ""tomato"" end with? a:UTT_BOUNDARY oates ecost", oates ecost
+"Q: Which letter does the word ""brother"" end with? A:","['b', 'r', 'o', 't', 'h', 'e', 'r']",r,"UTT_BOUNDARY q: which letter does the word ""brother"" end with? a:UTT_BOUNDARY rutherford? a", rutherford? a
