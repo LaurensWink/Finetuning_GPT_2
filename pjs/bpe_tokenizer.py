@@ -6,7 +6,7 @@ from tokenizers import (
     trainers,
     Tokenizer)
 from tokenizers.normalizers import Lowercase, Strip, NFC, Sequence
-from transformers import LlamaTokenizerFast, PreTrainedTokenizerFast
+from transformers import LlamaTokenizerFast
 
 def gen_bpe_de_tokenizer(train_data, save_dir):
     special_tokens = ["PAD", "UNK", "UTT_BOUNDARY"]

@@ -1,7 +1,7 @@
 import csv
 import os
 import re
-from transformers import LlamaForCausalLM, GPT2LMHeadModel
+from transformers import LlamaForCausalLM
 import outlines
 import unicodedata
 from tokenizers.normalizers import Lowercase, Sequence, Replace, NFC, Strip

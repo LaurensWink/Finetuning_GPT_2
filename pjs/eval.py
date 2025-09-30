@@ -55,3 +55,35 @@ def evaluate(dir_path, file_name):
 
     results_df.to_csv(output_file, index=False)
     logger.info(f"{output_file} created.")
+
+def eval_mblimp(dir_path, file_name="mblimp_results.csv"):
+    dir_path = Path(dir_path) 
+    output_metrics = []
+
+    if not dir_path.exists():
+        logger.error(f"{dir_path} does not exisit.")
+        return
+
+    for file in dir_path.iterdir():
+        print(file)
+        df = pd.read_csv(file)
+        score = df["Score"].astype(int)
+
+        y_true = [1] * len(df) 
+        y_pred = score
+
+        accuracy = accuracy_score(y_true, y_pred)
+
+        output_metrics.append({
+            "Model": file.name,
+            "MBlimp_Accuracy": accuracy,
+        })
+
+    results_df = pd.DataFrame(output_metrics)
+    output_dir = "data/results/"
+    output_file = Path(f"{output_dir}{file_name}.csv")
+    os.makedirs(os.path.dirname(output_dir) or ".", exist_ok=True)
+    if output_file.exists():
+        logger.warning(f"'{output_file}' does already exist, it will be overwritten.")
+    results_df.to_csv(output_file, index=False)
+    logger.info(f"{output_file} created.")
