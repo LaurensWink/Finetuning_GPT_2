@@ -36,7 +36,6 @@ class Data():
                     data_frame = pd.DataFrame(data)
                     
                     self.files[path.name] = data_frame
-                    logger.info(f"Successfully loaded 'examples' from: {path}")
                 else:
                     logger.warning(f"'examples' key not found in {path}")
             
@@ -44,7 +43,7 @@ class Data():
                 logger.error(f"Error decoding JSON in {path}: {e}")
             except Exception as e:
                 logger.error(f"Unexpected error with {path}: {e}")
-
+        logger.info(f"Successfully loaded existing data")
 
     def extract_choices(self, metadata):
         if "n1" in metadata and "n2" in metadata:
@@ -140,12 +139,12 @@ class Data():
 
                     split_data[base_name][split_type] = df
 
-                    logger.info(f"loaded: {filename}")
-
         except Exception as e:
             logger.error(f"Error while loading splits: {e}")
 
         self.split_data = split_data
+
+        logger.info(f"loaded split succesfully")
 
 
     def get_tokenised_dict(self, tokenizer) -> dict:
