@@ -227,4 +227,4 @@ mblimp(BASELINE_MODEL_NAME_EN, TOKENIZER_BASELINE_EN, Language.EN, device, "base
 MBLIMP_DIR = "data/mblimp"
 eval_mblimp(MBLIMP_DIR)
 OUTPUT_OUTLINES_DIR = "data/outputs_outlines"
-evaluate(OUTPUT_OUTLINES_DIR , "outlines_data_results")
+evaluate(OUTPUT_OUTLINES_DIR)

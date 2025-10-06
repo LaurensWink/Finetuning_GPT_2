@@ -5,7 +5,7 @@ from pathlib import Path
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import unicodedata
 
-def evaluate(dir_path, file_name):
+def evaluate(dir_path, file_name="outlines_data_results"):
     dir_path = Path(dir_path) 
     output_metrics = []
 
@@ -33,17 +33,12 @@ def evaluate(dir_path, file_name):
 
             df["Correct"] = (expected == predicted).map({True: "richtig", False: "falsch"})
 
-            y_true = ["richtig"] * len(df) 
-            y_pred = df["Correct"]
-
-            accuracy = accuracy_score(y_true, y_pred)
-            recall = recall_score(y_true, y_pred, pos_label="richtig")
+            accuracy = (df["Correct"] == "richtig").mean()
 
             output_metrics.append({
                 "Subfolder": subfolder.name,
                 "File": file.name,
-                "Accuracy": accuracy,
-                "Recall (macro)": recall,
+                "Accuracy": accuracy
             })
 
     results_df = pd.DataFrame(output_metrics)
@@ -87,3 +82,52 @@ def eval_mblimp(dir_path, file_name="mblimp_results.csv"):
         logger.warning(f"'{output_file}' does already exist, it will be overwritten.")
     results_df.to_csv(output_file, index=False)
     logger.info(f"{output_file} created.")
+
+def eval_raw(dir_path, file_name="raw_data_results"):
+    dir_path = Path(dir_path) 
+    output_metrics = []
+
+    if not dir_path.exists():
+        logger.error(f"{dir_path} does not exisit.")
+        return
+
+    for subfolder in dir_path.iterdir():
+        if not subfolder.is_dir():
+            continue
+
+        for file in subfolder.iterdir():
+            if file.suffix != ".csv":
+                logger.warning(f"{file.name} is no csv file.")
+                continue
+
+            df = pd.read_csv(file)
+            
+            # Replace NaN -> no answer was generated
+            dummy_label = "__MISSING__"
+            df["Predicted"] = df["Predicted"].fillna(dummy_label)
+
+            df["Correct"] = df.apply(
+                lambda row: "richtig" if str(row["Expected"]) in str(row["Predicted"]) else "falsch",
+                axis=1
+            )
+
+            accuracy = (df["Correct"] == "richtig").mean()
+
+            output_metrics.append({
+                "Subfolder": subfolder.name,
+                "File": file.name,
+                "Accuracy": accuracy,
+            })
+
+    results_df = pd.DataFrame(output_metrics)
+    output_dir = "data/results/"
+    output_file = Path(f"{output_dir}{file_name}.csv")
+    os.makedirs(output_dir, exist_ok=True)
+    if output_file.exists():
+        logger.warning(f"'{output_file}' does already exist, it will be overwritten.")
+
+    results_df.to_csv(output_file, index=False)
+    logger.info(f"{output_file} created.")
+
+eval_raw("data/outputs_raw")
+evaluate("data/outputs_outlines")
