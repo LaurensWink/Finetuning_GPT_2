@@ -60,14 +60,12 @@ def eval_mblimp(dir_path, file_name="mblimp_results.csv"):
         return
 
     for file in dir_path.iterdir():
-        print(file)
         df = pd.read_csv(file)
         score = df["Score"].astype(int)
 
-        y_true = [1] * len(df) 
         y_pred = score
 
-        accuracy = accuracy_score(y_true, y_pred)
+        accuracy = y_pred.mean()
 
         output_metrics.append({
             "Model": file.name,
@@ -128,6 +126,3 @@ def eval_raw(dir_path, file_name="raw_data_results"):
 
     results_df.to_csv(output_file, index=False)
     logger.info(f"{output_file} created.")
-
-eval_raw("data/outputs_raw")
-evaluate("data/outputs_outlines")
