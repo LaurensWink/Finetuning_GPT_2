@@ -23,11 +23,60 @@ token_counts = data.get_token_count()
 logger.info(f'The dataset contains {token_counts} tokens')
 
 ### BASELINE MODEL DE ###
-BASELINE_MODEL_NAME_DE = "LSX-UniWue/LLaMmlein_1B"
-TOKENIZER_BASELINE_DE = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE)
+BASELINE_MODEL_NAME_DE_01 = "LSX-UniWue/LLaMmlein_1B"
+TOKENIZER_BASELINE_DE_01 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_01)
 for task in split_data:
     test_data = split_data[task]['test']
-    test_model_outlines(BASELINE_MODEL_NAME_DE, TOKENIZER_BASELINE_DE, test_data, 'data/outputs_outlines/baseline_model_de', task.split('.')[0], False)
+    test_model_outlines(BASELINE_MODEL_NAME_DE_01, TOKENIZER_BASELINE_DE_01, test_data, 'data/outputs_outlines/baseline_LLaMmlein_1B_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_02 = "meta-llama/Llama-3.2-1B"
+TOKENIZER_BASELINE_DE_02 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_02)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_02, TOKENIZER_BASELINE_DE_02, test_data, 'data/outputs_outlines/baseline_Llama-3.2-1B_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_03 = "meta-llama/Llama-3.2-1B-Instruct"
+TOKENIZER_BASELINE_DE_03 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_03)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_03, TOKENIZER_BASELINE_DE_03, test_data, 'data/outputs_outlines/baseline_Llama-3.2-1B-Instruct_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_04 = "HuggingFaceTB/SmolLM2-135M"
+TOKENIZER_BASELINE_DE_04 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_04)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_04, TOKENIZER_BASELINE_DE_04, test_data, 'data/outputs_outlines/baseline_SmolLM2-135M_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_05 = "HuggingFaceTB/SmolLM2-135M-Instruct"
+TOKENIZER_BASELINE_DE_05 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_05)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_05, TOKENIZER_BASELINE_DE_05, test_data, 'data/outputs_outlines/baseline_SmolLM2-135M-Instruct_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_06 = "HuggingFaceTB/SmolLM2-360M"
+TOKENIZER_BASELINE_DE_06 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_06)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_06, TOKENIZER_BASELINE_DE_06, test_data, 'data/outputs_outlines/baseline_SmolLM2-360M_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_07 = "HuggingFaceTB/SmolLM2-360M-Instruct"
+TOKENIZER_BASELINE_DE_07 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_07)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_07, TOKENIZER_BASELINE_DE_07, test_data, 'data/outputs_outlines/baseline_SmolLM2-360M-Instruct_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_08 = "HuggingFaceTB/SmolLM2-1.7B"
+TOKENIZER_BASELINE_DE_08 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_08)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_08, TOKENIZER_BASELINE_DE_08, test_data, 'data/outputs_outlines/baseline_SmolLM2-1.7B_de', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_DE_09 = "HuggingFaceTB/SmolLM2-1.7B-Instruct"
+TOKENIZER_BASELINE_DE_09 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_09)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_DE_09, TOKENIZER_BASELINE_DE_09, test_data, 'data/outputs_outlines/baseline_SmolLM2-1.7B-Instruct_de', task.split('.')[0], False)
+
 
 ### CHAR BASE-MODEL DE ###
 BASE_CHAR_MODEL_NAME_DE = "data/models/baby_lm_de_char/model/final"
@@ -121,11 +170,53 @@ token_counts = data.get_token_count()
 logger.info(f'The dataset contains {token_counts} tokens')
 
 ### BASELINE MODEL EN ###
-BASELINE_MODEL_NAME_EN = "meta-llama/Llama-3.2-1B"
-TOKENIZER_BASELINE_EN = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN)
+BASELINE_MODEL_NAME_EN_01 = "meta-llama/Llama-3.2-1B"
+TOKENIZER_BASELINE_EN_01 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_01)
 for task in split_data:
     test_data = split_data[task]['test']
-    test_model_outlines(BASELINE_MODEL_NAME_EN, TOKENIZER_BASELINE_EN, test_data, 'data/outputs_outlines/baseline_model_en', task.split('.')[0], False)
+    test_model_outlines(BASELINE_MODEL_NAME_EN_01, TOKENIZER_BASELINE_EN_01, test_data, 'data/outputs_outlines/baseline_Llama-3.2-1B_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_02 = "meta-llama/Llama-3.2-1B-Instruct"
+TOKENIZER_BASELINE_EN_02 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_02)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_02, TOKENIZER_BASELINE_EN_02, test_data, 'data/outputs_outlines/baseline_Llama-3.2-1B-Instruct_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_03 = "HuggingFaceTB/SmolLM2-135M"
+TOKENIZER_BASELINE_EN_03 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_03)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_03, TOKENIZER_BASELINE_EN_03, test_data, 'data/outputs_outlines/baseline_SmolLM2-135M_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_04 = "HuggingFaceTB/SmolLM2-135M-Instruct"
+TOKENIZER_BASELINE_EN_04 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_04)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_04, TOKENIZER_BASELINE_EN_04, test_data, 'data/outputs_outlines/baseline_SmolLM2-135M-Instruct_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_05 = "HuggingFaceTB/SmolLM2-360M"
+TOKENIZER_BASELINE_EN_05 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_05)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_05, TOKENIZER_BASELINE_EN_05, test_data, 'data/outputs_outlines/baseline_SmolLM2-360M_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_06 = "HuggingFaceTB/SmolLM2-360M-Instruct"
+TOKENIZER_BASELINE_EN_06 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_06)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_06, TOKENIZER_BASELINE_EN_06, test_data, 'data/outputs_outlines/baseline_SmolLM2-360M-Instruct_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_07 = "HuggingFaceTB/SmolLM2-1.7B"
+TOKENIZER_BASELINE_EN_07 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_07)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_07, TOKENIZER_BASELINE_EN_07, test_data, 'data/outputs_outlines/baseline_SmolLM2-1.7B_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_08 = "HuggingFaceTB/SmolLM2-1.7B-Instruct"
+TOKENIZER_BASELINE_EN_08 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_08)
+for task in split_data:
+    test_data = split_data[task]['test']
+    test_model_outlines(BASELINE_MODEL_NAME_EN_08, TOKENIZER_BASELINE_EN_08, test_data, 'data/outputs_outlines/baseline_SmolLM2-1.7B-Instruct_en', task.split('.')[0], False)
 
 ### CHAR BASE-MODEL EN ###
 BASE_CHAR_MODEL_NAME_EN = "data/models/baby_lm_en_char/model/final"
@@ -216,13 +307,29 @@ mblimp(BASE_BPE_MODEL_NAME_DE, TOKENIZER_DE_BPE, Language.DE, device, "baby_lm_d
 mblimp(BASE_CHAR_MODEL_NAME_DE, TOKENIZER_CHAR, Language.DE, device, "baby_lm_de_char")
 mblimp(FULL_DATA_FINETUNED_MODEL_PATH_BPE_DE, TOKENIZER_DE_BPE, Language.DE, device, "full_data_train_de_bpe")
 mblimp(FULL_DATA_FINETUNED_MODEL_PATH_CHAR_DE, TOKENIZER_CHAR, Language.DE, device, "full_data_train_de_char")
-mblimp(BASELINE_MODEL_NAME_DE, TOKENIZER_BASELINE_DE, Language.DE, device, "baseline_model_de")
+mblimp(BASELINE_MODEL_NAME_DE_01, TOKENIZER_BASELINE_DE_01, Language.DE, device, "baseline_LLaMmlein_1B_de")
+mblimp(BASELINE_MODEL_NAME_DE_02, TOKENIZER_BASELINE_DE_02, Language.DE, device, "baseline_Llama-3.2-1B_de")
+mblimp(BASELINE_MODEL_NAME_DE_03, TOKENIZER_BASELINE_DE_03, Language.DE, device, "baseline_Llama-3.2-1B-Instruct_de")
+mblimp(BASELINE_MODEL_NAME_DE_04, TOKENIZER_BASELINE_DE_04, Language.DE, device, "baseline_SmolLM2-135M_de")
+mblimp(BASELINE_MODEL_NAME_DE_05, TOKENIZER_BASELINE_DE_05, Language.DE, device, "baseline_SmolLM2-135M-Instruct_de")
+mblimp(BASELINE_MODEL_NAME_DE_06, TOKENIZER_BASELINE_DE_06, Language.DE, device, "baseline_SmolLM2-360M_de")
+mblimp(BASELINE_MODEL_NAME_DE_07, TOKENIZER_BASELINE_DE_07, Language.DE, device, "baseline_SmolLM2-360M-Instruct_de")
+mblimp(BASELINE_MODEL_NAME_DE_08, TOKENIZER_BASELINE_DE_07, Language.DE, device, "baseline_SmolLM2-1.7B_de")
+mblimp(BASELINE_MODEL_NAME_DE_09, TOKENIZER_BASELINE_DE_08, Language.DE, device, "baseline_SmolLM2-1.7B-Instruct_de")
 
 mblimp(BASE_BPE_MODEL_NAME_EN, TOKENIZER_EN_BPE, Language.EN, device, "baby_lm_en_bpe")
 mblimp(BASE_CHAR_MODEL_NAME_EN, TOKENIZER_CHAR, Language.EN, device, "baby_lm_en_char")
 mblimp(FULL_DATA_FINETUNED_MODEL_PATH_BPE_EN, TOKENIZER_EN_BPE, Language.EN, device, "full_data_train_en_bpe")
 mblimp(FULL_DATA_FINETUNED_MODEL_PATH_CHAR_EN, TOKENIZER_CHAR, Language.EN, device, "full_data_train_en_char")
-mblimp(BASELINE_MODEL_NAME_EN, TOKENIZER_BASELINE_EN, Language.EN, device, "baseline_model_en")
+mblimp(BASELINE_MODEL_NAME_EN_01, TOKENIZER_BASELINE_EN_01, Language.EN, device, "baseline_Llama-3.2-1B_en")
+mblimp(BASELINE_MODEL_NAME_EN_02, TOKENIZER_BASELINE_EN_02, Language.EN, device, "baseline_Llama-3.2-1B-Instruct_en")
+mblimp(BASELINE_MODEL_NAME_EN_03, TOKENIZER_BASELINE_EN_03, Language.EN, device, "baseline_SmolLM2-135M_en")
+mblimp(BASELINE_MODEL_NAME_EN_04, TOKENIZER_BASELINE_EN_04, Language.EN, device, "baseline_SmolLM2-135M-Instruct_en")
+mblimp(BASELINE_MODEL_NAME_EN_05, TOKENIZER_BASELINE_EN_05, Language.EN, device, "baseline_SmolLM2-360M_en")
+mblimp(BASELINE_MODEL_NAME_EN_06, TOKENIZER_BASELINE_EN_06, Language.EN, device, "baseline_SmolLM2-360M-Instruct_en")
+mblimp(BASELINE_MODEL_NAME_EN_07, TOKENIZER_BASELINE_EN_07, Language.EN, device, "baseline_SmolLM2-1.7B_en")
+mblimp(BASELINE_MODEL_NAME_EN_08, TOKENIZER_BASELINE_EN_08, Language.EN, device, "baseline_SmolLM2-1.7B-Instruct_en")
+
 
 MBLIMP_DIR = "data/mblimp"
 eval_mblimp(MBLIMP_DIR)
