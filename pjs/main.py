@@ -80,29 +80,28 @@ logger.info(f'The dataset contains {token_counts} tokens')
 # BASELINE_MODEL_NAME_DE_10 = "meta-llama/Llama-3.2-3B"
 # TOKENIZER_BASELINE_DE_10 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_DE_10)
 do = [
-#         "word_before.json",
-#        "less_letters_length_diff_3plus.json", 
-#         "less_letters.json", 
-#         "more_letters_length_diff_1.json", 
-#         "word_after.json", 
+        "word_before.json",
+       "less_letters_length_diff_3plus.json", 
+        "less_letters.json", 
+        "more_letters_length_diff_1.json", 
+        "word_after.json", 
 
-        # "more_letters.json",
+        "more_letters.json",
         "less_letters_length_diff_1.json",
         "first_alphabetically.json",
         "first_word.json",
         "first_letter.json",
 
-        # "first_alphabetically_same_first_letter.json",
-        # "bigger_number.json",
-        # "last_letter.json",
-        # "first_alphabetically_consecutive_first_letter.json",
-        # "first_alphabetically_different_first_letter.json",
+        "first_alphabetically_same_first_letter.json",
+        "bigger_number.json",
+        "first_alphabetically_consecutive_first_letter.json",
+        "first_alphabetically_different_first_letter.json",
 
-        # "first_alphabetically_far_first_letter.json",
-        # "last_letter.json",
-        # "last_word.json",
-        # "more_letters_length_diff_3plus.json",
-        # "smaller_number.json"
+        "first_alphabetically_far_first_letter.json",
+        "last_letter.json",
+        "last_word.json",
+        "more_letters_length_diff_3plus.json",
+        "smaller_number.json"
         ]
 
 # for task in split_data:
@@ -252,25 +251,24 @@ logger.info(f'The dataset contains {token_counts} tokens')
 
 
 
-BASELINE_MODEL_NAME_EN_08 = "HuggingFaceTB/SmolLM2-1.7B-Instruct"
-TOKENIZER_BASELINE_EN_08 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_08)
-for task in split_data:
-        if task == "more_letters.json":
-            test_data = split_data[task]['test']
-            test_model_outlines(BASELINE_MODEL_NAME_EN_08, TOKENIZER_BASELINE_EN_08, test_data, 'data/outputs_outlines/baseline_SmolLM2-1.7B-Instruct_en', task.split('.')[0], False)
-
-BASELINE_MODEL_NAME_EN_09 = "meta-llama/Llama-3.2-3B"
-TOKENIZER_BASELINE_EN_09 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_09)
-for task in split_data:
-        if task in do:
-                test_data = split_data[task]['test']
-                test_model_outlines(BASELINE_MODEL_NAME_EN_09, TOKENIZER_BASELINE_EN_09, test_data, 'data/outputs_outlines/baseline_Llama-3.2-3B_en', task.split('.')[0], False)
-
-# BASELINE_MODEL_NAME_EN_10 = "meta-llama/Llama-3.2-3B-Instruct"
-# TOKENIZER_BASELINE_EN_10 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_10)
+# BASELINE_MODEL_NAME_EN_08 = "HuggingFaceTB/SmolLM2-1.7B-Instruct"
+# TOKENIZER_BASELINE_EN_08 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_08)
 # for task in split_data:
 #         test_data = split_data[task]['test']
-#         test_model_outlines(BASELINE_MODEL_NAME_EN_10, TOKENIZER_BASELINE_EN_10, test_data, 'data/outputs_outlines/baseline_Llama-3.2-3B-Instruct_en', task.split('.')[0], False)
+#         test_model_outlines(BASELINE_MODEL_NAME_EN_08, TOKENIZER_BASELINE_EN_08, test_data, 'data/outputs_outlines/baseline_SmolLM2-1.7B-Instruct_en', task.split('.')[0], False)
+
+# BASELINE_MODEL_NAME_EN_09 = "meta-llama/Llama-3.2-3B"
+# TOKENIZER_BASELINE_EN_09 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_09)
+# for task in split_data:
+#         test_data = split_data[task]['test']
+#         test_model_outlines(BASELINE_MODEL_NAME_EN_09, TOKENIZER_BASELINE_EN_09, test_data, 'data/outputs_outlines/baseline_Llama-3.2-3B_en', task.split('.')[0], False)
+
+BASELINE_MODEL_NAME_EN_10 = "meta-llama/Llama-3.2-3B-Instruct"
+TOKENIZER_BASELINE_EN_10 = AutoTokenizer.from_pretrained(BASELINE_MODEL_NAME_EN_10)
+for task in split_data:
+        if not task in do:
+                test_data = split_data[task]['test']
+                test_model_outlines(BASELINE_MODEL_NAME_EN_10, TOKENIZER_BASELINE_EN_10, test_data, 'data/outputs_outlines/baseline_Llama-3.2-3B-Instruct_en', task.split('.')[0], False)
 
 
 
@@ -399,5 +397,5 @@ for task in split_data:
 
 # MBLIMP_DIR = "data/mblimp"
 # eval_mblimp(MBLIMP_DIR)
-# OUTPUT_OUTLINES_DIR = "data/outputs_outlines"
-# evaluate(OUTPUT_OUTLINES_DIR)
+OUTPUT_OUTLINES_DIR = "data/outputs_outlines"
+evaluate(OUTPUT_OUTLINES_DIR)
