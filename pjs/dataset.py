@@ -151,6 +151,9 @@ class Data():
         '''Function to get a tokenised dict from data split'''
         tokenised_dict = {}
 
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+
         for key in self.split_data:
             inputs = self.split_data[key]['train']['input'].astype(str).tolist()
             outputs = self.split_data[key]['train']['output'].astype(str).tolist()
